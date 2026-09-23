@@ -120,92 +120,13 @@ Organizations can obtain a certificate with their level on the Ladder, which the
 
 <br>As can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. **By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price.**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header">
-    <tbody>
-      <tr style="background:var(--color-bg-red)">
-        <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>COMPANY</strong></span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>ENTRY PRICE</strong></span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>LEVEL ON THE LADDER</strong></span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>DISCOUNT / AWARD ADVANTAGE</strong></span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>PRICE AFTER APPLYING ADVANTAGE</strong></span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>AWARD THE CONTRACT </strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.7 million</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">none</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.7 million</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10 million</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.6 million</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10.3 million</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.58 million</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">YES: € 10.3 million</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 113.23 110.23 125.23 187.23 142.23 154.23 col-header %}
+{red} | {default} **COMPANY** | {default} **ENTRY PRICE** | {default} **LEVEL ON THE LADDER** | {default} **DISCOUNT / AWARD ADVANTAGE** | {default} **PRICE AFTER APPLYING ADVANTAGE** | {default} **AWARD THE CONTRACT**  |
+|---|---|---|---|---|---|
+| A | € 9.7 million | none | 0% | € 9.7 million | NO |
+| B | € 10 million | 3 | 4% | € 9.6 million | NO |
+| C | € 10.3 million | 4 | 7% | € 9.58 million | YES: € 10.3 million |
+{% endtable %}
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

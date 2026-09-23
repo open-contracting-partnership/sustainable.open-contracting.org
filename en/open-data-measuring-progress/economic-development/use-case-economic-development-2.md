@@ -122,90 +122,14 @@ Buyers can identify categories of interest and measure the growth based on contr
 
 ## What can you do in your organisation?
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">No code</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Low code</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Code</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Option 1: Measure contracts awarded</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).
-
-Use Silver Eye to turn this data into OCDS.</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Create dashboards that allow analysis of buyers, suppliers, categories.
-
-Create flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Link contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings)</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Option 2: Measure commitments to local job creation by suppliers</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">As part of the spreadsheets for contracts, add supplier addresses. Where this is not available, mandate these from suppliers as part of tendering and contracting.</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Extend the dashboards to show outflow of money and assignment of contracts to local businesses, based on ZIP codes or other address data provided.</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Create regional dashboards that use machine learning geolocation to show where contract monies are being spent (thereby relying less on data entry).
-
-Break down spend by region down to ZIP code, creating heat maps that show where investment and monies are going and overlapping these heat maps with other measures such as deprivation indexes, location of minority owned businesses.</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Option 3: Look for local firms used by other parts of government</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Securely share spreadsheets through inter-departmental or inter-authority open data agreements</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Identify local suppliers through contracts databases</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Create a ‘recommendation list’ (e.g. have you considered X?) for buyers when choosing supplier lists</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Option 4: Measure contracts to high growth industries</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">For top spend contracts, manually read through specifications to identify sectors
-
-As part of contract publishing, assign a pre-defined category.</span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Set up a contract opportunities website. Extend the data format in contract opportunities website to include category? </span></div>
-        </td>
-        <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Apply an auto-classification label to tenders and contracts and compare with data from national statistics around growth sectors.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 174.5 174.5 174.5 174.5 col-header row-header %}
+| {default}  | {orange} No code | {yellow} Low code | {green} Code |
+|---|---|---|---|
+| Option 1: Measure contracts awarded | {orange} Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).<br><br>Use Silver Eye to turn this data into OCDS. | {yellow} Create dashboards that allow analysis of buyers, suppliers, categories.<br><br>Create flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs | {green} Link contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings) |
+| Option 2: Measure commitments to local job creation by suppliers | {orange} As part of the spreadsheets for contracts, add supplier addresses. Where this is not available, mandate these from suppliers as part of tendering and contracting. | {yellow} Extend the dashboards to show outflow of money and assignment of contracts to local businesses, based on ZIP codes or other address data provided. | {green} Create regional dashboards that use machine learning geolocation to show where contract monies are being spent (thereby relying less on data entry).<br><br>Break down spend by region down to ZIP code, creating heat maps that show where investment and monies are going and overlapping these heat maps with other measures such as deprivation indexes, location of minority owned businesses. |
+| Option 3: Look for local firms used by other parts of government | {orange} Securely share spreadsheets through inter-departmental or inter-authority open data agreements | {yellow} Identify local suppliers through contracts databases | {green} Create a ‘recommendation list’ (e.g. have you considered X?) for buyers when choosing supplier lists |
+| Option 4: Measure contracts to high growth industries | {orange} For top spend contracts, manually read through specifications to identify sectors<br><br>As part of contract publishing, assign a pre-defined category. | {yellow} Set up a contract opportunities website. Extend the data format in contract opportunities website to include category?  | {green} Apply an auto-classification label to tenders and contracts and compare with data from national statistics around growth sectors. |
+{% endtable %}
 
 ## Goals for implementers
 

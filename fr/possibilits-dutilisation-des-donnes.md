@@ -27,42 +27,11 @@ Vous devez pour cela définir clairement chacune de ces catégories. Par exemple
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 1 : étiqueter les marchés</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Passer manuellement en revue les avis de marché et déterminer s’il s’agit de marchés publics durables ou non.
-
-L’entité responsable ajoute une mention pour signaler les processus entrant dans la catégorie des marchés publics durables.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ajouter une mention pour signaler les marchés publics durables dans des registres.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utiliser l’apprentissage automatique pour repérer les marchés publics durables à l’aide de la programmation en analysant les spécifications. Appliquer cette méthode aux marchés antérieurs afin d’augmenter la base de données pour effectuer des analyses.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 1 : étiqueter les marchés** | {orange} Passer manuellement en revue les avis de marché et déterminer s’il s’agit de marchés publics durables ou non.<br><br>L’entité responsable ajoute une mention pour signaler les processus entrant dans la catégorie des marchés publics durables. | {yellow} Ajouter une mention pour signaler les marchés publics durables dans des registres. | {green} Utiliser l’apprentissage automatique pour repérer les marchés publics durables à l’aide de la programmation en analysant les spécifications. Appliquer cette méthode aux marchés antérieurs afin d’augmenter la base de données pour effectuer des analyses. |
+{% endtable %}
 
 ### **Possibilité 2 : renforcer l’efficacité des politiques grâce à des alertes et des notifications**
 
@@ -70,40 +39,11 @@ Grâce à une analyse manuelle ou informatique des données, les entités adjudi
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 2 : renforcer l’efficacité des politiques grâce à des alertes et des notifications</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Analyser manuellement les marchés publics durables recensés grâce à la Possibilité 1 et demander aux acheteurs de justifier leurs mauvaises performances le cas échéant.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Employer des outils d’analyse afin de recenser les marchés publics durables et contacter les acheteurs, tel que <a href="https://vpt.lrv.lt/lt/svieslente" class="notion-link link" target="_blank" rel="noopener noreferrer">le tableau de bord des achats écologiques du gouvernement lituanien</a> (voir aussi <a class="notion-link link" href="/2a761699c5bd4a6696bf2b6ed43b2057">cette étude de cas</a>).</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utiliser l’apprentissage automatique pour collecter et analyser des données relatives aux marchés et aux spécifications en fonction de certains paramètres (si une organisation est concernée ou non, si un avis de marché est dupliqué) et envoyer des alertes aux acheteurs qui ont les moins bons résultats.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 2 : renforcer l’efficacité des politiques grâce à des alertes et des notifications** | {orange} Analyser manuellement les marchés publics durables recensés grâce à la Possibilité 1 et demander aux acheteurs de justifier leurs mauvaises performances le cas échéant. | {yellow} Employer des outils d’analyse afin de recenser les marchés publics durables et contacter les acheteurs, tel que [le tableau de bord des achats écologiques du gouvernement lituanien](https://vpt.lrv.lt/lt/svieslente) (voir aussi [cette étude de cas](/2a761699c5bd4a6696bf2b6ed43b2057)). | {green} Utiliser l’apprentissage automatique pour collecter et analyser des données relatives aux marchés et aux spécifications en fonction de certains paramètres (si une organisation est concernée ou non, si un avis de marché est dupliqué) et envoyer des alertes aux acheteurs qui ont les moins bons résultats. |
+{% endtable %}
 
 ### **Possibilité 3 : analyser les marchés attribués**
 
@@ -111,44 +51,11 @@ Les acheteurs peuvent évaluer la valeur et le nombre de marchés considérés c
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 3 : analyser les marchés attribués</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Suivre et contrôler les marchés attribués dans des tableurs simples et des outils d’analyse courants (par exemple Excel).
-
-Utiliser des outils comme Silvereye pour convertir ces données au format OCDS.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Créer des tableaux de bord afin de faire des analyses sur les acheteurs, les fournisseurs et les catégories de marchés.
-
-Créer des signaux dans les registres ou portails de marchés concernant des indicateurs économiques essentiels, par exemple pour les entreprises détenues par des membres de minorités ou les PME.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Relier les données relatives aux attributions à d’autres indicateurs, comme les données relatives aux dépenses ou les indicateurs de qualité provenant d’organismes de réglementation (dans les secteurs des soins ou de l’éducation).</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 3 : analyser les marchés attribués** | {orange} Suivre et contrôler les marchés attribués dans des tableurs simples et des outils d’analyse courants (par exemple Excel).<br><br>Utiliser des outils comme Silvereye pour convertir ces données au format OCDS. | {yellow} Créer des tableaux de bord afin de faire des analyses sur les acheteurs, les fournisseurs et les catégories de marchés.<br><br>Créer des signaux dans les registres ou portails de marchés concernant des indicateurs économiques essentiels, par exemple pour les entreprises détenues par des membres de minorités ou les PME. | {green} Relier les données relatives aux attributions à d’autres indicateurs, comme les données relatives aux dépenses ou les indicateurs de qualité provenant d’organismes de réglementation (dans les secteurs des soins ou de l’éducation). |
+{% endtable %}
 
 ### **Possibilité 4 : anticiper les effets des marchés**
 
@@ -156,40 +63,11 @@ L’évaluation des effets potentiels d’un marché public peut aider à défin
 
 ***Possibilités d’utilisation des données en fonction de vos capacités:***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 4 : anticiper les effets des marchés</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Rechercher des mécanismes officiels d’évaluation des effets des marchés en matière de durabilité (par exemple les émissions de carbone). Existe-t-il des données (à l’échelle locale ou internationale) pouvant être collectées dans un tableur ?</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Rechercher des mécanismes officiels d’évaluation des effets d’un marché en matière de durabilité (par exemple les émissions de carbone). Existe-t-il des données (à l’échelle locale ou internationale) pouvant être collectées dans une base de données et rattachées à des marchés ?</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Concevoir un modèle attribuant à chaque marché un score ou une valeur reflétant son incidence en matière de durabilité (par exemple les émissions de carbone) dépendant de la nature de l’acquisition.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 4 : anticiper les effets des marchés** | {orange} Rechercher des mécanismes officiels d’évaluation des effets des marchés en matière de durabilité (par exemple les émissions de carbone). Existe-t-il des données (à l’échelle locale ou internationale) pouvant être collectées dans un tableur ? | {yellow} Rechercher des mécanismes officiels d’évaluation des effets d’un marché en matière de durabilité (par exemple les émissions de carbone). Existe-t-il des données (à l’échelle locale ou internationale) pouvant être collectées dans une base de données et rattachées à des marchés ? | {green} Concevoir un modèle attribuant à chaque marché un score ou une valeur reflétant son incidence en matière de durabilité (par exemple les émissions de carbone) dépendant de la nature de l’acquisition. |
+{% endtable %}
 
 ### **Possibilité 5 : demander des propositions pour renforcer la durabilité**
 
@@ -197,40 +75,11 @@ Pour cela, il vous suffit de donner à vos équipes d’achat le moyen de signal
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 5 : demander des propositions pour renforcer la durabilité</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Collaborer avec les acheteurs pour définir des conditions normalisées visant à encourager les propositions en faveur de la durabilité (par exemple de nouvelles solutions sobres en carbone) dans le cadre des marchés publics.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Explorer les pistes d’amélioration des plateformes de diffusion des avis de marchés pour intégrer une étiquette (par exemple « bas carbone ») sur les procédures recherchant des solutions durables.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Élaborer des spécifications concernant un aspect qui nécessite des fournisseurs qu’ils précisent comment ils prévoient de renforcer la durabilité dans leurs pratiques (par exemple pour réduire les émissions de carbone durant l’exécution d’un marché). </span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 5 : demander des propositions pour renforcer la durabilité** | {orange} Collaborer avec les acheteurs pour définir des conditions normalisées visant à encourager les propositions en faveur de la durabilité (par exemple de nouvelles solutions sobres en carbone) dans le cadre des marchés publics. | {yellow} Explorer les pistes d’amélioration des plateformes de diffusion des avis de marchés pour intégrer une étiquette (par exemple « bas carbone ») sur les procédures recherchant des solutions durables. | {green} Élaborer des spécifications concernant un aspect qui nécessite des fournisseurs qu’ils précisent comment ils prévoient de renforcer la durabilité dans leurs pratiques (par exemple pour réduire les émissions de carbone durant l’exécution d’un marché).  |
+{% endtable %}
 
 ### **Possibilité 6 : évaluer l’emploi des certifications**
 
@@ -242,41 +91,11 @@ Il est important de noter qu’il existe différents types d’éco-étiquettes 
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 6 : évaluer l’emploi des certifications</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Effectuer un travail de recherche sur les normes et certifications du monde entier (consultez <a href="https://sustainable.open-contracting.org/guide-to-ecolabels" class="notion-link link" target="_blank" rel="noopener noreferrer">cette section</a>
- pour avoir des exemples) afin de recenser celles qui correspondent le plus aux besoins de l’acheteur public. Exploiter ce travail avec les fournisseurs pour renforcer la certification et le respect des normes.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Améliorer les registres de fournisseurs, de sociétés et de marchés pour inclure les certifications.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Créer un système qui informe les fournisseurs en cas de modifications des exigences en matière de certification environnementale ainsi que des rappels concernant le renouvellement d’une certification sur le point d’expirer.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 6 : évaluer l’emploi des certifications** | {orange} Effectuer un travail de recherche sur les normes et certifications du monde entier (consultez [cette section](https://sustainable.open-contracting.org/guide-to-ecolabels)<br> pour avoir des exemples) afin de recenser celles qui correspondent le plus aux besoins de l’acheteur public. Exploiter ce travail avec les fournisseurs pour renforcer la certification et le respect des normes. | {yellow} Améliorer les registres de fournisseurs, de sociétés et de marchés pour inclure les certifications. | {green} Créer un système qui informe les fournisseurs en cas de modifications des exigences en matière de certification environnementale ainsi que des rappels concernant le renouvellement d’une certification sur le point d’expirer. |
+{% endtable %}
 
 ### **Possibilité 7 : suivre l’exécution des marchés**
 
@@ -284,40 +103,11 @@ Les organisations peuvent publier des mises à jour concernant l’exécution de
 
 ***Possibilités d’utilisation des données en fonction de vos capacités:***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 7 : suivre l’exécution des marchés</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Rapprocher manuellement les spécifications et des indicateurs ciblés (par exemple examiner les spécifications concernant les PME et les données relatives aux entreprises). Demander aux fournisseurs de transmettre des données concernant des indicateurs des marchés publics durables.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Créer des tableaux et outils d’analyse à partir des jeux de données ainsi que des algorithmes permettant de repérer les incohérences (par exemple des tableurs ou des tableaux de calcul).</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Relier les jeux de données à des indicateurs relatifs aux marchés publics durables et créer des algorithmes permettant de repérer les incohérences à grande échelle parmi l’ensemble des marchés publics.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 7 : suivre l’exécution des marchés** | {orange} Rapprocher manuellement les spécifications et des indicateurs ciblés (par exemple examiner les spécifications concernant les PME et les données relatives aux entreprises). Demander aux fournisseurs de transmettre des données concernant des indicateurs des marchés publics durables. | {yellow} Créer des tableaux et outils d’analyse à partir des jeux de données ainsi que des algorithmes permettant de repérer les incohérences (par exemple des tableurs ou des tableaux de calcul). | {green} Relier les jeux de données à des indicateurs relatifs aux marchés publics durables et créer des algorithmes permettant de repérer les incohérences à grande échelle parmi l’ensemble des marchés publics. |
+{% endtable %}
 
 ### **Possibilité 8 : collecter les données des fournisseurs lors de la soumission des offres**
 
@@ -325,40 +115,11 @@ Les acheteurs peuvent demander aux fournisseurs de leur transmettre des données
 
 ***Possibilités d’utilisation des données en fonction de vos capacités:***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em><strong>Possibilité 8 : collecter les données des fournisseurs lors de la soumission des offres</strong></em></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Demander aux fournisseurs des entités publiques de transmettre des données (par exemple sur la composition de leur capital, le lieu d’immatriculation ou les certifications) dans un format numérique et lisible par une machine, de préférence dans un modèle normalisé (par exemple des tableurs).</em></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Agréger et répertorier ces modèles dans une base de données. Cette base de données peut être spécifiquement consacrée aux entreprises liées aux marchés publics durables ou aux marchés publics dans leur ensemble.</em></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Utiliser les identifiants des entreprises et des personnes pour créer des liens entre ces données, les données relatives aux marchés publics et les données relatives aux entreprises.</em></span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| ***Possibilité 8 : collecter les données des fournisseurs lors de la soumission des offres*** | {orange} *Demander aux fournisseurs des entités publiques de transmettre des données (par exemple sur la composition de leur capital, le lieu d’immatriculation ou les certifications) dans un format numérique et lisible par une machine, de préférence dans un modèle normalisé (par exemple des tableurs).* | {yellow} *Agréger et répertorier ces modèles dans une base de données. Cette base de données peut être spécifiquement consacrée aux entreprises liées aux marchés publics durables ou aux marchés publics dans leur ensemble.* | {green} *Utiliser les identifiants des entreprises et des personnes pour créer des liens entre ces données, les données relatives aux marchés publics et les données relatives aux entreprises.* |
+{% endtable %}
 
 ### **Possibilité 9 : créer des registres de fournisseurs des marchés publics durables**
 
@@ -366,40 +127,11 @@ Les acheteurs peuvent chercher des entreprises locales ayant déjà exécuté de
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em><strong>Possibilité 9 : créer des registres de fournisseurs des marchés publics durables</strong></em></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Diffuser de façon sécurisée des tableurs par l’entremise d’accords d’ouverture de données interdépartements ou interadministrations.</em></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Repérer des fournisseurs locaux par l’entremise de bases de données sur les marchés.</em></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><em>Dresser une « liste de recommandations » (par exemple « Avez-vous pensé à… ? ») à l’intention des acheteurs pour guider leur choix parmi des listes de fournisseurs.</em></span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| ***Possibilité 9 : créer des registres de fournisseurs des marchés publics durables*** | {orange} *Diffuser de façon sécurisée des tableurs par l’entremise d’accords d’ouverture de données interdépartements ou interadministrations.* | {yellow} *Repérer des fournisseurs locaux par l’entremise de bases de données sur les marchés.* | {green} *Dresser une « liste de recommandations » (par exemple « Avez-vous pensé à… ? ») à l’intention des acheteurs pour guider leur choix parmi des listes de fournisseurs.* |
+{% endtable %}
 
 ### **Possibilité 10 : utiliser des données à l’échelle nationale ou étatique**
 
@@ -407,42 +139,11 @@ Un moyen de collecter les données nécessaires pour évaluer les effets durable
 
 ***Possibilités d’utilisation des données en fonction de vos capacités***
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Aucun code</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code restreint</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Code</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Possibilité 10 : utiliser des données à l’échelle nationale ou étatique</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Demander par écrit aux fournisseurs de transmettre des données relatives à la durabilité (par exemple sur la composition de leur capital) dans un format numérique et lisible par une machine dans le cadre de leurs déclarations fiscales et rapports financiers.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Créer un formulaire en ligne de transmission automatisée à remplir à certaines étapes (par exemple en même temps que des déclarations fiscales).</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utiliser des algorithmes pour créer des points de référence et définir des objectifs intermédiaires relatifs aux objectifs de durabilité (par exemple l’égalité entre les genres) pour certains secteurs et les entreprises d’une certaine taille.
-
-Collaborer avec certains secteurs sur les moins bons résultats concernant les indicateurs de durabilité (par exemple le faible emploi parmi les personnes d’un sexe en particulier) afin de renforcer la participation et l’autonomisation.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Aucun code** | {yellow} **Code restreint** | {green} **Code** |
+|---|---|---|---|
+| **Possibilité 10 : utiliser des données à l’échelle nationale ou étatique** | {orange} Demander par écrit aux fournisseurs de transmettre des données relatives à la durabilité (par exemple sur la composition de leur capital) dans un format numérique et lisible par une machine dans le cadre de leurs déclarations fiscales et rapports financiers. | {yellow} Créer un formulaire en ligne de transmission automatisée à remplir à certaines étapes (par exemple en même temps que des déclarations fiscales). | {green} Utiliser des algorithmes pour créer des points de référence et définir des objectifs intermédiaires relatifs aux objectifs de durabilité (par exemple l’égalité entre les genres) pour certains secteurs et les entreprises d’une certaine taille.<br><br>Collaborer avec certains secteurs sur les moins bons résultats concernant les indicateurs de durabilité (par exemple le faible emploi parmi les personnes d’un sexe en particulier) afin de renforcer la participation et l’autonomisation. |
+{% endtable %}
 
 {% endcolumn %}
 {% endcolumns %}

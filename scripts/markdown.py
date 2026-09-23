@@ -456,10 +456,87 @@ def columns_tag(node, text, indent, candidates):
     return "\n".join(output)
 
 
+def table_tag(node, text, indent, candidates):
+    """Return a Notion table as a {% table %} tag, or None."""
+    wrapper = elements(node)
+    if (
+        node.attrs != {"class": "notion-table__wrapper"}
+        or not wrapper
+        or len(wrapper) != 1
+    ):
+        return None
+    table = wrapper[0]
+    match = re.fullmatch(r"notion-table((?: col-header| row-header)*)", table.cls)
+    bodies = elements(table)
+    if (
+        table.name != "table"
+        or not match
+        or set(table.attrs) != {"class"}
+        or not bodies
+        or len(bodies) != 1
+    ):
+        return None
+    lines = []
+    widths = None
+    for tr in elements(bodies[0]) or []:
+        style = tr.attrs.get("style")
+        row = re.fullmatch(r"background:var\(--color-bg-(\w+)\)", style or "")
+        if (
+            tr.name != "tr"
+            or set(tr.attrs) != {"style"}
+            or not (row or style == "color:var(--color-text-default)")
+        ):
+            return None
+        cells = []
+        row_widths = []
+        for td in elements(tr) or [None]:
+            cell = re.fullmatch(
+                r"min-width:([\d.]+)px;max-width:\1px(?:;background:var\(--color-(?:bg-(\w+)|color-(default))\))?",
+                td.attrs.get("style", "") if td else "",
+            )
+            contents = elements(td) if td and cell else None
+            if not contents or len(contents) != 1 or set(td.attrs) != {"style"}:
+                return None
+            row_widths.append(cell.group(1))
+            color = cell.group(2) or cell.group(3)
+            if (
+                contents[0].attrs == {"class": "notion-table__empty-cell"}
+                and not contents[0].children
+            ):
+                content = ""
+            elif contents[0].attrs == {"class": "notion-table__cell"}:
+                spans = elements(contents[0])
+                content = summary_text(spans[0]) if spans and len(spans) == 1 else None
+                if not content:
+                    return None
+                content = content.replace("\n", "<br>").replace("|", "\\|")
+                if content.startswith("{"):
+                    content = "\\" + content
+            else:
+                return None
+            cells.append((f"{{{color}}} " if color else "") + content)
+        if widths is None:
+            widths = row_widths
+        elif row_widths != widths:
+            return None
+        lines.append(
+            (f"{{{row.group(1)}}} " if row else "") + "| " + " | ".join(cells) + " |"
+        )
+        if len(lines) == 1:
+            lines.append("|" + "---|" * len(cells))
+    if not widths:
+        return None
+    arguments = " ".join(f"{round(float(width), 2):g}" for width in widths) + match.group(
+        1
+    )
+    return f"{{% table {arguments} %}}\n" + "\n".join(lines) + "\n{% endtable %}"
+
+
 TAGS = {
     "notion-callout": callout_tag,
     "notion-toggle": toggle_tag,
     "notion-column-list": columns_tag,
+    "notion-table__wrapper": table_tag,
 }
 
 
@@ -573,6 +650,12 @@ def normalize(text):
         elif token.strip():
             output.append(html.unescape(token.strip()))
     text = "".join(output)
+    # Table cells' widths are rounded to pixels.
+    text = re.sub(
+        r"(min|max)-width:([\d.]+)px",
+        lambda m: f"{m.group(1)}-width:{round(float(m.group(2)), 2):g}px",
+        text,
+    )
     # Column widths are rounded.
     text = re.sub(r"\* ([\d.]{7,})\)", lambda m: f"* {width(m.group(1))})", text)
     # Spaces before a line break don't render (white-space: pre-wrap).

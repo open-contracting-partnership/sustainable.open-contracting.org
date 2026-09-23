@@ -61,6 +61,16 @@ The column's content.
 
 A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
 
+Tables are `{% table %}` tags, whose arguments are the columns' widths in pixels and Notion's `col-header` and `row-header` options. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). A row or cell that starts with `{color}` has that background color, and `<br>` is a line break in a cell:
+
+```liquid
+{% table 166.24 177.23 col-header %}
+| {default} **Goals** | {default} **Outcomes** |
+|---|---|
+{green} | Reducing carbon emissions | Line one<br>Line two |
+{% endtable %}
+```
+
 Other Notion blocks (databases, tables, images, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
 ## How the content was produced

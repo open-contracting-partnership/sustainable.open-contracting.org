@@ -123,92 +123,13 @@ Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor 
 
 **Al adoptar este enfoque para contabilizar las emisiones de carbono en los procesos de contratación, se pueden seleccionar proveedores sostenibles incluso si el contrato se adjudica únicamente en función del precio.**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header">
-    <tbody>
-      <tr style="background:var(--color-bg-red)">
-        <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>COMPAÑÍA</strong></span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">PRECIO DE ENTRADA</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NIVEL EN LA ESCALERA</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>DESCUENTO / VENTAJA DE PREMIO</strong></span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>PRECIO DESPUES DE APLICAR VENTAJA</strong></span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>ADJUDICAR EL CONTRATO</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">ninguno</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10 millones</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,6 millones</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10,3 millones</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,58 millones</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">SI: € 10,3 millones</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 113.23 110.23 125.23 187.23 142.23 154.23 col-header %}
+{red} | {default} **COMPAÑÍA** | {default} PRECIO DE ENTRADA | {default} NIVEL EN LA ESCALERA | {default} **DESCUENTO / VENTAJA DE PREMIO** | {default} **PRECIO DESPUES DE APLICAR VENTAJA** | {default} **ADJUDICAR EL CONTRATO** |
+|---|---|---|---|---|---|
+| A | € 9,7 millones | ninguno | 0% | € 9,7 millones | NO |
+| B | € 10 millones | 3 | 4% | € 9,6 millones | NO |
+| C | € 10,3 millones | 4 | 7% | € 9,58 millones | SI: € 10,3 millones |
+{% endtable %}
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

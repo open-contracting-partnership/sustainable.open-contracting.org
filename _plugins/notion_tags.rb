@@ -131,6 +131,51 @@ module NotionTags
   end
 end
 
+module NotionTags
+  # {% table WIDTH... [col-header] [row-header] %}ROWS{% endtable %}, where each WIDTH is a column's width in pixels.
+  #
+  # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
+  # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text.
+  class Table < Liquid::Block
+    COLOR = /\A\{(\w+)\}\s*/
+
+    def initialize(tag_name, markup, options)
+      super
+      words = markup.split
+      @widths = words.grep(/\A[\d.]+\z/)
+      @classes = (["notion-table"] + (words - @widths)).join(" ")
+    end
+
+    def render(context)
+      rows = super.strip.lines.map(&:strip).reject { |line| line.empty? || line.match?(/\A[|:\s-]+\z/) }
+      html = rows.map do |line|
+        color = line[COLOR, 1]
+        line = line.sub(COLOR, "")
+        style = color ? "background:var(--color-bg-#{color})" : "color:var(--color-text-default)"
+        cells = line.delete_prefix("|").delete_suffix("|").split(/(?<!\\)\|/, -1)
+        %(<tr style="#{style}">#{cells.each_with_index.map { |cell, i| cell(context, cell.strip, @widths[i]) }.join}</tr>)
+      end
+      %(<div class="notion-table__wrapper"><table class="#{@classes}"><tbody>#{html.join}</tbody></table></div>)
+    end
+
+    private
+
+    def cell(context, text, width)
+      color = text[COLOR, 1]
+      text = text.sub(COLOR, "")
+      style = "min-width:#{width}px;max-width:#{width}px"
+      style += ";background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})" if color
+      content = if text.empty?
+                  %(<div class="notion-table__empty-cell"></div>)
+                else
+                  %(<div class="notion-table__cell"><span class="notion-semantic-string">#{NotionTags.inline(context, text)}</span></div>)
+                end
+      %(<td style="#{style}">#{content}</td>)
+    end
+  end
+end
+
+Liquid::Template.register_tag("table", NotionTags::Table)
 Liquid::Template.register_tag("properties", NotionTags::Properties)
 Liquid::Template.register_tag("callout", NotionTags::Callout)
 Liquid::Template.register_tag("toggle", NotionTags::Toggle)

@@ -20,92 +20,13 @@ Les organisations peuvent obtenir un certificat correspondant à leur échelon q
 
 Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C propose un prix initial plus élevé, l’application de la réduction liée à ses émissions de CO2 (échelon 4) lui fait remporter le marché. En adoptant cette approche pour prendre en compte les émissions de carbone lors de la passation de marchés, il est possible de sélectionner des fournisseurs responsables même si le marché peut uniquement être attribué en fonction du prix.
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header">
-    <tbody>
-      <tr style="background:var(--color-bg-red)">
-        <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">ENTREPRISE</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">PRIX INITIAL</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">ÉCHELON</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">RÉDUCTION / AVANTAGE EN VUE DE L’ATTRIBUTION</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">PRIX APRÈS APPLICATION DE L’AVANTAGE</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">ATTRIBUTION DU MARCHÉ</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">9,7 millions d’euros</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">none</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">9,7 millions d’euros</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NON</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">10 millions d’euros</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">9,6 millions d’euros</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">NON</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:113.234375px;max-width:113.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
-        </td>
-        <td style="min-width:110.234375px;max-width:110.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">10,3 millions d’euros</span></div>
-        </td>
-        <td style="min-width:125.234375px;max-width:125.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
-        </td>
-        <td style="min-width:187.234375px;max-width:187.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
-        </td>
-        <td style="min-width:142.234375px;max-width:142.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">9,58 millions d’euros</span></div>
-        </td>
-        <td style="min-width:154.234375px;max-width:154.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">OUI: 10,3 millions d’euros</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 113.23 110.23 125.23 187.23 142.23 154.23 col-header %}
+{red} | {default} ENTREPRISE | {default} PRIX INITIAL | {default} ÉCHELON | {default} RÉDUCTION / AVANTAGE EN VUE DE L’ATTRIBUTION | {default} PRIX APRÈS APPLICATION DE L’AVANTAGE | {default} ATTRIBUTION DU MARCHÉ |
+|---|---|---|---|---|---|
+| A | 9,7 millions d’euros | none | 0% | 9,7 millions d’euros | NON |
+| B | 10 millions d’euros | 3 | 4% | 9,6 millions d’euros | NON |
+| C | 10,3 millions d’euros | 4 | 7% | 9,58 millions d’euros | OUI: 10,3 millions d’euros |
+{% endtable %}
 {% endcallout %}
 
 {% endcolumn %}

@@ -32,42 +32,11 @@ Hacer esto requerirá establecer una definición clara de qué contratos caen de
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 1: Asigne etiquetas a las contrataciones</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Revise manualmente los avisos de adquisición y tome una decisión sobre si es CPS o no.
-Las autoridades del mandato lanzan una bandera que destaca que una adquisición es CPS.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Coloque una bandera de contratación CPS en los registros de contratos.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utilice el aprendizaje automático para identificar mediante programación si un aviso es CPS o no a partir de sus especificaciones. 
-Aplique esto retrospectivamente para aumentar el alcance del análisis.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 1: Asigne etiquetas a las contrataciones** | {orange} Revise manualmente los avisos de adquisición y tome una decisión sobre si es CPS o no.<br>Las autoridades del mandato lanzan una bandera que destaca que una adquisición es CPS. | {yellow} Coloque una bandera de contratación CPS en los registros de contratos. | {green} Utilice el aprendizaje automático para identificar mediante programación si un aviso es CPS o no a partir de sus especificaciones.<br>Aplique esto retrospectivamente para aumentar el alcance del análisis. |
+{% endtable %}
 
 ### **Opción 2: Impulse el rendimiento de las políticas a través de alertas y notificaciones**
 
@@ -75,42 +44,11 @@ A través del análisis manual o programático de los datos, las autoridades con
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 2: Impulse el rendimiento de las políticas a través de alertas</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Analice manualmente la contratación CPS identificada en la Opción 1 y comuníquese con los compradores y pregúnteles por qué no han cumplido.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utilice las herramientas de análisis para identificar la contratación CPS y comuníquese con los compradores, tales como el Panel de Contratación Verde del gobierno lituano. 
-
-Ver también caso de estudio.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Utilice el aprendizaje automático para ingerir y analizar automáticamente los datos y las especificaciones de contrataciones en función de los parámetros (si una organización está dentro del alcance, si un aviso está duplicado) y para enviar alertas de recordatorio a los compradores que se desempeñan menos.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 2: Impulse el rendimiento de las políticas a través de alertas** | {orange} Analice manualmente la contratación CPS identificada en la Opción 1 y comuníquese con los compradores y pregúnteles por qué no han cumplido. | {yellow} Utilice las herramientas de análisis para identificar la contratación CPS y comuníquese con los compradores, tales como el Panel de Contratación Verde del gobierno lituano.<br><br>Ver también caso de estudio. | {green} Utilice el aprendizaje automático para ingerir y analizar automáticamente los datos y las especificaciones de contrataciones en función de los parámetros (si una organización está dentro del alcance, si un aviso está duplicado) y para enviar alertas de recordatorio a los compradores que se desempeñan menos. |
+{% endtable %}
 
 ### **Opción 3: Analice los contratos adjudicados**
 
@@ -118,44 +56,11 @@ Los compradores pueden medir el valor y la cantidad de contratos relacionados co
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 3: Analice los contratos adjudicados</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Haga seguimiento y supervise los contratos adjudicados en hojas de cálculo simples y herramientas de análisis comunes (por ejemplo, Excel).
-
-Use herramientas como Silver Eye para convertir estos datos en OCDS.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Cree cuadros de mando que permitan el análisis de compradores, proveedores, categorías, etc.
-
-Cree banderas en registros de contratos o portales para indicadores económicos clave: p. empresas o pymes propiedad de minorías.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Enlace a datos de adjudicación de contratos a otras métricas, como datos de gastos, métricas de calidad de los datos del regulador (para entornos de atención médica o educación).</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 3: Analice los contratos adjudicados** | {orange} Haga seguimiento y supervise los contratos adjudicados en hojas de cálculo simples y herramientas de análisis comunes (por ejemplo, Excel).<br><br>Use herramientas como Silver Eye para convertir estos datos en OCDS. | {yellow} Cree cuadros de mando que permitan el análisis de compradores, proveedores, categorías, etc.<br><br>Cree banderas en registros de contratos o portales para indicadores económicos clave: p. empresas o pymes propiedad de minorías. | {green} Enlace a datos de adjudicación de contratos a otras métricas, como datos de gastos, métricas de calidad de los datos del regulador (para entornos de atención médica o educación). |
+{% endtable %}
 
 ### **Opción 4: Previsión del impacto del contrato**
 
@@ -163,40 +68,11 @@ Estimar el impacto potencial que podría tener un contrato puede ayudar a dar fo
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 4: Previsión del impacto del contrato</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Investigue mecanismos oficiales para medir el impacto de la sostenibilidad (p. ej., emisiones de carbono o costeo del ciclo de vida). ¿Hay datos (locales o internacionales) que se puedan recopilar en una hoja de cálculo?</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Investigue mecanismos oficiales para medir el impacto de la sostenibilidad (p. ej., emisiones de carbono o costeo del ciclo de vida). ¿Existen datos (locales o internacionales) que puedan agregarse a una base de datos y vincularse a los contratos?</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Construya un modelo que asigne a cada contrato un puntaje o valor de impacto de sostenibilidad (por ejemplo, emisión de carbono o costeo del ciclo de vida) en función de la naturaleza del suministro.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 4: Previsión del impacto del contrato** | {orange} Investigue mecanismos oficiales para medir el impacto de la sostenibilidad (p. ej., emisiones de carbono o costeo del ciclo de vida). ¿Hay datos (locales o internacionales) que se puedan recopilar en una hoja de cálculo? | {yellow} Investigue mecanismos oficiales para medir el impacto de la sostenibilidad (p. ej., emisiones de carbono o costeo del ciclo de vida). ¿Existen datos (locales o internacionales) que puedan agregarse a una base de datos y vincularse a los contratos? | {green} Construya un modelo que asigne a cada contrato un puntaje o valor de impacto de sostenibilidad (por ejemplo, emisión de carbono o costeo del ciclo de vida) en función de la naturaleza del suministro. |
+{% endtable %}
 
 ### **Opción 5: Solicite sugerencias de sostenibilidad**
 
@@ -204,40 +80,11 @@ Esto es tan simple como dar a sus equipos de compras la capacidad de marcar una 
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 5: Solicite sugerencias de sostenibilidad</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Trabaje con los compradores para establecer términos estándar para fomentar las sugerencias de sostenibilidad (por ejemplo, alternativas bajas en carbono) en las oportunidades de contrato.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Explore la actualización de los sitios web de oportunidades de contratos existentes para incluir una bandera (por ejemplo, &quot;bajo en carbono&quot;) para las oportunidades que buscan alternativas de sostenibilidad.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Establezca una especificación para una característica que requiera que los proveedores detallen cómo planean ser más sostenibles (por ejemplo, reducir el carbono durante un contrato. </span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 5: Solicite sugerencias de sostenibilidad** | {orange} Trabaje con los compradores para establecer términos estándar para fomentar las sugerencias de sostenibilidad (por ejemplo, alternativas bajas en carbono) en las oportunidades de contrato. | {yellow} Explore la actualización de los sitios web de oportunidades de contratos existentes para incluir una bandera (por ejemplo, "bajo en carbono") para las oportunidades que buscan alternativas de sostenibilidad. | {green} Establezca una especificación para una característica que requiera que los proveedores detallen cómo planean ser más sostenibles (por ejemplo, reducir el carbono durante un contrato.  |
+{% endtable %}
 
 ### **Opción 6: Mida el uso de las certificaciones**
 
@@ -248,40 +95,11 @@ Es importante señalar que existen diferentes tipos de etiquetas y certificacion
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 6: Mida el uso de las certificaciones</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Realice un trabajo de descubrimiento en torno a estándares y certificaciones mundiales (consulte esta sección<strong> </strong>para ver ejemplos) para identificar el mejor ajuste con las necesidades del comprador. Utilice esto para trabajar con los proveedores y garantizar una mayor acreditación y cumplimiento.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Actualice los registros de proveedores, registros de empresas y registros de contratos para incluir etiquetas de certificación.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Cree un sistema que alerte a los proveedores sobre cambios en los requisitos de la certificación ecológica, así como recordatorios para actualizarlos a medida que vencen.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 6: Mida el uso de las certificaciones** | {orange} Realice un trabajo de descubrimiento en torno a estándares y certificaciones mundiales (consulte esta sección<strong> </strong>para ver ejemplos) para identificar el mejor ajuste con las necesidades del comprador. Utilice esto para trabajar con los proveedores y garantizar una mayor acreditación y cumplimiento. | {yellow} Actualice los registros de proveedores, registros de empresas y registros de contratos para incluir etiquetas de certificación. | {green} Cree un sistema que alerte a los proveedores sobre cambios en los requisitos de la certificación ecológica, así como recordatorios para actualizarlos a medida que vencen. |
+{% endtable %}
 
 ### **Opción 7: Supervise la ejecución del contrato**
 
@@ -289,40 +107,11 @@ Las organizaciones pueden publicar actualizaciones de rendimiento en los contrat
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 7: Supervise la ejecución del contrato</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Reconcilie manualmente las especificaciones con las métricas específicas (por ejemplo, mire las especificaciones sobre SME y mire los datos de las empresas). Póngase en contacto con los proveedores para enviar métricas basadas en SPP.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Cree tableros y herramientas de análisis a partir de conjuntos de datos y cree algoritmos que marquen las discrepancias (por ejemplo, hojas de cálculo/cálculos del tablero).</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Vincule conjuntos de datos a métricas de SPP y cree algoritmos que marquen las discrepancias a escala, en todas las adquisiciones del sector público.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 7: Supervise la ejecución del contrato** | {orange} Reconcilie manualmente las especificaciones con las métricas específicas (por ejemplo, mire las especificaciones sobre SME y mire los datos de las empresas). Póngase en contacto con los proveedores para enviar métricas basadas en SPP. | {yellow} Cree tableros y herramientas de análisis a partir de conjuntos de datos y cree algoritmos que marquen las discrepancias (por ejemplo, hojas de cálculo/cálculos del tablero). | {green} Vincule conjuntos de datos a métricas de SPP y cree algoritmos que marquen las discrepancias a escala, en todas las adquisiciones del sector público. |
+{% endtable %}
 
 ### **Opción 8: Registre los datos del proveedor en el momento de la presentación de la oferta**
 
@@ -330,40 +119,11 @@ En la presentación de ofertas los compradores podrán solicitar a los proveedor
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 8: Registre los datos del proveedor en el momento de la presentación de la oferta</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Solicite envíos de datos de proveedores (p. ej., propiedad, dirección, certificaciones) de todos los proveedores públicos en formato suave, legible por máquina, preferiblemente en una plantilla estándar (p. ej., hojas de cálculo).</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Agregue y almacene estas plantillas en una base de datos. Esta base de datos podría ser una base de datos específica para empresas de SPP o una base de datos de contratos generales.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Use identificadores de empresas y personas para vincular estos datos con datos de adquisiciones y datos de empresas.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 8: Registre los datos del proveedor en el momento de la presentación de la oferta** | {orange} Solicite envíos de datos de proveedores (p. ej., propiedad, dirección, certificaciones) de todos los proveedores públicos en formato suave, legible por máquina, preferiblemente en una plantilla estándar (p. ej., hojas de cálculo). | {yellow} Agregue y almacene estas plantillas en una base de datos. Esta base de datos podría ser una base de datos específica para empresas de SPP o una base de datos de contratos generales. | {green} Use identificadores de empresas y personas para vincular estos datos con datos de adquisiciones y datos de empresas. |
+{% endtable %}
 
 ### **Opción 9: Cree registros de proveedores CPS**
 
@@ -371,40 +131,11 @@ En la presentación de ofertas los compradores podrán solicitar a los proveedor
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 9: Cree registros de proveedores CPS</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Comparta hojas de cálculo de forma segura a través de acuerdos de datos abiertos entre departamentos o entre autoridades.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Identifique proveedores locales a través de bases de datos de contratos.</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Cree una &quot;lista de recomendaciones&quot; (por ejemplo, ¿ha considerado X?) para los compradores al elegir las listas de proveedores.</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 9: Cree registros de proveedores CPS** | {orange} Comparta hojas de cálculo de forma segura a través de acuerdos de datos abiertos entre departamentos o entre autoridades. | {yellow} Identifique proveedores locales a través de bases de datos de contratos. | {green} Cree una "lista de recomendaciones" (por ejemplo, ¿ha considerado X?) para los compradores al elegir las listas de proveedores. |
+{% endtable %}
 
 ### **Opción 10: Use datos nacionales o estatales**
 
@@ -412,42 +143,11 @@ Una forma de recopilar los datos necesarios para medir el impacto de sostenibili
 
 **Opciones de uso de datos según su capacidad:**
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header row-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px;background:var(--color-color-default)">
-          <div class="notion-table__empty-cell"></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Sin código</strong></span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código bajo</strong></span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Código</strong></span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 10: Use datos nacionales o estatales</strong></span></div>
-        </td>
-        <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Escriba a los proveedores solicitando los datos de sostenibilidad necesarios (p. ej., propiedad de la empresa) en un formato legible por máquina como parte de sus declaraciones fiscales o financieras.</span></div>
-        </td>
-        <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">A través de un formulario en línea, cree un envío automático para completar en ciertos puntos (por ejemplo, con declaraciones de impuestos).</span></div>
-        </td>
-        <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Use algoritmos para crear puntos de referencia y establecer objetivos en torno a objetivos de sostenibilidad (por ejemplo, igualdad de género) para industrias y tamaños de empresas específicos.
-
-Trabaje con industrias específicas con bajo rendimiento conocido en métricas de sostenibilidad (por ejemplo, bajo empleo de un género) para aumentar la participación y el empoderamiento</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 197.86 198.87 185.86 183.87 col-header row-header %}
+| {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
+|---|---|---|---|
+| **Opción 10: Use datos nacionales o estatales** | {orange} Escriba a los proveedores solicitando los datos de sostenibilidad necesarios (p. ej., propiedad de la empresa) en un formato legible por máquina como parte de sus declaraciones fiscales o financieras. | {yellow} A través de un formulario en línea, cree un envío automático para completar en ciertos puntos (por ejemplo, con declaraciones de impuestos). | {green} Use algoritmos para crear puntos de referencia y establecer objetivos en torno a objetivos de sostenibilidad (por ejemplo, igualdad de género) para industrias y tamaños de empresas específicos.<br><br>Trabaje con industrias específicas con bajo rendimiento conocido en métricas de sostenibilidad (por ejemplo, bajo empleo de un género) para aumentar la participación y el empoderamiento |
+{% endtable %}
 
 {% endcolumn %}
 {% endcolumns %}
