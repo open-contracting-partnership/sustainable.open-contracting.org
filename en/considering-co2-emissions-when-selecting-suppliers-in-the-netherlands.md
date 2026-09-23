@@ -1,0 +1,132 @@
+---
+permalink: "/considering-co2-emissions-when-selecting-suppliers-in-the-netherlands"
+title: "Considering CO2 emissions when selecting suppliers in The Netherlands"
+description: "The Netherlands implements a system called the CO2 Performance Ladder in order to consider CO2 emissions when awarding public procurement contracts.  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions.  Organizations can obtain a certificate with their level on the Ladder, which they can use to receive an award advantage for their registration on tenders. In this way, contractors can benefit for a reduction of the submission price by proving and developing their efforts to reduce CO2 emissions. This mechanism is sometimes known as an optimal discounts system.  \nAs can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price."
+cover: "/assets/images/Europe_-_The_Netherlands_2.png"
+cover_position: 53.73
+icon: "/assets/images/Notion-others2.png"
+full_width: true
+notion_id: "cc0f660ad723458e9f331fa012ea7e30"
+---
+<div class="notion-page__properties">
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Geographical Area</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-pink first">Europe</span><span class="notion-pill pill-yellow">The Netherlands</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Scope</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-gray first">National</span></div>
+  </div>
+  <div class="notion-divider"></div>
+</div>
+
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% include sidebar-en.html %}
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8749999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+
+<div class="notion-callout bg-gray-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey4.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>The Netherlands implements a system called the </strong><strong><a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link">CO2 Performance Ladder</a></strong><strong> in order to consider CO2 emissions when awarding public procurement contracts. </strong> The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions. </span>
+    <div class="notion-text"></div>
+    <p class="notion-text notion-text__content notion-semantic-string">Organizations can obtain a certificate with their level on the Ladder, which they can use to receive an award advantage for their registration on tenders. In this way, <strong>contractors can benefit for a reduction of the submission price by proving and developing their efforts to reduce CO2 emissions. </strong>This mechanism is sometimes known as an <a href="https://www.diw.de/documents/publikationen/73/diw_01.c.830045.de/dp1983.pdf" class="notion-link link">optimal discounts system. </a></p>
+    <p class="notion-text notion-text__content notion-semantic-string">
+As can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. <strong>By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price.</strong></p>
+    <div class="notion-text"></div>
+    <div class="notion-table__wrapper">
+      <table class="notion-table col-header">
+        <tbody>
+          <tr style="background:var(--color-bg-red)">
+            <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>COMPANY</strong></span></div>
+            </td>
+            <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>ENTRY PRICE</strong></span></div>
+            </td>
+            <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>LEVEL ON THE LADDER</strong></span></div>
+            </td>
+            <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>DISCOUNT / AWARD ADVANTAGE</strong></span></div>
+            </td>
+            <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>PRICE AFTER APPLYING ADVANTAGE</strong></span></div>
+            </td>
+            <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
+              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>AWARD THE CONTRACT </strong></span></div>
+            </td>
+          </tr>
+          <tr style="color:var(--color-text-default)">
+            <td style="min-width:113.234375px;max-width:113.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
+            </td>
+            <td style="min-width:110.234375px;max-width:110.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.7 million</span></div>
+            </td>
+            <td style="min-width:125.234375px;max-width:125.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">none</span></div>
+            </td>
+            <td style="min-width:187.234375px;max-width:187.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
+            </td>
+            <td style="min-width:142.234375px;max-width:142.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.7 million</span></div>
+            </td>
+            <td style="min-width:154.234375px;max-width:154.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
+            </td>
+          </tr>
+          <tr style="color:var(--color-text-default)">
+            <td style="min-width:113.234375px;max-width:113.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
+            </td>
+            <td style="min-width:110.234375px;max-width:110.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 10 million</span></div>
+            </td>
+            <td style="min-width:125.234375px;max-width:125.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
+            </td>
+            <td style="min-width:187.234375px;max-width:187.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
+            </td>
+            <td style="min-width:142.234375px;max-width:142.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.6 million</span></div>
+            </td>
+            <td style="min-width:154.234375px;max-width:154.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
+            </td>
+          </tr>
+          <tr style="color:var(--color-text-default)">
+            <td style="min-width:113.234375px;max-width:113.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
+            </td>
+            <td style="min-width:110.234375px;max-width:110.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 10.3 million</span></div>
+            </td>
+            <td style="min-width:125.234375px;max-width:125.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
+            </td>
+            <td style="min-width:187.234375px;max-width:187.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
+            </td>
+            <td style="min-width:142.234375px;max-width:142.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9.58 million</span></div>
+            </td>
+            <td style="min-width:154.234375px;max-width:154.234375px">
+              <div class="notion-table__cell"><span class="notion-semantic-string">YES: € 10.3 million</span></div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="notion-text"></div>
+  </div>
+</div>
+
+</div>
+</div>

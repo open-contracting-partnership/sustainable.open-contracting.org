@@ -1,0 +1,159 @@
+---
+permalink: "/donnes-ouvertes-et-valuation-des-progrs"
+title: "Données ouvertes et évaluation des progrès"
+description: "Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée au début de notre guide pratique et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de cadre de suivi et d’évaluation dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
+cover: "/assets/images/PUBLIC_SPP_background.jpg"
+icon: "/assets/images/Notion-Imp_3.png"
+full_width: true
+notion_id: "35dc615b39b84af793a9430029ef8567"
+---
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% include sidebar-fr.html %}
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+
+# **Données ouvertes et évaluation des progrès**
+
+Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](https://openspp.super.site/what-is-spp-and-open-spp) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](https://openspp.super.site/get-started/identify-your-goals) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
+
+<div class="notion-text"></div>
+
+<div class="notion-callout bg-yellow-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Dans cette partie, nous approfondissons les possibilités de collecte des données nécessaires pour évaluer les progrès par rapport à vos objectifs. </strong>Nous présenterons d’abord des considérations générales sur la collecte de données et des possibilités d’utilisation de ces données en vue de l’évaluation des progrès concernant différents objectifs. Ensuite, nous transformerons les cinq objectifs du cadre de suivi et d’évaluation en exemples pratiques afin de vous montrer comment utiliser les données ouvertes pour évaluer les progrès concernant : (1) l’adoption de pratiques durables de passation de marchés, (2) la réduction des émissions de carbone, (3) l’inclusion des genres, (4) le développement économique, et (5) la prise en compte du coût du cycle de vie.</span></div>
+</div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+## **Pour préparer la collecte et la publication de données**
+
+Plusieurs facteurs influenceront et détermineront votre approche de collecte de données. L’évaluation de ces facteurs est la première étape menant à la conception d’un processus clair de transmission des données requises aux services de passation de marchés. Ci-dessous, nous présentons plusieurs facteurs essentiels que vous devrez prendre en compte dans le cadre de cette évaluation.
+
+<div class="notion-text"></div>
+
+<div class="notion-toggle closed">
+<div class="notion-toggle__summary">
+  <div class="notion-toggle__trigger">
+    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+  </div><span class="notion-semantic-string"><strong>Étape 1 : analyser le fonctionnement et la structure de gouvernance de la passation de marchés de votre entité</strong></span>
+</div>
+<div class="notion-toggle__content" style="display:none" markdown="1">
+
+Le fonctionnement des processus de passation de marchés, qu’il soit centralisé, décentralisé ou divisé par catégories de marchés, guidera les décisions concernant les responsabilités des différentes parties impliquées dans le processus de collecte et d’analyse des données pertinentes. Par exemple, lorsque des structures de passation des marchés publics sont très décentralisées, il peut être nécessaire de désigner une entité supérieure responsable de superviser la collecte de données dans certaines régions ou zones.
+
+Convenir des modalités de collaboration des nombreuses parties prenantes dans le cadre des marchés publics est essentiel, tout comme la désignation d’une structure de direction claire pour la coordination et l’élaboration de rapports. Beaucoup de pays assignent cette responsabilité au ministère de l’Environnement ou à une entité adjudicatrice nationale. À l’échelle de l’entité, il est important d’attribuer les responsabilités individuelles au sein du personnel en fonction des activités de suivi et d’évaluation des marchés publics durables.
+
+<div class="notion-text"></div>
+
+</div>
+</div>
+
+<div class="notion-toggle closed">
+<div class="notion-toggle__summary">
+  <div class="notion-toggle__trigger">
+    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+  </div><span class="notion-semantic-string"><strong>Étape 2 : évaluer vos plateformes de passation de marchés</strong></span>
+</div>
+<div class="notion-toggle__content" style="display:none" markdown="1">
+
+Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre des marchés publics. Il est nécessaire de mettre en place un système permettant de collecter les données de différents plateformes ou canaux afin de recueillir toutes les données pertinentes. Par exemple, la Corée collecte des données de trois plateformes différentes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données requises issues de processus d’achat décentralisés (pour en savoir plus, consultez les pages 60 à 63 de [ce rapport du Programme des Nations Unies pour l’environnement](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Il est essentiel de comprendre d’où viennent les données que vous collectez pour concevoir un système de publication des informations.
+
+<div class="notion-text"></div>
+
+</div>
+</div>
+
+<div class="notion-toggle closed">
+<div class="notion-toggle__summary">
+  <div class="notion-toggle__trigger">
+    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+  </div><span class="notion-semantic-string"><strong>Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics</strong></span>
+</div>
+<div class="notion-toggle__content" style="display:none" markdown="1">
+
+L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](https://openspp.super.site/get-started/create-an-action-plan)
+, qui doit déterminer le moment du début de la collecte de données. Du point de vue opérationnel, il est également important d’établir avec les pouvoirs publics la fréquence de collecte et de publication de données concernant leurs marchés, par exemple sur une base mensuelle, trimestrielle ou annuelle.
+
+<div class="notion-text"></div>
+
+</div>
+</div>
+
+<div class="notion-toggle closed">
+<div class="notion-toggle__summary">
+  <div class="notion-toggle__trigger">
+    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+  </div><span class="notion-semantic-string"><strong>Étape 4 : évaluer vos capacités</strong></span>
+</div>
+<div class="notion-toggle__content" style="display:none" markdown="1">
+
+Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables. 
+
+<div class="notion-text"></div>
+
+<div class="notion-callout bg-yellow-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Nous avons recensé trois types d’environnements : </span>
+    <a href="/donnes-ouvertes-et-valuation-des-progrs/aucun-code-code-restreint-et-code" class="notion-link notion-page"><span class="notion-page__icon"><img alt="aucun code, code restreint et code." loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">aucun code, code restreint et code.</span></a>
+  </div>
+</div>
+
+<div class="notion-text"></div>
+
+</div>
+</div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-collection inline collection-de7eaeea446e470f9881d140600cd91d">
+  <div class="notion-collection__header-wrapper">
+    <h3 class="notion-collection__header"><a class="notion-anchor" href="#1a144e82589b4729b2107b7d87bc276c"></a><span class="notion-semantic-string"><strong><strong>Cliquez sur une section pour en savoir plus.</strong></strong><a href="https://fr.super.site/assess-needs" class="notion-link link" target="_blank" rel="noopener noreferrer">Évaluer les besoins réels</a></span></h3>
+  </div>
+  <div class="notion-collection-gallery medium">
+    <div class="notion-collection-card gallery"><a href="https://fr.super.site/options-for-data-use" class="notion-link notion-collection-card__anchor">D’utilisation des données</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>D’utilisation des données</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="https://fr.super.site/spp-uptake" class="notion-link notion-collection-card__anchor">L’adoption des pratiques durables</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’adoption des pratiques durables</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="https://fr.super.site/carbon-reduction" class="notion-link notion-collection-card__anchor">La réduction des émissions de carbone</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>La réduction des émissions de carbone</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="https://fr.super.site/gender-inclusion" class="notion-link notion-collection-card__anchor">L’inclusion des genres</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’inclusion des genres</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="https://fr.super.site/life-cycle-costing" class="notion-link notion-collection-card__anchor">Le coût du cycle de vie</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Le coût du cycle de vie</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+</div>
+</div>

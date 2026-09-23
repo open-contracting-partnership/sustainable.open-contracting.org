@@ -1,0 +1,30 @@
+---
+permalink: "/ladoption-des-pratiques-durables/cliquez-sur-les-sections-ci-dessous-pour-en-savoir-plus"
+title: "Cliquez sur les sections ci-dessous pour en savoir plus:"
+description: ""
+full_width: true
+collection: true
+notion_id: "56a67f7e4e114f4f88e0b397b0340c4f"
+---
+<div class="notion-collection-gallery medium">
+  <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/how-to-record-spp-in-procurement" class="notion-link notion-collection-card__anchor">How to record SPP in procurement</a>
+    <div class="notion-collection-card__content notion-collection-card__property-list">
+      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to record SPP in procurement</div>
+    </div>
+  </div>
+  <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/options-for-measuring" class="notion-link notion-collection-card__anchor">Options for measuring </a>
+    <div class="notion-collection-card__content notion-collection-card__property-list">
+      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Options for measuring </div>
+    </div>
+  </div>
+  <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/how-to-measure-spp-uptake" class="notion-link notion-collection-card__anchor">How to measure SPP uptake</a>
+    <div class="notion-collection-card__content notion-collection-card__property-list">
+      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to measure SPP uptake</div>
+    </div>
+  </div>
+  <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
+    <div class="notion-collection-card__content notion-collection-card__property-list">
+      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
+    </div>
+  </div>
+</div>

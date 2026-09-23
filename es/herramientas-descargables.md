@@ -1,0 +1,66 @@
+---
+permalink: "/herramientas-descargables"
+title: "Herramientas descargables"
+description: "\nPara cuando esté estableciendo su marco de trabajo:"
+cover: "/assets/images/PUBLIC_SPP_background.jpg"
+icon: "/assets/images/download-circular-button_%281%29.png"
+full_width: true
+notion_id: "7972c3259dfd4017bdeefe743f324c0f"
+---
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% include sidebar-es.html %}
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.7500000000000001);margin-inline-start:var(--column-spacing)" markdown="1">
+
+<div class="notion-text"></div>
+
+<div class="notion-callout bg-gray-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herramientas prácticas que usted puede usar para ayudarlo a planear APP. En esta sección incluimos una selección de algunos de los más útiles, en formatos descargables y editables.</span></div>
+</div>
+
+<br>**Para cuando esté estableciendo su marco de trabajo:**
+
+- [Quick checklist - Evaluate your enabling environment](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante)
+- [Quick checklist - Share your compliance trail](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento)
+
+<div class="notion-text"></div>
+
+**Para cuando esté priorizando categorías de contrataciones:**
+
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+
+<div class="notion-text"></div>
+
+**Para cuando esté configurando un sistema de seguimiento y evaluación:**
+
+- [Monitoring and evaluation (M&E) framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629)
+
+<div class="notion-text"></div>
+
+**Para cuando esté armando su Plan de Acción:**
+
+- [Sample outline of an SPP Action Plan](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps)
+
+<div class="notion-text"></div>
+
+**Para cuando esté considerando sus opciones para el seguimiento de la sostenibilidad en su contratación:**
+
+- [Table of options for data use ](/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos)
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+
+<div class="notion-text"></div>
+
+</div>
+</div>

@@ -5,3 +5,15 @@ defaults:
       path: ""
     values:
       layout: default
+# Output text as written: no heading IDs, curly quotes or typographic symbols.
+kramdown:
+  auto_ids: false
+  smart_quotes: apos,apos,quot,quot
+  typographic_symbols:
+    hellip: "..."
+    mdash: "---"
+    ndash: "--"
+    laquo: "<<"
+    raquo: ">>"
+    laquo_space: "<< "
+    raquo_space: " >>"

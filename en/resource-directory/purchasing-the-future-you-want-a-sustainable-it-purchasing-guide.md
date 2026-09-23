@@ -1,0 +1,68 @@
+---
+permalink: "/resource-directory/purchasing-the-future-you-want-a-sustainable-it-purchasing-guide"
+title: "Purchasing the future you want: A sustainable IT purchasing guide"
+notion_id: "b0e78cb8e3c64361ab69e704dca695eb"
+---
+<div class="notion-page__properties">
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Attachment</span></div>
+    </div>
+    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf</a></span></span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Geographic area</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-yellow first">Europe</span><span class="notion-pill pill-pink">Asia</span><span class="notion-pill pill-orange">Africa</span><span class="notion-pill pill-default">Latin America and the Caribbean</span><span class="notion-pill pill-orange">North America</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Language</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Length</span></div>
+    </div>
+    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">30</div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Organization</span></div>
+    </div>
+    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">HP Development Company </p>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>SPP focus</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span><span class="notion-pill pill-purple">Social</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Sectors</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-3c523e4b"><span class="notion-pill pill-yellow first">ICT</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Type of guidance</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-blue first">Implementing SPP in Specific Sectors</span><span class="notion-pill pill-brown">Setting Sustainability Criteria</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>User</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-blue first">National Authorities</span><span class="notion-pill pill-brown">Procurement Teams</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Year</span></div>
+    </div>
+    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2020</div>
+  </div>
+  <div class="notion-divider"></div>
+</div>

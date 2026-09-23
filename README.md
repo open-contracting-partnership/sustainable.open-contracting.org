@@ -19,7 +19,7 @@ Each build writes to `_site/<lang>/`, which is the output directory for that sit
 
 ## Pages
 
-Each page is `<lang>/<path>.html`, with front matter:
+Each page is `<lang>/<path>.md`, with front matter:
 
 | Key | Description |
 | --- | --- |
@@ -35,6 +35,8 @@ Each page is `<lang>/<path>.html`, with front matter:
 
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header. The sidebar is in `_includes/sidebar-<lang>.html`.
 
+Paragraphs, headings, lists, bold, italics and links are Markdown. Other Notion blocks (callouts, toggles, columns, databases, images, etc.) are HTML, in which Markdown is enabled with `markdown="1"`. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. An empty `<div class="notion-text"></div>` is Notion's spacing between blocks.
+
 ## How the content was produced
 
 The pages are the server-rendered HTML of the live sites, not the Notion export, because the export loses toggles, columns, gallery views, icons and covers.
@@ -43,6 +45,15 @@ The pages are the server-rendered HTML of the live sites, not the Notion export,
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
 1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.html`, with its metadata and header as front matter and its sidebar replaced by an include, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
 
-`import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`.
+`import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`. It converts HTML to Markdown with `scripts/markdown.py`, which keeps HTML wherever the Markdown wouldn't render the same HTML, as rendered by `scripts/render_markdown.rb`, and writes a report to `.crawl/markdown-report.json`.
+
+To check that a change doesn't change how pages look, build the sites and compare screenshots before and after:
+
+```bash
+uv run scripts/screenshots.py take before
+# make the change and build the sites
+uv run scripts/screenshots.py take after
+uv run scripts/screenshots.py compare before after
+```
 
 The stylesheets in `assets/css/` (except `fonts.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles and code block copy buttons. `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.

@@ -9,6 +9,8 @@ import shutil
 import urllib.parse
 from pathlib import Path
 
+import markdown
+
 ROOT = Path(__file__).resolve().parent.parent
 CRAWL = ROOT / ".crawl"
 IMAGES = json.loads((CRAWL / "images.json").read_text())
@@ -53,6 +55,7 @@ def clean(text):
         text,
     )
     text = re.sub(r'<span style="display:contents">(<img [^>]*>)</span>', r"\1", text)
+    text = re.sub(r'<span class="notion-heading__anchor" id="[^"]*"></span>', "", text)
     text = re.sub(r"<img [^>]*>", clean_image, text)
     return text
 
@@ -272,6 +275,7 @@ def main():
             indent(sidebars[lang]) + "\n"
         )
 
+    contents = []
     for lang, path, data, content in pages:
         if column := sidebar(content):
             normalized = re.sub(r' id="[^"]*"', "", column)
@@ -283,9 +287,18 @@ def main():
                     + normalized[len(sidebars[lang]) :]
                     + content[start + len(column) :]
                 )
-        filename = ROOT / lang / ((path.strip("/") or "index") + ".html")
+        contents.append(content)
+
+    markdowns, (converted, candidates) = markdown.to_markdown(contents, indent)
+    for (lang, path, data, _), content, text in zip(pages, contents, markdowns):
+        extension = ".html" if text is None else ".md"
+        filename = ROOT / lang / ((path.strip("/") or "index") + extension)
         filename.parent.mkdir(parents=True, exist_ok=True)
-        filename.write_text(front_matter(data) + indent(content) + "\n")
+        body = indent(markdown.strip_ids(content)) if text is None else text
+        filename.write_text(front_matter(data) + body + "\n")
+    print(
+        f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages converted to Markdown"
+    )
 
     # Super.so lists pages that it no longer renders, from super-so-pages.csv (exported from its dashboard).
     stale = {lang: [] for lang in SITES.values()}

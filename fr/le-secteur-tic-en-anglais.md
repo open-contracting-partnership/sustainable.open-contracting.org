@@ -1,0 +1,72 @@
+---
+permalink: "/le-secteur-tic-en-anglais"
+title: "Le secteur TIC (en anglais)"
+description: "The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities."
+cover: "/assets/images/PUBLIC_SPP_background.jpg"
+icon: "/assets/images/Icons_Grey5.png"
+full_width: true
+notion_id: "6f197651e77f4ebf9335d79b14b6df4a"
+---
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% include sidebar-fr.html %}
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+
+# Les technologies de l’information et des communications
+
+<div class="notion-text"></div>
+
+The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities.
+
+The extraction and disposal of minerals used in the ICT sector are associated with [material toxicity and resource depletion](https://www.ericsson.com/48d8c2/assets/local/reports-papers/research-papers/research-brief-material-footprints-ict-entertainment-media.pdf). It is estimated that, although e-waste generated in the ICT sector accounts for only [2% of solid waste streams, it represents 70%](https://www.who.int/publications/i/item/9789240023901) of the hazardous waste that ends up in landfill.
+
+The environmental impacts associated with the ICT sector also have a strong impact across the economic and social pillars of sustainability. Material toxicity, for example, can have negative impacts on the health of workers across the supply chain, mainly those involved in mining, smelting, manufacturing, and e-waste handling. Due to the lack of transparency in the ICT supply chain, it is difficult to monitor these activities, which are often also associated with labour rights violations.
+
+<div class="notion-text"></div>
+
+<div class="notion-callout bg-gray-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey8.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">This section focuses on the purchase of hardware equipment, which mainly includes <strong>displays, notebooks, desktops, all-in-one PCs, projectors, headsets, network equipment, data storage devices, servers, printers, and scanners.</strong></span></div>
+</div>
+
+<div class="notion-text"></div>
+
+<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-collection inline collection-77d625d4745e435d996bbbff901b3495">
+  <div class="notion-collection__header-wrapper">
+    <h3 class="notion-collection__header"><a class="notion-anchor" href="#f1cf075948e442fea3f54af9195214de"></a><span class="notion-semantic-string"><strong>Click through to learn more</strong></span></h3>
+  </div>
+  <div class="notion-collection-gallery medium">
+    <div class="notion-collection-card gallery"><a href="/le-secteur-tic-en-anglais/setting-the-framework" class="notion-link notion-collection-card__anchor">Setting the framework</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Setting the framework</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="/le-secteur-tic-en-anglais/selecting-your-data" class="notion-link notion-collection-card__anchor">Selecting your data</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Selecting your data</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="/le-secteur-tic-en-anglais/collecting-the-data" class="notion-link notion-collection-card__anchor">Collecting the data</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Collecting the data</div>
+      </div>
+    </div>
+    <div class="notion-collection-card gallery"><a href="/le-secteur-tic-en-anglais/supporting-effective-spp" class="notion-link notion-collection-card__anchor">Supporting effective SPP</a>
+      <div class="notion-collection-card__content notion-collection-card__property-list">
+        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Supporting effective SPP</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="notion-text"></div>
+
+</div>
+</div>
+
+<div class="notion-text"></div>

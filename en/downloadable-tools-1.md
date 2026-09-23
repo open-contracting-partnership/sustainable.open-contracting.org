@@ -1,0 +1,73 @@
+---
+permalink: "/downloadable-tools-1"
+title: "Downloadable tools"
+description: "\nFor when you are establishing your framework:"
+cover: "/assets/images/PUBLIC_SPP_background.jpg"
+icon: "/assets/images/download-circular-button_%281%29.png"
+full_width: true
+notion_id: "b2008e60931f4cb987bfa2533c6ecfde"
+---
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% include sidebar-en.html %}
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+
+<div class="notion-text"></div>
+
+<div class="notion-callout bg-gray-light border">
+  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats. </span></div>
+</div>
+
+<br>**For when you are establishing your framework:**
+
+- [Quick checklist - Evaluate your enabling environment](/establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment)
+- [Quick checklist - Share your compliance trail](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail)
+
+<div class="notion-text"></div>
+
+**For when you are prioritizing procurement categories:**
+
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+
+<div class="notion-text"></div>
+
+**For when you are setting a system for monitoring and evaluation:**
+
+- [Monitoring and evaluation (M&E) framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629)
+
+<div class="notion-text"></div>
+
+**For when you are putting together your Action Plan:**
+
+- [Sample outline of an SPP Action Plan](/create-an-action-plan/sample-outline-of-an-spp-action-plan)
+
+<div class="notion-text"></div>
+
+**For when you are considering your options for tracking sustainability in your procurement:**
+
+- [Table of options for data use ](/options-for-data-use-1/table-of-options-for-data-use)
+
+<div class="notion-text"></div>
+
+**For when you need a quick summary**
+
+- [Policy Brief: Open, Sustainable Government Procurement. For People, Planet and Prosperity](https://www.open-contracting.org/resources/open-sustainable-government-procurement-for-people-planet-and-prosperity/)
+- Video introduction: [How to implement open sustainable public procurement](https://www.youtube.com/watch?v=tUlB2sv-muI)
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+<div class="notion-text"></div>
+
+</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+
+<div class="notion-text"></div>
+
+</div>
+</div>

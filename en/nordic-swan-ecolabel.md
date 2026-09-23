@@ -1,0 +1,43 @@
+---
+permalink: "/nordic-swan-ecolabel"
+title: "Nordic Swan Ecolabel"
+notion_id: "3c3d2b56258d4d0bbfb4f2c81bfeff3a"
+---
+<div class="notion-page__properties">
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Criteria available</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-6c4e486b"></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Geographical Area</span></div>
+    </div>
+    <p class="notion-property notion-property__text property-48753f73 notion-semantic-string">Norway</p>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Includes social criteria</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-3a466268"><span class="notion-pill pill-pink first">Yes</span></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Link to criteria</span></div>
+    </div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Sectors</span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-6c3f4468"></div>
+  </div>
+  <div class="notion-page__property">
+    <div class="notion-page__property-name-wrapper">
+      <div class="notion-page__property-name"><span>Type </span></div>
+    </div>
+    <div class="notion-property notion-property__select wrap property-4a48656e"><span class="notion-pill pill-green first">Type I</span></div>
+  </div>
+  <div class="notion-divider"></div>
+</div>
