@@ -24,7 +24,7 @@ En esta sección presentamos los diferentes factores que puede tener en cuenta a
 Aunque hay muchas maneras de determinar prioridades, es realmente importante tanto vincular a las partes interesadas en el proceso, con el fin de conocer sus puntos de vista y comunicar las decisiones tomadas para que puedan ser implementadas hasta en el Plan de Acción clara que recomendamos el final de esta sección.
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Prioritisation-Diagram-es.png"/></div>
+{% image /assets/images/Prioritisation-Diagram-es.png 1920 1080 align-start %}
 
 ## **Considere una lista preliminar de categorías para contratación**
 

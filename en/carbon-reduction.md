@@ -68,7 +68,7 @@ There are a number of different options available to those looking to link procu
 
 **Below we outline how teams can start to implement these initiatives:**
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="585.734375" height="390.85555295220246" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Screenshot_2022-02-17_at_09.49.19.png"/></div>
+{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png 585.73 390.86 align-start %}
 
 At the beginning of this section, we introduced [ten different ways](/options-for-data-use-1) in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected four which can be especially useful for measuring carbon reduction:
 

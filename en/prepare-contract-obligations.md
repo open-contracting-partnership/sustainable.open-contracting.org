@@ -63,7 +63,7 @@ Sustainability clauses are often considered as separate to business demands, whi
 
 {% endtoggle %}
 
-<div class="notion-image align-start normal"><img alt="image" loading="lazy" width="672" height="420" style="height:auto" src="/assets/images/Untitled.jpg"/></div>
+{% image /assets/images/Untitled.jpg 672 420 align-start normal %}
 
 ## **Have clear continuous improvement standards**
 

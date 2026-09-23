@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:39 PM"
   Tags: {}
 ---
-<div class="notion-image page-width"><img alt="image" loading="lazy" width="1278" height="1099" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11e.jpg"/></div>
+{% image /assets/images/Asset_11e.jpg 1278 1099 %}
 
 # Analysing and reporting data
 

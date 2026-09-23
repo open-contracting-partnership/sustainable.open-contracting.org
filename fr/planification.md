@@ -14,7 +14,7 @@ Dans cette partie, **nous mettons à votre disposition toutes les informations d
 Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte cinq sections répondant chacune aux besoins essentiels que nous avons recensés auprès des parties prenantes en ce qui concerne le début de la transformation de leurs pratiques d’achat.
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1648" height="706" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_1Plan_%285%29.png"/></div>
+{% image /assets/images/Group_1Plan_%285%29.png 1648 706 align-start %}
 
 {% database **Cliquez sur une section pour en savoir plus** %}
 {% gallery medium %}

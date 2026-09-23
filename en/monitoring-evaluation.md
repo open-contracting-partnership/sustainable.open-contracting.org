@@ -52,7 +52,7 @@ If a public authority decides to select “Reducing carbon value associated with
 
 The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides guidance on information needed to measure each indicator, a proposed method for measuring it, and options to record the needed data. Below you can see an example from the table.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.9765625" height="290.0136747262774" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/GOIS_%282%29.png"/></div>
+{% image /assets/images/GOIS_%282%29.png 701.98 290.01 align-start %}
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
@@ -66,13 +66,12 @@ The structure presented on the table above can be used within your organization 
 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Deep dive into five specific Open SPP worked examples:
-</strong></span>
-    <a href="/open-data-measuring-progress" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Open data &amp; measuring progress" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Notion-Imp_3.png"/></span><span class="notion-page__title notion-semantic-string">Open data &amp; measuring progress</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+<strong>Deep dive into five specific Open SPP worked examples:
+</strong>
+
+{% page /open-data-measuring-progress %}
+{% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**

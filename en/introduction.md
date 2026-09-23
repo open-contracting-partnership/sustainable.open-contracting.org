@@ -30,7 +30,7 @@ Practitioners realize that they need to buy things in a fundamentally different 
 As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource. 
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.984375" height="288.80182418082524" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_2Introduction_%282%29.png"/></div>
+{% image /assets/images/Group_2Introduction_%282%29.png 701.98 288.8 align-start %}
 
 {% database Click through to learn more %}
 {% gallery large %}

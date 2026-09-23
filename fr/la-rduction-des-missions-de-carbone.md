@@ -67,7 +67,7 @@ Il existe plusieurs possibilités pour relier les données relatives aux marché
 
 **Below we outline how teams can start to implement these initiatives:**
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1067" height="712" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Screenshot_2022-02-17_at_09.49.19.png"/></div>
+{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png 1067 712 align-start %}
 
 Il existe plusieurs possibilités pour relier les données relatives aux marchés publics aux émissions de carbone. Vous pouvez par exemple recenser simplement les appels d’offres « adaptés aux solutions émettant peu de carbone » ou encore exiger des informations détaillées sur la quantité de carbone économisée durant l’exécution d’un marché.
 

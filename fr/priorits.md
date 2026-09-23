@@ -25,7 +25,7 @@ Bien qu’il existe de nombreuses façons de définir des catégories prioritair
  clair que nous recommandons à la fin de cette section.
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Prioritisation-Diagram-fr.png"/></div>
+{% image /assets/images/Prioritisation-Diagram-fr.png 1920 1080 align-start %}
 
 ## **Examiner une liste préliminaire de catégories de marchés**
 

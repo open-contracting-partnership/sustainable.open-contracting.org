@@ -111,13 +111,12 @@ La estructura presentada en la tabla anterior se puede utilizar dentro de su org
 
 El desarrollo de metas, resultados e indicadores exige un entendimiento integral de lo que usted está tratando de lograr, y la manera de hacerlo. Nuestro ejemplo de Marco M&E le ayudará a pensar cómo se pueden fijar y hacer monitoreo de metas, resultados e indicadores prácticos específicos y medibles
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Láncese a profundidad en estos cinco ejemplos específicos para CPS:
-</strong></span>
-    <a href="/datos-abiertos-y-progreso-de-medicin" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Datos abiertos y progreso de medición" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Notion-Imp_3.png"/></span><span class="notion-page__title notion-semantic-string">Datos abiertos y progreso de medición</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+<strong>Láncese a profundidad en estos cinco ejemplos específicos para CPS:
+</strong>
+
+{% page /datos-abiertos-y-progreso-de-medicin %}
+{% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**

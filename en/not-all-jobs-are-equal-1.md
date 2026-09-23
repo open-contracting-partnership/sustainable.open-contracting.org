@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-<div class="notion-image page-width"><img alt="image" loading="lazy" width="2457" height="1847" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11d.jpg"/></div>
+{% image /assets/images/Asset_11d.jpg 2457 1847 %}
 
 # Not all jobs are equal
 

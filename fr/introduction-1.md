@@ -30,7 +30,7 @@ Les membres des services de passation de marchés savent désormais qu’il est 
 Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'introduction, nous vous fournissons des informations sur ce qui sont **les marchés publics durables et ouverts**, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1648" height="678" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_2Introduction_%283%29.png"/></div>
+{% image /assets/images/Group_2Introduction_%283%29.png 1648 678 align-start %}
 
 {% database Click through to learn more %}
 {% gallery large %}

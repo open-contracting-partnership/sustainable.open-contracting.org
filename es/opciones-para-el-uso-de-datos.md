@@ -12,12 +12,11 @@ sidebar: true
 
 Hay diferentes formas en que los datos abiertos se pueden utilizar para impulsar y medir el progreso en relación con los objetivos de sostenibilidad. A continuación, incluimos diez formas diferentes en las que puede recopilar y utilizar datos para medir y monitorear la sostenibilidad en las compras.
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Las opciones presentadas en esta sección se pueden utilizar para recopilar datos y medir el progreso en relación con los objetivos de sostenibilidad incluidos en nuestro Marco M&amp;E de muestra y desarrollados como ejemplos prácticos en esta sección. Para cada opción, hemos incluido una guía sobre cómo se puede aplicar según su capacidad (es decir, sin código, código bajo, código). Puede acceder y descargar la tabla con todo el conjunto de opciones de uso de datos aquí:</span>
-    <a href="/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Tabla de opciones para uso de datos" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Tabla de opciones para uso de datos</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+Las opciones presentadas en esta sección se pueden utilizar para recopilar datos y medir el progreso en relación con los objetivos de sostenibilidad incluidos en nuestro Marco M&E de muestra y desarrollados como ejemplos prácticos en esta sección. Para cada opción, hemos incluido una guía sobre cómo se puede aplicar según su capacidad (es decir, sin código, código bajo, código). Puede acceder y descargar la tabla con todo el conjunto de opciones de uso de datos aquí:
+
+{% page /opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos %}
+{% endcallout %}
 
 ### **Opción 1: Asigne etiquetas a la contratación**
 

@@ -294,6 +294,48 @@ module NotionTags
   end
 end
 
+module NotionTags
+  # {% page PATH [html] %} renders a link to a page, with its icon and title. Without "html", it is wrapped for use
+  # as a block in Markdown.
+  class Page < Liquid::Tag
+    STYLE = "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;".freeze
+
+    def initialize(tag_name, markup, options)
+      super
+      @path, @format = markup.split
+    end
+
+    def render(context)
+      page = NotionTags.pages(context).fetch(@path)
+      title = CGI.escapeHTML(page["title"].to_s)
+      icon = %(<img alt="#{title}" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"].to_s)}"/>)
+      html = %(<a href="#{CGI.escapeHTML(@path)}" class="notion-link notion-page"><span class="notion-page__icon">#{icon}</span>) +
+             %(<span class="notion-page__title notion-semantic-string">#{title}</span></a>)
+      @format == "html" ? html : "{::nomarkdown}\n#{html}\n{:/nomarkdown}"
+    end
+  end
+end
+
+module NotionTags
+  # {% image SRC WIDTH HEIGHT [align-start] [normal] %} renders an image block, as wide as the page unless "normal".
+  class Image < Liquid::Tag
+    def initialize(tag_name, markup, options)
+      super
+      @src, @width, @height, *@options = markup.split
+    end
+
+    def render(_context)
+      normal = @options.include?("normal")
+      classes = ["notion-image", @options.include?("align-start") ? "align-start" : nil, normal ? "normal" : "page-width"]
+      style = normal ? "height:auto" : "object-fit:contain;object-position:center;height:auto"
+      %(<div class="#{classes.compact.join(" ")}"><img alt="image" loading="lazy" width="#{@width}" height="#{@height}") +
+        %( style="#{style}" src="#{CGI.escapeHTML(@src)}"/></div>)
+    end
+  end
+end
+
+Liquid::Template.register_tag("image", NotionTags::Image)
+Liquid::Template.register_tag("page", NotionTags::Page)
 Liquid::Template.register_tag("database", NotionTags::Database)
 Liquid::Template.register_tag("database_table", NotionTags::DatabaseTable)
 Liquid::Template.register_tag("gallery", NotionTags::Gallery)

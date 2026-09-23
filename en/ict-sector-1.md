@@ -20,7 +20,7 @@ The environmental impacts associated with the ICT sector also have a strong impa
 This section focuses on the purchase of hardware equipment, which mainly includes **displays, notebooks, desktops, all-in-one PCs, projectors, headsets, network equipment, data storage devices, servers, printers, and scanners.**
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
+{% image /assets/images/D3_-_ICT_Diagram.jpg 2560 1440 align-start %}
 
 {% database **Click through to learn more** %}
 {% gallery medium %}

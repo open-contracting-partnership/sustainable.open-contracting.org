@@ -43,12 +43,11 @@ The baseline year is the moment when the data will begin to be collected and key
 
 There are different methods to collecting and analyzing data and these will vary depending on the sustainability goals you are trying to measure progress against. It will also depend on accessible technical resources and capabilities. We have identified three different types of environments: no code, low code, and code. Click through to learn more:
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Click through to learn more about these three environments:</span>
-    <a href="/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code" class="notion-link notion-page"><span class="notion-page__icon"><img alt="No code, low code, code" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">No code, low code, code</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+Click through to learn more about these three environments:
+
+{% page /datos-abiertos-y-progreso-de-medicin/no-code-low-code-code %}
+{% endcallout %}
 
 {% endtoggle %}
 

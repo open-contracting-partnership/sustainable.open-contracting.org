@@ -21,7 +21,7 @@ Es importante tener en cuenta que, **dentro del sector de la construcción, exis
 <br>**Esta sección no entra en detalles sobre los diferentes tipos de proyectos de construcción.**
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D4_-_Construction_Diagram.jpg"/></div>
+{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start %}
 
 {% database **Haga clic para mayor información** %}
 {% gallery medium %}

@@ -693,8 +693,22 @@ def main():
             if language == lang and (column := sidebar(content))
         )
         sidebars[lang] = columns.most_common(1)[0][0]
+        markdown.INCLUDES[f"sidebar-{lang}.html"] = sidebars[lang]
+        # Links to pages are {% page %} tags, which render the pages' icons and titles.
+        markdown.PAGES.clear()
+        markdown.PAGES.update(
+            {
+                path: data
+                for (language, path), data in by_path.items()
+                if language == lang
+            }
+        )
+        lines = []
+        for node in markdown.parse(sidebars[lang]):
+            raw = sidebars[lang][node.start : node.end]
+            lines.append(markdown.page_link(raw, " html") or indent(raw))
         (ROOT / "_includes" / f"sidebar-{lang}.html").write_text(
-            indent(sidebars[lang]) + "\n"
+            "\n".join(lines) + "\n"
         )
 
     contents = []

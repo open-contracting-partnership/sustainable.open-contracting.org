@@ -53,7 +53,7 @@ Si une administration choisit le résultat « Réduction du niveau d’émission
 
 Le [modèle de cadre de suivi et d’évaluation](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) fournit des orientations sur les informations nécessaires pour évaluer chaque indicateur, une méthode de calcul et des possibilités pour collecter les données requises. Voici un extrait de ce cadre.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1370" height="566" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/GOIS_%282%29.png"/></div>
+{% image /assets/images/GOIS_%282%29.png 1370 566 align-start %}
 
 Votre organisation peut reprendre la structure du tableau ci-dessus pour définir ses propres objectifs, résultats et indicateurs concernant ses domaines d’achat prioritaires. Pour voir d’autres exemples, vous trouverez notre modèle de cadre de suivi et d’évaluation complet en cliquant sur le lien ci-dessous.
 
@@ -66,12 +66,11 @@ Votre organisation peut reprendre la structure du tableau ci-dessus pour défini
 
 La définition des objectifs, des résultats et des indicateurs nécessite une bonne compréhension de ce que vous souhaitez accomplir et de la façon dont vous allez procéder. Notre modèle de cadre de suivi et d’évaluation vous aide à définir et évaluer des objectifs, résultats et indicateurs pratiques, spécifiques et évaluables.
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Pour approfondir les cinq exemples de marchés publics durables et ouverts :</strong></span>
-    <a href="/donnes-ouvertes-et-valuation-des-progrs" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Données ouvertes et évaluation des progrès" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Notion-Imp_3.png"/></span><span class="notion-page__title notion-semantic-string">Données ouvertes et évaluation des progrès</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+**Pour approfondir les cinq exemples de marchés publics durables et ouverts :**
+
+{% page /donnes-ouvertes-et-valuation-des-progrs %}
+{% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**

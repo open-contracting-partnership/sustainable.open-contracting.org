@@ -13,14 +13,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 **First, check the regulation regarding evaluation or award criteria (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):**
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether current regulation <strong>only allows you to award a contract to the lowest price bid.</strong> If so, there is many things that you can do to implement SPP, including the following:</span></div>
-  </div>
-</div>
+- [ ] Check whether current regulation **only allows you to award a contract to the lowest price bid.** If so, there is many things that you can do to implement SPP, including the following:
 
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>
@@ -44,23 +37,9 @@ The following checklist is designed to help you assess the different ways in whi
 
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check if there are any <strong>provisions to consider specific social and/or environmental factors as award criteria </strong>(see <a class="notion-link link" href="/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria">here</a> for more information).</span></div>
-  </div>
-</div>
+- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [here](/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria) for more information).
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that the current regulation allows for sufficient <strong>market engagement </strong>during the pre-procurement stage, including soliciting feedback from the market (see <a class="notion-link link" href="/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue">here</a> for more information).</span></div>
-  </div>
-</div>
+- [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [here](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) for more information).
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -71,14 +50,7 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that existing <strong>framework agreements</strong> allow space for the introduction of sustainability criteria (see <a class="notion-link link" href="/establish-an-enabling-environment/framework-agreements">here</a> for more information).</span></div>
-  </div>
-</div>
+- [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [here](/establish-an-enabling-environment/framework-agreements) for more information).
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -89,25 +61,11 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether current regulations allows to establish SPP <strong>targets, reserve contracts</strong> for specific outcomes or groups (see <a class="notion-link link" href="/establish-an-enabling-environment/targets-and-reserved-contracts">here</a> for more information).</span></div>
-  </div>
-</div>
+- [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [here](/establish-an-enabling-environment/targets-and-reserved-contracts) for more information).
 
 **Finally:**
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Openly <strong>communicate the laws and policies</strong> that underpin your SPP practices (see <a class="notion-link link" href="/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail">here</a> for more information).</span></div>
-  </div>
-</div>
+- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [here](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail) for more information).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**

@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:39 PM"
   Tags: {}
 ---
-<div class="notion-image page-width"><img alt="image" loading="lazy" width="1056" height="845" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11b.jpg"/></div>
+{% image /assets/images/Asset_11b.jpg 1056 845 %}
 
 # What to measure?
 

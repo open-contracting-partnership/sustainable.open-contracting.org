@@ -26,6 +26,34 @@ module NotionMarkdown
     end
   end
 
+  CHECKBOX = '<div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 ' \
+             'L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>'.freeze
+
+  # Render a task list ("- [ ] ...") whose items are all unchecked as Notion's to-dos.
+  def convert_ul(el, indent)
+    return el.children.map { |li| convert_todo(li, indent) }.join if el.children.all? { |li| todo?(li) }
+
+    el.attr["class"] ||= CLASSES[:ul]
+    super
+  end
+
+  # The GFM parser replaces "[ ]" with a checkbox.
+  def todo?(li)
+    paragraph = li.children.first
+    checkbox = paragraph&.children&.first
+    li.children.count { |child| child.type != :blank } == 1 && paragraph.type == :p && checkbox&.type == :html_element && checkbox.value == "input" &&
+      !checkbox.attr.key?("checked")
+  end
+
+  def convert_todo(li, indent)
+    paragraph = li.children.first
+    paragraph.children.shift
+    text = paragraph.children.first
+    text.value = text.value.delete_prefix(" ") if text&.type == :text
+    %(<div class="notion-to-do"><div class="notion-to-do__content"><div class="notion-to-do__icon">#{CHECKBOX}</div>) +
+      %(<div class="notion-to-do__title"><span class="notion-semantic-string">#{inner(paragraph, indent)}</span></div></div></div>\n)
+  end
+
   # Render a fenced code block as a Notion code block, without syntax highlighting.
   def convert_codeblock(el, _indent)
     language = el.options[:lang] || el.attr["class"].to_s[/language-(\S+)/, 1]

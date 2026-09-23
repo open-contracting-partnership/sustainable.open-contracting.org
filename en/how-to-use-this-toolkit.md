@@ -12,7 +12,7 @@ sidebar: true
 
 This toolkit has been structured following the process of an SPP journey, from the first steps that should be taken at an institutional level to facilitate and monitor overall implementation, to aspects that should be considered when implementing SPP in specific public contracts. In the last section, we provide guidance on how to use open contracting practices and open data to drive and measure sustainability goals, such as carbon reduction or gender equality.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_%281%29.png"/></div>
+{% image /assets/images/Structure_Diagram_%281%29.png 5504 5563 align-start %}
 
 # Who is this toolkit for?
 

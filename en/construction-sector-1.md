@@ -20,7 +20,7 @@ It is important to note that **within the construction sector, there are differe
 <br>**This section does not go into detail on the different types of construction projects.** 
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D4_-_Construction_Diagram.jpg"/></div>
+{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start %}
 
 {% database Click through to learn more %}
 {% gallery medium %}

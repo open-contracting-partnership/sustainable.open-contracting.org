@@ -12,7 +12,7 @@ sidebar: true
 ***Dans cette deuxième partie, nous mettons à votre disposition toutes les informations dont vous aurez besoin pour intégrer la durabilité au cœur du processus de passation de marchés.*** *Comme vous pouvez le constater dans le diagramme ci-dessous, chacune des six sections répond à une question essentielle concernant la durabilité au sein du cycle de vie d’un marché public.*
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1736" height="721" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_3Implement_%281%29.jpg"/></div>
+{% image /assets/images/Group_3Implement_%281%29.jpg 1736 721 align-start %}
 
 {% database **Cliquez sur une section pour en savoir plus.** %}
 {% gallery medium %}

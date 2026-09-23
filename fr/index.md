@@ -27,7 +27,7 @@ sidebar: true
 [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/).
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_fr.png"/></div>
+{% image /assets/images/Structure_Diagram_fr.png 5504 5563 align-start %}
 
 {% database Votre trajet de la mise en place %}
 {% gallery medium %}
@@ -56,4 +56,4 @@ sidebar: true
 {% endgallery %}
 {% enddatabase %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1500" height="350" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-fr.png"/></div>
+{% image /assets/images/Organizations-fr.png 1500 350 align-start %}

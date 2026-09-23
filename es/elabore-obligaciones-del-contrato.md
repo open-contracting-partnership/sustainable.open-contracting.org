@@ -63,7 +63,7 @@ Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las 
 
 {% endtoggle %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1276" height="950.0000000000001" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/SPP-Contract-Diagram-es.png"/></div>
+{% image /assets/images/SPP-Contract-Diagram-es.png 1276 950 align-start %}
 
 ## **Tenga claros los estándares de mejoramiento continuo**
 

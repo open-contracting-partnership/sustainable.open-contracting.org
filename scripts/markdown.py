@@ -254,10 +254,30 @@ def code_block(node):
     return f"{fence}{language}\n{code}\n{fence}"
 
 
-def block(node, level):
-    """Return the Markdown for a paragraph, heading, list or code block, or None."""
+TODO = re.compile(
+    r'<div class="notion-to-do"><div class="notion-to-do__content"><div class="notion-to-do__icon">'
+    r'<div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="[^"]*"></path></svg></div></div>'
+    r'<div class="notion-to-do__title">(<span class="notion-semantic-string">.*</span>)</div></div></div>',
+    re.S,
+)
+
+
+def todo(node, level, raw):
+    """Return a Notion to-do as a Markdown task list item, or None."""
+    m = TODO.fullmatch(raw)
+    spans = parse(m.group(1)) if m else None
+    content = inline(spans[0].children, level) if spans and len(spans) == 1 else None
+    if not content or content != content.strip() or "\n" in content:
+        return None
+    return f"- [ ] {content}"
+
+
+def block(node, level, raw=""):
+    """Return the Markdown for a paragraph, heading, list, to-do or code block, or None."""
     if node.name == "div" and node.cls == "notion-code no-wrap":
         return code_block(node)
+    if node.name == "div" and node.cls == "notion-to-do":
+        return todo(node, level, raw)
     if node.cls == PARAGRAPH and node.name == "p":
         content = inline(node.children, level)
         if not content or content.startswith((" ", "\t")):
@@ -637,6 +657,56 @@ def database_tag(node, text, indent, candidates):
     return f"{{% database {title} %}}\n" + "\n".join(views) + "\n{% enddatabase %}"
 
 
+IMAGE = re.compile(
+    r'<div class="notion-image(?P<align> align-start)? (?P<size>page-width|normal)"><img alt="image" loading="lazy" '
+    r'width="(?P<width>[\d.]+)" height="(?P<height>[\d.]+)" style="(?P<style>[^"]*)" src="(?P<src>[^" ]*)"/></div>'
+)
+
+
+def image_tag(node, text, indent, candidates):
+    """Return a Notion image block as an {% image %} tag, or None."""
+    m = IMAGE.fullmatch(text[node.start : node.end])
+    normal = m and m.group("size") == "normal"
+    if not m or m.group("style") != (
+        "height:auto"
+        if normal
+        else "object-fit:contain;object-position:center;height:auto"
+    ):
+        return None
+    options = (" align-start" if m.group("align") else "") + (
+        " normal" if normal else ""
+    )
+    width, height = (
+        f"{round(float(m.group(key)), 2):g}" for key in ("width", "height")
+    )
+    return f"{{% image {html.unescape(m.group('src'))} {width} {height}{options} %}}"
+
+
+# The front matter of the pages of the language of the page being converted, by permalink.
+PAGES = {}
+PAGE_LINK = re.compile(
+    r'<a href="(?P<href>[^"]*)" class="notion-link notion-page"><span class="notion-page__icon">'
+    r'<img alt="(?P<alt>[^"]*)" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;'
+    r'left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="(?P<src>[^"]*)"/></span>'
+    r'<span class="notion-page__title notion-semantic-string">(?P<title>[^<]*)</span></a>'
+)
+
+
+def page_link(raw, argument=""):
+    """Return a link to a page, with the page's icon and title, as a {% page %} tag, or None."""
+    m = PAGE_LINK.fullmatch(raw)
+    page = PAGES.get(html.unescape(m.group("href"))) if m else None
+    if (
+        not page
+        or page.get("title") != html.unescape(m.group("title"))
+        or m.group("alt") != m.group("title")
+        or page.get("icon") != html.unescape(m.group("src"))
+        or " " in m.group("href")
+    ):
+        return None
+    return f"{{% page {html.unescape(m.group('href'))}{argument} %}}"
+
+
 # Databases' table views' HTML (without IDs), mapped to {% database_table %} tags by import_pages.py, which also
 # moves the views' cells into the items' front matter.
 VIEWS = {}
@@ -655,6 +725,7 @@ TAGS = {
     "notion-toggle": toggle_tag,
     "notion-column-list": columns_tag,
     "notion-table__wrapper": table_tag,
+    "notion-image": image_tag,
 }
 
 
@@ -666,6 +737,7 @@ def convert(text, indent, candidates, tags=False):
     """
     nodes = parse(text)
     output = []
+    previous_list = None
     for node in nodes:
         if isinstance(node, str):
             if node.strip():
@@ -673,16 +745,27 @@ def convert(text, indent, candidates, tags=False):
                 return None
             continue
         raw = text[node.start : node.end]
+        if tags and (link := page_link(raw)):
+            output.append(link)
+            continue
         if node.name not in BLOCK:
             REPORT["unconverted containers"].append(f"inline element: {node.tag[:120]}")
             return None
-        markdowns = [block(node, level) for level in LEVELS]
+        markdowns = [block(node, level, raw) for level in LEVELS]
         tag = TAGS.get(node.cls.split(" ")[0]) if tags and node.name == "div" else None
         if markdowns[-1] is not None:
+            # Markdown would join adjacent lists of different kinds (to-dos and bulleted lists), unless separated by
+            # an end-of-block marker, directly after the first list (after a blank line, the list would be loose).
+            kind = "to-do" if node.cls == "notion-to-do" else node.name
+            if kind in ("to-do", "ul", "ol") and previous_list not in (None, kind):
+                output[-1] += "\n^"
+            previous_list = kind if kind in ("to-do", "ul", "ol") else None
             key = f"\x00{len(candidates)}\x00"
             candidates.append((markdowns, strip_ids(raw), indent(strip_ids(raw))))
             output.append(key)
-        elif tag and (markdown := tag(node, text, indent, candidates)) is not None:
+            continue
+        previous_list = None
+        if tag and (markdown := tag(node, text, indent, candidates)) is not None:
             output.append(markdown)
         elif node.name == "div" and (
             node.cls in CONTAINERS
@@ -772,6 +855,12 @@ def normalize(text):
         elif token.strip():
             output.append(html.unescape(token.strip()))
     text = "".join(output)
+    # Images' dimensions are rounded.
+    text = re.sub(
+        r"\b(width|height)='([\d.]+)'",
+        lambda m: f"{m.group(1)}='{round(float(m.group(2)), 2):g}'",
+        text,
+    )
     # Cover positions are rounded.
     text = re.sub(
         r"object-position:center ([\d.]+)%",
@@ -808,20 +897,28 @@ def normalize(text):
     # Trailing spaces in a block don't render (white-space: pre-wrap), and Markdown drops them.
     text = re.sub(r" +(</(?:p|li|h1|h2|h3)>)", r"\1", text)
     return re.sub(
-        r" +(</span>)(?=</div>|</h[1-6]>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text
-    )
-
-
-def expand_includes(text):
-    """Replace {% include %} tags with the included files, to compare with rendered Liquid."""
-    return re.sub(
-        r"\{% include ([\w.-]+) %\}",
-        lambda m: (ROOT / "_includes" / m.group(1)).read_text(),
+        r" +(</span>)(?=</div>|</h[1-6]>|<(?:div|p|ul|ol|h[1-6]) |<a class='notion-link notion-page')",
+        r"\1",
         text,
     )
 
 
-def report_page(expected, actual):
+# The HTML that includes render, by filename, for includes that contain Liquid tags.
+INCLUDES = {}
+
+
+def expand_includes(text):
+    """Replace {% include %} tags with the included files' HTML, to compare with rendered Liquid."""
+    return re.sub(
+        r"\{% include ([\w.-]+) %\}",
+        lambda m: (
+            INCLUDES.get(m.group(1)) or (ROOT / "_includes" / m.group(1)).read_text()
+        ),
+        text,
+    )
+
+
+def report_page(expected, actual, draft=""):
     i = next(
         (i for i, (a, b) in enumerate(zip(expected, actual)) if a != b),
         min(len(expected), len(actual)),
@@ -830,6 +927,7 @@ def report_page(expected, actual):
         {
             "expected": expected[max(0, i - 300) : i + 300],
             "actual": actual[max(0, i - 300) : i + 300],
+            "draft": draft,
         }
     )
 
@@ -841,15 +939,18 @@ def to_markdown(pages, indent, languages, front_matter):
     Use Liquid tags for complex blocks, unless the page wouldn't render the same.
     """
     candidates = []
-    drafts = [
-        [
-            convert(strip_ids(content), indent, candidates, tags)
-            if content.strip()
-            else ""
-            for tags in (True, False)
-        ]
-        for content in pages
-    ]
+    drafts = []
+    for content, language in zip(pages, languages):
+        PAGES.clear()
+        PAGES.update(front_matter[language])
+        drafts.append(
+            [
+                convert(strip_ids(content), indent, candidates, tags)
+                if content.strip()
+                else ""
+                for tags in (True, False)
+            ]
+        )
 
     # Render each block's Markdown at each escaping level, and use the lowest level that renders the same HTML.
     rendered = iter(
@@ -901,7 +1002,7 @@ def to_markdown(pages, indent, languages, front_matter):
                 tagged += i == 0
                 break
             if draft is not None:
-                report_page(expected, normalize(output))
+                report_page(expected, normalize(output), draft)
         else:
             final.append(None)
     (ROOT / ".crawl" / "markdown-report.json").write_text(

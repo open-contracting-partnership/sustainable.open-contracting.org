@@ -45,12 +45,11 @@ L’année de référence est le moment où vous commencerez à collecter des do
 
 Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables. 
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Nous avons recensé trois types d’environnements : </span>
-    <a href="/donnes-ouvertes-et-valuation-des-progrs/aucun-code-code-restreint-et-code" class="notion-link notion-page"><span class="notion-page__icon"><img alt="aucun code, code restreint et code." loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">aucun code, code restreint et code.</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+Nous avons recensé trois types d’environnements : 
+
+{% page /donnes-ouvertes-et-valuation-des-progrs/aucun-code-code-restreint-et-code %}
+{% endcallout %}
 
 {% endtoggle %}
 

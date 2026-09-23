@@ -12,7 +12,7 @@ sidebar: true
 **In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.** As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. 
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="691.8046875" height="273.33541848776224" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_3Implement.png"/></div>
+{% image /assets/images/Group_3Implement.png 691.8 273.34 align-start %}
 
 {% database Click through to learn more %}
 {% gallery medium %}

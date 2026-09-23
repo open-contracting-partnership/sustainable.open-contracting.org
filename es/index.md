@@ -26,7 +26,7 @@ sidebar: true
 <br>[Access the toolkit in English](https://sustainable.open-contracting.org/)<strong><br></strong>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_esp.png"/></div>
+{% image /assets/images/Structure_Diagram_esp.png 5504 5563 align-start %}
 
 {% database El proceso de implementación Open SPP %}
 {% gallery medium %}
@@ -55,4 +55,4 @@ sidebar: true
 {% endgallery %}
 {% enddatabase %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="745.4765625" height="173.94453125" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-es.png"/></div>
+{% image /assets/images/Organizations-es.png 745.48 173.94 align-start %}

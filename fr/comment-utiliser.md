@@ -12,7 +12,7 @@ sidebar: true
 
 La structure de ce guide pratique suit le déroulement d’un processus de passation de marchés publics durables, des premières étapes visant à faciliter et suivre leur mise en place globale à l’échelle institutionnelle aux aspects qui doivent être pris en compte au moment de mettre en place des marchés publics durables concernant certaines catégories de marchés. Dans la dernière section, nous indiquons comment utiliser des pratiques de la commande publique ouverte et les données ouvertes pour favoriser et évaluer la réalisation d’objectifs de durabilité, comme la réduction des émissions de carbone ou l’égalité entre les genres.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_fr.png"/></div>
+{% image /assets/images/Structure_Diagram_fr.png 5504 5563 align-start %}
 
 # **À qui est destiné ce guide pratique ?**
 

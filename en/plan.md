@@ -13,7 +13,7 @@ In this section, **we provide you with all the information you need to get start
 <br>As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started. 
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.9921875" height="300.73209003337377" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_1Plan_%283%29.png"/></div>
+{% image /assets/images/Group_1Plan_%283%29.png 701.99 300.73 align-start %}
 
 {% database Click through to learn more %}
 {% gallery medium %}

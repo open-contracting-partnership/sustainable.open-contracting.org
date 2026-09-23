@@ -14,7 +14,7 @@ Throughout the toolkit, we have explained the importance of high quality and ope
 **In this section, we provide a deeper dive into the options available to collect the data you need to measure progress against your goals.** As you can see on the diagram below, first, we introduce a set of general data collection considerations and options on how to use data to measure progress across different goals. Then, we turn the five goals from the M&E framework into five worked examples of how to use open data to measure progress in: (1) SPP uptake, (2) carbon reduction, (3) gender inclusion, (4) economic development, and (5) promoting life cycle costing.
 {% endcallout %}
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="585.734375" height="255.32011217948718" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_4Open_data_%282%29.png"/></div>
+{% image /assets/images/Group_4Open_data_%282%29.png 585.73 255.32 align-start %}
 
 ## Steps towards collecting and publishing data
 
@@ -44,12 +44,11 @@ The baseline year is the moment when the data will begin to be collected and key
 
 There are different methods to collecting and analyzing data and these will vary depending on the sustainability goals you are trying to measure progress against. It will also depend on accessible technical resources and capabilities. We have identified three different types of environments: no code, low code, and code. Click through to learn more:
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Click through to learn more about these three environments:</span>
-    <a href="/open-data-measuring-progress/no-code-low-code-code" class="notion-link notion-page"><span class="notion-page__icon"><img alt="No code, low code, code" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">No code, low code, code</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+Click through to learn more about these three environments:
+
+{% page /open-data-measuring-progress/no-code-low-code-code %}
+{% endcallout %}
 
 {% endtoggle %}
 

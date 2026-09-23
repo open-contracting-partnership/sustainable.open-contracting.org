@@ -12,7 +12,7 @@ sidebar: true
 
 Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : *les avantages économiques, sociaux et environnementaux.*
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/What-is-SPP-Diagram-fr.png"/></div>
+{% image /assets/images/What-is-SPP-Diagram-fr.png 1920 1080 align-start %}
 
 [Des utilisateurs de nos ressources ont souligné](https://sustainable.open-contracting.org/what-did-our-users-tell-us) que souvent, l’évaluation et la production d’effets environnementaux plus positifs constituaient les aspects les plus difficiles de ces trois piliers. Ainsi, même si nous conservons un cadre global d’achat durable, ce guide sera axé sur des approches visant à renforcer la durabilité environnementale (aussi connues sous le nom de « marchés publics écologiques ») sans compromettre les objectifs de durabilité économique et sociale.
 
@@ -33,7 +33,7 @@ L’ouverture est un changement d’état d’esprit qui concerne les données r
 
 Tout au long de ce guide, nous parlerons de ces différentes modalités d’ouverture, qui constituent des moteurs essentiels des marchés publics durables.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/7-Open-SPP-Steps-Diagram-_fr.png"/></div>
+{% image /assets/images/7-Open-SPP-Steps-Diagram-_fr.png 1920 1080 align-start %}
 
 {% callout default /assets/images/7_areas_open_SPP.png %}
 **Divulguer vos politiques et votre approche des marchés publics durables.**
@@ -90,7 +90,7 @@ Nous avons déjà compilé des orientations montrant comment les données ouvert
 
 Les signaux écologiques peuvent aider à déterminer les principales catégories de données qui devront être mobilisées pour planifier et mettre en place des marchés publics écologiques. Le tableau ci-dessous illustre certaines informations essentielles que vous pouvez collecter durant les phases de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics et indique en quoi elles peuvent aider à observer, évaluer et analyser les marchés publics.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1241" height="1754.0000000000002" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/tableau-openspp.jpg"/></div>
+{% image /assets/images/tableau-openspp.jpg 1241 1754 align-start %}
 
 ## **Le rôle primordial des identifiants dans le suivi des résultats des marchés publics durables**
 
@@ -100,7 +100,7 @@ Les identifiants vous permettent de relier des données provenant de plusieurs s
 
 Le schéma OCDS fournit des orientations complémentaires sur les identifiants que vous pouvez utiliser pour regrouper et croiser les données relatives à la commande publique, notamment des identifiants pour les titulaires de marchés publics et des identifiants institutionnels permettant de déterminer qui participe à la création et la gestion des marchés.
 
-<div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2179" height="999.9999999999999" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/OCDS_model_fr.png"/></div>
+{% image /assets/images/OCDS_model_fr.png 2179 1000 align-start %}
 
 L’absence d’identifiants cohérents dans les systèmes d’information gouvernementaux est une faiblesse structurelle qui nuit à la qualité des données et peut sérieusement perturber la collecte et l’analyse de ces dernières, mais plusieurs [stratégies simples peuvent être mises en place pour permettre à n’importe quel acteur de gagner en efficacité](https://standard.open-contracting.org/latest/fr/schema/identifiers/).
 

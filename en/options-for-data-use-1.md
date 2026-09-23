@@ -12,12 +12,11 @@ sidebar: true
 
 There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement. 
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The options presented on this section can be used to gather data and measure progress against the sustainability goals included within our sample <a href="/monitoring-evaluation/sample-me-framework" class="notion-link link">M&amp;E framework</a> and developed as worked examples in <a href="/open-data-measuring-progress" class="notion-link link">this section.</a> For each option, we have included guidance on how it can be applied depending on your capacity (i.e. <a href="/open-data-measuring-progress/no-code-low-code-code" class="notion-link link">no code, low code, code</a>). You can access and download the table with the whole set of data use options here:</span>
-    <a href="/options-for-data-use-1/table-of-options-for-data-use" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Table of options for data use" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Table of options for data use</span></a>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+The options presented on this section can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section.](/open-data-measuring-progress) For each option, we have included guidance on how it can be applied depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). You can access and download the table with the whole set of data use options here:
+
+{% page /options-for-data-use-1/table-of-options-for-data-use %}
+{% endcallout %}
 
 ### **Option 1: Assign tags to procurements**
 

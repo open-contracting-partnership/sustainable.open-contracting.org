@@ -35,10 +35,10 @@ For governments too, there are benefits. Publishing the data openly allows gover
 
 ### The art of the possible
 
-<div class="notion-image page-width"><img alt="image" loading="lazy" width="2554" height="1220" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Screenshot_2022-06-24_at_11.52.38.png"/></div>
+{% image /assets/images/Screenshot_2022-06-24_at_11.52.38.png 2554 1220 %}
 
 Source: [https://vpt.lrv.lt/lt/svieslente](https://vpt.lrv.lt/lt/svieslente)
 
-<div class="notion-image page-width"><img alt="image" loading="lazy" width="1942" height="1448" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Screenshot_2022-06-24_at_11.53.04.png"/></div>
+{% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png 1942 1448 %}
 
 Source: [https://spendnetwork.com/carbon/](https://spendnetwork.com/carbon/)

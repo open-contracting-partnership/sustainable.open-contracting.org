@@ -5,7 +5,9 @@
 require "jekyll"
 require "json"
 
-site = Jekyll::Site.new(Jekyll.configuration("config" => ["_config.yml", "_config.en.yml"], "quiet" => true))
+# Jekyll caches conversions by content, not by plugin code, so the cache could be stale.
+config = Jekyll.configuration("config" => ["_config.yml", "_config.en.yml"], "quiet" => true, "disable_disk_cache" => true)
+site = Jekyll::Site.new(config)
 converter = site.find_converter_instance(Jekyll::Converters::Markdown)
 input = JSON.parse($stdin.read)
 output = input["documents"].map do |document|
