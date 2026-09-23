@@ -6,9 +6,7 @@ cover: /assets/images/LAC_-_CDMX.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: a38e01b3b7d64f44a1f0ccf39b948e12
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 Après dix ans d’exploitation, **la ville de Mexico a décidé d’étendre son réseau écologique et abordable de vélos en libre-service à de nouveaux quartiers et d’améliorer la conception et la technologie utilisée moyennant un coût raisonnable.** La ville avait besoin de promouvoir la compétitivité d’un marché concentré, de se renseigner sur les dernières technologies et innovations concernant les vélos en libre-service et de fournir un service de meilleure qualité sur une zone plus vaste pour un budget identique, voire inférieur.

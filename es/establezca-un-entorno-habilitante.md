@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Establezca un entorno habilitante</strong></h1>

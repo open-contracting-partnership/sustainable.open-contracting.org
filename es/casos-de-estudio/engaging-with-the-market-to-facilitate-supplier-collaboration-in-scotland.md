@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_Scotland.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "19c28a0d671849bbb2e1b7a49bac81e3"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In 2006, Scotland’s Forth Road Bridge showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. **Due to the complexity of the project, Transport Scotland decided to**[ **engage with the market**](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2018/12/construction-procurement-handbook/documents/chapter-4/chapter-4/govscot%3Adocument/chapter-4.pdf) **in order to gain knowledge and assess the procurement plan.**

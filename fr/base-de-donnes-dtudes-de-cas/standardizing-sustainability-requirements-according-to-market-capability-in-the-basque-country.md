@@ -5,9 +5,7 @@ cover: /assets/images/Europe_-_Basque_Country.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "6aa11ed462b2418b96f669c6bc56eb2e"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>

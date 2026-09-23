@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "9e2d0f0fedf0487d9cc1f536f1a63e85"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección, incluimos **preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles**. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.

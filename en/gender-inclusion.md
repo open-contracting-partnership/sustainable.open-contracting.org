@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "62de91131c48424bad09f737eac35e8c"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Worked example: Measuring gender inclusion
 

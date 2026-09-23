@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "6f197651e77f4ebf9335d79b14b6df4a"
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # Les technologies de l’information et des communications
 

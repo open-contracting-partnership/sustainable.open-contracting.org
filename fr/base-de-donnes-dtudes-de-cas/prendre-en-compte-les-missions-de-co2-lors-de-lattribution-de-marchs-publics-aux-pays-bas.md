@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_Neth2.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9735999e9ee84e01a5bf6d465480d88f"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 Les Pays-Bas ont mis en place un système appelé [« ](https://www.co2-prestatieladder.nl/en/what-is-the-ladder)[*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder)[ »](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.

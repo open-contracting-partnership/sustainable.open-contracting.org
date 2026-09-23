@@ -9,8 +9,6 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
     - "https://sustainable.open-contracting.org/af0648dd80f4427691c47c7aba1c1342": /sector-guidance-1
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 

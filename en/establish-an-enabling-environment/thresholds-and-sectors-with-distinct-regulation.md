@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "5d5f781a16dc429cb50810f1e14636ea"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 ## **What are they?**
 

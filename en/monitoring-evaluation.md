@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "210ea7c43360477487736dca15ff5003"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Identifying your sustainability goals and tracking progress
 

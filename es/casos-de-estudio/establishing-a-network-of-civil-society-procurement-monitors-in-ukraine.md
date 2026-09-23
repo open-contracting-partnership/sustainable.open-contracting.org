@@ -7,9 +7,7 @@ cover_position: 55.89
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: bdb902e337974051bb136b0b16f59e2c
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey4.png %}
 **With the establishment of the ProZorro e-procurement system in Ukraine in 2016, Transparency International Ukraine established a network of civil society procurement monitors, called [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/).** Within three years this had swelled to two dozen organizations, and over 2 million people had visited the website.

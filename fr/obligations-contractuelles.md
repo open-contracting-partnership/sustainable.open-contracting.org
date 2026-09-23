@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Traduire les exigences de durabilité en obligations contractuelles** 
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "87a7277c6d474679ba8bb97a9810ef83"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # How can you use this toolkit?
 

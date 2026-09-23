@@ -9,8 +9,6 @@ properties:
   Created: "Feb 9, 2023 7:39 PM"
   "super:Link":
     - "https://sustainable.open-contracting.org/What-is-Open-SPP": /what-is-open-spp
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 

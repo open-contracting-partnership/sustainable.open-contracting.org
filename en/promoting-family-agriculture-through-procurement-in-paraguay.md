@@ -13,9 +13,7 @@ properties:
     Latin America and the Caribbean: yellow
   Scope:
     National: gray
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In Paraguay, agriculture represented 17,9% of the GDP in 2017, with **family agriculture representing 90% of all agricultural activity in the country.**

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "2a371746efb64420ac108034a8585636"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **¿Por qué CPS Abierta es importante en el sector de la construcción?**
 

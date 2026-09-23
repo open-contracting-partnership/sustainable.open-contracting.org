@@ -13,9 +13,7 @@ properties:
     Latin America and the Caribbean: yellow
   Scope:
     National: gray
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In 2017, **Argentina developed their [National Sustainable Public Procurement Plan](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf) (ES), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.** The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP.

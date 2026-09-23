@@ -12,9 +12,7 @@ properties:
     North America: brown
   Scope:
     Local: blue
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>

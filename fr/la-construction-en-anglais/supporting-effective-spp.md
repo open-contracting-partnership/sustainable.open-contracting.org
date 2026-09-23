@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "1ed1b35eb0fe43f48787243595533e7e"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of [relevant data variables](/la-construction-en-anglais/selecting-your-data) [throughout the procurement process](/la-construction-en-anglais/collecting-the-data).
 

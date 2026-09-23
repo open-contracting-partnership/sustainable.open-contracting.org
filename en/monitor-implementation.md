@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "80efa4eb1154401ca159ff7d6af15a15"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # Managing sustainability throughout the contract
 

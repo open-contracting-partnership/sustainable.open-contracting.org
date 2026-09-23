@@ -6,9 +6,7 @@ cover: /assets/images/Asia_-_Korea-2.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9b1ba841e1704c8cb6efae99779a3582"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques. 

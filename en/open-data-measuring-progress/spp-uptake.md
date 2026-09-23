@@ -10,9 +10,7 @@ properties:
   Created: "Feb 9, 2023 7:39 PM"
   "super:Link":
     - "https://sustainable.open-contractring.org/options-for-data-use/use-cases/spp-uptake": /spp-uptake
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 ## What do we mean by no code, low code and code?
 

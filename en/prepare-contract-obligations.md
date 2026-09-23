@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "36ddabe9fe9743c7ac9d2229b48487e4"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # Translating sustainability into contract obligations 
 

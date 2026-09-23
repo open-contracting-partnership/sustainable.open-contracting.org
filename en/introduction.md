@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # An introduction to the toolkit
 

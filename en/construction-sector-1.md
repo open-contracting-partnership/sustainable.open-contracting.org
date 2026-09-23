@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "922396faae2e490e82eb63c21ae7e0cc"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Why is Open SPP important in the construction sector?**
 

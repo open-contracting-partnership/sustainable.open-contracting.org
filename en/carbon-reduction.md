@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Worked example: Measuring carbon reduction
 

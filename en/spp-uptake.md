@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: f6b9fea7045d4268b6a35725f949a001
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Worked example: Measuring SPP uptake
 

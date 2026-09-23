@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea [at the start of the toolkit](/what-is-spp-and-open-spp), and develop it further in the following sections, particularly when introducing a sample [Measuring and evaluation (M&E) framework ](/get-started/identify-your-goals)in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 

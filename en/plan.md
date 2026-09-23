@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-How_to.png
 full_width: true
 notion_id: c4a7ba01568045ab92402b9b0b5d6dfa
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout green /assets/images/Pin_green.png %}
 In this section, **we provide you with all the information you need to get started**. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy.

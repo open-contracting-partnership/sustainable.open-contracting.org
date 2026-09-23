@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "2e59454b25174caa94f2e7189fb64655"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 **In this section, we have included best practice examples of SPP implementation around the world.** 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "35dc615b39b84af793a9430029ef8567"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Données ouvertes et évaluation des progrès**
 

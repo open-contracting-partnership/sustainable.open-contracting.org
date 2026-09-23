@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Définir des critères de durabilité**
 

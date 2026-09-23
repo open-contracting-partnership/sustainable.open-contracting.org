@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "3578aad1ed6c48608e9804192cadf910"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Interagir avec les acteurs du marché**
 

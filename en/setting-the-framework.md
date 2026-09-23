@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "4d456dd7a8764e15b628886de013e8ed"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 ## Identifying relevant regulations
 

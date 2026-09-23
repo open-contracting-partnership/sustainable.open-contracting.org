@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: f718c6ce9ad84de0b86181491ddda103
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Setting sustainability criteria
 

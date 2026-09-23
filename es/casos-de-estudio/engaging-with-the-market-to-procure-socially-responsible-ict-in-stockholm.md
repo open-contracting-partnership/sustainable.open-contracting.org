@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_Stockholm.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: a00c23960da9477eae4dc8d1aa00a9e0
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>The Region of Stockholm in Sweden applies environmental requirements for ICT procurement since 2010, and addressing [social criteria](https://xn--hllbarupphandling-8qb.se/hallbar-upphandling) in contract conditions since 2014.

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: cf3a3b670b7c487bada7d824fd5415ac
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Prioritizing procurement categories**
 

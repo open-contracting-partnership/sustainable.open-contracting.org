@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "149ab2d38e6b430eada9e1cb977fb06a"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Possibilités d’utilisation des données** existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. 
 

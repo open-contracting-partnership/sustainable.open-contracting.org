@@ -7,9 +7,7 @@ cover_position: 54.58
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9d14f52c3c8e4fe0929deb9e1e449919"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In 2002 the Government of Namibia ran a tender for the construction of the [Habitat Research Development Centre (HRDC)](https://murd.gov.na/hrdc), **a research institution for sustainable construction.** The project to build the centre itself also followed sustainability principles.

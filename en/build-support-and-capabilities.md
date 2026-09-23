@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: d901ea3ee0b64273af4f99da32652260
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # Establishing supporting and capability-building mechanisms
 

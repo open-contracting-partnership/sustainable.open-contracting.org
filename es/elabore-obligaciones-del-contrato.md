@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "670fc05032a7418a831ebc67e797371b"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Traducir la sostenibilidad en obligaciones contractuales** 
 

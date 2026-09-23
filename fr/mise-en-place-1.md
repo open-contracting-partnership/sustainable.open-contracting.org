@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_2.png
 full_width: true
 notion_id: "6b073bde045245219fb50ff519ed0b2c"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 {% callout red /assets/images/Pin_Red.png %}
 ***Dans cette deuxième partie, nous mettons à votre disposition toutes les informations dont vous aurez besoin pour intégrer la durabilité au cœur du processus de passation de marchés.*** *Comme vous pouvez le constater dans le diagramme ci-dessous, chacune des six sections répond à une question essentielle concernant la durabilité au sein du cycle de vie d’un marché public.*

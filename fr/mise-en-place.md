@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: e04c4d5f89b14bf0b064b4893eb79e82
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Mise en place de l’environnement habilitant</strong></h1>

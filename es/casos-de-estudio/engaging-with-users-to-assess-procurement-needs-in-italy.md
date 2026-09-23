@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_Italy.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: b80851d687564ee1a44de394ecd75201
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country. 

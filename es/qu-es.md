@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # ¿Qué es la Contratación Pública Sostenible y Abierta?
 

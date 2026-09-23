@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey2.png
 full_width: true
 notion_id: "763ef3d4e57c4b3cb777f8e519308ed5"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección incluimos información clave para **entender las ecoetiquetas y la función que cumplen para facilitar la implementación de CPS.**

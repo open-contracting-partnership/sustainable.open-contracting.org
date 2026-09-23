@@ -7,9 +7,7 @@ cover_position: 54.79
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "27f7d8ae4e7a498d882c20c09fef7b16"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **Completed in 2017, the** [**design of the Ghana Ridge Hospital** ](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/)<strong>was the first project in Africa to receive LEED accreditation.

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: fa649a8ba1c343baa82ee941abf95579
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # Selecting the right procurement approach
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "09f22c6be859431e9ee40568a321f67c"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Comparta y comunique los resultados de su ejercicio de priorización**
 

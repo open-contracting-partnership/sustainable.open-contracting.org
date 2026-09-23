@@ -12,9 +12,7 @@ properties:
     Asia: purple
   Scope:
     National: gray
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 After the approval of its National Green Growth Strategy in 2012, **Vietnam** [**applied a prioritization tool**](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) **to public procurement in 2015 to select product categories where to focus SPP efforts, with the assistance of UNEP.** 

@@ -12,9 +12,7 @@ properties:
     Europe: pink
   Scope:
     Local: blue
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **[Copenhagen has established a task force](https://ec.europa.eu/docsroom/documents/45767) for monitoring compliance with labor clauses** of all suppliers in construction projects, and obtaining relevant data.

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: a50801a104c9467c965b7bf99b78334f
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Gestión de la sostenibilidad a lo largo del contrato**
 

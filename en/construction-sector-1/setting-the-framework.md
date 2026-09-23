@@ -8,9 +8,7 @@ full_width: true
 notion_id: e11c9b99989a490db72eeb0bad6693ca
 properties:
   Created: "Feb 9, 2023 7:39 PM"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 ## Identify relevant regulations 
 

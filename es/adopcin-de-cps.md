@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "639b93b8abde4b02b97b87d03f26947b"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Ejemplo resuelto: Medición de adopción de CPS
 

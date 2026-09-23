@@ -7,9 +7,7 @@ cover_position: 83.26
 icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **This toolkit will help you to rethink sustainable public procurement driving better adoption and measurement through an open, data-driven and inclusive approach.** 
 

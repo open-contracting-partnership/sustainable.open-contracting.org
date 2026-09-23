@@ -12,9 +12,7 @@ properties:
     Asia: purple
   Scope:
     National: gray
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 The Thailand Business Council for Sustainable Development (TBCSD) initiated the Thai Green Label Scheme, in October 1993. **In 1994 the Type I ecolabel Thai [Green Label](https://www.tei.or.th/greenlabel/en/) was launched.** 

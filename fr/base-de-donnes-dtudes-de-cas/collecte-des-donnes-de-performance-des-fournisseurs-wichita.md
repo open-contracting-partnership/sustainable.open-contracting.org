@@ -6,9 +6,7 @@ cover: /assets/images/NorthAmerica-Wichita.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9653120f2ccf4547b19d93145f9463f1"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 En 2015, **Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.

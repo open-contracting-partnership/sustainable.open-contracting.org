@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 {::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>La comunicación de sus primeros pasos en un Plan de Acción de CPS</strong></h1>

@@ -6,9 +6,7 @@ cover: /assets/images/Asia_-_Vietnam-2.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "93b3fbd22d824f2aa225f8aaf7557c49"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 After the approval of its National Green Growth Strategy in 2012, **Vietnam** [**applied a prioritization tool**](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) **to public procurement in 2015 to select product categories where to focus SPP efforts, with the assistance of UNEP.** 

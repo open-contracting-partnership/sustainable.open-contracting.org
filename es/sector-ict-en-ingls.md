@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # **¿Qué es CPS importante en el sector de Tecnología de la Información y la Comunicación (TIC)?**
 

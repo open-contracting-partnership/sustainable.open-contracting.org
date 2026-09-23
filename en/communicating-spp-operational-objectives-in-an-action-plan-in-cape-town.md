@@ -13,9 +13,7 @@ properties:
     Africa: blue
   Scope:
     Local: blue
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2021, the City of Cape Town published its [Green Procurement Action Plan](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). The Plan includes seven operational objectives**, including “Ensure that the City has in place appropriate policies to support green procurement, including associated administrative tools”, and “Monitor and evaluate the City’s performance in terms of green procurement”.

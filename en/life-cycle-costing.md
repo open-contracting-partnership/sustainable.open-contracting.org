@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: fdc60ea0ebd048f4b5603e4aec22360d
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Worked example: Measuring life cycle costing
 

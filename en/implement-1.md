@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_2.png
 full_width: true
 notion_id: "79b865ec9e6f42cc957a713b028303cc"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 {% callout red /assets/images/Pin_Red.png %}
 **In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.** As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. 

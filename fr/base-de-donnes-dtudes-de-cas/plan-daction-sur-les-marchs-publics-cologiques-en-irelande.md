@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_Irelande.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: bfc97268fdf1415c949503763359884f
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications. 

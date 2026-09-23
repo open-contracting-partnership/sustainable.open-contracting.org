@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: "/assets/images/download-circular-button_%281%29.png"
 full_width: true
 notion_id: "7972c3259dfd4017bdeefe743f324c0f"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herramientas prácticas que usted puede usar para ayudarlo a planear APP. En esta sección incluimos una selección de algunos de los más útiles, en formatos descargables y editables.

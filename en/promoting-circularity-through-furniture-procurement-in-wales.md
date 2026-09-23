@@ -12,9 +12,7 @@ properties:
     Europe: pink
   Scope:
     Organizational: green
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture. 

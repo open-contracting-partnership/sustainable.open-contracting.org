@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "7f0e4773d6354fa680272a6066201c35"
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # **Mettre en place des mécanismes d’assistance et de renforcement des capacités**
 

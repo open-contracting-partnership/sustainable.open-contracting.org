@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey.png
 full_width: true
 notion_id: e3ea7c0e7d3d4816a68427570bac88ff
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Comment mettre en place des marchés publics durables et ouverts dans un secteur particulier ?**
 

@@ -5,8 +5,6 @@ cover: /assets/images/PUBLIC_SPP_notion_cover.png
 icon: /assets/images/Icons_Red.png
 full_width: true
 notion_id: dbb9e75271cc45e8bed15ae387178125
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: d035741343454fe485c05b64b7bbb745
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 {::nomarkdown}
 <h1 class="notion-heading notion-semantic-string">Communicating your first steps in an SPP Action Plan</h1>

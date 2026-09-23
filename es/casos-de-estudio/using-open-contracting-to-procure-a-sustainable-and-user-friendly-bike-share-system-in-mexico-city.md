@@ -5,9 +5,7 @@ cover: /assets/images/LAC_-_Mexico.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9bcb89cd93504e35958147d89c05f56d"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 After ten years of operation, **Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.** The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.

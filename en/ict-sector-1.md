@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "2462de71d6934cb485309c397db0d90b"
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # **What is SPP important in the Information and Communications Technology (ICT) sector?**
 

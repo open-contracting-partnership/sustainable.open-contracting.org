@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "47b93e87d4894bb58739ae8b0a987c74"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 ## What do we mean by no code, low code and code?
 

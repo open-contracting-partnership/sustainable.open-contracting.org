@@ -727,7 +727,8 @@ def main():
         filename.parent.mkdir(parents=True, exist_ok=True)
         body = indent(markdown.strip_ids(content)) if text is None else text
         if text is not None and (lifted := lift_sidebar(text, lang)):
-            data["sidebar"], body = lifted
+            _, body = lifted
+            data["sidebar"] = True
         filename.write_text(front_matter(data) + body + "\n")
     print(
         f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages "

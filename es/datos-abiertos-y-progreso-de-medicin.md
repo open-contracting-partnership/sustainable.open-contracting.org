@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "986379e92481403ea249850f4438d6bd"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 A lo largo del conjunto de herramientas, hemos explicado la importancia de los datos abiertos y de alta calidad para impulsar la implementación de SPP y medir los resultados de sostenibilidad. Primero presentamos esta idea al comienzo del conjunto de herramientas y la desarrollamos más en las siguientes secciones, particularmente cuando presentamos un Marco de Medición y Evaluación (M&E) de muestra en la sección uno. Este marco de M&E propuesto está estructurado en torno a cinco objetivos y proporciona indicadores de seguimiento de muestra para facilitar la presentación de informes y la medición del progreso con respecto a los objetivos de sostenibilidad.
 

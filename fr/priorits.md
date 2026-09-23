@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: ac0ea2f84d304498b926d5045858734f
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Définir les priorités**
 

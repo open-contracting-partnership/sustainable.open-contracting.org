@@ -8,8 +8,6 @@ notion_id: "82e8e56f115a4861900ec8f983fb7e52"
 properties:
   "super:Link":
     - "https://sustainable.open-contracting.org/establish-a-framework": /establish-a-framework
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 

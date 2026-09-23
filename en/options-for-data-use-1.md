@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "01b28c8f7f334cbe9e429d08f3658195"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Options for data use 
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: f12fda4ffb024871bc2f86bd7b237b97
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Suivi et évaluation**
 

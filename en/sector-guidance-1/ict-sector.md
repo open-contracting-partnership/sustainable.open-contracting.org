@@ -9,8 +9,6 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
     - "https://sustainable.open-contracting.org/2462de71d6934cb485309c397db0d90b": /ict-sector-1
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: e10550c9408d4537a5b0065517aea46a
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Gérer la durabilité durant l’exécution du marché**
 

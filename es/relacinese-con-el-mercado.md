@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: fa393ae5a1e3497d89aadb46b3a35f43
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Relaciónese con el mercado de provedores**
 

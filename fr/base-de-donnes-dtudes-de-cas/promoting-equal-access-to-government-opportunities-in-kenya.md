@@ -7,9 +7,7 @@ cover_position: 53.72
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "2393f478caae4ed59a5ce1bb8e319a84"
-sidebar:
-  - 0.1875
-  - 0.8125
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2013, Kenya officially launched [The Access to Government Procurement Opportunities (AGPO)](https://agpo.go.ke/pages/about-agpo) program.** The aim of the program was to facilitate the participation in Government opportunities to enterprises owned by women, youth, and people with disabilities.

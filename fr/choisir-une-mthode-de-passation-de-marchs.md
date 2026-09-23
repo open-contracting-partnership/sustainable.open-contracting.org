@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Choisir la bonne méthode de passation de marchés**
 

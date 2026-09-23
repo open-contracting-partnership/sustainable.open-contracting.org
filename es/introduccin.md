@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Introducción al conjunto de herramientas**
 

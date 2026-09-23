@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: abe62c074c4e45acba2c71fbbf99a0ee
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 Once the key sustainability variables [have been identified](/la-construction-en-anglais/selecting-your-data), it is important to determine how, and when, these will be collected throughout the project. 
 

@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "6acdc6a4546941279d00b2aa846b58b9"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 # **Foire aux questions**
 

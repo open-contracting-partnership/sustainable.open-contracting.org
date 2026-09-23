@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Une introduction au guide
 

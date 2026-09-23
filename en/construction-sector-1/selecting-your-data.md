@@ -8,9 +8,7 @@ full_width: true
 notion_id: "98c412788073444e8210c12f66aaa69c"
 properties:
   Created: "Feb 9, 2023 7:39 PM"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, we identify which are the **key sustainability variables that can be captured in a construction project.** For each variable, we also provide guidance on **how you can use these variables to introduce sustainability criteria in the procurement process.** As we introduced earlier in the toolkit, this will mainly depend on market capability. 

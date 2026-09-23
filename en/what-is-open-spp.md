@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "66d1d89be9f24a1580aaa1d2aaf5f615"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # What is Open SPP?
 

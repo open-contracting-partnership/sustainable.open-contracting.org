@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "5a5ff6cb32024333aac20f59c3a82acd"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 # Open SPP FAQs
 

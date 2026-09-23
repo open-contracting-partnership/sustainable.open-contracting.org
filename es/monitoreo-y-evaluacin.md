@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: fe3e0567289c471ab6a3251f5f358d5e
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Identifique sus metas de sostenibilidad y progreso de seguimiento**
 

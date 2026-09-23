@@ -6,9 +6,7 @@ cover: /assets/images/Asia_-_Vietnam.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "73637581de2b4be19b226bee6f6cbd39"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 Après l’approbation de sa stratégie nationale pour une croissance verte en 2012, l**e Vietnam[ a utilisé un outil de définition des achats prioritaires](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) dans le cadre des marchés publics en 2015 afin de sélectionner les catégories de produits sur lesquelles concentrer ses efforts en matière de marchés publics durables** avec l’aide du PNUE.

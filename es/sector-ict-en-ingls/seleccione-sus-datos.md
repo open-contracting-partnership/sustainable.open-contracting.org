@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "9a72ae82dbdd41fc9072f3fdc5866b20"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars. 
 

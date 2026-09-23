@@ -6,9 +6,7 @@ cover: /assets/images/LAC_-_Ecuador.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "98a98c104a8541daa2024e0b1436f54f"
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2016, Ecuador published its first [Sustainable Procurement Action Plan](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf) (ES). The Plan includes on pages 20 to 22 information regarding the governance structure that has been put in place to assign responsibilities regarding SPP.**

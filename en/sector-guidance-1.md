@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey.png
 full_width: true
 notion_id: af0648dd80f4427691c47c7aba1c1342
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # How can you implement Open SPP in specific sectors?
 

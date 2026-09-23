@@ -6,9 +6,7 @@ cover: "/assets/images/Europe_-_Ukraine_%281%29.png"
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "6b3aa66f2e0a48ccb170742c2f495226"
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey4.png %}
 En plus de la mise en place du système de passation électronique de marchés publics ProZorro en Ukraine en 2016, l’organisation Transparency International Ukraine a créé un réseau de surveillance citoyenne des marchés publics appelé [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/). En trois ans, ce réseau s’est étendu à 24 organisations et plus de deux millions de personnes ont visité le site Web.

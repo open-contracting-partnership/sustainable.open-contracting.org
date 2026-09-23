@@ -21,3 +21,5 @@ kramdown:
     raquo: ">>"
     laquo_space: "<< "
     raquo_space: " >>"
+# The sidebar's fraction of the width of pages with "sidebar: true".
+sidebar_width: 0.25

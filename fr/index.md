@@ -7,9 +7,7 @@ cover_position: 81.39
 icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: "6ae0a825aca247ed9c52080a3456d03c"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Ce guide pratique vous aidera à repenser les marchés publics durables afin qu’ils soient mis en place et évalués plus efficacement par l’entremise d’une approche ouverte, axée sur les données et inclusive.**
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: da6e7862daf74f5ab2c320d4ac476574
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # Engaging with the supplier market
 

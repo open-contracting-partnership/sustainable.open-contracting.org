@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-How_to.png
 full_width: true
 notion_id: b5a480a43f87452792022d719809c748
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout green /assets/images/Pin_green.png %}
 Dans cette partie, **nous mettons à votre disposition toutes les informations dont vous aurez besoin pour commencer votre démarche.** Vous trouverez les pratiques et approches essentielles permettant de placer la durabilité au cœur de votre stratégie de passation de marchés.

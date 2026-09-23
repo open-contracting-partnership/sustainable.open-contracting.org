@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1d8fd281d39d498ba986659dddc89537"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Exemple : calculer le coût du cycle de vie**
 

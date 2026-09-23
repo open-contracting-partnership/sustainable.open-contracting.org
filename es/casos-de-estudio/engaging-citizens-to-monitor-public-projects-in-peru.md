@@ -7,9 +7,7 @@ cover_position: 53.12
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: bbb5326b947e438d96b587dc0a9aa707
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2018, The Office of the Comptroller General of the Republic of Peru launched a programme to engage citizens in the process of identifying situations of non-compliance in public works.** This program is called[ Monitores Ciudadanos de Control (Citizen Oversight Monitors Program)](https://controlsocial.contraloria.gob.pe/monitoresciudadanos/).

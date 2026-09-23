@@ -12,9 +12,7 @@ properties:
     Europe: pink
   Scope:
     Regional: pink
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>

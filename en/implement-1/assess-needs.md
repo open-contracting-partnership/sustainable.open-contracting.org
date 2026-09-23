@@ -9,8 +9,6 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
     - "https://sustainability.open-contracting.org/assess-needs": /assess-needs
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 <h2 class="notion-heading notion-semantic-string"></h2>

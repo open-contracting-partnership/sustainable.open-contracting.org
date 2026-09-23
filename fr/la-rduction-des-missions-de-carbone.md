@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Exemple : évaluer la réduction des émissions de carbone**
 

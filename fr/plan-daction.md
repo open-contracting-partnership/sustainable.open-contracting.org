@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "1f53708050f744299ed811a68005427d"
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 {::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Présenter vos premières mesures dans un plan d’action sur les marchés publics durables</strong></h1>

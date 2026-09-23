@@ -6,9 +6,7 @@ cover: /assets/images/LAC_-_Colombia.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: a7da1f13b320488fad8d58236cb3a5f3
-sidebar:
-  - 0.125
-  - 0.875
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In Colombia, corruption is estimated to cost the country around 7.5 billion USD a year.** To work towards tackling this problem, the Transparency Secretariat **decided to engage citizens in monitoring activities**, and developed the [Elefantes Blancos app](https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos). 

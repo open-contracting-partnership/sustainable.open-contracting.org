@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: e26d206901154c1f94196272eefda571
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # Gathering information to assess real needs
 

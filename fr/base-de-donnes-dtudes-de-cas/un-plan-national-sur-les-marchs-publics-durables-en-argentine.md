@@ -6,9 +6,7 @@ cover: "/assets/images/LAC_-_Argentine_%281%29.png"
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: cd49a466cdfe40e3ab2b416472f39a34
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 En 2017, **l’Argentine a développé son [plan national sur les marchés publics durables](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf). Les pages 7 à 12 décrivent l’environnement habilitant national et international dans lequel il s’inscrit.** Ce plan présente d’abord le contexte international, soulignant l’engagement de l’Argentine en faveur des objectifs de développement durable des Nations Unies, et les collaborations entre le gouvernement argentin et le PNUE concernant la mise en place de marchés publics durables.

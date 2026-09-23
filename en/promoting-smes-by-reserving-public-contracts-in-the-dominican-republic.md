@@ -12,9 +12,7 @@ properties:
     Latin America and the Caribbean: yellow
   Scope:
     National: gray
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In the Dominican Republic Micro, Small and Medium-sized enterprises (MSMEs) represent 38.6% of the GDP and 54.5% of the overall employment.** In 2012, a national policy was launched to support MSMEs, and the promotion of these companies was one of the three main objectives of the 2013, and 2016 National Multi-annual Public Sector Plans.

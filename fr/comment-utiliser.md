@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: a315f9eaaaf047838f081a80136d1b91
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Comment utiliser ce guide pratique ?**
 

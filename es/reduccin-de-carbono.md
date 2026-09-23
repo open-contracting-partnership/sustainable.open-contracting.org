@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Ejemplo resuelto: Medición de la reducción de carbono**
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "586e98177fbf4b7292129d79634bea22"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Dar el recurso que usted pidió**
 

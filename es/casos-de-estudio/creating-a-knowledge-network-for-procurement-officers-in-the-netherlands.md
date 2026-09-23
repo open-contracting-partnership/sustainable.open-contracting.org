@@ -6,9 +6,7 @@ cover: /assets/images/Europe_-_The_Netherlands.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: dd3f062bd328444bb6a89f1d0cd2fd2f
-sidebar:
-  - 0.1278
-  - 0.8722
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.

@@ -6,9 +6,7 @@ cover: /assets/images/LAC_-_Chile-2.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: c5988b04586c4bdcac0f6e5314a80d04
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés publics attribués à des entreprises dirigées par des hommes par rapport au nombre de marchés attribués à des entreprises dirigées par des femmes. **L’étude a montré que seuls 36 % des marchés publics avaient été attribués à des femmes, pour seulement 26 % de la valeur totale des marchés publics.**

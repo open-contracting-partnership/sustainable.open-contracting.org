@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
-sidebar:
-  - 0.3125
-  - 0.6875
+sidebar: true
 ---
 # **Establezca mecanismos de apoyo y fortalecimiento de capacidades**
 

@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Exemple : évaluer l’inclusion des genres**
 

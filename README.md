@@ -32,9 +32,10 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `full_width` | Whether the page is full width |
 | `collection` | Whether the page is a Notion database |
 | `notion_id` | The ID of the Notion page from which it was imported |
+| `sidebar` | Whether the page has the sidebar |
 | `properties` | A database item's properties, in order, rendered by the `{% properties %}` tag in the layout: a mapping of pills to their colors, a list of mappings of attachments' names to their URLs, a number, or text. The `notion.date_properties` and `notion.url_properties` settings in `_config.yml` name the properties that are dates and URLs. |
 
-The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header. The sidebar is in `_includes/sidebar-<lang>.html`.
+The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`) if a page has `sidebar: true`. The `sidebar_width` setting in `_config.yml` is the sidebar's fraction of the width.
 
 Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown. Callouts, toggles and columns are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
@@ -50,11 +51,11 @@ The toggle's content.
 {% endtoggle %}
 
 {% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
+{% column 0.5 %}
+The first column's content.
 {% endcolumn %}
-{% column 0.75 %}
-The column's content.
+{% column 0.5 html %}
+<div class="notion-text">The second column's content, as HTML.</div>
 {% endcolumn %}
 {% endcolumns %}
 ```
@@ -117,7 +118,7 @@ The pages are the server-rendered HTML of the live sites, not the Notion export,
 
 1. `python3 scripts/crawl.py` crawls each site's sitemap (and any linked page not in it) into `.crawl/`, recording each URL's status and Notion page ID in `.crawl/results.json`.
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
-1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.html`, with its metadata and header as front matter and its sidebar replaced by an include, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
+1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.md`, with its metadata, header, properties and sidebar as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
 
 `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`. It converts HTML to Markdown with `scripts/markdown.py`, which keeps HTML wherever the Markdown wouldn't render the same HTML, as rendered by `scripts/render_markdown.rb`, and writes a report to `.crawl/markdown-report.json`.
 

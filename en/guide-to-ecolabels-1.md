@@ -6,10 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey2.png
 full_width: true
 notion_id: "72beba9e9d394c5b80e1392e38aad24d"
-sidebar:
-  - 0.2083
-  - 0.75
-  - 0.0417
+sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.** 

@@ -13,9 +13,7 @@ properties:
     Latin America and the Caribbean: yellow
   Scope:
     National: gray
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women. This study showed that <strong>only 36% of public contracts were awarded to women, and that these represented 26% of total value.

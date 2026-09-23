@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d8c00bb67a29407c8354c3d1b9cbcd58
-sidebar:
-  - 0.2609
-  - 0.7391
+sidebar: true
 ---
 # **Seleccione el enfoque de contratación adecuado**
 

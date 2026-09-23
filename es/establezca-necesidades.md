@@ -6,9 +6,7 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "52be44d8f3944dc8ab5157ae95f44202"
-sidebar:
-  - 0.25
-  - 0.75
+sidebar: true
 ---
 # **Recopile información para evaluar las necesidades reales**
 
