@@ -490,6 +490,76 @@ def sidebar(content):
     return None
 
 
+def body_key(content):
+    """Return a page's content without its sidebar, IDs and spacers, to compare pages, or "" if it has no content."""
+    if column := sidebar(content):
+        content = content.replace(column, "")
+    content = SPACER.sub("", re.sub(r' id="[^"]*"', "", content))
+    if not re.sub(r"<[^>]*>", "", content).strip() and "<img" not in content:
+        return ""
+    return content
+
+
+def title_key(data):
+    """Return a page's title, ignoring case and spacing."""
+    return " ".join(data["title"].split()).casefold()
+
+
+def duplicates(pages, live_paths):
+    """
+    Return the pages that duplicate other pages, mapped to those pages, by language.
+
+    - A copy has the same title and content as other pages. The page with the most incoming links is kept.
+    - A placeholder is a database item that Super.so publishes for a gallery card: empty, or with the same content
+      as pages with other titles. It duplicates its "super:Link" property's page, else the only other page with its
+      title. Items in table views are kept, since their properties are the views' cells.
+    """
+    table_items = set()
+    for lang, _, _, content in pages:
+        for match in re.finditer(
+            r'<div class="notion-collection-table__wrapper">', content
+        ):
+            block = content[match.start() : element_end(content, match.start())]
+            table_items.update((lang, href) for href in HREF.findall(block))
+
+    keys = {(lang, path): body_key(content) for lang, path, _, content in pages}
+    titles = collections.defaultdict(set)
+    for lang, path, data, _ in pages:
+        titles[(lang, keys[(lang, path)])].add(title_key(data))
+    placeholders = {
+        (lang, path)
+        for lang, path, data, _ in pages
+        if not keys[(lang, path)] or len(titles[(lang, keys[(lang, path)])]) > 1
+    }
+
+    moved = {lang: {} for lang in SITES.values()}
+    copies = collections.defaultdict(list)
+    by_title = collections.defaultdict(list)
+    for lang, path, data, _ in pages:
+        if (lang, path) in placeholders:
+            continue
+        copies[(lang, title_key(data), keys[(lang, path)])].append(path)
+        by_title[(lang, title_key(data))].append(path)
+    for (lang, _, _), paths in copies.items():
+        kept = max(paths, key=lambda path: (live_paths[lang][path], -len(path), path))
+        moved[lang].update({path: kept for path in paths if path != kept})
+    for lang, path, data, _ in pages:
+        if (lang, path) not in placeholders or (lang, path) in table_items:
+            continue
+        links = [
+            href
+            for link in data.get("properties", {}).get("super:Link", [])
+            for href in link.values()
+        ]
+        candidates = [
+            href for href in links if href in live_paths[lang] and href != path
+        ] or by_title[(lang, title_key(data))]
+        if len(candidates) == 1:
+            target = candidates[0]
+            moved[lang][path] = moved[lang].get(target, target)
+    return moved
+
+
 def rewrite_link(match, lang, live, redirects, counter):
     """
     Make a link to a site's page relative (or absolute to its domain), skipping any redirect.
@@ -515,6 +585,9 @@ def rewrite_link(match, lang, live, redirects, counter):
         return match.group(0)
     path = urllib.parse.unquote(url.path).rstrip("/") or "/"
     path = redirects[target].get(path, path)
+    if path.startswith("https://"):
+        counter["fixed to another site"] += 1
+        return f'href="{html.escape(path)}"'
     if path not in live[target] and (moved := moved_to(path, live[target])):
         redirects[target][path] = moved
         path = moved
@@ -645,6 +718,13 @@ def main():
             source: target for source, target in rules.items() if source != target
         }
 
+    # Broken links' reviewed targets (a path on the same site, or a URL), from link-fixes.csv.
+    if (ROOT / "link-fixes.csv").exists():
+        with (ROOT / "link-fixes.csv").open() as f:
+            for row in csv.DictReader(f):
+                if row["target"]:
+                    redirects[row["site"]][row["path"]] = row["target"]
+
     links = collections.Counter()
     pages = []
     for r in canonical:
@@ -674,6 +754,58 @@ def main():
         if properties is not None:
             data["properties"] = properties
         pages.append((lang, path, data, content))
+
+    # Pages that duplicate other pages redirect to them, and links to them link to those pages.
+    moved = duplicates(pages, live_paths)
+    for lang, sources in moved.items():
+        for target in sources.values():
+            assert target not in sources, target
+        redirects[lang] = {
+            source: sources.get(target, target)
+            for source, target in redirects[lang].items()
+        }
+        redirects[lang].update(sources)
+        for source in sources:
+            del live_paths[lang][source]
+    href = re.compile(r'href="(https://[^/"]+)?(/[^"#?]*)')
+
+    def relink(lang, text):
+        def replace(match):
+            host = match.group(1)
+            target = SITES.get(urllib.parse.urlsplit(host).netloc) if host else lang
+            path = urllib.parse.unquote(match.group(2))
+            if path not in moved.get(target, {}):
+                return match.group(0)
+            links["duplicate relinked"] += 1
+            return f'href="{host or ""}{html.escape(urllib.parse.quote(moved[target][path]))}'
+
+        return href.sub(replace, text) if isinstance(text, str) else text
+
+    def relink_properties(lang, value):
+        if isinstance(value, dict):
+            return {k: relink_properties(lang, v) for k, v in value.items()}
+        if isinstance(value, list):
+            return [relink_properties(lang, v) for v in value]
+        if isinstance(value, str) and value.startswith("/"):
+            return moved[lang].get(value, value)
+        return value
+
+    pages = [
+        (
+            lang,
+            path,
+            {**data, "properties": relink_properties(lang, data["properties"])}
+            if "properties" in data
+            else data,
+            relink(lang, content),
+        )
+        for lang, path, data, content in pages
+        if path not in moved[lang]
+    ]
+    print("duplicates:", {lang: len(sources) for lang, sources in moved.items()})
+    (CRAWL / "duplicates.json").write_text(
+        json.dumps(moved, indent=2, ensure_ascii=False) + "\n"
+    )
 
     # Databases' table views become {% database_table %} tags, and their cells become their items' properties.
     by_path = {(lang, path): data for lang, path, data, _ in pages}

@@ -85,7 +85,7 @@ Public buyers can provide information on carbon emissions during, or at the conc
 
 ### **Measure use of certifications (Option 6)**
 
-You can use [certifications](/guide-to-ecolabels) such as Environmental Product Declarations (EPD) to gather information on carbon emissions associated with a product. You can also request the use of other environmental certifications (e.g. Type I ecolabels) and assess their impact by contrasting forecasting and contract implementation data.
+You can use [certifications](/guide-to-ecolabels-1) such as Environmental Product Declarations (EPD) to gather information on carbon emissions associated with a product. You can also request the use of other environmental certifications (e.g. Type I ecolabels) and assess their impact by contrasting forecasting and contract implementation data.
 
 ## Sample indicators
 

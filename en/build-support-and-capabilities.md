@@ -46,7 +46,7 @@ SPP training sessions can be organized throughout the year to build capabilities
 
 {% toggle **Sustainability workshops with suppliers** %}
 
-Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](/implement/set-sustainable-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
+Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](/set-sustainability-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
 
 {% endtoggle %}
 
@@ -66,7 +66,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 ## **Standardize sustainability criteria**
 
-Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/plan/prioritize) section, one of the steps when getting started with Open SPP is identifying existing[ ](/guide-to-ecolabels)sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/implement/set-sustainable-criteria).
+Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/prioritize-1) section, one of the steps when getting started with Open SPP is identifying existing[ ](/guide-to-ecolabels-1)sustainability standards and [ecolabels](/guide-to-ecolabels-1), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/set-sustainability-criteria).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 A good example of this guidance is the U.S. General Service Administration’s[ Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.

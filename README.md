@@ -133,7 +133,14 @@ The pages are the server-rendered HTML of the live sites, not the Notion export,
 
 1. `python3 scripts/crawl.py` crawls each site's sitemap (and any linked page not in it) into `.crawl/`, recording each URL's status and Notion page ID in `.crawl/results.json`.
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
-1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.md`, with its metadata, header, properties and sidebar as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
+1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.md`, with its metadata, header, properties and sidebar as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard. Pages that duplicate other pages also redirect to them (see below), as do the broken links in `link-fixes.csv` that have a target.
+
+Some pages that Super.so published duplicate others (listed in `.crawl/duplicates.json`), and redirect to them:
+
+- A copy has the same title and content as other pages. The page with the most incoming links is kept.
+- A placeholder is a database item that Super.so published for a gallery card: empty, or with the same content as pages with other titles. It redirects to its `super:Link` property's page, else to the only other page with its title (ignoring case and spacing). Items in table views are kept, since their properties are the views' cells.
+
+`link-fixes.csv` maps broken links' paths to their targets: a path on the same site, or a URL. `uv run scripts/propose_link_fixes.py` (after building the sites) adds each broken link, with a proposed target if the links' text is the title of exactly one non-empty page on the same site. Review the proposals, fill in or clear the targets, and rerun `import_pages.py`. Rows keep their targets when the script is rerun. `uv run scripts/check_links.py` lists the links that are still broken.
 
 `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`. It converts HTML to Markdown with `scripts/markdown.py`, which keeps HTML wherever the Markdown wouldn't render the same HTML, as rendered by `scripts/render_markdown.rb`, and writes a report to `.crawl/markdown-report.json`.
 

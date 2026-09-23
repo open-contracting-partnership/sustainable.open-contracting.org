@@ -7,11 +7,11 @@ notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
 ---
 {% gallery medium %}
 - title: Introduction
-  link: /votre-trajet-de-la-mise-en-place/introduction
+  link: /introduction-1
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Planification
-  link: /plan
+  link: /planification
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Mise en place
@@ -24,7 +24,7 @@ notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
   cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
   cover_position: 6.48
 - title: Orientations sectorielles
-  link: /sector-guidance
+  link: /orientations-sectorielles
   icon: /assets/images/Icons_Grey.png
   cover: /assets/images/PUBLIC_SPP_covers6.png
   cover_position: 89.84

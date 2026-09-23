@@ -53,22 +53,22 @@ Nous avons recensé trois types d’environnements :
 
 {% endtoggle %}
 
-{% database **Cliquez sur une section pour en savoir plus.**[Évaluer les besoins réels](/assess-needs) %}
+{% database **Cliquez sur une section pour en savoir plus.**[Évaluer les besoins réels](/valuer-les-besoins-rels) %}
 {% gallery medium %}
 - title: D’utilisation des données
-  link: /options-for-data-use
+  link: /donnes-ouvertes-et-valuation-des-progrs/dutilisation-des-donnes
   icon: /assets/images/Icons_Light_Green2.png
 - title: L’adoption des pratiques durables
-  link: /spp-uptake
+  link: /ladoption-des-pratiques-durables
   icon: /assets/images/Icons_Light_Green2.png
 - title: La réduction des émissions de carbone
-  link: /carbon-reduction
+  link: /la-rduction-des-missions-de-carbone
   icon: /assets/images/Icons_Light_Green2.png
 - title: L’inclusion des genres
-  link: /gender-inclusion
+  link: /linclusion-des-genres
   icon: /assets/images/Icons_Light_Green2.png
 - title: Le coût du cycle de vie
-  link: /life-cycle-costing
+  link: /le-cot-du-cycle-de-vie
   icon: /assets/images/Icons_Light_Green2.png
 {% endgallery %}
 {% enddatabase %}

@@ -32,8 +32,8 @@ sidebar: true
 
 **Pour quand vous assemblez un plan d’action sur les marchés publics durables:**
 
-- [Modèle de plan d’action sur les marchés publics durables](/create-an-action-plan/sample-outline-of-an-spp-action-plan)
+- [Modèle de plan d’action sur les marchés publics durables](/plan-daction/modle-de-plan-daction-sur-les-marchs-publics-durables)
 
 **Pour quand vous explorez des possibilités d’utilisation des données:**
 
-- [Table des possibilités d’utilisation des données](/options-for-data-use)
+- [Table des possibilités d’utilisation des données](/donnes-ouvertes-et-valuation-des-progrs/dutilisation-des-donnes)

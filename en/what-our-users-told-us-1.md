@@ -18,7 +18,7 @@ We heard from our users that existing guidance can often be hard to implement in
 
 - **Guidance must be usable for different procurement and tech maturity levels.**
 
-User needs vary depending on which stage of SPP journey they find themselves in. Our conversations with users reiterated that guidance is most useful when it acknowledges and addresses these different needs. For that reason, this toolkit is structured in three sections. The [introduction](/introduction) and [section one](/plan) are the most useful for those who are at the start of the journey. For those who have already made some headway, these sections will also be relevant, but they will find the most practical information on sections [two](/implement-1) and [three](/what-is-open-spp/open-data-measuring-progress). More advanced practitioners will probably focus on section [three](/what-is-open-spp/open-data-measuring-progress). 
+User needs vary depending on which stage of SPP journey they find themselves in. Our conversations with users reiterated that guidance is most useful when it acknowledges and addresses these different needs. For that reason, this toolkit is structured in three sections. The [introduction](/introduction) and [section one](/plan) are the most useful for those who are at the start of the journey. For those who have already made some headway, these sections will also be relevant, but they will find the most practical information on sections [two](/implement-1) and [three](/open-data-measuring-progress). More advanced practitioners will probably focus on section [three](/open-data-measuring-progress). 
 
 - **Green procurement is the highest priority.**
 

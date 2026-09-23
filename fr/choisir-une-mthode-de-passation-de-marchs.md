@@ -128,7 +128,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur*[ *la construction*](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector) *et les* [*technologies de l’information et des communications*](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector)*.* 
+*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur*[ *la construction*](https://sustainable.open-contracting.org/construction-sector-1) *et les* [*technologies de l’information et des communications*](https://sustainable.open-contracting.org/ict-sector-1)*.* 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}

@@ -39,7 +39,7 @@ Il existe une croyance répandue selon laquelle, lorsque l’environnement habil
 - Lorsque l’environnement habilitant permet seulement de prendre en compte le prix parmi les critères d’évaluation, trois grandes approches sont possibles : intégrer des critères de durabilité aux exigences essentielles des marchés ; prendre en compte le [coût du cycle de vie](https://sustainable.open-contracting.org/life-cycle-costing) ; et assurer le respect de la réglementation en vigueur en matière de durabilité.
 - Lorsque l’environnement habilitant permet de prendre en compte d’autres éléments que le prix parmi les critères d’évaluation, vous pouvez utiliser les plans et politiques de durabilité en vigueur pour guider la conception de critères d’évaluation de la durabilité.
 
-Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) pour évaluer rapidement votre environnement habilitant et consulter [cette section](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour approfondir les concepts de la liste.
+Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) pour évaluer rapidement votre environnement habilitant et consulter [cette section](https://sustainable.open-contracting.org/establish-an-enabling-environment) pour approfondir les concepts de la liste.
 
 {% endtoggle %}
 
@@ -50,7 +50,7 @@ Avant de mettre en place des marchés publics durables, il peut être utile de d
 - Les facteurs qui vous aideront à déterminer les effets en matière de durabilité de la mise en place de marchés publics durables dans une catégorie particulière (comme les émissions de CO2 associées) ;
 - Les facteurs qui vous aideront à évaluer la facilité de mise en place (comme l’existence de certifications environnementales).
 
-Consultez [cette section](https://sustainable.open-contracting.org/plan/prioritize) pour en savoir plus sur ces facteurs. À titre d’exemple, le [Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) a utilisé
+Consultez [cette section](https://sustainable.open-contracting.org/prioritize-1) pour en savoir plus sur ces facteurs. À titre d’exemple, le [Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) a utilisé
 
 [l’outil de définition des achats prioritaires du PNUE](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). Par ailleurs, [cette étude de cas](https://sustainable.open-contracting.org/prioritizing-procurement-categories-in-vietnam) montre comment une technique simple permet d’évaluer les catégories de produits en fonction de la valeur des marchés les concernant, de la disponibilité et du coût des solutions alternatives durables, et de leurs effets en matières environnementale, économique et sociale pour définir les catégories prioritaires.
 
@@ -109,7 +109,7 @@ Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globaleco
 
 Les éco-étiquettes de type I et apparentées au type I divulguent généralement les critères à respecter pour recevoir la certification. Pour renforcer la durabilité des marchés publics, vous pouvez demander aux fournisseurs de respecter les critères définis par un programme de certification spécifique ou reprendre certains de ces critères dans les spécifications d’un marché.
 
-Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
+Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels-1) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
 
 {% endtoggle %}
 

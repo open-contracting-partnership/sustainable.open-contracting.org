@@ -6,7 +6,7 @@ icon: /assets/images/Tick_green_2-2.png
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 ---
 {% callout green /assets/images/Pin_green.png %}
-The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](https://sustainable.open-contracting.org/get-started/establish-a-framework)in the [Open SPP toolkit](https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a).
+The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](https://sustainable.open-contracting.org/establish-an-enabling-environment)in the [Open SPP toolkit](https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a).
 {% endcallout %}
 
 ### Quick c**hecklist**

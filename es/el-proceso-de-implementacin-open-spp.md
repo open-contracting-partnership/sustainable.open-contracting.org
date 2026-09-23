@@ -11,7 +11,7 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Plan
-  link: /get-started
+  link: /plan-1
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Implement

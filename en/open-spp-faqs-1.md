@@ -107,7 +107,7 @@ The Global Ecolabelling Network (GEN) [defines ecolabelling](https://globalecola
 
 Type I, and Type I-like ecolabels usually publish the criteria that should be met to receive the certification. To procure more sustainably, you can ask suppliers to comply with the criteria set by a specific label, or use some of the criteria to draft specifications in a contract.
 
-For more information on how to use ecolabels during a procurement process, see [this guide](/guide-to-ecolabels). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories.
+For more information on how to use ecolabels during a procurement process, see [this guide](/guide-to-ecolabels-1). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories.
 
 {% endtoggle %}
 

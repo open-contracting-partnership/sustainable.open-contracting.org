@@ -85,7 +85,7 @@ Les acheteurs publics peuvent fournir des informations concernant les émissions
 
 ### **Évaluer l’emploi des certifications (Possibilité 6)**
 
-Vous pouvez utiliser des [certifications](https://sustainable.open-contracting.org/guide-to-ecolabels), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
+Vous pouvez utiliser des [certifications](https://sustainable.open-contracting.org/guide-to-ecolabels-1), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
 
 ### **Exemples d’indicateurs**
 

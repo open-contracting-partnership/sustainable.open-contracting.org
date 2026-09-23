@@ -737,8 +737,9 @@ def image_tag(node, text, indent, candidates):
 PAGES = {}
 PAGE_LINK = re.compile(
     r'<a href="(?P<href>[^"]*)" class="notion-link notion-page(?P<color> bg-\w+)?"><span class="notion-page__icon">'
-    r'<img alt="(?P<alt>[^"]*)" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;'
-    r'left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="(?P<src>[^"]*)"/></span>'
+    r'(?:<img alt="(?P<alt>[^"]*)" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;'
+    r'left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="(?P<src>[^"]*)"/>'
+    r'|(?P<svg><svg class="notion-icon notion-icon__page" [^>]*>.*?</svg>))</span>'
     r'<span class="notion-page__title notion-semantic-string">(?P<title>[^<]*)</span></a>'
 )
 
@@ -750,8 +751,8 @@ def page_link(raw, argument=""):
     if (
         not page
         or page.get("title") != html.unescape(m.group("title"))
-        or m.group("alt") != m.group("title")
-        or page.get("icon") != html.unescape(m.group("src"))
+        or (m.group("svg") is None and m.group("alt") != m.group("title"))
+        or page.get("icon") != (m.group("src") and html.unescape(m.group("src")))
         or " " in m.group("href")
     ):
         return None

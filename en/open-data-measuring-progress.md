@@ -59,7 +59,7 @@ As we explain in the introduction to this toolkit, high-quality open data is cru
 {% database Click through to learn more %}
 {% gallery medium %}
 - title: Options for data use
-  link: /open-data-measuring-progress/options-for-data-use
+  link: /options-for-data-use-1
   icon: /assets/images/Icons_Light_Green2.png
 - title: SPP uptake
   link: /spp-uptake
@@ -68,7 +68,7 @@ As we explain in the introduction to this toolkit, high-quality open data is cru
   link: /carbon-reduction
   icon: /assets/images/Icons_Light_Green2.png
 - title: Gender inclusion
-  link: /options-for-data-use/use-cases/gender-equality
+  link: /gender-inclusion
   icon: /assets/images/Icons_Light_Green2.png
 - title: Life cycle costing
   link: /life-cycle-costing

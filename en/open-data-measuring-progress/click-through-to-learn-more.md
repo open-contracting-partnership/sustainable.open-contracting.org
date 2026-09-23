@@ -7,7 +7,7 @@ notion_id: bcd7fee021e24e40ba6d27c444f643ef
 ---
 {% gallery medium %}
 - title: Options for data use
-  link: /open-data-measuring-progress/options-for-data-use
+  link: /options-for-data-use-1
   icon: /assets/images/Icons_Light_Green2.png
 - title: SPP uptake
   link: /spp-uptake
@@ -16,7 +16,7 @@ notion_id: bcd7fee021e24e40ba6d27c444f643ef
   link: /carbon-reduction
   icon: /assets/images/Icons_Light_Green2.png
 - title: Gender inclusion
-  link: /options-for-data-use/use-cases/gender-equality
+  link: /gender-inclusion
   icon: /assets/images/Icons_Light_Green2.png
 - title: Life cycle costing
   link: /life-cycle-costing

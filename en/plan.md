@@ -18,16 +18,16 @@ In this section, **we provide you with all the information you need to get start
 {% database Click through to learn more %}
 {% gallery medium %}
 - title: Establish an enabling environment
-  link: /establish-a-framework
+  link: /establish-an-enabling-environment
   icon: /assets/images/icons_D_Green2.png
 - title: Prioritize
-  link: /plan/prioritize
+  link: /prioritize-1
   icon: /assets/images/icons_D_Green2.png
 - title: "Monitoring & evaluation "
-  link: /identify-your-goals
+  link: /monitoring-evaluation
   icon: /assets/images/icons_D_Green2.png
 - title: Build support and capabilities
-  link: /build-support-and-capacity
+  link: /build-support-and-capabilities
   icon: /assets/images/icons_D_Green2.png
 - title: Create an Action Plan
   link: /create-an-action-plan

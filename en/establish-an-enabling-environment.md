@@ -42,7 +42,7 @@ Many procurement regimes only allow you to award the contract to the lowest-pric
 
 Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.
 
-To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/implement/set-sustainable-criteria), and [Engage with the supplier market](/engage-with-the-market).
+To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/set-sustainability-criteria), and [Engage with the supplier market](/engage-with-the-market).
 
 - **Consider applying Life Cycle Costing (LCC) calculations.**
 
@@ -58,7 +58,7 @@ Finally, there are already many sustainability regulations in place at the inter
 
 Some procurement regimes might allow you to use criteria other than price to evaluate bids. For example, in Europe this is done under the concept of most economically advantageous tender ([M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024)).
 
-In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section[ Set sustainability criteria](/implement/set-sustainable-criteria).
+In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section[ Set sustainability criteria](/set-sustainability-criteria).
 
 {% endtoggle %}
 

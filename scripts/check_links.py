@@ -37,7 +37,8 @@ def exists(lang, path, redirects):
     )
 
 
-def main():
+def broken_links():
+    """Return the paths of broken links, by site and path, mapped to the pages that link to them."""
     redirects = {}
     for lang in DOMAINS.values():
         redirects[lang] = {
@@ -63,10 +64,13 @@ def main():
                 path = urllib.parse.unquote(url.path).rstrip("/") or "/"
                 if not exists(target, path, redirects):
                     broken[(target, path)].add(f"{lang}:{page}")
+    return broken
 
+
+def main():
     writer = csv.writer(sys.stdout)
     writer.writerow(["site", "path", "linked from"])
-    for (lang, path), pages in sorted(broken.items()):
+    for (lang, path), pages in sorted(broken_links().items()):
         writer.writerow([lang, path, " ".join(sorted(pages))])
 
 

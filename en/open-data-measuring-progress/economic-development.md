@@ -1,11 +1,15 @@
 ---
-permalink: /open-data-measuring-progress/economic-development/use-case-economic-development-2
-title: "Use case: Economic development (2)"
+permalink: /open-data-measuring-progress/economic-development
+title: Economic Development
 description: "For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy."
-notion_id: c60fec464c5e41619c1e0859a52aa2d7
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2-2.png
+notion_id: e8d474b11ace4fda98aec534bc89791f
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
+  "super:Link":
+    - "https://sustainable.open-contractring.org/economic-development": /economic-development
 ---
-{% image /assets/images/Asset_110.jpg 4478 2784 %}
-
 ## What is it?
 
 For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy.
@@ -18,29 +22,17 @@ By encouraging economic development public procurement can be used to increase s
 
 Analysing public procurement’s impact on an economy can have a range of positive effects for suppliers and entrepreneurs who believe that they can support government with their products or services.
 
-{% columns %}
-{% column 0.3333 %}
-
 {% callout gray 🗣 %}
 Research shows that spending with smaller companies provides greater returns for tax authorities and new jobs can reduce govt costs.
 {% endcallout %}
-
-{% endcolumn %}
-{% column 0.3333 %}
 
 {% callout gray 🔉 %}
 Most innovation happens in smaller companies, engaging with them can deliver significant advances for governments.
 {% endcallout %}
 
-{% endcolumn %}
-{% column 0.3333 %}
-
 {% callout gray 👉 %}
 It is possible to create a virtuous cycle that helps small companies grow into large companies just from government business.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}
 
 ## How open contracting data helps
 
@@ -50,39 +42,21 @@ Data on local firms, supplier’s commitments to apprenticeship schemes or commi
 
 Economic development is a rich area for analysis, with governments often being able to draw on their own economic data from tax records and public company registers. We outline some simple steps that can be taken to analyse the impact of procurement in economic development.
 
-{% columns %}
-{% column 0.5 %}
-
 ### Option 1: Measure contracts awarded
 
 Buyers can measure the value and number of contracts awarded to suppliers based according to location, size or industry. Simply recording this and looking to see if the number of awards increases is the simplest way to start measuring economic development impacts.
-
-{% endcolumn %}
-{% column 0.5 %}
 
 ### Option 2: Measure commitments to local job creation by suppliers
 
 The more and better data that exists around supplier and contracting and spend, the more buyers can analyse not only how much money is going to their local regions but also compare public spend with other important economic development metrics such as deprivation indexes, location of minority owned businesses.
 
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column 0.5 %}
-
 ### Option 3: Look for local firms used by other parts of government
 
 Buyers can search for local firms who have performed similar contracts based on category, specification, and value. A register of contracts with clean and complete OCDS data will enable this. 
 
-{% endcolumn %}
-{% column 0.5 %}
-
 ### Option 4: Measure contracts to high growth industries
 
 Buyers can identify categories of interest and measure the growth based on contracting spend compared to previous years. This can extend to key industries of interest subordinate to larger industries, for instance those further down the supply chain.
-
-{% endcolumn %}
-{% endcolumns %}
 
 {% database Getting started %}
 {% gallery medium %}
@@ -186,3 +160,5 @@ The types of new jobs created by a contract
 Social enterprise status of winning suppliers
 
 We would advocate measuring economic impacts over time, using procurement to deliver economic development is a long-term project and a consistent source of data for the long-term is essential.
+
+{% page /open-data-measuring-progress/economic-development/use-case-economic-development-2 %}

@@ -10,15 +10,15 @@ notion_id: ffa8969118b14288b12ab4bb6cbcad61
   link: /establish-an-enabling-environment
   icon: /assets/images/icons_D_Green2.png
 - title: Priorités
-  link: /prioritize
+  link: /priorits
   icon: /assets/images/icons_D_Green2.png
 - title: Suivi et évaluation
-  link: /monitoring-evaluation
+  link: /suivi-et-valuation
   icon: /assets/images/icons_D_Green2.png
 - title: Des mécanismes d’assistance
-  link: /build-support-and-capabilities
+  link: /des-mcanismes-dassistance
   icon: /assets/images/icons_D_Green2.png
 - title: Plan d’action
-  link: /create-an-action-plan
+  link: /plan-daction
   icon: /assets/images/icons_D_Green2.png
 {% endgallery %}

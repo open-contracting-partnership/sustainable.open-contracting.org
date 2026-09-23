@@ -328,7 +328,11 @@ module NotionTags
     def render(context)
       page = NotionTags.pages(context).fetch(@path)
       title = CGI.escapeHTML(page["title"].to_s)
-      icon = %(<img alt="#{title}" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"].to_s)}"/>)
+      icon = if page["icon"]
+               %(<img alt="#{title}" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"])}"/>)
+             else
+               NotionTags::PAGE_ICON.gsub("16px", "20px")
+             end
       classes = ["notion-link", "notion-page", @color].compact.join(" ")
       html = %(<a href="#{CGI.escapeHTML(@path)}" class="#{classes}"><span class="notion-page__icon">#{icon}</span>) +
              %(<span class="notion-page__title notion-semantic-string">#{title}</span></a>)

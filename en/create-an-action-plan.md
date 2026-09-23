@@ -32,7 +32,7 @@ We have identified the key steps that you can take when getting started with Ope
 
 {% toggle **Enabling environment**  %}
 
-In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section[ ](/get-started/establish-a-framework)[**Establish an enabling environment**](/get-started/establish-a-framework)**.**
+In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section[ ](/establish-an-enabling-environment)[**Establish an enabling environment**](/establish-an-enabling-environment)**.**
 
 Communicating the result of this exercise in your Action Plan is an opportunity to establish trust by clearly defining how suggested Open SPP approaches fit into the current rules. In particular, the Action Plan should focus on communicating:
 
@@ -132,7 +132,7 @@ Many countries start by working on the implementation of Open SPP in specific in
 
 {% toggle **Procurement categories**  %}
 
-Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/plan/prioritize)
+Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/prioritize-1)
 
 {% endtoggle %}
 

@@ -26,7 +26,7 @@ sidebar: true
   link: /engage-with-the-market
   icon: /assets/images/Icons_Red2.png
 - title: Set sustainability criteria
-  link: /set-sustainable-criteria
+  link: /set-sustainability-criteria
   icon: /assets/images/Icons_Red2.png
 - title: Prepare contract obligations
   link: /prepare-contract-obligations
