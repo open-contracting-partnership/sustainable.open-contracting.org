@@ -7,10 +7,9 @@ notion_id: "54c1d235d802429da62555704986e55d"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The following table provides guidance regarding how to use the different data options presented in <a href="/options-for-data-use-1" class="notion-link link">this section</a>, depending on your capacity (i.e. <a href="/open-data-measuring-progress/no-code-low-code-code" class="notion-link link">no code, low code, code</a>). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample <a href="/monitoring-evaluation/sample-me-framework" class="notion-link link">M&amp;E framework</a> and developed as worked examples in <a href="/open-data-measuring-progress" class="notion-link link">this section.</a> </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+The following table provides guidance regarding how to use the different data options presented in [this section](/options-for-data-use-1), depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section.](/open-data-measuring-progress) 
+{% endcallout %}
 
 <div class="notion-text"></div>
 

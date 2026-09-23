@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "210ea7c43360477487736dca15ff5003"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Identifying your sustainability goals and tracking progress
 
@@ -19,10 +19,9 @@ In this section, we explain how to set sustainability goals for your organizatio
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so <strong>you will need to decide which goals, outcomes, and indicators are most relevant to your context.</strong> We provide an <a href="https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629" class="notion-link link">editable template of the sample framework</a> in the <a href="/downloadable-tools-1" class="notion-link link">downloadable tools section.</a></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green8.png %}
+It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section.](/downloadable-tools-1)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -32,69 +31,45 @@ The sample [M&E framework](/monitoring-evaluation/sample-me-framework) is struct
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Goals</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Goals** %}
 
 Goals are high-level sustainability objectives that guide Open SPP implementation. Goals should reflect national, regional, local, or organizational priorities. This toolkit includes a selection of five sample goals: **Reducing carbon emissions**, **Promoting gender inclusion**, **Driving socio-economic development**, **Promoting SPP uptake**, and **Promoting life cycle costing approaches**. Each of these corresponds to one of the worked examples presented in [section three](/open-data-measuring-progress).
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">One of the five goals we have included in our worked examples in section three is <strong>Reducing carbon emissions.</strong> As public procurement is responsible for 15% of the world’s CO2 emissions, and reaching net zero in 2050 has been set as a target by many governments, setting this as a key goal can be an effective way to monitor progress in this area.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+One of the five goals we have included in our worked examples in section three is **Reducing carbon emissions.** As public procurement is responsible for 15% of the world’s CO2 emissions, and reaching net zero in 2050 has been set as a target by many governments, setting this as a key goal can be an effective way to monitor progress in this area.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Outcomes</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Outcomes** %}
 
 Outcomes are the expected intermediate changes from implementing Open SPP practices. Each goal has certain outcomes associated with it, which together contribute to the ultimate sustainability goal.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">As you can see in the sample <a href="/monitoring-evaluation/sample-me-framework" class="notion-link link">M&amp;E framework</a>, four outcomes have been aligned with the goal of <strong>Reducing carbon emissions</strong>. These outcomes are: <strong>Promoting low carbon practices in public contracts</strong>, <strong>Reducing carbon value associated with public contracts</strong>, <strong>Promoting low carbon suppliers</strong>, and <strong>Reducing the purchase of carbon intensive products</strong>.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+As you can see in the sample [M&E framework](/monitoring-evaluation/sample-me-framework), four outcomes have been aligned with the goal of **Reducing carbon emissions**. These outcomes are: **Promoting low carbon practices in public contracts**, **Reducing carbon value associated with public contracts**, **Promoting low carbon suppliers**, and **Reducing the purchase of carbon intensive products**.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Indicators </strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Indicators**  %}
 
 Indicators are the metrics needed to measure progress against outcomes. Each indicator has different units of measurement, such as number of contracts, hours of training, quantities of products purchased, or value of contracts. For each indicator, you should collect data to determine current baselines, set a target to be achieved within a specific period, and track your progress along the way.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">If a public authority decides to select “Reducing carbon value associated with public contracts” as an outcome, they might decide to measure this by capturing the “Tonnes of CO2 associated with public contracts”. This will be calculated by multiplying the CO2 estimates of the goods purchased, by the amount of units purchased. For additional guidance for measuring progress, see the <a href="/carbon-reduction" class="notion-link link">full worked example in section three.</a></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+If a public authority decides to select “Reducing carbon value associated with public contracts” as an outcome, they might decide to measure this by capturing the “Tonnes of CO2 associated with public contracts”. This will be calculated by multiplying the CO2 estimates of the goods purchased, by the amount of units purchased. For additional guidance for measuring progress, see the [full worked example in section three.](/carbon-reduction)
+{% endcallout %}
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -136,33 +111,35 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources
-</strong></span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/" class="notion-link link" target="_blank" rel="noopener noreferrer">Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer">World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/" class="notion-link link" target="_blank" rel="noopener noreferrer">Government of Ireland. 2021. Green Tenders: Action Plan on Green Public Procurement</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm" class="notion-link link" target="_blank" rel="noopener noreferrer">European Commission. 2022. EU GPP Criteria. </a></li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+<strong>Resources
+</strong>
+
+- [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
+- [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
+- [Government of Ireland. 2021. Green Tenders: Action Plan on Green Public Procurement](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).
+- [European Commission. 2022. EU GPP Criteria. ](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Case Study </strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>In 2005, the Ministry of Environment in the</strong><strong><a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&amp;isAllowed=y" class="notion-link link"> Republic of Korea</a></strong><strong> enacted the “Act on Promotion of Purchase of Green Products”, </strong>and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.” </p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>Two key indicators are monitored: the number of public organizations that submit a GPP plan and performance report, and the purchase of green products (specifically the units and expenditure on ecolabelled products purchased and the proportion of that to total expenditure). </strong>The purchase of green products is linked to the products certified by the<a href="http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp" class="notion-link link"> Korean ecolabel</a>, and it is measured to monitor progress against the plan’s objective of minimizing CO2 emissions.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">The Korea Environmental Industry and Technology Institute (KEITI) has been appointed the responsible authority for managing the reporting and monitoring system. In order to do this, <strong>data is gathered from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform&#x27;&#x27; (GPIP), created for procurement authorities to upload required data from de-centralised procurement processes.</strong> To incentivize performance, Korea provides an annual performance bonus to local governments, public organizations and local public organizations based on their GPP ratio to local spending, and GPP growth rate.</p>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Case Study** 
 
-</div>
-</div>
+<div class="notion-text"></div>
+
+**In 2005, the Ministry of Environment in the[ Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.” 
+
+<div class="notion-text"></div>
+
+**Two key indicators are monitored: the number of public organizations that submit a GPP plan and performance report, and the purchase of green products (specifically the units and expenditure on ecolabelled products purchased and the proportion of that to total expenditure).** The purchase of green products is linked to the products certified by the[ Korean ecolabel](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp), and it is measured to monitor progress against the plan’s objective of minimizing CO2 emissions.
+
+<div class="notion-text"></div>
+
+The Korea Environmental Industry and Technology Institute (KEITI) has been appointed the responsible authority for managing the reporting and monitoring system. In order to do this, **data is gathered from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform'' (GPIP), created for procurement authorities to upload required data from de-centralised procurement processes.** To incentivize performance, Korea provides an annual performance bonus to local governments, public organizations and local public organizations based on their GPP ratio to local spending, and GPP growth rate.
+{% endcallout %}
+
+{% endcolumn %}
+{% endcolumns %}

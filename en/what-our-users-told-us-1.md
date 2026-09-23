@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "af80fc51fe894f599879a1eb11c17ec6"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Giving you the resource that you asked for
 
@@ -63,7 +63,7 @@ Although sustainable procurement is relatively new for many public bodies, there
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

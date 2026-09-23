@@ -7,21 +7,20 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "1d8fd281d39d498ba986659dddc89537"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Exemple : calculer le coût du cycle de vie**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous expliquons comment vous pouvez exploiter les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la prise en compte du coût du cycle de vie dans les marchés publics.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Dans cette section, nous expliquons comment vous pouvez exploiter les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la prise en compte du coût du cycle de vie dans les marchés publics.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -57,20 +56,17 @@ Le calcul du coût du cycle de vie a plusieurs effets positifs pour les entités
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Vous pouvez exploiter les données pour montrer l’importance du rapport qualité-prix dans la commande publique, en adoptant une vision à long terme.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Vous pouvez exploiter les données pour montrer l’importance du rapport qualité-prix dans la commande publique, en adoptant une vision à long terme.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Il est possible de récompenser les fournisseurs et équipes qui s’engagent à fournir des produits de qualité élevée au lieu de rechercher une vente rapide.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Il est possible de récompenser les fournisseurs et équipes qui s’engagent à fournir des produits de qualité élevée au lieu de rechercher une vente rapide.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Les informations de qualité concernant le coût du cycle de vie permettent d’utiliser moins de ressources sur une plus longue période et de limiter les déchets.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Les informations de qualité concernant le coût du cycle de vie permettent d’utiliser moins de ressources sur une plus longue période et de limiter les déchets.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -420,7 +416,7 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
   </table>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

@@ -7,18 +7,17 @@ icon: "/assets/images/Icons_Grey2.png"
 full_width: true
 notion_id: "fdd9aae286ba4fd39e4c1b62c1154426"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% columns %}
+{% column 0.2083 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Dans cette section, vous trouverez des renseignements essentiels qui vous aideront à comprendre les éco-étiquettes et le rôle qu’elles peuvent jouer dans la mise en place de marchés publics durables.</em></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+*Dans cette section, vous trouverez des renseignements essentiels qui vous aideront à comprendre les éco-étiquettes et le rôle qu’elles peuvent jouer dans la mise en place de marchés publics durables.*
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -32,57 +31,29 @@ Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globaleco
 
 L’Organisation internationale de normalisation (ISO) distingue actuellement trois types d’éco-étiquettes :<br>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type I (ISO 14024)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type I (ISO 14024)** %}
 
 Ces étiquettes sont des démarches volontaires, fondées sur de multiples critères et attribuées par des tiers et indiquent qu’un produit particulier est préférable pour l’environnement compte tenu de considérations ayant trait à son cycle de vie. Cette catégorie englobe [Nordic Swan](https://www.nordic-ecolabel.org/) ou l’étiquette allemande [Blue Angel](https://www.blauer-engel.de/en). À noter que ce type d’éco-étiquettes propose généralement des frais d’admission et de certification différents aux microentreprises et aux petites et moyennes entreprises. Par exemple, l’éco-étiquette [Nordic Swan](https://www.nordic-ecolabel.org/product-groups/group/?productGroupCode=104) accorde une réduction de 50 % aux microentreprises et demande une redevance variant en fonction du chiffre d’affaires. La [structure du coût de l’éco-étiquette de l’Union européenne](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel) est un autre exemple en la matière.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type II (ISO 14021)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type II (ISO 14021)** %}
 
 Ces étiquettes sont des déclarations environnementales réalisées par les entreprises et ne supposent pas l’attribution d’une certification par un tiers. Il peut s’agir de logos ou de déclarations, par exemple « fabriqué à partir de 100 % de papier recyclé ». La norme ISO définit plusieurs exigences pour ce type d’étiquetage, parmi lesquelles la précision.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type III (ISO 14025)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type III (ISO 14025)** %}
 
 Ces étiquettes sont des déclarations qui font état de l’analyse du cycle de vie d’un produit spécifique et présentent la méthodologie, les hypothèses et les sources de données. Les résultats comprennent des données environnementales quantifiées, comme les émissions de CO2, et sont vérifiés par un tiers. Dans cette catégorie, nous trouvons par exemple les déclarations environnementales de produit, qui sont souvent utilisées pour les matériaux de construction. [Cliquez ici](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf) pour voir un exemple de déclaration environnementale de produits composés d’acier. Ces déclarations ne constituent pas des évaluations, c’est-à-dire qu’elles ne constituent pas une preuve de certification ou de certification par des éco-étiquettes de type I, mais elles fournissent des données objectives permettant aux consommateurs de faire des comparaisons.
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Éco-étiquettes apparentées au type I</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Éco-étiquettes apparentées au type I** %}
 
 Ces étiquettes possèdent les mêmes caractéristiques que les éco-étiquettes de type I, mais elles se concentrent sur un seul aspect. Cela inclut par exemple les étiquettes comme Energy Star, qui définit le niveau maximum de consommation d’énergie des appareils électriques, ou Forest Stewardship Council (FSC), qui garantit une gestion durable des forêts.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
 ### **Comment utiliser des éco-étiquettes dans le cadre de la mise en place de marchés publics durables ?**
 
@@ -90,46 +61,25 @@ Les éco-étiquettes peuvent être utilisées à différentes étapes et de diff
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Utiliser les normes d’éco-étiquettes pour guider l’élaboration des exigences environnementales</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Utiliser les normes d’éco-étiquettes pour guider l’élaboration des exigences environnementales** %}
 
 La plupart des éco-étiquettes de type I ou apparentées au type I publient de façon ouverte les normes environnementales qu’un produit doit respecter pour être certifié. Vous pouvez vous inspirer de ces normes pour élaborer des exigences environnementales avant d’acquérir certains types de produits. Par exemple, si vous achetez de nouveaux dispositifs d’affichage, vous pouvez utiliser [les normes publiées par l’éco-étiquette TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) pour élaborer les spécifications du produit ou les critères d’attribution du marché. Consultez [cette section](https://sustainable.open-contracting.org/implement/set-sustainable-criteria) du guide pratique pour en savoir plus sur la définition des critères de durabilité.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Exiger le respect des critères d’éco-étiquettes existantes</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Exiger le respect des critères d’éco-étiquettes existantes** %}
 
 Lorsque vous utilisez des éco-étiquettes de type I ou apparentées ou type I dans le cadre d’un processus de passation de marchés, vous pouvez choisir les normes que vous considérez comme étant les plus pertinentes pour votre marché ou exiger le respect de l’ensemble des normes d’une éco-étiquette particulière. Par exemple, au moment d’acquérir des dispositifs d’affichage, vous pouvez indiquer que les produits proposés devront être conformes aux normes établies par l’éco-étiquette TCO. Pour cela, vous devez vérifier que l’ensemble des normes établies par l’éco-étiquette sont pertinentes par rapport à l’objet du marché et que vous donnez aux fournisseurs la possibilité de montrer qu’ils respectent les normes dont il est question par d’autres moyens que le certificat officiel de l’éco-étiquette.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Définir les catégories de marchés prioritaires en s’appuyant sur les éco-étiquettes existantes</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Définir les catégories de marchés prioritaires en s’appuyant sur les éco-étiquettes existantes** %}
 
 En ce qui concerne la mise en place de marchés publics durables, il peut être utile de concentrer vos efforts sur certaines catégories de marchés. Les éco-étiquettes existantes peuvent être des facteurs importants en vue du choix des catégories prioritaires. Vous pouvez également prendre en compte les produits certifiés présents sur le marché local afin que la mise en place de marchés publics durables profitent aux entreprises locales. Consultez [cette section](https://sustainable.open-contracting.org/plan/prioritize) pour en savoir plus.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
 Enfin, les déclarations environnementales de produit correspondant aux éco-étiquettes de type III peuvent être particulièrement utiles pour comparer différents produits et réunir des données environnementales pertinentes, par exemple concernant les émissions de CO2. Toutefois, elles ne sont pas aussi courantes que les autres étiquettes, notamment de type I ou apparentées au type I.
 
@@ -353,10 +303,10 @@ Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type 
 
 <div class="notion-text"></div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.0417 %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

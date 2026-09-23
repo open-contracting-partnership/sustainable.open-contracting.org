@@ -23,23 +23,21 @@ notion_id: "a08f4d9058f14d8a98097faa7492ba45"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8749999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In Colombia, corruption is estimated to cost the country around 7.5 billion USD a year.</strong> To work towards tackling this problem, the Transparency Secretariat <strong>decided to engage citizens in monitoring activities</strong>, and developed the <a href="https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos" class="notion-link link">Elefantes Blancos app</a>. 
-</span>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>The Elefantes Blancos, or “white elephants”, app allows Colombian citizens to upload photos of abandoned and incomplete construction projects across the country. </strong>Citizens can also include information on the procurement agency responsible for the project, as well as its name and value. Users of the app can vote for the most disliked project, and government prioritizes investigations based on the most frequently reported “white elephants”. 
-</p>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>The app was introduced in 2013 and, </strong><strong><a href="https://apolitical.co/solution-articles/en/colombias-anti-corruption-app-identifies-163m-neglected-projects" class="notion-link link">by 2017</a></strong><strong>, the Transparency Secretariat had 54 projects valued at 163 million USD. </strong></p>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**In Colombia, corruption is estimated to cost the country around 7.5 billion USD a year.** To work towards tackling this problem, the Transparency Secretariat **decided to engage citizens in monitoring activities**, and developed the [Elefantes Blancos app](https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos).<br>
+
+**The Elefantes Blancos, or “white elephants”, app allows Colombian citizens to upload photos of abandoned and incomplete construction projects across the country.** Citizens can also include information on the procurement agency responsible for the project, as well as its name and value. Users of the app can vote for the most disliked project, and government prioritizes investigations based on the most frequently reported “white elephants”.<br>
+
+**The app was introduced in 2013 and, [by 2017](https://apolitical.co/solution-articles/en/colombias-anti-corruption-app-identifies-163m-neglected-projects), the Transparency Secretariat had 54 projects valued at 163 million USD.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

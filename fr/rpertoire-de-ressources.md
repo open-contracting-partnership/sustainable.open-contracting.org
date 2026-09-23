@@ -7,17 +7,16 @@ icon: "/assets/images/Notion-others.png"
 full_width: true
 notion_id: "523c6afd5cae4a12b4ddce3f06263499"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.</em></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+*Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -1414,7 +1413,7 @@ Compras Públicas Sustentables</div>
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

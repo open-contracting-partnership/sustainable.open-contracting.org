@@ -18,32 +18,32 @@ By encouraging economic development public procurement can be used to increase s
 
 Analysing public procurement’s impact on an economy can have a range of positive effects for suppliers and entrepreneurs who believe that they can support government with their products or services.
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.33333333333333337)" markdown="1">
+{% columns %}
+{% column 0.3333 %}
 
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🗣</span></div>
   <div class="notion-callout__content"><span class="notion-semantic-string">Research shows that spending with smaller companies provides greater returns for tax authorities and new jobs can reduce govt costs.</span></div>
 </div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.33333333333333337);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.3333 %}
 
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🔉</span></div>
   <div class="notion-callout__content"><span class="notion-semantic-string">Most innovation happens in smaller companies, engaging with them can deliver significant advances for governments.</span></div>
 </div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.3333333333333333);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.3333 %}
 
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">👉</span></div>
   <div class="notion-callout__content"><span class="notion-semantic-string">It is possible to create a virtuous cycle that helps small companies grow into large companies just from government business.</span></div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 ## How open contracting data helps
 
@@ -53,39 +53,39 @@ Data on local firms, supplier’s commitments to apprenticeship schemes or commi
 
 Economic development is a rich area for analysis, with governments often being able to draw on their own economic data from tax records and public company registers. We outline some simple steps that can be taken to analyse the impact of procurement in economic development.
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.5)" markdown="1">
+{% columns %}
+{% column 0.5 %}
 
 ### Option 1: Measure contracts awarded
 
 Buyers can measure the value and number of contracts awarded to suppliers based according to location, size or industry. Simply recording this and looking to see if the number of awards increases is the simplest way to start measuring economic development impacts.
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.5);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.5 %}
 
 ### Option 2: Measure commitments to local job creation by suppliers
 
 The more and better data that exists around supplier and contracting and spend, the more buyers can analyse not only how much money is going to their local regions but also compare public spend with other important economic development metrics such as deprivation indexes, location of minority owned businesses.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.5)" markdown="1">
+{% columns %}
+{% column 0.5 %}
 
 ### Option 3: Look for local firms used by other parts of government
 
 Buyers can search for local firms who have performed similar contracts based on category, specification, and value. A register of contracts with clean and complete OCDS data will enable this. 
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.5);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.5 %}
 
 ### Option 4: Measure contracts to high growth industries
 
 Buyers can identify categories of interest and measure the growth based on contracting spend compared to previous years. This can extend to key industries of interest subordinate to larger industries, for instance those further down the supply chain.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-collection inline collection-b67cf8539f3d44558ff31ebe87d884c9">
   <div class="notion-collection__header-wrapper">

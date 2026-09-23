@@ -130,10 +130,32 @@ def escape(text, start_of_line, level):
     return text
 
 
+def merge(nodes):
+    """Merge consecutive bold (or italic) elements, which Notion sometimes splits."""
+    merged = []
+    for node in nodes:
+        previous = merged[-1] if merged else None
+        if (
+            isinstance(node, Element)
+            and isinstance(previous, Element)
+            and node.name in ("strong", "em")
+            and node.name == previous.name
+            and not node.attrs
+            and not previous.attrs
+        ):
+            combined = Element(previous.tag, previous.start)
+            combined.children = previous.children + node.children
+            combined.end = node.end
+            merged[-1] = combined
+        else:
+            merged.append(node)
+    return merged
+
+
 def inline(nodes, level, start_of_line=True):
     """Return the Markdown for inline content, or None."""
     output = []
-    for node in nodes:
+    for node in merge(nodes):
         at_start = (
             start_of_line and not output or (output and output[-1].endswith("\n"))
         )
@@ -143,8 +165,9 @@ def inline(nodes, level, start_of_line=True):
             lines = text.split("\n")
             parts = []
             for i, line in enumerate(lines):
-                if line.endswith("  ") and i < len(lines) - 1:
-                    return None  # would be a hard line break
+                # Spaces before a line break don't render, and two would be a hard line break in Markdown.
+                if i < len(lines) - 1:
+                    line = line.rstrip(" ")
                 parts.append(escape(line, at_start if i == 0 else True, level))
             # A line break is a newline, unless the previous line is empty, in which case it's a <br>.
             markdown = parts[0]
@@ -167,8 +190,12 @@ def inline(nodes, level, start_of_line=True):
             if content is None:
                 return None
             marker = "**" if node.name == "strong" else "*"
-            if content and content == content.strip() and "\n" not in content:
-                output.append(f"{marker}{content}{marker}")
+            stripped = content.strip(" ")
+            if stripped and "\n" not in content and "<br>" not in content:
+                # Spaces at the edges of bold or italic text are moved outside it.
+                leading = content[: len(content) - len(content.lstrip(" "))]
+                trailing = content[len(content.rstrip(" ")) :]
+                output.append(f"{leading}{marker}{stripped}{marker}{trailing}")
             else:
                 output.append(f"<{node.name}>{content}</{node.name}>")
         elif (
@@ -234,9 +261,13 @@ def block(node, level):
             ):
                 return None
             content = inline(item.children, level)
-            if not content or content.startswith(" ") or "\n" in content:
+            if not content or content.startswith(" "):
                 return None
-            items.append(("- " if node.name == "ul" else f"{i + 1}. ") + content)
+            # Markdown would drop a trailing newline, and continuation lines are indented.
+            if content.endswith("\n"):
+                content = content[:-1] + "<br>"
+            marker = "- " if node.name == "ul" else f"{i + 1}. "
+            items.append(marker + content.replace("\n", "\n" + " " * len(marker)))
         return "\n".join(items)
     return None
 
@@ -245,11 +276,162 @@ def strip_ids(text):
     return re.sub(r' id="block-[^"]*"', "", text)
 
 
-def convert(text, indent, candidates):
+def elements(node):
+    """Return an element's child elements, or None if it has text other than whitespace."""
+    if any(isinstance(child, str) and child.strip() for child in node.children):
+        return None
+    return [child for child in node.children if not isinstance(child, str)]
+
+
+def inner(node, text):
+    return text[node.start + len(node.tag) : node.end - len(f"</{node.name}>")]
+
+
+def summary_text(span):
+    """Return the Markdown for a span's text, for a tag, or None."""
+    if (
+        not span
+        or span.name != "span"
+        or span.attrs != {"class": "notion-semantic-string"}
+    ):
+        return None
+    content = inline(span.children, "common")
+    if not content or content != content.lstrip() or "%}" in content:
+        return None
+    return content
+
+
+def callout_tag(node, text, indent, candidates):
+    """Return a callout as a {% callout %} tag, or None."""
+    match = re.fullmatch(r"notion-callout(?: bg-(\w+)-light)? border", node.cls)
+    children = elements(node)
+    if (
+        not match
+        or not children
+        or len(children) != 2
+        or children[0].cls != "notion-callout__icon"
+    ):
+        return None
+    icon = elements(children[0])
+    expected = {
+        "alt": "icon",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "class": "notion-icon",
+        "style": "object-fit:contain;object-position:center",
+    }
+    if (
+        not icon
+        or len(icon) != 1
+        or icon[0].name != "img"
+        or {k: v for k, v in icon[0].attrs.items() if k != "src"} != expected
+    ):
+        return None
+    content = children[1]
+    blocks = elements(content)
+    if content.attrs != {"class": "notion-callout__content"} or not blocks:
+        return None
+    body = summary_text(blocks[0])
+    if body is None or "\n\n" in body:
+        return None
+    # Markdown would drop a trailing newline.
+    if body.endswith("\n"):
+        body = body[:-1] + "<br>"
+    rest = text[blocks[0].end : content.end - len("</div>")]
+    markdown = convert(rest, indent, candidates, tags=True) if rest.strip() else ""
+    if markdown is None:
+        return None
+    color = match.group(1) or "default"
+    body = f"{body}\n\n{markdown}" if markdown else body
+    return f"{{% callout {color} {icon[0].attrs['src']} %}}\n{body}\n{{% endcallout %}}"
+
+
+def toggle_tag(node, text, indent, candidates):
+    """Return a toggle as a {% toggle %} tag, or None."""
+    children = elements(node)
+    if (
+        not children
+        or len(children) != 2
+        or node.attrs != {"class": "notion-toggle closed"}
+    ):
+        return None
+    summary, content = children
+    parts = elements(summary)
+    if (
+        summary.attrs != {"class": "notion-toggle__summary"}
+        or not parts
+        or len(parts) != 2
+    ):
+        return None
+    if strip_ids(text[parts[0].start : parts[0].end]) != (
+        '<div class="notion-toggle__trigger"><div class="notion-toggle__trigger_icon"><span>‣</span></div></div>'
+    ):
+        return None
+    title = summary_text(parts[1])
+    if title is None or "\n" in title or "<br>" in title:
+        return None
+    if content.attrs != {"class": "notion-toggle__content", "style": "display:none"}:
+        return None
+    markdown = convert(inner(content, text), indent, candidates, tags=True)
+    if markdown is None:
+        return None
+    return f"{{% toggle {title} %}}\n\n{markdown}\n\n{{% endtoggle %}}"
+
+
+def width(value):
+    """Round a column's width, e.g. 0.2500000000000001 to 0.25."""
+    return f"{round(float(value), 4):g}"
+
+
+def columns_tag(node, text, indent, candidates):
+    """Return a column list as {% columns %} and {% column %} tags, or None."""
+    columns = elements(node)
+    if not columns or node.attrs != {"class": "notion-column-list"}:
+        return None
+    output = ["{% columns %}"]
+    for index, column in enumerate(columns):
+        match = re.fullmatch(
+            r"width:calc\(\(100% - var\(--column-spacing\) \* (\d+)\) \* ([\d.]+)\)(;margin-inline-start:var\(--column-spacing\))?",
+            column.attrs.get("style", ""),
+        )
+        if (
+            column.name != "div"
+            or set(column.attrs) != {"class", "style"}
+            or column.cls != "notion-column"
+            or not match
+            or int(match.group(1)) != len(columns) - 1
+            or bool(match.group(3)) != (index > 0)
+        ):
+            return None
+        content = inner(column, text)
+        markdown = (
+            None if "{%" in content else convert(content, indent, candidates, tags=True)
+        )
+        if markdown is None:
+            output.append(
+                f"{{% column {width(match.group(2))} html %}}\n{indent(strip_ids(content))}\n{{% endcolumn %}}"
+            )
+        else:
+            output.append(
+                f"{{% column {width(match.group(2))} %}}\n\n{markdown}\n\n{{% endcolumn %}}"
+            )
+    output.append("{% endcolumns %}")
+    return "\n".join(output)
+
+
+TAGS = {
+    "notion-callout": callout_tag,
+    "notion-toggle": toggle_tag,
+    "notion-column-list": columns_tag,
+}
+
+
+def convert(text, indent, candidates, tags=False):
     """
     Return Markdown for a sequence of blocks, adding (Markdown, HTML) pairs to verify to ``candidates``.
 
-    Each block's Markdown is a placeholder, replaced once verified.
+    Each block's Markdown is a placeholder, replaced once verified. If ``tags``, use Liquid tags for complex blocks.
     """
     nodes = parse(text)
     output = []
@@ -264,10 +446,13 @@ def convert(text, indent, candidates):
             REPORT["unconverted containers"].append(f"inline element: {node.tag[:120]}")
             return None
         markdowns = [block(node, level) for level in LEVELS]
+        tag = TAGS.get(node.cls.split(" ")[0]) if tags and node.name == "div" else None
         if markdowns[-1] is not None:
             key = f"\x00{len(candidates)}\x00"
             candidates.append((markdowns, strip_ids(raw), indent(strip_ids(raw))))
             output.append(key)
+        elif tag and (markdown := tag(node, text, indent, candidates)) is not None:
+            output.append(markdown)
         elif node.name == "div" and (
             node.cls in CONTAINERS
             or node.cls in ("notion-column-list", "notion-toggle closed")
@@ -352,27 +537,71 @@ def normalize(text):
         elif token.strip():
             output.append(html.unescape(token.strip()))
     text = "".join(output)
-    # Trailing spaces in a block don't render (white-space: pre-wrap), and Markdown drops them.
-    text = re.sub(r" +(</(?:p|li|h1|h2|h3)>)", r"\1", text)
-    # Nested bold is bold, and the order of nested bold and italic doesn't matter.
-    while re.search(r"<(strong|em) ><\1 >", text):
+    # Column widths are rounded.
+    text = re.sub(r"\* ([\d.]{7,})\)", lambda m: f"* {width(m.group(1))})", text)
+    # Spaces before a line break don't render (white-space: pre-wrap).
+    text = re.sub(r" +\n", "\n", text)
+    # Spaces at the edges of bold or italic text are moved outside it. Nested or consecutive bold (or italic) is
+    # bold, and the order of nested bold and italic doesn't matter.
+    previous = None
+    while previous != text:
+        previous = text
+        text = re.sub(r"<(strong|em) >( +)", r"\2<\1 >", text)
+        text = re.sub(r"( +)</(strong|em)>", r"</\2>\1", text)
         text = re.sub(
             r"<(strong|em) ><\1 >((?:(?!</?\1 ).)*)</\1></\1>", r"<\1 >\2</\1>", text
         )
+        text = re.sub(
+            r"<em ><strong >((?:(?!</?(?:em|strong) ).)*)</strong></em>",
+            r"<strong ><em >\1</em></strong>",
+            text,
+        )
+        text = re.sub(r"</(strong|em)>( *)<\1 >", r"\2", text)
+        text = re.sub(r" +\n", "\n", text)
+    # Trailing spaces in a block don't render (white-space: pre-wrap), and Markdown drops them.
+    text = re.sub(r" +(</(?:p|li|h1|h2|h3)>)", r"\1", text)
+    return re.sub(r" +(</span>)(?=</div>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text)
+
+
+def expand_includes(text):
+    """Replace {% include %} tags with the included files, to compare with rendered Liquid."""
     return re.sub(
-        r"<em ><strong >((?:(?!</?(?:em|strong) ).)*)</strong></em>",
-        r"<strong ><em >\1</em></strong>",
+        r"\{% include ([\w.-]+) %\}",
+        lambda m: (ROOT / "_includes" / m.group(1)).read_text(),
         text,
     )
 
 
+def report_page(expected, actual):
+    i = next(
+        (i for i, (a, b) in enumerate(zip(expected, actual)) if a != b),
+        min(len(expected), len(actual)),
+    )
+    REPORT["unconverted pages"].append(
+        {
+            "expected": expected[max(0, i - 300) : i + 300],
+            "actual": actual[max(0, i - 300) : i + 300],
+        }
+    )
+
+
 def to_markdown(pages, indent):
-    """Convert each page's HTML to Markdown, keeping HTML for blocks that wouldn't render the same."""
+    """
+    Convert each page's HTML to Markdown, keeping HTML for blocks that wouldn't render the same.
+
+    Use Liquid tags for complex blocks, unless the page wouldn't render the same.
+    """
     candidates = []
     drafts = [
-        convert(content, indent, candidates) if content.strip() else ""
+        [
+            convert(strip_ids(content), indent, candidates, tags)
+            if content.strip()
+            else ""
+            for tags in (True, False)
+        ]
         for content in pages
     ]
+
     # Render each block's Markdown at each escaping level, and use the lowest level that renders the same HTML.
     rendered = iter(
         render(
@@ -398,32 +627,30 @@ def to_markdown(pages, indent):
             )
 
     def fill(draft):
-        return re.sub(r"\x00(\d+)\x00", lambda m: results[int(m.group(1))], draft)
+        return (
+            None
+            if draft is None
+            else re.sub(r"\x00(\d+)\x00", lambda m: results[int(m.group(1))], draft)
+        )
 
-    outputs = []
-    for content, draft in zip(pages, drafts):
-        outputs.append(None if draft is None else fill(draft))
-    verified = render([output or "" for output in outputs])
+    filled = [[fill(draft) for draft in pair] for pair in drafts]
+    verified = iter(render([draft or "" for pair in filled for draft in pair]))
     final = []
-    for content, output, html_ in zip(pages, outputs, verified):
-        if output is not None and normalize(html_) == normalize(strip_ids(content)):
-            final.append(output)
+    tagged = 0
+    for content, pair in zip(pages, filled):
+        expected = normalize(expand_includes(strip_ids(content)))
+        outputs = [next(verified) for _ in pair]
+        for i, (draft, output) in enumerate(zip(pair, outputs)):
+            if draft is not None and normalize(output) == expected:
+                final.append(draft)
+                tagged += i == 0
+                break
+            if draft is not None:
+                report_page(expected, normalize(output))
         else:
             final.append(None)
-            if output is not None:
-                expected, actual = normalize(strip_ids(content)), normalize(html_)
-                i = next(
-                    (i for i, (a, b) in enumerate(zip(expected, actual)) if a != b),
-                    min(len(expected), len(actual)),
-                )
-                REPORT["unconverted pages"].append(
-                    {
-                        "expected": expected[max(0, i - 300) : i + 300],
-                        "actual": actual[max(0, i - 300) : i + 300],
-                    }
-                )
     (ROOT / ".crawl" / "markdown-report.json").write_text(
         json.dumps(REPORT, indent=1, ensure_ascii=False)
     )
-    stats = sum(r in c[0] for r, c in zip(results, candidates)), len(candidates)
+    stats = sum(r in c[0] for r, c in zip(results, candidates)), len(candidates), tagged
     return final, stats

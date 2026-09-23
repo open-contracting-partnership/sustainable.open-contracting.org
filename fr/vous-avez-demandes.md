@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "212ead56cde64a16a9538d12bae5dfaf"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Les ressources que vous avez demandées**
 
@@ -63,7 +63,7 @@ Bien que les marchés publics durables soient relativement récents pour de nomb
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

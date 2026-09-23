@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "fdc60ea0ebd048f4b5603e4aec22360d"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Worked example: Measuring life cycle costing
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section we explain how you can use data to measure and monitor progress against the goal of promoting life cycle costing approaches in procurement.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+In this section we explain how you can use data to measure and monitor progress against the goal of promoting life cycle costing approaches in procurement.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -54,20 +53,17 @@ Understanding life cycle costing has multiple positive effects for those seeking
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Use the data to demonstrate how you taking value for money seriously, by considering the long term.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Use the data to demonstrate how you taking value for money seriously, by considering the long term.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Rewards suppliers and teams that are committed to delivering a high quality product instead of securing a quick sale.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Rewards suppliers and teams that are committed to delivering a high quality product instead of securing a quick sale.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Good information on life cycle costing means using fewer resources for longer, reducing waste.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Good information on life cycle costing means using fewer resources for longer, reducing waste.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -411,7 +407,7 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
   </table>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

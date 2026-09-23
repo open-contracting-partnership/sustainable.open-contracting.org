@@ -24,11 +24,11 @@ notion_id: "06eef83d3e024d47af8eabd16173a93f"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
@@ -42,5 +42,5 @@ notion_id: "06eef83d3e024d47af8eabd16173a93f"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

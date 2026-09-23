@@ -7,16 +7,15 @@ icon: "/assets/images/Notion-Imp_2.png"
 full_width: true
 notion_id: "79b865ec9e6f42cc957a713b028303cc"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.</strong> As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. </span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+**In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.** As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -68,7 +67,7 @@ notion_id: "79b865ec9e6f42cc957a713b028303cc"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

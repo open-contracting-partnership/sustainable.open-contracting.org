@@ -7,30 +7,23 @@ icon: "/assets/images/NOTION_square_FAQ.png"
 full_width: true
 notion_id: "9e2d0f0fedf0487d9cc1f536f1a63e85"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% columns %}
+{% column 0.2083 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección, incluimos <strong>preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles</strong>. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.</span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+En esta sección, incluimos **preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles**. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string">¿<strong>Qué es la Contratación Pública Sostenible (CPS)?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle ¿**Qué es la Contratación Pública Sostenible (CPS)?** %}
 
 El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
 
@@ -38,16 +31,9 @@ El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pd
 
 En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [esta sección](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Cuál es la diferencia entre CPS y CPS Abierta?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Cuál es la diferencia entre CPS y CPS Abierta?** %}
 
 <p class="notion-text notion-text__content notion-semantic-string"> La contratación pública abierta y sostenible (CPS Abierta) se refiere a la aplicación de prácticas de contratación abierta y gobierno abierto para respaldar la implementación exitosa de CPS e impulsar mejores resultados sostenibles.</p>
 
@@ -61,16 +47,9 @@ En la [primera sección](https://sustainable.open-contracting.org/what-is-spp-an
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Cómo puede verificar si la regulación actual permite la implementación de CPS?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Cómo puede verificar si la regulación actual permite la implementación de CPS?** %}
 
 Existe la creencia común de que, cuando el marco habilitante, es decir, las normas y políticas existentes que rigen su contratación, establece que los contratos públicos deben adjudicarse a la oferta de precio más bajo, es difícil implementar SPP. Sin embargo, esto es un concepto erróneo e independientemente del marco propicio, a menudo hay mucho espacio para la implementación de SPP. Para evaluar sus opciones, le recomendamos que comience identificando la regulación actual con respecto a los criterios de evaluación:
 
@@ -81,16 +60,9 @@ Una vez usted haya identificado la regulación con respecto a los criterios de e
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Cómo se pueden priorizar las categorías de contrataciones?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Cómo se pueden priorizar las categorías de contrataciones?** %}
 
 Cuando comience a implementar CPS, priorizar categorías específicas de productos puede ayudar a enfocar los esfuerzos de CPS. Hay diferentes factores que se pueden considerar al realizar el ejercicio de priorización, estos se pueden dividir en gran medida en dos categorías principales:
 
@@ -105,16 +77,9 @@ Este estudio de caso demuestra cómo se puede utilizar una técnica de medición
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Como autoridad nacional, ¿cómo podrá usted facilitar CPS Abierta?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Como autoridad nacional, ¿cómo podrá usted facilitar CPS Abierta?** %}
 
 Hay diferentes formas en que las autoridades nacionales, locales o regionales pueden facilitar la implementación de CPS. Además de establecer un marco propicio claro, usted podrá:
 
@@ -127,16 +92,9 @@ Para obtener más información al respecto, consulte [esta sección](https://sus
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Qué debe incluir en un Plan de Acción CPS?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Qué debe incluir en un Plan de Acción CPS?** %}
 
 Un Plan de Acción de CPS sirve como referencia para que los profesionales de contrataciones comprendan qué cumple y qué no, así como para garantizar la estandarización, la responsabilidad y la continuidad independientemente de los cambios en el liderazgo institucional. Las autoridades públicas pueden utilizar el Plan de Acción de CPS como una forma de comunicar cómo los profesionales pueden implementar CPS dentro del marco existente y cómo se desarrollará este marco durante un período de tiempo específico. De esta forma, usted puede comunicar en su Plan de Acción:
 
@@ -156,16 +114,9 @@ Este [índice](https://sustainable.open-contracting.org/create-an-action-plan/sa
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Cómo puede usted encontrar e interactuar con proveedores sostenibles?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Cómo puede usted encontrar e interactuar con proveedores sostenibles?** %}
 
 Involucrarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, se vuelve especialmente relevante en el contexto de CPS para:
 
@@ -184,16 +135,9 @@ Para obtener más información, consulte [esta sección](https://sustainable.ope
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Qué es una etiqueta ecológica y cómo puede usarla para CPS?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Qué es una etiqueta ecológica y cómo puede usarla para CPS?** %}
 
 Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolabelling.net/what-is-eco-labelling/) como “un método voluntario de certificación y etiquetado del desempeño ambiental que se practica en todo el mundo”. De esta forma, una “ecoetiqueta identifica productos o servicios que han demostrado ser ambientalmente preferibles dentro de una categoría específica”. La Organización Internacional de Normalización (ISO) actualmente clasifica estas etiquetas en tres tipos: Tipo I, Tipo II, Tipo III y tipo I.
 
@@ -203,23 +147,15 @@ Para obtener más información sobre cómo usar ecoetiquetas durante un proceso 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>¿Qué es el costeo del ciclo de vida (LCC) y cómo se puede aplicar en la contratación?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **¿Qué es el costeo del ciclo de vida (LCC) y cómo se puede aplicar en la contratación?** %}
 
 Existe una idea errónea común de que adquirir productos y servicios sostenibles siempre significa gastar más dinero. En realidad, aunque las alternativas sostenibles en ocasiones pueden tener un coste de contratación más elevado, si además se tienen en cuenta los costos de operación, mantenimiento y eliminación, pueden convertirse en la alternativa más económica. El costo del ciclo de vida (LCC) calcula estos costes y también puede incluir el cálculo de costes medioambientales, como las emisiones de CO2.
 
 Para obtener más información sobre el coste del ciclo de vida (LCC), consulte [esta sección](https://sustainable.open-contracting.org/life-cycle-costing). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -227,10 +163,10 @@ Para obtener más información sobre el coste del ciclo de vida (LCC), consulte 
 
 <div class="notion-text"></div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.0417 %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

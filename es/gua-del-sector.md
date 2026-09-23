@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Grey.png"
 full_width: true
 notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # ¿Cómo se puede implementar la CPS Abierta en sectores específicos?
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta sección brindamos una guía específica sobre cómo integrar la sostenibilidad en los procesos de adquisición de TIC y construcción.</strong> Esto incluye orientación relacionada con certificaciones relevantes que se pueden usar como referencia, criterios clave de sostenibilidad a considerar, opciones para recopilar los datos necesarios de los proveedores y métodos de adquisición útiles que pueden respaldar el proceso. </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+**En esta sección brindamos una guía específica sobre cómo integrar la sostenibilidad en los procesos de adquisición de TIC y construcción.** Esto incluye orientación relacionada con certificaciones relevantes que se pueden usar como referencia, criterios clave de sostenibilidad a considerar, opciones para recopilar los datos necesarios de los proveedores y métodos de adquisición útiles que pueden respaldar el proceso. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -48,7 +47,7 @@ notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

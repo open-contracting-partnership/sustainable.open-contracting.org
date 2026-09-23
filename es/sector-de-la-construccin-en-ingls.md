@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Grey5.png"
 full_width: true
 notion_id: "2a371746efb64420ac108034a8585636"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **¿Por qué CPS Abierta es importante en el sector de la construcción?**
 
@@ -23,15 +23,12 @@ Como el método por el cual se entregan muchos proyectos de construcción, la co
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Es importante tener en cuenta que, <strong>dentro del sector de la construcción, existen diferentes tipos de bienes de construcción</strong>, incluidos edificios residenciales y comerciales, infraestructura económica (por ejemplo, transporte) e infraestructura social (por ejemplo, educación). 
-
-Los proyectos relacionados con cada uno de <strong>estos tipos de bienes normalmente se dividen en cuatro etapas</strong>: diseño, construcción, uso y deconstrucción. Además de representar el ciclo de vida de un proyecto de construcción, <strong>estas etapas también pueden representar diferentes tipos de procesos de contratación</strong>
- <strong>de construcción,</strong> según el contrato firmado. En la mayoría de los casos, Diseño y Construcción se adquieren juntos (contratos de Diseño y Construcción), con la inclusión, en ocasiones, de la etapa En Uso (contratos de Diseño-Construcción-Operación). 
-
-<strong>Esta sección no entra en detalles sobre los diferentes tipos de proyectos de construcción.</strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey8.png %}
+Es importante tener en cuenta que, **dentro del sector de la construcción, existen diferentes tipos de bienes de construcción**, incluidos edificios residenciales y comerciales, infraestructura económica (por ejemplo, transporte) e infraestructura social (por ejemplo, educación).
+<br>Los proyectos relacionados con cada uno de **estos tipos de bienes normalmente se dividen en cuatro etapas**: diseño, construcción, uso y deconstrucción. Además de representar el ciclo de vida de un proyecto de construcción, **estas etapas también pueden representar diferentes tipos de procesos de contratación**
+ **de construcción,** según el contrato firmado. En la mayoría de los casos, Diseño y Construcción se adquieren juntos (contratos de Diseño y Construcción), con la inclusión, en ocasiones, de la etapa En Uso (contratos de Diseño-Construcción-Operación).
+<br>**Esta sección no entra en detalles sobre los diferentes tipos de proyectos de construcción.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -75,7 +72,7 @@ Los proyectos relacionados con cada uno de <strong>estos tipos de bienes normalm
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

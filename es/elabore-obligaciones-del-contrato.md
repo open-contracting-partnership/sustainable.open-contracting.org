@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "670fc05032a7418a831ebc67e797371b"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **Traducir la sostenibilidad en obligaciones contractuales** 
 
@@ -19,10 +19,9 @@ Una vez se hayan establecido claramente los criterios de sostenibilidad, deben t
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Relacionarse con los proveedores</strong> y discutir abiertamente las obligaciones de sostenibilidad <strong>conducirá a cláusulas contractuales más efectivas, aumentando el impacto positivo del contrato y minimizando los riesgos de incumplimiento</strong>. Sin embargo, <strong>este proceso también debe usarse para garantizar que el contrato general sea fácil de usar y que todas las partes interesadas comprendan las responsabilidades clave.</strong></span></div>
-</div>
+{% callout red /assets/images/Icons_Red8.png %}
+**Relacionarse con los proveedores** y discutir abiertamente las obligaciones de sostenibilidad **conducirá a cláusulas contractuales más efectivas, aumentando el impacto positivo del contrato y minimizando los riesgos de incumplimiento**. Sin embargo, **este proceso también debe usarse para garantizar que el contrato general sea fácil de usar y que todas las partes interesadas comprendan las responsabilidades clave.**
+{% endcallout %}
 
 <h2 class="notion-heading notion-semantic-string">
 <strong>Características clave de las cláusulas del contrato</strong></h2>
@@ -31,58 +30,31 @@ A menudo, las cláusulas contractuales que hacen referencia a las obligaciones d
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Precisión</strong>: establecimiento de requisitos específicos</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Precisión**: establecimiento de requisitos específicos %}
 
 Esta característica se refiere al grado de detalle utilizado para describir las expectativas de sostenibilidad establecidas en el proveedor. Si los requisitos son demasiado genéricos, esto socavará la eficacia y fuerza vinculante de la cláusula del contrato. Por ejemplo, si los criterios técnicos o de adjudicación establecían que el proyecto no superaría un objetivo específico de emisiones de CO2, o que se compraría una cantidad específica de productos ecoetiquetados, esto debería reflejarse claramente en el contrato. Estos representarán objetivos contra los cuales es fácil medir el cumplimiento.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Verificabilidad</strong>: asegúrese de que los requisitos sean verificables</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Verificabilidad**: asegúrese de que los requisitos sean verificables %}
 
 Una cláusula de contrato eficaz también debe enmarcar los requisitos de sostenibilidad como "obligaciones a evaluar", para dejar claramente espacio para actividades destinadas a verificar el cumplimiento de los requisitos. Los métodos que se utilizarán para controlar el cumplimiento deben acordarse con el proveedor y pueden incluirse en un anexo del contrato. Esto incluye considerar factores como la frecuencia de las actividades de monitoreo, si serán realizadas por el proveedor o por un tercero, y quién es responsable de cubrir los costos. Para obtener más información sobre los posibles métodos, consulte esta sección.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Aplicabilidad:</strong> Establecer consecuencias progresivas de los incumplimientos de las cláusulas</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Aplicabilidad:** Establecer consecuencias progresivas de los incumplimientos de las cláusulas %}
 
 Las cláusulas del contrato de sostenibilidad deben determinar consecuencias específicas en caso de incumplimiento. La mejor práctica es establecer las consecuencias progresivas de los incumplimientos de las cláusulas. El desarrollo de un plan correctivo puede ser el primer paso después de un incumplimiento, seguido, si es necesario, por la suspensión del contrato, sanciones y terminación.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Profundidad de cobertura:</strong> Vaya más allá de los proveedores de nivel</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Profundidad de cobertura:** Vaya más allá de los proveedores de nivel %}
 
 La profundidad de la cobertura se refiere a las diferentes capas de la cadena de suministro a las que se refieren las cláusulas. Esto es más relevante en términos de cláusulas de sostenibilidad social, como las que se refieren a la necesidad de que el proveedor cuente con un código de conducta y realice actividades de monitoreo a lo largo de la cadena de suministro.
 
@@ -90,43 +62,27 @@ La profundidad de la cobertura se refiere a las diferentes capas de la cadena de
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Contextualización</strong>: adapte los requisitos de sostenibilidad a su contexto</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Contextualización**: adapte los requisitos de sostenibilidad a su contexto %}
 
 Uno de los desafíos clave con las cláusulas de sostenibilidad en los contratos es que a menudo se usan de manera estandarizada y no se adaptan al objeto del contrato, el contexto local o la capacidad del proveedor. Por ejemplo, es posible que algunas PYME no tengan los recursos para realizar ciertas actividades de monitoreo o participar en diálogos entre industrias. Las cláusulas contractuales no contextualizadas pueden dar lugar a una limitación excesiva de los proveedores, dejando fuera a las empresas más pequeñas y creando dificultades para hacer cumplir las obligaciones.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Si bien la estandarización de las cláusulas de sostenibilidad puede facilitar la implementación de APP, debe asegurarse de que estas cláusulas tengan en cuenta factores como el tamaño del proveedor y los riesgos de sostenibilidad más relevantes para cada sector. También es importante garantizar una asignación justa de responsabilidades, como el costo de las actividades de monitoreo, para que no toda la presión recaiga sobre los proveedores, especialmente si desea cambios de comportamiento sostenibles.</span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+Si bien la estandarización de las cláusulas de sostenibilidad puede facilitar la implementación de APP, debe asegurarse de que estas cláusulas tengan en cuenta factores como el tamaño del proveedor y los riesgos de sostenibilidad más relevantes para cada sector. También es importante garantizar una asignación justa de responsabilidades, como el costo de las actividades de monitoreo, para que no toda la presión recaiga sobre los proveedores, especialmente si desea cambios de comportamiento sostenibles.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Consistencia</strong>: alinear la sostenibilidad y las obligaciones comerciales</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Consistencia**: alinear la sostenibilidad y las obligaciones comerciales %}
 
 Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las demandas comerciales, lo que a veces genera contradicciones en las aplicaciones. Para superar esto, es importante asegurarse de que los problemas de sostenibilidad estén integrados como un elemento clave de un contrato comercial, estableciendo objetivos claros de sostenibilidad, formas de capturar los datos y consecuencias en caso de incumplimiento.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -146,19 +102,16 @@ Incluir estas cláusulas puede ser crucial para garantizar una buena calidad y u
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos
-</strong></span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">EcoVadis &amp; Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility</a>.</li>
-    </ul>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+<strong>Recursos
+</strong>
+
+- [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

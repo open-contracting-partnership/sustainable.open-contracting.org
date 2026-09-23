@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green3.png"
 full_width: true
 notion_id: "4b9d33e0df7d4788ac18b1190380efba"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.875);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
 ## **What are they?**
 
@@ -31,10 +31,9 @@ Ensuring that there are provisions that allow for the implementation of Market E
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Prior Information Notices (PINs) </strong>are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+**Prior Information Notices (PINs)** are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -44,10 +43,9 @@ Ensuring that there are provisions that include open disclosure of information o
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">For <strong>more information on market engagement practices</strong> see section <a href="/relacinese-con-el-mercado" class="notion-link link">Engage with the supplier market</a>. To learn <strong>more about procurement approaches that include ongoing consultation practices</strong>, see section on <a href="/elija-un-mtodo-de-contratacin" class="notion-link link">Choose a procurement method.</a></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+For **more information on market engagement practices** see section [Engage with the supplier market](/relacinese-con-el-mercado). To learn **more about procurement approaches that include ongoing consultation practices**, see section on [Choose a procurement method.](/elija-un-mtodo-de-contratacin)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -55,5 +53,5 @@ Ensuring that there are provisions that include open disclosure of information o
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

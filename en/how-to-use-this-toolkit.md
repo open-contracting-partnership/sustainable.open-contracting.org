@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "87a7277c6d474679ba8bb97a9810ef83"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # How can you use this toolkit?
 
@@ -55,7 +55,7 @@ This toolkit can be used by sustainability teams to learn more about the procure
 
 This toolkit can be used by data and intelligence teams to understand what systems should be set up to facilitate SPP reporting activities.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

@@ -7,30 +7,23 @@ icon: "/assets/images/NOTION_square_FAQ.png"
 full_width: true
 notion_id: "6acdc6a4546941279d00b2aa846b58b9"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% columns %}
+{% column 0.2083 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Foire aux questions**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.</em> </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+*Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.* 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Qu’entend-on par « marchés publics durables » ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Qu’entend-on par « marchés publics durables » ?** %}
 
 Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » [traduction].
 
@@ -42,16 +35,9 @@ En d’autres mots, les marchés publics durables désignent la prise en compte 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Quelle est la différence entre des marchés publics durables et des marchés publics durables et ouverts ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Quelle est la différence entre des marchés publics durables et des marchés publics durables et ouverts ?** %}
 
 Les marchés publics durables et ouverts désignent l’adoption de pratiques relatives à la commande publique ouverte et aux gouvernements ouverts dans le but de favoriser la bonne mise en place des marchés publics durables et l’obtention de résultats plus durables.
 
@@ -65,16 +51,9 @@ Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-op
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Comment déterminer si la réglementation en vigueur permet de mettre en place des marchés publics durables ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Comment déterminer si la réglementation en vigueur permet de mettre en place des marchés publics durables ?** %}
 
 Il existe une croyance répandue selon laquelle, lorsque l’environnement habilitant, c’est-à-dire les règles et politiques qui régissent les marchés publics, établit que les marchés publics doivent être attribués à l’offre proposant le prix le plus bas, il est difficile de mettre l’accent sur la durabilité. Cette croyance est fausse, car indépendamment de l’environnement habilitant, il existe souvent beaucoup de possibilités pour mettre en place des marchés publics durables. Afin d’évaluer vos options, nous conseillons de commencer par analyser la réglementation relative aux critères d’évaluation :
 
@@ -87,16 +66,9 @@ Une fois que vous avez analysé la réglementation relative aux critères d’é
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Comment définir des catégories de marchés prioritaires ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Comment définir des catégories de marchés prioritaires ?** %}
 
 Avant de mettre en place des marchés publics durables, il peut être utile de définir les produits prioritaires afin de cibler les efforts en la matière. Différents facteurs peuvent être pris en compte pour définir ces priorités, ils peuvent globalement être séparés en deux grandes catégories :
 
@@ -109,16 +81,9 @@ Consultez [cette section](https://sustainable.open-contracting.org/plan/prioriti
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>En tant qu’administration nationale, comment faciliter la mise en place de marchés publics durables et ouverts ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **En tant qu’administration nationale, comment faciliter la mise en place de marchés publics durables et ouverts ?** %}
 
 Les administrations nationales, locales ou régionales peuvent faciliter la mise en place de marchés publics durables de différentes façons. Comme pour l’analyse d’un environnement habilitant clair, vous pouvez :
 
@@ -131,16 +96,9 @@ Consultez [cette section](https://sustainable.open-contracting.org/get-started/b
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Que doit contenir un plan d’action sur les marchés publics durables ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Que doit contenir un plan d’action sur les marchés publics durables ?** %}
 
 Un plan d’action sur les marchés publics durables sert de référence aux services de passation de marchés pour tout ce qui a trait à la conformité ainsi que pour garantir la normalisation, la redevabilité et la continuité des activités indépendamment des changements de direction au sein d’une institution. Les pouvoirs publics peuvent élaborer un plan d’action afin d’indiquer aux fonctionnaires comment mettre en place des marchés publics durables dans un environnement donné et la façon dont ce dernier évoluera au cours d’une certaine période. Pour cela, votre plan d’action peut aborder les éléments suivants :
 
@@ -157,16 +115,9 @@ Un plan d’action sur les marchés publics durables sert de référence aux ser
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Comment repérer des fournisseurs responsables et établir une relation avec eux ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Comment repérer des fournisseurs responsables et établir une relation avec eux ?** %}
 
 <div class="notion-text"></div>
 
@@ -187,16 +138,9 @@ Consultez [cette section](https://sustainable.open-contracting.org/engage-with-t
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Que sont les éco-étiquettes et quel peut être leur rôle dans les marchés publics durables ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Que sont les éco-étiquettes et quel peut être leur rôle dans les marchés publics durables ?** %}
 
 Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. L’Organisation internationale de normalisation (ISO) classe actuellement ces étiquettes en trois types : type I, type II, type III, et nous ajoutons les éco-étiquettes apparentées au type I.
 
@@ -206,16 +150,9 @@ Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Que désigne la prise en compte du coût du cycle de vie et comment l’appliquer aux marchés publics ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Que désigne la prise en compte du coût du cycle de vie et comment l’appliquer aux marchés publics ?** %}
 
 Une croyance erronée pourtant répandue voudrait que l’achat de produits et services durables implique toujours des dépenses supplémentaires. En réalité, bien que certaines solutions alternatives durables puissent avoir un coût d’acquisition plus élevé, en prenant en compte les coûts d’exploitation, d’entretien et de mise hors service, ces solutions peuvent devenir plus économiques. Le coût du cycle de vie intègre ces coûts et peut également comprendre une évaluation du coût environnemental, par exemple concernant les émissions de CO2.
 
@@ -223,8 +160,7 @@ Une croyance erronée pourtant répandue voudrait que l’achat de produits et s
 
 Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le calcul et la prise en compte du coût du cycle de vie. Parmi les outils pratiques, la [Commission européenne](https://ec.europa.eu/environment/gpp/lcc.htm) a conçu cinq outils de calcul du coût du cycle de vie utilisant Excel concernant plusieurs catégories de marchés (distributeurs automatiques, équipements de traitement de l’image, ordinateurs et écrans, éclairage intérieur et éclairage extérieur). La documentation de ces outils indique comment ils peuvent être utilisés pour évaluer les solutions existantes avant de lancer l’appel d’offres, pour comparer les offres durant l’appel d’offres et pour évaluer l’exécution du marché après la clôture de l’appel d’offres.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -232,10 +168,10 @@ Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-co
 
 <div class="notion-text"></div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.0417 %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

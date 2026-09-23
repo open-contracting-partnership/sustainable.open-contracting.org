@@ -24,20 +24,17 @@ notion_id: "1041612c5dec41d4a68d6bd342ec9bf2"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women. This study showed that <strong>only 36% of public contracts were awarded to women, and that these represented 26% of total value.
-
-</strong>Based on this study they established a series of measures to promote gender equality through public procurement. This included <strong><a href="https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf" class="notion-link link">provisions for including</a></strong><strong> award criteria to assess suppliers in terms of gender inclusion.
-
-</strong>As an example, they propose <strong>giving this factor a weighing of 15% in the evaluation</strong>, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.</span></div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women. This study showed that <strong>only 36% of public contracts were awarded to women, and that these represented 26% of total value.
+<br></strong>Based on this study they established a series of measures to promote gender equality through public procurement. This included <strong>[provisions for including](https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf) award criteria to assess suppliers in terms of gender inclusion.
+<br></strong>As an example, they propose **giving this factor a weighing of 15% in the evaluation**, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -47,5 +44,5 @@ notion_id: "1041612c5dec41d4a68d6bd342ec9bf2"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

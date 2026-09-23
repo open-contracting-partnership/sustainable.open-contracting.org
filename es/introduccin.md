@@ -7,11 +7,11 @@ icon: "/assets/images/Notion-Intro_play.png"
 full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Introducción al conjunto de herramientas**
 
@@ -47,10 +47,9 @@ Los profesionales se dan cuenta de que necesitan comprar cosas de una manera fun
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Como podrá ver en el diagrama a continuación, <strong>en esta sección introductoria le brindamos información sobre qué es la contratación pública abierta y sonstenible, cómo funciona y cómo navegar por este conjunto de herramientas</strong>. También presentamos los conocimientos clave recopilados a partir de la investigación con los usuarios y cómo han dado forma al diseño de este nuevo recurso.. </span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+Como podrá ver en el diagrama a continuación, **en esta sección introductoria le brindamos información sobre qué es la contratación pública abierta y sonstenible, cómo funciona y cómo navegar por este conjunto de herramientas**. También presentamos los conocimientos clave recopilados a partir de la investigación con los usuarios y cómo han dado forma al diseño de este nuevo recurso.. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -79,7 +78,7 @@ Los profesionales se dan cuenta de que necesitan comprar cosas de una manera fun
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

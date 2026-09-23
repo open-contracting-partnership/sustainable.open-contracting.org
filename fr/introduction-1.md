@@ -7,11 +7,11 @@ icon: "/assets/images/Notion-Intro_play.png"
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Une introduction au guide
 
@@ -45,10 +45,9 @@ Les membres des services de passation de marchés savent désormais qu’il est 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d&#x27;introduction, nous vous fournissons des informations sur ce qui sont <strong><strong>les marchés publics durables et ouverts</strong></strong>, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.</span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'introduction, nous vous fournissons des informations sur ce qui sont **les marchés publics durables et ouverts**, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -79,5 +78,5 @@ Les membres des services de passation de marchés savent désormais qu’il est 
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

@@ -7,18 +7,17 @@ icon: "/assets/images/Icons_Grey2.png"
 full_width: true
 notion_id: "72beba9e9d394c5b80e1392e38aad24d"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% columns %}
+{% column 0.2083 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section, we include key information for <strong>understanding ecolabels, and the role they can play in facilitating SPP implementation. </strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -30,57 +29,29 @@ The Global Ecolabelling Network (GEN) [defines ecolabelling](https://globalecola
 
 The International Standards Organization (ISO) currently classifies labels into three types:<br>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type I (ISO 14024)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type I (ISO 14024)** %}
 
 These labels are voluntary, multiple-criteria based, third-party awarded, and they indicate the environmental preferability of a product based on life cycle considerations. These include labels such as the [Nordic Swan](https://www.nordic-ecolabel.org/), or the [German Blue Angel. It is worth noting that these ](https://www.blauer-engel.de/en)types of ecolabels usually include different application and license fees for MSMEs. Examples of this are the [Nordic Ecolabel](https://www.nordic-ecolabel.org/product-groups/group/?productGroupCode=104), which provides a reduction of 50% for micro enterprises and bases license fees on turnover; and the [EU-Ecolabel cost structure.](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel)<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type II (ISO 14021)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type II (ISO 14021)** %}
 
 These types of labels are self-declared environmental claims made internally by companies, and are not third-party certified. These can include logos or declarations, such as “100% recycled paper”. The ISO standard sets several requirements for these types of labels, including accuracy.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type III (ISO 14025)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type III (ISO 14025)** %}
 
 These are declarations that report on the life-cycle analysis results of a particular product, along with a summary of the methodology, assumptions and data sources. The results include quantified environmental data, such as Co2 emissions, and are verified by a third party. In this group we find, for example, Environmental Product Declarations (EPD), which are often used for construction materials. See, for example, [this EPD](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf) for a product made of steel. These declarations do not provide an assessment - that is a product is not certified, or non-certified like with Type I labels - instead, they provide objective data for the consumer to make the comparisons.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Type I-like</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Type I-like** %}
 
 These labels have the same characteristics as Type I ecolabels, but focus on a single issue. This includes for example labels such as the Energy Star label, which sets a maximum level of energy consumption for electric appliances, or the Forest Stewardship Council (FSC), which certifies sustainable forest management.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -90,46 +61,25 @@ Ecolabels can be applied at different stages, and in different ways, throughout 
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Use ecolabel standards as guidance to draft environmental requirements</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Use ecolabel standards as guidance to draft environmental requirements** %}
 
 Most Type I and Type-I like ecolabels openly publish the environmental standards that a product has to meet in order to be certified. You can use these standards as guidance to write the environmental requirements when procuring specific products. For example, if you are procuring new displays, you can use [the standards published by the ecolabel TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) to draft the product specifications, or award criteria. For more information on how to set sustainability criteria see [this section](/set-sustainability-criteria) of the toolkit.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Require compliance with existing ecolabels</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Require compliance with existing ecolabels** %}
 
 When using Type I and Type-I like ecolabels in the procurement process, you can select the standards that you consider the most relevant for the specific contract, or require compliance with all the standards set out by the ecolabel. This means that, for example, when procuring displays, you can indicate that products must comply with the standards set by the TCO ecolabel. When doing this, you must ensure that all the standards included by the ecolabel are relevant to the subject matter of the contract, and that you offer the option for suppliers to demonstrate compliance with the standards through means other than the ecolabel certificate.<br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Prioritize procurement categories based on ecolabel availability</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Prioritize procurement categories based on ecolabel availability** %}
 
 When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/prioritize-1) of the toolkit. 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -355,10 +305,10 @@ As explained in this section, Type I ecolabels are often the most commonly used 
 
 <div class="notion-text"></div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.0417 %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

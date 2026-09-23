@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "da6e7862daf74f5ab2c320d4ac476574"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # Engaging with the supplier market
 
@@ -19,10 +19,9 @@ Engaging with the supplier market is important for all procurement processes. Ho
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section, we provide </strong>information regarding the importance of engaging with the market, <strong>and guidance on the different ways market engagement can be carried out at the different stages of the Open SPP process.</strong></span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+**In this section, we provide** information regarding the importance of engaging with the market, **and guidance on the different ways market engagement can be carried out at the different stages of the Open SPP process.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -51,10 +50,9 @@ Market engagement practices in the context of Open SPP implementation are normal
   <div class="notion-text"></div>
 </ul>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is </strong><strong><a href="/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city" class="notion-link link">Mexico’s City Ecobici bike sharing system.</a></strong><strong> </strong>For more information on how open market engagement approaches can help drive SPP <strong>see </strong><strong><a href="https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy" class="notion-link link">this report</a></strong><strong> published by The Chicago Council on Global Affairs.</strong></span></div>
-</div>
+{% callout red /assets/images/Icons_Red6.png %}
+**A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is [Mexico’s City Ecobici bike sharing system.](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)** For more information on how open market engagement approaches can help drive SPP **see [this report](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) published by The Chicago Council on Global Affairs.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -64,71 +62,45 @@ Market engagement practices can vary depending on the different stages of the Op
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Engaging during the preparation for your SPP Action Plan</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Engaging during the preparation for your SPP Action Plan** %}
 
 Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize-1), and to design [standardized sustainability criteria.](/build-support-and-capabilities) The methods that can be used to engage with the market during this process can include:<br>
 
-- <strong>Workshops </strong>with suppliers to present sustainability goals, and gather needed data to assess market capability. 
+- **Workshops** with suppliers to present sustainability goals, and gather needed data to assess market capability. 
 - **Online consultations** to allow suppliers to provide feedback on strategic decisions regarding Open SPP, such as the prioritization of procurement categories. 
-- <strong>Industry events </strong>to gain a better understanding of the current sustainability offer in different sectors, and gather information regarding different supply options. 
-- <strong>Surveys and questionnaires </strong>distributed online, or in organized events and workshops, to assess market capability, or gather feedback on SPP approach.
-- <strong>Engaging with priority Open SPP groups, </strong>such as SMEs, women-owned, or minority-owned businesses, to understand the barriers that they might face when accessing public procurement opportunities. To understand these barriers, it can also be useful to engage with civil society and nonprofit organizations. Insights gathered can be used to design more accessible SPP approaches. 
-- <strong>Communicating your pipeline of projects </strong>will allow different suppliers to better understand your long-term needs, and potential sustainability requirements. This will allow them to better prepare to respond to contract opportunities as they emerge. Doing this can be particularly helpful to widen participation amongst SMEs, who tend to have fewer procurement resources.  
+- **Industry events** to gain a better understanding of the current sustainability offer in different sectors, and gather information regarding different supply options. 
+- **Surveys and questionnaires** distributed online, or in organized events and workshops, to assess market capability, or gather feedback on SPP approach.
+- **Engaging with priority Open SPP groups,** such as SMEs, women-owned, or minority-owned businesses, to understand the barriers that they might face when accessing public procurement opportunities. To understand these barriers, it can also be useful to engage with civil society and nonprofit organizations. Insights gathered can be used to design more accessible SPP approaches. 
+- **Communicating your pipeline of projects** will allow different suppliers to better understand your long-term needs, and potential sustainability requirements. This will allow them to better prepare to respond to contract opportunities as they emerge. Doing this can be particularly helpful to widen participation amongst SMEs, who tend to have fewer procurement resources.  
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Engaging with the supplier market</strong> when designing your first SPP Action Plan is <strong>essential to share and communicate a major strategy change, take suppliers on the journey with you, and understand what is feasible.</strong></span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+**Engaging with the supplier market** when designing your first SPP Action Plan is **essential to share and communicate a major strategy change, take suppliers on the journey with you, and understand what is feasible.**
+{% endcallout %}
 
 <br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Engaging during procurement planning phase</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Engaging during procurement planning phase** %}
 
 Market engagement activities carried out during the planning phase of a procurement process will be based on the [needs that have been identified](/assess-needs), and will guide decisions regarding the design and criteria introduced in the procurement process. Market engagement activities during this stage can be applied for:<br>
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Conducting market research </strong>to assess the availability of existing solutions to solve the needs that have been identified in the most sustainable way. </li>
-  <li class="notion-list-item notion-semantic-string"><strong>Assessing service model delivery options.</strong></li>
-  <li class="notion-list-item notion-semantic-string"><strong>Beginning to engage around selection criteria, </strong>gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers. 
-</li>
-</ul>
+- **Conducting market research** to assess the availability of existing solutions to solve the needs that have been identified in the most sustainable way. 
+- **Assessing service model delivery options.**
+- **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers.<br>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">One way in which you can engage with the market during the planning phase is by <strong>organizing events with suppliers to present their sustainability objectives.</strong> These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to <strong>discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.</strong> 
-
-Note that sustainability work in the private sector is often divided in these three ESG areas, instead of the <a href="/what-is-open-spp" class="notion-link link">three pillars of sustainable development</a> (economic, social, and environmental).</span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+One way in which you can engage with the market during the planning phase is by **organizing events with suppliers to present their sustainability objectives.** These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to **discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.**
+<br>Note that sustainability work in the private sector is often divided in these three ESG areas, instead of the [three pillars of sustainable development](/what-is-open-spp) (economic, social, and environmental).
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Engaging during procurement</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Engaging during procurement** %}
 
 Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:
 
@@ -148,40 +120,41 @@ Once it has been decided to issue a tender, there are different methods that can
   <p class="notion-text notion-text__content notion-semantic-string">It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.</p>
 </ul>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources
-</strong></span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. </a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy" class="notion-link link" target="_blank" rel="noopener noreferrer">Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.</a></li>
-    </ul>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+<strong>Resources
+</strong>
+
+- [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
+- [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Case Study</strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">After ten years of operation, <strong>Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.</strong> The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Mexico City used open contracting to design a transparent procurement process to procure a modern, expanded, and user-friendly bike share network. The city published a Request for Information (RFI) for the first time, seeking resident input on the bike share design, held multiple conversations with vendors, and published their findings on a user-friendly website. <strong>This approach enabled the team and the vendor community to make data-driven decisions, promote trust, and deliver on their goal.</strong></p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">The city’s new contract expands the service from 6,500 to 9,300 bikes and from 480 to 687 bike stations, and upgrades the city’s bike share technology and design to be more user-friendly, all at approximately half the operating costs of the old service. Other departments have begun replicating Ecobici’s open contracting strategies for important strategic public projects, and the city also enhanced its electronic procurement system to help others use <strong>Ecobici’s approach for engaging vendors, citizens and civil society organizations early in high-priority procurement processes. Read more about this case study </strong><a href="https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/" class="notion-link link"><strong>here</strong></a><strong>.</strong></p>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Case Study**
 
-</div>
-</div>
+<div class="notion-text"></div>
+
+After ten years of operation, **Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.** The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.
+
+<div class="notion-text"></div>
+
+Mexico City used open contracting to design a transparent procurement process to procure a modern, expanded, and user-friendly bike share network. The city published a Request for Information (RFI) for the first time, seeking resident input on the bike share design, held multiple conversations with vendors, and published their findings on a user-friendly website. **This approach enabled the team and the vendor community to make data-driven decisions, promote trust, and deliver on their goal.**
+
+<div class="notion-text"></div>
+
+The city’s new contract expands the service from 6,500 to 9,300 bikes and from 480 to 687 bike stations, and upgrades the city’s bike share technology and design to be more user-friendly, all at approximately half the operating costs of the old service. Other departments have begun replicating Ecobici’s open contracting strategies for important strategic public projects, and the city also enhanced its electronic procurement system to help others use **Ecobici’s approach for engaging vendors, citizens and civil society organizations early in high-priority procurement processes. Read more about this case study** [**here**](https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/)**.**
+
+<div class="notion-text"></div>
+{% endcallout %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

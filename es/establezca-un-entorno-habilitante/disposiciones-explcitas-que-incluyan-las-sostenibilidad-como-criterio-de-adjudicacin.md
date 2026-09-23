@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green3.png"
 full_width: true
 notion_id: "f23cf0e9aab3424dae84a18f6de99bb7"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 ## What are they?
 
@@ -25,23 +25,24 @@ Specific policy and regulation can be created to advance certain sustainability 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Case Study
+{% callout gray /assets/images/Notion-others2.png %}
+<strong>Case Study
+<br></strong>In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women. This study showed that only 36% of public contracts were awarded to women, and that these represented 26% of total value. 
 
-</strong>In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women. This study showed that only 36% of public contracts were awarded to women, and that these represented 26% of total value. </span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Based on this study they established a series of measures to promote gender equality through public procurement. This included <a href="https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf" class="notion-link link">provisions for including </a>award criteria to assess suppliers in terms of gender inclusion. </p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">As an example, they propose giving this factor a weighing of 15% in the evaluation, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.</p>
-  </div>
-</div>
+<div class="notion-text"></div>
+
+Based on this study they established a series of measures to promote gender equality through public procurement. This included [provisions for including ](https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf)award criteria to assess suppliers in terms of gender inclusion. 
+
+<div class="notion-text"></div>
+
+As an example, they propose giving this factor a weighing of 15% in the evaluation, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

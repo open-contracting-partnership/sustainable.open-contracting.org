@@ -8,13 +8,13 @@ icon: "/assets/images/Open_SPP_home_1.png"
 full_width: true
 notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
 <div class="notion-text"></div>
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Este conjunto de herramientas le ayudará a repensar la contratación pública sostenible mediante el impulso de una mejor adopción y medición a través de un enfoque abierto, inclusivo y basado en datos.**
 
@@ -22,21 +22,17 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 
 <br>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Este conjunto de herramientas de Contratación Pública Abierta y Sostenible ha sido co-diseñada por </em><a href="https://www.open-contracting.org/" class="notion-link link"><em>Open Contracting Partnership (OCP)</em></a><em>, una entidad sin ánimo de lucro que trabaja en más de 50 países para abrir y transformar todo el proceso de contratación pública haciéndolo más fácil de usar, inclusivo y basado en datos; </em><a href="https://spendnetwork.com/" class="notion-link link"><em>Spend Network</em></a><em>, líder mundial en análisis de datos de adquisiciones y contrataciones abiertas; y </em><a href="http://public.io" class="notion-link link"><em>PUBLIC</em></a><em>,</em><strong> </strong><em>una empresa de tecnología líder enfocada en el gobierno. El desarrollo de la caja de herramientas cuenta con el apoyo de la Cooperación Alemana para el Desarrollo implementada por </em><a href="https://www.giz.de/en/html/about_giz.html" class="notion-link link"><em>Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH</em></a><em>. Esta traducción ha sido posible gracias al apoyo del Banco Interamericano de Desarrollo (BID). 
-</em></span>
-    <p class="notion-text notion-text__content notion-semantic-string"><em>A lo largo del conjunto de herramientas brindamos orientación sobre cómo aplicar enfoques de datos abiertos y gobierno abierto para respaldar la implementación exitosa de las contrataciones abiertas en las contrataciones públicas sostenibles e impulsar el impacto.</em></p>
-  </div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible ha sido co-diseñada por* [*Open Contracting Partnership (OCP)*](https://www.open-contracting.org/)*, una entidad sin ánimo de lucro que trabaja en más de 50 países para abrir y transformar todo el proceso de contratación pública haciéndolo más fácil de usar, inclusivo y basado en datos;* [*Spend Network*](https://spendnetwork.com/)*, líder mundial en análisis de datos de adquisiciones y contrataciones abiertas; y* [*PUBLIC*](http://public.io)*,*<strong> </strong>*una empresa de tecnología líder enfocada en el gobierno. El desarrollo de la caja de herramientas cuenta con el apoyo de la Cooperación Alemana para el Desarrollo implementada por* [*Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH*](https://www.giz.de/en/html/about_giz.html)<em>. Esta traducción ha sido posible gracias al apoyo del Banco Interamericano de Desarrollo (BID).
+</em>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés. </em>
+*A lo largo del conjunto de herramientas brindamos orientación sobre cómo aplicar enfoques de datos abiertos y gobierno abierto para respaldar la implementación exitosa de las contrataciones abiertas en las contrataciones públicas sostenibles e impulsar el impacto.*
+{% endcallout %}
 
-<a href="https://sustainable.open-contracting.org/" class="notion-link link">Access the toolkit in English</a><strong>
-</strong><a href="https://achatdurable.open-contracting.org/" class="notion-link link">Accéder au guide en français</a></span></div>
-</div>
+{% callout yellow /assets/images/Icons_Grey3.png %}
+*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés.* 
+<br>[Access the toolkit in English](https://sustainable.open-contracting.org/)<strong><br></strong>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -91,5 +87,5 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

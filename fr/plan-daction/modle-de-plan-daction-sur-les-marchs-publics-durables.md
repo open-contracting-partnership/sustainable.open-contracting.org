@@ -7,14 +7,13 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong><em>Vous pouvez vous inspirer de ce modèle pour élaborer la table des matières de votre plan d’action sur les marchés publics durables.</em></strong><em> Lorsque cela était possible, nous avons indiqué les aspects des marchés publics durables et ouverts abordés plus en détail dans </em><a href="/34173153ffb6463cab3e5609b0ab9603" class="notion-link link"><em><strong>cette section</strong></em></a><em><strong>.</strong></em></span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+***Vous pouvez vous inspirer de ce modèle pour élaborer la table des matières de votre plan d’action sur les marchés publics durables.*** *Lorsque cela était possible, nous avons indiqué les aspects des marchés publics durables et ouverts abordés plus en détail dans* [***cette section***](/34173153ffb6463cab3e5609b0ab9603)***.***
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<strong>Ce modèle est inspiré du document suivant : </strong>Programme des Nations Unies pour l’environnement, [*Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), 2021 (page 94).
+**Ce modèle est inspiré du document suivant :** Programme des Nations Unies pour l’environnement, [*Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), 2021 (page 94).
 
 <div class="notion-divider"></div>
 
@@ -94,17 +93,18 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Télécharger ce schema :</strong></span>
-    <div class="notion-text"></div>
-    <div class="notion-pdf">
-      <div class="notion-pdf__content">
-        <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/a38a3bd4-6a08-433b-b620-8965c5342316.pdf"></iframe>
-      </div>
-    </div>
-    <div class="notion-text"></div>
+{% callout green /assets/images/icons_D_Green6.png %}
+**Télécharger ce schema :**
+
+<div class="notion-text"></div>
+
+<div class="notion-pdf">
+  <div class="notion-pdf__content">
+    <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/a38a3bd4-6a08-433b-b620-8965c5342316.pdf"></iframe>
   </div>
 </div>
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>

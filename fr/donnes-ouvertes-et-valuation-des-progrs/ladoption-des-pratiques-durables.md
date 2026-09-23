@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "9ca2f598a28e421286f267318c9532fa"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 ## What do we mean by no code, low code and code?
 
@@ -43,5 +43,5 @@ Most public sector organisations will probably sit in the low code category, but
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

@@ -7,11 +7,11 @@ icon: "/assets/images/Notion-Imp_3.png"
 full_width: true
 notion_id: "35dc615b39b84af793a9430029ef8567"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Données ouvertes et évaluation des progrès**
 
@@ -19,10 +19,9 @@ Tout au long de ce guide pratique, nous avons parlé de l’importance des donn�
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Dans cette partie, nous approfondissons les possibilités de collecte des données nécessaires pour évaluer les progrès par rapport à vos objectifs. </strong>Nous présenterons d’abord des considérations générales sur la collecte de données et des possibilités d’utilisation de ces données en vue de l’évaluation des progrès concernant différents objectifs. Ensuite, nous transformerons les cinq objectifs du cadre de suivi et d’évaluation en exemples pratiques afin de vous montrer comment utiliser les données ouvertes pour évaluer les progrès concernant : (1) l’adoption de pratiques durables de passation de marchés, (2) la réduction des émissions de carbone, (3) l’inclusion des genres, (4) le développement économique, et (5) la prise en compte du coût du cycle de vie.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+**Dans cette partie, nous approfondissons les possibilités de collecte des données nécessaires pour évaluer les progrès par rapport à vos objectifs.** Nous présenterons d’abord des considérations générales sur la collecte de données et des possibilités d’utilisation de ces données en vue de l’évaluation des progrès concernant différents objectifs. Ensuite, nous transformerons les cinq objectifs du cadre de suivi et d’évaluation en exemples pratiques afin de vous montrer comment utiliser les données ouvertes pour évaluer les progrès concernant : (1) l’adoption de pratiques durables de passation de marchés, (2) la réduction des émissions de carbone, (3) l’inclusion des genres, (4) le développement économique, et (5) la prise en compte du coût du cycle de vie.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -38,13 +37,7 @@ Plusieurs facteurs influenceront et détermineront votre approche de collecte de
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 1 : analyser le fonctionnement et la structure de gouvernance de la passation de marchés de votre entité</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Étape 1 : analyser le fonctionnement et la structure de gouvernance de la passation de marchés de votre entité** %}
 
 Le fonctionnement des processus de passation de marchés, qu’il soit centralisé, décentralisé ou divisé par catégories de marchés, guidera les décisions concernant les responsabilités des différentes parties impliquées dans le processus de collecte et d’analyse des données pertinentes. Par exemple, lorsque des structures de passation des marchés publics sont très décentralisées, il peut être nécessaire de désigner une entité supérieure responsable de superviser la collecte de données dans certaines régions ou zones.
 
@@ -52,47 +45,26 @@ Convenir des modalités de collaboration des nombreuses parties prenantes dans l
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 2 : évaluer vos plateformes de passation de marchés</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Étape 2 : évaluer vos plateformes de passation de marchés** %}
 
 Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre des marchés publics. Il est nécessaire de mettre en place un système permettant de collecter les données de différents plateformes ou canaux afin de recueillir toutes les données pertinentes. Par exemple, la Corée collecte des données de trois plateformes différentes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données requises issues de processus d’achat décentralisés (pour en savoir plus, consultez les pages 60 à 63 de [ce rapport du Programme des Nations Unies pour l’environnement](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Il est essentiel de comprendre d’où viennent les données que vous collectez pour concevoir un système de publication des informations.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics** %}
 
 L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
 , qui doit déterminer le moment du début de la collecte de données. Du point de vue opérationnel, il est également important d’établir avec les pouvoirs publics la fréquence de collecte et de publication de données concernant leurs marchés, par exemple sur une base mensuelle, trimestrielle ou annuelle.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 4 : évaluer vos capacités</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Étape 4 : évaluer vos capacités** %}
 
 Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables. 
 
@@ -107,8 +79,7 @@ Il existe plusieurs méthodes de collecte et d’analyse de données variant en 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -155,5 +126,5 @@ Il existe plusieurs méthodes de collecte et d’analyse de données variant en 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

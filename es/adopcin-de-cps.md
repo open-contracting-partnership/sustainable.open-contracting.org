@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "639b93b8abde4b02b97b87d03f26947b"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Ejemplo resuelto: Medición de adopción de CPS
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección, explicamos cómo usted puede usar los datos para medir y monitorear el progreso con respecto al objetivo de promover la adopción de CPS.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+En esta sección, explicamos cómo usted puede usar los datos para medir y monitorear el progreso con respecto al objetivo de promover la adopción de CPS.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -40,20 +39,17 @@ Los departamentos gubernamentales de todo el mundo están iniciando políticas y
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Permite a los gobiernos demostrar que las nuevas políticas tienen un efecto significativo en las compras.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Permite a los gobiernos demostrar que las nuevas políticas tienen un efecto significativo en las compras.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Muestra claramente a los proveedores que la compra sostenible es un compromiso a largo plazo que deben reconocer (y comparar su propio desempeño).</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Muestra claramente a los proveedores que la compra sostenible es un compromiso a largo plazo que deben reconocer (y comparar su propio desempeño).
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Vincula la política con la contratación a través de un ciclo de retroalimentación que permite medir los objetivos de la política.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Vincula la política con la contratación a través de un ciclo de retroalimentación que permite medir los objetivos de la política.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -304,5 +300,5 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
 
 <br>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

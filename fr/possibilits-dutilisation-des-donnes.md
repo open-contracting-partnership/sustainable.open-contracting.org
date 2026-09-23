@@ -7,12 +7,12 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "149ab2d38e6b430eada9e1cb977fb06a"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Possibilités d’utilisation des données** existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. 
 
@@ -491,7 +491,7 @@ Collaborer avec certains secteurs sur les moins bons résultats concernant les i
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

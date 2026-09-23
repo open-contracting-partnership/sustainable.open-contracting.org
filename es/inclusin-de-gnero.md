@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "41b3faf621a347b38e3cd21970bcc188"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Ejemplo resuelto: Medir la inclusión de género**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección le explicamos cómo puede usar los datos para medir la participación de empresas dirigidas por mujeres en la contratación pública.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+En esta sección le explicamos cómo puede usar los datos para medir la participación de empresas dirigidas por mujeres en la contratación pública.
+{% endcallout %}
 
 ## **¿Qué es?**
 
@@ -32,14 +31,13 @@ Para reducir las barreras a las que se enfrentan las empresas dirigidas por muje
 
 Los gobiernos gastan la asombrosa cantidad de US$ 13 billones por año en contratación pública. Desafortunadamente, las pequeñas empresas y las empresas dirigidas por mujeres están muy poco representadas en este mercado. Por ejemplo, las empresas dirigidas por mujeres obtienen solo el 5 % de los contratos federales en EE. UU. y el 17 % en Ucrania. Cuando se aplica una lente interseccional, factores como la raza, la discapacidad y la geografía limitan aún más el acceso a la contratación pública por parte de las empresas dirigidas por mujeres.
 
-A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres luchan por prosperar en los mercados de contratación pública. Trabajamos con <em>Value for Women </em>para investigar las barreras que enfrentan las empresas dirigidas por mujeres en la contratación pública y las prácticas emergentes para la equidad y la inclusión de socios que implementan reformas de contratación abierta en América Latina, con ejemplos de Chile, República Dominicana y Buenos Aires, Argentina.
+A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres luchan por prosperar en los mercados de contratación pública. Trabajamos con *Value for Women* para investigar las barreras que enfrentan las empresas dirigidas por mujeres en la contratación pública y las prácticas emergentes para la equidad y la inclusión de socios que implementan reformas de contratación abierta en América Latina, con ejemplos de Chile, República Dominicana y Buenos Aires, Argentina.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Usted podrá leer el informe completo, una versión de información o un blog de resumen<strong>. </strong>Luego trabajamos con ONU Mujeres para elaborar una nota de política que incluye más ejemplos y recomendaciones de todo el mundo.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+Usted podrá leer el informe completo, una versión de información o un blog de resumen**.** Luego trabajamos con ONU Mujeres para elaborar una nota de política que incluye más ejemplos y recomendaciones de todo el mundo.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -475,7 +473,7 @@ A través de los conocimientos obtenidos de los datos, los compradores pueden us
 
 Puede leer más sobre medidas políticas para mejorar la inclusión de género y estudios de casos de todo el mundo en esta nota de política de ONU Mujeres y OCP.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

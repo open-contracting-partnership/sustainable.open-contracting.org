@@ -7,10 +7,9 @@ notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section <a href="/establezca-un-entorno-habilitante" class="notion-link link">Establish an enabling environment</a> in the <a href="/" class="notion-link link">Open SPP toolkit. </a></span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit. ](/)
+{% endcallout %}
 
 <h3 class="notion-heading notion-semantic-string">
 <strong>Compliance Trail Checklist</strong></h3>
@@ -118,22 +117,22 @@ notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Warn_green_2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Remember that, although you will find most of these regulations at the national level, <strong>it is important to consider any variations at the local leve</strong>l, and any international frameworks that might have served as guidance.</span></div>
-</div>
+{% callout green /assets/images/Warn_green_2.png %}
+Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local leve**l, and any international frameworks that might have served as guidance.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Download this checklist:</strong></span>
-    <div class="notion-text"></div>
-    <div class="notion-pdf">
-      <div class="notion-pdf__content">
-        <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/10dff7fa-0acc-4162-80ee-37e9ea6b4518.pdf"></iframe>
-      </div>
-    </div>
-    <div class="notion-text"></div>
+{% callout green /assets/images/icons_D_Green6.png %}
+**Download this checklist:**
+
+<div class="notion-text"></div>
+
+<div class="notion-pdf">
+  <div class="notion-pdf__content">
+    <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/10dff7fa-0acc-4162-80ee-37e9ea6b4518.pdf"></iframe>
   </div>
 </div>
+
+<div class="notion-text"></div>
+{% endcallout %}

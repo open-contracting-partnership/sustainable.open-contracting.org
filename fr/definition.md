@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "44ff818246af419b977484dca4f33a4e"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000017)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999998);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Que désignent les marchés publics durables et ouverts ?**
 
@@ -25,27 +25,26 @@ Les marchés publics durables renvoient à la façon dont les organisations acqu
 
 <div class="notion-text"></div>
 
-<strong>Les marchés publics durables et </strong>*<strong>ouverts </strong>*ajoutent une approche axée sur des gouvernements ouverts et des données ouvertes visant à renforcer l’adoption de pratiques durables de passation de marchés et d’améliorer leurs effets. L’approche axée sur des <strong>gouvernements ouverts </strong>vise à inclure les parties prenantes dans la planification et l’amélioration des marchés publics, tandis que le recours aux <strong>données ouvertes </strong>vise à divulguer, communiquer et analyser l’objet de l’acquisition, les bénéficiaires cibles et les résultats et effets des marchés publics durables. Chacune de ces approches est clairement apparue comme un sujet sur lequel les parties prenantes gouvernementales souhaitaient obtenir de l’aide.
+**Les marchés publics durables et** ***ouverts*** ajoutent une approche axée sur des gouvernements ouverts et des données ouvertes visant à renforcer l’adoption de pratiques durables de passation de marchés et d’améliorer leurs effets. L’approche axée sur des **gouvernements ouverts** vise à inclure les parties prenantes dans la planification et l’amélioration des marchés publics, tandis que le recours aux **données ouvertes** vise à divulguer, communiquer et analyser l’objet de l’acquisition, les bénéficiaires cibles et les résultats et effets des marchés publics durables. Chacune de ces approches est clairement apparue comme un sujet sur lequel les parties prenantes gouvernementales souhaitaient obtenir de l’aide.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Pour approfondir l’analyse des marchés publics durables et de la commande publique ouverte (concernant des gouvernements ouverts et des données ouvertes), nous vous invitons à consulter les ressources suivantes :</span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">La définition la plus courante des <strong>marchés publics durables </strong>est donnée par le <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Programme des Nations Unies pour l’environnement (PNUE), </a>qui parle d’un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement »</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.open-contracting.org/implement/" class="notion-link link" target="_blank" rel="noopener noreferrer">Cliquez ici</a> pour découvrir l’approche Open Contracting Partnership de la <strong>commande publique ouverte</strong> et <a href="https://www.open-contracting.org/impact/" class="notion-link link" target="_blank" rel="noopener noreferrer">cliquez sur ce lien</a> pour savoir comment elle peut contribuer à mettre en place des réformes efficaces et à grande échelle.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+Pour approfondir l’analyse des marchés publics durables et de la commande publique ouverte (concernant des gouvernements ouverts et des données ouvertes), nous vous invitons à consulter les ressources suivantes :
+
+<div class="notion-text"></div>
+
+- La définition la plus courante des **marchés publics durables** est donnée par le [Programme des Nations Unies pour l’environnement (PNUE), ](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf)qui parle d’un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement »
+- [Cliquez ici](https://www.open-contracting.org/implement/) pour découvrir l’approche Open Contracting Partnership de la **commande publique ouverte** et [cliquez sur ce lien](https://www.open-contracting.org/impact/) pour savoir comment elle peut contribuer à mettre en place des réformes efficaces et à grande échelle.
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 # **Comment l’ouverture favorise-t-elle les marchés publics durables ?**
 
-Dans leur version la plus élémentaire, on peut difficilement affirmer que les marchés publics favorisent le développement durable s’ils <em>ne sont pas </em>ouverts et transparents. Toutefois, depuis une perspective plus stratégique, nos gouvernements vont devoir changer fondamentalement leurs pratiques s’ils souhaitent s’attaquer aux nombreux défis environnementaux, ils devront donc faire participer de nouvelles parties prenantes et mettre l’accent sur l’innovation. Nous apprenons encore dans ce domaine, nous aurons donc aussi besoin de données de meilleure qualité concernant les acheteurs, les vendeurs, la période d’achat, les montants et les effets sur l’environnement et le développement durable qui y sont associés. Il faudra pour cela collecter de nouvelles formes de données et des analyses.
+Dans leur version la plus élémentaire, on peut difficilement affirmer que les marchés publics favorisent le développement durable s’ils *ne sont pas* ouverts et transparents. Toutefois, depuis une perspective plus stratégique, nos gouvernements vont devoir changer fondamentalement leurs pratiques s’ils souhaitent s’attaquer aux nombreux défis environnementaux, ils devront donc faire participer de nouvelles parties prenantes et mettre l’accent sur l’innovation. Nous apprenons encore dans ce domaine, nous aurons donc aussi besoin de données de meilleure qualité concernant les acheteurs, les vendeurs, la période d’achat, les montants et les effets sur l’environnement et le développement durable qui y sont associés. Il faudra pour cela collecter de nouvelles formes de données et des analyses.
 
 <div class="notion-text"></div>
 
@@ -61,64 +60,57 @@ Tout au long de ce guide, nous parlerons de ces différentes modalités d’ouve
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Divulguer vos politiques et votre approche des marchés publics durables.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP.png %}
+**Divulguer vos politiques et votre approche des marchés publics durables.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement vos politiques et votre approche en faveur de la durabilité et de montrer qu’elles sont alignées sur l’ensemble des cadres juridiques et politiques internationaux, nationaux ou locaux qui régissent vos règles de passation de marchés.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Justifier vos choix de catégories de marchés prioritaires.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP2.png %}
+**Justifier vos choix de catégories de marchés prioritaires.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer le processus qui vous a conduit à définir certaines catégories de marchés ou projets comme prioritaires afin de cibler votre travail sur les marchés publics durables.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Utiliser des critères de durabilité et justifier leur utilisation de façon claire.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP3.png %}
+**Utiliser des critères de durabilité et justifier leur utilisation de façon claire.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement les critères de durabilité qui seront utilisés pour évaluer les soumissionnaires, les modalités d’évaluation sur la base de ces critères et la justification du choix des critères.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP4.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Gérer des registres de fournisseurs, des bases de données de marchés et des mécanismes d’élaboration de rapports efficaces.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP4.png %}
+**Gérer des registres de fournisseurs, des bases de données de marchés et des mécanismes d’élaboration de rapports efficaces.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent de créer des registres de fournisseurs, des bases de données concernant les marchés et des mécanismes d’élaboration de rapports efficaces permettant de suivre la réalisation des objectifs des marchés publics durables et de favoriser un suivi et une évaluation proactifs des acquisitions.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Mettre en place des canaux de communication clairs pour sonder l’opinion des bénéficiaires et de la population.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP5.png %}
+**Mettre en place des canaux de communication clairs pour sonder l’opinion des bénéficiaires et de la population.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts se caractérisent par l’établissement de canaux de communication clairs qui permettent de faire participer les fournisseurs, les organisations de la société civile et les citoyens et citoyennes dans le but de recueillir leurs opinions. Cela est particulièrement important pour la planification des achats, en particulier s’ils concernent des technologies innovantes ou auront des effets sur certaines communautés, ainsi que pour le suivi de l’exécution des marchés publics afin de vérifier qu’ils ont produit les résultats escomptés en matière environnementale et sociale.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Publier des rapports sur les effets de chaque marché.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP6.png %}
+**Publier des rapports sur les effets de chaque marché.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent d’évaluer et de divulguer de façon claire les effets des pratiques durables de passation de marchés à l’aide d’indicateurs appropriés pour chaque marché.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP7.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Exploiter les données issues de rapports pour améliorer et déployer à grande échelle les marchés publics durables.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP7.png %}
+**Exploiter les données issues de rapports pour améliorer et déployer à grande échelle les marchés publics durables.**
+{% endcallout %}
 
 Les marchés publics durables et ouverts supposent de mettre au point, tester et reproduire à grande échelle les pratiques durables de passation de marchés à partir des données provenant des rapports et des avis recueillis. Il s’agit donc d’exploiter les données concernant les résultats des approches des marchés publics durables pour évaluer et reproduire à grande échelle les pratiques fructueuses.
 
@@ -134,12 +126,10 @@ Nous avons déjà compilé des orientations montrant comment les données ouvert
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Des « signaux écologiques » dans les données relatives aux marchés publics
-
-</strong><a href="https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/" class="notion-link link">« Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ? »</a>: ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.</span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+<strong>Des « signaux écologiques » dans les données relatives aux marchés publics
+<br></strong>[« Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ? »](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/): ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -173,7 +163,7 @@ Avant d’entamer la démarche de mise en place de marchés publics durables, as
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

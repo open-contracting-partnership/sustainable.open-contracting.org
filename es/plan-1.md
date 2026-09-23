@@ -7,18 +7,17 @@ icon: "/assets/images/Notion-How_to.png"
 full_width: true
 notion_id: "a2895d9856264842a71877737c547f3c"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000017)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección <strong>le proporcionamos toda la información necesaria para empezar</strong>. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación.</span>
-    <p class="notion-text notion-text__content notion-semantic-string">Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos.</p>
-  </div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+En esta sección **le proporcionamos toda la información necesaria para empezar**. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación.
+
+Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -71,5 +70,5 @@ notion_id: "a2895d9856264842a71877737c547f3c"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

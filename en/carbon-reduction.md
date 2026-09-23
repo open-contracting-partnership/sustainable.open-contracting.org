@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Worked example: Measuring carbon reduction
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section we explain how you can use data to measure and monitor progress against the goal of promoting carbon reduction through procurement.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+In this section we explain how you can use data to measure and monitor progress against the goal of promoting carbon reduction through procurement.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -46,20 +45,18 @@ Publishing good data on carbon emissions has multiple positive effects for those
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Use the data to plan and implement immediate, direct action to reduce carbon emissions from procurement.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Use the data to plan and implement immediate, direct action to reduce carbon emissions from procurement.
+{% endcallout %}
 
 <div class="notion-callout bg-yellow-light border">
   <div class="notion-callout__icon"><img src="https://app.notion.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbe592384-8d76-44a0-8696-1bdc7be9cb38%2FIcons_Light_Green5.png?id=0f6005a1-f136-429b-8851-4385e8b64fb3&amp;table=block" alt="icon" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" loading="lazy"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"></span></div>
 </div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Publication and analysis of good data will unlock learning and iteration on what policies and processes work to reduce carbon intensity. You can’t manage what you can’t measure.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Publication and analysis of good data will unlock learning and iteration on what policies and processes work to reduce carbon intensity. You can’t manage what you can’t measure.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -486,5 +483,5 @@ Some of these are more complicated than others. Even if you don’t have a relia
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

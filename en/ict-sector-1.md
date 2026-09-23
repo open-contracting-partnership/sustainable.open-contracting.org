@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Grey5.png"
 full_width: true
 notion_id: "2462de71d6934cb485309c397db0d90b"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% columns %}
+{% column 0.3125 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.6875 %}
 
 # **What is SPP important in the Information and Communications Technology (ICT) sector?**
 
@@ -23,10 +23,9 @@ The environmental impacts associated with the ICT sector also have a strong impa
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">This section focuses on the purchase of hardware equipment, which mainly includes <strong>displays, notebooks, desktops, all-in-one PCs, projectors, headsets, network equipment, data storage devices, servers, printers, and scanners.</strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey8.png %}
+This section focuses on the purchase of hardware equipment, which mainly includes **displays, notebooks, desktops, all-in-one PCs, projectors, headsets, network equipment, data storage devices, servers, printers, and scanners.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -64,7 +63,7 @@ The environmental impacts associated with the ICT sector also have a strong impa
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

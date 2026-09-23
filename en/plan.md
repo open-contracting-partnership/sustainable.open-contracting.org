@@ -7,18 +7,16 @@ icon: "/assets/images/Notion-How_to.png"
 full_width: true
 notion_id: "c4a7ba01568045ab92402b9b0b5d6dfa"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000017)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section, <strong>we provide you with all the information you need to get started</strong>. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy. 
-
-As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started. </span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+In this section, **we provide you with all the information you need to get started**. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy.
+<br>As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -79,5 +77,5 @@ As you can see on the diagram below, we have created five subsections to meet th
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

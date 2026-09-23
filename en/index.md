@@ -8,13 +8,13 @@ icon: "/assets/images/Open_SPP_home_1.png"
 full_width: true
 notion_id: "a91bdf7457324b2e815ef25eea1a3458"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
 <div class="notion-text"></div>
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **This toolkit will help you to rethink sustainable public procurement driving better adoption and measurement through an open, data-driven and inclusive approach.** 
 
@@ -22,22 +22,19 @@ notion_id: "a91bdf7457324b2e815ef25eea1a3458"
 
 <br>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">This Open and Sustainable Public Procurement toolkit has been co-designed by the<a href="https://www.open-contracting.org/" class="notion-link link"> Open Contracting Partnership (OCP)</a>, an independent non-profit working in over 50 countries to open up and transform the whole process of public procurement by making it more user-friendly, data-driven and inclusive;<a href="https://spendnetwork.com/" class="notion-link link"> Spend Network</a>, a global leader in open contracting and procurement data analysis; and <a href="https://www.public.io/" class="notion-link link">PUBLIC</a>, a leading government-focused technology company. The toolkit development is supported by the German Development Cooperation implemented by <a href="https://www.giz.de/en/html/about_giz.html" class="notion-link link">Deutsche Gesellschaft für Internationale Zusammenarbeit</a> (GIZ) GmbH.</span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Throughout the toolkit, we provide guidance on how to apply open data and open government approaches to underpin successful sustainable public procurement SPP implementation and drive impact. </p>
-  </div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+This Open and Sustainable Public Procurement toolkit has been co-designed by the[ Open Contracting Partnership (OCP)](https://www.open-contracting.org/), an independent non-profit working in over 50 countries to open up and transform the whole process of public procurement by making it more user-friendly, data-driven and inclusive;[ Spend Network](https://spendnetwork.com/), a global leader in open contracting and procurement data analysis; and [PUBLIC](https://www.public.io/), a leading government-focused technology company. The toolkit development is supported by the German Development Cooperation implemented by [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/about_giz.html) (GIZ) GmbH.
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">This Open and Sustainable Public Procurement toolkit is also available in French and Spanish. 
+<div class="notion-text"></div>
 
-<a href="https://sostenibilidad.open-contracting.org/" class="notion-link link">Accede a la herramienta en español</a><strong>
-</strong><a href="https://achatdurable.open-contracting.org/" class="notion-link link">Accéder au guide en français</a>
-<a href="http://www.open-contracting.org/openspp-por" class="notion-link link">Acesse este kit de ferramentas em português </a>(PDF)</span></div>
-</div>
+Throughout the toolkit, we provide guidance on how to apply open data and open government approaches to underpin successful sustainable public procurement SPP implementation and drive impact. 
+{% endcallout %}
+
+{% callout yellow /assets/images/Icons_Grey3.png %}
+This Open and Sustainable Public Procurement toolkit is also available in French and Spanish.
+<br>[Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/)<strong><br></strong>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
+[Acesse este kit de ferramentas em português ](http://www.open-contracting.org/openspp-por)(PDF)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -90,5 +87,5 @@ notion_id: "a91bdf7457324b2e815ef25eea1a3458"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

@@ -22,11 +22,11 @@ notion_id: "6f410f5ac69c4a7eb6d5e6645e37c8ee"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 <div class="notion-text"></div>
 
@@ -36,5 +36,5 @@ notion_id: "6f410f5ac69c4a7eb6d5e6645e37c8ee"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

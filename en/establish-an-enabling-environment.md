@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)">
+{% endcolumn %}
+{% column 0.75 html %}
 <h1 class="notion-heading notion-semantic-string">Establishing an enabling environment</h1>
 <p class="notion-text notion-text__content notion-semantic-string">Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country.</p>
 <div class="notion-text"></div>
@@ -37,56 +37,44 @@ For a more detailed account of the process, and concepts, introduced on the chec
 <p class="notion-text notion-text__content notion-semantic-string">As this can be a key barrier, start by checking what your enabling environment establishes or requires regarding evaluation or award criteria, which are normally established at the national level, or by an international institution if a project is being funded by, for example, international development assistance. Depending on what the provisions regarding the use of award criteria are, we provide guidance on how you can implement SPP.</p>
 <div class="notion-text"></div>
 <div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>How to implement SPP when you can only consider price as evaluation criteria.</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
-
-Many procurement regimes only allow you to award the contract to the lowest-price bid. There are different ways around this, including the following:
-
-<div class="notion-text"></div>
-
-- <strong>Establish sustainability criteria as essential requirements for suppliers. </strong>
-
-Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.
-
-<div class="notion-text"></div>
-
-To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/implement/set-sustainable-criteria), and [Engage with the supplier market](/engage-with-the-market).
-
-<div class="notion-text"></div>
-
-- **Consider applying Life Cycle Costing (LCC) calculations.**
-
-When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see[ this section.](/life-cycle-costing)
-
-<div class="notion-text"></div>
-
-- <strong>Ensure compliance with existing sustainability regulations. </strong>
-
-Finally, there are already many sustainability regulations in place at the international and national levels. Ensuring that all suppliers comply with these existing regulations is also a way to procure more sustainably. Existing regulation can include, for example, national waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)).](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)
-
-<div class="notion-text"></div>
-
-</div>
+  <div class="notion-toggle__summary">
+    <div class="notion-toggle__trigger">
+      <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+    </div><span class="notion-semantic-string"><strong>How to implement SPP when you can only consider price as evaluation criteria.</strong></span>
+  </div>
+  <div class="notion-toggle__content" style="display:none">
+    <p class="notion-text notion-text__content notion-semantic-string">Many procurement regimes only allow you to award the contract to the lowest-price bid. There are different ways around this, including the following:</p>
+    <div class="notion-text"></div>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Establish sustainability criteria as essential requirements for suppliers. </strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.</p>
+    <div class="notion-text"></div>
+    <p class="notion-text notion-text__content notion-semantic-string">To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections <a href="/implement/set-sustainable-criteria" class="notion-link link">Set sustainability criteria</a>, and <a href="/engage-with-the-market" class="notion-link link">Engage with the supplier market</a>.</p>
+    <div class="notion-text"></div>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Consider applying Life Cycle Costing (LCC) calculations.</strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see<a href="/life-cycle-costing" class="notion-link link"> this section.</a></p>
+    <div class="notion-text"></div>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Ensure compliance with existing sustainability regulations. </strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">Finally, there are already many sustainability regulations in place at the international and national levels. Ensuring that all suppliers comply with these existing regulations is also a way to procure more sustainably. Existing regulation can include, for example, national waste management regulations, or ratified international conventions such as those of the <a href="https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm" class="notion-link link">International Labour Organisation (ILO)).</a></p>
+    <div class="notion-text"></div>
+  </div>
 </div>
 <div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>How to implement SPP when you can consider criteria other than price. </strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
-
-Some procurement regimes might allow you to use criteria other than price to evaluate bids. For example, in Europe this is done under the concept of most economically advantageous tender ([M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024)).
-
-<div class="notion-text"></div>
-
-In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section[ Set sustainability criteria](/implement/set-sustainable-criteria).
-
-</div>
+  <div class="notion-toggle__summary">
+    <div class="notion-toggle__trigger">
+      <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+    </div><span class="notion-semantic-string"><strong>How to implement SPP when you can consider criteria other than price. </strong></span>
+  </div>
+  <div class="notion-toggle__content" style="display:none">
+    <p class="notion-text notion-text__content notion-semantic-string">Some procurement regimes might allow you to use criteria other than price to evaluate bids. For example, in Europe this is done under the concept of most economically advantageous tender (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024" class="notion-link link">M.E.A.T.</a>).</p>
+    <div class="notion-text"></div>
+    <p class="notion-text notion-text__content notion-semantic-string">In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section<a href="/implement/set-sustainable-criteria" class="notion-link link"> Set sustainability criteria</a>.</p>
+  </div>
 </div>
 <div class="notion-text"></div>
 <div class="notion-callout bg-green-light border">
@@ -160,7 +148,7 @@ In this case, you can also design the evaluation process so that sustainability 
   <li class="notion-list-item notion-semantic-string"><a href="https://glcn-on-sp.org/home/" class="notion-link link" target="_blank" rel="noopener noreferrer">Global Lead City Network on Sustainable Procurement</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="http://www.igpn.org/index.html" class="notion-link link" target="_blank" rel="noopener noreferrer">International Green Purchasing Network (IGPN)</a></li>
 </ul>
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

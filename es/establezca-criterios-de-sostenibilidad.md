@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "3c8f1b66434741efb79e0d7f506194f1"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Establezca criterios de sostenibilidad**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección, brindamos orientación sobre diferentes opciones para introducir criterios de sostenibilidad en un proceso de contratación y lo que significa cada uno de ellos para los proveedores.</span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+En esta sección, brindamos orientación sobre diferentes opciones para introducir criterios de sostenibilidad en un proceso de contratación y lo que significa cada uno de ellos para los proveedores.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -28,20 +27,21 @@ En última instancia, implementar una CPS Abierta significa comprar bienes, serv
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Uso claro y justificación de los criterios de sostenibilidad.</strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Uno de los elementos clave de una APP Abierta <em>(Open SPP)</em> es revelar cómo y por qué se han introducido criterios de sostenibilidad en un proceso de contratación. Como se explica en esta sección, al introducir criterios de sostenibilidad, debe divulgar de manera transparente en la oportunidad de licitación:</p>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><strong>Cómo se relacionan los criterios con el objeto del contrato.</strong></li>
-      <li class="notion-list-item notion-semantic-string"><strong>Cómo se evaluará a los proveedores frente a los criterios.</strong></li>
-      <li class="notion-list-item notion-semantic-string"><strong>Cómo el uso de los criterios cumple con los marcos regulatorios y de políticas existentes.</strong></li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP3.png %}
+**Uso claro y justificación de los criterios de sostenibilidad.**
+
+<div class="notion-text"></div>
+
+Uno de los elementos clave de una APP Abierta *(Open SPP)* es revelar cómo y por qué se han introducido criterios de sostenibilidad en un proceso de contratación. Como se explica en esta sección, al introducir criterios de sostenibilidad, debe divulgar de manera transparente en la oportunidad de licitación:
+
+<div class="notion-text"></div>
+
+- **Cómo se relacionan los criterios con el objeto del contrato.**
+- **Cómo se evaluará a los proveedores frente a los criterios.**
+- **Cómo el uso de los criterios cumple con los marcos regulatorios y de políticas existentes.**
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -51,13 +51,7 @@ Antes de decidir qué criterios de sostenibilidad se introducirán en el proceso
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Paso 1: ¿Cuál es el objeto del contrato?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Paso 1: ¿Cuál es el objeto del contrato?** %}
 
 El objeto del contrato se refiere al producto, servicio u obra que se quiere contratar. Al definir su tema, debe asegurarse de que se alinee con:
 
@@ -66,10 +60,9 @@ El objeto del contrato se refiere al producto, servicio u obra que se quiere con
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Definir un tema justo y no discriminatorio significa garantizar que no se haga referencia, <strong>por ejemplo, a productos con certificaciones específicas o tipos específicos de proveedores. Un ejemplo de materia discriminatoria sería: “Licitación de portátiles con certificación Energy Star”, ya que restringe la participación al exigir el cumplimiento de una ecoetiqueta específica. Para garantizar la igualdad de trato, el tema debería ser: &quot;Licitación para portátiles energéticamente eficientes&quot;.</strong></span></div>
-</div>
+{% callout red /assets/images/Icons_Red8.png %}
+Definir un tema justo y no discriminatorio significa garantizar que no se haga referencia, **por ejemplo, a productos con certificaciones específicas o tipos específicos de proveedores. Un ejemplo de materia discriminatoria sería: “Licitación de portátiles con certificación Energy Star”, ya que restringe la participación al exigir el cumplimiento de una ecoetiqueta específica. Para garantizar la igualdad de trato, el tema debería ser: "Licitación para portátiles energéticamente eficientes".**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -85,58 +78,35 @@ En este sentido, algunas administraciones públicas deciden incluir explícitame
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Paso 2: ¿Qué me permite hacer mi entorno habilitante?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Paso 2: ¿Qué me permite hacer mi entorno habilitante?** %}
 
 Al considerar cómo introducir criterios de sostenibilidad en un proceso de contratación, es esencial evaluar qué le permite hacer su marco regulatorio y de políticas. ¿Pueden los criterios de adjudicación incluir alguna ponderación basada en consideraciones de sostenibilidad? ¿Solo se puede considerar el precio? ¿Depende del valor del contrato? Vea cómo interpretar el entorno propicio en esta sección.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Paso 3: </strong>¿<strong>Se han creado criterios de sostenibilidad estandarizados?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Paso 3:** ¿**Se han creado criterios de sostenibilidad estandarizados?** %}
 
 Como hemos presentado anteriormente en este conjunto de herramientas, los compradores públicos no necesitan crear criterios de sostenibilidad desde cero. La identificación de criterios de sostenibilidad y ecoetiquetas puede servir como guía. También es importante verificar si las autoridades públicas han dado recomendaciones sobre qué criterios deben incluirse al comprar categorías de contratación específicas.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Recuerde que <strong>cuando solicite que los proveedores cumplan con los requisitos de una etiqueta ecológica específica, debe comunicar claramente que el cumplimiento se puede demostrar a través de medios de verificación distintos al certificado oficial de la etiqueta ecológica</strong> (por ejemplo, a través de informes de laboratorio o documentación técnica) para respaldar la equivalencia y promover la equidad. competencia. Consulte la sección supervisar la implementación para obtener más información sobre los medios de verificación.</span></div>
-</div>
+{% callout red /assets/images/Icons_Red8.png %}
+Recuerde que **cuando solicite que los proveedores cumplan con los requisitos de una etiqueta ecológica específica, debe comunicar claramente que el cumplimiento se puede demostrar a través de medios de verificación distintos al certificado oficial de la etiqueta ecológica** (por ejemplo, a través de informes de laboratorio o documentación técnica) para respaldar la equivalencia y promover la equidad. competencia. Consulte la sección supervisar la implementación para obtener más información sobre los medios de verificación.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Paso 4: ¿Cuál es la capacidad de mi mercado?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Paso 4: ¿Cuál es la capacidad de mi mercado?** %}
 
 Como se explica en la sección sobre compromiso con el mercado, la información sobre la capacidad del mercado informará qué criterios de sostenibilidad pueden ser esenciales (es decir, incluidos como especificaciones técnicas) u opcionales (es decir, incluidos como criterios de adjudicación).
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -146,13 +116,7 @@ Es difícil asesorar sobre la mejor manera de introducir criterios de sostenibil
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Criteria de selección</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Criteria de selección** %}
 
 La etapa de los criterios de selección se centra en evaluar la capacidad del proveedor potencial para ejecutar el contrato por el que se presenta a licitación. Al evaluar esto, las autoridades públicas pueden tener en cuenta la experiencia específica, por ejemplo, pueden preguntar a los proveedores si cuentan con un [sistema de gestión ambiental ](<https://www.epa.gov/ems/learn-about-environmental-management-systems#:~:text=An%20Environmental%20Management%20System%20(EMS)%20is%20a%20framework%20that%20helps,improvement%20of%20its%20environmental%20performance.>)[*(Environmental Management System)*](<https://www.epa.gov/ems/learn-about-environmental-management-systems#:~:text=An%20Environmental%20Management%20System%20(EMS)%20is%20a%20framework%20that%20helps,improvement%20of%20its%20environmental%20performance.>)<em> </em>o si cuentan con un Código de conducta para proveedores.
 
@@ -162,16 +126,9 @@ Esta información a menudo se recopila a través de cuestionarios, y este sistem
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Requisitos esenciales (o especificaciones técnicas)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Requisitos esenciales (o especificaciones técnicas)** %}
 
 Las especificaciones técnicas constituyen el cumplimiento mínimo contra el cual se evaluará a los proveedores. A diferencia de los criterios de selección, estos deben estar relacionados con las características específicas del servicio, obra o producto que se comprará, no con las características del proveedor.
 
@@ -181,37 +138,27 @@ La introducción de criterios de sostenibilidad como especificaciones técnicas 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Recuerde que cuando su entorno propicio solo permite adjudicar contratos en función del precio, la introducción de criterios de sostenibilidad como requisitos esenciales es una de las formas clave de implementar APP. Consulte la sección sobre Establecer un entorno habilitante para obtener más información. </span></div>
-</div>
+{% callout red /assets/images/Icons_Red8.png %}
+Recuerde que cuando su entorno propicio solo permite adjudicar contratos en función del precio, la introducción de criterios de sostenibilidad como requisitos esenciales es una de las formas clave de implementar APP. Consulte la sección sobre Establecer un entorno habilitante para obtener más información. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Criterios de adjudicación</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Criterios de adjudicación** %}
 
 En la etapa de adjudicación, la autoridad pública normalmente evaluará la calidad de las diferentes ofertas realizadas por los proveedores y comparará los costos. Mientras que las especificaciones técnicas deben incluir criterios mínimos de sostenibilidad, la introducción de criterios de sostenibilidad en la etapa de comntratación es una forma de promover a los proveedores que presentan ofertas más sostenibles. Los criterios de sostenibilidad pueden considerarse dentro de la ponderación asignada a la calidad o, según el entorno propicio, podría ser posible asignar un porcentaje de las puntuaciones disponibles a los criterios de sostenibilidad.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Como se presentó anteriormente, algunos marcos habilitadores solo le permitirán considerar el precio como criterio de adjudicación. En estos casos, puede considerar el uso de cálculos de costeo del ciclo de vida (LCC).</span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+Como se presentó anteriormente, algunos marcos habilitadores solo le permitirán considerar el precio como criterio de adjudicación. En estos casos, puede considerar el uso de cálculos de costeo del ciclo de vida (LCC).
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -221,127 +168,140 @@ Una vez se hayan establecido los criterios de sostenibilidad, las autoridades p�
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso  </strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>Países Bajos implementa un sistema llamado</strong> <strong>Escalera de Desempeño de CO2 para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública</strong>. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Las organizaciones pueden obtener un certificado con su nivel en Escalera, que pueden utilizar para recibir una ventaja de premio por su registro en licitaciones. De esta forma, <strong>los contratistas pueden beneficiarse de una reducción del precio de presentación demostrando y desarrollando sus esfuerzos para reducir las emisiones de CO2.</strong></p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor C tenía un precio de entrada superior, la aplicación del descuento asociado a su nivel en la escalera de CO2 (nivel 4) hace que se le adjudique el contrato.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>Al adoptar este enfoque para contabilizar las emisiones de carbono en los procesos de contratación, se pueden seleccionar proveedores sostenibles incluso si el contrato se adjudica únicamente en función del precio.</strong></p>
-    <div class="notion-text"></div>
-    <div class="notion-table__wrapper">
-      <table class="notion-table col-header">
-        <tbody>
-          <tr style="background:var(--color-bg-red)">
-            <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>COMPAÑÍA</strong></span></div>
-            </td>
-            <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string">PRECIO DE ENTRADA</span></div>
-            </td>
-            <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string">NIVEL EN LA ESCALERA</span></div>
-            </td>
-            <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>DESCUENTO / VENTAJA DE PREMIO</strong></span></div>
-            </td>
-            <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>PRECIO DESPUES DE APLICAR VENTAJA</strong></span></div>
-            </td>
-            <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
-              <div class="notion-table__cell"><span class="notion-semantic-string"><strong>ADJUDICAR EL CONTRATO</strong></span></div>
-            </td>
-          </tr>
-          <tr style="color:var(--color-text-default)">
-            <td style="min-width:113.234375px;max-width:113.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
-            </td>
-            <td style="min-width:110.234375px;max-width:110.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
-            </td>
-            <td style="min-width:125.234375px;max-width:125.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">ninguno</span></div>
-            </td>
-            <td style="min-width:187.234375px;max-width:187.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
-            </td>
-            <td style="min-width:142.234375px;max-width:142.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
-            </td>
-            <td style="min-width:154.234375px;max-width:154.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-            </td>
-          </tr>
-          <tr style="color:var(--color-text-default)">
-            <td style="min-width:113.234375px;max-width:113.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
-            </td>
-            <td style="min-width:110.234375px;max-width:110.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 10 millones</span></div>
-            </td>
-            <td style="min-width:125.234375px;max-width:125.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
-            </td>
-            <td style="min-width:187.234375px;max-width:187.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
-            </td>
-            <td style="min-width:142.234375px;max-width:142.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,6 millones</span></div>
-            </td>
-            <td style="min-width:154.234375px;max-width:154.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
-            </td>
-          </tr>
-          <tr style="color:var(--color-text-default)">
-            <td style="min-width:113.234375px;max-width:113.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
-            </td>
-            <td style="min-width:110.234375px;max-width:110.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 10,3 millones</span></div>
-            </td>
-            <td style="min-width:125.234375px;max-width:125.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
-            </td>
-            <td style="min-width:187.234375px;max-width:187.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
-            </td>
-            <td style="min-width:142.234375px;max-width:142.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,58 millones</span></div>
-            </td>
-            <td style="min-width:154.234375px;max-width:154.234375px">
-              <div class="notion-table__cell"><span class="notion-semantic-string">SI: € 10,3 millones</span></div>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Estudio de caso**  
+
+<div class="notion-text"></div>
+
+**Países Bajos implementa un sistema llamado** **Escalera de Desempeño de CO2 para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública**. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.
+
+<div class="notion-text"></div>
+
+Las organizaciones pueden obtener un certificado con su nivel en Escalera, que pueden utilizar para recibir una ventaja de premio por su registro en licitaciones. De esta forma, **los contratistas pueden beneficiarse de una reducción del precio de presentación demostrando y desarrollando sus esfuerzos para reducir las emisiones de CO2.**
+
+<div class="notion-text"></div>
+
+Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor C tenía un precio de entrada superior, la aplicación del descuento asociado a su nivel en la escalera de CO2 (nivel 4) hace que se le adjudique el contrato.
+
+<div class="notion-text"></div>
+
+**Al adoptar este enfoque para contabilizar las emisiones de carbono en los procesos de contratación, se pueden seleccionar proveedores sostenibles incluso si el contrato se adjudica únicamente en función del precio.**
+
+<div class="notion-text"></div>
+
+<div class="notion-table__wrapper">
+  <table class="notion-table col-header">
+    <tbody>
+      <tr style="background:var(--color-bg-red)">
+        <td style="min-width:113.234375px;max-width:113.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>COMPAÑÍA</strong></span></div>
+        </td>
+        <td style="min-width:110.234375px;max-width:110.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string">PRECIO DE ENTRADA</span></div>
+        </td>
+        <td style="min-width:125.234375px;max-width:125.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string">NIVEL EN LA ESCALERA</span></div>
+        </td>
+        <td style="min-width:187.234375px;max-width:187.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>DESCUENTO / VENTAJA DE PREMIO</strong></span></div>
+        </td>
+        <td style="min-width:142.234375px;max-width:142.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>PRECIO DESPUES DE APLICAR VENTAJA</strong></span></div>
+        </td>
+        <td style="min-width:154.234375px;max-width:154.234375px;background:var(--color-color-default)">
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>ADJUDICAR EL CONTRATO</strong></span></div>
+        </td>
+      </tr>
+      <tr style="color:var(--color-text-default)">
+        <td style="min-width:113.234375px;max-width:113.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">A</span></div>
+        </td>
+        <td style="min-width:110.234375px;max-width:110.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
+        </td>
+        <td style="min-width:125.234375px;max-width:125.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">ninguno</span></div>
+        </td>
+        <td style="min-width:187.234375px;max-width:187.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">0%</span></div>
+        </td>
+        <td style="min-width:142.234375px;max-width:142.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,7 millones</span></div>
+        </td>
+        <td style="min-width:154.234375px;max-width:154.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
+        </td>
+      </tr>
+      <tr style="color:var(--color-text-default)">
+        <td style="min-width:113.234375px;max-width:113.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">B</span></div>
+        </td>
+        <td style="min-width:110.234375px;max-width:110.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10 millones</span></div>
+        </td>
+        <td style="min-width:125.234375px;max-width:125.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">3</span></div>
+        </td>
+        <td style="min-width:187.234375px;max-width:187.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">4%</span></div>
+        </td>
+        <td style="min-width:142.234375px;max-width:142.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,6 millones</span></div>
+        </td>
+        <td style="min-width:154.234375px;max-width:154.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">NO</span></div>
+        </td>
+      </tr>
+      <tr style="color:var(--color-text-default)">
+        <td style="min-width:113.234375px;max-width:113.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">C</span></div>
+        </td>
+        <td style="min-width:110.234375px;max-width:110.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 10,3 millones</span></div>
+        </td>
+        <td style="min-width:125.234375px;max-width:125.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">4</span></div>
+        </td>
+        <td style="min-width:187.234375px;max-width:187.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">7%</span></div>
+        </td>
+        <td style="min-width:142.234375px;max-width:142.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">€ 9,58 millones</span></div>
+        </td>
+        <td style="min-width:154.234375px;max-width:154.234375px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">SI: € 10,3 millones</span></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso  </strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>En 2014, Chile realizó un estudio de investigación para evaluar cuántos contratos públicos eran empresas propiedad de hombres, versus contratos otorgados a empresas propiedad de mujeres.</strong> Este estudio mostró que solo el 36% de los contratos públicos fueron otorgados a mujeres, y que estos representaron el 26% del valor total.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">A partir de este estudio establecieron una serie de medidas para promover la igualdad de género a través de la contratación pública. Esto incluía disposiciones para incluir <strong>criterios de adjudicación para evaluar a los proveedores en términos de inclusión de género</strong>.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">A modo de ejemplo, proponen dar a este factor una ponderación del 15% en la evaluación, y sugieren diferentes formas de evaluación. <strong>Entre ellos se encuentran otorgar la máxima puntuación a empresas lideradas por mujeres, o empresas que demuestren paridad de género en su contratación, mostrando que el % de mujeres contratadas con respecto al total de trabajadores en una misma empresa es superior al 50%.</strong></p>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Estudio de caso**  
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+**En 2014, Chile realizó un estudio de investigación para evaluar cuántos contratos públicos eran empresas propiedad de hombres, versus contratos otorgados a empresas propiedad de mujeres.** Este estudio mostró que solo el 36% de los contratos públicos fueron otorgados a mujeres, y que estos representaron el 26% del valor total.
+
+<div class="notion-text"></div>
+
+A partir de este estudio establecieron una serie de medidas para promover la igualdad de género a través de la contratación pública. Esto incluía disposiciones para incluir **criterios de adjudicación para evaluar a los proveedores en términos de inclusión de género**.
+
+<div class="notion-text"></div>
+
+A modo de ejemplo, proponen dar a este factor una ponderación del 15% en la evaluación, y sugieren diferentes formas de evaluación. **Entre ellos se encuentran otorgar la máxima puntuación a empresas lideradas por mujeres, o empresas que demuestren paridad de género en su contratación, mostrando que el % de mujeres contratadas con respecto al total de trabajadores en una misma empresa es superior al 50%.**
+
+<div class="notion-text"></div>
+{% endcallout %}
+
+<div class="notion-text"></div>
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "62de91131c48424bad09f737eac35e8c"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Worked example: Measuring gender inclusion
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section we explain how you can use data to measure the participation of women-led businesses in public procurement.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+In this section we explain how you can use data to measure the participation of women-led businesses in public procurement.
+{% endcallout %}
 
 ## What is it?
 
@@ -34,14 +33,13 @@ Governments spend a staggering US$ 13 trillion per year on public contracts. Unf
 
 <div class="notion-text"></div>
 
-Starting in 2020, we dug deeper into <em>why </em>women-led businesses struggle to thrive in public procurement markets. We worked with <em>Value for Women </em>to research the barriers facing women-led businesses in public procurement and emerging practices for fairness and inclusion from partners implementing open contracting reforms in Latin America, with examples from Chile, the Dominican Republic and Buenos Aires, Argentina.
+Starting in 2020, we dug deeper into *why* women-led businesses struggle to thrive in public procurement markets. We worked with *Value for Women* to research the barriers facing women-led businesses in public procurement and emerging practices for fairness and inclusion from partners implementing open contracting reforms in Latin America, with examples from Chile, the Dominican Republic and Buenos Aires, Argentina.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">You can read the <a href="https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/" class="notion-link link">full report</a>, an <a href="https://www.open-contracting.org/resources/empower-women-led-business-procurement/" class="notion-link link">insights version</a>, or a <a href="https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/" class="notion-link link">summary blog</a>. We then worked with UNWomen to prepare a <a href="https://www.open-contracting.org/resources/empowering-women/" class="notion-link link">policy note</a> including more examples and recommendations from around the world.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+You can read the [full report](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), an [insights version](https://www.open-contracting.org/resources/empower-women-led-business-procurement/), or a [summary blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). We then worked with UNWomen to prepare a [policy note](https://www.open-contracting.org/resources/empowering-women/) including more examples and recommendations from around the world.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -109,7 +107,7 @@ In addition to data on whether businesses are women-led, you can use complementa
 
 <div class="notion-text"></div>
 
-- <strong>Use national or statewide data (Option 10) </strong>
+- **Use national or statewide data (Option 10)** 
 
 A legally mandated national or statewide reporting on company ownership or gender pay gaps will confer numerous other benefits to authorities, such as anti-fraud and lobbying controls. This also creates more data that leads to better algorithms to measure outcomes of interventions. For instance, the effect of gender equality mandates in tender specifications can be correlated with gender pay gap over time to better know whether or not these mandates were effective.
 
@@ -516,7 +514,7 @@ Seeing is believing. If women-led businesses are able to see that small business
 
 You can read more about policy measures to improve gender inclusion and case studies from around the world in this [Policy Note by UN Women and OCP.](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf)
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

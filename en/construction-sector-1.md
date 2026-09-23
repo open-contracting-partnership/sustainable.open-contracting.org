@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Grey5.png"
 full_width: true
 notion_id: "922396faae2e490e82eb63c21ae7e0cc"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **Why is Open SPP important in the construction sector?**
 
@@ -21,14 +21,11 @@ As the method by which many construction projects are delivered, public procurem
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">It is important to note that <strong>within the construction sector, there are different built asset </strong>types, including residential and commercial buildings, economic infrastructure (e.g. transport) and social infrastructure (e.g. education). 
-
-Projects related to each of t<strong>hese asset types are normally divided into four stages</strong>: Design, Construction, In-Use and Deconstruction. As well as representing the lifecycle of a construction project, <strong>these stages can also represent different types of construction procurement processes</strong>, depending on the contract signed. In most cases, Design and Construction are procured together (Design and Build contracts), with the inclusion, sometimes, of the In-Use stage (Design-Build-Operate contracts). 
-
-<strong>This section does not go into detail on the different types of construction projects. </strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey8.png %}
+It is important to note that **within the construction sector, there are different built asset** types, including residential and commercial buildings, economic infrastructure (e.g. transport) and social infrastructure (e.g. education).
+<br>Projects related to each of t**hese asset types are normally divided into four stages**: Design, Construction, In-Use and Deconstruction. As well as representing the lifecycle of a construction project, **these stages can also represent different types of construction procurement processes**, depending on the contract signed. In most cases, Design and Construction are procured together (Design and Build contracts), with the inclusion, sometimes, of the In-Use stage (Design-Build-Operate contracts).
+<br>**This section does not go into detail on the different types of construction projects.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -72,7 +69,7 @@ Projects related to each of t<strong>hese asset types are normally divided into 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

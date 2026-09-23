@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000017)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999998);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # ¿Qué es la Contratación Pública Sostenible y Abierta?
 
@@ -29,20 +29,19 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:</span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">La definición más común de <strong>Contratación Pública Sostenible</strong> <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">proviene del PNUMA</a>:<strong> </strong>“un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.</li>
-    </ul>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">Usted podrá ver el enfoque de Asociación de Contratación Abierta <a href="https://www.open-contracting.org/implement/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a><strong> </strong>y cómo ayuda a que las reformas se amplíen y se mantengan <a href="https://www.open-contracting.org/impact/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a>.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:
+
+<div class="notion-text"></div>
+
+- La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf):<strong> </strong>“un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
+
+<div class="notion-text"></div>
+
+- Usted podrá ver el enfoque de Asociación de Contratación Abierta [aquí](https://www.open-contracting.org/implement/)<strong> </strong>y cómo ayuda a que las reformas se amplíen y se mantengan [aquí](https://www.open-contracting.org/impact/).
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -64,64 +63,57 @@ La apertura es un cambio de mentalidad, que abarca datos de contratación abiert
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Comunicando sus políticas y enfoques CPS</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP.png %}
+**Comunicando sus políticas y enfoques CPS**
+{% endcallout %}
 
 CPS Abierta significa divulgar claramente sus políticas y su enfoque para impulsar la sostenibilidad y cómo cumple con los marcos y políticas legales internacionales, nacionales o locales que rigen sus reglas de contratación.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Comunicando por qué ha priorizado ciertas categorías de gastos</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP2.png %}
+**Comunicando por qué ha priorizado ciertas categorías de gastos**
+{% endcallout %}
 
 CPS Abierta significa compartir el proceso que lo ha llevado a usted a priorizar ciertas categorías de contrataciones o proyectos a medida que enfoca sus esfuerzos de CPS.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Usando y justificando claramente criterios de sostenibilidad</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP3.png %}
+**Usando y justificando claramente criterios de sostenibilidad**
+{% endcallout %}
 
 CPS Abierta implica comunicar claramente qué criterios de sostenibilidad se utilizarán para seleccionar a los proveedores, cómo se evaluarán frente a estos criterios y las razones detrás de estas decisiones.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP4.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Manteniendo registros efectivos de proveedores bases de datos de contratos y reportando mecanismos.</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP4.png %}
+**Manteniendo registros efectivos de proveedores bases de datos de contratos y reportando mecanismos.**
+{% endcallout %}
 
 CPS Abierta incluye la creación de registros de proveedores efectivos, bases de datos de contratos y mecanismos de informes que rastrean la implementación de los objetivos de CPS y respaldan el monitoreo proactivo y la retroalimentación sobre las contrataciones.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Proporcionando canales claros para retroalimentación del usuario y del ciudadano</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP5.png %}
+**Proporcionando canales claros para retroalimentación del usuario y del ciudadano**
+{% endcallout %}
 
 CPS Abierta se caracteriza por establecer canales claros de participación y retroalimentación de proveedores, organizaciones de la sociedad civil y ciudadanos. Esto es especialmente valioso en la planificación de qué comprar, especialmente si se trata de tecnología innovadora o implicará impactos de comunidades específicas, así como en el seguimiento de la ejecución de contratos para verificar que hayan cumplido con sus resultados ambientales y sociales.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Reportando abiertamente el impacto contrato por contrato</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP6.png %}
+**Reportando abiertamente el impacto contrato por contrato**
+{% endcallout %}
 
 CPS Abierta se basa en medir y comunicar claramente el impacto de las prácticas de SPP contrato por contrato, utilizando métricas adecuadas.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP7.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Usando datos de reporte para mejorar y escalar CPS</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP7.png %}
+**Usando datos de reporte para mejorar y escalar CPS**
+{% endcallout %}
 
 CPS Abierta implica dar forma, probar y escalar las prácticas de SPP, en función de los datos de informes y los comentarios recopilados. Esto implica el uso de datos sobre los resultados de sus enfoques SPP para evaluar y escalar lo que ha funcionado.
 
@@ -137,12 +129,10 @@ Ya hemos compilado una guía que explora cómo los datos abiertos sobre adquisic
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Uso de “banderas ecológicas” en datos de contratación pública
-
-</strong><a href="https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/" class="notion-link link">Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible</a>.<strong> </strong>Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible</span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+<strong>Uso de “banderas ecológicas” en datos de contratación pública
+<br></strong>[Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).<strong> </strong>Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -364,5 +354,5 @@ Nuestra [guía](https://www.open-contracting.org/resources/green-flags-how-open-
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

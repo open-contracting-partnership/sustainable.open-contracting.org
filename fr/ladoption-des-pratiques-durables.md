@@ -7,21 +7,20 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "3e5f6ebbb44544b993d1f2aa2e381fd1"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Exemple : évaluer l’adoption des pratiques durables de passation de marchés**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès en ce qui concerne votre objectif de promotion des marchés publics durables.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès en ce qui concerne votre objectif de promotion des marchés publics durables.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -45,20 +44,17 @@ Les départements gouvernementaux du monde entier mettent en place des politique
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Les gouvernements peuvent montrer que les nouvelles politiques ont des effets concrets sur les marchés publics.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Les gouvernements peuvent montrer que les nouvelles politiques ont des effets concrets sur les marchés publics.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Vous pouvez indiquer clairement aux fournisseurs que les marchés publics durables sont un engagement à long terme dont ils doivent prendre acte (et qu’ils doivent mettre à niveau leurs propres résultats).</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Vous pouvez indiquer clairement aux fournisseurs que les marchés publics durables sont un engagement à long terme dont ils doivent prendre acte (et qu’ils doivent mettre à niveau leurs propres résultats).
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Il est possible de faire le lien entre politiques et marchés publics par l’entremise d’une boucle de collaboration permettant d’évaluer la réalisation des objectifs des politiques.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Il est possible de faire le lien entre politiques et marchés publics par l’entremise d’une boucle de collaboration permettant d’évaluer la réalisation des objectifs des politiques.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -334,5 +330,5 @@ Dans l’exemple ci-dessous, nous présentons les résultats et les indicateurs 
 
 <br>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

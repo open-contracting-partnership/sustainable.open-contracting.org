@@ -8,27 +8,23 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "6f0dd15a42c04092a93227039791d374"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8749999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In 2002 the Government of Namibia ran a tender for the construction of the <a href="https://murd.gov.na/hrdc" class="notion-link link">Habitat Research Development Centre (HRDC)</a>, <strong>a research institution for sustainable construction. </strong>The project to build the centre itself also followed sustainability principles.
-
-The main objective of the project was to <strong>promote traditional Namibian construction methods,</strong> which is able to sustainably responsible to some of the main challenges posed by the local climate. With this in mind, <strong>the </strong><strong><a href="https://www.irbnet.de/daten/iconda/CIB_DC23125.pdf" class="notion-link link">tender process</a></strong><strong> was designed using a </strong><strong><a href="/elija-un-mtodo-de-contratacin" class="notion-link link">two-stage tender</a></strong><strong> system. </strong>In the first stage, suppliers were chosen, among other things, based on their construction experience, and their approach to sustainability and experimentation on site. 
-
-<strong>The two-stage tender process allowed the two suppliers selected in the first stage to work collaboratively on a Provisional Bill of Quantities (BOQ). </strong>This B included the alternative materials and methods that would be used for the project. <strong>The HRDC
-was </strong><strong><a href="https://knowledge-hub.circle-lab.com/article/5108?n=Namibia%27s-Habitat-Research-and-Development-Centre" class="notion-link link">the first comprehensive attempt at sustainability in a public building in Namibia</a></strong><strong>.</strong>
-
-</span></div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+In 2002 the Government of Namibia ran a tender for the construction of the [Habitat Research Development Centre (HRDC)](https://murd.gov.na/hrdc), **a research institution for sustainable construction.** The project to build the centre itself also followed sustainability principles.
+<br>The main objective of the project was to **promote traditional Namibian construction methods,** which is able to sustainably responsible to some of the main challenges posed by the local climate. With this in mind, **the [tender process](https://www.irbnet.de/daten/iconda/CIB_DC23125.pdf) was designed using a [two-stage tender](/elija-un-mtodo-de-contratacin) system.** In the first stage, suppliers were chosen, among other things, based on their construction experience, and their approach to sustainability and experimentation on site.
+<br>**The two-stage tender process allowed the two suppliers selected in the first stage to work collaboratively on a Provisional Bill of Quantities (BOQ).** This B included the alternative materials and methods that would be used for the project. <strong>The HRDC
+was [the first comprehensive attempt at sustainability in a public building in Namibia](https://knowledge-hub.circle-lab.com/article/5108?n=Namibia%27s-Habitat-Research-and-Development-Centre).</strong>
+<br>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

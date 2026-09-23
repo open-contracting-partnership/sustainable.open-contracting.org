@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "66d1d89be9f24a1580aaa1d2aaf5f615"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000017)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999998);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # What is Open SPP?
 
@@ -29,20 +29,19 @@ Sustainable Public Procurement (SPP) relates to how organizations buy goods and 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">For a deeper breakdown of both SPP and and open contracting (both open government and open data), please look at the following resources:</span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">The most common definition of <strong>Sustainable Public Procurement</strong> comes from <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">UNEP:</a> “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”</li>
-    </ul>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">You can see the Open Contracting Partnership’s approach to open contracting <a href="https://www.open-contracting.org/implement/" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> and how it helps reforms scale and stick <a href="https://www.open-contracting.org/impact/" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a>.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+For a deeper breakdown of both SPP and and open contracting (both open government and open data), please look at the following resources:
+
+<div class="notion-text"></div>
+
+- The most common definition of **Sustainable Public Procurement** comes from [UNEP:](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
+
+<div class="notion-text"></div>
+
+- You can see the Open Contracting Partnership’s approach to open contracting [here](https://www.open-contracting.org/implement/) and how it helps reforms scale and stick [here](https://www.open-contracting.org/impact/).
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -68,64 +67,57 @@ Throughout this guide, we will refer to these different types of openness as key
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Communicating your SPP policies and approach</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP.png %}
+**Communicating your SPP policies and approach**
+{% endcallout %}
 
 Open SPP means clearly disclosing your policies and approach to drive sustainability and how it complies with any international, national or local legal frameworks and policies that govern your procurement rules. 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Communicating why you have prioritized certain categories of spending</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP2.png %}
+**Communicating why you have prioritized certain categories of spending**
+{% endcallout %}
 
 Open SPP means sharing the process that has led you to prioritize certain procurement categories or projects as you focus your SPP efforts.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Clearly using and justifying sustainability criteria</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP3.png %}
+**Clearly using and justifying sustainability criteria**
+{% endcallout %}
 
 Open SPP entails clearly communicating what sustainability criteria will be used to select suppliers, how they will be evaluated against these criteria, and the reasons behind these decisions.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP4.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Maintaining effective registers of suppliers, contract databases, and reporting mechanisms</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP4.png %}
+**Maintaining effective registers of suppliers, contract databases, and reporting mechanisms**
+{% endcallout %}
 
 Open SPP includes the creation of effective supplier registers, contract databases, and reporting mechanisms that track implementation of SPP objectives and support proactive monitoring and feedback on purchases
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Providing clear channels for user and citizen feedback</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP5.png %}
+**Providing clear channels for user and citizen feedback**
+{% endcallout %}
 
 Open SPP is characterized by establishing clear channels for engagement and receiving feedback from suppliers, civil society organizations, and citizens. This is especially valuable in planning what to buy, especially if it involves innovative technology or will involve impacts of specific communities as well as in monitoring implementation of contracts to check they have delivered on their environmental and social outcomes.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Openly reporting on impact on a contract-by-contract basis</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP6.png %}
+**Openly reporting on impact on a contract-by-contract basis**
+{% endcallout %}
 
 Open SPP relies on measuring, and clearly communicating, the impact of SPP practices on a contract-by-contract basis, using appropriate metrics.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP7.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Using reporting data to improve and scale SPP</strong></span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP7.png %}
+**Using reporting data to improve and scale SPP**
+{% endcallout %}
 
 Open SPP involves shaping, testing, and scaling SPP practices, based on reporting data and feedback gathered. This involves using data on outcomes of your SPP approaches to evaluate and scale what has worked.
 
@@ -141,12 +133,10 @@ We have already compiled a piece of guidance that explores how open data can hel
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Using ‘green flags’ in government procurement data
-
-</strong><a href="https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/" class="notion-link link">Green Flags: How open data can throw light on sustainable procurement</a> - this guide provides a first introduction into the open data that can be used to track and measure the adoption and progress in implementing sustainable public procurement.</span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+<strong>Using ‘green flags’ in government procurement data
+<br></strong>[Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) - this guide provides a first introduction into the open data that can be used to track and measure the adoption and progress in implementing sustainable public procurement.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -184,5 +174,5 @@ A lack of coherent identifiers in government information systems structurally da
 
 **So before getting started with SPP, make sure you have tackled the key data foundations.**
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

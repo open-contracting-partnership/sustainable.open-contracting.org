@@ -7,17 +7,16 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "2e59454b25174caa94f2e7189fb64655"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section, we have included best practice examples of SPP implementation around the world. </strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+**In this section, we have included best practice examples of SPP implementation around the world.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -145,5 +144,5 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

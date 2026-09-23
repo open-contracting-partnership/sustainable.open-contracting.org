@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "7f0e4773d6354fa680272a6066201c35"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% columns %}
+{% column 0.3125 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.6875 %}
 
 # **Mettre en place des mécanismes d’assistance et de renforcement des capacités**
 
@@ -23,10 +23,9 @@ Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.</strong></span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+**Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -44,10 +43,9 @@ Le changement sera radical par rapport à l’approche traditionnelle faisant l�
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">L’interaction ne doit pas être un événement exceptionnel, vous devez planifier les moments adéquats et les plus propices au dialogue avec la société civile et le secteur privé durant tout le cycle de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics. <strong>La règle d’or : interagir tôt et souvent. Si vous ne concevez pas vos marchés pour l’inclusion et l’interaction dès le début du processus, vous ne pourrez plus y revenir.</strong></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green8.png %}
+L’interaction ne doit pas être un événement exceptionnel, vous devez planifier les moments adéquats et les plus propices au dialogue avec la société civile et le secteur privé durant tout le cycle de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics. **La règle d’or : interagir tôt et souvent. Si vous ne concevez pas vos marchés pour l’inclusion et l’interaction dès le début du processus, vous ne pourrez plus y revenir.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -59,13 +57,7 @@ En plus des appels d’offres particuliers, les marchés publics durables et ouv
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Ateliers de renforcement des capacités destinés aux services de passation de marchés</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Ateliers de renforcement des capacités destinés aux services de passation de marchés** %}
 
 L’organisation d’ateliers avec des membres de services de passation de marchés pour guider, étoffer et diffuser le [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) définitif sera essentielle pour l’élaboration de ce dernier, la maximisation de ses bénéfices et sa reconnaissance.
 
@@ -79,32 +71,18 @@ Des ateliers de formation sur les marchés publics durables peuvent être organi
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Ateliers sur la durabilité avec les fournisseurs</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Ateliers sur la durabilité avec les fournisseurs** %}
 
 Les pouvoirs publics doivent collaborer avec leurs fournisseurs et des organismes sectoriels afin de déterminer [les normes de durabilité qui doivent être intégrées aux processus de passation de marchés](https://sustainable.open-contracting.org/implement/set-sustainable-criteria)
 . Des ateliers et événements peuvent être organisés afin d’évaluer les capacités du marché et de travailler avec les fournisseurs pour élaborer une feuille de route concernant l’amélioration continue des pratiques durables. Ces événements peuvent aider les pouvoirs publics à collaborer avec des entreprises locales, en particulier les petites et moyennes entreprises (PME), et à s’assurer qu’elles ne sont pas exclues par l’intégration d’exigences de durabilité aux processus de passation de marchés.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Communication constante avec la société civile, le milieu universitaire et des organisations de la société civile (OSC)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Communication constante avec la société civile, le milieu universitaire et des organisations de la société civile (OSC)** %}
 
 L’interaction avec des OSC tout au long de votre cycle de planification et de mise en œuvre peut être essentielle pour diffuser les bonnes pratiques, accompagner le changement et renforcer la volonté politique et le leadership. Cette interaction constante peut faciliter la mise en place de marchés publics durables de différentes façons.
 
@@ -116,13 +94,11 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles sur le <a href="https://www.open-contracting.org/implement/#engage" class="notion-link link">site d’Open Contracting Partnership</a></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles sur le [site d’Open Contracting Partnership](https://www.open-contracting.org/implement/#engage)
+{% endcallout %}
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -132,10 +108,9 @@ Les gouvernements acquièrent une grande variété de produits et la plupart des
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">L’<a href="https://sftool.gov/greenprocurement" class="notion-link link">outil</a> <a href="https://sftool.gov/greenprocurement" class="notion-link link">« Green Procurement Compilation »</a> de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+L’[outil](https://sftool.gov/greenprocurement) [« Green Procurement Compilation »](https://sftool.gov/greenprocurement) de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -153,10 +128,9 @@ Pour en savoir plus sur la création de registres de fournisseurs responsables �
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Le <a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link">panier vert</a> de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le <a href="https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf" class="notion-link link">registre national de l’agriculture familiale</a> a contribué à <a href="https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean" class="notion-link link">faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration</a> auprès d’entreprises familiales. Nous pouvons également citer l’exemple de <a href="http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==" class="notion-link link">l’accord-cadre sur les biens et services nécessaires en situation de crise</a> du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+Le [panier vert](http://gp.pcd.go.th/cat-1-ssl) de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le [registre national de l’agriculture familiale](https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf) a contribué à [faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) auprès d’entreprises familiales. Nous pouvons également citer l’exemple de [l’accord-cadre sur les biens et services nécessaires en situation de crise](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==) du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -166,42 +140,41 @@ La transformation des processus de la commande publique afin de prendre en compt
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Ce service d’assistance, comme les autres mécanismes d’assistance conçus en vue de la mise en place de marchés publics durables et ouverts, peut être rendu facilement accessible par la création d’un centre d’information regroupant toutes les ressources disponibles. À titre d’exemple, le <a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link">Centre de compétences sur les marchés publics durables (KNB</a>) met à disposition des informations concernant la législation, la réglementation, les orientations et des exemples provenant des administrations fédérale, étatique et locale. Le KNB possède également un service d’assistance depuis lequel il fournit une aide sur mesure par téléphone et par courriel.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+Ce service d’assistance, comme les autres mécanismes d’assistance conçus en vue de la mise en place de marchés publics durables et ouverts, peut être rendu facilement accessible par la création d’un centre d’information regroupant toutes les ressources disponibles. À titre d’exemple, le [Centre de compétences sur les marchés publics durables (KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) met à disposition des informations concernant la législation, la réglementation, les orientations et des exemples provenant des administrations fédérale, étatique et locale. Le KNB possède également un service d’assistance depuis lequel il fournit une aide sur mesure par téléphone et par courriel.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources</strong></span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://sftool.gov/greenprocurement" class="notion-link link" target="_blank" rel="noopener noreferrer">Administration des services généraux des États-Unis, </a><a href="https://sftool.gov/greenprocurement" class="notion-link link" target="_blank" rel="noopener noreferrer"><em>Sustainable Facilities Tool</em></a><a href="https://sftool.gov/greenprocurement" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2022.</a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer">Département de contrôle de la pollution de la Thaïlande, </a><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer"><em>Panier vert</em></a><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2020.</a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link" target="_blank" rel="noopener noreferrer">Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne</a>. <a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer">IHOBE, </a><a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer"><em>Criterios ambientales</em></a><a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2022</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer">Pollution Control Department, Thailand. 2020. Green Cart</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link" target="_blank" rel="noopener noreferrer">Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer">IHOBE. 2022. Environmental Criteria (ES)</a>.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+**Resources**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas
-</strong></span>
-    <p class="notion-text notion-text__content notion-semantic-string">En 2005, le <strong>gouvernement des Pays-Bas</strong> a créé <a href="https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp" class="notion-link link">PIANOo</a>, un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.</p>
-    <p class="notion-text notion-text__content notion-semantic-string">Cet outil contient désormais une section spécifiquement consacrée aux marchés publics durables proposant du matériel d’apprentissage, des orientations et un <a href="https://www.mvicriteria.nl/en" class="notion-link link">outil sur les critères</a></p>
-    <p class="notion-text notion-text__content notion-semantic-string">afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.</p>
-  </div>
-</div>
+- [Administration des services généraux des États-Unis, ](https://sftool.gov/greenprocurement)[*Sustainable Facilities Tool*](https://sftool.gov/greenprocurement)[, 2022.](https://sftool.gov/greenprocurement)
+- [Département de contrôle de la pollution de la Thaïlande, ](http://gp.pcd.go.th/cat-1-ssl)[*Panier vert*](http://gp.pcd.go.th/cat-1-ssl)[, 2020.](http://gp.pcd.go.th/cat-1-ssl)
+- [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html). [IHOBE, ](https://www.ihobe.eus/criterios-ambientales)[*Criterios ambientales*](https://www.ihobe.eus/criterios-ambientales)[, 2022](https://www.ihobe.eus/criterios-ambientales).
+- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
+- [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
+- [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 
-</div>
-</div>
+<div class="notion-text"></div>
+{% endcallout %}
+
+<div class="notion-text"></div>
+
+{% callout gray /assets/images/Notion-others2.png %}
+<strong>Étude de cas
+</strong>
+
+En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp), un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.
+
+Cet outil contient désormais une section spécifiquement consacrée aux marchés publics durables proposant du matériel d’apprentissage, des orientations et un [outil sur les critères](https://www.mvicriteria.nl/en)
+
+afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.
+{% endcallout %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

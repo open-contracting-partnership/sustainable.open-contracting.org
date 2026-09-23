@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green3.png"
 full_width: true
 notion_id: "87ee528db4fe415dab1cb6a584b3ac8d"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.875);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
 ## **What are they?**
 
@@ -33,20 +33,16 @@ Identifying whether distinct regulation applies for certain sectors or public ag
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">When looking at thresholds and sectors with distinct regulation it is <strong>important to check the following:</strong>
-</span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">Whether there is <strong>special guidance for conducting below threshold procurement </strong>and how much autonomy is given to individual authorities to conduct this type of procurement.</li>
-      <li class="notion-list-item notion-semantic-string"><strong>Bilateral Free Trade Agreements </strong>that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. </li>
-    </ul>
-  </div>
-</div>
+{% callout green /assets/images/icons_D_Green8.png %}
+When looking at thresholds and sectors with distinct regulation it is **important to check the following:**<br>
+
+- Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.
+- **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

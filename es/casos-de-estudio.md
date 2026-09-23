@@ -7,17 +7,16 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo. </strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+**En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -97,5 +96,5 @@ notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

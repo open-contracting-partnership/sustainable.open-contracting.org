@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "a50801a104c9467c965b7bf99b78334f"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **Gestión de la sostenibilidad a lo largo del contrato**
 
@@ -19,19 +19,16 @@ Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección, incluimos algunos de <strong>los mecanismos que se pueden utilizar para monitorear el cumplimiento de los criterios de sostenibilidad durante la implementación del contrato</strong>. El establecimiento de estos mecanismos <strong>es esencial para garantizar que se cumpla el propósito de introducir criterios de sostenibilidad y recopilar los datos necesarios para medir el progreso en relación con los</strong> objetivos más amplios que se han establecido como parte de la estrategia de CPS Abierta.</span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar para monitorear el cumplimiento de los criterios de sostenibilidad durante la implementación del contrato**. El establecimiento de estos mecanismos **es esencial para garantizar que se cumpla el propósito de introducir criterios de sostenibilidad y recopilar los datos necesarios para medir el progreso en relación con los** objetivos más amplios que se han establecido como parte de la estrategia de CPS Abierta.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.
-
-</strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción. </span></div>
-</div>
+{% callout default /assets/images/7_areas_open_SPP5.png %}
+<strong>Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.
+<br></strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -45,28 +42,15 @@ Todavía estamos aprendiendo qué funciona para mejorar la sostenibilidad y perm
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Enviar cuestionarios durante la implementación</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Enviar cuestionarios durante la implementación** %}
 
 Una forma de monitorear la implementación de los puntos de referencia de CPS durante un contrato es distribuir cuestionarios a los proveedores en los puntos acordados durante la implementación, especialmente si está tratando de obtener cambios de comportamiento o prácticas. Por ejemplo, si como parte del contrato se ha acordado que los proveedores realizarán una cantidad específica de auditorías de su cadena de suministro, o que no superarán un determinado objetivo de emisiones de CO2, se pueden enviar cuestionarios para solicitar información sobre estos requisitos. Los cuestionarios se pueden "enviar" en puntos acordados, requerir información específica e incluir instrucciones sobre qué documentación de verificación se debe adjuntar para evaluar el desempeño.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Reúna la documentación de verificación relativa a los proveedores </strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Reúna la documentación de verificación relativa a los proveedores**  %}
 
 Existen diferentes formas en que los proveedores pueden verificar el desempeño frente a los requisitos de sostenibilidad. Éstos incluyen:
 
@@ -79,92 +63,71 @@ Dependiendo del tipo de contrato, podrá ser difícil recopilar toda la document
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Auditorías de terceros </strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Auditorías de terceros**  %}
 
 Involucrar a terceros para realizar actividades de auditoría puede ser una forma útil de monitorear la implementación. Esto podría ser especialmente relevante en contratos con duraciones más largas, y que podrían requerir recursos más allá de los disponibles para la autoridad de contratación o el proveedor. Por ejemplo, se podría contratar a ONGs para monitorear las condiciones de trabajo a lo largo de la cadena de suministro, o se podrían contratar consultorías ambientales para monitorear factores como las emisiones de CO2 durante los proyectos de construcción.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Organización de grupos de trabajo</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Organización de grupos de trabajo** %}
 
 Las autoridades públicas pueden organizar grupos de trabajo para verificar y monitorear los requisitos de sostenibilidad de los proveedores, especialmente aquellos relacionados con los derechos de los trabajadores. Este grupo de trabajo podría entonces, por ejemplo, planificar inspecciones in situ intermitentes y sin previo aviso, o coordinar otras medidas de desempeño en esta lista.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Utilice actividades de monitoreo de la sociedad civil</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Utilice actividades de monitoreo de la sociedad civil** %}
 
 Otra forma importante de recopilar los datos necesarios para monitorear el desempeño podría ser mediante la participación de la sociedad civil o los usuarios/beneficiarios de un servicio. La colaboración de los ciudadanos o beneficiarios podría luego habilitarse para recopilar datos, por ejemplo, sobre medidas de salud y seguridad, impacto de los proyectos en las comunidades, etc. Esto se puede hacer mediante el uso de foros comunitarios, la apertura de plataformas en línea, la asignación de organizaciones civiles para recopilar información, aplicaciones, etc. Obtenga más información sobre el rol del [monitoreo de acontrataciones aquí](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/) y consulte la [aplicación Development Check](https://integrityaction.org/devcheck/) en Acción de Integridad para mayor iluminación.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Para obtener más ejemplos de cómo monitorear la implementación en contratos de categorías de contrataciones específicas, consulte las secciones sobre construcción y contrataciones de ICT. </span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+Para obtener más ejemplos de cómo monitorear la implementación en contratos de categorías de contrataciones específicas, consulte las secciones sobre construcción y contrataciones de ICT. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey4.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos</strong></span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/" class="notion-link link" target="_blank" rel="noopener noreferrer">Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?</a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/" class="notion-link link" target="_blank" rel="noopener noreferrer">OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.</a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://integrityaction.org/devcheck/" class="notion-link link" target="_blank" rel="noopener noreferrer">Integrity Action. 2022. Development check. </a></li>
-    </ul>
-  </div>
-</div>
+{% callout gray /assets/images/Icons_Grey4.png %}
+**Recursos**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey4.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso</strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>Con el establecimiento del sistema de contrataciones electrónicas ProZorro en Ucrania en 2016, </strong><em><strong>Transparency International </strong></em><strong>Ucrania estableció una red de monitores de adquisiciones de la sociedad civil, llamada DoZorro</strong>. En tres años, esto había aumentado a dos docenas de organizaciones, y más de 2 millones de personas habían visitado el sitio web.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Además, en ese período de tiempo, la comunidad de DoZorro descubrió infracciones en más de 30 000 licitaciones con un valor estimado de $4 mil millones. <strong>Más de 100 000 personas utilizan cada mes su sistema de seguimiento de contraciones y se han corregido infracciones en el 14 % de los casos.</strong></p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Este monitoreo está integrado oficialmente en el sistema de compras electrónicas del gobierno, y los resultados inspiradores han inspirado redes similares en otros países de la región y más allá.</p>
-  </div>
-</div>
+- [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
+- [OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/)
+- [Integrity Action. 2022. Development check. ](https://integrityaction.org/devcheck/)
+{% endcallout %}
+
+<div class="notion-text"></div>
+
+{% callout gray /assets/images/Icons_Grey4.png %}
+**Estudio de caso**
+
+<div class="notion-text"></div>
+
+**Con el establecimiento del sistema de contrataciones electrónicas ProZorro en Ucrania en 2016,** ***Transparency International*** **Ucrania estableció una red de monitores de adquisiciones de la sociedad civil, llamada DoZorro**. En tres años, esto había aumentado a dos docenas de organizaciones, y más de 2 millones de personas habían visitado el sitio web.
+
+<div class="notion-text"></div>
+
+Además, en ese período de tiempo, la comunidad de DoZorro descubrió infracciones en más de 30 000 licitaciones con un valor estimado de $4 mil millones. **Más de 100 000 personas utilizan cada mes su sistema de seguimiento de contraciones y se han corregido infracciones en el 14 % de los casos.**
+
+<div class="notion-text"></div>
+
+Este monitoreo está integrado oficialmente en el sistema de compras electrónicas del gobierno, y los resultados inspiradores han inspirado redes similares en otros países de la región y más allá.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

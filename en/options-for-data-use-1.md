@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "01b28c8f7f334cbe9e429d08f3658195"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Options for data use 
 
@@ -523,7 +523,7 @@ Work with specific industries with known underperforming in sustainability metri
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

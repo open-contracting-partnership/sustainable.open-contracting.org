@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "586e98177fbf4b7292129d79634bea22"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Dar el recurso que usted pidió**
 
@@ -59,7 +59,7 @@ Los comentarios generales de nuestros usuarios son que hay mucha orientación, p
 
 Aunque la contratación sostenible es relativamente nueva para muchos organismos públicos, también hay muchos que han defendido la implementación en los últimos años. En nuestro conjunto de herramientas, incluimos algunos de los mejores estudios de casos que hemos encontrado, con la esperanza de que sirvan de inspiración para los usuarios e incluso los animen a comunicarse y comenzar una discusión
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

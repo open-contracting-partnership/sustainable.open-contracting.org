@@ -7,18 +7,17 @@ icon: "/assets/images/download-circular-button_%281%29.png"
 full_width: true
 notion_id: "b2008e60931f4cb987bfa2533c6ecfde"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.2083333333333334)">
+{% columns %}
+{% column 0.2083 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.75);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats. </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats. 
+{% endcallout %}
 
 <br>**For when you are establishing your framework:**
 
@@ -64,10 +63,10 @@ notion_id: "b2008e60931f4cb987bfa2533c6ecfde"
 
 <div class="notion-text"></div>
 
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 2) * 0.041666666666666685);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.0417 %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

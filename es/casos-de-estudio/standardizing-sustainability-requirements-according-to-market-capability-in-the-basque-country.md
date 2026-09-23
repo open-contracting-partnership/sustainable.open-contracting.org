@@ -6,11 +6,11 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "d0a84c2a4dc24431a8647c1c5f4f9083"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>
@@ -30,5 +30,5 @@ The Basque Country’s <a href="https://www.ihobe.eus/news/75-of-procurement-by-
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

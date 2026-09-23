@@ -24,29 +24,33 @@ notion_id: "ef4ff48d523c49a9828703fcaa7755bb"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8749999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In 2018, The Office of the Comptroller General of the Republic of Peru launched a programme to engage citizens in the process of identifying situations of non-compliance in public works. </strong>This program is called<a href="https://controlsocial.contraloria.gob.pe/monitoresciudadanos/" class="notion-link link"> Monitores Ciudadanos de Control (Citizen Oversight Monitors Program)</a>.</span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>The program offers volunteer citizens a course through which they become accredited to carry out monitoring activities.</strong> Monitoring activities include assessing the <a href="https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Inicio.html?utm_source=controlsociall&amp;utm_medium=otroservicio&amp;utm_campaign=controlsociall" class="notion-link link">information that the government publishes regarding the procurement of public works</a>, and visiting building sites to ensure compliance with contract conditions. Volunteers can then report cases of non-compliance through <a href="https://denunciaweb.contraloria.gob.pe/SAD_WEB/#/AtencionDenuncias?utm_source=controlsociall&amp;utm_medium=homepestana&amp;utm_campaign=formulariodenuncias" class="notion-link link">a government portal.</a> This open government mechanism has made it possible to respond to the population’s key complaints, including: corruption in the execution of works, access to public information, outdated public information systems, and the lack of transparency in relation to the use of public funds.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">I<strong>n 2020, there were over 10,000 accredited volunteers, who had visited over 1,900 public works, and verified access to information in more than 1,000 public investment processes.</strong><a href="https://www.oas.org/es/sap/dgpe/escuelagob/docs/PIGEP%202017-2020/GANADORES%202020/MONITORES%20CIUDADANOS%20PERU.pdf" class="notion-link link"> As a result of these activities</a>, 4,457 alerts have been issued on situations of non-compliance, which have resulted in visits to construction sites and remote monitoring activities. </p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>The program is seen as excellent value for money. It is now managed by 32 employees, and the investment increasing with time from US$17,770 in 2017, to US$87,851 in 2020.</strong></p>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**In 2018, The Office of the Comptroller General of the Republic of Peru launched a programme to engage citizens in the process of identifying situations of non-compliance in public works.** This program is called[ Monitores Ciudadanos de Control (Citizen Oversight Monitors Program)](https://controlsocial.contraloria.gob.pe/monitoresciudadanos/).
+
+<div class="notion-text"></div>
+
+**The program offers volunteer citizens a course through which they become accredited to carry out monitoring activities.** Monitoring activities include assessing the [information that the government publishes regarding the procurement of public works](https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Inicio.html?utm_source=controlsociall&utm_medium=otroservicio&utm_campaign=controlsociall), and visiting building sites to ensure compliance with contract conditions. Volunteers can then report cases of non-compliance through [a government portal.](https://denunciaweb.contraloria.gob.pe/SAD_WEB/#/AtencionDenuncias?utm_source=controlsociall&utm_medium=homepestana&utm_campaign=formulariodenuncias) This open government mechanism has made it possible to respond to the population’s key complaints, including: corruption in the execution of works, access to public information, outdated public information systems, and the lack of transparency in relation to the use of public funds.
+
+<div class="notion-text"></div>
+
+I**n 2020, there were over 10,000 accredited volunteers, who had visited over 1,900 public works, and verified access to information in more than 1,000 public investment processes.**[ As a result of these activities](https://www.oas.org/es/sap/dgpe/escuelagob/docs/PIGEP%202017-2020/GANADORES%202020/MONITORES%20CIUDADANOS%20PERU.pdf), 4,457 alerts have been issued on situations of non-compliance, which have resulted in visits to construction sites and remote monitoring activities. 
+
+<div class="notion-text"></div>
+
+**The program is seen as excellent value for money. It is now managed by 32 employees, and the investment increasing with time from US$17,770 in 2017, to US$87,851 in 2020.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <p class="notion-text notion-text__content notion-semantic-string"> </p>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

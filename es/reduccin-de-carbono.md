@@ -7,21 +7,20 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Ejemplo resuelto: Medición de la reducción de carbono**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección le explicaremos cómo puede usar datos para medir y monitorear el progreso contra el objetivo de promover reducción de carbono mediante contratación.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+En esta sección le explicaremos cómo puede usar datos para medir y monitorear el progreso contra el objetivo de promover reducción de carbono mediante contratación.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -47,20 +46,17 @@ La publicación de buenos datos sobre las emisiones de carbono tiene múltiples 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Utiliza los datos para planificar e implementar acciones inmediatas y directas para reducir las emisiones de carbono de las contrataciones.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Utiliza los datos para planificar e implementar acciones inmediatas y directas para reducir las emisiones de carbono de las contrataciones.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Premia a los proveedores que se comprometan a reducir la intensidad de carbono en sus bienes, obras, servicios y cadena de suministro.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Premia a los proveedores que se comprometan a reducir la intensidad de carbono en sus bienes, obras, servicios y cadena de suministro.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">La publicación y el análisis de buenos datos desbloquearán el aprendizaje y la iteración sobre qué políticas y procesos funcionan para reducir la intensidad de carbono. No puedes administrar lo que no puedes medir.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+La publicación y el análisis de buenos datos desbloquearán el aprendizaje y la iteración sobre qué políticas y procesos funcionan para reducir la intensidad de carbono. No puedes administrar lo que no puedes medir.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -448,5 +444,5 @@ Ver Opción 6</span></div>
 
 <br>A través de los conocimientos adquiridos a partir de los datos, los compradores pueden usar esto para exigir reducciones de carbono en las contrataciones, mientras que los proveedores pueden usar los datos para mejorar sus propias cadenas de suministro y prácticas de trabajo en un esfuerzo por reducir las emisiones.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

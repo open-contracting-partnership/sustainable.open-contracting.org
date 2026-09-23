@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
 notion_id: "a315f9eaaaf047838f081a80136d1b91"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Comment utiliser ce guide pratique ?**
 
@@ -55,7 +55,7 @@ Les équipes responsables des questions de durabilité peuvent utiliser ce guide
 
 Les équipes responsables des données et de l’information peuvent utiliser ce guide pratique pour déterminer quels types de systèmes doivent être mis en place pour faciliter l’élaboration de rapports dans le cadre des marchés publics durables.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

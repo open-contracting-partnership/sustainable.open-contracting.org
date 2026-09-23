@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Exemple : évaluer l’inclusion des genres**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous expliquons comment utiliser les données pour évaluer la participation des entreprises dirigées par des femmes aux processus de passation de marchés.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Dans cette section, nous expliquons comment utiliser les données pour évaluer la participation des entreprises dirigées par des femmes aux processus de passation de marchés.
+{% endcallout %}
 
 ## **De quoi s’agit-il ?**
 
@@ -38,10 +37,9 @@ En 2020, nous avons commencé à approfondir ce sujet afin de déterminer *pourq
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Vous pouvez lire le <a href="https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/" class="notion-link link">rapport complet</a>, un <a href="https://www.open-contracting.org/resources/empower-women-led-business-procurement/" class="notion-link link">résumé</a> ou un <a href="https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/" class="notion-link link">article récapitulatif sur notre blog</a>. Nous avons travaillé avec ONU-Femmes pour préparer une <a href="https://www.open-contracting.org/resources/empowering-women/" class="notion-link link">note de synthèse</a> comprenant davantage d’exemples et des recommandations provenant du monde entier.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green6.png %}
+Vous pouvez lire le [rapport complet](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), un [résumé](https://www.open-contracting.org/resources/empower-women-led-business-procurement/) ou un [article récapitulatif sur notre blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). Nous avons travaillé avec ONU-Femmes pour préparer une [note de synthèse](https://www.open-contracting.org/resources/empowering-women/) comprenant davantage d’exemples et des recommandations provenant du monde entier.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -195,7 +193,7 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 "identifier": "52.838.216",
 
-<strong> "gender": "Femenino"</strong>
+<p class="notion-text notion-text__content notion-semantic-string"><strong> &quot;gender&quot;: &quot;Femenino&quot;</strong></p>
 
 }
 
@@ -239,7 +237,7 @@ In addition to data on whether businesses are women-led, you can use complementa
 
 <div class="notion-text"></div>
 
-- <strong>Use national or statewide data (Option 10) </strong>
+- **Use national or statewide data (Option 10)** 
 
 A legally mandated national or statewide reporting on company ownership or gender pay gaps will confer numerous other benefits to authorities, such as anti-fraud and lobbying controls. This also creates more data that leads to better algorithms to measure outcomes of interventions. For instance, the effect of gender equality mandates in tender specifications can be correlated with gender pay gap over time to better know whether or not these mandates were effective.
 
@@ -636,7 +634,7 @@ Voir, c’est croire. Si des entreprises dirigées par des femmes constatent que
 
 Pour en savoir plus sur les mesures politiques visant à renforcer l’inclusion des genres et découvrir des études de cas provenant du monde entier, consultez [cette note sur les politiques élaborée par ONU-Femmes et Open Contracting Partnership](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf).
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

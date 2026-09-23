@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "de45cb395a9b47d6b0fd727e1015ebaa"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Opciones para el uso de datos**
 
@@ -524,7 +524,7 @@ Trabaje con industrias específicas con bajo rendimiento conocido en métricas d
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

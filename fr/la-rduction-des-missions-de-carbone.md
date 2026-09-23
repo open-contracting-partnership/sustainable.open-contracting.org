@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Exemple : évaluer la réduction des émissions de carbone**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la réduction des émissions de carbone par l’entremise des marchés publics.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la réduction des émissions de carbone par l’entremise des marchés publics.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -44,20 +43,17 @@ La publication de données de qualité relatives aux émissions de carbone a de 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Les données peuvent être utilisées pour planifier et mettre en place une action immédiate et directe visant à réduire les émissions de carbone attribuables aux marchés publics.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Les données peuvent être utilisées pour planifier et mettre en place une action immédiate et directe visant à réduire les émissions de carbone attribuables aux marchés publics.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Il est possible de récompenser les fournisseurs qui s’engagent à réduire l’intensité en carbone de leurs biens, travaux, services et chaînes d’approvisionnement.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Il est possible de récompenser les fournisseurs qui s’engagent à réduire l’intensité en carbone de leurs biens, travaux, services et chaînes d’approvisionnement.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">La publication et l’analyse de données de qualité permettront d’apprendre et de regrouper des connaissances sur les politiques et processus qui contribuent à la réduction de l’intensité en carbone des marchés publics. Vous ne pouvez pas gérer ce que vous ne pouvez pas mesurer.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+La publication et l’analyse de données de qualité permettront d’apprendre et de regrouper des connaissances sur les politiques et processus qui contribuent à la réduction de l’intensité en carbone des marchés publics. Vous ne pouvez pas gérer ce que vous ne pouvez pas mesurer.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -483,5 +479,5 @@ Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons p
 
 <br>Grâce aux informations extraites des données, les acheteurs peuvent exiger des réductions des émissions de carbone dans le cadre des marchés publics, tandis que les fournisseurs peuvent utiliser ces données pour améliorer leurs propres chaînes d’approvisionnement et pratiques afin de réduire les émissions.
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

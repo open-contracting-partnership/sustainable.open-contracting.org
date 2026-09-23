@@ -7,14 +7,13 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>You can use the following outline as the basis for developing your SPP Action Plan Index. </strong>We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in <a href="/cree-un-plan-de-accin" class="notion-link link">this section</a>. </span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+**You can use the following outline as the basis for developing your SPP Action Plan Index.** We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in [this section](/cree-un-plan-de-accin). 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<strong>The outline presented has been adapted from: </strong>[UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) (page 94).
+**The outline presented has been adapted from:** [UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) (page 94).
 
 <div class="notion-divider"></div>
 
@@ -97,17 +96,18 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Download this outline:</strong></span>
-    <div class="notion-text"></div>
-    <div class="notion-pdf">
-      <div class="notion-pdf__content">
-        <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/3203295d-4605-4a7e-a3e7-9887a3496212.pdf"></iframe>
-      </div>
-    </div>
-    <div class="notion-text"></div>
+{% callout green /assets/images/icons_D_Green6.png %}
+**Download this outline:**
+
+<div class="notion-text"></div>
+
+<div class="notion-pdf">
+  <div class="notion-pdf__content">
+    <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/3203295d-4605-4a7e-a3e7-9887a3496212.pdf"></iframe>
   </div>
 </div>
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>

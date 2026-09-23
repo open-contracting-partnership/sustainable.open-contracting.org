@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Grey5.png"
 full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% columns %}
+{% column 0.3125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.6875 %}
 
 # **¿Qué es CPS importante en el sector de Tecnología de la Información y la Comunicación (TIC)?**
 
@@ -27,10 +27,9 @@ Los impactos ambientales asociados con el sector de las TIC también tienen un f
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Esta sección se enfoca en la compra de equipo de hardware, que incluye principalmente <strong>pantallas, notebooks, computadoras de escritorio, PC todo en uno, proyectores, auriculares, equipo de red, dispositivos de almacenamiento de datos, servidores, impresoras y escáneres.</strong></span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey8.png %}
+Esta sección se enfoca en la compra de equipo de hardware, que incluye principalmente **pantallas, notebooks, computadoras de escritorio, PC todo en uno, proyectores, auriculares, equipo de red, dispositivos de almacenamiento de datos, servidores, impresoras y escáneres.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -68,7 +67,7 @@ Los impactos ambientales asociados con el sector de las TIC también tienen un f
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

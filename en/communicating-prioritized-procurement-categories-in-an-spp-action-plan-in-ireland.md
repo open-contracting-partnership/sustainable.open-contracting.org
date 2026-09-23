@@ -23,24 +23,22 @@ notion_id: "cb1c566ab5114abfa612ff1d40ccbd5a"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In 2021 Ireland published its </strong><strong><a href="https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/" class="notion-link link">Green Public Procurement Action Plan</a></strong><strong>.</strong> <strong>The Action Plan prioritizes 8 procurement product/service categories,</strong> which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT. 
-
-<strong>On pages 21 to 57, the Plan includes specific information for each category. </strong>This includes information regarding specific regulations and policies that should be considered to procure more sustainably in each area, specific accreditations available, green tender examples, and key proposed actions for the implementation of green procurement practices. </span></div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**In 2021 Ireland published its [Green Public Procurement Action Plan](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **The Action Plan prioritizes 8 procurement product/service categories,** which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT.
+<br>**On pages 21 to 57, the Plan includes specific information for each category.** This includes information regarding specific regulations and policies that should be considered to procure more sustainably in each area, specific accreditations available, green tender examples, and key proposed actions for the implementation of green procurement practices. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

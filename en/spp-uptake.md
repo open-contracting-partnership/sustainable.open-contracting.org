@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "f6b9fea7045d4268b6a35725f949a001"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # Worked example: Measuring SPP uptake
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In this section we explain how you can use data to measure and monitor progress against the goal of promoting SPP uptake.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+In this section we explain how you can use data to measure and monitor progress against the goal of promoting SPP uptake.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -40,20 +39,17 @@ Government departments around the world are initiating policies and targets that
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Allows governments to demonstrate that new policies are having a meaningful effect on purchasing.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Allows governments to demonstrate that new policies are having a meaningful effect on purchasing.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Clearly shows suppliers that sustainable procurement is a long-term commitment that they need to recognise (and benchmark their own performance).</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Clearly shows suppliers that sustainable procurement is a long-term commitment that they need to recognise (and benchmark their own performance).
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Links policy to procurement through a feedback loop allowing measurement of policy objectives to take place.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Links policy to procurement through a feedback loop allowing measurement of policy objectives to take place.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -329,5 +325,5 @@ In the specific, worked example below, we have included these outcomes, together
 
 <br>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "d901ea3ee0b64273af4f99da32652260"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% columns %}
+{% column 0.3125 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.6875 %}
 
 # Establishing supporting and capability-building mechanisms
 
@@ -23,10 +23,9 @@ However, as we mention in the introduction, implementing SPP means procuring in 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section we introduce some of the mechanisms public authorities can put in place to support procurement officials effectively implement SPP</strong>, together with examples of how they are used across the world.</span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+**In this section we introduce some of the mechanisms public authorities can put in place to support procurement officials effectively implement SPP**, together with examples of how they are used across the world.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -44,10 +43,9 @@ This will be a huge shift in the traditional box ticking, compliance-based appro
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Engagement is not a one-off, you should plan the appropriate and best moments to engage civic and business actors across the entire cycle of planning, tendering, awarding and delivering public contracts. <strong>The golden rule: engage early, engage often. If you don’t design for inclusion and engagement right at the start, it won’t happen.</strong></span></div>
-</div>
+{% callout green /assets/images/icons_D_Green8.png %}
+Engagement is not a one-off, you should plan the appropriate and best moments to engage civic and business actors across the entire cycle of planning, tendering, awarding and delivering public contracts. **The golden rule: engage early, engage often. If you don’t design for inclusion and engagement right at the start, it won’t happen.**
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -59,13 +57,7 @@ Beyond individual tenders, open and sustainable public procurement will need sma
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Capacity-building workshops with procurement practitioners</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Capacity-building workshops with procurement practitioners** %}
 
 Organizing workshops with procurement professionals to inform, contribute to and celebrate share the final[ Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
 
@@ -79,31 +71,17 @@ SPP training sessions can be organized throughout the year to build capabilities
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Sustainability workshops with suppliers</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Sustainability workshops with suppliers** %}
 
 Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](/implement/set-sustainable-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Sustained outreach with civil society, academia and other civic actors Organizations (CSOs)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Sustained outreach with civil society, academia and other civic actors Organizations (CSOs)** %}
 
 Engaging with civil society CSOs across the entire cycle of your action planning and implementation can be key to informing best practices, supporting change and fostering political will and leadership can be helpful for SPP implementation in different ways:
 
@@ -121,13 +99,11 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">More examples and resources for stakeholder engagement can be found on <a href="https://www.open-contracting.org/implement/#engage" class="notion-link link">Open Contracting Partnership’s website</a>.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+More examples and resources for stakeholder engagement can be found on [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage).
+{% endcallout %}
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -137,10 +113,9 @@ Governments buy a huge range of materials and most procurement practitioners don
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">A good example of this guidance is the U.S. General Service Administration’s<a href="https://sftool.gov/greenprocurement" class="notion-link link"> Green Procurement Compilation (GPC) tool</a>, which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+A good example of this guidance is the U.S. General Service Administration’s[ Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -158,10 +133,9 @@ For more guidance on how to use procurement data to create SPP supplier registri
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">An example of a catalog for environmental purchases is Thailand’s<a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link"> Green Cart</a>, which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the<a href="https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf" class="notion-link link"> National Registry of Family Agriculture (RENAF)</a> served as a way<a href="https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean" class="notion-link link"> to facilitate and promote the procurement of food and catering services</a> from this economic group. Another example comes from Chile’s <a href="http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==" class="notion-link link">framework agreement for necessary goods and services in case of emergencies</a>; selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+An example of a catalog for environmental purchases is Thailand’s[ Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the[ National Registry of Family Agriculture (RENAF)](https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf) served as a way[ to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -171,42 +145,36 @@ Changing public procurement processes to allow for the introduction of sustainab
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German<a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link"> Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)</a>, which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German[ Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html), which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources</strong></span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://sftool.gov/greenprocurement" class="notion-link link" target="_blank" rel="noopener noreferrer">U.S. General Service Administration. 2022. Sustainable Facilities Tool</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer">Pollution Control Department, Thailand. 2020. Green Cart</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link" target="_blank" rel="noopener noreferrer">Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer">IHOBE. 2022. Environmental Criteria (ES)</a>.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+**Resources**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Case Study
+- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
+- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
+- [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
+- [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 
-</strong>In 2005, the Government of The Netherlands set up <a href="https://www.pianoo.nl/en" class="notion-link link">PIANOo</a>, <strong>a knowledge network for government procurement officers and contracting authorities. </strong>PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
-</span>
-    <p class="notion-text notion-text__content notion-semantic-string">It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, a<strong>nd a </strong><a href="https://www.mvicriteria.nl/nl" class="notion-link link"><strong>criteria tool</strong></a><strong> for public authorities to identify possible environmental requirements to include in tendering processes.</strong> 
+<div class="notion-text"></div>
+{% endcallout %}
 
-The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners. </p>
-  </div>
-</div>
+<div class="notion-text"></div>
 
-</div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+<strong>Case Study
+<br></strong>In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.<br>
+
+It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, a**nd a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
+<br>The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners. 
+{% endcallout %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

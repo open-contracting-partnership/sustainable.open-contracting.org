@@ -7,10 +7,9 @@ notion_id: "36283b89140341bc9c1dd5f107ac399d"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section <a href="/establezca-un-entorno-habilitante" class="notion-link link">Establish an enabling environment </a>in the <a href="/" class="notion-link link">Open SPP toolkit</a>. </span></div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](/establezca-un-entorno-habilitante)in the [Open SPP toolkit](/). 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -147,14 +146,14 @@ notion_id: "36283b89140341bc9c1dd5f107ac399d"
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Download this checklist:</strong></span>
-    <div class="notion-text"></div>
-    <div class="notion-pdf">
-      <div class="notion-pdf__content">
-        <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/795f74cc-ca78-4df4-9cb0-19bed9785270.pdf"></iframe>
-      </div>
-    </div>
+{% callout green /assets/images/icons_D_Green6.png %}
+**Download this checklist:**
+
+<div class="notion-text"></div>
+
+<div class="notion-pdf">
+  <div class="notion-pdf__content">
+    <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/795f74cc-ca78-4df4-9cb0-19bed9785270.pdf"></iframe>
   </div>
 </div>
+{% endcallout %}

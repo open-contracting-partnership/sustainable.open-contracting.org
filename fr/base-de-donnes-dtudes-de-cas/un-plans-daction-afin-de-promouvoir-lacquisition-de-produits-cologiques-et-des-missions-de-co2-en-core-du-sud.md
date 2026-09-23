@@ -7,22 +7,23 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "9b1ba841e1704c8cb6efae99779a3582"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-fr.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En 2005, le ministère de l’Environnement de la <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&amp;isAllowed=y" class="notion-link link">République de Corée</a> a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques. </span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Deux indicateurs essentiels font l’objet d’un suivi : le nombre d’organisations qui présentent un plan sur les marchés publics écologiques et un rapport d’évaluation dans ce domaine ; et les acquisitions de produits écologiques (en particulier le nombre d’unités, les dépenses concernant des produits assortis d’une éco-étiquette achetés et la proportion par rapport au total des dépenses). L’acquisition de produits écologiques est liée aux produits certifiés par <a href="http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp" class="notion-link link">l’éco-étiquette coréenne</a> et est évaluée pour mesurer les progrès concernant les objectifs de réduction des émissions de CO2 du plan.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">L’Institut coréen de l’industrie et des technologies environnementales a été désigné responsable de la gestion du système de suivi et d’élaboration de rapports. Pour cela, des données sont collectées sur trois plateformes distinctes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données des processus d’achat décentralisés. Afin d’améliorer les résultats, la République de Corée attribue une prime annuelle d’efficacité aux administrations locales, organismes publics et entités publiques locales en fonction de leur ratio de marchés publics écologiques à l’échelle locale et du taux de croissance des marchés publics écologiques.
-</p>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques. 
+
+<div class="notion-text"></div>
+
+Deux indicateurs essentiels font l’objet d’un suivi : le nombre d’organisations qui présentent un plan sur les marchés publics écologiques et un rapport d’évaluation dans ce domaine ; et les acquisitions de produits écologiques (en particulier le nombre d’unités, les dépenses concernant des produits assortis d’une éco-étiquette achetés et la proportion par rapport au total des dépenses). L’acquisition de produits écologiques est liée aux produits certifiés par [l’éco-étiquette coréenne](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp) et est évaluée pour mesurer les progrès concernant les objectifs de réduction des émissions de CO2 du plan.
+
+<div class="notion-text"></div>
+
+L’Institut coréen de l’industrie et des technologies environnementales a été désigné responsable de la gestion du système de suivi et d’élaboration de rapports. Pour cela, des données sont collectées sur trois plateformes distinctes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données des processus d’achat décentralisés. Afin d’améliorer les résultats, la République de Corée attribue une prime annuelle d’efficacité aux administrations locales, organismes publics et entités publiques locales en fonction de leur ratio de marchés publics écologiques à l’échelle locale et du taux de croissance des marchés publics écologiques.<br>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -34,5 +35,5 @@ notion_id: "9b1ba841e1704c8cb6efae99779a3582"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

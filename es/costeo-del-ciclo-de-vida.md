@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
 notion_id: "5cac060e34a845439fd16e421bb2e206"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # **Ejemplo resuelto: Medición del costeo del ciclo de vida**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección explicamos cómo se pueden usar datos para medir y monitorear el progreso contra el objetivo de promover enfoques en el costeo del ciclo de vida en la contratación pública.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+En esta sección explicamos cómo se pueden usar datos para medir y monitorear el progreso contra el objetivo de promover enfoques en el costeo del ciclo de vida en la contratación pública.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -54,20 +53,17 @@ Comprender el costo del ciclo de vida tiene múltiples efectos positivos para aq
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Uso de los datos para demostrar cómo se toma en serio la relación calidad-precio, considerando el largo plazo.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Uso de los datos para demostrar cómo se toma en serio la relación calidad-precio, considerando el largo plazo.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Recompensa a los proveedores y equipos que se comprometen a entregar un producto de alta calidad en lugar de asegurar una venta rápida.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Recompensa a los proveedores y equipos que se comprometen a entregar un producto de alta calidad en lugar de asegurar una venta rápida.
+{% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Una buena información sobre el coste del ciclo de vida significa utilizar menos recursos durante más tiempo y reducir los residuos.</span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+Una buena información sobre el coste del ciclo de vida significa utilizar menos recursos durante más tiempo y reducir los residuos.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -398,7 +394,7 @@ Ver Opción 4</span></div>
   </table>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

@@ -7,20 +7,19 @@ icon: "/assets/images/Icons_Grey.png"
 full_width: true
 notion_id: "af0648dd80f4427691c47c7aba1c1342"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # How can you implement Open SPP in specific sectors?
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes.</strong> This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process. </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+**In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes.** This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -48,7 +47,7 @@ notion_id: "af0648dd80f4427691c47c7aba1c1342"
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

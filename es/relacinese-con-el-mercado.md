@@ -7,11 +7,11 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "fa393ae5a1e3497d89aadb46b3a35f43"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **Relaciónese con el mercado de provedores**
 
@@ -19,10 +19,9 @@ Relacionarse con el mercado de proveedores es importante para todos los procesos
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta sección brindamos</strong> información sobre la importancia de comprometerse con el mercado <strong>y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta</strong>.</span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+**En esta sección brindamos** información sobre la importancia de comprometerse con el mercado **y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta**.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -50,11 +49,10 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.</strong>
- Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales<em>.(The Chicago Council on Global Affairs.)</em></span></div>
-</div>
+{% callout red /assets/images/Icons_Red6.png %}
+**Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.**
+ Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales*.(The Chicago Council on Global Affairs.)*
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -64,13 +62,7 @@ Las prácticas de participación en el mercado pueden variar según las diferent
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><em><strong>Involucrarse durante la preparación de su Plan de Acción CPS</strong></em></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle ***Involucrarse durante la preparación de su Plan de Acción CPS*** %}
 
 Las actividades de relación con el mercado se pueden aplicar a lo largo de los diferentes pasos del diseño de su primer Plan de Acción de una CPS Abierta. Por ejemplo, relacionatse con el mercado es esencial para recopilar los datos necesarios para priorizar las categorías de contrataciones y diseñar criterios de sostenibilidad estandarizados. Los métodos que se pueden utilizar para relacionarse con el mercado durante este proceso pueden incluir:
 
@@ -79,71 +71,52 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 - **Eventos** **de la industria** para conocer mejor la oferta actual de sostenibilidad en diferentes sectores y recopilar información sobre las diferentes opciones de suministro.
 - **Encuestas y cuestionario**s distribuidos en línea, o en eventos y talleres organizados, para evaluar la capacidad del mercado o recopilar comentarios sobre el enfoque de CPS.
 - **Involucrarse con grupos prioritarios de CPS Abiertas**, como PYME, empresas propiedad de mujeres o propiedad de minorías, para comprender las barreras que podrían enfrentar al acceder a oportunidades de contratación pública. Para comprender estas barreras, también puede ser útil comprometerse con la sociedad civil y las organizaciones sin fines de lucro. Los conocimientos recopilados se pueden utilizar para diseñar enfoques de CPS más accesibles.
-- <strong>Comunicar su cartera de proyectos </strong>permitirá a los diferentes proveedores comprender mejor sus necesidades a largo plazo y los posibles requisitos de sostenibilidad. Esto les permitirá prepararse mejor para responder a las oportunidades de contrato a medida que surjan. Hacer esto puede ser particularmente útil para ampliar la participación entre las PYME, que tienden a tener menos recursos de contratación.
+- **Comunicar su cartera de proyectos** permitirá a los diferentes proveedores comprender mejor sus necesidades a largo plazo y los posibles requisitos de sostenibilidad. Esto les permitirá prepararse mejor para responder a las oportunidades de contrato a medida que surjan. Hacer esto puede ser particularmente útil para ampliar la participación entre las PYME, que tienden a tener menos recursos de contratación.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Relacionarse con el mercado de proveedores</strong> al diseñar su primer Plan de Acción de APP <strong>es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible</strong>.</span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+**Relacionarse con el mercado de proveedores** al diseñar su primer Plan de Acción de APP **es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible**.
+{% endcallout %}
 
 <br>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Conectarse durante la fase de planificación de contrataciones</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Conectarse durante la fase de planificación de contrataciones** %}
 
 Las actividades de participación en el mercado realizadas durante la fase de planificación de un proceso de contratación se basarán en las necesidades que se hayan identificado y guiarán las decisiones sobre el diseño y los criterios introducidos en el proceso de contratación. Las actividades de participación en el mercado durante esta etapa se pueden solicitar para:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Realización de estudios de mercado </strong>para evaluar la disponibilidad de las soluciones existentes para resolver las necesidades identificadas de la forma más sostenible</li>
-  <li class="notion-list-item notion-semantic-string"><strong>Evaluación de las opciones de entrega del modelo de servicio</strong>.</li>
-  <li class="notion-list-item notion-semantic-string"><strong>Comenzar a involucrarse en torno a los criterios de selección</strong>, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales. 
-</li>
-</ul>
+- **Realización de estudios de mercado** para evaluar la disponibilidad de las soluciones existentes para resolver las necesidades identificadas de la forma más sostenible
+- **Evaluación de las opciones de entrega del modelo de servicio**.
+- **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales.<br>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Una forma de relacionarse con el mercado durante la fase de planificación es <strong>organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad</strong>. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para <strong>discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.
-</strong></span>
-    <div class="notion-text">
-      <p class="notion-text__content notion-semantic-string">Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).<strong>Conectarse durante la contratación</strong></p>
-      <div class="notion-text__children">
-        <p class="notion-text notion-text__content notion-semantic-string">Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:</p>
-        <div class="notion-text"></div>
-        <ul class="notion-bulleted-list">
-          <li class="notion-list-item notion-semantic-string"><strong>Use a Prior Information Notice (PIN) or a notice of engagement to the market.</strong></li>
-          <p class="notion-text notion-text__content notion-semantic-string">PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</p>
-          <li class="notion-list-item notion-semantic-string"><strong>Finding or developing channels to engage with priority supplier groups.</strong></li>
-          <p class="notion-text notion-text__content notion-semantic-string">Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.</p>
-          <li class="notion-list-item notion-semantic-string"><strong>Facilitate supplier consortia, especially SMEs and priority groups. </strong></li>
-          <p class="notion-text notion-text__content notion-semantic-string">Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.</p>
-          <li class="notion-list-item notion-semantic-string"><strong>Give clear channels for feedback.</strong></li>
-          <p class="notion-text notion-text__content notion-semantic-string">It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.</p>
-        </ul>
-      </div>
-    </div>
+{% callout red /assets/images/Idea_Red.png %}
+Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para <strong>discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.
+</strong>
+
+<div class="notion-text">
+  <p class="notion-text__content notion-semantic-string">Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).<strong>Conectarse durante la contratación</strong></p>
+  <div class="notion-text__children">
+    <p class="notion-text notion-text__content notion-semantic-string">Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:</p>
+    <div class="notion-text"></div>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Use a Prior Information Notice (PIN) or a notice of engagement to the market.</strong></li>
+      <p class="notion-text notion-text__content notion-semantic-string">PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</p>
+      <li class="notion-list-item notion-semantic-string"><strong>Finding or developing channels to engage with priority supplier groups.</strong></li>
+      <p class="notion-text notion-text__content notion-semantic-string">Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.</p>
+      <li class="notion-list-item notion-semantic-string"><strong>Facilitate supplier consortia, especially SMEs and priority groups. </strong></li>
+      <p class="notion-text notion-text__content notion-semantic-string">Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.</p>
+      <li class="notion-list-item notion-semantic-string"><strong>Give clear channels for feedback.</strong></li>
+      <p class="notion-text notion-text__content notion-semantic-string">It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.</p>
+    </ul>
   </div>
 </div>
+{% endcallout %}
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Conectarse durante la contratación</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Conectarse durante la contratación** %}
 
 Una vez usted haya decidido emitir una oferta, existen diferentes métodos que se pueden utilizar para relacionarse con el mercado durante el proceso de licitación, algunos de estos incluyen:
 
@@ -158,37 +131,37 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
   <p class="notion-text notion-text__content notion-semantic-string">También podrá ser útil solicitar comentarios sobre el diseño de la licitación, incluidos los enfoques de contratación utilizados y cómo se han introducido los criterios de sostenibilidad, además de proporcionar comentarios a todos los proveedores una vez que se haya adjudicado la licitación.</p>
 </ul>
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos
-</strong></span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. </a></li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy" class="notion-link link" target="_blank" rel="noopener noreferrer">Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.</a></li>
-    </ul>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+<strong>Recursos
+</strong>
+
+- [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
+- [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso</strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Luego de diez años de operación, <strong>la Ciudad de México buscó expandir su servicio de bicicletas públicas asequible y amigable con el medio ambiente a más vecindarios, actualizar el diseño y la tecnología, y todo a un costo razonable</strong>. La ciudad necesitaba promover la competencia en un mercado concentrado, aprender más sobre las últimas innovaciones y tecnología de bicicletas compartidas y brindar un servicio mejor y más amplio con el mismo presupuesto o menos.</p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Ciudad de México utilizó la contratación abierta para diseñar un proceso de contratación transparente para adquirir una red de bicicletas públicas moderna, ampliada y fácil de usar. La ciudad publicó una Solicitud de información (RFI) por primera vez, solicitando la opinión de los residentes sobre el diseño de bicicletas compartidas, mantuvo múltiples conversaciones con los proveedores y publicó sus hallazgos en un sitio web fácil de usar. <strong>Este enfoque permitió que el equipo y la comunidad de proveedores tomaran decisiones basadas en datos, promovieran la confianza y cumplieran su objetivo.</strong></p>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">El nuevo contrato de la ciudad amplía el servicio de 6500 a 9300 bicicletas y de 480 a 687 estaciones de bicicletas, y actualiza la tecnología y el diseño de bicicletas compartidas de la ciudad para que sean más fáciles de usar, todo a aproximadamente la mitad de los costos operativos del antiguo servicio. Otros departamentos han comenzado a replicar las estrategias de contratación abierta de Ecobici para importantes proyectos públicos estratégicos, y la ciudad también mejoró su sistema de contratación electrónica para ayudar a otros a utilizar el enfoque de <strong>Ecobici para involucrar a proveedores, ciudadanos y organizaciones de la sociedad civil al principio de los procesos de contratación de alta prioridad. Lea más sobre este estudio de caso aquí.</strong></p>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Estudio de caso**
 
-</div>
-</div>
+<div class="notion-text"></div>
+
+Luego de diez años de operación, **la Ciudad de México buscó expandir su servicio de bicicletas públicas asequible y amigable con el medio ambiente a más vecindarios, actualizar el diseño y la tecnología, y todo a un costo razonable**. La ciudad necesitaba promover la competencia en un mercado concentrado, aprender más sobre las últimas innovaciones y tecnología de bicicletas compartidas y brindar un servicio mejor y más amplio con el mismo presupuesto o menos.
+
+<div class="notion-text"></div>
+
+Ciudad de México utilizó la contratación abierta para diseñar un proceso de contratación transparente para adquirir una red de bicicletas públicas moderna, ampliada y fácil de usar. La ciudad publicó una Solicitud de información (RFI) por primera vez, solicitando la opinión de los residentes sobre el diseño de bicicletas compartidas, mantuvo múltiples conversaciones con los proveedores y publicó sus hallazgos en un sitio web fácil de usar. **Este enfoque permitió que el equipo y la comunidad de proveedores tomaran decisiones basadas en datos, promovieran la confianza y cumplieran su objetivo.**
+
+<div class="notion-text"></div>
+
+El nuevo contrato de la ciudad amplía el servicio de 6500 a 9300 bicicletas y de 480 a 687 estaciones de bicicletas, y actualiza la tecnología y el diseño de bicicletas compartidas de la ciudad para que sean más fáciles de usar, todo a aproximadamente la mitad de los costos operativos del antiguo servicio. Otros departamentos han comenzado a replicar las estrategias de contratación abierta de Ecobici para importantes proyectos públicos estratégicos, y la ciudad también mejoró su sistema de contratación electrónica para ayudar a otros a utilizar el enfoque de **Ecobici para involucrar a proveedores, ciudadanos y organizaciones de la sociedad civil al principio de los procesos de contratación de alta prioridad. Lea más sobre este estudio de caso aquí.**
+{% endcallout %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

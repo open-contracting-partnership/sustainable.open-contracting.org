@@ -410,7 +410,7 @@ def main():
                 )
         contents.append(content)
 
-    markdowns, (converted, candidates) = markdown.to_markdown(contents, indent)
+    markdowns, (converted, candidates, tagged) = markdown.to_markdown(contents, indent)
     for (lang, path, data, _), content, text in zip(pages, contents, markdowns):
         extension = ".html" if text is None else ".md"
         filename = ROOT / lang / ((path.strip("/") or "index") + extension)
@@ -418,7 +418,8 @@ def main():
         body = indent(markdown.strip_ids(content)) if text is None else text
         filename.write_text(front_matter(data) + body + "\n")
     print(
-        f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages converted to Markdown"
+        f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages "
+        f"converted to Markdown, {tagged} pages with Liquid tags"
     )
 
     print("links:", dict(links))

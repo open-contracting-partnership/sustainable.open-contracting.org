@@ -7,17 +7,16 @@ icon: "/assets/images/Notion-others.png"
 full_width: true
 notion_id: "bf4b5eec253341eb9c63f52bd68d0790"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-es.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección, incluimos <strong>información sobre las guías y referencias prácticas existentes de Contratación Pública Sostenible (CPS)</strong>. Los recursos disponibles se han clasificado según si brindan orientación o referencias sobre la implementación general de APP, o se enfocan en prácticas específicas de APP, como priorizar categorías de contrataciones o establecer un marco propicio. </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+En esta sección, incluimos **información sobre las guías y referencias prácticas existentes de Contratación Pública Sostenible (CPS)**. Los recursos disponibles se han clasificado según si brindan orientación o referencias sobre la implementación general de APP, o se enfocan en prácticas específicas de APP, como priorizar categorías de contrataciones o establecer un marco propicio. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -1414,7 +1413,7 @@ Compras Públicas Sustentables</div>
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

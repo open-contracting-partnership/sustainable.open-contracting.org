@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.3125000000000001)">
+{% columns %}
+{% column 0.3125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.6874999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.6875 %}
 
 <div class="notion-text"></div>
 
@@ -25,10 +25,9 @@ Como esto puede ser representar un reto para los responsables de la contratació
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green-2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">En esta sección proponemos algunos mecanismos de esta naturaleza, junto con ejemplos de cómo se están utilizando en diferentes partes del mundo.</span></div>
-</div>
+{% callout green /assets/images/Pin_green-2.png %}
+En esta sección proponemos algunos mecanismos de esta naturaleza, junto con ejemplos de cómo se están utilizando en diferentes partes del mundo.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -46,12 +45,11 @@ Esto representa un cambio radical desde las prácticas tradicionales de cumplir 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icon-exclamation.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.</span>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>La regla de oro es: vincular temprano, vincular con frecuencia. Si usted no tiene designios para la vinculación e inclusión desde el inicio, nunca la logrará</strong>.</p>
-  </div>
-</div>
+{% callout green /assets/images/icon-exclamation.png %}
+Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.
+
+**La regla de oro es: vincular temprano, vincular con frecuencia. Si usted no tiene designios para la vinculación e inclusión desde el inicio, nunca la logrará**.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -63,13 +61,7 @@ Más allá de una licitación individual, la contratación abierta y sostenible 
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Talleres para fortalecer capacidades en los responsables de la contratación</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Talleres para fortalecer capacidades en los responsables de la contratación** %}
 
 Para formular el Plan de Acción y maximizar sus beneficios y acogida, será imprescindible organizar talleres con profesionales de la contratación, con el fin de mantenerles informados, hacer aportes al mismo y compartirlo en su versión definitiva.
 
@@ -77,8 +69,7 @@ Asimismo, usted debe planear un relacionamiento sostenido con la comunidad vende
 
 Las sesiones de capacitación en CPS se pueden organizar durante todo el año, con el fin de fortalecer capacidades e incrementar la confianza entre los proveedores. Estos talleres además servirán como oportunidad para compartir mejores prácticas entre los responsables de contratación.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"><strong>Talleres sobre sostenibilidad con los proveedores</strong></p>
@@ -87,34 +78,23 @@ Las sesiones de capacitación en CPS se pueden organizar durante todo el año, c
   </div>
 </div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Relacionamiento sostenido con la sociedad civil, la academia y otras organizaciones cívicas (OSC)</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Relacionamiento sostenido con la sociedad civil, la academia y otras organizaciones cívicas (OSC)** %}
 
 El relacionamiento con las organizaciones de sociedad civil transversal a l ciclo entero de su planeación e implementación de acciones puede ser clave para informarles de mejores prácticas, apoyando el cambio y fomentar la voluntad política y liderazgo; todo lo cual puede ser de mucha ayuda para la implementación de CPS en varios sentidos:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string">Dependiendo del área de enfoque, estas organizaciones pueden aportar orientación en relación con las mejores metas a perseguir, o cómo hacer el mejor diseño del proceso de contratación cuando se trata, por ejemplo, de comprar verde, o promover las PyMES, o integrar la igualdad de género. De este modo, las OSC pueden ayudar a diseñar políticas de CPS lo mismo que preparar y entregar talleres de fortalecimiento de capacidades con los responsables de contratación.</li>
-  <li class="notion-list-item notion-semantic-string">Estas organizaciones igualmente pueden agregar nuevos conocimientos, material y análisis, enlazando datos diferentes transversalmente por las disciplinas, para lograr nuevas visiones. En India, el laboratorio de investigaciones CivicDataLab construyó un modelo de datos que combinaba tres conjuntos de datos más grandes con el fin de hacer monitoreo a las inversiones en alivio de inundaciones y respuestas y niveles de preparación para las mismas y de evaluar hasta dónde estas acciones fortalecen la resiliencia al cambio climático o satisface las necesidades humanitarias más urgentes. La información que consideraban incluyó los datos satelitales y meteorológicos para evaluar la exposición a inundaciones en un área específica, datos socioeconómicos que permitieron entender el grado de vulnerabilidad de la población residentes en áreas susceptibles de inundaciones y datos fiscales como contratos anteriores, con el fin de apreciar cómo el gobierno ha respondido a las inundaciones en el pasado, y dónde se necesitarán intervenciones urgentes en el futuro</li>
-  <li class="notion-list-item notion-semantic-string">Es importante anotar que las organizaciones si te sociedad civil, además de su aporte a la planeación de acciones, puede ayudar en el monitoreo de los resultados de políticas, o de actividades específicas en procesos de contratación. 
-</li>
-</ul>
+- Dependiendo del área de enfoque, estas organizaciones pueden aportar orientación en relación con las mejores metas a perseguir, o cómo hacer el mejor diseño del proceso de contratación cuando se trata, por ejemplo, de comprar verde, o promover las PyMES, o integrar la igualdad de género. De este modo, las OSC pueden ayudar a diseñar políticas de CPS lo mismo que preparar y entregar talleres de fortalecimiento de capacidades con los responsables de contratación.
+- Estas organizaciones igualmente pueden agregar nuevos conocimientos, material y análisis, enlazando datos diferentes transversalmente por las disciplinas, para lograr nuevas visiones. En India, el laboratorio de investigaciones CivicDataLab construyó un modelo de datos que combinaba tres conjuntos de datos más grandes con el fin de hacer monitoreo a las inversiones en alivio de inundaciones y respuestas y niveles de preparación para las mismas y de evaluar hasta dónde estas acciones fortalecen la resiliencia al cambio climático o satisface las necesidades humanitarias más urgentes. La información que consideraban incluyó los datos satelitales y meteorológicos para evaluar la exposición a inundaciones en un área específica, datos socioeconómicos que permitieron entender el grado de vulnerabilidad de la población residentes en áreas susceptibles de inundaciones y datos fiscales como contratos anteriores, con el fin de apreciar cómo el gobierno ha respondido a las inundaciones en el pasado, y dónde se necesitarán intervenciones urgentes en el futuro
+- Es importante anotar que las organizaciones si te sociedad civil, además de su aporte a la planeación de acciones, puede ayudar en el monitoreo de los resultados de políticas, o de actividades específicas en procesos de contratación.<br>
 
 Estas organizaciones pueden monitorear la transparencia e impacto, o la implementación de CPS.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icon-bulb.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Se puede ver más ejemplos y recursos para la vinculación de partes interesadas en <a href="https://www.open-contracting.org/implement/#engage" class="notion-link link">Open Contracting Partnership’s website</a></span></div>
-</div>
+{% callout green /assets/images/icon-bulb.png %}
+Se puede ver más ejemplos y recursos para la vinculación de partes interesadas en [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage)
+{% endcallout %}
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -124,10 +104,9 @@ Los gobiernos compran una inmensa variedad de materiales y la mayoría de los re
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icon-bulb.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Un buen ejemplo de esta orientación es la herramienta de la herramienta <a href="https://sftool.gov/greenprocurement" class="notion-link link">Green Procurement Compilation</a> de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.</span></div>
-</div>
+{% callout green /assets/images/icon-bulb.png %}
+Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -147,10 +126,9 @@ Para más orientación sobre el uso de datos de contratación para la creación 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de <a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link">Tailandia</a>, que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el <a href="https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf" class="notion-link link">Registro Nacional de Agricultura Familiar (RENAF)</a> actúa como facilitador y promotor de <a href="https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean" class="notion-link link">la contratación de alimentos y servicios de abastecimientos</a> a este grupo económico. Otro ejemplo viene de Chile con <a href="https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==" class="notion-link link">su acuerdo marco para bienes y servicios en caso de emergencias</a>; los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de [Tailandia](http://gp.pcd.go.th/cat-1-ssl), que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el [Registro Nacional de Agricultura Familiar (RENAF)](https://www.magyp.gob.ar/sitio/areas/cfa/actividad/2016/_reunion_2/_material/agrifamiliar//000000_ReNAF.pdf) actúa como facilitador y promotor de [la contratación de alimentos y servicios de abastecimientos](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) a este grupo económico. Otro ejemplo viene de Chile con [su acuerdo marco para bienes y servicios en caso de emergencias](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -160,43 +138,42 @@ El cambio de los procesos de contratación pública que se debe gestionar para p
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo desarrollados por la implementación de CPS Abierta, puede ser fácilmente asequible mediante la creación de un punto de información central con todos los recursos disponibles. Un ejemplo de esto es el Centro de Competencia para Contratación Sostenible (<a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link">Kompetenzstelle fur nachhaltige Beschaffung, KNB</a>) de Alemania, que ofrece información en relación con leyes, reglamentos, orientaciones, y ejemplos de las autoridades federales, estatales y locales. Además, el KBN tiene una Mesa de Asistencia Técnica, desde la cual desde ofrece apoyo individualizado por teléfono y correo electrónico.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green6.png %}
+La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo desarrollados por la implementación de CPS Abierta, puede ser fácilmente asequible mediante la creación de un punto de información central con todos los recursos disponibles. Un ejemplo de esto es el Centro de Competencia para Contratación Sostenible ([Kompetenzstelle fur nachhaltige Beschaffung, KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) de Alemania, que ofrece información en relación con leyes, reglamentos, orientaciones, y ejemplos de las autoridades federales, estatales y locales. Además, el KBN tiene una Mesa de Asistencia Técnica, desde la cual desde ofrece apoyo individualizado por teléfono y correo electrónico.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos</strong></span>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://sftool.gov/greenprocurement" class="notion-link link" target="_blank" rel="noopener noreferrer">U.S. General Service Administration. 2022. Sustainable Facilities Tool</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="http://gp.pcd.go.th/cat-1-ssl" class="notion-link link" target="_blank" rel="noopener noreferrer">Pollution Control Department, Thailand. 2020. Green Cart</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html" class="notion-link link" target="_blank" rel="noopener noreferrer">Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)</a>.</li>
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.ihobe.eus/criterios-ambientales" class="notion-link link" target="_blank" rel="noopener noreferrer">IHOBE. 2022. Environmental Criteria (ES)</a>.</li>
-    </ul>
-    <div class="notion-text"></div>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+**Recursos**
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso</strong>
-</span>
-    <p class="notion-text notion-text__content notion-semantic-string">En el año 2005 el gobierno de los Países Bajos instaló el <a href="https://www.pianoo.nl/en" class="notion-link link">PIANOo</a>, <strong>como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación</strong>. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.</p>
-    <p class="notion-text notion-text__content notion-semantic-string">Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y <a href="https://www.mvicriteria.nl/nl" class="notion-link link">una herramienta de criterios.</a></p>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>para las que las autoridades públicas pueden identificar los requisitos ambientales eventuales para ser incluidos el en los procesos de licitación</strong>. El centro de experticio además incluye información sobre las reuniones de intercambio de mejores prácticas entre los responsables de contratación.</p>
-    <div class="notion-text"></div>
-  </div>
-</div>
+- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
+- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
+- [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
+- [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
+
+<div class="notion-text"></div>
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+**Estudio de caso**<br>
+
+En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.
+
+Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y [una herramienta de criterios.](https://www.mvicriteria.nl/nl)
+
+**para las que las autoridades públicas pueden identificar los requisitos ambientales eventuales para ser incluidos el en los procesos de licitación**. El centro de experticio además incluye información sobre las reuniones de intercambio de mejores prácticas entre los responsables de contratación.
+
+<div class="notion-text"></div>
+{% endcallout %}
+
+<div class="notion-text"></div>
+
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

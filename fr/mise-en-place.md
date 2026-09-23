@@ -7,12 +7,12 @@ icon: "/assets/images/icons_D_Green2.png"
 full_width: true
 notion_id: "e04c4d5f89b14bf0b064b4893eb79e82"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2500000000000001)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)">
+{% endcolumn %}
+{% column 0.75 html %}
 <h1 class="notion-heading notion-semantic-string"><strong>Mise en place de l’environnement habilitant</strong></h1>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.</p>
@@ -38,48 +38,40 @@ notion_id: "e04c4d5f89b14bf0b064b4893eb79e82"
 <p class="notion-text notion-text__content notion-semantic-string">Comme cela peut être un obstacle majeur, commencez par évaluer ce que votre environnement habilitant impose ou exige en matière d’évaluation ou de critères d’attribution, qui sont normalement établis à l’échelle nationale ou par une institution internationale si un projet est financé, par exemple, par un programme international d’aide au développement. Nous fournissons des conseils sur les possibilités de mise en place des marchés publics durables en fonction de la législation applicable relative aux critères d’attribution.</p>
 <div class="notion-text"></div>
 <div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Comment mettre en place des marchés publics durables lorsque le prix est le seul critère d’évaluation admissible ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
-
-Beaucoup de méthodes de passation de marchés permettent seulement d’attribuer un marché au soumissionnaire proposant le prix le plus bas. Même dans ce cas, il existe plusieurs possibilités pour prendre en compte des considérations sur la durabilité :
-
-<div class="notion-text"></div>
-
-- **Intégrer des critères de durabilité aux exigences essentielles pour les fournisseurs**
-
-Tout marché public comporte des critères que les soumissionnaires doivent satisfaire pour être pris en considération. On parle souvent de critères essentiels ou de spécifications techniques. Le fait d’intégrer la durabilité à ces critères est une des principales façons d’acheter de façon plus responsable malgré la contrainte de choisir l’offre qui propose le prix le plus bas.
-
-Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections [« Définir des critères de durabilité](https://sustainable.open-contracting.org/implement/set-sustainable-criteria) » et [« Interagir avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market) ».
-
-- **Prendre en compte le coût du cycle de vie**
-
-Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le coût du cycle de vie.
-
-- **Veiller au respect de la réglementation en vigueur en matière de durabilité**
-
-Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de l’Organisation internationale du Travail.
-
-<div class="notion-text"></div>
-
-</div>
+  <div class="notion-toggle__summary">
+    <div class="notion-toggle__trigger">
+      <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+    </div><span class="notion-semantic-string"><strong>Comment mettre en place des marchés publics durables lorsque le prix est le seul critère d’évaluation admissible ?</strong></span>
+  </div>
+  <div class="notion-toggle__content" style="display:none">
+    <p class="notion-text notion-text__content notion-semantic-string">Beaucoup de méthodes de passation de marchés permettent seulement d’attribuer un marché au soumissionnaire proposant le prix le plus bas. Même dans ce cas, il existe plusieurs possibilités pour prendre en compte des considérations sur la durabilité :</p>
+    <div class="notion-text"></div>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Intégrer des critères de durabilité aux exigences essentielles pour les fournisseurs</strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">Tout marché public comporte des critères que les soumissionnaires doivent satisfaire pour être pris en considération. On parle souvent de critères essentiels ou de spécifications techniques. Le fait d’intégrer la durabilité à ces critères est une des principales façons d’acheter de façon plus responsable malgré la contrainte de choisir l’offre qui propose le prix le plus bas.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections <a href="https://sustainable.open-contracting.org/implement/set-sustainable-criteria" class="notion-link link">« Définir des critères de durabilité</a> » et <a href="https://sustainable.open-contracting.org/engage-with-the-market" class="notion-link link">« Interagir avec les acteurs du marché</a> ».</p>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Prendre en compte le coût du cycle de vie</strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez <a href="https://sustainable.open-contracting.org/life-cycle-costing" class="notion-link link">cette section</a> pour en savoir plus sur le coût du cycle de vie.</p>
+    <ul class="notion-bulleted-list">
+      <li class="notion-list-item notion-semantic-string"><strong>Veiller au respect de la réglementation en vigueur en matière de durabilité</strong></li>
+    </ul>
+    <p class="notion-text notion-text__content notion-semantic-string">Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de l’Organisation internationale du Travail.</p>
+    <div class="notion-text"></div>
+  </div>
 </div>
 <div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Comment mettre en place des marchés publics durables lorsque vous pouvez tenir compte d’autres critères que le prix ?</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
-
-Certaines méthodes de passation de marchés vous autorisent à prendre en compte d’autres critères que le prix pour évaluer les offres. Par exemple, en Europe, on retrouve le principe de l’offre économiquement la plus avantageuse ([présenté dans ce document](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32014L0024)).
-
-Dans ce cas, vous pouvez également concevoir des processus d’évaluation de façon à intégrer la durabilité aux critères d’attribution (et adopter les pratiques durables de passation de marchés mentionnées pour les contextes où seul le prix le plus bas peut être pris en considération). Au moment de définir vos critères, il peut être utile de se conformer aux priorités exprimées dans les plans et politiques de durabilité en vigueur à l’échelle nationale et locale (par exemple les objectifs d’élimination des émissions). Pour en savoir plus sur la définition de ces critères, consultez la section [« Définir des critères de durabilité](https://sustainable.open-contracting.org/implement/set-sustainable-criteria) ».
-
-</div>
+  <div class="notion-toggle__summary">
+    <div class="notion-toggle__trigger">
+      <div class="notion-toggle__trigger_icon"><span>‣</span></div>
+    </div><span class="notion-semantic-string"><strong>Comment mettre en place des marchés publics durables lorsque vous pouvez tenir compte d’autres critères que le prix ?</strong></span>
+  </div>
+  <div class="notion-toggle__content" style="display:none">
+    <p class="notion-text notion-text__content notion-semantic-string">Certaines méthodes de passation de marchés vous autorisent à prendre en compte d’autres critères que le prix pour évaluer les offres. Par exemple, en Europe, on retrouve le principe de l’offre économiquement la plus avantageuse (<a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32014L0024" class="notion-link link">présenté dans ce document</a>).</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Dans ce cas, vous pouvez également concevoir des processus d’évaluation de façon à intégrer la durabilité aux critères d’attribution (et adopter les pratiques durables de passation de marchés mentionnées pour les contextes où seul le prix le plus bas peut être pris en considération). Au moment de définir vos critères, il peut être utile de se conformer aux priorités exprimées dans les plans et politiques de durabilité en vigueur à l’échelle nationale et locale (par exemple les objectifs d’élimination des émissions). Pour en savoir plus sur la définition de ces critères, consultez la section <a href="https://sustainable.open-contracting.org/implement/set-sustainable-criteria" class="notion-link link">« Définir des critères de durabilité</a> ».</p>
+  </div>
 </div>
 <p class="notion-text notion-text__content notion-semantic-string"> </p>
 <div class="notion-text"></div>
@@ -152,7 +144,7 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
   <li class="notion-list-item notion-semantic-string"><a href="https://glcn-on-sp.org/home/" class="notion-link link" target="_blank" rel="noopener noreferrer">Global Lead City Network on Sustainable Procurement</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="http://www.igpn.org/index.html" class="notion-link link" target="_blank" rel="noopener noreferrer">International Green Purchasing Network</a></li>
 </ul>
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

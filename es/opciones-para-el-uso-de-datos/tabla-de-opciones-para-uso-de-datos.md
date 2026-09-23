@@ -7,10 +7,9 @@ notion_id: "1708433ec49449dfa1c3213b2d4cd84f"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The following table provides guidance regarding how to use the different data options presented in <a href="/opciones-para-el-uso-de-datos" class="notion-link link">this section</a>, depending on your capacity (i.e. <a href="/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code" class="notion-link link">no code, low code, code</a>). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample <a href="/monitoreo-y-evaluacin/ejemplo-de-marco-me" class="notion-link link">M&amp;E framework</a> and developed as worked examples in <a href="/datos-abiertos-y-progreso-de-medicin" class="notion-link link">this section.</a> </span></div>
-</div>
+{% callout gray /assets/images/Icons_Grey3.png %}
+The following table provides guidance regarding how to use the different data options presented in [this section](/opciones-para-el-uso-de-datos), depending on your capacity (i.e. [no code, low code, code](/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoreo-y-evaluacin/ejemplo-de-marco-me) and developed as worked examples in [this section.](/datos-abiertos-y-progreso-de-medicin) 
+{% endcallout %}
 
 <div class="notion-text"></div>
 

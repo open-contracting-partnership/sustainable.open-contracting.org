@@ -7,12 +7,12 @@ icon: "/assets/images/Icons_Red2.png"
 full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-fr.html %}
 <div class="notion-text"></div>
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
 # **Traduire les exigences de durabilité en obligations contractuelles** 
 
@@ -20,10 +20,9 @@ Une fois que des critères de durabilité ont été clairement établis, il conv
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">L’interaction avec les fournisseurs et la discussion ouverte concernant les obligations et matière de durabilité déboucheront sur des clauses contractuelles plus efficaces qui amélioreront les effets positifs du marché et réduiront au maximum les risques de manquement. Toutefois, ce processus doit également être utilisé pour assurer que les conditions du marché dans son ensemble sont facilement compréhensibles et que les responsabilités essentielles sont comprises par toutes les parties prenantes.</span></div>
-</div>
+{% callout red /assets/images/Icons_Red8.png %}
+L’interaction avec les fournisseurs et la discussion ouverte concernant les obligations et matière de durabilité déboucheront sur des clauses contractuelles plus efficaces qui amélioreront les effets positifs du marché et réduiront au maximum les risques de manquement. Toutefois, ce processus doit également être utilisé pour assurer que les conditions du marché dans son ensemble sont facilement compréhensibles et que les responsabilités essentielles sont comprises par toutes les parties prenantes.
+{% endcallout %}
 
 <h2 class="notion-heading notion-semantic-string">
 <strong>Caractéristiques essentielles des clauses contractuelles</strong></h2>
@@ -33,59 +32,32 @@ Souvent, les clauses contractuelles qui renvoient aux obligations de durabilité
 
 <div class="notion-text"></div>
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Précision : définir des exigences particulières</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Précision : définir des exigences particulières** %}
 
 Cette caractéristique désigne le niveau de détail employé pour décrire les exigences imposées aux fournisseurs en matière de durabilité. Des exigences trop générales nuiront à l’efficacité et au caractère contraignant de la clause contractuelle. Par exemple, si les critères techniques ou les critères d’attribution établissent que le projet ne doit pas dépasser un certain niveau d’émission de CO2 ou qu’une certaine quantité de produits assortis d’une éco-étiquette serait achetée, cela doit apparaître clairement dans le contrat. Ces critères représentent les objectifs dont la réalisation pourra facilement être évaluée.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Contrôle : assurer que le respect des exigences est vérifiable</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Contrôle : assurer que le respect des exigences est vérifiable** %}
 
 Une clause contractuelle efficace doit également présenter les exigences de durabilité comme des « obligations qui feront l’objet d’un contrôle » afin d’ouvrir clairement la voie à des activités visant à vérifier le respect des exigences établies. Les modalités de contrôle doivent être définies avec le fournisseur et peuvent être intégrées à une annexe du contrat. Il est nécessaire de réfléchir à certains facteurs tels que la fréquence des activités de contrôle, qu’elles soient mises en œuvre par le fournisseur ou par un tiers, et la partie qui couvrira le coût. Consultez [cette section](https://sustainable.open-contracting.org/monitor-implementation)
  pour en savoir plus sur les possibilités de contrôle et de suivi.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Contrainte : établir un traitement gradué des manquements constatés</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Contrainte : établir un traitement gradué des manquements constatés** %}
 
 Les clauses contractuelles de durabilité doivent prévoir des conséquences en cas de manquement. Les bonnes pratiques consistent à établir un traitement gradué des manquements constatés. L’élaboration d’un plan de rectification peut être la première étape après la constatation du manquement, suivie si nécessaire d’une suspension du contrat, de sanctions et de la résiliation.
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Couverture : prise en compte des fournisseurs au-delà du rang 1</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Couverture : prise en compte des fournisseurs au-delà du rang 1** %}
 
 La couverture concerne les différentes parties de la chaîne d’approvisionnement à laquelle les clauses font référence. Cela est particulièrement pertinent en ce qui concerne les clauses de responsabilité sociale, qui peuvent exiger du fournisseur qu’il possède un code de conduite, et les activités de suivi tout au long de la chaîne d’approvisionnement.
 
@@ -95,43 +67,27 @@ Il peut être difficile d’appliquer certaines clauses au-delà des entités av
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Contextualisation : adapter les exigences de durabilité à votre contexte</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Contextualisation : adapter les exigences de durabilité à votre contexte** %}
 
 L’un des principaux défis concernant les clauses de durabilité intégrées aux marchés publics est qu’elles sont souvent employées d’une façon normalisée et ne sont pas adaptées à l’objet du marché, au contexte local ou aux capacités du fournisseur. Par exemple, certaines petites et moyennes entreprises n’ont pas toujours les ressources pour réaliser certaines activités de suivi ou participer à des discussions intersectorielles. Les clauses contractuelles faisant abstraction du contexte peuvent créer des contraintes excessives pour les fournisseurs, excluant les plus petites entreprises et générant des difficultés à respecter les obligations.
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Bien que la normalisation des clauses de durabilité puisse faciliter la mise en place de marchés publics durables, vous avez intérêt à assurer que ces clauses prennent en compte des facteurs tels que la taille du fournisseur et les risques en matière de durabilité les plus pertinents dans chaque secteur. Il est important d’assurer une répartition équitable des responsabilités, comme le coût des activités de suivi, afin que la pression ne pèse pas exclusivement sur les fournisseurs, en particulier si vous recherchez des changements durables de comportement.</span></div>
-</div>
+{% callout red /assets/images/Idea_Red.png %}
+Bien que la normalisation des clauses de durabilité puisse faciliter la mise en place de marchés publics durables, vous avez intérêt à assurer que ces clauses prennent en compte des facteurs tels que la taille du fournisseur et les risques en matière de durabilité les plus pertinents dans chaque secteur. Il est important d’assurer une répartition équitable des responsabilités, comme le coût des activités de suivi, afin que la pression ne pèse pas exclusivement sur les fournisseurs, en particulier si vous recherchez des changements durables de comportement.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Cohérence : harmoniser les obligations en matière de durabilité et les obligations commerciales</strong></span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle **Cohérence : harmoniser les obligations en matière de durabilité et les obligations commerciales** %}
 
 Les clauses de durabilité sont souvent perçues comme distinctes des exigences commerciales, ce qui peut parfois entraîner des contradictions lors de l’exécution du marché. Pour surmonter cette difficulté, il est important de garantir que les enjeux de durabilité sont un aspect essentiel du contrat commercial en établissant clairement les objectifs de durabilité, les modalités de collecte de données et les conséquences en cas de manquement.
 
-</div>
-</div>
+{% endtoggle %}
 
 <div class="notion-text"></div>
 
@@ -149,19 +105,16 @@ L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Ressources
-</strong></span>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><a href="https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">EcoVadis et Affectio Mutandi, </a><a href="https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer"><em>Le contrat et les clauses RSE, leviers incontournables de vigilance</em></a><a href="https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2018.</a></li>
-    </ul>
-  </div>
-</div>
+{% callout gray /assets/images/Notion-others.png %}
+<strong>Ressources
+</strong>
+
+- [EcoVadis et Affectio Mutandi, ](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[*Le contrat et les clauses RSE, leviers incontournables de vigilance*](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[, 2018.](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

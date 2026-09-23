@@ -7,11 +7,11 @@ icon: "/assets/images/Notion-Intro_play.png"
 full_width: true
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.25000000000000006)">
+{% columns %}
+{% column 0.25 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7499999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.75 %}
 
 # An introduction to the toolkit
 
@@ -47,10 +47,9 @@ Practitioners realize that they need to buy things in a fundamentally different 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-blue-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro5.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">As you can see on the diagram below, <strong>in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.</strong> We also present the key insights gathered from research with users, and how they have shaped the design of this new resource. </span></div>
-</div>
+{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -81,5 +80,5 @@ Practitioners realize that they need to buy things in a fundamentally different 
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

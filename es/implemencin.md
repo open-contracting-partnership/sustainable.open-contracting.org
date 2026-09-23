@@ -7,16 +7,15 @@ icon: "/assets/images/Notion-Imp_2.png"
 full_width: true
 notion_id: "8697a18f28314a5ba51174fc55a22274"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.2608695652173914)">
+{% columns %}
+{% column 0.2609 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.7391 %}
 
-<div class="notion-callout bg-red-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta segunda sección, le proporcionamos la información que usted necesita para integrar sostenibilidad en un proceso</strong> específico de contratación. Como se puede ver en el diagama a continuación, cada una de las seis subsecciones establece una respuesta and una pregunta clave que puede surgir cuando se considera sostenibilidad durante el ciclo de vida de una contratación.</span></div>
-</div>
+{% callout red /assets/images/Pin_Red.png %}
+**En esta segunda sección, le proporcionamos la información que usted necesita para integrar sostenibilidad en un proceso** específico de contratación. Como se puede ver en el diagama a continuación, cada una de las seis subsecciones establece una respuesta and una pregunta clave que puede surgir cuando se considera sostenibilidad durante el ciclo de vida de una contratación.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -62,7 +61,7 @@ notion_id: "8697a18f28314a5ba51174fc55a22274"
   </div>
 </div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
 
 <div class="notion-text"></div>

@@ -7,15 +7,14 @@ notion_id: "78211b5af9254502aa43120eee8c658d"
 ---
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<strong> 
+{% callout gray /assets/images/Icons_Grey3.png %}
+When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<strong><br>
+This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP. </strong>
 
-This measuring and evaluation (M&amp;E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP. </strong></span>
-    <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">You can find an <a href="https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629" class="notion-link link">editable version</a> of the framework in the <a href="/ressources-pratiques" class="notion-link link">downloadable tools section</a>, which you can duplicate and edit to fit your specific context. </p>
-  </div>
-</div>
+<div class="notion-text"></div>
+
+You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) of the framework in the [downloadable tools section](/ressources-pratiques), which you can duplicate and edit to fit your specific context. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -27,8 +26,8 @@ The M&E framework includes the following section:
 - **Outcomes** - Outcomes are the expected intermediate changes from implementing Open SPP practices. 
 - **Indicators** - Indicators are the metrics needed to measure progress against outcomes.
 - **Information needs** - The information you might need to properly measure the selected indicators. 
-- <strong>Calculation method </strong>- The method and variables required to calculate the selected indicators.
-- <strong>Options for recording the data you need </strong>- Which data recording options, from the ones presented [in section three of this toolkit](/possibilits-dutilisation-des-donnes), can be used to collect the data needed to measure progress against the selected indicator. 
+- **Calculation method** - The method and variables required to calculate the selected indicators.
+- **Options for recording the data you need** - Which data recording options, from the ones presented [in section three of this toolkit](/possibilits-dutilisation-des-donnes), can be used to collect the data needed to measure progress against the selected indicator. 
 
 <div class="notion-text"></div>
 

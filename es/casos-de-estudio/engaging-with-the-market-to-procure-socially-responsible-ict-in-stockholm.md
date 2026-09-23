@@ -7,24 +7,22 @@ icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "a00c23960da9477eae4dc8d1aa00a9e0"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12500000000000006)">
+{% columns %}
+{% column 0.125 html %}
 {% include sidebar-es.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8749999999999999);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.875 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>The Region of Stockholm in Sweden applies environmental requirements for ICT procurement since 2010, and addressing </strong><strong><a href="https://xn--hllbarupphandling-8qb.se/hallbar-upphandling" class="notion-link link">social criteria</a></strong><strong> in contract conditions since 2014. 
+{% callout gray /assets/images/Notion-others2.png %}
+<strong>The Region of Stockholm in Sweden applies environmental requirements for ICT procurement since 2010, and addressing [social criteria](https://xn--hllbarupphandling-8qb.se/hallbar-upphandling) in contract conditions since 2014.
 </strong>
-<a href="https://sustainable-procurement.org/resource-centre/?c=search&amp;uid=c0896ecd" class="notion-link link">Between 2018 and 2019</a> they ran a total of eight ICT procurements, for which they carried out extensive market engagement activities. The aim was to develop the tenders in a way that challenged the suppliers whilst also considering their ability to respond to the social criteria. <strong>The sustainability criteria made up around 30% of the award points (15% environmental and 15% social). </strong>Monitoring activities were carried out both through desktop audits, and factory audits in limited occasions. The Region is affiliated with <a href="https://electronicswatch.org/en" class="notion-link link">Electronics Watch,</a> who provide them with monitoring support. 
-
-Among the different lessons learnt from these tenders, the Region highlighted the<strong> importance of having binding contractual requirements. </strong>However, the market engagement activities showed that <strong>mandatory requirements should only be set if they can be met by around 50% of the suppliers.</strong> For this it is <strong>important to establish a regular open dialogue with suppliers</strong>, both and after the procurement. </span></div>
-</div>
-
-<div class="notion-text"></div>
+[Between 2018 and 2019](https://sustainable-procurement.org/resource-centre/?c=search&uid=c0896ecd) they ran a total of eight ICT procurements, for which they carried out extensive market engagement activities. The aim was to develop the tenders in a way that challenged the suppliers whilst also considering their ability to respond to the social criteria. **The sustainability criteria made up around 30% of the award points (15% environmental and 15% social).** Monitoring activities were carried out both through desktop audits, and factory audits in limited occasions. The Region is affiliated with [Electronics Watch,](https://electronicswatch.org/en) who provide them with monitoring support.
+<br>Among the different lessons learnt from these tenders, the Region highlighted the **importance of having binding contractual requirements.** However, the market engagement activities showed that **mandatory requirements should only be set if they can be met by around 50% of the suppliers.** For this it is **important to establish a regular open dialogue with suppliers**, both and after the procurement. 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+<div class="notion-text"></div>
+
+{% endcolumn %}
+{% endcolumns %}

@@ -35,7 +35,32 @@ Each page is `<lang>/<path>.md`, with front matter:
 
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header. The sidebar is in `_includes/sidebar-<lang>.html`.
 
-Paragraphs, headings, lists, bold, italics and links are Markdown. Other Notion blocks (callouts, toggles, columns, databases, images, etc.) are HTML, in which Markdown is enabled with `markdown="1"`. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. An empty `<div class="notion-text"></div>` is Notion's spacing between blocks.
+Paragraphs, headings, lists, bold, italics and links are Markdown. Callouts, toggles and columns are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+
+```liquid
+{% callout gray /assets/images/Icons_Grey3.png %}
+The callout's **text**.
+
+Other blocks in the callout.
+{% endcallout %}
+
+{% toggle **Step 1:** The toggle's summary %}
+The toggle's content.
+{% endtoggle %}
+
+{% columns %}
+{% column 0.25 html %}
+{% include sidebar-en.html %}
+{% endcolumn %}
+{% column 0.75 %}
+The column's content.
+{% endcolumn %}
+{% endcolumns %}
+```
+
+A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
+
+Other Notion blocks (databases, tables, images, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. An empty `<div class="notion-text"></div>` is Notion's spacing between blocks.
 
 ## How the content was produced
 

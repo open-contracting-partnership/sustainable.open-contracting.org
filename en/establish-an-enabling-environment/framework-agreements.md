@@ -7,11 +7,11 @@ icon: "/assets/images/icons_D_Green3.png"
 full_width: true
 notion_id: "5cae0a6ebe1343c5b8f792aee9383923"
 ---
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
 ## What are they?
 
@@ -25,10 +25,9 @@ Existing Frameworks might complicate the application of SPP practices, so it is 
 
 <div class="notion-text"></div>
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green8.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Remember to also check current compliance agreements in frameworks, including standard template contracts. This will inform the current space given for the introduction of SPP approaches and advise on how to ensure alignment for future framework strategy with SPP priorities.</span></div>
-</div>
+{% callout green /assets/images/icons_D_Green8.png %}
+Remember to also check current compliance agreements in frameworks, including standard template contracts. This will inform the current space given for the introduction of SPP approaches and advise on how to ensure alignment for future framework strategy with SPP priorities.
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -36,5 +35,5 @@ Existing Frameworks might complicate the application of SPP practices, so it is 
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}

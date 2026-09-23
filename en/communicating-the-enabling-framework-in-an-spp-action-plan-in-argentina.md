@@ -24,18 +24,16 @@ notion_id: "d58dc2dd87c34c3aa201e3116d5641de"
   <div class="notion-divider"></div>
 </div>
 
-<div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.12777284826974272)">
+{% columns %}
+{% column 0.1278 html %}
 {% include sidebar-en.html %}
-</div>
-<div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.8722271517302573);margin-inline-start:var(--column-spacing)" markdown="1">
+{% endcolumn %}
+{% column 0.8722 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">In 2017, <strong>Argentina developed their </strong><strong><a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf" class="notion-link link">National Sustainable Public Procurement Plan</a></strong><strong> (ES), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.</strong> The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP. 
-
-At the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. <strong>This includes the </strong><strong><a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm" class="notion-link link">Decree approved in 2016</a></strong><strong> which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation. </strong></span></div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+In 2017, **Argentina developed their [National Sustainable Public Procurement Plan](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf) (ES), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.** The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP.
+<br>At the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. **This includes the [Decree approved in 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm) which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation.** 
+{% endcallout %}
 
 <div class="notion-text"></div>
 
@@ -43,5 +41,5 @@ At the national level, the Plan includes the different regulations, policies, an
 
 <div class="notion-text"></div>
 
-</div>
-</div>
+{% endcolumn %}
+{% endcolumns %}
