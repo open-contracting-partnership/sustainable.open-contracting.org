@@ -32,7 +32,7 @@ sidebar: true
 {% database Votre trajet de la mise en place %}
 {% gallery medium %}
 - title: Introduction
-  link: /introduction-1
+  link: /introduction
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Planification

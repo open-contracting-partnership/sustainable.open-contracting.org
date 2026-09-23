@@ -109,7 +109,7 @@ layout: null
 /a00c23960da9477eae4dc8d1aa00a9e0 /casos-de-estudio/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm 301
 /a01b1dbe4b2b4ee5b93d51e55eed3134 /introduccin/haga-clc-para-ms-informacin 301
 /a08fcfdc88344818a66667e68174b97e /datos-abiertos-y-progreso-de-medicin/haga-clic-aqu-para-ms-informacin 301
-/a2895d9856264842a71877737c547f3c /plan-1 301
+/a2895d9856264842a71877737c547f3c /plan 301
 /a3ca42bea8044160b8c9ee7d2515b582 /inclusin-de-gnero/mujeres-en-internados-empresas-dirigidas-por-mujeres 301
 /a50801a104c9467c965b7bf99b78334f /supervise-la-implementacin 301
 /a5f844fc70ee4079ba6cd3e303849f18 /directorio-de-recursos/sustainability-clauses-in-commercial-contracts-the-key-to-corporate-responsibility 301
@@ -207,11 +207,11 @@ layout: null
 /eb67ed4c3e3042738737d28d3baa31bc /directorio-de-recursos/instructions-for-the-prioritisation-exercise-unep 301
 /ec044dfe861a4d8c87b2416781297eee /sector-ict-en-ingls/recopile-los-datos 301
 /eda4fc3326784fd3bc3e2ce6b0b6fddb /directorio-de-recursos/city-of-cape-town-green-procurement-action-plan 301
-/el-proceso-de-implementacin-open-spp/plan /plan-1 301
-/f0048abe2b0b4cb4acc440586fa3179a /plan-1/para-ms-informacin-debe-consultar-estas-subsecciones 301
+/el-proceso-de-implementacin-open-spp/plan /plan 301
+/f0048abe2b0b4cb4acc440586fa3179a /plan/para-ms-informacin-debe-consultar-estas-subsecciones 301
 /f0fbd48ba2f74f289bfa44633844dd59 /directorio-de-recursos/handbook-for-the-inter-american-network-of-government-procurement-ingp-implementing-sustainable-public-procurement-in-latin-america-and-the-caribbean 301
 /f1ca24e8779e4d5b8ef6e0e166dc9f3b /implemencin/relacionese-con-el-mercado 301
-/f1dff0dd500248b88c92d09e3bab72ab /plan-1 301
+/f1dff0dd500248b88c92d09e3bab72ab /plan 301
 /f21529c2294a45468026637a2c4b615b /casos-de-estudio/promoting-circularity-through-furniture-procurement-in-wales 301
 /f23cf0e9aab3424dae84a18f6de99bb7 /establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin 301
 /f2b8a97b930f47ff803eea458d263c5d /directorio-de-recursos/gpp-training-toolkit 301
@@ -226,7 +226,7 @@ layout: null
 /fe3e0567289c471ab6a3251f5f358d5e /monitoreo-y-evaluacin 301
 /fec74fe3104a47f0bfcfad262e09d2ec /sector-de-la-construccin-en-ingls/seleccione-sus-datos 301
 /gender-inclusion /datos-abiertos-y-progreso-de-medicin/gender-inclusion 301
-/get-started /plan-1 301
+/get-started /plan 301
 /guide-to-ecolabels/abnt-environmental-quality /guas-para-las-ecoetiquetas/abnt-environmental-quality 301
 /guide-to-ecolabels/energy-star /guas-para-las-ecoetiquetas/energy-star 301
 /guide-to-ecolabels/eu-ecolabel /guas-para-las-ecoetiquetas/eu-ecolabel 301
@@ -248,11 +248,16 @@ layout: null
 /open-data-measuring-progress/life-cycle-costing /datos-abiertos-y-progreso-de-medicin/life-cycle-costing 301
 /open-data-measuring-progress/no-code-low-code-code /datos-abiertos-y-progreso-de-medicin/no-code-low-code-code 301
 /open-data-measuring-progress/spp-uptake /adopcin-de-cps 301
-/plan /plan-1 301
+/plan-1 /plan 301
 /plan-1/cree-un-plan-de-accin /cree-un-plan-de-accin 301
 /plan-1/establezca-un-entorno-habilitante /establezca-un-entorno-habilitante 301
 /plan-1/monitoreo-y-evaluacin /monitoreo-y-evaluacin 301
+/plan-1/para-ms-informacin-debe-consultar-estas-subsecciones /plan/para-ms-informacin-debe-consultar-estas-subsecciones 301
 /plan-1/priorice /priorice 301
+/plan/cree-un-plan-de-accin /cree-un-plan-de-accin 301
+/plan/establezca-un-entorno-habilitante /establezca-un-entorno-habilitante 301
+/plan/monitoreo-y-evaluacin /monitoreo-y-evaluacin 301
+/plan/priorice /priorice 301
 /resource-directory/a-guide-to-environmental-labels-for-procurement-practitioners-of-the-united-nations-system /directorio-de-recursos/a-guide-to-environmental-labels-for-procurement-practitioners-of-the-united-nations-system 301
 /resource-directory/best-practice-report-market-engagement /directorio-de-recursos/best-practice-report-market-engagement 301
 /resource-directory/bill-of-quantities-boq-template-european-bank-for-reconstruction-and-development-ebrd /directorio-de-recursos/bill-of-quantities-boq-template-european-bank-for-reconstruction-and-development-ebrd 301
@@ -295,5 +300,5 @@ layout: null
 /your-open-spp-journey/implement /el-proceso-de-implementacin-open-spp/implement 301
 /your-open-spp-journey/introduction /el-proceso-de-implementacin-open-spp/introduction 301
 /your-open-spp-journey/open-data-measuring-progress /el-proceso-de-implementacin-open-spp/open-data-measuring-progress 301
-/your-open-spp-journey/plan /plan-1 301
+/your-open-spp-journey/plan /plan 301
 /your-open-spp-journey/sector-guidance /el-proceso-de-implementacin-open-spp/sector-guidance 301

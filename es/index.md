@@ -33,7 +33,7 @@ sidebar: true
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Plan
-  link: /plan-1
+  link: /plan
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Implement

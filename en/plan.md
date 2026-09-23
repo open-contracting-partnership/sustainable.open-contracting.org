@@ -21,7 +21,7 @@ In this section, **we provide you with all the information you need to get start
   link: /establish-an-enabling-environment
   icon: /assets/images/icons_D_Green2.png
 - title: Prioritize
-  link: /prioritize-1
+  link: /prioritize
   icon: /assets/images/icons_D_Green2.png
 - title: "Monitoring & evaluation "
   link: /monitoring-evaluation

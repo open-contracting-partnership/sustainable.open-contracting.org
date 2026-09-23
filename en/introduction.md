@@ -41,7 +41,7 @@ As you can see on the diagram below, **in this introductory section we provide y
   link: /what-is-open-spp
   icon: /assets/images/Icons_Blue_Intro2.png
 - title: What our users told us
-  link: /what-our-users-told-us-1
+  link: /what-our-users-told-us
   icon: /assets/images/Icons_Blue_Intro2.png
 {% endgallery %}
 {% enddatabase %}

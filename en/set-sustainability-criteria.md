@@ -56,7 +56,7 @@ When considering how to introduce sustainability criteria in a procurement proce
 
 {% toggle **Step 3:** Have any standardized sustainability criteria been created? %}
 
-As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels-1) can serve as guidance. It is also important to check whether public authorities have [given recommendations ](/build-support-and-capabilities)as to what criteria should be included when purchasing specific procurement categories. 
+As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations ](/build-support-and-capabilities)as to what criteria should be included when purchasing specific procurement categories. 
 
 {% callout red /assets/images/Icons_Red8.png %}
 Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition.<strong> </strong>See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.

@@ -43,7 +43,7 @@ Market engagement practices can vary depending on the different stages of the Op
 
 {% toggle **Engaging during the preparation for your SPP Action Plan** %}
 
-Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize-1), and to design [standardized sustainability criteria.](/build-support-and-capabilities) The methods that can be used to engage with the market during this process can include:
+Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize), and to design [standardized sustainability criteria.](/build-support-and-capabilities) The methods that can be used to engage with the market during this process can include:
 
 - **Workshops** with suppliers to present sustainability goals, and gather needed data to assess market capability. 
 - **Online consultations** to allow suppliers to provide feedback on strategic decisions regarding Open SPP, such as the prioritization of procurement categories. 

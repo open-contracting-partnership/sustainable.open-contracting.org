@@ -18,7 +18,7 @@ In this section, we include some of the **mechanisms that can be used to monitor
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
 <strong>Providing clear channels for user and citizen feedback
-<br>One of the key elements of[ Open SPP](/what-is-spp-and-open-spp)</strong> is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/get-started/build-support-and-capacity), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the[ ICT](/ict-sector-1) and[ construction](/construction-sector-1) sectors.
+<br>One of the key elements of[ Open SPP](/what-is-spp-and-open-spp)</strong> is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/get-started/build-support-and-capacity), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the[ ICT](/ict-sector) and[ construction](/construction-sector) sectors.
 {% endcallout %}
 
 ## How can you monitor performance during contract implementation?
@@ -65,7 +65,7 @@ Another important way to gather needed data to monitor performance could be by e
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector-1), and [ICT](/ict-sector-1) procurement. 
+For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement. 
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

@@ -49,7 +49,7 @@ Communicating the result of this exercise in your Action Plan is an opportunity 
 
 {% toggle **Prioritized procurement categories**  %}
 
-In the section [Prioritize](/prioritize-1), we have explained how this can be also useful to guide the development of sustainability criteria, and promote standard, and consistent, implementation of Open SPP. Once you have conducted this exercise, you can communicate the results in your Action Plan, including the following information:
+In the section [Prioritize](/prioritize), we have explained how this can be also useful to guide the development of sustainability criteria, and promote standard, and consistent, implementation of Open SPP. Once you have conducted this exercise, you can communicate the results in your Action Plan, including the following information:
 
 - **Procurement categories which have been prioritized,** as well as transparently sharing the reasons that have led to this decision. 
 - **Guidance regarding sustainability criteria that can be used for each of the prioritized areas.** This can include guidance regarding which regulations, ecolabels, or sustainability requirements, such as energy efficiency, should be included in tender documents. You can also include information regarding where to access this information, as well as including any plans for developing standardized criteria at the national, regional, or local level. 
@@ -132,7 +132,7 @@ Many countries start by working on the implementation of Open SPP in specific in
 
 {% toggle **Procurement categories**  %}
 
-Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/prioritize-1)
+Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/prioritize)
 
 {% endtoggle %}
 

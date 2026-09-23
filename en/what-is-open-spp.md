@@ -14,7 +14,7 @@ Sustainable Public Procurement (SPP) relates to how organizations buy goods and 
 
 {% image /assets/images/D1_-_What_is_SPP-Tri_%283%29.jpg 1920 1080 align-start %}
 
-[We heard from users](/what-our-users-told-us-1) that, often, assessing and delivering better environmental impacts is the most challenging of these three objectives. So whilst we are keeping the wider ‘sustainable procurement’ framing, this guide will focus on approaches to improve environmental sustainability (also known as “green procurement”) without compromising goals related to economic or social sustainability.
+[We heard from users](/what-our-users-told-us) that, often, assessing and delivering better environmental impacts is the most challenging of these three objectives. So whilst we are keeping the wider ‘sustainable procurement’ framing, this guide will focus on approaches to improve environmental sustainability (also known as “green procurement”) without compromising goals related to economic or social sustainability.
 
 **Open SPP is adding an open government and an open data approach to SPP to improve its adoption and impact.** This includes an **open government** approach to include stakeholders in planning and delivering better purchasing, and using **open data** to unlock, share and analyze what is being brought, for whom, and with what SPP outcomes and impacts. Both of these approaches were clear topics that government stakeholders wanted help with.
 

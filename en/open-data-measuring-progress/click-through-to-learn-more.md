@@ -7,7 +7,7 @@ notion_id: bcd7fee021e24e40ba6d27c444f643ef
 ---
 {% gallery medium %}
 - title: Options for data use
-  link: /options-for-data-use-1
+  link: /options-for-data-use
   icon: /assets/images/Icons_Light_Green2.png
 - title: SPP uptake
   link: /spp-uptake

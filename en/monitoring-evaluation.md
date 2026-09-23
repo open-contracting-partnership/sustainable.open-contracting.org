@@ -13,7 +13,7 @@ sidebar: true
 In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. [This framework](/monitoring-evaluation/sample-me-framework) includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
 {% callout green /assets/images/icons_D_Green8.png %}
-It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section.](/downloadable-tools-1)
+It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section.](/downloadable-tools)
 {% endcallout %}
 
 ## What are Goals, Outcomes, and Indicators?

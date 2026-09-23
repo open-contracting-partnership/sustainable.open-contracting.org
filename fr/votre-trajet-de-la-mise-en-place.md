@@ -7,7 +7,7 @@ notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
 ---
 {% gallery medium %}
 - title: Introduction
-  link: /introduction-1
+  link: /introduction
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Planification

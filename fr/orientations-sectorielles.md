@@ -17,10 +17,10 @@ Dans cette section, nous fournissons des conseils spécifiques sur la manière d
 {% database Cliquez sur une section pour en savoir plus %}
 {% gallery medium %}
 - title: La construction (en anglais)
-  link: "https://sustainable.open-contracting.org/construction-sector-1"
+  link: "https://sustainable.open-contracting.org/construction-sector"
   icon: /assets/images/Icons_Grey5.png
 - title: Le secteur TIC (en anglais)
-  link: "https://sustainable.open-contracting.org/ict-sector-1"
+  link: "https://sustainable.open-contracting.org/ict-sector"
   icon: /assets/images/Icons_Grey5.png
 {% endgallery %}
 {% enddatabase %}

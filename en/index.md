@@ -38,7 +38,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Implement
-  link: /implement-1
+  link: /implement
   icon: /assets/images/Icons_Red.png
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: "Open data & measuring progress"
@@ -47,7 +47,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
   cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
   cover_position: 6.48
 - title: Sector guidance
-  link: /sector-guidance-1
+  link: /sector-guidance
   icon: /assets/images/Icons_Grey.png
   cover: /assets/images/PUBLIC_SPP_covers6.png
   cover_position: 89.84

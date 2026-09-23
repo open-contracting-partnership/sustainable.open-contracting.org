@@ -26,7 +26,7 @@ Many countries have specific regulations regarding the management of electronic 
 
 ## Look for existing sustainability standards
 
-Existing sustainability standards, and ecolabels for the ICT sector can help you when deciding [what criteria to set during the procurement process.](/set-sustainability-criteria) For more information on what ecolabels are, the different types, and how they can be used in procurement see [this guide](/guide-to-ecolabels-1). Below we include some of the key standards developed for this sector. 
+Existing sustainability standards, and ecolabels for the ICT sector can help you when deciding [what criteria to set during the procurement process.](/set-sustainability-criteria) For more information on what ecolabels are, the different types, and how they can be used in procurement see [this guide](/guide-to-ecolabels). Below we include some of the key standards developed for this sector. 
 
 {% toggle [**TCO**](https://tcocertified.com/) %}
 

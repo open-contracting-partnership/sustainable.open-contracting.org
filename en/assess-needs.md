@@ -114,7 +114,7 @@ The existing projectors consume a large amount of energy and often break down.
 The Department will consider proposals for leasing the screens under a service contract.”
 {% endcallout %}
 
-The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize-1), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
+The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**

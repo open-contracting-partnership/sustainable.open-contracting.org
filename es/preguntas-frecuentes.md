@@ -48,7 +48,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 - Factores que lo ayudarán a determinar el **impacto de sostenibilidad** de implementar CPS en una categoría específica (como las emisiones de CO2 atribuidas).
 - Factores que le ayudarán a evaluar la **facilidad de implementación** (como la disponibilidad de etiquetas ambientales).
 
-Para obtener más información sobre estos factores, consulte [esta sección](https://sustainable.open-contracting.org/prioritize-1). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+Para obtener más información sobre estos factores, consulte [esta sección](https://sustainable.open-contracting.org/prioritize). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
 
 Este estudio de caso demuestra cómo se puede utilizar una técnica de medición simple para evaluar las categorías de productos según su valor de contratación; la disponibilidad y costo de alternativas sostenibles; y su impacto ambiental, económico y social, para priorizar categorías de productos.
 
@@ -112,7 +112,7 @@ Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolab
 
 Las ecoetiquetas Tipo I y Tipo I generalmente publican los criterios que deben cumplirse para recibir la certificación. Para adquirir de manera más sostenible, puede solicitar a los proveedores que cumplan con los criterios establecidos por una etiqueta específica, o utilizar algunos de los criterios para redactar especificaciones en un contrato.
 
-Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](https://sustainable.open-contracting.org/guide-to-ecolabels-1). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
+Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](https://sustainable.open-contracting.org/guide-to-ecolabels). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
 
 {% endtoggle %}
 

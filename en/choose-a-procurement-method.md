@@ -134,7 +134,7 @@ Throughout this toolkit, we have provided guidance on the use of[ frameworks](/e
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction ](/construction-sector-1)and [ICT](/ict-sector-1). 
+For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction ](/construction-sector)and [ICT](/ict-sector). 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}

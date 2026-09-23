@@ -500,6 +500,27 @@ def body_key(content):
     return content
 
 
+def canonical_paths(paths):
+    """
+    Return new paths for paths with segments that end in a number that Super.so added (e.g. "-1"), without it.
+
+    A parent's new path is its children's, and a path whose new path is another page's (or year's) is kept.
+    """
+    taken = set(paths)
+    renamed = {}
+    for path in sorted(paths, key=lambda path: (path.count("/"), path)):
+        parent, _, segment = path.rpartition("/")
+        parent = renamed.get(parent, parent)
+        stripped = re.sub(r"-\d+$", "", segment)
+        new = f"{parent}/{stripped}"
+        if stripped == segment or re.search(r"-(?:19|20)\d\d$", segment) or new in taken:
+            new = f"{parent}/{segment}"
+        if new != path:
+            taken.add(new)
+            renamed[path] = new
+    return renamed
+
+
 def title_key(data):
     """Return a page's title, ignoring case and spacing."""
     return " ".join(data["title"].split()).casefold()
@@ -671,6 +692,8 @@ def main():
         slugs[(lang, r["pageId"])] = (
             urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
         )
+    renamed = {lang: canonical_paths([path for (language, _), path in slugs.items() if language == lang]) for lang in SITES.values()}
+    slugs = {(lang, page_id): renamed[lang].get(path, path) for (lang, page_id), path in slugs.items()}
 
     # Each live page's number of incoming links on its site, other than breadcrumbs (from itself and its descendants).
     live_paths = {lang: {} for lang in SITES.values()}
@@ -679,10 +702,12 @@ def main():
     for r in canonical:
         lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
         source = urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
+        source = renamed[lang].get(source, source)
         for link in r["links"]:
             url = urllib.parse.urlsplit(link)
             if url.netloc in ("", DOMAINS[lang]):
                 path = url.path.rstrip("/") or "/"
+                path = renamed[lang].get(path, path)
                 if path in live_paths[lang] and not (source + "/").startswith(
                     path.rstrip("/") + "/"
                 ):
@@ -710,7 +735,10 @@ def main():
             ):
                 source = urllib.parse.urlparse(r["url"]).path
                 if source not in ("", "/"):
-                    rules[source] = urllib.parse.urlparse(r["final"]).path
+                    final = urllib.parse.urlparse(r["final"]).path.rstrip("/") or "/"
+                    rules[source] = renamed[lang].get(final, final)
+        # Pages' paths on Super.so redirect to their new paths.
+        rules.update(renamed[lang])
         for source in stale[lang]:
             if target := moved_to(source, live_paths[lang]):
                 rules.setdefault(source, target)
@@ -722,8 +750,10 @@ def main():
     if (ROOT / "link-fixes.csv").exists():
         with (ROOT / "link-fixes.csv").open() as f:
             for row in csv.DictReader(f):
-                if row["target"]:
-                    redirects[row["site"]][row["path"]] = row["target"]
+                # A path can be a page again, if its page's path was canonicalized.
+                if row["target"] and row["path"] not in live_paths[row["site"]]:
+                    target = renamed[row["site"]].get(row["target"], row["target"])
+                    redirects[row["site"]][row["path"]] = target
 
     links = collections.Counter()
     pages = []
@@ -925,6 +955,7 @@ def main():
         lines = [
             f"{source} {target} 301"
             for source, target in sorted(redirects[lang].items())
+            if source != target
         ]
         (ROOT / lang / "_redirects").write_text(
             front_matter({"permalink": "/_redirects", "layout": None})
