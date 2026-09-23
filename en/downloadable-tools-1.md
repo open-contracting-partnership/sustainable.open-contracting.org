@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: "/assets/images/download-circular-button_%281%29.png"
 full_width: true
 notion_id: b2008e60931f4cb987bfa2533c6ecfde
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats. 
 {% endcallout %}
@@ -42,11 +40,3 @@ Throughout the toolkit, we have referenced different practical tools that you ca
 
 - [Policy Brief: Open, Sustainable Government Procurement. For People, Planet and Prosperity](https://www.open-contracting.org/resources/open-sustainable-government-procurement-for-people-planet-and-prosperity/)
 - Video introduction: [How to implement open sustainable public procurement](https://www.youtube.com/watch?v=tUlB2sv-muI)
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

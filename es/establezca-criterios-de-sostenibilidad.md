@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "3c8f1b66434741efb79e0d7f506194f1"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Establezca criterios de sostenibilidad**
 
 {% callout red /assets/images/Pin_Red.png %}
@@ -141,6 +138,3 @@ A partir de este estudio establecieron una serie de medidas para promover la igu
 
 A modo de ejemplo, proponen dar a este factor una ponderación del 15% en la evaluación, y sugieren diferentes formas de evaluación. **Entre ellos se encuentran otorgar la máxima puntuación a empresas lideradas por mujeres, o empresas que demuestren paridad de género en su contratación, mostrando que el % de mujeres contratadas con respecto al total de trabajadores en una misma empresa es superior al 50%.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

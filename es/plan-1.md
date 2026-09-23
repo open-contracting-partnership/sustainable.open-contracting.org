@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-How_to.png
 full_width: true
 notion_id: a2895d9856264842a71877737c547f3c
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout green /assets/images/Pin_green.png %}
 En esta sección **le proporcionamos toda la información necesaria para empezar**. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación.
 
@@ -38,6 +35,3 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
   icon: /assets/images/icons_D_Green2.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

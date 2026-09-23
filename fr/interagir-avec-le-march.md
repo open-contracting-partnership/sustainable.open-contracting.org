@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "3578aad1ed6c48608e9804192cadf910"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Interagir avec les acteurs du marché**
 
 Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels.
@@ -104,6 +101,3 @@ La ville de Mexico a tiré parti des pratiques de la commande publique ouverte p
 
 Le nouveau contrat conclu par la ville a permis d’étendre ce service, passant de 6 500 à 9 300 vélos et de 480 à 687 stations, et de moderniser la technologie et la conception du réseau pour un meilleur confort d’utilisation, le tout pour environ la moitié du coût d’exploitation de l’ancien réseau. D’autres départements ont commencé à reprendre les méthodes du réseau « Ecobici » dans le cadre de projets stratégiques importants du service public et la ville a amélioré son système électronique de passation de marchés afin d’aider d’autres organismes à appliquer **l’approche « Ecobici » pour engager des discussions avec les fournisseurs, la population et les organisations de la société civile dès les premières phases des processus de passation des marchés publics de première importance. Pour en savoir plus, consultez** [**cette étude de cas**](https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/)**.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

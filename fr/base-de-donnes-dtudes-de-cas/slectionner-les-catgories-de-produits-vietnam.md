@@ -6,13 +6,10 @@ cover: /assets/images/Asia_-_Vietnam.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "73637581de2b4be19b226bee6f6cbd39"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 Après l’approbation de sa stratégie nationale pour une croissance verte en 2012, l**e Vietnam[ a utilisé un outil de définition des achats prioritaires](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) dans le cadre des marchés publics en 2015 afin de sélectionner les catégories de produits sur lesquelles concentrer ses efforts en matière de marchés publics durables** avec l’aide du PNUE.
 
@@ -20,6 +17,3 @@ La première étape a consisté à dresser une liste préliminaire de catégorie
 
 À partir de cette méthode de notation, **quatre types de produits ont été sélectionnés comme des catégories prioritaires qui concentreront les efforts en matière de marchés publics durables : la papeterie de bureau, les ordinateurs portables, les lampes fluorescentes et les éclairages à LED.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -6,14 +6,8 @@ cover_position: 6.48
 icon: /assets/images/Icons_Light_Green.png
 full_width: true
 notion_id: "5abfbd0d4f404d8aab2bb221610d3cb9"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
 
-
-
-{% endcolumn %}
-{% endcolumns %}

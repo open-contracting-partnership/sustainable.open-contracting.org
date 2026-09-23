@@ -12,13 +12,10 @@ properties:
     Mexico City: purple
   Scope:
     Local: blue
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 After ten years of operation, **Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.** The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.
 
@@ -26,6 +23,3 @@ After ten years of operation, **Mexico City sought to expand their environmental
 
 The city’s new contract expands the service from 6,500 to 9,300 bikes and from 480 to 687 bike stations, and upgrades the city’s bike share technology and design to be more user-friendly, all at approximately half the operating costs of the old service. Other departments have begun replicating Ecobici’s open contracting strategies for important strategic public projects, and the city also enhanced its electronic procurement system to help others use **Ecobici’s approach for engaging vendors, citizens and civil society organizations early in high-priority procurement processes.** 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

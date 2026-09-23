@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "5cac060e34a845439fd16e421bb2e206"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Ejemplo resuelto: Medición del costeo del ciclo de vida**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -338,6 +335,3 @@ Ver Opción 4</span></div>
     </tbody>
   </table>
 </div>
-
-{% endcolumn %}
-{% endcolumns %}

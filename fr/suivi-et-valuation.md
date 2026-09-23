@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: f12fda4ffb024871bc2f86bd7b237b97
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Suivi et évaluation**
 
 Dans cette section, nous expliquons comment définir les objectifs de durabilité de votre organisation et suivre leur réalisation à l’aide d’indicateurs par l’entremise d’un modèle de cadre de suivi et d’évaluation. [Ce cadre](/ee270b90e9554e35a15e901482260c1f) contient des exemples d’indicateurs visant à faciliter le suivi et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
@@ -96,6 +93,3 @@ Deux indicateurs essentiels font l’objet d’un suivi : le nombre d’organis
 
 L’Institut coréen de l’industrie et des technologies environnementales a été désigné responsable de la gestion du système de suivi et d’élaboration de rapports. Pour cela, des données sont collectées sur trois plateformes distinctes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données des processus d’achat décentralisés. Afin d’améliorer les résultats, la République de Corée attribue une prime annuelle d’efficacité aux administrations locales, organismes publics et entités publiques locales en fonction de leur ratio de marchés publics écologiques à l’échelle locale et du taux de croissance des marchés publics écologiques.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

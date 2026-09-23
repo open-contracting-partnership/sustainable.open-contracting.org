@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey.png
 full_width: true
 notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # ¿Cómo se puede implementar la CPS Abierta en sectores específicos?
 
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -29,6 +26,3 @@ notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
   icon: /assets/images/Icons_Grey5.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

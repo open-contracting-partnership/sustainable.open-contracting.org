@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "6acdc6a4546941279d00b2aa846b58b9"
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Foire aux questions**
 
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -125,11 +123,3 @@ Une croyance erronée pourtant répandue voudrait que l’achat de produits et s
 Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le calcul et la prise en compte du coût du cycle de vie. Parmi les outils pratiques, la [Commission européenne](https://ec.europa.eu/environment/gpp/lcc.htm) a conçu cinq outils de calcul du coût du cycle de vie utilisant Excel concernant plusieurs catégories de marchés (distributeurs automatiques, équipements de traitement de l’image, ordinateurs et écrans, éclairage intérieur et éclairage extérieur). La documentation de ces outils indique comment ils peuvent être utilisés pour évaluer les solutions existantes avant de lancer l’appel d’offres, pour comparer les offres durant l’appel d’offres et pour évaluer l’exécution du marché après la clôture de l’appel d’offres.
 
 {% endtoggle %}
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

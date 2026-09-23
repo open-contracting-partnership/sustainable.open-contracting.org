@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 **En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo.** 
 {% endcallout %}
@@ -164,6 +161,3 @@ notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
   cover_only: true
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

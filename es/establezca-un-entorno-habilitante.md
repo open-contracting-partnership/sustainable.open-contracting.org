@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Establezca un entorno habilitante</strong></h1>
 <p class="notion-text notion-text__content notion-semantic-string">Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país.</p>
 <div class="notion-callout bg-green-light border">
@@ -121,5 +120,4 @@ Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la list
   <li class="notion-list-item notion-semantic-string"><a href="https://glcn-on-sp.org/home/" class="notion-link link" target="_blank" rel="noopener noreferrer">Global Lead City Network on Sustainable Procurement</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="http://www.igpn.org/index.html" class="notion-link link" target="_blank" rel="noopener noreferrer">International Green Purchasing Network (IGPN)</a></li>
 </ul>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

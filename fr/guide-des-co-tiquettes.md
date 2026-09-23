@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey2.png
 full_width: true
 notion_id: fdd9aae286ba4fd39e4c1b62c1154426
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, vous trouverez des renseignements essentiels qui vous aideront à comprendre les éco-étiquettes et le rôle qu’elles peuvent jouer dans la mise en place de marchés publics durables.*
 {% endcallout %}
@@ -110,11 +108,3 @@ items:
   - /guide-des-co-tiquettes/nordic-swan-ecolabel
 {% enddatabase_table %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

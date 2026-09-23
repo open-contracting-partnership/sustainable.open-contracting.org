@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "62de91131c48424bad09f737eac35e8c"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Worked example: Measuring gender inclusion
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -133,6 +130,3 @@ Bidding on public contracts can be expensive. Eliminating or reducing fees for a
 Seeing is believing. If women-led businesses are able to see that small businesses like theirs are bidding on and winning contracts, it will give them more confidence that there is a level playing field and they will be treated fairly.
 
 You can read more about policy measures to improve gender inclusion and case studies from around the world in this [Policy Note by UN Women and OCP.](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf)
-
-{% endcolumn %}
-{% endcolumns %}

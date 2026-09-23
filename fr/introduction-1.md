@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Une introduction au guide
 
 Les préoccupations croissantes concernant les changements climatiques et la durabilité ont incité les gouvernements du monde entier à s’engager à supprimer leurs émissions de carbone, réduire la déforestation et promouvoir des chaînes d’approvisionnement respectueuses de l’environnement.
@@ -50,6 +47,3 @@ Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'intr
   icon: /assets/images/Icons_Blue_Intro2.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

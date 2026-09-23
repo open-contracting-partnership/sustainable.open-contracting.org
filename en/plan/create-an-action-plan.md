@@ -8,14 +8,8 @@ notion_id: "5b4b69a6106d41f598728e70dba28ea3"
 properties:
   "super:Link":
     - "https://sustainable.open-contracting.org/create-an-action-plan": /create-an-action-plan
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
 
-
-
-{% endcolumn %}
-{% endcolumns %}

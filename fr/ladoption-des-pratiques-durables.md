@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "3e5f6ebbb44544b993d1f2aa2e381fd1"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Exemple : évaluer l’adoption des pratiques durables de passation de marchés**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -92,6 +89,3 @@ Dans l’exemple ci-dessous, nous présentons les résultats et les indicateurs 
 {% endtable %}
 
 <p class="notion-text notion-text__content notion-semantic-string"></p>
-
-{% endcolumn %}
-{% endcolumns %}

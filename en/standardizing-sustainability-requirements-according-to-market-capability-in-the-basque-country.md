@@ -12,13 +12,10 @@ properties:
     Europe: pink
   Scope:
     Regional: pink
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>
   <div class="notion-text__children">
@@ -34,6 +31,3 @@ The Basque Country’s <a href="https://www.ihobe.eus/news/75-of-procurement-by-
     </div>
   </div>
 </div>
-
-{% endcolumn %}
-{% endcolumns %}

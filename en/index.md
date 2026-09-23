@@ -7,13 +7,10 @@ cover_position: 83.26
 icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **This toolkit will help you to rethink sustainable public procurement driving better adoption and measurement through an open, data-driven and inclusive approach.** 
 
 <br>**Sustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started.**
@@ -62,6 +59,3 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 {% enddatabase %}
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.984375" height="163.79635416666667" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations.png"/></div>
-
-{% endcolumn %}
-{% endcolumns %}

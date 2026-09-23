@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Exemple : évaluer l’inclusion des genres**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -263,6 +260,3 @@ Répondre à un appel d’offres public peut être coûteux. L’élimination ou
 Voir, c’est croire. Si des entreprises dirigées par des femmes constatent que de petites entreprises comme la leur répondent aux appels d’offres publics et se voient attribuer des marchés publics, elles auront davantage confiance concernant le fait que les conditions de concurrence sont équitables et qu’elles seront évaluées de façon juste.
 
 Pour en savoir plus sur les mesures politiques visant à renforcer l’inclusion des genres et découvrir des études de cas provenant du monde entier, consultez [cette note sur les politiques élaborée par ONU-Femmes et Open Contracting Partnership](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf).
-
-{% endcolumn %}
-{% endcolumns %}

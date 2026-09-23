@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: fdc60ea0ebd048f4b5603e4aec22360d
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Worked example: Measuring life cycle costing
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -133,6 +130,3 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
 {yellow} | Promoting Life-cycle costing approaches | Driving SPP through life cycle costing approaches | Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations | \- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations<br><br>\- Total value of contracts  | Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts  | [Option 1: Assign tags to procurements](/options-for-data-use-1)<br><br>[Option 4: Forecast contract impact](/options-for-data-use-1) |
 {yellow} | Promoting Life-cycle costing approaches | Increasing cost savings through life cycle costing calculations | Value saved by using life cycle calculations to set contract value  | \- Cheapest bid for a particular tender (based on acquisition price)<br><br>\- Projected life cycle cost of cheapest bid<br><br>\- Projected life cycle cost of selected bid  | Projected life cycle cost of cheapest bid - Projected life cycle cost of selected bid  | [Option 4: Forecast contract impact](/options-for-data-use-1) |
 {% endtable %}
-
-{% endcolumn %}
-{% endcolumns %}

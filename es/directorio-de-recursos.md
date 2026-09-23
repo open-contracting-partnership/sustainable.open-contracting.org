@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-others.png
 full_width: true
 notion_id: bf4b5eec253341eb9c63f52bd68d0790
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección, incluimos **información sobre las guías y referencias prácticas existentes de Contratación Pública Sostenible (CPS)**. Los recursos disponibles se han clasificado según si brindan orientación o referencias sobre la implementación general de APP, o se enfocan en prácticas específicas de APP, como priorizar categorías de contrataciones o establecer un marco propicio. 
 {% endcallout %}
@@ -92,6 +89,3 @@ items:
   - /directorio-de-recursos/serving-the-citizens-not-the-bureaucracy-a-strategic-vision-for-city-procurement
 {% enddatabase_table %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

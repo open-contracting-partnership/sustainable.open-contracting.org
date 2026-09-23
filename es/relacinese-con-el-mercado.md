@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: fa393ae5a1e3497d89aadb46b3a35f43
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Relaciónese con el mercado de provedores**
 
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
@@ -128,6 +125,3 @@ Ciudad de México utilizó la contratación abierta para diseñar un proceso de 
 
 El nuevo contrato de la ciudad amplía el servicio de 6500 a 9300 bicicletas y de 480 a 687 estaciones de bicicletas, y actualiza la tecnología y el diseño de bicicletas compartidas de la ciudad para que sean más fáciles de usar, todo a aproximadamente la mitad de los costos operativos del antiguo servicio. Otros departamentos han comenzado a replicar las estrategias de contratación abierta de Ecobici para importantes proyectos públicos estratégicos, y la ciudad también mejoró su sistema de contratación electrónica para ayudar a otros a utilizar el enfoque de **Ecobici para involucrar a proveedores, ciudadanos y organizaciones de la sociedad civil al principio de los procesos de contratación de alta prioridad. Lea más sobre este estudio de caso aquí.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

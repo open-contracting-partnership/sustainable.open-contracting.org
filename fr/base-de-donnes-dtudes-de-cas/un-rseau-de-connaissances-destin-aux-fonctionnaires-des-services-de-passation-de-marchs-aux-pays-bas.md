@@ -6,13 +6,10 @@ cover: /assets/images/Europe_-_Ukraine.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "14ba6145184340de97316d10fed4b422"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp), **un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés** et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.
 
@@ -20,6 +17,3 @@ Cet outil contient désormais une section spécifiquement consacrée aux marché
 
 afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

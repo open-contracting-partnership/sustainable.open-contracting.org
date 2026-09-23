@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: d035741343454fe485c05b64b7bbb745
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.7391 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string">Communicating your first steps in an SPP Action Plan</h1>
 <p class="notion-text notion-text__content notion-semantic-string">Throughout this<a href="/get-started" class="notion-link link"> first section of the toolkit</a>, we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation.</p>
 <p class="notion-text notion-text__content notion-semantic-string">In each of these sections, we have explained the importance of openly communicating your chosen SPP approaches, the reasons behind your decision, and how these will be implemented. An SPP Action Plan is the key way to bring all this together.</p>
@@ -188,5 +187,4 @@ In 2021, the Basque Country published the </strong><strong><a href="https://www.
     </ul>
   </div>
 </div>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "5a5ff6cb32024333aac20f59c3a82acd"
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Open SPP FAQs
 
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -123,11 +121,3 @@ There is a common misconception that procuring sustainable products and services
 For more information on Life Cycle Costing (LCC) see [this section](/life-cycle-costing). For practical tools, the [European Commission](https://ec.europa.eu/environment/gpp/lcc.htm) has developed five LCC excel-based tools for specific product-categories (Vending Machines, Imaging Equipment, Computers and Monitors, Indoor and Outdoor Lighting). The tools include information on how they can be used before tendering to evaluate different solutions, during tendering to compare offers and after tendering to evaluate performance.
 
 {% endtoggle %}
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

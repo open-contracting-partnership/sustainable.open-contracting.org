@@ -398,6 +398,50 @@ def table_view(view, text, items):
     return columns, clickable.pop(), rows
 
 
+COLUMN_TAG = re.compile(r"\{% (end)?(columns|column)\b([^%]*)%\}")
+
+
+def lift_sidebar(text, lang):
+    """
+    Return the column widths and the content column's content, if the page is a sidebar and a content column.
+
+    The layout renders the sidebar. Return None if the page isn't only a sidebar, content and empty columns.
+    """
+    if not text.startswith("{% columns %}\n"):
+        return None
+    depth = 0
+    columns = []
+    for match in COLUMN_TAG.finditer(text):
+        if match.group(2) == "columns":
+            depth += -1 if match.group(1) else 1
+            if depth == 0:
+                if text[match.end() :].strip():
+                    return None
+                break
+        elif depth == 1:
+            if match.group(1):
+                columns[-1][2] = match.start()
+            else:
+                columns.append([match.group(3).split(), match.end(), None])
+    if len(columns) not in (2, 3):
+        return None
+    (sidebar_arguments, sidebar_start, sidebar_end), (arguments, start, end) = columns[
+        :2
+    ]
+    if text[
+        sidebar_start:sidebar_end
+    ].strip() != f"{{% include sidebar-{lang}.html %}}" or sidebar_arguments[1:] != [
+        "html"
+    ]:
+        return None
+    if len(columns) == 3 and text[columns[2][1] : columns[2][2]].strip():
+        return None
+    body = text[start:end].strip()
+    if arguments[1:] == ["html"]:
+        body = "{::nomarkdown}\n" + body + "\n{:/nomarkdown}"
+    return [float(column[0][0]) for column in columns], body
+
+
 def sidebar(content):
     """Return the content of the first column, if it starts with a link to the homepage."""
     match = SIDEBAR.search(content)
@@ -682,6 +726,8 @@ def main():
         filename = ROOT / lang / ((path.strip("/") or "index") + extension)
         filename.parent.mkdir(parents=True, exist_ok=True)
         body = indent(markdown.strip_ids(content)) if text is None else text
+        if text is not None and (lifted := lift_sidebar(text, lang)):
+            data["sidebar"], body = lifted
         filename.write_text(front_matter(data) + body + "\n")
     print(
         f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages "

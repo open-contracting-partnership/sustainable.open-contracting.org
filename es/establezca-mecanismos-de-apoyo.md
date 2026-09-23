@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
+sidebar:
+  - 0.3125
+  - 0.6875
 ---
-{% columns %}
-{% column 0.3125 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.6875 %}
-
 # **Establezca mecanismos de apoyo y fortalecimiento de capacidades**
 
 En esta etapa de planeación de su estrategia para la implementación de CPS, usted ya habrá evaluado lo que puede hacer dentro de su entorno habilitante para contrataciones, y habrá decidido el enfoque de sus esfuerzos, y fijado sus objetivos. Sin embargo, como mencionamos en la introducción, la implementación de CPS significa una modalidad de contratación distinta. 
@@ -120,6 +117,3 @@ Actualmente PIANOo contiene una sección específica de contratación pública s
 
 **para las que las autoridades públicas pueden identificar los requisitos ambientales eventuales para ser incluidos el en los procesos de licitación**. El centro de experticio además incluye información sobre las reuniones de intercambio de mejores prácticas entre los responsables de contratación.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

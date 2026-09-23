@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: a315f9eaaaf047838f081a80136d1b91
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Comment utiliser ce guide pratique ?**
 
 La structure de ce guide pratique suit le déroulement d’un processus de passation de marchés publics durables, des premières étapes visant à faciliter et suivre leur mise en place globale à l’échelle institutionnelle aux aspects qui doivent être pris en compte au moment de mettre en place des marchés publics durables concernant certaines catégories de marchés. Dans la dernière section, nous indiquons comment utiliser des pratiques de la commande publique ouverte et les données ouvertes pour favoriser et évaluer la réalisation d’objectifs de durabilité, comme la réduction des émissions de carbone ou l’égalité entre les genres.
@@ -42,6 +39,3 @@ Les équipes responsables des questions de durabilité peuvent utiliser ce guide
 - **Équipes responsables des données et de l’information**
 
 Les équipes responsables des données et de l’information peuvent utiliser ce guide pratique pour déterminer quels types de systèmes doivent être mis en place pour faciliter l’élaboration de rapports dans le cadre des marchés publics durables.
-
-{% endcolumn %}
-{% endcolumns %}

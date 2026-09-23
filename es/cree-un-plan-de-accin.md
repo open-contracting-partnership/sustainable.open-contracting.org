@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.7391 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>La comunicación de sus primeros pasos en un Plan de Acción de CPS</strong></h1>
 <p class="notion-text notion-text__content notion-semantic-string">A lo largo del conjunto de herramientas hemos examinado algunos de los enfoques clave que usted puede adoptar al considerar la implementación de CPS Abierta. Hemos demostrado cómo se puede evaluar el entorno actual habilitante, como asignar prioridades en contratación, y cómo fijar las metas específicas de CPS eficazmente, con el fin de poder hacer monitoreo del progreso logrado, y lo que usted puede hacer para fortalecer capacidades e incrementar y facilitar su implementación.</p>
 <p class="notion-text notion-text__content notion-semantic-string">En cada una de estas sesiones hemos explicado la importancia de una comunicación abierta del enfoque que haya seleccionado para CPS, las razones subyacentes de su selección, y la manera en la cual se implementará. Un Plan de Acción CPS es el modo clave de reunir todos estos elementos.</p>
@@ -186,5 +185,4 @@ En 2021, el País Vasco en España publicó el</strong> <a href="https://www.iho
     </ul>
   </div>
 </div>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

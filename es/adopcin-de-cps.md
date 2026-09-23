@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "639b93b8abde4b02b97b87d03f26947b"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Ejemplo resuelto: Medición de adopción de CPS
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -90,6 +87,3 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
 {% endtable %}
 
 <p class="notion-text notion-text__content notion-semantic-string"></p>
-
-{% endcolumn %}
-{% endcolumns %}

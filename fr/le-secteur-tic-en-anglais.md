@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "6f197651e77f4ebf9335d79b14b6df4a"
+sidebar:
+  - 0.3125
+  - 0.6875
 ---
-{% columns %}
-{% column 0.3125 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.6875 %}
-
 # Les technologies de l’information et des communications
 
 The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities.
@@ -43,6 +40,3 @@ This section focuses on the purchase of hardware equipment, which mainly include
   icon: /assets/images/Icons_Grey6.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

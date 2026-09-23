@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1d8fd281d39d498ba986659dddc89537"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Exemple : calculer le coût du cycle de vie**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -135,6 +132,3 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
 {yellow} | Promoting Life-cycle costing approaches | Driving SPP through life cycle costing approaches | Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations | \- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations<br><br>\- Total value of contracts  | Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts  | [Option 1: Assign tags to procurements](/possibilits-dutilisation-des-donnes)<br><br>[Option 4: Forecast contract impact](/possibilits-dutilisation-des-donnes) |
 {yellow} | Promoting Life-cycle costing approaches | Increasing cost savings through life cycle costing calculations | Value saved by using life cycle calculations to set contract value  | \- Cheapest bid for a particular tender (based on acquisition price)<br><br>\- Projected life cycle cost of cheapest bid<br><br>\- Projected life cycle cost of selected bid  | Projected life cycle cost of cheapest bid - Projected life cycle cost of selected bid  | [Option 4: Forecast contract impact](/possibilits-dutilisation-des-donnes) |
 {% endtable %}
-
-{% endcolumn %}
-{% endcolumns %}

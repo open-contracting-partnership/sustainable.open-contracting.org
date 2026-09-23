@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Introducción al conjunto de herramientas**
 
 Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles.
@@ -48,6 +45,3 @@ Como podrá ver en el diagrama a continuación, **en esta sección introductoria
   icon: /assets/images/Icons_Blue_Intro2.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

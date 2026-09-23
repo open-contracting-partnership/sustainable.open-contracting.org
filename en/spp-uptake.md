@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: f6b9fea7045d4268b6a35725f949a001
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Worked example: Measuring SPP uptake
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -90,6 +87,3 @@ In the specific, worked example below, we have included these outcomes, together
 {% endtable %}
 
 <p class="notion-text notion-text__content notion-semantic-string"></p>
-
-{% endcolumn %}
-{% endcolumns %}

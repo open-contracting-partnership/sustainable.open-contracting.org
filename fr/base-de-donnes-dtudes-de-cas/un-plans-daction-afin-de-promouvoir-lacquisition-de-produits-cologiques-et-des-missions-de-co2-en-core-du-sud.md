@@ -6,13 +6,10 @@ cover: /assets/images/Asia_-_Korea-2.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9b1ba841e1704c8cb6efae99779a3582"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques. 
 
@@ -20,6 +17,3 @@ Deux indicateurs essentiels font l’objet d’un suivi : le nombre d’organis
 
 L’Institut coréen de l’industrie et des technologies environnementales a été désigné responsable de la gestion du système de suivi et d’élaboration de rapports. Pour cela, des données sont collectées sur trois plateformes distinctes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données des processus d’achat décentralisés. Afin d’améliorer les résultats, la République de Corée attribue une prime annuelle d’efficacité aux administrations locales, organismes publics et entités publiques locales en fonction de leur ratio de marchés publics écologiques à l’échelle locale et du taux de croissance des marchés publics écologiques.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

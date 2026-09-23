@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: de45cb395a9b47d6b0fd727e1015ebaa
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Opciones para el uso de datos**
 
 Hay diferentes formas en que los datos abiertos se pueden utilizar para impulsar y medir el progreso en relación con los objetivos de sostenibilidad. A continuación, incluimos diez formas diferentes en las que puede recopilar y utilizar datos para medir y monitorear la sostenibilidad en las compras.
@@ -148,6 +145,3 @@ Una forma de recopilar los datos necesarios para medir el impacto de sostenibili
 |---|---|---|---|
 | **Opción 10: Use datos nacionales o estatales** | {orange} Escriba a los proveedores solicitando los datos de sostenibilidad necesarios (p. ej., propiedad de la empresa) en un formato legible por máquina como parte de sus declaraciones fiscales o financieras. | {yellow} A través de un formulario en línea, cree un envío automático para completar en ciertos puntos (por ejemplo, con declaraciones de impuestos). | {green} Use algoritmos para crear puntos de referencia y establecer objetivos en torno a objetivos de sostenibilidad (por ejemplo, igualdad de género) para industrias y tamaños de empresas específicos.<br><br>Trabaje con industrias específicas con bajo rendimiento conocido en métricas de sostenibilidad (por ejemplo, bajo empleo de un género) para aumentar la participación y el empoderamiento |
 {% endtable %}
-
-{% endcolumn %}
-{% endcolumns %}

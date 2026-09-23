@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "4b9d33e0df7d4788ac18b1190380efba"
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 ## **What are they?**
 
 Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in [Peru](https://busquedas.elperuano.pe/normaslegales/decreto-legislativo-que-regula-la-promocion-de-la-inversion-decreto-legislativo-n-1362-1672838-2/), and has been proposed in [Chile](https://www.chilecompra.cl/2021/03/hacienda-envia-proyecto-de-ley-de-compras-publicas-para-generar-mas-transparencia-y-competencia-en-las-transacciones-que-realiza-el-estado/)).
@@ -36,6 +33,3 @@ Ensuring that there are provisions that include open disclosure of information o
 {% callout green /assets/images/icons_D_Green6.png %}
 For **more information on market engagement practices** see section [Engage with the supplier market](/relacinese-con-el-mercado). To learn **more about procurement approaches that include ongoing consultation practices**, see section on [Choose a procurement method.](/elija-un-mtodo-de-contratacin)
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

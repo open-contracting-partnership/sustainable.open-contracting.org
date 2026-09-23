@@ -6,13 +6,10 @@ cover: /assets/images/Europe_-_Wales.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: f21529c2294a45468026637a2c4b615b
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture. 
 
@@ -22,6 +19,3 @@ In the end, out of the 2.563 items used in the new office 45% of items were re-u
 
 <br>In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

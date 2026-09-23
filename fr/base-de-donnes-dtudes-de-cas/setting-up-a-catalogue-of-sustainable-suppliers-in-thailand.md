@@ -6,19 +6,13 @@ cover: /assets/images/Asia_-_Thailand.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: d6db66b05b5d45b79bbf46c57defa5c7
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 The Thailand Business Council for Sustainable Development (TBCSD) initiated the Thai Green Label Scheme, in October 1993. **In 1994 the Type I ecolabel Thai [Green Label](https://www.tei.or.th/greenlabel/en/) was launched.** 
 
 In 2005 Green Public Procurement (GPP) started to be actively promoted in the Government of Thailand. **As part of the GPP strategy, a list for green public procurement products called [“Green Cart”](http://gp.pcd.go.th/) was developed.** The Green Cart is both a catalogue and a set of criteria based on the Thai [Green Label](https://www.tei.or.th/greenlabel/en/) (for products) and the [Green Leaf](http://www.greenleafthai.org/en/) (for hotels). Green Cart Criteria covers 17 products, and 5 services.
 <br>Each procuring agency can check whether procuring products satisfy the Green Cart criteria. **These criteria are usually set as essential requirements, and award decisions are mainly based on the lowest cost.** 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

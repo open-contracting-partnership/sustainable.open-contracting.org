@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "07b790b3328a45ee8de80df5e4413a33"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 ## What are they?
 
 As well as including provisions indicating that factors other than price can be considered as award or evaluation criteria, some countries might provide specific guidance on how sustainability might be considered. 
@@ -29,6 +26,3 @@ Based on this study they established a series of measures to promote gender equa
 
 As an example, they propose giving this factor a weighing of 15% in the evaluation, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

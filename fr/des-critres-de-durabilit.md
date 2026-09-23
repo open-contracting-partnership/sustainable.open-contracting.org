@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Définir des critères de durabilité**
 
 {% callout red /assets/images/Pin_Red.png %}
@@ -139,6 +136,3 @@ En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés 
 
 À titre d’exemple, ces dispositions proposent de donner à ce facteur une pondération de 15 % dans l’évaluation et suggèrent différentes modalités d’évaluation. Elles proposent de donner le score maximum aux entreprises dirigées par des femmes ainsi qu’aux entreprises qui ont atteint la parité au sein de leur personnel et pouvant démontrer que le pourcentage de femmes recrutées par rapport l’ensemble du personnel est supérieur à 50 %.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

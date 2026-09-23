@@ -9,14 +9,8 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
     - "https://sustainable.open-contracting.org/79b865ec9e6f42cc957a713b028303cc": /implement-1
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
 
-
-
-{% endcolumn %}
-{% endcolumns %}

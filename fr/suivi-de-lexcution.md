@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: e10550c9408d4537a5b0065517aea46a
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Gérer la durabilité durant l’exécution du marché**
 
 Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](https://sustainable.open-contracting.org/prepare-contract-obligations), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
@@ -93,6 +90,3 @@ Par ailleurs, au cours de cette période, la communauté DoZorro a signalé des 
 
 Plus de 100 000 personnes ont utilisé leur système de surveillance des marchés publics et 14 % des infractions signalées ont été traitées avec succès. Cette surveillance est officiellement intégrée au système de passation électronique de marchés du gouvernement et les résultats obtenus sont une source d’inspiration pour d’autres réseaux similaires dans d’autres pays de la région et au-delà.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

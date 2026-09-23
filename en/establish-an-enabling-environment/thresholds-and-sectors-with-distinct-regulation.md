@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "5d5f781a16dc429cb50810f1e14636ea"
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 ## **What are they?**
 
 Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies.
@@ -33,6 +30,3 @@ When looking at thresholds and sectors with distinct regulation it is **importan
 - Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.
 - **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

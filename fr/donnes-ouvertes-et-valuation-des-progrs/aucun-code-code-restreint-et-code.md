@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green3.png
 full_width: true
 notion_id: "42f4e3f9bfe041a19b32fa24d7134b74"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 ## What do we mean by no code, low code and code?
 
 Different organisations have different capabilities and resources. We describe these environments as no code, low code or code environments based on the publisher’s access to the resources required to create and use computer code.
@@ -30,6 +27,3 @@ Low code environments are where an organisation has access to data via databases
 A code environment has skills to create and maintain databases, they have the ability to collate, process and insert data into a database either using a supplier or their own developers and analysts. It is likely that these organisations have good analytical capability, are familiar with data and have budgets allocated for the creation and management of databases.
 
 Most public sector organisations will probably sit in the low code category, but there are an increasing number of public organisations that recognise the need to have data and development teams located in the heart of their organisations.
-
-{% endcolumn %}
-{% endcolumns %}

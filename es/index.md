@@ -7,13 +7,10 @@ cover_position: 84.77
 icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Este conjunto de herramientas le ayudará a repensar la contratación pública sostenible mediante el impulso de una mejor adopción y medición a través de un enfoque abierto, inclusivo y basado en datos.**
 
 <br>**Contratación sostenible requiere que los gobiernos compren de una forma fundamentalmente diferente. Esperamos que esta caja de herramientas le ayude a comenzar.**
@@ -61,6 +58,3 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 {% enddatabase %}
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="745.4765625" height="173.94453125" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-es.png"/></div>
-
-{% endcolumn %}
-{% endcolumns %}

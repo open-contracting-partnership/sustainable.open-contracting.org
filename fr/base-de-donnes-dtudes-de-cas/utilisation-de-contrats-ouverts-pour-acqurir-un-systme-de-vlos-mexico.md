@@ -6,13 +6,10 @@ cover: /assets/images/LAC_-_CDMX.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: a38e01b3b7d64f44a1f0ccf39b948e12
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 {% callout gray /assets/images/Notion-others2.png %}
 Après dix ans d’exploitation, **la ville de Mexico a décidé d’étendre son réseau écologique et abordable de vélos en libre-service à de nouveaux quartiers et d’améliorer la conception et la technologie utilisée moyennant un coût raisonnable.** La ville avait besoin de promouvoir la compétitivité d’un marché concentré, de se renseigner sur les dernières technologies et innovations concernant les vélos en libre-service et de fournir un service de meilleure qualité sur une zone plus vaste pour un budget identique, voire inférieur.
 
@@ -20,6 +17,3 @@ La ville de Mexico a tiré parti des pratiques de la commande publique ouverte p
 
 Le nouveau contrat conclu par la ville a permis d’étendre ce service, passant de 6 500 à 9 300 vélos et de 480 à 687 stations, et de moderniser la technologie et la conception du réseau pour un meilleur confort d’utilisation, le tout pour environ la moitié du coût d’exploitation de l’ancien réseau. D’autres départements ont commencé à reprendre les méthodes du réseau « Ecobici » dans le cadre de projets stratégiques importants du service public et la ville a amélioré son système électronique de passation de marchés afin d’aider d’autres organismes à appliquer **l’approche « Ecobici » pour engager des discussions avec les fournisseurs, la population et les organisations de la société civile dès les premières phases des processus de passation des marchés publics de première importance. Pour en savoir plus, consultez** [**cette étude de cas**](https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/)**.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

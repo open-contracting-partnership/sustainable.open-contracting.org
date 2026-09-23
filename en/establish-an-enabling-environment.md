@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string">Establishing an enabling environment</h1>
 <p class="notion-text notion-text__content notion-semantic-string">Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country.</p>
 <div class="notion-callout bg-green-light border">
@@ -120,5 +119,4 @@ For a more detailed account of the process, and concepts, introduced on the chec
   <li class="notion-list-item notion-semantic-string"><a href="https://glcn-on-sp.org/home/" class="notion-link link" target="_blank" rel="noopener noreferrer">Global Lead City Network on Sustainable Procurement</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="http://www.igpn.org/index.html" class="notion-link link" target="_blank" rel="noopener noreferrer">International Green Purchasing Network (IGPN)</a></li>
 </ul>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

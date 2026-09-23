@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "36ddabe9fe9743c7ac9d2229b48487e4"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # Translating sustainability into contract obligations 
 
 Once sustainability criteria have been clearly established, it should be translated into contract obligations. This includes establishing how implementation will be monitored, and what are the consequences in case of non-compliance. In order to draft effective contract clauses, these decisions should be openly discussed and agreed upon by the procurement authority and the relevant suppliers. This section introduces some of the key features of successful contract clauses.
@@ -81,6 +78,3 @@ Including these clauses can be crucial for ensuring good quality and value for m
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

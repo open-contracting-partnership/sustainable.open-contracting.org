@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "586e98177fbf4b7292129d79634bea22"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Dar el recurso que usted pidió**
 
 Nos pusimos en contacto con más de 30 profesionales y expertos en compras sostenibles de todo el mundo para ayudar a dar forma a esta guía. Esto incluyó representantes de las autoridades nacionales y órganos de supervisión en diferentes etapas del proceso de la contratación pública sostenible, así como representantes de la sociedad civil y el sector privado. Queríamos entender las barreras clave para los gobiernos en la adopción de la contratación pública sostenible y abierta, y si había brechas en los recursos y enfoques existentes y dónde. Esto es lo que nos dijo y lo que hicimos al respecto:
@@ -44,6 +41,3 @@ Los comentarios generales de nuestros usuarios son que hay mucha orientación, p
 - **¡Ya hay muchas cosas buenas por ahí!**
 
 Aunque la contratación sostenible es relativamente nueva para muchos organismos públicos, también hay muchos que han defendido la implementación en los últimos años. En nuestro conjunto de herramientas, incluimos algunos de los mejores estudios de casos que hemos encontrado, con la esperanza de que sirvan de inspiración para los usuarios e incluso los animen a comunicarse y comenzar una discusión
-
-{% endcolumn %}
-{% endcolumns %}

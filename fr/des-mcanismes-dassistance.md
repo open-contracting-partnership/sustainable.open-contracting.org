@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "7f0e4773d6354fa680272a6066201c35"
+sidebar:
+  - 0.3125
+  - 0.6875
 ---
-{% columns %}
-{% column 0.3125 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.6875 %}
-
 # **Mettre en place des mécanismes d’assistance et de renforcement des capacités**
 
 À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs. 
@@ -118,6 +115,3 @@ Cet outil contient désormais une section spécifiquement consacrée aux marché
 
 afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

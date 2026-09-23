@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "67a3b18325c44d81997e186bac75fc8e"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars. 
 
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -159,6 +156,3 @@ The supplier should also provide information on how this Code of Conduct is tran
 - [HP Development Company. 2020. Purchasing the Resources to help your organisation advance sustainable impact through the power of procurement future you want: A sustainable IT purchasing guide.](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf)
 - [TCO. 2022. Certified product categories. ](https://tcocertified.com/product-categories/)
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

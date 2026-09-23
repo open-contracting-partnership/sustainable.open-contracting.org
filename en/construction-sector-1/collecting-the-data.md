@@ -8,13 +8,10 @@ full_width: true
 notion_id: dc343c6995f04698a91cc4b4f3789d4f
 properties:
   Created: "Feb 9, 2023 7:39 PM"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 Once the key sustainability variables [have been identified](/construction-sector-1/selecting-your-data), it is important to determine how, and when, these will be collected throughout the project. 
 
 The procurement authority can prescribe a specific process on the tendering documents, or it can set certain guidelines that will serve as the basis to negotiate the process with the selected supplier. This process will be part of what is known as the “project’s methodology” and, in any case, it should be clearly defined and signed off by both parties. 
@@ -112,6 +109,3 @@ Monitoring construction projects can require a lot of workforce and, often, publ
   <p class="notion-text notion-text__content notion-semantic-string">Colombia has developed an app in order to promote the citizen control of white elephant projects (neglected, abandoned or over-billed public works projects).</p>
 </ul>
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

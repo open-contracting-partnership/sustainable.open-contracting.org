@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-others.png
 full_width: true
 notion_id: "523c6afd5cae4a12b4ddce3f06263499"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
@@ -92,6 +89,3 @@ items:
   - /rpertoire-de-ressources/serving-the-citizens-not-the-bureaucracy-a-strategic-vision-for-city-procurement
 {% enddatabase_table %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

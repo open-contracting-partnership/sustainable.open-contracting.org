@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Exemple : évaluer la réduction des émissions de carbone**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -133,6 +130,3 @@ Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons p
 {% endtable %}
 
 <br>Grâce aux informations extraites des données, les acheteurs peuvent exiger des réductions des émissions de carbone dans le cadre des marchés publics, tandis que les fournisseurs peuvent utiliser ces données pour améliorer leurs propres chaînes d’approvisionnement et pratiques afin de réduire les émissions.
-
-{% endcolumn %}
-{% endcolumns %}

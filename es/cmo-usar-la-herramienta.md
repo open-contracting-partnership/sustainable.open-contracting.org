@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "454b208316f1423abf4c31db15e5f40f"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **¿Cómo puede usted usar este conjunto de herramientas?**
 
 Este conjunto de herramientas ha sido estructurado siguiendo el proceso de una travesía de la contratación pública abierta y sostenible, desde los primeros pasos que se deben tomar a nivel institucional para facilitar y monitorear la implementación general, hasta los aspectos que se deben considerar al implementar en contratación pública específica. En la última sección, brindamos orientación sobre cómo utilizar prácticas de contratación abierta y datos abiertos para impulsar y medir objetivos de sostenibilidad, como la reducción de carbono o la igualdad de género.
@@ -42,6 +39,3 @@ Los equipos de sostenibilidad pueden utilizar este conjunto de herramientas para
 - **Equipos de datos e inteligencia**
 
 Este conjunto de herramientas puede ser utilizado por equipos de datos e inteligencia para comprender qué sistemas deben configurarse para facilitar las actividades de presentación de informes de la contratación pública abierta y sostenible.
-
-{% endcolumn %}
-{% endcolumns %}

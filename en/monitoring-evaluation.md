@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "210ea7c43360477487736dca15ff5003"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Identifying your sustainability goals and tracking progress
 
 In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. [This framework](/monitoring-evaluation/sample-me-framework) includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
@@ -97,6 +94,3 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 
 The Korea Environmental Industry and Technology Institute (KEITI) has been appointed the responsible authority for managing the reporting and monitoring system. In order to do this, **data is gathered from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform'' (GPIP), created for procurement authorities to upload required data from de-centralised procurement processes.** To incentivize performance, Korea provides an annual performance bonus to local governments, public organizations and local public organizations based on their GPP ratio to local spending, and GPP growth rate.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -1,0 +1,12 @@
+{%- comment -%} The sidebar and the page's content, in columns whose widths are page.sidebar. {%- endcomment -%}
+{%- assign widths = page.sidebar -%}
+{%- assign spacing = widths.size | minus: 1 -%}
+<div class="notion-column-list">
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * {{ spacing }}) * {{ widths[0] }})">{% include sidebar-{{ site.lang }}.html %}</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * {{ spacing }}) * {{ widths[1] }});margin-inline-start:var(--column-spacing)">
+{{ include.content }}
+</div>
+{%- if widths[2] %}
+<div class="notion-column" style="width:calc((100% - var(--column-spacing) * {{ spacing }}) * {{ widths[2] }});margin-inline-start:var(--column-spacing)"></div>
+{%- endif %}
+</div>

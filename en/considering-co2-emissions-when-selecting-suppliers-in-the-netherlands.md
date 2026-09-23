@@ -13,13 +13,10 @@ properties:
     The Netherlands: yellow
   Scope:
     National: gray
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions. 
 
@@ -35,6 +32,3 @@ Organizations can obtain a certificate with their level on the Ladder, which the
 | C | € 10.3 million | 4 | 7% | € 9.58 million | YES: € 10.3 million |
 {% endtable %}
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

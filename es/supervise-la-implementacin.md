@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: a50801a104c9467c965b7bf99b78334f
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Gestión de la sostenibilidad a lo largo del contrato**
 
 Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.  
@@ -90,6 +87,3 @@ Además, en ese período de tiempo, la comunidad de DoZorro descubrió infraccio
 
 Este monitoreo está integrado oficialmente en el sistema de compras electrónicas del gobierno, y los resultados inspiradores han inspirado redes similares en otros países de la región y más allá.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

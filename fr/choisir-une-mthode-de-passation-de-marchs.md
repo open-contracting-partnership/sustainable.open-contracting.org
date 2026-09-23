@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Choisir la bonne méthode de passation de marchés**
 
 La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts.
@@ -152,6 +149,3 @@ Avec l’aide du Government Performance Lab de Harvard, la ville a conçu un out
 
 Grâce à cette approche, la ville a renforcé la compétitivité globale (le nombre de soumissionnaires a augmenté de 38 %) sans augmenter ses coûts. Plus important encore, les plaintes auprès du service de gestion de la ville concernant l’entretien paysagiste ont diminué de façon substantielle.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

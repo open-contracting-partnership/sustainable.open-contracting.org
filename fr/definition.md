@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "44ff818246af419b977484dca4f33a4e"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Que désignent les marchés publics durables et ouverts ?**
 
 Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : *les avantages économiques, sociaux et environnementaux.*
@@ -112,6 +109,3 @@ L’absence d’identifiants cohérents dans les systèmes d’information gouve
 [Notre guide sur les « signaux écologiques »](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) indique comment « étiqueter » certains marchés considérés comme écologiques et en fait la première étape essentielle de l’évaluation des résultats des marchés publics durables. Cela sera uniquement possible si vous disposez de données de bonne qualité concernant les marchés et que ces derniers possèdent des identifiants clairs. Dans la [troisième partie](https://sustainable.open-contracting.org/use-cases) de ce guide pratique, nous vous montrerons comment tirer parti de cette approche pour produire des données probantes détaillées et approfondies concernant les marchés publics durables.
 
 Avant d’entamer la démarche de mise en place de marchés publics durables, assurez-vous d’avoir abordé les aspects fondamentaux des données.
-
-{% endcolumn %}
-{% endcolumns %}

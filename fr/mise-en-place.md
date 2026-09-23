@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: e04c4d5f89b14bf0b064b4893eb79e82
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Mise en place de l’environnement habilitant</strong></h1>
 <p class="notion-text notion-text__content notion-semantic-string">Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.</p>
 <div class="notion-callout bg-green-light border">
@@ -119,5 +118,4 @@ notion_id: e04c4d5f89b14bf0b064b4893eb79e82
   <li class="notion-list-item notion-semantic-string"><a href="https://glcn-on-sp.org/home/" class="notion-link link" target="_blank" rel="noopener noreferrer">Global Lead City Network on Sustainable Procurement</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="http://www.igpn.org/index.html" class="notion-link link" target="_blank" rel="noopener noreferrer">International Green Purchasing Network</a></li>
 </ul>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

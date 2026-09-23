@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Worked example: Measuring carbon reduction
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -135,6 +132,3 @@ Some of these are more complicated than others. Even if you don’t have a relia
     <p class="notion-text notion-text__content notion-semantic-string">Reward suppliers that are committed to reducing carbon intensity in their goods, works, services and supply chain.</p>
   </div>
 </div>
-
-{% endcolumn %}
-{% endcolumns %}

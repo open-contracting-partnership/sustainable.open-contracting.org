@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
+sidebar:
+  - 0.3125
+  - 0.6875
 ---
-{% columns %}
-{% column 0.3125 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.6875 %}
-
 # **¿Qué es CPS importante en el sector de Tecnología de la Información y la Comunicación (TIC)?**
 
 La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas.
@@ -43,6 +40,3 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
   icon: /assets/images/Icons_Grey6.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

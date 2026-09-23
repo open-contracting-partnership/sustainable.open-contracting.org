@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: ac0ea2f84d304498b926d5045858734f
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Définir les priorités**
 
 Il existe de nombreuses façons de définir des priorités en ce qui concerne la mise en place de marchés publics durables et ouverts. Par exemple, il peut s’agir de traiter les enjeux environnementaux de première importance, d’axer le travail sur les secteurs ou catégories dans lesquels des biens et services écologiques sont immédiatement disponibles, de programmes publics dans lesquels les acheteurs et la société civile comprennent pourquoi l’utilisation de produits écologiques est nécessaire, ou encore de projets ou d’événements de premier plan où les marchés publics durables peuvent être utilisés pour sensibiliser et susciter l’intérêt du public, comme des événements sportifs, des conférences et la modernisation de bâtiments gouvernementaux importants.
@@ -160,6 +157,3 @@ La première étape a consisté à dresser une liste préliminaire de catégorie
 
 À partir de cette méthode de notation, quatre types de produits ont été sélectionnés comme des catégories prioritaires qui concentreront les efforts en matière de marchés publics durables : la papeterie de bureau, les ordinateurs portables, les lampes fluorescentes et les éclairages à LED.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

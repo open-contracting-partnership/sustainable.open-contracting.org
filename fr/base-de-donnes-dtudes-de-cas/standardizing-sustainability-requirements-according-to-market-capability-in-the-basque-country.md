@@ -5,13 +5,10 @@ cover: /assets/images/Europe_-_Basque_Country.png
 icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "6aa11ed462b2418b96f669c6bc56eb2e"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"></p>
   <div class="notion-text__children">
@@ -27,6 +24,3 @@ The Basque Country’s <a href="https://www.ihobe.eus/news/75-of-procurement-by-
     </div>
   </div>
 </div>
-
-{% endcolumn %}
-{% endcolumns %}

@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "09f22c6be859431e9ee40568a321f67c"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Comparta y comunique los resultados de su ejercicio de priorización**
 
 Hay muchas maneras de determinar prioridades de cómo empezar la implementación de CPS Abierta. Una de ellas podría ser incluir respuestas a cuestiones ambientales de alto perfil, sectores del mercado o grupos de productos donde los productos y servicios verdes están fácilmente disponibles, programas del sector público donde los contratantes y la ciudadanía pueden ver razones por favorecer el uso de productos verdes, o proyectos o eventos de alto perfil donde CPS se puede introducir en forma piloto con el fin de aumentar la conciencia e interés, tales como eventos deportivos, conferencias, y remodelaciones de edificios gubernamentales importantes.
@@ -173,6 +170,3 @@ Como un primer paso en el ejercicio de determinar prioridades, se creó una list
 
 **Con esta metodología de calificación se seleccionaron cuatro productos como categorías de contratación para sus esfuerzos CPS: papel de oficina, computadores portátiles, lámparas fluorescentes, y luces LED.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

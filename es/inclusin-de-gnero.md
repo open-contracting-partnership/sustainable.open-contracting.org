@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "41b3faf621a347b38e3cd21970bcc188"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Ejemplo resuelto: Medir la inclusión de género**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -418,6 +415,3 @@ A través de los conocimientos obtenidos de los datos, los compradores pueden us
 </ul>
 
 Puede leer más sobre medidas políticas para mejorar la inclusión de género y estudios de casos de todo el mundo en esta nota de política de ONU Mujeres y OCP.
-
-{% endcolumn %}
-{% endcolumns %}

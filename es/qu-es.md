@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # ¿Qué es la Contratación Pública Sostenible y Abierta?
 
 La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: **beneficios económicos, sociales y ambientales***.*
@@ -287,6 +284,3 @@ La falta de identificadores coherentes en los sistemas de información del gobie
 Nuestra [guía](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) "Banderas verdes" describe cómo "etiquetar" contrataciones específicas como ecológicas como un primer paso clave para medir los resultados de CPS. Esto solo es posible si tiene datos de contrato de buena calidad, con identificadores contractuales claros. En la sección tres de este conjunto de herramientas, le mostramos cómo aprovechar este enfoque para generar evidencia detallada y granular de SPP.
 
 **Entonces, antes de comenzar con CPS, asegúrese de haber abordado las bases de datos clave.**
-
-{% endcolumn %}
-{% endcolumns %}

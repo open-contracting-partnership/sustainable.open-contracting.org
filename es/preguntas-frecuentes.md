@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/NOTION_square_FAQ.png
 full_width: true
 notion_id: "9e2d0f0fedf0487d9cc1f536f1a63e85"
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección, incluimos **preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles**. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.
 {% endcallout %}
@@ -128,11 +126,3 @@ Existe una idea errónea común de que adquirir productos y servicios sostenible
 Para obtener más información sobre el coste del ciclo de vida (LCC), consulte [esta sección](https://sustainable.open-contracting.org/life-cycle-costing). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
 
 {% endtoggle %}
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

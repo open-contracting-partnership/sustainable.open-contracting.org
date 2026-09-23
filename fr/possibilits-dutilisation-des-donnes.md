@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "149ab2d38e6b430eada9e1cb977fb06a"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Possibilités d’utilisation des données** existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. 
 
 Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics.
@@ -144,6 +141,3 @@ Un moyen de collecter les données nécessaires pour évaluer les effets durable
 |---|---|---|---|
 | **Possibilité 10 : utiliser des données à l’échelle nationale ou étatique** | {orange} Demander par écrit aux fournisseurs de transmettre des données relatives à la durabilité (par exemple sur la composition de leur capital) dans un format numérique et lisible par une machine dans le cadre de leurs déclarations fiscales et rapports financiers. | {yellow} Créer un formulaire en ligne de transmission automatisée à remplir à certaines étapes (par exemple en même temps que des déclarations fiscales). | {green} Utiliser des algorithmes pour créer des points de référence et définir des objectifs intermédiaires relatifs aux objectifs de durabilité (par exemple l’égalité entre les genres) pour certains secteurs et les entreprises d’une certaine taille.<br><br>Collaborer avec certains secteurs sur les moins bons résultats concernant les indicateurs de durabilité (par exemple le faible emploi parmi les personnes d’un sexe en particulier) afin de renforcer la participation et l’autonomisation. |
 {% endtable %}
-
-{% endcolumn %}
-{% endcolumns %}

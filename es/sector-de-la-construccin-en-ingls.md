@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "2a371746efb64420ac108034a8585636"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **¿Por qué CPS Abierta es importante en el sector de la construcción?**
 
 La industria de la construcción es una de gran relevancia económica ya que se estima que representa el 6% del PIB mundial, con el mercado de la construcción de África valorado en alrededor de USD 5,4 mil millones en 2020 y el de ALC en USD 829,3 mil millones en 2018.<strong> </strong>Esto se traduce en más de 100 millones de puestos de trabajo en todo el mundo. Sin embargo, este sector también representó la mayor parte del uso global de energía final (36 %) y las emisiones de CO2 relacionadas con la energía (39 %) en 2018.<strong> </strong>También está clasificado como uno de los sectores con mayor proporción de corrupción, así como un sector de alto riesgo para el trabajo forzado.
@@ -44,6 +41,3 @@ Es importante tener en cuenta que, **dentro del sector de la construcción, exis
   icon: /assets/images/Icons_Grey6.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

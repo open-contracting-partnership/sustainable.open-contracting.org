@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: e26d206901154c1f94196272eefda571
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Gathering information to assess real needs
 
 When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender.
@@ -136,6 +133,3 @@ The Department will consider proposals for leasing the screens under a service c
 <br>In the end, out of the 2.563 items used in the new office 45% of items were re-used, 49% were remanufactured, and only 6% of items were sourced from new stock.
 <br>In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

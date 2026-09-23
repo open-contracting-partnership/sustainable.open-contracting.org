@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "0df2837888c2449db90abd53c74bfc4d"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 Once the [key sustainability variables have been identified](/le-secteur-tic-en-anglais/selecting-your-data), it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. 
 
 ## Request relevant documentation
@@ -48,6 +45,3 @@ For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-f
 {% callout gray /assets/images/Icons_Grey3.png %}
 The methods that will be used throughout the duration of the contract to collect the data should be clearly stated on the contract. Consequences and responsibilities in case of non-compliance should also be included.  
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

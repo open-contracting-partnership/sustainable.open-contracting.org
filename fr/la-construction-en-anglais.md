@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "6eb7248317ce4644aaa940793d50fe7f"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Why is Open SPP important in the construction sector?**
 
 The construction industry is one of high economic relevance, as it is estimated to account for 6% of global GDP, with [Africa's construction market valued at around USD 5.4 billion](https://www.mordorintelligence.com/industry-reports/africa-construction-market#:~:text=The%20Africa%20construction%20market%20was,by%20Covid%2D19%20in%202020.) in 2020 and [LAC’s at USD 829.3 billion in 2018](https://www.mordorintelligence.com/industry-reports/latin-america-construction-market). This translates into more than [100 million jobs worldwide. ](https://www.market-prospects.com/articles/global-construction-industry-trends)However, this sector also accounted for the [largest share of both global final energy use (36%) and energy-related CO2 emissions (39%) in 2018.](https://www.iea.org/reports/global-status-report-for-buildings-and-construction-2019) It is also classified as one of the sectors with the highest share of corruption, as well as a high-risk sector for forced labor.
@@ -43,6 +40,3 @@ It is important to note that **within the construction sector, there are differe
   icon: /assets/images/Icons_Grey6.png
 {% endgallery %}
 {% enddatabase %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: cf3a3b670b7c487bada7d824fd5415ac
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Prioritizing procurement categories**
 
 There are many ways to prioritize how to start implementing Open SPP. This may include responding to high-profile environmental issues, market sectors or product groups where green goods and services are readily available, public sector programs where procurers and citizens can see a rationale for the use of green products, or high-profile projects or events where SPP can be piloted to raise awareness and interest, such as sporting events, conferences, and retrofits of prominent government buildings.
@@ -156,6 +153,3 @@ As the first step of the prioritizing exercise, a list of preliminary procuremen
 
 **Using this scoring methodology, four products were selected as focus categories for SPP efforts: office paper, laptops, fluorescent lamps, and LEDs lights.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

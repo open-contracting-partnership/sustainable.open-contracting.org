@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d8c00bb67a29407c8354c3d1b9cbcd58
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Seleccione el enfoque de contratación adecuado**
 
 El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta)*.* En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
@@ -161,6 +158,3 @@ Con la ayuda del Laboratorio de Desempeño del Gobierno de Harvard, **la ciudad 
 
 **Con este enfoque, la ciudad impulsó la competencia general (el número de proveedores que enviaron respuestas aumentó en un 38 por ciento) sin aumentar los costos. Lo que es más importante, las quejas al administrador de la ciudad sobre el mantenimiento de los terrenos se redujeron sustancialmente.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

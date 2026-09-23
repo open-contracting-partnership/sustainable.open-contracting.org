@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "80efa4eb1154401ca159ff7d6af15a15"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # Managing sustainability throughout the contract
 
 After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the [previous section](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.  
@@ -90,6 +87,3 @@ What’s more, in that time frame the DoZorro community uncovered violations in 
 
 This monitoring is officially embedded in the government e-procurement system, and the inspiring results have inspired similar networks in other countries in the region and beyond.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # **Traduire les exigences de durabilité en obligations contractuelles** 
 
 Une fois que des critères de durabilité ont été clairement établis, il convient de les traduire en obligations contractuelles. Cela suppose de définir les modalités de suivi de l’exécution des marchés et les conséquences en cas de manquement à ces obligations. Afin d’élaborer des clauses contractuelles pertinentes, ces décisions doivent faire l’objet de discussions ouvertes et d’une concertation entre l’entité adjudicatrice et les fournisseurs concernés. Cette section présente plusieurs aspects essentiels concernant l’élaboration de clauses contractuelles efficaces.
@@ -83,6 +80,3 @@ L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité 
 
 - [EcoVadis et Affectio Mutandi, ](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[*Le contrat et les clauses RSE, leviers incontournables de vigilance*](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[, 2018.](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

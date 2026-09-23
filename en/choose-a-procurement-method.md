@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: fa649a8ba1c343baa82ee941abf95579
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # Selecting the right procurement approach
 
 The design of a public procurement process can limit or facilitate the application of Open SPP practices. In this section we include approaches to procurement that can be useful to introduce Open SPP practices. Procuring agencies should openly communicate, for each procurement process, which of these approaches will be taken, and how they are underpinned by the Open SPP enabling framework.
@@ -158,6 +155,3 @@ With help from the Harvard Government Performance Lab, **the city created a data
 
 **With this approach, the city boosted overall competition (the number of vendors submitting responses rose by 38 percent) without raising the costs. What is more important, complaints to the City Manager about grounds maintenance fell substantially.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "66d1d89be9f24a1580aaa1d2aaf5f615"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # What is Open SPP?
 
 Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: **economic**, **social**, and **environmental** benefits.
@@ -114,6 +111,3 @@ A lack of coherent identifiers in government information systems structurally da
 [Our "Green Flags" guide](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) outlines how to "tag" specific procurements as green as a key first step towards measuring SPP outcomes. This is only possible if you have good quality contract data, with clear contractual identifiers. In [section three](/what-is-open-spp/open-data-measuring-progress) of this toolkit, we show you how to build on this approach to generate detailed, granular SPP evidence.
 
 **So before getting started with SPP, make sure you have tackled the key data foundations.**
-
-{% endcolumn %}
-{% endcolumns %}

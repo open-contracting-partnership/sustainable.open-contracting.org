@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: fe3e0567289c471ab6a3251f5f358d5e
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Identifique sus metas de sostenibilidad y progreso de seguimiento**
 
 En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). Este marco (LINK 44) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
@@ -146,6 +143,3 @@ El Instituto Coreano de Industria y Tecnología Ambientales (KEITI) ha sido desi
 
 Con el fin de incentivar el desempeño, Corea otorga una prima anual de rendimiento a los las administraciones locales, organizaciones públicas y organizaciones públicas locales con base en su razón de CPS dentro del su gasto local total, y la tasa de crecimiento de CPS.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

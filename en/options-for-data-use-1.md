@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "01b28c8f7f334cbe9e429d08f3658195"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Options for data use 
 
 There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement. 
@@ -147,6 +144,3 @@ One way to gather the data needed to measure the sustainability impact of your c
 |---|---|---|---|
 | **Option 10: Use national or statewide data** | {orange} Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | {yellow} Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | {green} Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.<br><br>Work with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
 {% endtable %}
-
-{% endcolumn %}
-{% endcolumns %}

@@ -9,14 +9,8 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
     - "https://sustainable.open-contracting.org/922396faae2e490e82eb63c21ae7e0cc": /construction-sector-1
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 <h2 class="notion-heading notion-semantic-string"></h2>
-
-{% endcolumn %}
-{% endcolumns %}

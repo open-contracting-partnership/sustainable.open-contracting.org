@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "28ced3ec4127422aafc70cc99dc45471"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 One of the key challenges of sustainably procuring ICT lies in the lack of transparency in supply chains. To overcome this challenge, an open dialogue has to be established with suppliers, forging a relationship to encourage and promote sharing and monitoring of supply-chain activities. 
 
 In relation to the environmental challenges of the ICT sector, procurement approaches should ensure that information regarding the qualities of the equipment, their repairability, and the availability of recycling and disposal services is clearly communicated by the supplier to the public authority. 
@@ -79,6 +76,3 @@ Continuous improvement clauses can also relate to supply chain management activi
 See [this section](/prepare-contract-obligations) for more information on continuous improvement clauses. 
 
 {% endtoggle %}
-
-{% endcolumn %}
-{% endcolumns %}

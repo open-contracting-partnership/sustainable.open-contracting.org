@@ -12,13 +12,10 @@ properties:
     Lithuania: blue
   Scope:
     National: gray
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 In Lithuania, the Ministry of Environment is in charge of the implementation of the green procurement policy. In July, **Green Public Procurement (GPP) targets were launched, mandating that all public procurement should be green by 2023.** In order to monitor progress against this target the Ministry has taken **four steps:**
 
@@ -38,6 +35,3 @@ Understanding the challenges authorities face in pivoting to GPP is an important
 
 In May, 2021, the Public Procurement Office (PPO) launched a [procurement scoreboard](https://vpt.lrv.lt/lt/svieslente) for public authorities, capturing all 30 product groups and including procurement information. The PPO collects data on technical specifications, award criteria, and clauses. Using digital forms to capture structured machine-readable data before and after the procurement process, they ask buyers (on a central e-procurement system) if GPP criteria were applied. If yes, procurers submit declaration reports on green criteria used, and this data is added to the scoreboard.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

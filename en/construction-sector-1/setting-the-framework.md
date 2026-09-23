@@ -8,13 +8,10 @@ full_width: true
 notion_id: e11c9b99989a490db72eeb0bad6693ca
 properties:
   Created: "Feb 9, 2023 7:39 PM"
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 ## Identify relevant regulations 
 
 When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the [enabling framework](/establish-an-enabling-environment), it can be useful to identify, or consider establishing, the following compliance sources:
@@ -112,6 +109,3 @@ Green construction accreditations cover many aspects of construction projects, *
 <br>Completed in 2017, the </strong>[**design of the Ghana Ridge Hospital** ](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/)<strong>was the first project in Africa to receive LEED accreditation.
 <br></strong>The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.** The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. It is the first project in Africa to receive LEED accreditation. 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

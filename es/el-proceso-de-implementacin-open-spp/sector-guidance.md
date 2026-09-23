@@ -5,14 +5,8 @@ cover: /assets/images/PUBLIC_SPP_covers6.png
 icon: /assets/images/Icons_Grey.png
 full_width: true
 notion_id: c242eb2b386f4ab2b54849aa05324fc0
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.8722 %}
 
-
-
-{% endcolumn %}
-{% endcolumns %}

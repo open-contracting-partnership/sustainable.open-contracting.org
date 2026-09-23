@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: af80fc51fe894f599879a1eb11c17ec6
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Giving you the resource that you asked for
 
 We reached out to over 30 sustainable procurement practitioners and experts across the world to help shape this guidance. This included representatives from national authorities and oversight bodies at different stages of the SPP journey, as well as representatives from civil society and the private sector. We wanted to understand the key barriers to governments in adopting SPP, and whether and where there were gaps in the existing resources and approaches. Here is what you said to us and what we did about it:
@@ -44,6 +41,3 @@ General feedback from our users is that there is a lot of guidance, but that it 
 - **There is already lots of good stuff out there!**
 
 Although sustainable procurement is relatively new for many public bodies, there are also many who have been championing implementation these last few years. In our toolkit, we include some of the best case studies we have found, hoping that these will serve as inspiration for users, and even prompt them to reach out and start a discussion.
-
-{% endcolumn %}
-{% endcolumns %}

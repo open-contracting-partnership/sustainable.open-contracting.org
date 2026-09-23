@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "212ead56cde64a16a9538d12bae5dfaf"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Les ressources que vous avez demandées**
 
 Nous avons pris contact avec plus de 30 professionnels, professionnelles et spécialistes des marchés publics durables du monde entier pour nous aider à concevoir ces orientations. Nous avons notamment discuté avec des personnes représentant des administrations nationales et des organismes de surveillance à différentes étapes du processus de passation de marchés publics durables ainsi que des personnes issues de la société civile et du secteur privé. Nous avons tenté de définir les principaux obstacles que rencontrent les gouvernements concernant l’adoption de pratiques durables de passation de marchés et de repérer et analyser les lacunes éventuelles des ressources et approches existantes. Voici un récapitulatif des témoignages que nous avons recueillis et de ce que nous avons fait pour y répondre.
@@ -44,6 +41,3 @@ De manière générale, notre lectorat cible indique que beaucoup d’orientatio
 - **Beaucoup de ressources utiles sont déjà disponibles.**
 
 Bien que les marchés publics durables soient relativement récents pour de nombreux organismes publics, beaucoup ont également montré l’exemple en la matière au cours des dernières années. Dans notre guide pratique, nous intégrons certaines études de cas parmi les plus pertinentes en espérant qu’elles constitueront une source d’inspiration pour notre lectorat et qu’elles l’inciteront à prendre contact et entamer des discussions.
-
-{% endcolumn %}
-{% endcolumns %}

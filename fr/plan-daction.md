@@ -6,12 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "1f53708050f744299ed811a68005427d"
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.7391 html %}
+{::nomarkdown}
 <h1 class="notion-heading notion-semantic-string"><strong>Présenter vos premières mesures dans un plan d’action sur les marchés publics durables</strong></h1>
 <p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://sustainable.open-contracting.org/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.</p>
 <p class="notion-text notion-text__content notion-semantic-string">Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces élément</p>
@@ -199,5 +198,4 @@ Les lois, politiques et plans pertinents et les interprétations possibles du po
 <p class="notion-text notion-text__content notion-semantic-string">
 Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces éléments.
 En vous dotant d’un plan d’action sur les marchés publics durables, vous pourrez divulguer aux membres des services de passation de marchés le cadre applicable aux marchés publics durables, les conséquences sur leur travail et les actions qui seront entreprises pour perfectionner ce cadre.</p>
-{% endcolumn %}
-{% endcolumns %}
+{:/nomarkdown}

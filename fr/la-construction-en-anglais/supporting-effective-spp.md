@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "1ed1b35eb0fe43f48787243595533e7e"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of [relevant data variables](/la-construction-en-anglais/selecting-your-data) [throughout the procurement process](/la-construction-en-anglais/collecting-the-data).
 
 <p class="notion-text notion-text__content notion-semantic-string"> </p>
@@ -122,6 +119,3 @@ Data about all aspects of the project will have to be openly shared with all sta
 In 2006, [Scotland’s Forth Road Bridge](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2018/12/construction-procurement-handbook/documents/chapter-4/chapter-4/govscot%3Adocument/chapter-4.pdf) showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. Due to the complexity of the project, **Transport Scotland decided to engage with the market in order to gain knowledge and assess the procurement plan.** This was done by organizing an Industry Day with top contractors, where a Questionnaire was distributed.
 <br>Following this, **bilateral conversations were established with suppliers to come up with the best possible plan. These activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements.** 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

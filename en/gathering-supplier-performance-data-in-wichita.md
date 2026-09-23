@@ -12,13 +12,10 @@ properties:
     North America: brown
   Scope:
     Local: blue
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong> In 2015, Wichita, the largest city in the U.S. state of Kansas, </strong><strong><a href="https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts" class="notion-link link">aimed to improve the quality of the city’s parks while reducing costs</a></strong><strong>.</strong> At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.</span>
@@ -26,6 +23,3 @@ properties:
     <p class="notion-text notion-text__content notion-semantic-string"><strong>With this approach, the city boosted overall competition (the number of vendors submitting responses rose by 38 percent) without raising the costs. What is more important, complaints to the City Manager about grounds maintenance fell substantially.</strong></p>
   </div>
 </div>
-
-{% endcolumn %}
-{% endcolumns %}

@@ -12,13 +12,10 @@ properties:
     Italy: gray
   Scope:
     National: gray
+sidebar:
+  - 0.125
+  - 0.875
 ---
-{% columns %}
-{% column 0.125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.875 %}
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country. 
 
@@ -26,6 +23,3 @@ properties:
 
 **The system has been widely praised by both medical professionals and suppliers, leading to its implementation on a regional as well as national level.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

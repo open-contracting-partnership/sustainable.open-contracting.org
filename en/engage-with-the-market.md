@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: da6e7862daf74f5ab2c320d4ac476574
+sidebar:
+  - 0.2609
+  - 0.7391
 ---
-{% columns %}
-{% column 0.2609 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.7391 %}
-
 # Engaging with the supplier market
 
 Engaging with the supplier market is important for all procurement processes. However, it becomes especially relevant in the context of SPP. Engagement practices can be simple, such as communicating the intention of launching a tender through an advert, or more complex, such as organizing supplier workshops and events.
@@ -111,6 +108,3 @@ Mexico City used open contracting to design a transparent procurement process to
 
 The city’s new contract expands the service from 6,500 to 9,300 bikes and from 480 to 687 bike stations, and upgrades the city’s bike share technology and design to be more user-friendly, all at approximately half the operating costs of the old service. Other departments have begun replicating Ecobici’s open contracting strategies for important strategic public projects, and the city also enhanced its electronic procurement system to help others use **Ecobici’s approach for engaging vendors, citizens and civil society organizations early in high-priority procurement processes. Read more about this case study** [**here**](https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/)**.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

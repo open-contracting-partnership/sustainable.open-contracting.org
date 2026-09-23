@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "38d546b6e2064b1b92fa305fe9d3be68"
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 ## Identifying relevant regulations
 
 The application of Open SPP when procuring ICT equipment can be guided by the existence of certain compliance frameworks that address some of the sustainability challenges in the sector. These can include:
@@ -52,6 +49,3 @@ Aside from these two, other ecolabels which cover ICT products include the [**Ta
 {% callout gray /assets/images/Icons_Grey9.png %}
 The criteria included in the above mentioned sources is extensive and covers many aspects of ICT equipment. Based on this criteria, and the identified sustainability concerns of the ICT sector, in the [following section](/sector-ict-en-ingls/seleccione-sus-datos) we have selected some of the key factors where the application of Open SPP can have the biggest impact.
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

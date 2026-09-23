@@ -6,13 +6,11 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: "/assets/images/download-circular-button_%281%29.png"
 full_width: true
 notion_id: "4c20445a515f4093b87882059e6d89b0"
+sidebar:
+  - 0.2083
+  - 0.75
+  - 0.0417
 ---
-{% columns %}
-{% column 0.2083 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
@@ -42,11 +40,3 @@ notion_id: "4c20445a515f4093b87882059e6d89b0"
 **Pour quand vous explorez des possibilités d’utilisation des données:**
 
 - [Table des possibilités d’utilisation des données](/options-for-data-use)
-
-{% endcolumn %}
-{% column 0.0417 %}
-
-
-
-{% endcolumn %}
-{% endcolumns %}

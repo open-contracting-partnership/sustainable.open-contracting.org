@@ -7,13 +7,10 @@ cover_position: 81.39
 icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: "6ae0a825aca247ed9c52080a3456d03c"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-fr.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Ce guide pratique vous aidera à repenser les marchés publics durables afin qu’ils soient mis en place et évalués plus efficacement par l’entremise d’une approche ouverte, axée sur les données et inclusive.**
 
 <br>**La mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.**
@@ -62,6 +59,3 @@ notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 {% enddatabase %}
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1500" height="350" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-fr.png"/></div>
-
-{% endcolumn %}
-{% endcolumns %}

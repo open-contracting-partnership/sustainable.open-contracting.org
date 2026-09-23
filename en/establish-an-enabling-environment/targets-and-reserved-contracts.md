@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: f67eee22c9d14d0287b923ba2eeab45f
+sidebar:
+  - 0.1278
+  - 0.8722
 ---
-{% columns %}
-{% column 0.1278 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.8722 %}
-
 ## **What are they?**
 
 Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses.
@@ -47,6 +44,3 @@ Despite the establishing reserved contracts and targets, these opportunities  Wh
 <br>As part of this programme, an MSMEs registry was created. Public procurers can access this registry to obtain relevant information about MSMEs. This registry allows public procurers to examine MSMEs offers in a particular sector when a tender is launched.
 <br>**These efforts, together with other supporting mechanisms, have resulted in an increase of over 380% in the number of MSMEs supplying the government - from 9,555 in 2012, to 36, 538 in 2019.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

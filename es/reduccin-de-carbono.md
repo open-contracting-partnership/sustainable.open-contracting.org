@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-es.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # **Ejemplo resuelto: Medición de la reducción de carbono**
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
@@ -387,6 +384,3 @@ Ver Opción 6</span></div>
 </div>
 
 <br>A través de los conocimientos adquiridos a partir de los datos, los compradores pueden usar esto para exigir reducciones de carbono en las contrataciones, mientras que los proveedores pueden usar los datos para mejorar sus propias cadenas de suministro y prácticas de trabajo en un esfuerzo por reducir las emisiones.
-
-{% endcolumn %}
-{% endcolumns %}

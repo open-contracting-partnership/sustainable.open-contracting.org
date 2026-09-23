@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: d901ea3ee0b64273af4f99da32652260
+sidebar:
+  - 0.3125
+  - 0.6875
 ---
-{% columns %}
-{% column 0.3125 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.6875 %}
-
 # Establishing supporting and capability-building mechanisms
 
 At this stage of planning your SPP implementation strategy, you have already assessed what you can do within your procurement enabling environment, decided where to focus your efforts, and established your goals. 
@@ -113,6 +110,3 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, a**nd a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
 <br>The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners. 
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}

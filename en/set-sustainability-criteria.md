@@ -6,13 +6,10 @@ cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: f718c6ce9ad84de0b86181491ddda103
+sidebar:
+  - 0.25
+  - 0.75
 ---
-{% columns %}
-{% column 0.25 html %}
-{% include sidebar-en.html %}
-{% endcolumn %}
-{% column 0.75 %}
-
 # Setting sustainability criteria
 
 {% callout red /assets/images/Pin_Red.png %}
@@ -138,6 +135,3 @@ Based on this study they established a series of measures to promote gender equa
 
 As an example, they propose giving this factor a weighing of 15% in the evaluation, and suggest different ways of evaluation. **These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.**
 {% endcallout %}
-
-{% endcolumn %}
-{% endcolumns %}
