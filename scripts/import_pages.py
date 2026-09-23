@@ -71,6 +71,8 @@ def clean(text):
     # Remove databases' anchors (to IDs that no longer exist) and view switchers (to views that weren't crawled).
     text = re.sub(r'<a class="notion-anchor" href="#[^"]*"></a>', "", text)
     text = re.sub(r' collection-[0-9a-f]{32}(?=")', "", text)
+    # Remove properties' classes, which no stylesheet uses.
+    text = re.sub(r' property-[0-9a-f]{8}(?=[ "])', "", text)
     while (start := text.find('<div class="notion-dropdown">')) != -1:
         text = text[:start] + text[element_end(text, start) :]
     # Move newlines at the end of links' text after the links.
@@ -303,6 +305,99 @@ def property_value(node, content):
     return False
 
 
+def table_view(view, text, items):
+    """
+    Return a database's table view's columns, whether its rows are clickable, and its items' paths and properties.
+
+    ``items`` maps paths to titles (for rows that aren't clickable, which are found by title). Return None if the view
+    isn't regular.
+    """
+    parts = markdown.elements(view)
+    table = parts[0] if parts and len(parts) == 1 else None
+    sections = (
+        markdown.elements(table)
+        if table and table.attrs == {"class": "notion-collection-table"}
+        else None
+    )
+    if not sections or len(sections) != 2:
+        return None
+    thead, tbody = sections
+    head = markdown.elements(thead)
+    if (
+        thead.attrs != {"class": "notion-collection-table__head"}
+        or not head
+        or len(head) != 1
+    ):
+        return None
+    columns = []
+    for th in markdown.elements(head[0]) or []:
+        kind = re.fullmatch(r"notion-collection-table__head-cell (\w+)", th.cls)
+        width = re.fullmatch(r"width:(\d+)px", th.attrs.get("style", ""))
+        name = re.fullmatch(
+            r'<div class="notion-collection-table__head-cell-content">([^<]*)</div>',
+            text[th.start + len(th.tag) : th.end - len("</th>")],
+        )
+        if not kind or not name or ("style" in th.attrs and not width):
+            return None
+        column = {"name": html.unescape(name.group(1)), "type": kind.group(1)}
+        if width:
+            column["width"] = int(width.group(1))
+        columns.append(column)
+    if (
+        not columns
+        or columns[0]["type"] != "title"
+        or tbody.attrs != {"class": "notion-collection-table__body"}
+    ):
+        return None
+    titles = {}
+    for path, title in items.items():
+        titles.setdefault(title, []).append(path)
+    clickable = set()
+    rows = []
+    for tr in markdown.elements(tbody) or []:
+        cells = markdown.elements(tr)
+        if not cells or len(cells) != len(columns):
+            return None
+        cell = text[cells[0].start : cells[0].end]
+        link = re.fullmatch(
+            r'<td class="notion-collection-table__cell title"><div><a href="([^"]*)" class="notion-link">'
+            r'<div class="notion-property notion-property__title notion-semantic-string">([^<]*)</div></a></div></td>',
+            cell,
+        )
+        no_link = re.fullmatch(
+            r'<td class="notion-collection-table__cell title no-click"><div>'
+            r'<div class="notion-property notion-property__title notion-semantic-string">([^<]*)</div></div></td>',
+            cell,
+        )
+        if link:
+            path, title = html.unescape(link.group(1)), html.unescape(link.group(2))
+        elif no_link and len(titles.get(html.unescape(no_link.group(1)), [])) == 1:
+            title = html.unescape(no_link.group(1))
+            path = titles[title][0]
+        else:
+            return None
+        if items.get(path) != title:
+            return None
+        clickable.add(bool(link))
+        properties = {}
+        for column, td in zip(columns[1:], cells[1:]):
+            values = markdown.elements(td)
+            if (
+                td.cls != f"notion-collection-table__cell {column['type']}"
+                or values is None
+                or len(values) > 1
+            ):
+                return None
+            value = property_value(values[0], text) if values else (None,)
+            if value is False:
+                return None
+            properties[column["name"]] = value[0]
+        rows.append((path, properties))
+    if len(clickable) != 1:
+        return None
+    return columns, clickable.pop(), rows
+
+
 def sidebar(content):
     """Return the content of the first column, if it starts with a link to the homepage."""
     match = SIDEBAR.search(content)
@@ -327,6 +422,13 @@ def rewrite_link(match, lang, live, redirects, counter):
     elif href.startswith("/") and not href.startswith(("//", "/assets/")):
         target = lang
         kind = "relative"
+    elif url.netloc in ("notion.so", "www.notion.so") and (
+        notion_id := re.search(r"([0-9a-f]{32})$", url.path)
+    ):
+        # A link to a Notion page, which Super.so serves at its ID.
+        target = lang
+        kind = "absolute"
+        url = urllib.parse.urlsplit(f"/{notion_id.group(1)}")
     else:
         return match.group(0)
     path = urllib.parse.unquote(url.path).rstrip("/") or "/"
@@ -491,6 +593,53 @@ def main():
             data["properties"] = properties
         pages.append((lang, path, data, content))
 
+    # Databases' table views become {% database_table %} tags, and their cells become their items' properties.
+    by_path = {(lang, path): data for lang, path, data, _ in pages}
+    items = collections.defaultdict(dict)
+    for lang, path, data, _ in pages:
+        items[lang][path] = data["title"]
+    views = collections.Counter()
+    for lang, _, _, content in pages:
+        text = markdown.strip_ids(content)
+        stack = markdown.parse(text)
+        while stack:
+            node = stack.pop()
+            if isinstance(node, str):
+                continue
+            if node.cls != "notion-collection-table__wrapper":
+                stack.extend(node.children)
+                continue
+            view = table_view(node, text, items[lang])
+            if view is None:
+                views["kept as HTML"] += 1
+                continue
+            columns, clickable, rows = view
+            consistent = True
+            for path, properties in rows:
+                existing = by_path[(lang, path)].get("properties")
+                if existing is not None and any(
+                    existing.get(k, v) != v for k, v in properties.items()
+                ):
+                    consistent = False
+            if not consistent:
+                views["inconsistent with items"] += 1
+                continue
+            for path, properties in rows:
+                data = by_path[(lang, path)]
+                data["properties"] = {**data.get("properties", {}), **properties}
+            body = (
+                "columns:"
+                + yaml(columns, 1)
+                + "\nitems:"
+                + yaml([path for path, _ in rows], 1)
+            )
+            argument = "" if clickable else " no-click"
+            markdown.VIEWS[text[node.start : node.end]] = (
+                f"{{% database_table{argument} %}}\n{body}\n{{% enddatabase_table %}}"
+            )
+            views["converted"] += 1
+    print("table views:", dict(views))
+
     # Each language's sidebar is the most common content of a column that starts with a link to the homepage.
     sidebars = {}
     for lang in SITES.values():
@@ -522,7 +671,12 @@ def main():
         content = content.replace('</ul><ul class="notion-bulleted-list">', "")
         contents.append(content)
 
-    markdowns, (converted, candidates, tagged) = markdown.to_markdown(contents, indent)
+    front_matter_by_language = collections.defaultdict(dict)
+    for lang, path, data, _ in pages:
+        front_matter_by_language[lang][path] = data
+    markdowns, (converted, candidates, tagged) = markdown.to_markdown(
+        contents, indent, [lang for lang, _, _, _ in pages], front_matter_by_language
+    )
     for (lang, path, data, _), content, text in zip(pages, contents, markdowns):
         extension = ".html" if text is None else ".md"
         filename = ROOT / lang / ((path.strip("/") or "index") + extension)

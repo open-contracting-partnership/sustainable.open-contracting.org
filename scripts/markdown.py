@@ -637,9 +637,20 @@ def database_tag(node, text, indent, candidates):
     return f"{{% database {title} %}}\n" + "\n".join(views) + "\n{% enddatabase %}"
 
 
+# Databases' table views' HTML (without IDs), mapped to {% database_table %} tags by import_pages.py, which also
+# moves the views' cells into the items' front matter.
+VIEWS = {}
+
+
+def database_table_tag(node, text, indent, candidates):
+    """Return a database's table view as a {% database_table %} tag, or None."""
+    return VIEWS.get(text[node.start : node.end])
+
+
 TAGS = {
     "notion-collection": database_tag,
     "notion-collection-gallery": gallery_tag,
+    "notion-collection-table__wrapper": database_table_tag,
     "notion-callout": callout_tag,
     "notion-toggle": toggle_tag,
     "notion-column-list": columns_tag,
@@ -708,11 +719,15 @@ def container(node, text, indent, candidates):
     )
 
 
-def render(markdowns):
-    """Render Markdown with the site's Markdown converter."""
+def render(markdowns, languages=None, pages=None):
+    """Render Markdown with the site's Liquid tags and Markdown converter, given pages' front matter by language."""
+    documents = [
+        {"content": markdown, "lang": languages[i] if languages else "en"}
+        for i, markdown in enumerate(markdowns)
+    ]
     result = subprocess.run(
         ["bundle", "exec", "ruby", "scripts/render_markdown.rb"],
-        input=json.dumps(markdowns),
+        input=json.dumps({"documents": documents, "pages": pages or {}}),
         capture_output=True,
         text=True,
         check=True,
@@ -792,7 +807,9 @@ def normalize(text):
         text = re.sub(r" +\n", "\n", text)
     # Trailing spaces in a block don't render (white-space: pre-wrap), and Markdown drops them.
     text = re.sub(r" +(</(?:p|li|h1|h2|h3)>)", r"\1", text)
-    return re.sub(r" +(</span>)(?=</div>|</h[1-6]>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text)
+    return re.sub(
+        r" +(</span>)(?=</div>|</h[1-6]>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text
+    )
 
 
 def expand_includes(text):
@@ -817,7 +834,7 @@ def report_page(expected, actual):
     )
 
 
-def to_markdown(pages, indent):
+def to_markdown(pages, indent, languages, front_matter):
     """
     Convert each page's HTML to Markdown, keeping HTML for blocks that wouldn't render the same.
 
@@ -866,7 +883,13 @@ def to_markdown(pages, indent):
         )
 
     filled = [[fill(draft) for draft in pair] for pair in drafts]
-    verified = iter(render([draft or "" for pair in filled for draft in pair]))
+    verified = iter(
+        render(
+            [draft or "" for pair in filled for draft in pair],
+            [language for language in languages for _ in (True, False)],
+            front_matter,
+        )
+    )
     final = []
     tagged = 0
     for content, pair in zip(pages, filled):

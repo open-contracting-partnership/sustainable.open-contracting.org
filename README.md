@@ -90,7 +90,26 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 
 A card without a `link` isn't clickable, and a card without an `icon` has Notion's page icon. `cover_position` defaults to 50, and `cover_only` hides the title under the cover.
 
-Other Notion blocks (databases' table views, images, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
+Databases' table views are `{% database_table %}` tags, containing YAML with the columns (the first is the items' titles) and the items' paths. Each row's cells are its item's title and `properties` front matter, so an item is edited on its own page. `no-click` makes the rows not links:
+
+```liquid
+{% database_table %}
+columns:
+  - name: Name
+    type: title
+    width: 278
+  - name: Sectors
+    type: multi_select
+    width: 202
+items:
+  - /tco-certified
+  - /the-blue-angel-eco-label
+{% enddatabase_table %}
+```
+
+On the Spanish and French sites, the `notion.hide_properties` setting hides the properties on the items' own pages, as on Super.so.
+
+Other Notion blocks (images, to-dos, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
 ## How the content was produced
 

@@ -125,23 +125,23 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
     <tbody class="notion-collection-table__body">
       <tr>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><strong>Planeación</strong>
+          <p class="notion-property notion-property__text notion-semantic-string"><strong>Planeación</strong>
 <em>Que incluya </em><strong></strong></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><strong>Licitación </strong>
+          <p class="notion-property notion-property__text notion-semantic-string"><strong>Licitación </strong>
 <em>Que incluya </em><strong></strong></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><strong>Adjudicación </strong>
+          <p class="notion-property notion-property__text notion-semantic-string"><strong>Adjudicación </strong>
 <em>Que incluya </em><strong></strong></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><strong>Contrato </strong>
+          <p class="notion-property notion-property__text notion-semantic-string"><strong>Contrato </strong>
 <em>Que incluya </em><strong></strong></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><strong>Ejecución </strong>
+          <p class="notion-property notion-property__text notion-semantic-string"><strong>Ejecución </strong>
 <em>Que incluya </em><strong></strong></p>
         </td>
         <td class="notion-collection-table__cell title no-click">
@@ -152,14 +152,14 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
       </tr>
       <tr>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Presupuesto (Incluidas prioridades verdes)
+          <p class="notion-property notion-property__text notion-semantic-string">Presupuesto (Incluidas prioridades verdes)
 Razón y fuente presupuestal
 Planes de proyecto con objetivos verdes
 Planes de contratación con objetivos verdes
 Información de audiencia pública</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Notificaciones de la licitación (título, descripción, valor)
+          <p class="notion-property notion-property__text notion-semantic-string">Notificaciones de la licitación (título, descripción, valor)
 Criterios de adjudicación estandarizados (incl. criterios GPP)
 Razón de método PP
 Información de proveedores, incl.. desempeño anterior.
@@ -169,21 +169,21 @@ Averiguaciones
 Documentos adicionales</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Detalles de la adjudicación (título, descripción, valor, documentos)
+          <p class="notion-property notion-property__text notion-semantic-string">Detalles de la adjudicación (título, descripción, valor, documentos)
 Criterios GPP utilizados
 Información del oferente
 Evaluación de la propuesta
 Valores</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Detalles finales (título, descripción, periodo, valor)
+          <p class="notion-property notion-property__text notion-semantic-string">Detalles finales (título, descripción, periodo, valor)
 Hitos y objetivos (incl.. verdes)
 Metodología de medición/evaluación
 Enmiendas
 Valores</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Pagos
+          <p class="notion-property notion-property__text notion-semantic-string">Pagos
 Actualizaciones del progreso / estado de la ejecución
 Hitos / objetivos
 Localización
@@ -199,19 +199,19 @@ Detalles de finalización o terminación</p>
       </tr>
       <tr>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><em>Que permita</em></p>
+          <p class="notion-property notion-property__text notion-semantic-string"><em>Que permita</em></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><em>Que permita</em></p>
+          <p class="notion-property notion-property__text notion-semantic-string"><em>Que permita</em></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><em>Que permita</em></p>
+          <p class="notion-property notion-property__text notion-semantic-string"><em>Que permita</em></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><em>Que permita</em></p>
+          <p class="notion-property notion-property__text notion-semantic-string"><em>Que permita</em></p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><em>Que permita</em></p>
+          <p class="notion-property notion-property__text notion-semantic-string"><em>Que permita</em></p>
         </td>
         <td class="notion-collection-table__cell title no-click">
           <div>
@@ -221,7 +221,7 @@ Detalles de finalización o terminación</p>
       </tr>
       <tr>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Análisis de inversiones verdes planeadas y prioridades.
+          <p class="notion-property notion-property__text notion-semantic-string">Análisis de inversiones verdes planeadas y prioridades.
 Informar a los proveedores acerca de oportunidades GPP venideras.
 Identificar si un procedimiento específico tiene criterios verdes.
 Planeación estratégica alrededor de la transición verde.
@@ -229,7 +229,7 @@ Investigación del mercado.
 Fijar y articular prioridades verdes.</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.
+          <p class="notion-property notion-property__text notion-semantic-string">Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.
 Comparaciones de análisis/precio específicos por categoría.
 Que los proveedores encuentren oportunidades de negocio verde.
 Análisis de resultados GPP previstos.
@@ -240,7 +240,7 @@ Oferta competitiva.
 Análisis de bandera roja.</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Identificar adjudicaciones relacionadas con GPP – claves para análisis de la supervisión
+          <p class="notion-property notion-property__text notion-semantic-string">Identificar adjudicaciones relacionadas con GPP – claves para análisis de la supervisión
 Análisis específico del mercado verde.
 Análisis de resultados verdes previstos.
 Que los proveedores identifiquen futuras oportunidades de negocio.
@@ -249,12 +249,12 @@ Vínculos a datos de propiedad
 Análisis de bandera roja</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Identificar cuáles contratos se refieren a GPP.
+          <p class="notion-property notion-property__text notion-semantic-string">Identificar cuáles contratos se refieren a GPP.
 Análisis de resultados / impactos potenciales verdes.
 Análisis de costos y rubros</p>
         </td>
         <td class="notion-collection-table__cell text">
-          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Resultados basados en contratación.
+          <p class="notion-property notion-property__text notion-semantic-string">Resultados basados en contratación.
 Implementación de supervisión, en particular si se alcanzaron os objetivos GPP.
 Eficiencia de la ejecución del contrato en cuanto a objetivos verdes.
 Análisis de planeación GPP futura.

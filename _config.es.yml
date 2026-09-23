@@ -5,3 +5,5 @@ search: false
 favicon: 
 destination: _site/es
 exclude: [en, fr, scripts, "Export-*", README.md]
+notion:
+  hide_properties: true
