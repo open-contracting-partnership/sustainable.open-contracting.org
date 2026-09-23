@@ -1,6 +1,7 @@
 lang: es
 url: https://sostenibilidad.open-contracting.org
 google_analytics: G-GFLEM9K3JF
+search: false
 favicon: 
 destination: _site/es
 exclude: [en, fr, scripts, "Export-*", README.md]

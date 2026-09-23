@@ -1,6 +1,7 @@
 lang: en
 url: https://sustainable.open-contracting.org
 google_analytics: G-L1NXBGRV3Q
+search: true
 favicon: /assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/uploads/favicon/5e853f5d-e7b4-4e95-a104-89bc763a27b9.png
 destination: _site/en
 exclude: [es, fr, scripts, "Export-*", README.md]

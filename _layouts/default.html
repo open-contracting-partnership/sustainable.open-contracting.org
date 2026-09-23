@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title }}</title>
+<title>{{ page.title | escape }}</title>
 {%- if page.description %}
 <meta name="description" content="{{ page.description | escape }}">
 {%- endif %}
@@ -15,8 +15,8 @@
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ page.title | escape }}">
 <meta property="og:locale" content="en-US">
-{%- if page.image %}
-<meta property="og:image" content="{{ page.image | absolute_url }}">
+{%- if page.cover %}
+<meta property="og:image" content="{{ page.cover | absolute_url }}">
 <meta property="og:image:alt" content="{{ page.title | escape }}">
 {%- endif %}
 <meta property="og:type" content="website">
@@ -25,8 +25,8 @@
 {%- if page.description %}
 <meta name="twitter:description" content="{{ page.description | escape }}">
 {%- endif %}
-{%- if page.image %}
-<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{%- if page.cover %}
+<meta name="twitter:image" content="{{ page.cover | absolute_url }}">
 <meta name="twitter:image:alt" content="{{ page.title | escape }}">
 {%- endif %}
 {%- if site.favicon %}
@@ -48,8 +48,12 @@
 {%- endif %}
 </head>
 <body>
-<div class="super-root"><div class="super-content-wrapper"><main id="{{ page.main_id }}" class="{{ page.main_class }}">
+<div class="super-root"><div class="super-content-wrapper"><main class="super-content">
+{% include navbar.html %}
+{% include header.html %}
+<article class="notion-root {% if page.full_width %}full-width{% else %}max-width{% endif %}{% if page.collection %} notion-collection notion-collection-page{% endif %}">
 {{ content }}
+</article>
 </main></div></div>
 <script src="/assets/js/site.js"></script>
 </body>

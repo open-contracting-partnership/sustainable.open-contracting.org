@@ -17,13 +17,31 @@ bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.ym
 
 Each build writes to `_site/<lang>/`, which is the output directory for that site's Cloudflare Pages project. Google Analytics is included only when `JEKYLL_ENV=production`.
 
+## Pages
+
+Each page is `<lang>/<path>.html`, with front matter:
+
+| Key | Description |
+| --- | --- |
+| `permalink` | The page's URL path, which is also the path of its file |
+| `title` | The page's title |
+| `description` | The page's meta description |
+| `cover` | The header's cover image, also used as the social media image |
+| `cover_position` | The cover's vertical position, as a percentage (default 50) |
+| `icon` | The header's icon, also used in breadcrumbs |
+| `full_width` | Whether the page is full width |
+| `collection` | Whether the page is a Notion database |
+| `notion_id` | The ID of the Notion page from which it was imported |
+
+The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header. The sidebar is in `_includes/sidebar-<lang>.html`.
+
 ## How the content was produced
 
 The pages are the server-rendered HTML of the live sites, not the Notion export, because the export loses toggles, columns, gallery views, icons and covers.
 
 1. `python3 scripts/crawl.py` crawls each site's sitemap (and any linked page not in it) into `.crawl/`, recording each URL's status and Notion page ID in `.crawl/results.json`.
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
-1. `python3 scripts/import_pages.py` writes each page's `<main>` element to `<lang>/<path>.html`, with the page's metadata as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
+1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.html`, with its metadata and header as front matter and its sidebar replaced by an include, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
 
 `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`.
 

@@ -1,0 +1,17 @@
+{%- capture state -%}
+  {%- if page.cover %}has-cover{% else %}no-cover{% endif %} {% if page.icon %}has-icon-image{% else %}no-icon{% endif -%}
+{%- endcapture -%}
+<div class="notion-header {% if page.collection %}collection{% else %}page{% endif %}">
+  <div class="notion-header__cover {{ state }}">
+    {%- if page.cover %}<img alt="{{ page.title | escape }}" class="notion-header__cover-image" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center {{ page.cover_position | default: 50 }}%" src="{{ page.cover }}"/>{% endif -%}
+  </div>
+  <div class="notion-header__content{% unless page.full_width %} max-width{% endunless %} {{ state }}">
+    <div class="notion-header__title-wrapper">
+      {%- if page.icon %}<div class="notion-header__icon-wrapper {{ state }}"><img alt="{{ page.title | escape }}" loading="lazy" width="125" height="125" class="notion-header__icon" style="object-fit:cover;object-position:center" src="{{ page.icon }}"/></div>{% endif -%}
+      <h1 class="notion-header__title">{{ page.title | escape }}</h1>
+    </div>
+    {%- if page.collection %}
+    <div class="notion-header__description notion-semantic-string"></div>
+    {%- endif %}
+  </div>
+</div>

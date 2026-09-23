@@ -1,5 +1,6 @@
 """Convert the crawled Super.so pages in .crawl/ into Jekyll pages in en/, es/ and fr/."""
 
+import collections
 import csv
 import html
 import json
@@ -24,6 +25,8 @@ NEXT_IMAGE = re.compile(r"/_next/image\?url=([^&\"]+)(?:&amp;|&)w=\d+(?:&amp;|&)
 SUPER_ASSET = re.compile(r"https://assets\.super\.so/")
 MAIN = re.compile(r'<main id="([^"]*)" class="([^"]*)">(.*)</main>', re.S)
 STYLE = re.compile(r"<style>(.*?)</style>", re.S)
+NOTION_LINK = re.compile(r'href="/([0-9a-f]{32})"')
+SIDEBAR = re.compile(r'<div id="[^"]*" class="notion-column"(?: style="[^"]*")?>')
 
 
 def crawled_path(url):
@@ -100,6 +103,8 @@ PRESERVE = re.compile(
     r'^<(?:pre|code|svg)\b|class="[^"]*\b(?:notion-semantic-string|notion-header__title|notion-code)\b'
 )
 TOKEN = re.compile(r"<[^>]*>|[^<]+")
+# Inline elements that the stylesheets display as blocks (a.notion-page is display: flex).
+BLOCK_CLASS = re.compile(r'class="[^"]*\bnotion-page\b(?!_)')
 
 
 def indent(text):
@@ -115,7 +120,7 @@ def indent(text):
             output.append(token)
         elif token.startswith("<"):
             name = re.match(r"<([a-zA-Z0-9]+)", token).group(1).lower()
-            if name in BLOCK and not preserving:
+            if (name in BLOCK or BLOCK_CLASS.search(token)) and not preserving:
                 output.append("\n" + "  " * len(stack))
                 if stack:
                     stack[-1][1] = True
@@ -125,6 +130,56 @@ def indent(text):
         else:
             output.append(token)
     return "".join(output).strip()
+
+
+def element_end(text, start):
+    """Return the index after the end of the element that starts at ``start``."""
+    name = re.match(r"<([a-z0-9]+)", text[start:]).group(1)
+    depth = 0
+    for match in re.compile(rf"<(/?){name}\b[^>]*>").finditer(text, start):
+        depth += -1 if match.group(1) else 1
+        if depth == 0:
+            return match.end()
+    raise ValueError(f"unclosed <{name}>")
+
+
+def parse_page(content):
+    """Move the navbar, header and article element into front matter, and return it and the article's content."""
+    content = content[
+        element_end(content, content.index('<nav class="notion-navbar">')) :
+    ]
+
+    start = content.index('<div class="notion-header ')
+    header = content[start : element_end(content, start)]
+    data = {}
+    if cover := re.search(
+        r'class="notion-header__cover-image" style="[^"]*object-position:center ([^;"]*)%;?" src="([^"]*)"',
+        header,
+    ):
+        data["cover"] = cover.group(2)
+        if (position := round(float(cover.group(1)), 2)) != 50:
+            data["cover_position"] = position
+    if icon := re.search(r'class="notion-header__icon" [^>]*src="([^"]*)"', header):
+        data["icon"] = icon.group(1)
+
+    article = re.search(r'<article [^>]*class="notion-root ([^" ]+)[^"]*">', content)
+    if article.group(1) == "full-width":
+        data["full_width"] = True
+    if 'class="notion-header collection"' in header:
+        data["collection"] = True
+    start = article.start()
+    end = element_end(content, start)
+    return data, content[article.end() : end - len("</article>")]
+
+
+def sidebar(content):
+    """Return the content of the first column, if it starts with a link to the homepage."""
+    match = SIDEBAR.search(content)
+    if match and re.match(r'<a (?:id="[^"]*" )?href="/"', content[match.end() :]):
+        return content[
+            match.end() : element_end(content, match.start()) - len("</div>")
+        ]
+    return None
 
 
 def moved_to(source, live):
@@ -175,37 +230,62 @@ def main():
 
     slugs = {}
     for r in canonical:
-        host = urllib.parse.urlparse(r["url"]).netloc
-        lang = SITES[host]
-        path = urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
-        slugs[(lang, r["pageId"])] = path
+        lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
+        slugs[(lang, r["pageId"])] = (
+            urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
+        )
 
+    pages = []
+    for r in canonical:
+        lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
+        path = slugs[(lang, r["pageId"])]
         document = crawled_path(r["url"]).read_text()
         head = document[: document.index("<body")]
-        main_id, main_class, content = MAIN.search(document).groups()
+        content = MAIN.search(document).group(3)
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)
-
+        content = clean(localize(content))
+        content = NOTION_LINK.sub(
+            lambda m: f'href="{slugs.get((lang, m.group(1)), m.group(0)[6:-1])}"',
+            content,
+        )
+        data, content = parse_page(content)
         data = {
-            "layout": "default",
             "permalink": path,
             "title": html.unescape(re.search(r"<title>([^<]*)</title>", head).group(1)),
             "description": meta(head, "name", "description"),
-            "image": meta(head, "property", "og:image"),
+            **data,
             "notion_id": r["pageId"],
-            "main_id": main_id,
-            "main_class": main_class,
-            # Notion text can contain "{{" or "{%".
-            "render_with_liquid": False,
         }
-        data = {
-            key: localize(value) if isinstance(value, str) else value
-            for key, value in data.items()
-        }
+        data = {key: value for key, value in data.items() if value is not None}
+        pages.append((lang, path, data, content))
+
+    # Each language's sidebar is the most common content of a column that starts with a link to the homepage.
+    sidebars = {}
+    for lang in SITES.values():
+        columns = collections.Counter(
+            re.sub(r' id="[^"]*"', "", column)
+            for language, _, _, content in pages
+            if language == lang and (column := sidebar(content))
+        )
+        sidebars[lang] = columns.most_common(1)[0][0]
+        (ROOT / "_includes" / f"sidebar-{lang}.html").write_text(
+            indent(sidebars[lang]) + "\n"
+        )
+
+    for lang, path, data, content in pages:
+        if column := sidebar(content):
+            normalized = re.sub(r' id="[^"]*"', "", column)
+            if normalized.startswith(sidebars[lang]):
+                start = content.index(column)
+                content = (
+                    content[:start]
+                    + f"{{% include sidebar-{lang}.html %}}"
+                    + normalized[len(sidebars[lang]) :]
+                    + content[start + len(column) :]
+                )
         filename = ROOT / lang / ((path.strip("/") or "index") + ".html")
         filename.parent.mkdir(parents=True, exist_ok=True)
-        filename.write_text(
-            front_matter(data) + indent(clean(localize(content))) + "\n"
-        )
+        filename.write_text(front_matter(data) + indent(content) + "\n")
 
     # Super.so lists pages that it no longer renders, from super-so-pages.csv (exported from its dashboard).
     stale = {lang: [] for lang in SITES.values()}
