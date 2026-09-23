@@ -73,6 +73,8 @@ def clean(text):
     text = re.sub(r' collection-[0-9a-f]{32}(?=")', "", text)
     while (start := text.find('<div class="notion-dropdown">')) != -1:
         text = text[:start] + text[element_end(text, start) :]
+    # Move newlines at the end of links' text after the links.
+    text = re.sub(r"(\n+)</a>", r"</a>\1", text)
     # Remove newlines at the end of text blocks.
     inline_end = r"(?:</(?:strong|em|a|span)>)*"
     text = re.sub(rf"\n+({inline_end}</(?:p|li|h[1-6])>)", r"\1", text)
@@ -377,7 +379,9 @@ def yaml(value, depth=0):
         lines = []
         for key, item in value.items():
             separator = "" if isinstance(item, (dict, list)) and item else " "
-            lines.append(f"\n{pad}{markdown.scalar(key)}:{separator}{yaml(item, depth + 1)}")
+            lines.append(
+                f"\n{pad}{markdown.scalar(key)}:{separator}{yaml(item, depth + 1)}"
+            )
         return "".join(lines)
     if isinstance(value, list) and value:
         return "".join(f"\n{pad}- {yaml(item, depth + 1).lstrip()}" for item in value)
