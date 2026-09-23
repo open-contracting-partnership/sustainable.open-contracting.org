@@ -1,5 +1,6 @@
 """Convert the crawled Super.so pages in .crawl/ into Jekyll pages in en/, es/ and fr/."""
 
+import csv
 import html
 import json
 import re
@@ -126,6 +127,24 @@ def indent(text):
     return "".join(output).strip()
 
 
+def moved_to(source, live):
+    """Return the live page with the same final path segment as a page that Super.so no longer renders, if clear."""
+    candidates = [path for path in live if path.split("/")[-1] == source.split("/")[-1]]
+    segments = set(source.split("/")[:-1])
+    ranked = sorted(
+        candidates,
+        key=lambda path: len(segments & set(path.split("/")[:-1])),
+        reverse=True,
+    )
+    if len(ranked) == 1 or (
+        len(ranked) > 1
+        and len(segments & set(ranked[0].split("/")[:-1]))
+        > len(segments & set(ranked[1].split("/")[:-1]))
+    ):
+        return ranked[0]
+    return None
+
+
 def meta(head, attribute, name):
     match = re.search(rf'<meta {attribute}="{name}" content="([^"]*)"', head)
     return match and html.unescape(match.group(1))
@@ -188,6 +207,13 @@ def main():
             front_matter(data) + indent(clean(localize(content))) + "\n"
         )
 
+    # Super.so lists pages that it no longer renders, from super-so-pages.csv (exported from its dashboard).
+    stale = {lang: [] for lang in SITES.values()}
+    with (CRAWL / "super-so-pages.csv").open(encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            if row["renders_on_super"] == "no" and row["path"]:
+                stale[SITES[row["domain"]]].append("/" + row["path"])
+
     # Super.so serves each page at its Notion ID, and some pages at other capitalizations, and redirects to the slug.
     for lang in SITES.values():
         rules = {
@@ -203,6 +229,10 @@ def main():
                 source = urllib.parse.urlparse(r["url"]).path
                 if source not in ("", "/"):
                     rules[source] = urllib.parse.urlparse(r["final"]).path
+        live = [path for (language, _), path in slugs.items() if language == lang]
+        for source in stale[lang]:
+            if target := moved_to(source, live):
+                rules.setdefault(source, target)
         lines = [
             f"{source} {target} 301"
             for source, target in sorted(rules.items())

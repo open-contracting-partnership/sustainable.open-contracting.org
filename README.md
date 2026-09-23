@@ -23,7 +23,7 @@ The pages are the server-rendered HTML of the live sites, not the Notion export,
 
 1. `python3 scripts/crawl.py` crawls each site's sitemap (and any linked page not in it) into `.crawl/`, recording each URL's status and Notion page ID in `.crawl/results.json`.
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
-1. `python3 scripts/import_pages.py` writes each page's `<main>` element to `<lang>/<path>.html`, with the page's metadata as front matter, and writes each site's `_redirects` (from Notion page IDs and other URLs that Super.so redirects) and `assets/css/theme-<lang>.css`.
+1. `python3 scripts/import_pages.py` writes each page's `<main>` element to `<lang>/<path>.html`, with the page's metadata as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard.
 
 `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`.
 
