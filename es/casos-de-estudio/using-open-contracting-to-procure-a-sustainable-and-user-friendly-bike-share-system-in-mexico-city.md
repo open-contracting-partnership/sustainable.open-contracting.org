@@ -1,8 +1,8 @@
 ---
-permalink: "/casos-de-estudio/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city"
+permalink: /casos-de-estudio/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city
 title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City "
-cover: "/assets/images/LAC_-_Mexico.png"
-icon: "/assets/images/Notion-others2.png"
+cover: /assets/images/LAC_-_Mexico.png
+icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9bcb89cd93504e35958147d89c05f56d"
 ---

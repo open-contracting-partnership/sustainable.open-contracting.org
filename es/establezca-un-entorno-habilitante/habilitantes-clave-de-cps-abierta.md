@@ -1,34 +1,24 @@
 ---
-permalink: "/establezca-un-entorno-habilitante/habilitantes-clave-de-cps-abierta"
+permalink: /establezca-un-entorno-habilitante/habilitantes-clave-de-cps-abierta
 title: Habilitantes clave de CPS Abierta
 full_width: true
 collection: true
 notion_id: "44c2a782c0b8496ca72e7edf39cf2a01"
 ---
-<div class="notion-collection-gallery medium">
-  <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin" class="notion-link notion-collection-card__anchor">Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green3.png"/></div>Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/metas-y-contratos-reservados" class="notion-link notion-collection-card__anchor">Metas y contratos reservados</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green3.png"/></div>Metas y contratos reservados</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/acuerdo-marco" class="notion-link notion-collection-card__anchor">Acuerdo marco</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green3.png"/></div>Acuerdo marco</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo" class="notion-link notion-collection-card__anchor">Relacionamiento directo con el mercado y diálogo continuo</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green3.png"/></div>Relacionamiento directo con el mercado y diálogo continuo</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes" class="notion-link notion-collection-card__anchor">Umbrales y sectores con reglamentos diferentes</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green3.png"/></div>Umbrales y sectores con reglamentos diferentes</div>
-    </div>
-  </div>
-</div>
+{% gallery medium %}
+- title: Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación
+  link: /establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin
+  icon: /assets/images/icons_D_Green3.png
+- title: Metas y contratos reservados
+  link: /establezca-un-entorno-habilitante/metas-y-contratos-reservados
+  icon: /assets/images/icons_D_Green3.png
+- title: Acuerdo marco
+  link: /establezca-un-entorno-habilitante/acuerdo-marco
+  icon: /assets/images/icons_D_Green3.png
+- title: Relacionamiento directo con el mercado y diálogo continuo
+  link: /establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo
+  icon: /assets/images/icons_D_Green3.png
+- title: Umbrales y sectores con reglamentos diferentes
+  link: /establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes
+  icon: /assets/images/icons_D_Green3.png
+{% endgallery %}

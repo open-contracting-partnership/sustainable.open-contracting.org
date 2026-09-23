@@ -1,9 +1,9 @@
 ---
-permalink: "/base-de-donnes-dtudes-de-cas/promoting-smes-by-reserving-public-contracts-in-the-dominican-republic"
+permalink: /base-de-donnes-dtudes-de-cas/promoting-smes-by-reserving-public-contracts-in-the-dominican-republic
 title: Promoting SMEs by reserving public contracts in the Dominican Republic
 description: "In the Dominican Republic Micro, Small and Medium-sized enterprises (MSMEs) represent 38.6% of the GDP and 54.5% of the overall employment. In 2012, a national policy was launched to support MSMEs, and the promotion of these companies was one of the three main objectives of the 2013, and 2016 National Multi-annual Public Sector Plans. \n\nAs part of this policy, a series of legal instruments were created. This includes Law No. 488-08, which establishes that 15% of all goods and services must be procured from MSMEs, and obliges 20% of this percentage to be from women-led MSMEs. Decree 543-12 establishes that procuring agencies set aside 20% of procurement budget for procurement from MSMEs. This Decree also establishes that these institutions are allowed to receive partial offers from MSMEs through the remaining 80%. \n\nAs part of this programme, an MSMEs registry was created. Public procurers can access this registry to obtain relevant information about MSMEs. This registry allows public procurers to examine MSMEs offers in a particular sector when a tender is launched. \n\nThese efforts, together with other supporting mechanisms, have resulted in an increase of over 380% in the number of MSMEs supplying the government - from 9,555 in 2012, to 36, 538 in 2019."
-cover: "/assets/images/LAC_-_Dominican_Republic.png"
-icon: "/assets/images/Notion-others2.png"
+cover: /assets/images/LAC_-_Dominican_Republic.png
+icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "32569e7bbe1c47cd8fe04be442f466f5"
 ---

@@ -1,9 +1,9 @@
 ---
-permalink: "/cree-un-plan-de-accin"
+permalink: /cree-un-plan-de-accin
 title: Cree un plan de acción
 description: "A lo largo del conjunto de herramientas hemos examinado algunos de los enfoques clave que usted puede adoptar al considerar la implementación de CPS Abierta. Hemos demostrado cómo se puede evaluar el entorno actual habilitante, como asignar prioridades en contratación, y cómo fijar las metas específicas de CPS eficazmente, con el fin de poder hacer monitoreo del progreso logrado, y lo que usted puede hacer para fortalecer capacidades e incrementar y facilitar su implementación."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
 ---

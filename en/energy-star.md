@@ -1,5 +1,5 @@
 ---
-permalink: "/energy-star"
+permalink: /energy-star
 title: Energy Star
 notion_id: "3e8c88efeec2438bb014aa6308fbce6a"
 properties:

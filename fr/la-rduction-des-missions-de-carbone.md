@@ -1,9 +1,9 @@
 ---
-permalink: "/la-rduction-des-missions-de-carbone"
+permalink: /la-rduction-des-missions-de-carbone
 title: La réduction des émissions de carbone
 description: Les gouvernements et les entreprises définissent des échéances pour atteindre un niveau d’émission neutre. Les marchés publics peuvent servir de levier pour accélérer cette transition en promouvant des solutions émettant peu de carbone dans les chaînes d’approvisionnement des gouvernements.
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
 ---
@@ -49,33 +49,22 @@ La publication et l’analyse de données de qualité permettront d’apprendre 
 
 Les priorités immédiates concernant la réduction des émissions de carbone concernent les rejets de carbone, les gaz à effet de serre, tels que le méthane, et les émissions de substances dangereuses, comme l’oxyde d’azote. Par ailleurs, d’autres indicateurs concernant la réduction des émissions de carbone peuvent porter sur le respect de certaines normes et la production de déchets plastiques.
 
-<div class="notion-collection inline collection-5ef3e4baa36c489e8bcb4007ca0e88c7">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#8ad3fbe9b3754037a99d2d7cb2334ac3"></a><span class="notion-semantic-string">Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics :</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values" class="notion-link notion-collection-card__anchor">How to estimate carbon values?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to estimate carbon values?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements" class="notion-link notion-collection-card__anchor">Benchmarking carbon procurements</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Benchmarking carbon procurements</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics : %}
+{% gallery medium %}
+- title: How to estimate carbon values?
+  link: /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Benchmarking carbon procurements
+  link: /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to gather the data you need?
+  link: /la-rduction-des-missions-de-carbone/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /la-rduction-des-missions-de-carbone/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Possibilités d’utilisation des données**
 

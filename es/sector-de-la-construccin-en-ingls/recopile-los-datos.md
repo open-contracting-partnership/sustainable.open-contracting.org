@@ -1,9 +1,9 @@
 ---
-permalink: "/sector-de-la-construccin-en-ingls/recopile-los-datos"
+permalink: /sector-de-la-construccin-en-ingls/recopile-los-datos
 title: Recopile los datos
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the project. "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "1233f7647aab4d65b07dd22478936934"
 ---

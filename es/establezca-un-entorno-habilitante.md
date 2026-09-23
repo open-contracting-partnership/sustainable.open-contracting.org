@@ -1,9 +1,9 @@
 ---
-permalink: "/establezca-un-entorno-habilitante"
+permalink: /establezca-un-entorno-habilitante
 title: "Establezca un entorno habilitante "
 description: "Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
 ---
@@ -69,9 +69,9 @@ Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la list
 </div>
 <h2 class="notion-heading notion-semantic-string"><strong>Identifique habilitantes clave para CPS</strong></h2>
 <p class="notion-text notion-text__content notion-semantic-string">Dentro de su régimen de contratación Debe haber algunos vehículos de política, tales como Acuerdos Marco, o protocolos para diálogo competitivo, que al mismo tiempo juegan un papel importante en la habilitación de la entrega de una contratación sostenible. En esta sección incluimos información sobre algunos de estos mecanismos, y el rol que ponen jugar en el contexto de CPS.</p>
-<div class="notion-collection inline collection-15d5b42cf4ef4215ab22874a683bafe4">
+<div class="notion-collection inline">
   <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#44c2a782c0b8496ca72e7edf39cf2a01"></a><span class="notion-semantic-string"><strong>Habilitantes clave de CPS Abierta</strong></span></h3>
+    <h3 class="notion-collection__header"><span class="notion-semantic-string"><strong>Habilitantes clave de CPS Abierta</strong></span></h3>
   </div>
   <div class="notion-collection-gallery medium">
     <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin" class="notion-link notion-collection-card__anchor">Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación</a>

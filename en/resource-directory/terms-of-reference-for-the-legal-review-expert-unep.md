@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/terms-of-reference-for-the-legal-review-expert-unep"
+permalink: /resource-directory/terms-of-reference-for-the-legal-review-expert-unep
 title: Terms of Reference for the Legal Review Expert (UNEP)
 notion_id: "1d54edf379d04562b96b110c014058d1"
 properties:

@@ -1,9 +1,9 @@
 ---
-permalink: "/des-critres-de-durabilit"
+permalink: /des-critres-de-durabilit
 title: Des critères de durabilité
 description: "La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les besoins réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
 ---

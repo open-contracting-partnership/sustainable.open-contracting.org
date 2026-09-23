@@ -1,9 +1,9 @@
 ---
-permalink: "/open-data-measuring-progress"
+permalink: /open-data-measuring-progress
 title: "Open data & measuring progress"
 description: "Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea at the start of the toolkit, and develop it further in the following sections, particularly when introducing a sample Measuring and evaluation (M&E) framework in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Imp_3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
 ---
@@ -62,43 +62,28 @@ There are different methods to collecting and analyzing data and these will vary
 As we explain in the introduction to this toolkit, high-quality open data is crucial for driving and measuring progress when implementing SPP. **To tackle key data foundations, we recommend consulting our [Green Flags guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/), and the [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).** 
 {% endcallout %}
 
-<div class="notion-collection inline collection-1c8c416622ea45c4b8ccc5a1ee6ee6ed">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#bcd7fee021e24e40ba6d27c444f643ef"></a><span class="notion-semantic-string">Click through to learn more</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/open-data-measuring-progress/options-for-data-use" class="notion-link notion-collection-card__anchor">Options for data use</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Options for data use</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/spp-uptake" class="notion-link notion-collection-card__anchor">SPP uptake</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>SPP uptake</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction" class="notion-link notion-collection-card__anchor">Carbon reduction</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Carbon reduction</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/options-for-data-use/use-cases/gender-equality" class="notion-link notion-collection-card__anchor">Gender inclusion</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Gender inclusion</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/life-cycle-costing" class="notion-link notion-collection-card__anchor">Life cycle costing</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Life cycle costing</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/economic-development" class="notion-link notion-collection-card__anchor">Economic Development</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2-2.png"/></div>Economic Development</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to learn more %}
+{% gallery medium %}
+- title: Options for data use
+  link: /open-data-measuring-progress/options-for-data-use
+  icon: /assets/images/Icons_Light_Green2.png
+- title: SPP uptake
+  link: /spp-uptake
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Carbon reduction
+  link: /carbon-reduction
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Gender inclusion
+  link: /options-for-data-use/use-cases/gender-equality
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Life cycle costing
+  link: /life-cycle-costing
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Economic Development
+  link: /economic-development
+  icon: /assets/images/Icons_Light_Green2-2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

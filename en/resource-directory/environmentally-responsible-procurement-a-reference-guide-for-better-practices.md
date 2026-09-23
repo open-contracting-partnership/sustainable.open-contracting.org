@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/environmentally-responsible-procurement-a-reference-guide-for-better-practices"
+permalink: /resource-directory/environmentally-responsible-procurement-a-reference-guide-for-better-practices
 title: Environmentally Responsible Procurement - A Reference Guide for Better Practices
 notion_id: "490407c3498b4105b6ef44cc2bb8c1f2"
 properties:

@@ -1,5 +1,5 @@
 ---
-permalink: "/base-de-donnes-dtudes-de-cas/afrique"
+permalink: /base-de-donnes-dtudes-de-cas/afrique
 title: Afrique
 full_width: true
 collection: true

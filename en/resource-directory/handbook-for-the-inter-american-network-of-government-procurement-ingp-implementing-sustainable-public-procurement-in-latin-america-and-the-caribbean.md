@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/handbook-for-the-inter-american-network-of-government-procurement-ingp-implementing-sustainable-public-procurement-in-latin-america-and-the-caribbean"
+permalink: /resource-directory/handbook-for-the-inter-american-network-of-government-procurement-ingp-implementing-sustainable-public-procurement-in-latin-america-and-the-caribbean
 title: "Handbook for the Inter-American Network of Government Procurement (INGP): Implementing Sustainable Public Procurement in Latin America and the Caribbean"
 notion_id: d10bc44b0d34449c9510dcb01de599c6
 properties:

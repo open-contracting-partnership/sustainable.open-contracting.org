@@ -1,29 +1,21 @@
 ---
-permalink: "/la-rduction-des-missions-de-carbone/cliquez-sur-les-sections-ci-dessous-pour-en-savoir-plus-sur-le-processus-et-les-donnes-requises-pour-calculer-le-niveau-dmission-de-carbone-des-marchs-publics"
+permalink: /la-rduction-des-missions-de-carbone/cliquez-sur-les-sections-ci-dessous-pour-en-savoir-plus-sur-le-processus-et-les-donnes-requises-pour-calculer-le-niveau-dmission-de-carbone-des-marchs-publics
 title: "Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics :"
 full_width: true
 collection: true
 notion_id: "8ad3fbe9b3754037a99d2d7cb2334ac3"
 ---
-<div class="notion-collection-gallery medium">
-  <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values" class="notion-link notion-collection-card__anchor">How to estimate carbon values?</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to estimate carbon values?</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements" class="notion-link notion-collection-card__anchor">Benchmarking carbon procurements</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Benchmarking carbon procurements</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need?</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need?</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/la-rduction-des-missions-de-carbone/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-    </div>
-  </div>
-</div>
+{% gallery medium %}
+- title: How to estimate carbon values?
+  link: /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Benchmarking carbon procurements
+  link: /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to gather the data you need?
+  link: /la-rduction-des-missions-de-carbone/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /la-rduction-des-missions-de-carbone/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}

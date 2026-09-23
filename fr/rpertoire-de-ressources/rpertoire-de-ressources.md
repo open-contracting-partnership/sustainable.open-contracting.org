@@ -1,5 +1,5 @@
 ---
-permalink: "/rpertoire-de-ressources/rpertoire-de-ressources"
+permalink: /rpertoire-de-ressources/rpertoire-de-ressources
 title: Répertoire de ressources
 full_width: true
 collection: true

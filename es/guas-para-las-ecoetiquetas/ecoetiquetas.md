@@ -1,5 +1,5 @@
 ---
-permalink: "/guas-para-las-ecoetiquetas/ecoetiquetas"
+permalink: /guas-para-las-ecoetiquetas/ecoetiquetas
 title: "Ecoetiquetas "
 full_width: true
 collection: true

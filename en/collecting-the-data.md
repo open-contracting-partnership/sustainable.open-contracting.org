@@ -1,9 +1,9 @@
 ---
-permalink: "/collecting-the-data"
+permalink: /collecting-the-data
 title: Collecting the data
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "1249fec1b95a4a738fab36c8ec0985ab"
 ---

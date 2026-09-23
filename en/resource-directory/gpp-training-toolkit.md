@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/gpp-training-toolkit"
+permalink: /resource-directory/gpp-training-toolkit
 title: GPP Training Toolkit
 notion_id: "243e6c9f560440a69589a2803f5dbd78"
 properties:

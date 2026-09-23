@@ -1,8 +1,8 @@
 ---
-permalink: "/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante"
+permalink: /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante
 title: Lista de chequeo rápido – Evalúe su entorno habilitante
 description: Quick checklist
-icon: "/assets/images/Tick_green_2.png"
+icon: /assets/images/Tick_green_2.png
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
 ---
 {% callout green /assets/images/Pin_green.png %}

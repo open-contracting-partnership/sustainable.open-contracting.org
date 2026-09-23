@@ -1,9 +1,9 @@
 ---
-permalink: "/linclusion-des-genres"
+permalink: /linclusion-des-genres
 title: L’inclusion des genres
 description: "Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 ---
@@ -51,33 +51,22 @@ b) ≥ 1 directrice générale ou directrice des opérations (présidente/vice-p
 
 c) Des femmes sont propriétaires exclusives de l’entreprise.
 
-<div class="notion-collection inline collection-d28852c94b054060800d80e91f96238c">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#fb8a5242429d4c17bdd1f6e07e1f79b4"></a><span class="notion-semantic-string">Getting started</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/linclusion-des-genres/how-to-analyze-the-gender-pay-gap" class="notion-link notion-collection-card__anchor">How to analyze the gender pay gap</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to analyze the gender pay gap</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/linclusion-des-genres/women-in-boardrooms-female-owned-businesses" class="notion-link notion-collection-card__anchor">Women in boardrooms / female owned businesses</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Women in boardrooms / female owned businesses</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/linclusion-des-genres/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/linclusion-des-genres/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Getting started %}
+{% gallery medium %}
+- title: How to analyze the gender pay gap
+  link: /linclusion-des-genres/how-to-analyze-the-gender-pay-gap
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Women in boardrooms / female owned businesses
+  link: /linclusion-des-genres/women-in-boardrooms-female-owned-businesses
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to gather the data you need?
+  link: /linclusion-des-genres/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /linclusion-des-genres/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Possibilités de collecte des données**
 

@@ -1,8 +1,8 @@
 ---
-permalink: "/spp-uptake/analyzing-and-reporting-data"
+permalink: /spp-uptake/analyzing-and-reporting-data
 title: Analyzing and reporting data
 description: Good data on SPP uptake can be fed into dashboards and reports to allow policy makers and enforcement authorities a high level overview of SPP procurement side by side with policy and legislative targets as well as other metrics.
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: "94800dc6d4f6411b8220808ad9b79666"
 ---
 Good data on SPP uptake can be fed into dashboards and reports to allow policy makers and enforcement authorities a high level overview of SPP procurement side by side with policy and legislative targets as well as other metrics.

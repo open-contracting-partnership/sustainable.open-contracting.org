@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/bill-of-quantities-boq-template-european-bank-for-reconstruction-and-development-ebrd"
+permalink: /resource-directory/bill-of-quantities-boq-template-european-bank-for-reconstruction-and-development-ebrd
 title: Bill of Quantities (BOQ) Template - European Bank for Reconstruction and Development (EBRD)
 notion_id: e7524aacfe0d49a2bfaecd4ebcb77aed
 properties:

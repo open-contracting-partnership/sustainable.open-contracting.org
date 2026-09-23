@@ -1,5 +1,5 @@
 ---
-permalink: "/open-data-measuring-progress/economic-development/analysing-and-reporting-data"
+permalink: /open-data-measuring-progress/economic-development/analysing-and-reporting-data
 title: Analysing and reporting data
 description: "When reporting against economic development data, you will need to establish what you want to measure and what you want to report publicly before the data is collected and processed. If your policy is to create new jobs you can choose a metric that would create a report relating to the number of jobs that have been created by the award of contracts."
 notion_id: f46e0d0ac7a945dd8dd62521a5f3280e

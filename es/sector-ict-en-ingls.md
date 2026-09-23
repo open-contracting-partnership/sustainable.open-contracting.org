@@ -1,9 +1,9 @@
 ---
-permalink: "/sector-ict-en-ingls"
+permalink: /sector-ict-en-ingls
 title: Sector ICT (en inglés)
 description: "La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey5.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
 ---
@@ -27,33 +27,22 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
 
-<div class="notion-collection inline collection-26ccad1aec404058afbdb34663c2db63">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#d7927c8ac8094938a033b66caa06ca2c"></a><span class="notion-semantic-string"><strong>Haga clic para mayor información</strong></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/sector-ict-en-ingls/establezca-el-marco-de-trabajo" class="notion-link notion-collection-card__anchor">Establezca el marco de trabajo</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Establezca el marco de trabajo</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/sector-ict-en-ingls/seleccione-sus-datos" class="notion-link notion-collection-card__anchor">Seleccione sus datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Seleccione sus datos</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/sector-ict-en-ingls/recopile-los-datos" class="notion-link notion-collection-card__anchor">Recopile los datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Recopile los datos</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/sector-ict-en-ingls/apoye-cps-efectiva" class="notion-link notion-collection-card__anchor">Apoye CPS efectiva</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Apoye CPS efectiva</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Haga clic para mayor información** %}
+{% gallery medium %}
+- title: Establezca el marco de trabajo
+  link: /sector-ict-en-ingls/establezca-el-marco-de-trabajo
+  icon: /assets/images/Icons_Grey6.png
+- title: Seleccione sus datos
+  link: /sector-ict-en-ingls/seleccione-sus-datos
+  icon: /assets/images/Icons_Grey6.png
+- title: Recopile los datos
+  link: /sector-ict-en-ingls/recopile-los-datos
+  icon: /assets/images/Icons_Grey6.png
+- title: Apoye CPS efectiva
+  link: /sector-ict-en-ingls/apoye-cps-efectiva
+  icon: /assets/images/Icons_Grey6.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

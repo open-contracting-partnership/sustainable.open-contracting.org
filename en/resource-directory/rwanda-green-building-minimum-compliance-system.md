@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/rwanda-green-building-minimum-compliance-system"
+permalink: /resource-directory/rwanda-green-building-minimum-compliance-system
 title: Rwanda Green Building Minimum Compliance System
 notion_id: "7bca439dc06343a49a85d89dd0deb331"
 properties:

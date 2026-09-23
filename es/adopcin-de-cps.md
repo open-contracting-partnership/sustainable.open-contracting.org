@@ -1,9 +1,9 @@
 ---
-permalink: "/adopcin-de-cps"
+permalink: /adopcin-de-cps
 title: Adopción de CPS
 description: "Medir los niveles de adopción de CPS consiste en saber en qué medida los compradores públicos confían en la contratación pública sostenible, ya sea durante el proceso de contratación o después del hecho para permitir la identificación clara de la contratación social, ambiental o económica dentro de la licitación y la contratación."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "639b93b8abde4b02b97b87d03f26947b"
 ---
@@ -51,33 +51,22 @@ Como tal, es vital que los gobiernos sean claros acerca de las políticas que de
 
 Una vez que esto se ha establecido claramente, puede medir y registrar la aceptación de las políticas de CPS.
 
-<div class="notion-collection inline collection-6d68e19f8c4f41b98e5ecf7974e83d4a">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#7ca2fb0638404bae83ecc23035cf0805"></a><span class="notion-semantic-string"><strong>Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:</strong></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica" class="notion-link notion-collection-card__anchor">Cómo registrar CPS en contratación pública</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Cómo registrar CPS en contratación pública</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/adopcin-de-cps/opciones-de-medicin" class="notion-link notion-collection-card__anchor">Opciones de medición</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Opciones de medición</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/adopcin-de-cps/cmo-medir-la-aceptacin-de-cps" class="notion-link notion-collection-card__anchor">Cómo medir la aceptación de CPS</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Cómo medir la aceptación de CPS</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/adopcin-de-cps/anlisis-e-informe-de-datos" class="notion-link notion-collection-card__anchor">Análisis e informe de datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Análisis e informe de datos</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:** %}
+{% gallery medium %}
+- title: Cómo registrar CPS en contratación pública
+  link: /adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Opciones de medición
+  link: /adopcin-de-cps/opciones-de-medicin
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Cómo medir la aceptación de CPS
+  link: /adopcin-de-cps/cmo-medir-la-aceptacin-de-cps
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Análisis e informe de datos
+  link: /adopcin-de-cps/anlisis-e-informe-de-datos
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Indicadores de muestra**
 

@@ -1,8 +1,8 @@
 ---
-permalink: "/costeo-del-ciclo-de-vida/cmo-recopilar-los-datos-que-necesita"
+permalink: /costeo-del-ciclo-de-vida/cmo-recopilar-los-datos-que-necesita
 title: "¿Cómo recopilar los datos que necesita?"
 description: "You can use simple pricing estimates, e.g. from your own contract data or the open data published by others. To gain a more detailed picture it is useful to gather actual payment data from your own or other organizations."
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: e04fb64fb1214fc8942e892ceaa6701a
 ---
 You can use simple pricing estimates, e.g. from your own contract data or the open data published by others. To gain a more detailed picture it is useful to gather actual payment data from your own or other organizations.

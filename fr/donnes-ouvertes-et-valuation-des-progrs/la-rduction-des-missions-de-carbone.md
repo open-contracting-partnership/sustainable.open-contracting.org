@@ -1,9 +1,9 @@
 ---
-permalink: "/donnes-ouvertes-et-valuation-des-progrs/la-rduction-des-missions-de-carbone"
+permalink: /donnes-ouvertes-et-valuation-des-progrs/la-rduction-des-missions-de-carbone
 title: La réduction des émissions de carbone
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "0895dda34d9e41bcaa9ea91eb8ef1ef6"
 ---

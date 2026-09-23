@@ -1,13 +1,28 @@
 ---
-permalink: "/case-study-database-1/africa"
+permalink: /case-study-database-1/africa
 title: Africa
 full_width: true
 collection: true
 notion_id: d1540eb07fda4dac836ffa8c346591a0
 ---
-<div class="notion-collection-gallery large">
-  <div class="notion-collection-card gallery"><a href="/promoting-equal-access-to-government-opportunities-in-kenya" class="notion-link notion-collection-card__anchor">Promoting equal access to government opportunities in Kenya</a><img alt="Promoting equal access to government opportunities in Kenya" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Africa_-_Kenya.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/communicating-spp-operational-objectives-in-an-action-plan-in-cape-town" class="notion-link notion-collection-card__anchor">Communicating SPP operational objectives in an Action Plan in Cape Town</a><img alt="Communicating SPP operational objectives in an Action Plan in Cape Town" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.38000000000001%" src="/assets/images/Africa_-_Cape_Town.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/using-local-resources-for-the-design-of-the-first-sustainability-accredited-building-in-ghana" class="notion-link notion-collection-card__anchor">Using local resources for the design of the first sustainability-accredited building in Ghana</a><img alt="Using local resources for the design of the first sustainability-accredited building in Ghana" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.790000000000006%" src="/assets/images/Africa_-_Ghana.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia" class="notion-link notion-collection-card__anchor">Using a two-stage tender to increase collaboration in a construction project in Namibia</a><img alt="Using a two-stage tender to increase collaboration in a construction project in Namibia" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.580000000000005%" src="/assets/images/Africa_-_Namibia.png"/></div>
-</div>
+{% gallery large %}
+- title: Promoting equal access to government opportunities in Kenya
+  link: /promoting-equal-access-to-government-opportunities-in-kenya
+  cover: /assets/images/Africa_-_Kenya.png
+  cover_only: true
+- title: Communicating SPP operational objectives in an Action Plan in Cape Town
+  link: /communicating-spp-operational-objectives-in-an-action-plan-in-cape-town
+  cover: /assets/images/Africa_-_Cape_Town.png
+  cover_position: 54.38
+  cover_only: true
+- title: Using local resources for the design of the first sustainability-accredited building in Ghana
+  link: /using-local-resources-for-the-design-of-the-first-sustainability-accredited-building-in-ghana
+  cover: /assets/images/Africa_-_Ghana.png
+  cover_position: 54.79
+  cover_only: true
+- title: Using a two-stage tender to increase collaboration in a construction project in Namibia
+  link: /using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia
+  cover: /assets/images/Africa_-_Namibia.png
+  cover_position: 54.58
+  cover_only: true
+{% endgallery %}

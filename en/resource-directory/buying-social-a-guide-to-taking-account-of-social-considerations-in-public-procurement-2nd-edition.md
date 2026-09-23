@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/buying-social-a-guide-to-taking-account-of-social-considerations-in-public-procurement-2nd-edition"
+permalink: /resource-directory/buying-social-a-guide-to-taking-account-of-social-considerations-in-public-procurement-2nd-edition
 title: Buying Social - a guide to taking account of social considerations in public procurement (2nd edition)
 notion_id: "28da41e1d4ec41819cb58c9d07bb46c2"
 properties:

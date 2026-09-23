@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/resource-directory"
+permalink: /resource-directory/resource-directory
 title: Resource Directory
 full_width: true
 collection: true

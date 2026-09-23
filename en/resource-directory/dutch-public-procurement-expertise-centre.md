@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/dutch-public-procurement-expertise-centre"
+permalink: /resource-directory/dutch-public-procurement-expertise-centre
 title: Dutch Public Procurement Expertise Centre
 notion_id: a9ed3fa099d74183920f8be30fe39343
 properties:

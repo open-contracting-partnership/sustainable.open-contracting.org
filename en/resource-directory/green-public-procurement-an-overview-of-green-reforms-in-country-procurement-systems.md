@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/green-public-procurement-an-overview-of-green-reforms-in-country-procurement-systems"
+permalink: /resource-directory/green-public-procurement-an-overview-of-green-reforms-in-country-procurement-systems
 title: "Green Public Procurement: An overview of green reforms in country procurement systems"
 notion_id: c07a8b25607c4e99a64e1b286ec877c5
 properties:

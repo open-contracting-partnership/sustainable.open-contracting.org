@@ -1,9 +1,9 @@
 ---
-permalink: "/qu-es"
+permalink: /qu-es
 title: "¿Qué es?"
 description: "La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: beneficios económicos, sociales y ambientales."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Blue_Intro2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
 ---
@@ -97,72 +97,69 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 
 ### **Datos de contratación unidos: ¿Qué publicar y por qué?**
 
-<div class="notion-collection inline collection-d3f9e901b2be42a5b3d829823e566eb6">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#75b0fcf189014bd0885a1a812a63ab56"></a><span class="notion-semantic-string">Untitled</span></h3>
-  </div>
-  <div class="notion-collection-table__wrapper">
-    <table class="notion-collection-table">
-      <thead class="notion-collection-table__head">
-        <tr>
-          <th class="notion-collection-table__head-cell text" style="width:202px">
-            <div class="notion-collection-table__head-cell-content"></div>
-          </th>
-          <th class="notion-collection-table__head-cell text" style="width:202px">
-            <div class="notion-collection-table__head-cell-content"> 1</div>
-          </th>
-          <th class="notion-collection-table__head-cell text" style="width:202px">
-            <div class="notion-collection-table__head-cell-content"> 2</div>
-          </th>
-          <th class="notion-collection-table__head-cell text" style="width:202px">
-            <div class="notion-collection-table__head-cell-content"> 3</div>
-          </th>
-          <th class="notion-collection-table__head-cell text" style="width:202px">
-            <div class="notion-collection-table__head-cell-content"> 4</div>
-          </th>
-          <th class="notion-collection-table__head-cell title" style="width:282px">
-            <div class="notion-collection-table__head-cell-content">Title</div>
-          </th>
-        </tr>
-      </thead>
-      <tbody class="notion-collection-table__body">
-        <tr>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><strong>Planeación</strong>
+{% database Untitled %}
+<div class="notion-collection-table__wrapper">
+  <table class="notion-collection-table">
+    <thead class="notion-collection-table__head">
+      <tr>
+        <th class="notion-collection-table__head-cell text" style="width:202px">
+          <div class="notion-collection-table__head-cell-content"></div>
+        </th>
+        <th class="notion-collection-table__head-cell text" style="width:202px">
+          <div class="notion-collection-table__head-cell-content"> 1</div>
+        </th>
+        <th class="notion-collection-table__head-cell text" style="width:202px">
+          <div class="notion-collection-table__head-cell-content"> 2</div>
+        </th>
+        <th class="notion-collection-table__head-cell text" style="width:202px">
+          <div class="notion-collection-table__head-cell-content"> 3</div>
+        </th>
+        <th class="notion-collection-table__head-cell text" style="width:202px">
+          <div class="notion-collection-table__head-cell-content"> 4</div>
+        </th>
+        <th class="notion-collection-table__head-cell title" style="width:282px">
+          <div class="notion-collection-table__head-cell-content">Title</div>
+        </th>
+      </tr>
+    </thead>
+    <tbody class="notion-collection-table__body">
+      <tr>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><strong>Planeación</strong>
 <em>Que incluya </em><strong></strong></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><strong>Licitación </strong>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><strong>Licitación </strong>
 <em>Que incluya </em><strong></strong></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><strong>Adjudicación </strong>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><strong>Adjudicación </strong>
 <em>Que incluya </em><strong></strong></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><strong>Contrato </strong>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><strong>Contrato </strong>
 <em>Que incluya </em><strong></strong></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><strong>Ejecución </strong>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><strong>Ejecución </strong>
 <em>Que incluya </em><strong></strong></p>
-          </td>
-          <td class="notion-collection-table__cell title no-click">
-            <div>
-              <div class="notion-property notion-property__title notion-semantic-string"></div>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Presupuesto (Incluidas prioridades verdes)
+        </td>
+        <td class="notion-collection-table__cell title no-click">
+          <div>
+            <div class="notion-property notion-property__title notion-semantic-string"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Presupuesto (Incluidas prioridades verdes)
 Razón y fuente presupuestal
 Planes de proyecto con objetivos verdes
 Planes de contratación con objetivos verdes
 Información de audiencia pública</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Notificaciones de la licitación (título, descripción, valor)
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Notificaciones de la licitación (título, descripción, valor)
 Criterios de adjudicación estandarizados (incl. criterios GPP)
 Razón de método PP
 Información de proveedores, incl.. desempeño anterior.
@@ -170,69 +167,69 @@ Especificaciones
 Rubros de línea, especificando categorías verdes
 Averiguaciones
 Documentos adicionales</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Detalles de la adjudicación (título, descripción, valor, documentos)
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Detalles de la adjudicación (título, descripción, valor, documentos)
 Criterios GPP utilizados
 Información del oferente
 Evaluación de la propuesta
 Valores</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Detalles finales (título, descripción, periodo, valor)
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Detalles finales (título, descripción, periodo, valor)
 Hitos y objetivos (incl.. verdes)
 Metodología de medición/evaluación
 Enmiendas
 Valores</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Pagos
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Pagos
 Actualizaciones del progreso / estado de la ejecución
 Hitos / objetivos
 Localización
 Prórrogas,
 Enmiendas
 Detalles de finalización o terminación</p>
-          </td>
-          <td class="notion-collection-table__cell title no-click">
-            <div>
-              <div class="notion-property notion-property__title notion-semantic-string"></div>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><em>Que permita</em></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><em>Que permita</em></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><em>Que permita</em></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><em>Que permita</em></p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><em>Que permita</em></p>
-          </td>
-          <td class="notion-collection-table__cell title no-click">
-            <div>
-              <div class="notion-property notion-property__title notion-semantic-string"></div>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Análisis de inversiones verdes planeadas y prioridades.
+        </td>
+        <td class="notion-collection-table__cell title no-click">
+          <div>
+            <div class="notion-property notion-property__title notion-semantic-string"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string"><em>Que permita</em></p>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><em>Que permita</em></p>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><em>Que permita</em></p>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><em>Que permita</em></p>
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><em>Que permita</em></p>
+        </td>
+        <td class="notion-collection-table__cell title no-click">
+          <div>
+            <div class="notion-property notion-property__title notion-semantic-string"></div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-6c743a51 notion-semantic-string">Análisis de inversiones verdes planeadas y prioridades.
 Informar a los proveedores acerca de oportunidades GPP venideras.
 Identificar si un procedimiento específico tiene criterios verdes.
 Planeación estratégica alrededor de la transición verde.
 Investigación del mercado.
 Fijar y articular prioridades verdes.</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.
 Comparaciones de análisis/precio específicos por categoría.
 Que los proveedores encuentren oportunidades de negocio verde.
 Análisis de resultados GPP previstos.
@@ -241,39 +238,39 @@ Compromiso/consultas
 Desempeño /análisis del mercado del proveedor.
 Oferta competitiva.
 Análisis de bandera roja.</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Identificar adjudicaciones relacionadas con GPP – claves para análisis de la supervisión
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-45534064 notion-semantic-string">Identificar adjudicaciones relacionadas con GPP – claves para análisis de la supervisión
 Análisis específico del mercado verde.
 Análisis de resultados verdes previstos.
 Que los proveedores identifiquen futuras oportunidades de negocio.
 Un mecanismo eficiente de quejas
 Vínculos a datos de propiedad
 Análisis de bandera roja</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Identificar cuáles contratos se refieren a GPP.
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-7266406e notion-semantic-string">Identificar cuáles contratos se refieren a GPP.
 Análisis de resultados / impactos potenciales verdes.
 Análisis de costos y rubros</p>
-          </td>
-          <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Resultados basados en contratación.
+        </td>
+        <td class="notion-collection-table__cell text">
+          <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string">Resultados basados en contratación.
 Implementación de supervisión, en particular si se alcanzaron os objetivos GPP.
 Eficiencia de la ejecución del contrato en cuanto a objetivos verdes.
 Análisis de planeación GPP futura.
 Análisis de costos final.
 Análisis de bandera roja.</p>
-          </td>
-          <td class="notion-collection-table__cell title no-click">
-            <div>
-              <div class="notion-property notion-property__title notion-semantic-string"></div>
-            </div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+        </td>
+        <td class="notion-collection-table__cell title no-click">
+          <div>
+            <div class="notion-property notion-property__title notion-semantic-string"></div>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+{% enddatabase %}
 
 ## **El papel esencial de los identificadores para rastrear el desempeño de CPS**
 

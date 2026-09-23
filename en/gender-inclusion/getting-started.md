@@ -1,29 +1,21 @@
 ---
-permalink: "/gender-inclusion/getting-started"
+permalink: /gender-inclusion/getting-started
 title: Getting started
 full_width: true
 collection: true
 notion_id: "680a29531e33415288c700657b4c8e93"
 ---
-<div class="notion-collection-gallery medium">
-  <div class="notion-collection-card gallery"><a href="/gender-inclusion/how-to-analyze-the-gender-pay-gap" class="notion-link notion-collection-card__anchor">How to analyze the gender pay gap</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to analyze the gender pay gap</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/gender-inclusion/women-in-boardrooms-female-owned-businesses" class="notion-link notion-collection-card__anchor">Women in boardrooms / female owned businesses</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Women in boardrooms / female owned businesses</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/gender-inclusion/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need?</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need?</div>
-    </div>
-  </div>
-  <div class="notion-collection-card gallery"><a href="/gender-inclusion/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-    <div class="notion-collection-card__content notion-collection-card__property-list">
-      <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-    </div>
-  </div>
-</div>
+{% gallery medium %}
+- title: How to analyze the gender pay gap
+  link: /gender-inclusion/how-to-analyze-the-gender-pay-gap
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Women in boardrooms / female owned businesses
+  link: /gender-inclusion/women-in-boardrooms-female-owned-businesses
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to gather the data you need?
+  link: /gender-inclusion/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /gender-inclusion/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}

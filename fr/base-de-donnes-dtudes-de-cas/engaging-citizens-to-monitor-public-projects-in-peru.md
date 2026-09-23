@@ -1,10 +1,10 @@
 ---
-permalink: "/base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru"
+permalink: /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru
 title: Engaging citizens to monitor public projects in Peru
 description: " "
-cover: "/assets/images/LAC_-_Peru.png"
+cover: /assets/images/LAC_-_Peru.png
 cover_position: 53.12
-icon: "/assets/images/Notion-others2.png"
+icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: "9fcf501ffb744defa2fff84fd0ab9ffe"
 ---

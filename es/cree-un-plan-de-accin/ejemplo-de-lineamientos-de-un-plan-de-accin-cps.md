@@ -1,8 +1,8 @@
 ---
-permalink: "/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps"
+permalink: /cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps
 title: Ejemplo de Lineamientos de un Plan de Acción CPS
 description: "The outline presented has been adapted from: UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach (page 94)."
-icon: "/assets/images/Tick_green_2.png"
+icon: /assets/images/Tick_green_2.png
 notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 ---
 {% callout green /assets/images/Pin_green.png %}

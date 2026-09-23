@@ -1,17 +1,45 @@
 ---
-permalink: "/case-study-database-1/latin-america-and-the-caribbean"
+permalink: /case-study-database-1/latin-america-and-the-caribbean
 title: Latin America and the Caribbean
 full_width: true
 collection: true
 notion_id: a02b0ed1590146ebb846fbba9f36f1f0
 ---
-<div class="notion-collection-gallery large">
-  <div class="notion-collection-card gallery"><a href="/promoting-gender-inclusion-through-procurement-in-chile" class="notion-link notion-collection-card__anchor">Promoting gender inclusion through procurement in Chile</a><img alt="Promoting gender inclusion through procurement in Chile" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 49.5%" src="/assets/images/LAC_-_Chile.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/promoting-family-agriculture-through-procurement-in-paraguay" class="notion-link notion-collection-card__anchor">Promoting family agriculture through procurement in Paraguay</a><img alt="Promoting family agriculture through procurement in Paraguay" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.879999999999995%" src="/assets/images/LAC_-_Paraguay.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/communicating-the-enabling-framework-in-an-spp-action-plan-in-argentina" class="notion-link notion-collection-card__anchor">Communicating the enabling framework in an SPP Action Plan in Argentina</a><img alt="Communicating the enabling framework in an SPP Action Plan in Argentina" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.48%" src="/assets/images/LAC_-_Argentina.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/engaging-citizens-to-monitor-public-projects-in-peru" class="notion-link notion-collection-card__anchor">Engaging citizens to monitor public projects in Peru</a><img alt="Engaging citizens to monitor public projects in Peru" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.12%" src="/assets/images/LAC_-_Peru.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia" class="notion-link notion-collection-card__anchor">Engaging citizens to monitor corruption in public construction projects in Colombia</a><img alt="Engaging citizens to monitor corruption in public construction projects in Colombia" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Colombia.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/promoting-smes-by-reserving-public-contracts-in-the-dominican-republic" class="notion-link notion-collection-card__anchor">Promoting SMEs by reserving public contracts in the Dominican Republic</a><img alt="Promoting SMEs by reserving public contracts in the Dominican Republic" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Dominican_Republic.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/establishing-spp-governance-in-an-action-plan-in-ecuador" class="notion-link notion-collection-card__anchor">Establishing SPP governance in an Action Plan in Ecuador</a><img alt="Establishing SPP governance in an Action Plan in Ecuador" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Ecuador.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city" class="notion-link notion-collection-card__anchor">Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City </a><img alt="Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City " loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Mexico.png"/></div>
-</div>
+{% gallery large %}
+- title: Promoting gender inclusion through procurement in Chile
+  link: /promoting-gender-inclusion-through-procurement-in-chile
+  cover: /assets/images/LAC_-_Chile.png
+  cover_position: 49.5
+  cover_only: true
+- title: Promoting family agriculture through procurement in Paraguay
+  link: /promoting-family-agriculture-through-procurement-in-paraguay
+  cover: /assets/images/LAC_-_Paraguay.png
+  cover_position: 53.88
+  cover_only: true
+- title: Communicating the enabling framework in an SPP Action Plan in Argentina
+  link: /communicating-the-enabling-framework-in-an-spp-action-plan-in-argentina
+  cover: /assets/images/LAC_-_Argentina.png
+  cover_position: 54.48
+  cover_only: true
+- title: Engaging citizens to monitor public projects in Peru
+  link: /engaging-citizens-to-monitor-public-projects-in-peru
+  cover: /assets/images/LAC_-_Peru.png
+  cover_position: 53.12
+  cover_only: true
+- title: Engaging citizens to monitor corruption in public construction projects in Colombia
+  link: /engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia
+  cover: /assets/images/LAC_-_Colombia.png
+  cover_only: true
+- title: Promoting SMEs by reserving public contracts in the Dominican Republic
+  link: /promoting-smes-by-reserving-public-contracts-in-the-dominican-republic
+  cover: /assets/images/LAC_-_Dominican_Republic.png
+  cover_only: true
+- title: Establishing SPP governance in an Action Plan in Ecuador
+  link: /establishing-spp-governance-in-an-action-plan-in-ecuador
+  cover: /assets/images/LAC_-_Ecuador.png
+  cover_only: true
+- title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City "
+  link: /using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city
+  cover: /assets/images/LAC_-_Mexico.png
+  cover_only: true
+{% endgallery %}

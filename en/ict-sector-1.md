@@ -1,9 +1,9 @@
 ---
-permalink: "/ict-sector-1"
+permalink: /ict-sector-1
 title: ICT sector
 description: "The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey5.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "2462de71d6934cb485309c397db0d90b"
 ---
@@ -27,33 +27,22 @@ This section focuses on the purchase of hardware equipment, which mainly include
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
 
-<div class="notion-collection inline collection-d0026fc150994c68b062e0cfd8b6eec0">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#3fcf9e55cc214a889ce7a0579e410269"></a><span class="notion-semantic-string"><strong>Click through to learn more</strong></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/setting-the-framework" class="notion-link notion-collection-card__anchor">Setting the framework</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Setting the framework</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/selecting-your-data" class="notion-link notion-collection-card__anchor">Selecting your data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Selecting your data</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/collecting-the-data" class="notion-link notion-collection-card__anchor">Collecting the data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Collecting the data</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/supporting-effective-spp" class="notion-link notion-collection-card__anchor">Supporting effective SPP</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Supporting effective SPP</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Click through to learn more** %}
+{% gallery medium %}
+- title: Setting the framework
+  link: /setting-the-framework
+  icon: /assets/images/Icons_Grey6.png
+- title: Selecting your data
+  link: /selecting-your-data
+  icon: /assets/images/Icons_Grey6.png
+- title: Collecting the data
+  link: /collecting-the-data
+  icon: /assets/images/Icons_Grey6.png
+- title: Supporting effective SPP
+  link: /supporting-effective-spp
+  icon: /assets/images/Icons_Grey6.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

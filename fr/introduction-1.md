@@ -1,9 +1,9 @@
 ---
-permalink: "/introduction-1"
+permalink: /introduction-1
 title: Introduction
 description: "Les préoccupations croissantes concernant les changements climatiques et la durabilité ont incité les gouvernements du monde entier à s’engager à supprimer leurs émissions de carbone, réduire la déforestation et promouvoir des chaînes d’approvisionnement respectueuses de l’environnement."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Intro_play.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
 ---
@@ -37,28 +37,19 @@ Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'intr
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1648" height="678" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_2Introduction_%283%29.png"/></div>
 
-<div class="notion-collection inline collection-8a9a2c2a3f4849dab6a6a0954a36d05c">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#9aea3c2393744a4cb3094e897e675a58"></a><span class="notion-semantic-string">Click through to learn more</span></h3>
-  </div>
-  <div class="notion-collection-gallery large">
-    <div class="notion-collection-card gallery"><a href="/comment-utiliser" class="notion-link notion-collection-card__anchor">Comment utiliser ce guide pratique?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>Comment utiliser ce guide pratique?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/definition" class="notion-link notion-collection-card__anchor">Definition</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>Definition</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/vous-avez-demandes" class="notion-link notion-collection-card__anchor">Ce que vous avez demandées</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>Ce que vous avez demandées</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to learn more %}
+{% gallery large %}
+- title: Comment utiliser ce guide pratique?
+  link: /comment-utiliser
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: Definition
+  link: /definition
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: Ce que vous avez demandées
+  link: /vous-avez-demandes
+  icon: /assets/images/Icons_Blue_Intro2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

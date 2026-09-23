@@ -1,9 +1,9 @@
 ---
-permalink: "/reduccin-de-carbono"
+permalink: /reduccin-de-carbono
 title: Reducción de carbono
 description: Los gobiernos y las empresas están fijando plazos para lograr cero emisiones. La contratación pública se puede utilizar como palanca para impulsar el cambio mediante la promoción de alternativas bajas en carbono en las cadenas de suministro del gobierno.
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
 ---
@@ -49,33 +49,22 @@ La publicación y el análisis de buenos datos desbloquearán el aprendizaje y l
 
 Las prioridades inmediatas para la reducción de carbono incluyen emisiones de carbono y otras emisiones de gases de efecto invernadero como el metano y emisiones peligrosas como los óxidos de nitrógeno. Más allá de esto, otras métricas en torno a la reducción de carbono incluyen el cumplimiento de la certificación y la medición de los desechos plásticos.
 
-<div class="notion-collection inline collection-1c72014513584ba9a6126e2b575e5f1f">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#f325664dacee4ac9bcb1f83c2c70736a"></a><span class="notion-semantic-string">Haga clic en las siguientes secciones para conocer más acerca de cómo empezar:</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono/cmo-estimar-los-valores-de-carbono" class="notion-link notion-collection-card__anchor">¿Cómo estimar los valores de carbono?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>¿Cómo estimar los valores de carbono?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono/evaluacin-comparativa-de-contrataciones-de-carbono" class="notion-link notion-collection-card__anchor">Evaluación comparativa de contrataciones de carbono</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Evaluación comparativa de contrataciones de carbono</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono/cmo-recopilar-los-datos-que-requiere" class="notion-link notion-collection-card__anchor">¿Cómo recopilar los datos que requiere?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>¿Cómo recopilar los datos que requiere?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono/anlisis-y-reporte-de-datos" class="notion-link notion-collection-card__anchor">Análisis y reporte de datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Análisis y reporte de datos</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Haga clic en las siguientes secciones para conocer más acerca de cómo empezar: %}
+{% gallery medium %}
+- title: "¿Cómo estimar los valores de carbono?"
+  link: /reduccin-de-carbono/cmo-estimar-los-valores-de-carbono
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Evaluación comparativa de contrataciones de carbono
+  link: /reduccin-de-carbono/evaluacin-comparativa-de-contrataciones-de-carbono
+  icon: /assets/images/Icons_Light_Green3.png
+- title: "¿Cómo recopilar los datos que requiere?"
+  link: /reduccin-de-carbono/cmo-recopilar-los-datos-que-requiere
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Análisis y reporte de datos
+  link: /reduccin-de-carbono/anlisis-y-reporte-de-datos
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Opciones para el uso de datos**
 

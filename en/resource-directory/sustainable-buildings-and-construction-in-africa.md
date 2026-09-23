@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/sustainable-buildings-and-construction-in-africa"
+permalink: /resource-directory/sustainable-buildings-and-construction-in-africa
 title: Sustainable Buildings and Construction in Africa
 notion_id: "9c119da81efe4b1e900beaa60f401a3d"
 properties:

@@ -1,9 +1,9 @@
 ---
-permalink: "/le-cot-du-cycle-de-vie"
+permalink: /le-cot-du-cycle-de-vie
 title: Le coût du cycle de vie
 description: "La prise en compte du coût du cycle de vie, ou du coût total de possession, désigne une pratique comptable consistant à déterminer le coût composé d’un actif. Dans le cadre des marchés publics, les acheteurs calculent le coût du cycle de vie pour évaluer le coût complet de possession d’un actif, typiquement d’une machine. Le coût du cycle de vie d’un équipement doit inclure le prix d’achat initial, le coût d’exploitation, tous les coûts liés à la mise en conformité, le coût d’entretien et le coût de mise hors service ou de sortie du capital. Il est également possible d’y intégrer le coût des défaillances et le coût de remplacement."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "1d8fd281d39d498ba986659dddc89537"
 ---
@@ -79,33 +79,22 @@ Il existe une grande variété de possibilités d’analyse dans ce domaine. Les
 
 Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie.
 
-<div class="notion-collection inline collection-2e66514139ba445099ca090dc274c414">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#754144edc7db4f8aa37d61c887387598"></a><span class="notion-semantic-string">Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie:</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/le-cot-du-cycle-de-vie/how-to-value-a-life-cycle" class="notion-link notion-collection-card__anchor">How to value a life cycle</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to value a life cycle</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/le-cot-du-cycle-de-vie/actuals-and-projections" class="notion-link notion-collection-card__anchor">Actuals and projections</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Actuals and projections</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/le-cot-du-cycle-de-vie/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need? </a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need? </div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/le-cot-du-cycle-de-vie/life-cycle-costing-and-spp" class="notion-link notion-collection-card__anchor">Life cycle costing and SPP</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Life cycle costing and SPP</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie: %}
+{% gallery medium %}
+- title: How to value a life cycle
+  link: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Actuals and projections
+  link: /le-cot-du-cycle-de-vie/actuals-and-projections
+  icon: /assets/images/Icons_Light_Green3.png
+- title: "How to gather the data you need? "
+  link: /le-cot-du-cycle-de-vie/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Life cycle costing and SPP
+  link: /le-cot-du-cycle-de-vie/life-cycle-costing-and-spp
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Possibilités d’utilisation des données**
 

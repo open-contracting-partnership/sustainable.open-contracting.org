@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/serving-the-citizens-not-the-bureaucracy-a-strategic-vision-for-city-procurement"
+permalink: /resource-directory/serving-the-citizens-not-the-bureaucracy-a-strategic-vision-for-city-procurement
 title: "Serving the Citizens - Not the Bureaucracy: A Strategic Vision for City Procurement"
 notion_id: c80fd791dec84d19909b6325f5cd5964
 properties:

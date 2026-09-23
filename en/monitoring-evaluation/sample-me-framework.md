@@ -1,8 +1,8 @@
 ---
-permalink: "/monitoring-evaluation/sample-me-framework"
+permalink: /monitoring-evaluation/sample-me-framework
 title: "Sample M&E framework"
 description: "The M&E framework includes the following section:"
-icon: "/assets/images/icons_D_Green3.png"
+icon: /assets/images/icons_D_Green3.png
 notion_id: "28ae4d111950488a8056def0973e0c35"
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}

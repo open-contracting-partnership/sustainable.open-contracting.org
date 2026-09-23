@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/directiva-de-contratacin-pblica-n20-enfoque-de-gnero-en-materia-de-compras-pblicas"
+permalink: /resource-directory/directiva-de-contratacin-pblica-n20-enfoque-de-gnero-en-materia-de-compras-pblicas
 title: Directiva de Contratación Pública N°20. Enfoque de género en materia de compras públicas
 notion_id: a79aeb3609c14eed90eeabb00a207d4b
 properties:

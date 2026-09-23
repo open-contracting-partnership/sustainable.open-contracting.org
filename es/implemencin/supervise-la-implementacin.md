@@ -1,8 +1,8 @@
 ---
-permalink: "/implemencin/supervise-la-implementacin"
+permalink: /implemencin/supervise-la-implementacin
 title: Supervise la implementación
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: b98ed36b75a644ff9f24faae4e2d853d
 ---

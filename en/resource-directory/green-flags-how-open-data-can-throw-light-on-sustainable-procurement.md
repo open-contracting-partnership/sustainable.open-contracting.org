@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/green-flags-how-open-data-can-throw-light-on-sustainable-procurement"
+permalink: /resource-directory/green-flags-how-open-data-can-throw-light-on-sustainable-procurement
 title: "Green Flags: How open data can throw light on sustainable procurement"
 notion_id: f0db8e9f279545bcbd1e20539a30fb01
 properties:

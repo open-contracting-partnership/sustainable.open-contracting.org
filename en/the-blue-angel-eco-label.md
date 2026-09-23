@@ -1,5 +1,5 @@
 ---
-permalink: "/the-blue-angel-eco-label"
+permalink: /the-blue-angel-eco-label
 title: The Blue Angel Eco-Label
 notion_id: "6fd068b89fd84be08f8b10fac3aa3223"
 properties:

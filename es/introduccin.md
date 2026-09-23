@@ -1,9 +1,9 @@
 ---
-permalink: "/introduccin"
+permalink: /introduccin
 title: Introducción
 description: "Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Intro_play.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
 ---
@@ -35,28 +35,19 @@ Los profesionales se dan cuenta de que necesitan comprar cosas de una manera fun
 Como podrá ver en el diagrama a continuación, **en esta sección introductoria le brindamos información sobre qué es la contratación pública abierta y sonstenible, cómo funciona y cómo navegar por este conjunto de herramientas**. También presentamos los conocimientos clave recopilados a partir de la investigación con los usuarios y cómo han dado forma al diseño de este nuevo recurso.. 
 {% endcallout %}
 
-<div class="notion-collection inline collection-f23d090c80e24c33bbac13264cfd5a1c">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#a01b1dbe4b2b4ee5b93d51e55eed3134"></a><span class="notion-semantic-string">Haga clíc para más información</span></h3>
-  </div>
-  <div class="notion-collection-gallery large">
-    <div class="notion-collection-card gallery"><a href="/cmo-usar-la-herramienta" class="notion-link notion-collection-card__anchor">Cómo puede usar este conjunto de herramientas</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>Cómo puede usar este conjunto de herramientas</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/qu-es" class="notion-link notion-collection-card__anchor">¿Qué es la contratación pública abierta y sostenible?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>¿Qué es la contratación pública abierta y sostenible?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/lo-que-nos-dijeron-los-usuarios" class="notion-link notion-collection-card__anchor">Lo que nos dijeron los usuarios</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>Lo que nos dijeron los usuarios</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Haga clíc para más información %}
+{% gallery large %}
+- title: Cómo puede usar este conjunto de herramientas
+  link: /cmo-usar-la-herramienta
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: "¿Qué es la contratación pública abierta y sostenible?"
+  link: /qu-es
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: Lo que nos dijeron los usuarios
+  link: /lo-que-nos-dijeron-los-usuarios
+  icon: /assets/images/Icons_Blue_Intro2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

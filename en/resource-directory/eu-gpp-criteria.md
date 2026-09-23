@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/eu-gpp-criteria"
+permalink: /resource-directory/eu-gpp-criteria
 title: EU GPP Criteria
 notion_id: "9e2ff3768cf24d3aa7d835aa3dc98132"
 properties:

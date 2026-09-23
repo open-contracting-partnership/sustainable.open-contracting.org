@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/procurement-of-works-two-stage-open-tendering-procedure"
+permalink: /resource-directory/procurement-of-works-two-stage-open-tendering-procedure
 title: "Procurement of Works: Two-Stage Open Tendering Procedure"
 notion_id: b9c4138bb7894f0492e14d9a74395f2a
 properties:

@@ -1,9 +1,9 @@
 ---
-permalink: "/establezca-un-entorno-habilitante/acuerdo-marco"
+permalink: /establezca-un-entorno-habilitante/acuerdo-marco
 title: Acuerdo marco
 description: "Procurement Frameworks, often known as Framework Agreements, are commonly used arrangements by which a group of suppliers are selected in order to deliver pre-agreed specifications when required within a defined period of time."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "8941eff51a3c4f20a6cb77525b7def8c"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/results-driven-contracting"
+permalink: /resource-directory/results-driven-contracting
 title: Results-Driven Contracting
 notion_id: "3b2b5f9797754751882b6ed2afefa534"
 properties:

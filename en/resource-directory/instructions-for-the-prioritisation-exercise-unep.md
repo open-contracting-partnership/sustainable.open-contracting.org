@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/instructions-for-the-prioritisation-exercise-unep"
+permalink: /resource-directory/instructions-for-the-prioritisation-exercise-unep
 title: Instructions for the Prioritisation Exercise (UNEP)
 notion_id: e61b4c0b492b4070ac5dcf18340649be
 properties:

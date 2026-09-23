@@ -1,9 +1,9 @@
 ---
-permalink: "/casos-de-estudio/creating-a-knowledge-network-for-procurement-officers-in-the-netherlands"
+permalink: /casos-de-estudio/creating-a-knowledge-network-for-procurement-officers-in-the-netherlands
 title: Creating a knowledge network for procurement officers in The Netherlands
 description: "In 2005, the Government of The Netherlands set up PIANOo, a knowledge network for government procurement officers and contracting authorities. PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.\n It also now incorporates a specific section on Sustainable Public Procurement (SPP), offering learning materials, guidance, and a criteria tool for public authorities to identify possible environmental requirements to include in tendering processes. \n\nThe expertise center includes information regarding best practice exchange meetings amongst procurement practitioners. "
-cover: "/assets/images/Europe_-_The_Netherlands.png"
-icon: "/assets/images/Notion-others2.png"
+cover: /assets/images/Europe_-_The_Netherlands.png
+icon: /assets/images/Notion-others2.png
 full_width: true
 notion_id: dd3f062bd328444bb6a89f1d0cd2fd2f
 ---

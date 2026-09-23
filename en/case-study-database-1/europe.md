@@ -1,21 +1,61 @@
 ---
-permalink: "/case-study-database-1/europe"
+permalink: /case-study-database-1/europe
 title: Europe
 full_width: true
 collection: true
 notion_id: "1bf2fbacd9fe42699eac2d92e9ede9bb"
 ---
-<div class="notion-collection-gallery large">
-  <div class="notion-collection-card gallery"><a href="/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country" class="notion-link notion-collection-card__anchor">Standardizing sustainability requirements according to market capability in the Basque Country</a><img alt="Standardizing sustainability requirements according to market capability in the Basque Country" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.64%" src="/assets/images/Europe_-_Basque_Country.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/creating-a-knowledge-network-for-procurement-officers-in-the-netherlands" class="notion-link notion-collection-card__anchor">Creating a knowledge network for procurement officers in The Netherlands</a><img alt="Creating a knowledge network for procurement officers in The Netherlands" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.16000000000001%" src="/assets/images/Europe_-_The_Netherlands.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/communicating-prioritized-procurement-categories-in-an-spp-action-plan-in-ireland" class="notion-link notion-collection-card__anchor">Communicating prioritized procurement categories in an SPP Action Plan in Ireland</a><img alt="Communicating prioritized procurement categories in an SPP Action Plan in Ireland" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Ireland.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/promoting-circularity-through-furniture-procurement-in-wales" class="notion-link notion-collection-card__anchor">Promoting circularity through furniture procurement in Wales</a><img alt="Promoting circularity through furniture procurement in Wales" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Wales.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta" class="notion-link notion-collection-card__anchor">Communicating sustainability on a the contract&#x27;s subject matter in Malta</a><img alt="Communicating sustainability on a the contract&#x27;s subject matter in Malta" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Malta.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen" class="notion-link notion-collection-card__anchor">Creating a task force to monitor supplier working conditions in the City of Copenhagen</a><img alt="Creating a task force to monitor supplier working conditions in the City of Copenhagen" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Copenhagen.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland" class="notion-link notion-collection-card__anchor">Engaging with the market to facilitate supplier collaboration in Scotland</a><img alt="Engaging with the market to facilitate supplier collaboration in Scotland" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Scotland.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm" class="notion-link notion-collection-card__anchor">Engaging with the market to procure socially responsible ICT in Stockholm</a><img alt="Engaging with the market to procure socially responsible ICT in Stockholm" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Stockholm.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/considering-co2-emissions-when-selecting-suppliers-in-the-netherlands" class="notion-link notion-collection-card__anchor">Considering CO2 emissions when selecting suppliers in The Netherlands</a><img alt="Considering CO2 emissions when selecting suppliers in The Netherlands" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.73%" src="/assets/images/Europe_-_The_Netherlands_2.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/monitoring-progress-against-sustainability-goals-in-lithuania" class="notion-link notion-collection-card__anchor">Monitoring progress against sustainability goals in Lithuania</a><img alt="Monitoring progress against sustainability goals in Lithuania" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Italy_%281%29.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/engaging-with-users-to-assess-procurement-needs-in-italy" class="notion-link notion-collection-card__anchor">Engaging with users to assess procurement needs in Italy</a><img alt="Engaging with users to assess procurement needs in Italy" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Italy.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/establishing-a-network-of-civil-society-procurement-monitors-in-ukraine" class="notion-link notion-collection-card__anchor">Establishing a network of civil society procurement monitors in Ukraine</a><img alt="Establishing a network of civil society procurement monitors in Ukraine" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 55.88999999999999%" src="/assets/images/Europe_-_Ukraine-2.png"/></div>
-</div>
+{% gallery large %}
+- title: Standardizing sustainability requirements according to market capability in the Basque Country
+  link: /standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
+  cover: /assets/images/Europe_-_Basque_Country.png
+  cover_position: 53.64
+  cover_only: true
+- title: Creating a knowledge network for procurement officers in The Netherlands
+  link: /creating-a-knowledge-network-for-procurement-officers-in-the-netherlands
+  cover: /assets/images/Europe_-_The_Netherlands.png
+  cover_position: 54.16
+  cover_only: true
+- title: Communicating prioritized procurement categories in an SPP Action Plan in Ireland
+  link: /communicating-prioritized-procurement-categories-in-an-spp-action-plan-in-ireland
+  cover: /assets/images/Europe_-_Ireland.png
+  cover_only: true
+- title: Promoting circularity through furniture procurement in Wales
+  link: /promoting-circularity-through-furniture-procurement-in-wales
+  cover: /assets/images/Europe_-_Wales.png
+  cover_only: true
+- title: "Communicating sustainability on a the contract's subject matter in Malta"
+  link: /communicating-sustainability-on-a-the-contracts-subject-matter-in-malta
+  cover: /assets/images/Europe_-_Malta.png
+  cover_only: true
+- title: Creating a task force to monitor supplier working conditions in the City of Copenhagen
+  link: /creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen
+  cover: /assets/images/Europe_-_Copenhagen.png
+  cover_only: true
+- title: Engaging with the market to facilitate supplier collaboration in Scotland
+  link: /engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland
+  cover: /assets/images/Europe_-_Scotland.png
+  cover_only: true
+- title: Engaging with the market to procure socially responsible ICT in Stockholm
+  link: /engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm
+  cover: /assets/images/Europe_-_Stockholm.png
+  cover_only: true
+- title: Considering CO2 emissions when selecting suppliers in The Netherlands
+  link: /considering-co2-emissions-when-selecting-suppliers-in-the-netherlands
+  cover: /assets/images/Europe_-_The_Netherlands_2.png
+  cover_position: 53.73
+  cover_only: true
+- title: Monitoring progress against sustainability goals in Lithuania
+  link: /monitoring-progress-against-sustainability-goals-in-lithuania
+  cover: "/assets/images/Europe_-_Italy_%281%29.png"
+  cover_only: true
+- title: Engaging with users to assess procurement needs in Italy
+  link: /engaging-with-users-to-assess-procurement-needs-in-italy
+  cover: /assets/images/Europe_-_Italy.png
+  cover_only: true
+- title: Establishing a network of civil society procurement monitors in Ukraine
+  link: /establishing-a-network-of-civil-society-procurement-monitors-in-ukraine
+  cover: /assets/images/Europe_-_Ukraine-2.png
+  cover_position: 55.89
+  cover_only: true
+{% endgallery %}

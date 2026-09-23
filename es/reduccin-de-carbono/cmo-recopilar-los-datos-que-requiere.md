@@ -1,8 +1,8 @@
 ---
-permalink: "/reduccin-de-carbono/cmo-recopilar-los-datos-que-requiere"
+permalink: /reduccin-de-carbono/cmo-recopilar-los-datos-que-requiere
 title: "¿Cómo recopilar los datos que requiere?"
 description: "There are three elements to gathering the necessary data. The first is creating the data in the first place. Then comes the need to access the data which might be stored across other governmental departments and private sector suppliers. Finally there is the need to collect the data, which is the act of gathering, storing and using the data. "
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: d5d38cccdeff4e73a0ad74f564c775dd
 ---
 # How to gather the data you need?

@@ -1,9 +1,9 @@
 ---
-permalink: "/establish-an-enabling-environment/framework-agreements"
+permalink: /establish-an-enabling-environment/framework-agreements
 title: Framework agreements
 description: "Procurement Frameworks, often known as Framework Agreements, are commonly used arrangements by which a group of suppliers are selected in order to deliver pre-agreed specifications when required within a defined period of time."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green3.png
 full_width: true
 notion_id: "5cae0a6ebe1343c5b8f792aee9383923"
 ---

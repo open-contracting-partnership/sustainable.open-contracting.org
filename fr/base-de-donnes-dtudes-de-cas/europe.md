@@ -1,5 +1,5 @@
 ---
-permalink: "/base-de-donnes-dtudes-de-cas/europe"
+permalink: /base-de-donnes-dtudes-de-cas/europe
 title: Europe
 full_width: true
 collection: true

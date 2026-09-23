@@ -1,9 +1,9 @@
 ---
-permalink: "/construction-sector-1"
+permalink: /construction-sector-1
 title: Construction sector
 description: "The construction industry is one of high economic relevance, as it is estimated to account for 6% of global GDP, with Africa's construction market valued at around USD 5.4 billion in 2020 and LAC’s at USD 829.3 billion in 2018. This translates into more than 100 million jobs worldwide. However, this sector also accounted for the largest share of both global final energy use (36%) and energy-related CO2 emissions (39%) in 2018. It is also classified as one of the sectors with the highest share of corruption, as well as a high-risk sector for forced labor."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey5.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey5.png
 full_width: true
 notion_id: "922396faae2e490e82eb63c21ae7e0cc"
 ---
@@ -27,33 +27,22 @@ It is important to note that **within the construction sector, there are differe
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D4_-_Construction_Diagram.jpg"/></div>
 
-<div class="notion-collection inline collection-857c27227bf14357994e80b8644745fd">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#3913e5ce553b456ba62e368e77fe1f44"></a><span class="notion-semantic-string">Click through to learn more</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/construction-sector-1/setting-the-framework" class="notion-link notion-collection-card__anchor">Setting the framework</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Setting the framework</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/construction-sector-1/selecting-your-data" class="notion-link notion-collection-card__anchor">Selecting your data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Selecting your data</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/construction-sector-1/collecting-the-data" class="notion-link notion-collection-card__anchor">Collecting the data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Collecting the data</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/construction-sector-1/supporting-effective-spp" class="notion-link notion-collection-card__anchor">Supporting effective SPP</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey6.png"/></div>Supporting effective SPP</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to learn more %}
+{% gallery medium %}
+- title: Setting the framework
+  link: /construction-sector-1/setting-the-framework
+  icon: /assets/images/Icons_Grey6.png
+- title: Selecting your data
+  link: /construction-sector-1/selecting-your-data
+  icon: /assets/images/Icons_Grey6.png
+- title: Collecting the data
+  link: /construction-sector-1/collecting-the-data
+  icon: /assets/images/Icons_Grey6.png
+- title: Supporting effective SPP
+  link: /construction-sector-1/supporting-effective-spp
+  icon: /assets/images/Icons_Grey6.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

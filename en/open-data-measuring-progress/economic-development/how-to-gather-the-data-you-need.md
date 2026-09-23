@@ -1,5 +1,5 @@
 ---
-permalink: "/open-data-measuring-progress/economic-development/how-to-gather-the-data-you-need"
+permalink: /open-data-measuring-progress/economic-development/how-to-gather-the-data-you-need
 title: How to gather the data you need
 description: "To conduct an economic development analysis it is likely that you will need to have data on the number of employees, total revenue and the gross profits for each company. "
 notion_id: eaa0d4bbc17f446ba44a681e692d21e9

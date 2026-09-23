@@ -1,8 +1,8 @@
 ---
-permalink: "/mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution"
+permalink: /mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution
 title: Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution
 description: "As well as including provisions indicating that factors other than price can be considered as award or evaluation criteria, some countries might provide specific guidance on how sustainability might be considered. "
-icon: "/assets/images/icons_D_Green3.png"
+icon: /assets/images/icons_D_Green3.png
 notion_id: "6dabaa15180b4602b59122edea8707c8"
 ---
 ## What are they?

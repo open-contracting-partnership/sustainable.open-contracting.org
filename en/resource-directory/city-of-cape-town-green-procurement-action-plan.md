@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/city-of-cape-town-green-procurement-action-plan"
+permalink: /resource-directory/city-of-cape-town-green-procurement-action-plan
 title: City of Cape Town Green Procurement Action Plan
 notion_id: f147ece5695a4d08acba2afd074e9bd6
 properties:

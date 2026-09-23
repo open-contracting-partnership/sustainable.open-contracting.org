@@ -1,9 +1,9 @@
 ---
-permalink: "/carbon-reduction"
+permalink: /carbon-reduction
 title: Carbon reduction
 description: Governments and companies are setting deadlines for achieving zero emissions. Public procurement can be used as a lever to drive change by promoting lower carbon alternatives into government supply chains.
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
 ---
@@ -50,33 +50,22 @@ Publication and analysis of good data will unlock learning and iteration on what
 
 The immediate priorities for carbon reduction include carbon outputs and other greenhouse gas emissions such as methane and hazardous emissions such as nitrogen oxides. Beyond this, other metrics around carbon reduction include compliance to certification and measurement of plastic waste.
 
-<div class="notion-collection inline collection-62c892cdcc0047a3ad4273fe290ddb13">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#8ffca3499a5048268ad8275f6562c40f"></a><span class="notion-semantic-string">Click through to the following sections to find out more about how to get started:</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction/how-to-estimate-carbon-values" class="notion-link notion-collection-card__anchor">How to estimate carbon values?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to estimate carbon values?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction/benchmarking-carbon-procurements" class="notion-link notion-collection-card__anchor">Benchmarking carbon procurements</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Benchmarking carbon procurements</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction/how-to-gather-the-data-you-need" class="notion-link notion-collection-card__anchor">How to gather the data you need?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to gather the data you need?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to the following sections to find out more about how to get started: %}
+{% gallery medium %}
+- title: How to estimate carbon values?
+  link: /carbon-reduction/how-to-estimate-carbon-values
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Benchmarking carbon procurements
+  link: /carbon-reduction/benchmarking-carbon-procurements
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to gather the data you need?
+  link: /carbon-reduction/how-to-gather-the-data-you-need
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /carbon-reduction/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## Options for data use
 

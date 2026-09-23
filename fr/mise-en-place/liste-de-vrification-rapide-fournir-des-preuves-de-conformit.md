@@ -1,8 +1,8 @@
 ---
-permalink: "/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit"
+permalink: /mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit
 title: "Liste de vérification rapide : fournir des preuves de conformité"
 description: Compliance Trail Checklist
-icon: "/assets/images/icons_D_Green5.png"
+icon: /assets/images/icons_D_Green5.png
 notion_id: d679f51442ce457abbd9dcdc1a3db291
 ---
 {% callout green /assets/images/icons_D_Green4.png %}

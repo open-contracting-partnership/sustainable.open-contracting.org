@@ -1,8 +1,8 @@
 ---
-permalink: "/ladoption-des-pratiques-durables/how-to-record-spp-in-procurement"
+permalink: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
 title: How to record SPP in procurement
 description: "There are usually three ways to record whether or not a procurement meets a sustainability threshold:"
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: "27e237449d394a8b9fe5430503180a7a"
 ---
 **There are usually three ways to record whether or not a procurement meets a sustainability threshold:**

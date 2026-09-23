@@ -1,9 +1,9 @@
 ---
-permalink: "/prepare-contract-obligations"
+permalink: /prepare-contract-obligations
 title: Prepare contract obligations
 description: "Once sustainability criteria have been clearly established, it should be translated into contract obligations. This includes establishing how implementation will be monitored, and what are the consequences in case of non-compliance. In order to draft effective contract clauses, these decisions should be openly discussed and agreed upon by the procurement authority and the relevant suppliers. This section introduces some of the key features of successful contract clauses."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "36ddabe9fe9743c7ac9d2229b48487e4"
 ---

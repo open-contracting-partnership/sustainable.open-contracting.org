@@ -1,5 +1,5 @@
 ---
-permalink: "/economic-development/how-to-measure-a-job-1"
+permalink: /economic-development/how-to-measure-a-job-1
 title: How to measure a job
 description: In its crudest terms the measure of a job could be as simple as allocating a proportion of a contract to labour and dividing that value by the average salary value for that industry or the average salary for your region.
 notion_id: "0c8041ee736848f5b80048d4df19f530"

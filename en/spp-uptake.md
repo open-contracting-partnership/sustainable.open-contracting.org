@@ -1,9 +1,9 @@
 ---
-permalink: "/spp-uptake"
+permalink: /spp-uptake
 title: SPP uptake
 description: "Measuring SPP uptake levels is about knowing how much sustainable public procurement is being relied on by public buyers, either during the procurement process or after the fact to allow the clear identification of social, environmental, or economic procurement within tendering and contracting."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: f6b9fea7045d4268b6a35725f949a001
 ---
@@ -51,33 +51,22 @@ As such, it is vital for governments to be clear about the policies that they wi
 
 Once this has been clearly established, you can measure and record uptake of SPP policies. 
 
-<div class="notion-collection inline collection-862da8f3ab3642f89efaebccd15b69c5">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#0309ad36f9024ebf9fce043815e223e9"></a><span class="notion-semantic-string">Click through to the following sections to find out more about how to get started:</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/spp-uptake/how-to-record-spp-in-procurement" class="notion-link notion-collection-card__anchor">How to record SPP in procurement</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to record SPP in procurement</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/spp-uptake/options-for-measuring" class="notion-link notion-collection-card__anchor">Options for measuring </a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Options for measuring </div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/spp-uptake/how-to-measure-spp-uptake" class="notion-link notion-collection-card__anchor">How to measure SPP uptake</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to measure SPP uptake</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/spp-uptake/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to the following sections to find out more about how to get started: %}
+{% gallery medium %}
+- title: How to record SPP in procurement
+  link: /spp-uptake/how-to-record-spp-in-procurement
+  icon: /assets/images/Icons_Light_Green3.png
+- title: "Options for measuring "
+  link: /spp-uptake/options-for-measuring
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to measure SPP uptake
+  link: /spp-uptake/how-to-measure-spp-uptake
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /spp-uptake/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## Sample indicators 
 

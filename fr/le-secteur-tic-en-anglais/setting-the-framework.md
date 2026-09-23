@@ -1,9 +1,9 @@
 ---
-permalink: "/le-secteur-tic-en-anglais/setting-the-framework"
+permalink: /le-secteur-tic-en-anglais/setting-the-framework
 title: Setting the framework
 description: "The application of Open SPP when procuring ICT equipment can be guided by the existence of certain compliance frameworks that address some of the sustainability challenges in the sector. These can include:"
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "7439797b986e41fc80546061522a388c"
 ---

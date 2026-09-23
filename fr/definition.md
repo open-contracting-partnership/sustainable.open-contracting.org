@@ -1,9 +1,9 @@
 ---
-permalink: "/definition"
+permalink: /definition
 title: Definition
 description: "Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : les avantages économiques, sociaux et environnementaux."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Blue_Intro2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "44ff818246af419b977484dca4f33a4e"
 ---

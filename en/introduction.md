@@ -1,9 +1,9 @@
 ---
-permalink: "/introduction"
+permalink: /introduction
 title: Introduction
 description: "Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains. "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Intro_play.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Intro_play.png
 full_width: true
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
 ---
@@ -37,28 +37,19 @@ As you can see on the diagram below, **in this introductory section we provide y
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.984375" height="288.80182418082524" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_2Introduction_%282%29.png"/></div>
 
-<div class="notion-collection inline collection-f634ff276b32433a9f1ae2a6c93d9430">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#f265124af758420fbc2b12d60058ea64"></a><span class="notion-semantic-string">Click through to learn more</span></h3>
-  </div>
-  <div class="notion-collection-gallery large">
-    <div class="notion-collection-card gallery"><a href="/how-to-use-this-toolkit" class="notion-link notion-collection-card__anchor">How to use this toolkit</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>How to use this toolkit</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/what-is-open-spp" class="notion-link notion-collection-card__anchor">What is Open SPP?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>What is Open SPP?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/introduction/what-our-users-told-us" class="notion-link notion-collection-card__anchor">What our users told us</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>What our users told us</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Click through to learn more %}
+{% gallery large %}
+- title: How to use this toolkit
+  link: /how-to-use-this-toolkit
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: What is Open SPP?
+  link: /what-is-open-spp
+  icon: /assets/images/Icons_Blue_Intro2.png
+- title: What our users told us
+  link: /introduction/what-our-users-told-us
+  icon: /assets/images/Icons_Blue_Intro2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/sustainability-clauses-in-commercial-contracts-the-key-to-corporate-responsibility"
+permalink: /resource-directory/sustainability-clauses-in-commercial-contracts-the-key-to-corporate-responsibility
 title: "Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility"
 notion_id: "61c3e7d2b444420e92f7fecb20b2a33f"
 properties:

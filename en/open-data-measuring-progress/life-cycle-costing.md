@@ -1,15 +1,15 @@
 ---
-permalink: "/open-data-measuring-progress/life-cycle-costing"
+permalink: /open-data-measuring-progress/life-cycle-costing
 title: Life cycle costing
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: c1cd403e5ca9479f8092f49ad462fdd3
 properties:
   Created: "Feb 9, 2023 7:39 PM"
   "super:Link":
-    - "https://sustainable.open-contractring.org/options-for-data-use/use-cases/life-cycle-costing": "/life-cycle-costing"
+    - "https://sustainable.open-contractring.org/options-for-data-use/use-cases/life-cycle-costing": /life-cycle-costing
 ---
 ## What do we mean by no code, low code and code?
 

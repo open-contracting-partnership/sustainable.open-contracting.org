@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/a-guide-to-environmental-labels-for-procurement-practitioners-of-the-united-nations-system"
+permalink: /resource-directory/a-guide-to-environmental-labels-for-procurement-practitioners-of-the-united-nations-system
 title: A guide to environmental labels - for procurement practitioners of the United Nations System
 notion_id: a20bd4e43ec54f7ebf667bbc8b9da13a
 properties:

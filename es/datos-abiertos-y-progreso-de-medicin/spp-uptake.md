@@ -1,9 +1,9 @@
 ---
-permalink: "/datos-abiertos-y-progreso-de-medicin/spp-uptake"
+permalink: /datos-abiertos-y-progreso-de-medicin/spp-uptake
 title: Adopción de CPS
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "8d16685a30714833a261fc5a0643f573"
 ---

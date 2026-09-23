@@ -1,5 +1,5 @@
 ---
-permalink: "/base-de-donnes-dtudes-de-cas/amrique-latine-et-carabes"
+permalink: /base-de-donnes-dtudes-de-cas/amrique-latine-et-carabes
 title: Amérique latine et Caraïbes
 full_width: true
 collection: true

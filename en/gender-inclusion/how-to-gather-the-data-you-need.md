@@ -1,8 +1,8 @@
 ---
-permalink: "/gender-inclusion/how-to-gather-the-data-you-need"
+permalink: /gender-inclusion/how-to-gather-the-data-you-need
 title: How to gather the data you need?
 description: "In addition to contract award notices, the main datasets required for this use case are around gender pay and women in senior positions, categories, and information around companies and company ownership."
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: d78517fa4e8240319cb0c2092e14ba14
 ---
 In addition to contract award notices, the main datasets required for this use case are around gender pay and women in senior positions, categories, and information around companies and company ownership.

@@ -1,5 +1,5 @@
 ---
-permalink: "/good-environmental-choice-australia-ecolabel-geca"
+permalink: /good-environmental-choice-australia-ecolabel-geca
 title: Good Environmental Choice Australia Ecolabel (GECA)
 notion_id: "9b28cf420ef4451c88c05b52f0e98ba6"
 properties:

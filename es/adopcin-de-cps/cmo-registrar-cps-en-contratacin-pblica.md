@@ -1,8 +1,8 @@
 ---
-permalink: "/adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica"
+permalink: /adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica
 title: Cómo registrar CPS en contratación pública
 description: "Por lo general, existen tres formas de registrar si una contratación cumple o no con un umbral de sostenibilidad:"
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: ab9ea2bcb1e44fecb84c2a14845989f7
 ---
 **Por lo general, existen tres formas de registrar si una contratación cumple o no con un umbral de sostenibilidad:**

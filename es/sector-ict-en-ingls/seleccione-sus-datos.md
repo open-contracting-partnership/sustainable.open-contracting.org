@@ -1,9 +1,9 @@
 ---
-permalink: "/sector-ict-en-ingls/seleccione-sus-datos"
+permalink: /sector-ict-en-ingls/seleccione-sus-datos
 title: Seleccione sus datos
 description: "When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars. "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "9a72ae82dbdd41fc9072f3fdc5866b20"
 ---

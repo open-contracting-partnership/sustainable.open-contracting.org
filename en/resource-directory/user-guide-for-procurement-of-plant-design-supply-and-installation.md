@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/user-guide-for-procurement-of-plant-design-supply-and-installation"
+permalink: /resource-directory/user-guide-for-procurement-of-plant-design-supply-and-installation
 title: "User Guide for Procurement of Plant Design, Supply, and Installation"
 notion_id: b1349e5f16604eaab95926568145992e
 properties:

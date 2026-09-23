@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/terms-of-reference-for-the-spp-policy-and-action-plan-expert-unep"
+permalink: /resource-directory/terms-of-reference-for-the-spp-policy-and-action-plan-expert-unep
 title: Terms of Reference for the SPP Policy and Action Plan Expert (UNEP)
 notion_id: "6abcca4b38c34846aaae6eda78067c36"
 properties:

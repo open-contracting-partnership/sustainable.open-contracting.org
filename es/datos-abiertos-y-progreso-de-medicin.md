@@ -1,9 +1,9 @@
 ---
-permalink: "/datos-abiertos-y-progreso-de-medicin"
+permalink: /datos-abiertos-y-progreso-de-medicin
 title: Datos abiertos y progreso de medición
 description: "A lo largo del conjunto de herramientas, hemos explicado la importancia de los datos abiertos y de alta calidad para impulsar la implementación de SPP y medir los resultados de sostenibilidad. Primero presentamos esta idea al comienzo del conjunto de herramientas y la desarrollamos más en las siguientes secciones, particularmente cuando presentamos un Marco de Medición y Evaluación (M&E) de muestra en la sección uno. Este marco de M&E propuesto está estructurado en torno a cinco objetivos y proporciona indicadores de seguimiento de muestra para facilitar la presentación de informes y la medición del progreso con respecto a los objetivos de sostenibilidad."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Imp_3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "986379e92481403ea249850f4438d6bd"
 ---
@@ -61,38 +61,25 @@ There are different methods to collecting and analyzing data and these will vary
 Tal como explicamos en la introducción de este conjunto de herramientas, los datos abiertos de alta calidad son cruciales para impulsar y medir el progreso al implementar SPP. Para abordar las bases de datos clave, recomendamos consultar nuestra guía Banderas Verdes (*Green Flags)* y el Open Contracting Playbook.
 {% endcallout %}
 
-<div class="notion-collection inline collection-1bbd325df29a4ca79f87a2acf1cc96f4">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#a08fcfdc88344818a66667e68174b97e"></a><span class="notion-semantic-string"><strong>Haga clic aquí para más información</strong></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/opciones-para-el-uso-de-datos" class="notion-link notion-collection-card__anchor">Opciones para el uso de datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Opciones para el uso de datos</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/adopcin-de-cps" class="notion-link notion-collection-card__anchor">Adopción de CPS</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Adopción de CPS</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono" class="notion-link notion-collection-card__anchor">Reducción de carbono</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Reducción de carbono</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/inclusin-de-gnero" class="notion-link notion-collection-card__anchor">Gender inclusion</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Gender inclusion</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/costeo-del-ciclo-de-vida" class="notion-link notion-collection-card__anchor">Life cycle costing</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Life cycle costing</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Haga clic aquí para más información** %}
+{% gallery medium %}
+- title: Opciones para el uso de datos
+  link: /opciones-para-el-uso-de-datos
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Adopción de CPS
+  link: /adopcin-de-cps
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Reducción de carbono
+  link: /reduccin-de-carbono
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Gender inclusion
+  link: /inclusin-de-gnero
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Life cycle costing
+  link: /costeo-del-ciclo-de-vida
+  icon: /assets/images/Icons_Light_Green2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

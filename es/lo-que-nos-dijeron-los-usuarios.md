@@ -1,9 +1,9 @@
 ---
-permalink: "/lo-que-nos-dijeron-los-usuarios"
+permalink: /lo-que-nos-dijeron-los-usuarios
 title: Lo que nos dijeron los usuarios
 description: "Nos pusimos en contacto con más de 30 profesionales y expertos en compras sostenibles de todo el mundo para ayudar a dar forma a esta guía. Esto incluyó representantes de las autoridades nacionales y órganos de supervisión en diferentes etapas del proceso de la contratación pública sostenible, así como representantes de la sociedad civil y el sector privado. Queríamos entender las barreras clave para los gobiernos en la adopción de la contratación pública sostenible y abierta, y si había brechas en los recursos y enfoques existentes y dónde. Esto es lo que nos dijo y lo que hicimos al respecto:"
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Blue_Intro2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Blue_Intro2.png
 full_width: true
 notion_id: "586e98177fbf4b7292129d79634bea22"
 ---

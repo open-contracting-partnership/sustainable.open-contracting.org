@@ -1,9 +1,9 @@
 ---
-permalink: "/elija-un-mtodo-de-contratacin"
+permalink: /elija-un-mtodo-de-contratacin
 title: Elija un método de contratación
 description: "El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta). En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: d8c00bb67a29407c8354c3d1b9cbcd58
 ---

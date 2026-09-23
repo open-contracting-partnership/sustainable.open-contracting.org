@@ -1,10 +1,10 @@
 ---
-permalink: "/"
+permalink: /
 title: Accueil
 description: "\nLa mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.\n"
-cover: "/assets/images/Open_SPP_main_french.png"
+cover: /assets/images/Open_SPP_main_french.png
 cover_position: 81.39
-icon: "/assets/images/Open_SPP_home_1.png"
+icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 ---
@@ -34,38 +34,32 @@ notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_fr.png"/></div>
 
-<div class="notion-collection inline collection-fa5555ade8fe4a2899455dce01600078">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#c82f31cd3c724f7bb4ee95b060b25d4f"></a><span class="notion-semantic-string">Votre trajet de la mise en place</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/votre-trajet-de-la-mise-en-place/introduction" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro.png"/></div>Introduction</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/plan" class="notion-link notion-collection-card__anchor">Planification</a><img alt="Planification" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers2_%281%29.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green.png"/></div>Planification</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/implement" class="notion-link notion-collection-card__anchor">Mise en place</a><img alt="Mise en place" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_notion_cover.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red.png"/></div>Mise en place</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/use-cases" class="notion-link notion-collection-card__anchor">Données ouvertes et évaluation</a><img alt="Données ouvertes et évaluation" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 6.479999999999997%" src="/assets/images/PUBLIC_SPP_covers4_%281%29.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green.png"/></div>Données ouvertes et évaluation</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/sector-guidance" class="notion-link notion-collection-card__anchor">Orientations sectorielles</a><img alt="Orientations sectorielles" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 89.84%" src="/assets/images/PUBLIC_SPP_covers6.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey.png"/></div>Orientations sectorielles</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Votre trajet de la mise en place %}
+{% gallery medium %}
+- title: Introduction
+  link: /votre-trajet-de-la-mise-en-place/introduction
+  icon: /assets/images/Icons_Blue_Intro.png
+  cover: /assets/images/PUBLIC_SPP_covers.png
+- title: Planification
+  link: /plan
+  icon: /assets/images/icons_D_Green.png
+  cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
+- title: Mise en place
+  link: /implement
+  icon: /assets/images/Icons_Red.png
+  cover: /assets/images/PUBLIC_SPP_notion_cover.png
+- title: Données ouvertes et évaluation
+  link: /use-cases
+  icon: /assets/images/Icons_Light_Green.png
+  cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
+  cover_position: 6.48
+- title: Orientations sectorielles
+  link: /sector-guidance
+  icon: /assets/images/Icons_Grey.png
+  cover: /assets/images/PUBLIC_SPP_covers6.png
+  cover_position: 89.84
+{% endgallery %}
+{% enddatabase %}
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1500" height="350" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-fr.png"/></div>
 

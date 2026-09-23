@@ -526,13 +526,120 @@ def table_tag(node, text, indent, candidates):
             lines.append("|" + "---|" * len(cells))
     if not widths:
         return None
-    arguments = " ".join(f"{round(float(width), 2):g}" for width in widths) + match.group(
-        1
-    )
+    arguments = " ".join(
+        f"{round(float(width), 2):g}" for width in widths
+    ) + match.group(1)
     return f"{{% table {arguments} %}}\n" + "\n".join(lines) + "\n{% endtable %}"
 
 
+def scalar(value):
+    """Return a scalar as YAML, quoting strings (as JSON) only if necessary."""
+    if (
+        isinstance(value, str)
+        and re.fullmatch(r"(?:[^\W\d_]|/)[^:#\n\"'{}\[\],&*!|>%@`]*", value)
+        and value == value.strip()
+        and value.lower()
+        not in ("true", "false", "yes", "no", "on", "off", "null", "y", "n")
+    ):
+        return value
+    return json.dumps(value, ensure_ascii=False)
+
+
+CARD = re.compile(
+    r'<div class="notion-collection-card gallery( no-click)?">'
+    r'(?:<a href="(?P<link>[^"]*)" class="notion-link notion-collection-card__anchor">(?P<anchor>[^<]*)</a>)?'
+    r'(?:<img alt="(?P<alt>[^"]*)" loading="lazy" width="(?:780|960)" height="200" '
+    r'class="notion-collection-card__cover (?:medium|large)(?P<only> only-cover)?" '
+    r'style="object-fit:cover;object-position:center (?P<position>[\d.]+)%" src="(?P<cover>[^"]*)"/>)?'
+    r'(?:<div class="notion-collection-card__content notion-collection-card__property-list">'
+    r'<div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string">'
+    r'<div class="notion-property__title__icon-wrapper">'
+    r'(?:<img alt="" loading="lazy" width="16" height="16" class="notion-icon" '
+    r'style="object-fit:contain;object-position:center" src="(?P<icon>[^"]*)"/>|<svg class="notion-icon notion-icon__page"'
+    r' viewBox="0 0 16 16" width="18" height="18" style="width:16px;[^"]*">.*?</svg>)'
+    r"</div>(?P<title>[^<]*)</div></div>)?</div>",
+    re.S,
+)
+
+
+def gallery_tag(node, text, indent, candidates):
+    """Return a Notion gallery as a {% gallery %} tag, or None."""
+    match = re.fullmatch(r"notion-collection-gallery (medium|large)", node.cls)
+    cards = elements(node)
+    if not match or set(node.attrs) != {"class"} or cards is None:
+        return None
+    items = []
+    for card in cards:
+        m = CARD.fullmatch(text[card.start : card.end])
+        if not m or (m.group("title") is None) == (m.group("only") is None):
+            return None
+        title = m.group("title") if m.group("title") is not None else m.group("alt")
+        if (m.group("anchor") is not None and m.group("anchor") != title) or (
+            m.group("alt") is not None and m.group("alt") != title
+        ):
+            return None
+        if bool(m.group(1)) == (m.group("link") is not None):
+            return None
+        item = {"title": html.unescape(title)}
+        if m.group("link") is not None:
+            item["link"] = html.unescape(m.group("link"))
+        if m.group("icon"):
+            item["icon"] = html.unescape(m.group("icon"))
+        if m.group("cover"):
+            item["cover"] = html.unescape(m.group("cover"))
+            if (position := round(float(m.group("position")), 2)) != 50:
+                item["cover_position"] = position
+            if m.group("only"):
+                item["cover_only"] = True
+        items.append(
+            "- " + "\n  ".join(f"{key}: {scalar(value)}" for key, value in item.items())
+        )
+    return (
+        f"{{% gallery {match.group(1)} %}}\n" + "\n".join(items) + "\n{% endgallery %}"
+    )
+
+
+def database_tag(node, text, indent, candidates):
+    """Return an inline Notion database as a {% database %} tag, or None."""
+    children = elements(node)
+    if (
+        node.attrs != {"class": "notion-collection inline"}
+        or not children
+        or len(children) < 2
+    ):
+        return None
+    header = elements(children[0])
+    if (
+        children[0].attrs != {"class": "notion-collection__header-wrapper"}
+        or not header
+        or len(header) != 1
+    ):
+        return None
+    spans = elements(header[0])
+    if (
+        header[0].attrs != {"class": "notion-collection__header"}
+        or not spans
+        or len(spans) != 1
+    ):
+        return None
+    title = "" if not spans[0].children else summary_text(spans[0])
+    if title is None or "\n" in title or "<br>" in title:
+        return None
+    views = []
+    for view in children[1:]:
+        tag = TAGS.get(view.cls.split(" ")[0])
+        markdown = tag(view, text, indent, candidates) if tag else None
+        views.append(
+            markdown
+            if markdown is not None
+            else indent(strip_ids(text[view.start : view.end]))
+        )
+    return f"{{% database {title} %}}\n" + "\n".join(views) + "\n{% enddatabase %}"
+
+
 TAGS = {
+    "notion-collection": database_tag,
+    "notion-collection-gallery": gallery_tag,
     "notion-callout": callout_tag,
     "notion-toggle": toggle_tag,
     "notion-column-list": columns_tag,
@@ -650,6 +757,12 @@ def normalize(text):
         elif token.strip():
             output.append(html.unescape(token.strip()))
     text = "".join(output)
+    # Cover positions are rounded.
+    text = re.sub(
+        r"object-position:center ([\d.]+)%",
+        lambda m: f"object-position:center {round(float(m.group(1)), 2):g}%",
+        text,
+    )
     # Table cells' widths are rounded to pixels.
     text = re.sub(
         r"(min|max)-width:([\d.]+)px",
@@ -679,7 +792,7 @@ def normalize(text):
         text = re.sub(r" +\n", "\n", text)
     # Trailing spaces in a block don't render (white-space: pre-wrap), and Markdown drops them.
     text = re.sub(r" +(</(?:p|li|h1|h2|h3)>)", r"\1", text)
-    return re.sub(r" +(</span>)(?=</div>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text)
+    return re.sub(r" +(</span>)(?=</div>|</h[1-6]>|<(?:div|p|ul|ol|h[1-6]) )", r"\1", text)
 
 
 def expand_includes(text):

@@ -1,9 +1,9 @@
 ---
-permalink: "/donnes-ouvertes-et-valuation-des-progrs/ladoption-des-pratiques-durables"
+permalink: /donnes-ouvertes-et-valuation-des-progrs/ladoption-des-pratiques-durables
 title: L’adoption des pratiques durables
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "9ca2f598a28e421286f267318c9532fa"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "/directorio-de-recursos/directorio-de-recursos"
+permalink: /directorio-de-recursos/directorio-de-recursos
 title: Directorio de recursos
 full_width: true
 collection: true

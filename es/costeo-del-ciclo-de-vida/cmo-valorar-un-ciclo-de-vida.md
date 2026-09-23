@@ -1,8 +1,8 @@
 ---
-permalink: "/costeo-del-ciclo-de-vida/cmo-valorar-un-ciclo-de-vida"
+permalink: /costeo-del-ciclo-de-vida/cmo-valorar-un-ciclo-de-vida
 title: Cómo valorar un ciclo de vida
 description: In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: "4098e18c95c44b49b6ec8a600d6dc35b"
 ---
 In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.

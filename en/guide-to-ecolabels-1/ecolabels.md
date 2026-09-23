@@ -1,5 +1,5 @@
 ---
-permalink: "/guide-to-ecolabels-1/ecolabels"
+permalink: /guide-to-ecolabels-1/ecolabels
 title: "Ecolabels "
 full_width: true
 collection: true

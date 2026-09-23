@@ -1,8 +1,8 @@
 ---
-permalink: "/plan-daction/modle-de-plan-daction-sur-les-marchs-publics-durables"
+permalink: /plan-daction/modle-de-plan-daction-sur-les-marchs-publics-durables
 title: Modèle de plan d’action sur les marchés publics durables
 description: "Ce modèle est inspiré du document suivant : Programme des Nations Unies pour l’environnement, Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach, 2021 (page 94)."
-icon: "/assets/images/Tick_green_2.png"
+icon: /assets/images/Tick_green_2.png
 notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 ---
 {% callout green /assets/images/Pin_green.png %}

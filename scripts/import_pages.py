@@ -68,6 +68,11 @@ def clean(text):
     text = re.sub(r'<span style="display:contents">(<img [^>]*>)</span>', r"\1", text)
     text = re.sub(r'<span class="notion-heading__anchor" id="[^"]*"></span>', "", text)
     text = re.sub(r"<img [^>]*>", clean_image, text)
+    # Remove databases' anchors (to IDs that no longer exist) and view switchers (to views that weren't crawled).
+    text = re.sub(r'<a class="notion-anchor" href="#[^"]*"></a>', "", text)
+    text = re.sub(r' collection-[0-9a-f]{32}(?=")', "", text)
+    while (start := text.find('<div class="notion-dropdown">')) != -1:
+        text = text[:start] + text[element_end(text, start) :]
     # Remove newlines at the end of text blocks.
     inline_end = r"(?:</(?:strong|em|a|span)>)*"
     text = re.sub(rf"\n+({inline_end}</(?:p|li|h[1-6])>)", r"\1", text)
@@ -365,19 +370,6 @@ def meta(head, attribute, name):
     return match and html.unescape(match.group(1))
 
 
-def scalar(value):
-    """Return a scalar as YAML, quoting strings (as JSON) only if necessary."""
-    if (
-        isinstance(value, str)
-        and re.fullmatch(r"[^\W\d_][^:#\n\"'{}\[\],&*!|>%@`]*", value)
-        and value == value.strip()
-        and value.lower()
-        not in ("true", "false", "yes", "no", "on", "off", "null", "y", "n")
-    ):
-        return value
-    return json.dumps(value, ensure_ascii=False)
-
-
 def yaml(value, depth=0):
     """Return a value as YAML, in block style for mappings and lists."""
     pad = "  " * depth
@@ -385,11 +377,11 @@ def yaml(value, depth=0):
         lines = []
         for key, item in value.items():
             separator = "" if isinstance(item, (dict, list)) and item else " "
-            lines.append(f"\n{pad}{scalar(key)}:{separator}{yaml(item, depth + 1)}")
+            lines.append(f"\n{pad}{markdown.scalar(key)}:{separator}{yaml(item, depth + 1)}")
         return "".join(lines)
     if isinstance(value, list) and value:
         return "".join(f"\n{pad}- {yaml(item, depth + 1).lstrip()}" for item in value)
-    return scalar(value)
+    return markdown.scalar(value)
 
 
 def front_matter(data):

@@ -1,9 +1,9 @@
 ---
-permalink: "/datos-abiertos-y-progreso-de-medicin/life-cycle-costing"
+permalink: /datos-abiertos-y-progreso-de-medicin/life-cycle-costing
 title: Life cycle costing
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: bc237733c1a141d1b4ae5c344d774c8d
 ---

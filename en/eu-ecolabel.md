@@ -1,5 +1,5 @@
 ---
-permalink: "/eu-ecolabel"
+permalink: /eu-ecolabel
 title: Eu Ecolabel
 notion_id: "6a56d209eee8445ca070aee4260818d0"
 properties:

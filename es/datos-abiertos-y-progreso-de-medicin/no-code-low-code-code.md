@@ -1,9 +1,9 @@
 ---
-permalink: "/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code"
+permalink: /datos-abiertos-y-progreso-de-medicin/no-code-low-code-code
 title: "No code, low code, code"
 description: "Different organisations have different capabilities and resources. We describe these environments as no code, low code or code environments based on the publisher’s access to the resources required to create and use computer code."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green3.png
 full_width: true
 notion_id: "2884d66c070e40ca8b9d62984a687245"
 ---

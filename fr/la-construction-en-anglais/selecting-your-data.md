@@ -1,9 +1,9 @@
 ---
-permalink: "/la-construction-en-anglais/selecting-your-data"
+permalink: /la-construction-en-anglais/selecting-your-data
 title: Selecting your data
 description: "Material use "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "4a543c3e201643e9b8d49438022b5ec1"
 ---

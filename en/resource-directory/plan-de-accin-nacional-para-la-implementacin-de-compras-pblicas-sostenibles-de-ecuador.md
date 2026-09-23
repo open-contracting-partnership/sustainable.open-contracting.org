@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/plan-de-accin-nacional-para-la-implementacin-de-compras-pblicas-sostenibles-de-ecuador"
+permalink: /resource-directory/plan-de-accin-nacional-para-la-implementacin-de-compras-pblicas-sostenibles-de-ecuador
 title: Plan de Acción nacional para la implementación de Compras Públicas Sostenibles de Ecuador
 notion_id: b311dff83e314acaa7aee3b58caf3c7a
 properties:

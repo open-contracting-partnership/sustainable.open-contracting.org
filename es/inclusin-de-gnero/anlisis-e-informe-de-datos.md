@@ -1,8 +1,8 @@
 ---
-permalink: "/inclusin-de-gnero/anlisis-e-informe-de-datos"
+permalink: /inclusin-de-gnero/anlisis-e-informe-de-datos
 title: Análisis e informe de datos
 description: "In order to make this reporting transferable and therefore comparable with other companies, other departments and even other countries, it is essential to be clear and open about methodologies around recording and calculating reporting metrics and to make the underlying data available for analysis by others."
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: "96247f6127d54fbc8d9fd7d23592ea76"
 ---
 # Analysing and reporting data

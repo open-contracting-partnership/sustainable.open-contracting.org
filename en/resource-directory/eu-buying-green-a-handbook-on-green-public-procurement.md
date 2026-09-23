@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/eu-buying-green-a-handbook-on-green-public-procurement"
+permalink: /resource-directory/eu-buying-green-a-handbook-on-green-public-procurement
 title: "EU Buying Green! - A Handbook on Green Public Procurement"
 notion_id: "7c570040405544c9996112ce2eb2982e"
 properties:

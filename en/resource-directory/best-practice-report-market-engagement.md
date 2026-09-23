@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/best-practice-report-market-engagement"
+permalink: /resource-directory/best-practice-report-market-engagement
 title: Best Practice Report - Market Engagement
 notion_id: "95cca459756949c8bdb0cea421e2c4fd"
 properties:

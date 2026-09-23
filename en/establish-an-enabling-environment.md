@@ -1,9 +1,9 @@
 ---
-permalink: "/establish-an-enabling-environment"
+permalink: /establish-an-enabling-environment
 title: "Establish an enabling environment "
 description: "Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 ---
@@ -68,9 +68,9 @@ For a more detailed account of the process, and concepts, introduced on the chec
 </div>
 <h2 class="notion-heading notion-semantic-string">Identify key enablers for SPP</h2>
 <p class="notion-text notion-text__content notion-semantic-string">Within your procurement regime, there will be certain policy vehicles, such as framework agreements or competitive dialogue procedures, that can also play a major enabling role to deliver sustainable procurement. In this section we include information about what some of these mechanisms are, and what role they can play in the context of SPP.</p>
-<div class="notion-collection inline collection-f6016322e82445cc9da7abbcf7ca3f59">
+<div class="notion-collection inline">
   <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#36e041d26513471e9d053b66f33a9d8d"></a><span class="notion-semantic-string">Key SPP enablers</span></h3>
+    <h3 class="notion-collection__header"><span class="notion-semantic-string">Key SPP enablers</span></h3>
   </div>
   <div class="notion-collection-gallery medium">
     <div class="notion-collection-card gallery"><a href="/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria" class="notion-link notion-collection-card__anchor">Explicit provisions to include sustainability as award criteria</a>

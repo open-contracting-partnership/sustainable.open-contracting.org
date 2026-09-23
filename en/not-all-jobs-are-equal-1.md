@@ -1,5 +1,5 @@
 ---
-permalink: "/not-all-jobs-are-equal-1"
+permalink: /not-all-jobs-are-equal-1
 title: Not all jobs are equal
 description: "When looking for economic development from procurement it is common to want to record the nature of the job that is being created. Governments may, for instance, wish to prioritise the creation of apprenticeships, or permanent, skilled work over and above the creation of a non-skilled or temporary work. "
 notion_id: "50b52270c2b5439a91c081549edb55db"

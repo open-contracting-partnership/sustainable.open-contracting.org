@@ -1,7 +1,7 @@
 ---
-permalink: "/mise-en-place/accords-cadres"
+permalink: /mise-en-place/accords-cadres
 title: Accords-cadres
-icon: "/assets/images/icons_D_Green3.png"
+icon: /assets/images/icons_D_Green3.png
 notion_id: "722d21969d07482da4922485e0cad01d"
 ---
 

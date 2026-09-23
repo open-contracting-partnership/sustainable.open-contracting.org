@@ -1,5 +1,5 @@
 ---
-permalink: "/open-data-measuring-progress/economic-development/what-to-measure"
+permalink: /open-data-measuring-progress/economic-development/what-to-measure
 title: What to measure?
 description: "Economic development is a subject that has multiple measurement points that can be used. In a country where commissioning services from overseas firms it may be as simple as measuring the amount of money spent with in-country firms. In other cases it may be more to do with spending in a tighter geographic area, such as an economically deprived area of a city. "
 notion_id: "5c45ddd7e03b4370afc866ce4bdea12c"

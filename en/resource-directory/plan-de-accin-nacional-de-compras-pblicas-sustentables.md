@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/plan-de-accin-nacional-de-compras-pblicas-sustentables"
+permalink: /resource-directory/plan-de-accin-nacional-de-compras-pblicas-sustentables
 title: "Plan de Acción Nacional de\nCompras Públicas Sustentables"
 notion_id: "86f66061aa6a4e79904f82c9f652ecfe"
 properties:

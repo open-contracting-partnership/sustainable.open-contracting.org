@@ -1,10 +1,10 @@
 ---
-permalink: "/"
+permalink: /
 title: Home
 description: "\nSustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started."
-cover: "/assets/images/Open-SPP-main.png"
+cover: /assets/images/Open-SPP-main.png
 cover_position: 83.26
-icon: "/assets/images/Open_SPP_home_1.png"
+icon: /assets/images/Open_SPP_home_1.png
 full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
 ---
@@ -34,38 +34,32 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_%281%29.png"/></div>
 
-<div class="notion-collection inline collection-25313dde2db84602bb0319f1342f73f2">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#d2744c10971b4e42bea4a89e7b644750"></a><span class="notion-semantic-string">Your Open SPP journey</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/introduction" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro.png"/></div>Introduction</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/plan" class="notion-link notion-collection-card__anchor">Plan</a><img alt="Plan" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers2_%281%29.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green.png"/></div>Plan</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/implement-1" class="notion-link notion-collection-card__anchor">Implement</a><img alt="Implement" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_notion_cover.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red.png"/></div>Implement</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/open-data-measuring-progress" class="notion-link notion-collection-card__anchor">Open data &amp; measuring progress</a><img alt="Open data &amp; measuring progress" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 6.479999999999997%" src="/assets/images/PUBLIC_SPP_covers4_%281%29.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green.png"/></div>Open data &amp; measuring progress</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/sector-guidance-1" class="notion-link notion-collection-card__anchor">Sector guidance</a><img alt="Sector guidance" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 89.84%" src="/assets/images/PUBLIC_SPP_covers6.png"/>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey.png"/></div>Sector guidance</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Your Open SPP journey %}
+{% gallery medium %}
+- title: Introduction
+  link: /introduction
+  icon: /assets/images/Icons_Blue_Intro.png
+  cover: /assets/images/PUBLIC_SPP_covers.png
+- title: Plan
+  link: /plan
+  icon: /assets/images/icons_D_Green.png
+  cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
+- title: Implement
+  link: /implement-1
+  icon: /assets/images/Icons_Red.png
+  cover: /assets/images/PUBLIC_SPP_notion_cover.png
+- title: "Open data & measuring progress"
+  link: /open-data-measuring-progress
+  icon: /assets/images/Icons_Light_Green.png
+  cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
+  cover_position: 6.48
+- title: Sector guidance
+  link: /sector-guidance-1
+  icon: /assets/images/Icons_Grey.png
+  cover: /assets/images/PUBLIC_SPP_covers6.png
+  cover_position: 89.84
+{% endgallery %}
+{% enddatabase %}
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.984375" height="163.79635416666667" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations.png"/></div>
 

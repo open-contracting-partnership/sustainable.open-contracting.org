@@ -1,14 +1,14 @@
 ---
-permalink: "/implement-1/assess-needs"
+permalink: /implement-1/assess-needs
 title: Assess needs
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: cc8afd8ea0d34670b514b70ba9523257
 properties:
   Created: "Feb 9, 2023 7:38 PM"
   "super:Link":
-    - "https://sustainability.open-contracting.org/assess-needs": "/assess-needs"
+    - "https://sustainability.open-contracting.org/assess-needs": /assess-needs
 ---
 {% columns %}
 {% column 0.1278 html %}

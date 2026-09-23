@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/socially-responsible-workwear-a-guide-for-public-purchasers"
+permalink: /resource-directory/socially-responsible-workwear-a-guide-for-public-purchasers
 title: "Socially Responsible Workwear: A guide for Public Purchasers"
 notion_id: "4d36dd0695ee4b07b27fc5e7a1a99437"
 properties:

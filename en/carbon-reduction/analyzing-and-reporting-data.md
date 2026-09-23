@@ -1,8 +1,8 @@
 ---
-permalink: "/carbon-reduction/analyzing-and-reporting-data"
+permalink: /carbon-reduction/analyzing-and-reporting-data
 title: Analyzing and reporting data
 description: "When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed. "
-icon: "/assets/images/Icons_Light_Green3.png"
+icon: /assets/images/Icons_Light_Green3.png
 notion_id: b012032fedb0498fbc8e90c87e21478c
 ---
 # Analysing and reporting data

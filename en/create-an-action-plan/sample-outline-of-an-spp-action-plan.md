@@ -1,8 +1,8 @@
 ---
-permalink: "/create-an-action-plan/sample-outline-of-an-spp-action-plan"
+permalink: /create-an-action-plan/sample-outline-of-an-spp-action-plan
 title: Sample outline of an SPP Action Plan
 description: "The outline presented has been adapted from: UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach (page 94)."
-icon: "/assets/images/Tick_green_2.png"
+icon: /assets/images/Tick_green_2.png
 notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 ---
 {% callout green /assets/images/Pin_green.png %}

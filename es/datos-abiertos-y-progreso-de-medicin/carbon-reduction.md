@@ -1,9 +1,9 @@
 ---
-permalink: "/datos-abiertos-y-progreso-de-medicin/carbon-reduction"
+permalink: /datos-abiertos-y-progreso-de-medicin/carbon-reduction
 title: Reducción de carbono
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "78796493da244692bc1d6d3a83de2bdd"
 ---

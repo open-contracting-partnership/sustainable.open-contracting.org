@@ -1,9 +1,9 @@
 ---
-permalink: "/inclusin-de-gnero"
+permalink: /inclusin-de-gnero
 title: Inclusión de género
 description: "Para reducir las barreras a las que se enfrentan las empresas dirigidas por mujeres en los mercados de contratación pública, debemos ser capaces de identificar las empresas dirigidas por mujeres y comprender en qué medida están participando y ganando contratos gubernamentales. Esto incluye una comprensión tanto del número como del valor de los contratos, así como de su sector. Podemos tomar estas medidas como referencia y luego implementar medidas con el objetivo de mejorar estas métricas con el tiempo."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "41b3faf621a347b38e3cd21970bcc188"
 ---
@@ -41,33 +41,22 @@ En la mayoría de los países, la participación de las empresas de mujeres en l
 
 ## **Para empezar**
 
-<div class="notion-collection inline collection-05b58bb3e07e4d578f2b412f2dd58694">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#2e3e75057d52453eb2393054f364246c"></a><span class="notion-semantic-string"><strong>Para empezar</strong></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/inclusin-de-gnero/cmo-analizar-la-brecha-salarial-por-gnero" class="notion-link notion-collection-card__anchor">¿Cómo analizar la brecha salarial por género?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>¿Cómo analizar la brecha salarial por género?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/inclusin-de-gnero/mujeres-en-internados-empresas-dirigidas-por-mujeres" class="notion-link notion-collection-card__anchor">Mujeres en internados/ empresas dirigidas por mujeres</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Mujeres en internados/ empresas dirigidas por mujeres</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/inclusin-de-gnero/cmo-recopilar-los-datos-que-necesita" class="notion-link notion-collection-card__anchor">¿Cómo recopilar los datos que necesita?</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>¿Cómo recopilar los datos que necesita?</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/inclusin-de-gnero/anlisis-e-informe-de-datos" class="notion-link notion-collection-card__anchor">Análisis e informe de datos</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Análisis e informe de datos</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Para empezar** %}
+{% gallery medium %}
+- title: "¿Cómo analizar la brecha salarial por género?"
+  link: /inclusin-de-gnero/cmo-analizar-la-brecha-salarial-por-gnero
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Mujeres en internados/ empresas dirigidas por mujeres
+  link: /inclusin-de-gnero/mujeres-en-internados-empresas-dirigidas-por-mujeres
+  icon: /assets/images/Icons_Light_Green3.png
+- title: "¿Cómo recopilar los datos que necesita?"
+  link: /inclusin-de-gnero/cmo-recopilar-los-datos-que-necesita
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Análisis e informe de datos
+  link: /inclusin-de-gnero/anlisis-e-informe-de-datos
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Opciones para uso de datos**
 

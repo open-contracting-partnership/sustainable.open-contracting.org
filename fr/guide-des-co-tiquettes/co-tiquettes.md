@@ -1,5 +1,5 @@
 ---
-permalink: "/guide-des-co-tiquettes/co-tiquettes"
+permalink: /guide-des-co-tiquettes/co-tiquettes
 title: "Éco-étiquettes "
 full_width: true
 collection: true

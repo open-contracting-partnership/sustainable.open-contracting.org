@@ -1,9 +1,9 @@
 ---
-permalink: "/ladoption-des-pratiques-durables"
+permalink: /ladoption-des-pratiques-durables
 title: L’adoption des pratiques durables
 description: "L’évaluation du degré d’adoption des pratiques durables de passation de marchés suppose de déterminer dans quelle mesure les acheteurs publics ont recours aux marchés publics durables, durant les processus de passation de marchés ou ultérieurement, afin de pouvoir repérer clairement les marchés produisant des effets en matière sociale, environnementale et économique lors des appels d’offres et de l’engagement de fournisseurs."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "3e5f6ebbb44544b993d1f2aa2e381fd1"
 ---
@@ -53,33 +53,22 @@ De ce fait, il est essentiel que les gouvernements soient clairs concernant les 
 
 Une fois ces éléments clairement établis, vous pourrez collecter et évaluer des informations témoignant de la mise en œuvre de politiques sur les marchés publics durables. Cliquez sur les sections suivantes pour en savoir plus sur le début de cette démarche.
 
-<div class="notion-collection inline collection-8d9a04abf5454a46bea10500a6b7bbdb">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#56a67f7e4e114f4f88e0b397b0340c4f"></a><span class="notion-semantic-string">Cliquez sur les sections ci-dessous pour en savoir plus:</span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/how-to-record-spp-in-procurement" class="notion-link notion-collection-card__anchor">How to record SPP in procurement</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to record SPP in procurement</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/options-for-measuring" class="notion-link notion-collection-card__anchor">Options for measuring </a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Options for measuring </div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/how-to-measure-spp-uptake" class="notion-link notion-collection-card__anchor">How to measure SPP uptake</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>How to measure SPP uptake</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/ladoption-des-pratiques-durables/analyzing-and-reporting-data" class="notion-link notion-collection-card__anchor">Analyzing and reporting data</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green3.png"/></div>Analyzing and reporting data</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database Cliquez sur les sections ci-dessous pour en savoir plus: %}
+{% gallery medium %}
+- title: How to record SPP in procurement
+  link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
+  icon: /assets/images/Icons_Light_Green3.png
+- title: "Options for measuring "
+  link: /ladoption-des-pratiques-durables/options-for-measuring
+  icon: /assets/images/Icons_Light_Green3.png
+- title: How to measure SPP uptake
+  link: /ladoption-des-pratiques-durables/how-to-measure-spp-uptake
+  icon: /assets/images/Icons_Light_Green3.png
+- title: Analyzing and reporting data
+  link: /ladoption-des-pratiques-durables/analyzing-and-reporting-data
+  icon: /assets/images/Icons_Light_Green3.png
+{% endgallery %}
+{% enddatabase %}
 
 ## **Exemples d’indicateurs** 
 

@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/purchasing-the-future-you-want-a-sustainable-it-purchasing-guide"
+permalink: /resource-directory/purchasing-the-future-you-want-a-sustainable-it-purchasing-guide
 title: "Purchasing the future you want: A sustainable IT purchasing guide"
 notion_id: b0e78cb8e3c64361ab69e704dca695eb
 properties:

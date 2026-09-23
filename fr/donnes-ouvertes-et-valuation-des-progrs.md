@@ -1,9 +1,9 @@
 ---
-permalink: "/donnes-ouvertes-et-valuation-des-progrs"
+permalink: /donnes-ouvertes-et-valuation-des-progrs
 title: Données ouvertes et évaluation des progrès
 description: "Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée au début de notre guide pratique et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de cadre de suivi et d’évaluation dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Notion-Imp_3.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Notion-Imp_3.png
 full_width: true
 notion_id: "35dc615b39b84af793a9430029ef8567"
 ---
@@ -59,38 +59,25 @@ Il existe plusieurs méthodes de collecte et d’analyse de données variant en 
 
 {% endtoggle %}
 
-<div class="notion-collection inline collection-de7eaeea446e470f9881d140600cd91d">
-  <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#1a144e82589b4729b2107b7d87bc276c"></a><span class="notion-semantic-string"><strong><strong>Cliquez sur une section pour en savoir plus.</strong></strong><a href="/assess-needs" class="notion-link link" target="_blank" rel="noopener noreferrer">Évaluer les besoins réels</a></span></h3>
-  </div>
-  <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="/options-for-data-use" class="notion-link notion-collection-card__anchor">D’utilisation des données</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>D’utilisation des données</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/spp-uptake" class="notion-link notion-collection-card__anchor">L’adoption des pratiques durables</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’adoption des pratiques durables</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/carbon-reduction" class="notion-link notion-collection-card__anchor">La réduction des émissions de carbone</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>La réduction des émissions de carbone</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/gender-inclusion" class="notion-link notion-collection-card__anchor">L’inclusion des genres</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’inclusion des genres</div>
-      </div>
-    </div>
-    <div class="notion-collection-card gallery"><a href="/life-cycle-costing" class="notion-link notion-collection-card__anchor">Le coût du cycle de vie</a>
-      <div class="notion-collection-card__content notion-collection-card__property-list">
-        <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Le coût du cycle de vie</div>
-      </div>
-    </div>
-  </div>
-</div>
+{% database **Cliquez sur une section pour en savoir plus.**[Évaluer les besoins réels](/assess-needs) %}
+{% gallery medium %}
+- title: D’utilisation des données
+  link: /options-for-data-use
+  icon: /assets/images/Icons_Light_Green2.png
+- title: L’adoption des pratiques durables
+  link: /spp-uptake
+  icon: /assets/images/Icons_Light_Green2.png
+- title: La réduction des émissions de carbone
+  link: /carbon-reduction
+  icon: /assets/images/Icons_Light_Green2.png
+- title: L’inclusion des genres
+  link: /gender-inclusion
+  icon: /assets/images/Icons_Light_Green2.png
+- title: Le coût du cycle de vie
+  link: /life-cycle-costing
+  icon: /assets/images/Icons_Light_Green2.png
+{% endgallery %}
+{% enddatabase %}
 
 {% endcolumn %}
 {% endcolumns %}

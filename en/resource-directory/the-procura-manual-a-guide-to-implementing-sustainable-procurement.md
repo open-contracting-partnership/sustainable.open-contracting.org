@@ -1,5 +1,5 @@
 ---
-permalink: "/resource-directory/the-procura-manual-a-guide-to-implementing-sustainable-procurement"
+permalink: /resource-directory/the-procura-manual-a-guide-to-implementing-sustainable-procurement
 title: "The Procura + Manual: A Guide to Implementing Sustainable Procurement"
 notion_id: "6e98ce2e898b4941b07a8d78e322735d"
 properties:

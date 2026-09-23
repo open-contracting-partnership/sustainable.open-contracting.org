@@ -1,9 +1,9 @@
 ---
-permalink: "/construction-sector-1/selecting-your-data"
+permalink: /construction-sector-1/selecting-your-data
 title: Selecting your data
 description: "Material use "
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "98c412788073444e8210c12f66aaa69c"
 properties:

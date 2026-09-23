@@ -1,5 +1,5 @@
 ---
-permalink: "/tco-certified"
+permalink: /tco-certified
 title: TCO Certified
 notion_id: a2902f44b4584fcd98f831f783abfec8
 properties:

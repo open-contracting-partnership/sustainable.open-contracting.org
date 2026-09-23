@@ -1,9 +1,9 @@
 ---
-permalink: "/la-construction-en-anglais/supporting-effective-spp"
+permalink: /la-construction-en-anglais/supporting-effective-spp
 title: Supporting effective SPP
 description: "Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of relevant data variables throughout the procurement process."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Grey6.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Grey6.png
 full_width: true
 notion_id: "1ed1b35eb0fe43f48787243595533e7e"
 ---

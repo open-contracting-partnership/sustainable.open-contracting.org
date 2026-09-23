@@ -1,9 +1,9 @@
 ---
-permalink: "/mise-en-place"
+permalink: /mise-en-place
 title: Mise en place
 description: Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/icons_D_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/icons_D_Green2.png
 full_width: true
 notion_id: e04c4d5f89b14bf0b064b4893eb79e82
 ---
@@ -67,9 +67,9 @@ notion_id: e04c4d5f89b14bf0b064b4893eb79e82
 </div>
 <h1 class="notion-heading notion-semantic-string"><strong>Repérer les mécanismes essentiels de promotion des marchés publics durables</strong></h1>
 <p class="notion-text notion-text__content notion-semantic-string">Parmi vos règles de passation de marchés, vous trouverez des instruments de politiques, comme des accords-cadres ou des procédures de dialogue compétitif, qui peuvent également jouer un rôle essentiel de facilitation de la mise en place de marchés publics durables. Dans cette section, vous trouverez une description de certains de ces mécanismes et du rôle qu’ils peuvent jouer en ce qui concerne les marchés publics durables.</p>
-<div class="notion-collection inline collection-bb8970c411cf412791ec808ac493c8bf">
+<div class="notion-collection inline">
   <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#59b5d1f99405405dae2effa68c160a68"></a><span class="notion-semantic-string"><strong>Principaux mécanismes de promotion des marchés publics durables</strong></span></h3>
+    <h3 class="notion-collection__header"><span class="notion-semantic-string"><strong>Principaux mécanismes de promotion des marchés publics durables</strong></span></h3>
   </div>
   <div class="notion-collection-gallery medium">
     <div class="notion-collection-card gallery"><a href="/mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution" class="notion-link notion-collection-card__anchor">Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution</a>

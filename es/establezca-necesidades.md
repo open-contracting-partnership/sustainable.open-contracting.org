@@ -1,9 +1,9 @@
 ---
-permalink: "/establezca-necesidades"
+permalink: /establezca-necesidades
 title: Establezca necesidades
 description: "Cuando decida implementar CPS, no sólo debe considerar cómo seleccionará la opción más sostenible, sino también asegurarse de que existe una necesidad real de los bienes, servicios u obras que va a comprar. A veces, puede encontrar que la opción más sostenible es evitar comprar cualquier cosa. Para evitar compras innecesarias y asegurarse de adquirir lo correcto, es fundamental realizar una evaluación de las necesidades antes de lanzar una licitación."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Red2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Red2.png
 full_width: true
 notion_id: "52be44d8f3944dc8ab5157ae95f44202"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "/open-data-measuring-progress/economic-development/not-all-jobs-are-equal"
+permalink: /open-data-measuring-progress/economic-development/not-all-jobs-are-equal
 title: Not all jobs are equal
 description: "When looking for economic development from procurement it is common to want to record the nature of the job that is being created. Governments may, for instance, wish to prioritise the creation of apprenticeships, or permanent, skilled work over and above the creation of a non-skilled or temporary work. "
 notion_id: "29e4812acc0e417f934fddb14a08964d"

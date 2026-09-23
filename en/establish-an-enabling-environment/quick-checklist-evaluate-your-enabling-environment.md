@@ -1,8 +1,8 @@
 ---
-permalink: "/establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment"
+permalink: /establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment
 title: Quick checklist - Evaluate your enabling environment
 description: Quick checklist
-icon: "/assets/images/Tick_green_2.png"
+icon: /assets/images/Tick_green_2.png
 notion_id: "6a6a2d45158d4269aec4e02ab7172371"
 ---
 {% callout green /assets/images/Pin_green.png %}

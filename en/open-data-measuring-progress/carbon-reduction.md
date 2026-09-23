@@ -1,15 +1,15 @@
 ---
-permalink: "/open-data-measuring-progress/carbon-reduction"
+permalink: /open-data-measuring-progress/carbon-reduction
 title: Carbon reduction
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: "/assets/images/PUBLIC_SPP_background.jpg"
-icon: "/assets/images/Icons_Light_Green2.png"
+cover: /assets/images/PUBLIC_SPP_background.jpg
+icon: /assets/images/Icons_Light_Green2.png
 full_width: true
 notion_id: "17349a574ae44e07827df73e846f4749"
 properties:
   Created: "Feb 9, 2023 7:39 PM"
   "super:Link":
-    - "https://sustainable.open-contractring.org/options-for-data-use/use-cases/carbon-reduction": "/carbon-reduction"
+    - "https://sustainable.open-contractring.org/options-for-data-use/use-cases/carbon-reduction": /carbon-reduction
 ---
 ## What do we mean by no code, low code and code?
 

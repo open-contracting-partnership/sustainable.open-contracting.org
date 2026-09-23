@@ -1,8 +1,8 @@
 ---
-permalink: "/monitoreo-y-evaluacin/ejemplo-de-marco-me"
+permalink: /monitoreo-y-evaluacin/ejemplo-de-marco-me
 title: "Ejemplo de Marco M&E"
 description: "The M&E framework includes the following section:"
-icon: "/assets/images/icons_D_Green3.png"
+icon: /assets/images/icons_D_Green3.png
 notion_id: "0847a7f0e8ed4d8faa83afee27b6f438"
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
