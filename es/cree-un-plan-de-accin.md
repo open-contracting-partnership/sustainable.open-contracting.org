@@ -54,8 +54,7 @@ notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
     <div class="notion-text"></div>
     <div class="notion-callout bg-gray-light border">
       <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso
-</strong></span>
+      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso</strong></span>
         <p class="notion-text notion-text__content notion-semantic-string">En 2017 Argentina <strong>desarrolló su </strong><a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf" class="notion-link link"><strong>Plan de Acción Nacional de Compras Públicas Sustentables</strong></a><strong>, el cual incluye en sus páginas 7 a 12 una visión general del subyacente contexto internacional y nacional de su habilitación</strong>. En primer lugar, el Plan introduce el contexto internacional, enfatizando el compromiso de Argentina con las Metas de Desarrollo Sostenible de Naciones Unidas, y las colaboraciones entre el gobierno de Argentina y el PNUMA en relación con la implementación de CPS.</p>
         <p class="notion-text notion-text__content notion-semantic-string">A nivel nacional, el Plan incluye los diferentes reglamentos como políticas y planes que se han creado dentro del contexto de CPS. Aquí se incluye el <a href="http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm" class="notion-link link">decreto aprobado en 2016</a> que permite a la Oficina Nacional de Contratación incluir criterios de sostenibilidad en los documentos de licitación, y lineamientos de cómo el concepto de &quot;la oferta más adecuada&quot; puede ser interpretado por los responsables de contratación, con el fin de permitir la implementación de CPS.</p>
       </div>
@@ -82,8 +81,7 @@ notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
     <div class="notion-text"></div>
     <div class="notion-callout bg-gray-light border">
       <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso
-</strong></span>
+      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Estudio de caso</strong></span>
         <p class="notion-text notion-text__content notion-semantic-string"><strong>En 2021, Irlanda publicó su Plan </strong><strong><a href="https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/" class="notion-link link">de Acción de Contratación Pública Verde</a></strong><strong>.</strong> <strong>El Plan asigna prioridad a ocho categorías de contratación de productos o servicios</strong>, e incluye la construcción, energía, transporte, alimentos, y servicios de abastecimiento, productos y servicios de aseo , papel, uniformes y otros textiles y TIC.</p>
         <p class="notion-text notion-text__content notion-semantic-string"><strong>En las páginas 21 a 27 el Plan incluye información específica para cada categoría</strong>. Esta información incluye información y datos en relación con las normas y políticas específicas que se deben considerar al hacer con contrataciones más sostenibles en cada área, las acreditaciones específicas disponibles, ejemplos de licitación verde, y las acciones clave propuestas para la implementación de prácticas de contratación verde.</p>
       </div>
@@ -223,8 +221,7 @@ En 2021, el País Vasco en España publicó el</strong> <a href="https://www.iho
 <div class="notion-text"></div>
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos 
-</strong></span>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Recursos </strong></span>
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string"><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer">World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems</a>.</li>
       <li class="notion-list-item notion-semantic-string"><a href="https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines" class="notion-link link" target="_blank" rel="noopener noreferrer">UNEP. 2021. Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach.</a></li>

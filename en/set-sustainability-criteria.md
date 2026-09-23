@@ -119,7 +119,7 @@ Selection criteria focus on evaluating potential supplier’s ability to perform
 
 <div class="notion-text"></div>
 
-This information is often gathered through questionnaires, and this system is often used in [two tender stage procurement approaches](/choose-a-procurement-method) to select suppliers during the first stage. Authorities should clearly communicate which of this information will be used to evaluate suppliers, and how it relates to the subject-matter of the contract.<br>
+This information is often gathered through questionnaires, and this system is often used in [two tender stage procurement approaches](/choose-a-procurement-method) to select suppliers during the first stage. Authorities should clearly communicate which of this information will be used to evaluate suppliers, and how it relates to the subject-matter of the contract. 
 
 {% endtoggle %}
 

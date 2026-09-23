@@ -134,8 +134,7 @@ notion_id: "e04c4d5f89b14bf0b064b4893eb79e82"
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Lorsque vous envisagez d’adopter des pratiques durables de passation de marchés pour la première fois, il peut être utile d’apprendre d’autres équipes travaillant également sur des initiatives axées sur les marchés publics durables. Ces réseaux permettent aux participants de partager de façon ouverte des connaissances et les meilleures pratiques ainsi que d’apprendre les uns des autres.</p>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string"><strong>Voici quelques exemples de grands réseaux internationaux d’échange des meilleures pratiques :
-</strong></p>
+<p class="notion-text notion-text__content notion-semantic-string"><strong>Voici quelques exemples de grands réseaux internationaux d’échange des meilleures pratiques :</strong></p>
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><a href="http://ppra.go.ke/eapf/" class="notion-link link" target="_blank" rel="noopener noreferrer">East African Procurement Forum</a> </li>
   <li class="notion-list-item notion-semantic-string"><a href="https://iclei.org/" class="notion-link link" target="_blank" rel="noopener noreferrer">ICLEI</a> et <a href="https://africa.iclei.org/" class="notion-link link" target="_blank" rel="noopener noreferrer">ICLEI Afrique</a></li>

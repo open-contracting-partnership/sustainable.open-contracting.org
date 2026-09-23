@@ -78,7 +78,7 @@ Il est possible d’interagir avec les acteurs du marché à chaque étape de la
 *L’interaction avec les acteurs du marché lors de l’élaboration de votre premier plan d’action sur les marchés publics durables est essentielle pour diffuser et communiquer tout changement stratégique majeur, inclure les fournisseurs dans votre démarche et prendre conscience des possibilités.*
 {% endcallout %}
 
-<br>
+<p class="notion-text notion-text__content notion-semantic-string"></p>
 
 {% endtoggle %}
 
@@ -118,8 +118,7 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Ressources
-</strong>
+**Ressources**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)

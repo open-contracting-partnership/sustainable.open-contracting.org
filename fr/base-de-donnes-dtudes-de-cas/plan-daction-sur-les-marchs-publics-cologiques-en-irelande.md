@@ -20,7 +20,7 @@ En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics �
 
 <div class="notion-text"></div>
 
-**Les pages 21 à 57 de ce plan fournissent des informations spécifiques aux différentes catégories**. Il s’agit notamment de renseignements concernant les réglementations et politiques qui doivent être prises en compte pour mettre en place des marchés publics plus durables dans chaque catégorie, les programmes de certification pertinents, des exemples d’appels d’offres écologiques et des propositions d’actions essentielles concernant la mise en place de marchés publics écologiques.<br>
+**Les pages 21 à 57 de ce plan fournissent des informations spécifiques aux différentes catégories**. Il s’agit notamment de renseignements concernant les réglementations et politiques qui doivent être prises en compte pour mettre en place des marchés publics plus durables dans chaque catégorie, les programmes de certification pertinents, des exemples d’appels d’offres écologiques et des propositions d’actions essentielles concernant la mise en place de marchés publics écologiques.
 {% endcallout %}
 
 <div class="notion-text"></div>

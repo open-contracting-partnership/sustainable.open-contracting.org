@@ -64,7 +64,7 @@ Market engagement practices can vary depending on the different stages of the Op
 
 {% toggle **Engaging during the preparation for your SPP Action Plan** %}
 
-Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize-1), and to design [standardized sustainability criteria.](/build-support-and-capabilities) The methods that can be used to engage with the market during this process can include:<br>
+Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize-1), and to design [standardized sustainability criteria.](/build-support-and-capabilities) The methods that can be used to engage with the market during this process can include:
 
 - **Workshops** with suppliers to present sustainability goals, and gather needed data to assess market capability. 
 - **Online consultations** to allow suppliers to provide feedback on strategic decisions regarding Open SPP, such as the prioritization of procurement categories. 
@@ -79,17 +79,17 @@ Market engagement activities can be applied throughout the different steps of de
 **Engaging with the supplier market** when designing your first SPP Action Plan is **essential to share and communicate a major strategy change, take suppliers on the journey with you, and understand what is feasible.**
 {% endcallout %}
 
-<br>
+<p class="notion-text notion-text__content notion-semantic-string"></p>
 
 {% endtoggle %}
 
 {% toggle **Engaging during procurement planning phase** %}
 
-Market engagement activities carried out during the planning phase of a procurement process will be based on the [needs that have been identified](/assess-needs), and will guide decisions regarding the design and criteria introduced in the procurement process. Market engagement activities during this stage can be applied for:<br>
+Market engagement activities carried out during the planning phase of a procurement process will be based on the [needs that have been identified](/assess-needs), and will guide decisions regarding the design and criteria introduced in the procurement process. Market engagement activities during this stage can be applied for:
 
 - **Conducting market research** to assess the availability of existing solutions to solve the needs that have been identified in the most sustainable way. 
 - **Assessing service model delivery options.**
-- **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers.<br>
+- **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers. 
 
 {% callout red /assets/images/Idea_Red.png %}
 One way in which you can engage with the market during the planning phase is by **organizing events with suppliers to present their sustainability objectives.** These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to **discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.**
@@ -127,8 +127,7 @@ Once it has been decided to issue a tender, there are different methods that can
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Resources
-</strong>
+**Resources**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)

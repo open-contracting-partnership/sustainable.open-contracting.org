@@ -43,7 +43,7 @@ Questionnaires can be useful to monitor the compliance with supply chain conditi
 
 {% toggle **Desktop and factory audits** %}
 
-One way to monitor supply-chain activities is by conducting desktop audits and factory visits. Conducting factory audits can be resource intensive, which is why it can be helpful to collaborate with a third party, such as and NGO.<br>
+One way to monitor supply-chain activities is by conducting desktop audits and factory visits. Conducting factory audits can be resource intensive, which is why it can be helpful to collaborate with a third party, such as and NGO. 
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf) hires external contractors to conduct check compliance with social criteria** in contract clauses once for each supplier during the entire contract period. **They have affiliated with [Electronics Watch](https://electronicswatch.org/en/)** to access their support in local worker-driven monitoring.

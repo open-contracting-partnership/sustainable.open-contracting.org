@@ -164,8 +164,7 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Étude de cas
-</strong>
+**Étude de cas**
 
 En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp), un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.
 

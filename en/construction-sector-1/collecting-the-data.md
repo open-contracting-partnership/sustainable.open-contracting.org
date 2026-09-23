@@ -137,8 +137,7 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case study
-</strong>
+**Case study**
 
 **Engaging civil society in monitoring activities:**
 

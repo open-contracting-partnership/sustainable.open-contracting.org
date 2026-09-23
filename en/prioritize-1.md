@@ -73,7 +73,7 @@ Value refers to the total spend associated with a procurement category, regardle
 
 {% toggle **Contract frequency** %}
 
-For each procurement category contract frequency should be captured, that is to say the number of contracts associated with a procurement category over a certain period of time.<br>
+For each procurement category contract frequency should be captured, that is to say the number of contracts associated with a procurement category over a certain period of time.
 
 {% endtoggle %}
 
@@ -202,18 +202,16 @@ As it has been explained at the start of this section, once it has been decided 
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Resources
-</strong>
+**Resources**
 
 - [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
-- [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).<br>
+- [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-<strong>Case study
-</strong>
+**Case study** 
 
 After the approval of its National Green Growth Strategy in 2012, **Vietnam[ applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.
 

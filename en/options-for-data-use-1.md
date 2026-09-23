@@ -67,8 +67,7 @@ Doing this will require establishing a clear definition of which contracts fall 
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Manually sift through procurement notices and make a judgement call on whether or not its SPP.
 
-Mandate authorities release a flag highlighting that a procurement is SPP.
-</span></div>
+Mandate authorities release a flag highlighting that a procurement is SPP.</span></div>
         </td>
         <td style="min-width:185.861328125px;max-width:185.861328125px;background:var(--color-bg-yellow)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Release a flag for SPP procurement on contract registers</span></div>

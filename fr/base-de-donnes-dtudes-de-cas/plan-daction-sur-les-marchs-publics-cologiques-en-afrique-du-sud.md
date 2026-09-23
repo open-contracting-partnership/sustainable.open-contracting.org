@@ -18,9 +18,9 @@ notion_id: "33b2c867d05d4711a6c3ac2df35c6d22"
 
 <div class="notion-text"></div>
 
-Chaque objectif est associé à une série de résultats et d’activités faisant pour la plupart référence à la mise en place de mécanismes d’assistance. Ils comprennent par exemple « Conception de lignes directrices et de spécifications pour les produits prioritaires » ou « Élaboration de produits et d’événements de communication et de formation à l’intention du personnel de la ville ».<br>
+Chaque objectif est associé à une série de résultats et d’activités faisant pour la plupart référence à la mise en place de mécanismes d’assistance. Ils comprennent par exemple « Conception de lignes directrices et de spécifications pour les produits prioritaires » ou « Élaboration de produits et d’événements de communication et de formation à l’intention du personnel de la ville ». 
 
-**La ville a assorti chaque activité d’un délai de réalisation : 1 à 2 ans ; 3 à 5 ans ; et 6 à 10 ans.**<br>
+**La ville a assorti chaque activité d’un délai de réalisation : 1 à 2 ans ; 3 à 5 ans ; et 6 à 10 ans.** 
 {% endcallout %}
 
 <div class="notion-text"></div>

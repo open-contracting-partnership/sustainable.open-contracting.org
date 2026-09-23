@@ -35,14 +35,11 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Evaluación de la capacidad del mercado</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
-</p>
+  <p class="notion-text notion-text__content notion-semantic-string">Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.</p>
   <li class="notion-list-item notion-semantic-string"><strong>Maximizar la oferta de proveedores por oportunidades de contrato</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.
-</p>
+  <p class="notion-text notion-text__content notion-semantic-string">Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.</p>
   <li class="notion-list-item notion-semantic-string"><strong>Promover la confianza y la transparencia</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Relacinarse con el mercado ofrece una oportunidad para que las autoridades compartan de manera transparente sus planes de contrataciones con los proveedores, sus objetivos de sostenibilidad y las motivaciones detrás de estos objetivos, promoviendo la confianza entre las partes interesadas.
-</p>
+  <p class="notion-text notion-text__content notion-semantic-string">Relacinarse con el mercado ofrece una oportunidad para que las autoridades compartan de manera transparente sus planes de contrataciones con los proveedores, sus objetivos de sostenibilidad y las motivaciones detrás de estos objetivos, promoviendo la confianza entre las partes interesadas.</p>
   <li class="notion-list-item notion-semantic-string"><strong>Recopilación de comentarios sobre su enfoque del mercado</strong></li>
   <p class="notion-text notion-text__content notion-semantic-string">En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.</p>
 </ul>
@@ -79,7 +76,7 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 **Relacionarse con el mercado de proveedores** al diseñar su primer Plan de Acción de APP **es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible**.
 {% endcallout %}
 
-<br>
+<p class="notion-text notion-text__content notion-semantic-string"></p>
 
 {% endtoggle %}
 
@@ -89,11 +86,10 @@ Las actividades de participación en el mercado realizadas durante la fase de pl
 
 - **Realización de estudios de mercado** para evaluar la disponibilidad de las soluciones existentes para resolver las necesidades identificadas de la forma más sostenible
 - **Evaluación de las opciones de entrega del modelo de servicio**.
-- **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales.<br>
+- **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales. 
 
 {% callout red /assets/images/Idea_Red.png %}
-Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para <strong>discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.
-</strong>
+Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para **discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.**
 
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string">Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).<strong>Conectarse durante la contratación</strong></p>
@@ -136,8 +132,7 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Recursos
-</strong>
+**Recursos**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)

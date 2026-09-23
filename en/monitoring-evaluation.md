@@ -112,8 +112,7 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Resources
-</strong>
+**Resources**
 
 - [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).

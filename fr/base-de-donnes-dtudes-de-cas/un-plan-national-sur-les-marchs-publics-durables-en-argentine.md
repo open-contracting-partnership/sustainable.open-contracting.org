@@ -18,7 +18,7 @@ En 2017, **l’Argentine a développé son [plan national sur les marchés publi
 
 <div class="notion-text"></div>
 
-À l’échelle nationale, ce plan aborde les réglementations, politiques et plans relatifs aux marchés publics durables. **Cela comprend le [décret approuvé en 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm), qui permet à l’agence nationale de passation des marchés publics d’intégrer des critères de durabilité aux dossiers d’appels d’offres, ainsi que des orientations à l’intention des membres des services de passation de marchés concernant l’interprétation du concept de « l’offre la plus adéquate » afin de faciliter la mise en place des marchés publics durables.**<br>
+À l’échelle nationale, ce plan aborde les réglementations, politiques et plans relatifs aux marchés publics durables. **Cela comprend le [décret approuvé en 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm), qui permet à l’agence nationale de passation des marchés publics d’intégrer des critères de durabilité aux dossiers d’appels d’offres, ainsi que des orientations à l’intention des membres des services de passation de marchés concernant l’interprétation du concept de « l’offre la plus adéquate » afin de faciliter la mise en place des marchés publics durables.**
 {% endcallout %}
 
 <div class="notion-text"></div>

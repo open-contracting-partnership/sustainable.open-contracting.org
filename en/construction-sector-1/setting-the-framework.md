@@ -43,7 +43,7 @@ For example, certain areas might be especially concerned with pollution levels, 
 
 {% toggle **Green Building Codes** %}
 
-Many countries have specific design codes for infrastructure projects, some have started to introduce specific “green” standards. Identifying these standards will help guide tender specifications regarding aspects such as energy efficiency.<br>
+Many countries have specific design codes for infrastructure projects, some have started to introduce specific “green” standards. Identifying these standards will help guide tender specifications regarding aspects such as energy efficiency. 
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 In 2019, **Rwanda created a [minimum compliance system](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf) for the construction of new buildings to promote energy and water efficiency, environmental protection, better Indoor Environmental Quality and green innovation.** These type of systems can help to guide decisions on what criteria should be introduced in construction projects. 
@@ -72,10 +72,10 @@ When considering the implementation of SPP for procuring a construction project,
 
 {% toggle **Company accreditations**  %}
 
-These accreditations can help you identify environmentally preferable suppliers. For this sector we have identified two main ISO accreditations:<br>
+These accreditations can help you identify environmentally preferable suppliers. For this sector we have identified two main ISO accreditations:
 
 - **ISO 14006 - Guidelines for incorporating ecodesign,** for identifying sustainable suppliers for the design stage of construction projects. 
-- **ISO 14001 - Environmental management systems,** to identify suppliers who have successfully implemented a system to enhance their environmental performance.<strong><br></strong>
+- **ISO 14001 - Environmental management systems,** to identify suppliers who have successfully implemented a system to enhance their environmental performance.<strong></strong>
 
 {% endtoggle %}
 
@@ -89,7 +89,7 @@ Identifying sustainability accreditations for construction products can help gui
 
 {% toggle **Guiding accreditations** %}
 
-The following accreditations are given to a construction project once it has been completed. However, the sustainability assessment methods they apply are often publicly accessible, and can be used to guide specifications for sustainable construction projects.<br>
+The following accreditations are given to a construction project once it has been completed. However, the sustainability assessment methods they apply are often publicly accessible, and can be used to guide specifications for sustainable construction projects. 
 
 - **[BREEAM](https://www.breeam.com/)** 
 - **[LEED](https://www.usgbc.org/help/what-leed)** 
@@ -112,12 +112,12 @@ Green construction accreditations cover many aspects of construction projects, *
 <br>**Master planning guidance:**
 
 - [Master Planning. 2015. The World Bank](https://urban-regeneration.worldbank.org/node/51#:~:text=Master%20planning%20is%20about%20making,community%20facilities%2C%20and%20land%20use). 
-- [Master Planning and statutory planning process table (Community Gardens). GOV.UK](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)<br>
+- [Master Planning and statutory planning process table (Community Gardens). GOV.UK](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)
 
 **Sustainable building construction in Africa:**
 
 - [Sustainable Buildings and Construction in Africa. Federal Ministry of the Environment, Nature Conservation and Nuclear Safety](https://www.cscp.org/wp-content/uploads/2016/05/28_Tessema_Taipale_Bethge__2009__Sustainable_Building_and_Construction_in_Africa_en.pdf)
-- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System. ](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)<br>
+- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System. ](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)
 
 **Finding relevant ecolabels in the construction sector:**
 

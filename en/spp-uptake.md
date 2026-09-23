@@ -307,13 +307,10 @@ In the specific, worked example below, we have included these outcomes, together
         <td style="min-width:188.5px;max-width:188.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which reference SPP criteria within scoring (award criteria)
 
-- Total value of tenders
-
-</span></div>
+- Total value of tenders</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which reference SPP criteria within scoring (award criteria) / Total value of tenders
-</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which reference SPP criteria within scoring (award criteria) / Total value of tenders</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements</a></span></div>
@@ -323,7 +320,7 @@ In the specific, worked example below, we have included these outcomes, together
   </table>
 </div>
 
-<br>
+<p class="notion-text notion-text__content notion-semantic-string"></p>
 
 {% endcolumn %}
 {% endcolumns %}

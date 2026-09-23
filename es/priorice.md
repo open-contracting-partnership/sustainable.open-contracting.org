@@ -202,18 +202,16 @@ Tal como explicamos al principio de esta sección, una vez haya decidido enfocar
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Recursos
-</strong>
+**Recursos**
 
 - [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
-- [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).<br>
+- [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-<strong>Estudio de caso
-</strong>
+**Estudio de caso** 
 
 Tras la aprobación de su Estrategia Nacional de Crecimiento Verde en 2012 Vietnam aplicó un una herramienta para [la determinación de prioridades](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) para su contratación pública de 2015, **con el fin de seleccionar categorías de producto en que se debía enfocar los esfuerzos** en CPS con la las ayuda de PNUMA.
 

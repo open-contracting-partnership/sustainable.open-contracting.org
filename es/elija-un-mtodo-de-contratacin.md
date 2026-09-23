@@ -100,8 +100,7 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - **Paso 6:** Evalúe las ofertas y adjudique el contrato al proveedor seleccionado
 
 <div class="notion-text">
-  <p class="notion-text__content notion-semantic-string">
-</p>
+  <p class="notion-text__content notion-semantic-string"></p>
   <div class="notion-text__children">
     <div class="notion-callout bg-red-light border">
       <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>

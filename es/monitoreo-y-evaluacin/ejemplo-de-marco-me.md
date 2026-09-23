@@ -231,13 +231,10 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which reference SPP criteria within scoring (award criteria)
 
-- Total value of tenders
-
-</span></div>
+- Total value of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which reference SPP criteria within scoring (award criteria) / Total value of tenders
-</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which reference SPP criteria within scoring (award criteria) / Total value of tenders</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a></span></div>
@@ -279,8 +276,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which include a carbon budget within specifications
 
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Contracts which include a carbon budget / Total number of tenders</span></div>
@@ -302,8 +298,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference CO2 emissions within the award criteria
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to CO2 emissions / Total number of tenders</span></div>
@@ -417,8 +412,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference environmental certifications within specifications
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders with reference to environmental certifications within specifications / Total number of tenders</span></div>
@@ -444,8 +438,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference environmental certifications within scoring of tender
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to environmental certifications within scoring of tender / Total number of tenders</span></div>
@@ -471,8 +464,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of suppliers which meet low carbon criteria
 
-- Total number of suppliers
-</span></div>
+- Total number of suppliers</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Number of suppliers which meet low carbon criteria / Total number of suppliers. </span></div>
@@ -538,8 +530,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of bids received by businesses which are women-led
 
-- Total number of bids received
-</span></div>
+- Total number of bids received</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Bids by women-led businesses / Total number of bids</span></div>
@@ -561,9 +552,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts awarded to women-led businesses
 
-- Total number of public contracts
-
-</span></div>
+- Total number of public contracts</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Contracts awarded to women-led businesses / Total number of contracts</span></div>
@@ -585,9 +574,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts awarded to women-led businesses
 
-- Total value of public contracts
-
-</span></div>
+- Total value of public contracts</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts awarded to women-led businesses / Total number of contracts</span></div>
@@ -609,9 +596,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts awarded to women-led businesses in specific sectors (using product categories) 
 
-- Total number of public contracts by sector
-
-</span></div>
+- Total number of public contracts by sector</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Contracts awarded to women-led businesses by sector / Total number of contracts by sector</span></div>
@@ -655,8 +640,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Sum of pay gap data submitted by suppliers (percentage difference in earnings between equivalent job roles across an entire organisation)
 
-- Total number of suppliers
-</span></div>
+- Total number of suppliers</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Sum of pay gap data submitted by suppliers / Total number of suppliers</span></div>
@@ -958,8 +942,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of public buyers who reference socio-economic factors within scoring
 
-- Total number of public buyers 
-</span></div>
+- Total number of public buyers </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Number of public buyers who reference socio-economic factors within scoring / Total number of public buyers</span></div>
@@ -968,8 +951,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 3: Measure contracts awarded</a>
 
 <a href="https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
-</strong>
-</span></div>
+</strong></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-orange)">
@@ -1014,8 +996,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 3: Measure contracts awarded</a>
 
-<a href="https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
-</strong></span></div>
+<a href="https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong></strong></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-orange)">
@@ -1038,8 +1019,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 3: Measure contracts awarded</a>
 
-<a href="https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
-</strong></span></div>
+<a href="https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong></strong></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-yellow)">

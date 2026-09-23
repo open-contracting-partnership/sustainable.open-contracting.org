@@ -84,7 +84,7 @@ El relacionamiento con las organizaciones de sociedad civil transversal a l cicl
 
 - Dependiendo del área de enfoque, estas organizaciones pueden aportar orientación en relación con las mejores metas a perseguir, o cómo hacer el mejor diseño del proceso de contratación cuando se trata, por ejemplo, de comprar verde, o promover las PyMES, o integrar la igualdad de género. De este modo, las OSC pueden ayudar a diseñar políticas de CPS lo mismo que preparar y entregar talleres de fortalecimiento de capacidades con los responsables de contratación.
 - Estas organizaciones igualmente pueden agregar nuevos conocimientos, material y análisis, enlazando datos diferentes transversalmente por las disciplinas, para lograr nuevas visiones. En India, el laboratorio de investigaciones CivicDataLab construyó un modelo de datos que combinaba tres conjuntos de datos más grandes con el fin de hacer monitoreo a las inversiones en alivio de inundaciones y respuestas y niveles de preparación para las mismas y de evaluar hasta dónde estas acciones fortalecen la resiliencia al cambio climático o satisface las necesidades humanitarias más urgentes. La información que consideraban incluyó los datos satelitales y meteorológicos para evaluar la exposición a inundaciones en un área específica, datos socioeconómicos que permitieron entender el grado de vulnerabilidad de la población residentes en áreas susceptibles de inundaciones y datos fiscales como contratos anteriores, con el fin de apreciar cómo el gobierno ha respondido a las inundaciones en el pasado, y dónde se necesitarán intervenciones urgentes en el futuro
-- Es importante anotar que las organizaciones si te sociedad civil, además de su aporte a la planeación de acciones, puede ayudar en el monitoreo de los resultados de políticas, o de actividades específicas en procesos de contratación.<br>
+- Es importante anotar que las organizaciones si te sociedad civil, además de su aporte a la planeación de acciones, puede ayudar en el monitoreo de los resultados de políticas, o de actividades específicas en procesos de contratación. 
 
 Estas organizaciones pueden monitorear la transparencia e impacto, o la implementación de CPS.
 
@@ -160,7 +160,7 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Estudio de caso**<br>
+**Estudio de caso**
 
 En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.
 

@@ -113,8 +113,7 @@ La définition des objectifs, des résultats et des indicateurs nécessite une b
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Ressources
-</strong>
+**Ressources**
 
 - [Open Contracting Partnership, ](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/)[*Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?* ](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/)[2021.](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/)
 - [Groupe de la Banque mondiale, ](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[*Green Public Procurement: An overview of green reforms in country procurement systems*](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[, 2021 (Pages 24-28).](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)

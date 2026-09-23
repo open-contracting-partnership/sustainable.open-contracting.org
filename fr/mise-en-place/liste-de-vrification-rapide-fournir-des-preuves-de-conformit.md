@@ -126,8 +126,7 @@ Remember that, although you will find most of these regulations at the national 
 <div class="notion-text"></div>
 
 {% callout green /assets/images/icons_D_Green6.png %}
-<strong>Download this checklist:
-</strong>
+**Download this checklist:**
 
 <div class="notion-pdf">
   <div class="notion-pdf__content">

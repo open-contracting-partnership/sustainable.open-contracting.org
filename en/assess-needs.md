@@ -48,7 +48,7 @@ Once users are identified, different methods can be used to gather the needed da
 - Carrying out observation and analysis to understand the ways current services are used.
 - Conducting interviews or organising focus groups with different users.
 
-Depending on the size of the contract being considered, this research can also be commissioned to a third party.<br>
+Depending on the size of the contract being considered, this research can also be commissioned to a third party. 
 
 {% endtoggle %}
 
@@ -59,13 +59,13 @@ Depending on the size of the contract being considered, this research can also b
 - A profile of different types of users.
 - Information on the needs for different types of users. 
 - Experience and issues found using current available services.
-- A projection of how these needs might grow and evolve.<br>
+- A projection of how these needs might grow and evolve.  
 
 **This information will inform:**
 
 - The type of resources that are needed, or the outcome that is expected from these resources (i.e. a 300W radiator vs. an office heated to 20 - 22 degrees).
 - The quantity of resources needed, or the frequency in which specific services are needed. 
-- Any technical requirements that should be included in the contract regarding user needs. For example, when considering procuring new office IT, this process should inform any needed accessibility requirements for users.<br>
+- Any technical requirements that should be included in the contract regarding user needs. For example, when considering procuring new office IT, this process should inform any needed accessibility requirements for users. 
 
 {% endtoggle %}
 

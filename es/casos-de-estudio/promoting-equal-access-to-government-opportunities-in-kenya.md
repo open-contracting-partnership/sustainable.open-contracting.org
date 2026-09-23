@@ -18,8 +18,7 @@ notion_id: "d3be028ec5ac4350b9260c52a58677ab"
 **In 2013, Kenya officially launched [The Access to Government Procurement Opportunities (AGPO)](https://agpo.go.ke/pages/about-agpo) program.** The aim of the program was to facilitate the participation in Government opportunities to enterprises owned by women, youth, and people with disabilities.
 <br>This program establishes that procuring entities should allocate **at least 30% of its procurement spend for contracts to micro and small enterprises owned by women, youth and persons with disabilities.** 
 <br>[Research](https://hivos.org/assets/east-africa/2018/02/AGPO-summary-of-findings-Web-version.pdf) regarding the impact of Kenya’s AGPO programme between 2013 and 2016 shows that only 7,71% out of the 30% of available tenders worth 5M and above were awarded to AGPO firms (procuring entities were not reporting on contracts below 5M until 2017). Among some of the programme’s achievements is an 82% increase in number of youth owned enterprises.
-<br>Sensitization, public engagement, and promoting transparency in public procurement, are some of key approaches that are being taken to drive the benefits of AGPO. <strong>Progress on this can be seen through their [public procurement information portal. ](https://tenders.go.ke/)
-</strong>
+<br>Sensitization, public engagement, and promoting transparency in public procurement, are some of key approaches that are being taken to drive the benefits of AGPO. **Progress on this can be seen through their [public procurement information portal. ](https://tenders.go.ke/)**
 {% endcallout %}
 
 <div class="notion-text"></div>

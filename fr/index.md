@@ -18,7 +18,7 @@ notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 
 # **Ce guide pratique vous aidera à repenser les marchés publics durables afin qu’ils soient mis en place et évalués plus efficacement par l’entremise d’une approche ouverte, axée sur les données et inclusive.**
 
-<br>**La mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.**<br>
+<br>**La mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.**
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Ce guide pratique sur les marchés publics durables et ouverts est le fruit d’une collaboration entre* [*Open Contracting Partnership (OCP)*](https://www.open-contracting.org/)*, une organisation à but non lucratif intervenant dans plus de 50 pays pour ouvrir et transformer l’intégralité du processus de la commande publique et à le rendre plus accessible, axé sur les données et inclusif ;* [*Spend Network*](https://spendnetwork.com/)*, un des leaders mondiaux de l’analyse des données relatives à la commande publique ouverte et à la passation des marchés publics ; et* [*PUBLIC*](https://www.public.io/)*, une entreprise technologique de premier plan spécialisée dans l’action des gouvernements. L’élaboration de ce guide pratique a été permise grâce au soutien de la coopération technique allemande au développement mise en œuvre par l’Agence allemande de coopération internationale (GIZ).*

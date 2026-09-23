@@ -67,6 +67,12 @@ def clean(text):
     text = re.sub(r'<span style="display:contents">(<img [^>]*>)</span>', r"\1", text)
     text = re.sub(r'<span class="notion-heading__anchor" id="[^"]*"></span>', "", text)
     text = re.sub(r"<img [^>]*>", clean_image, text)
+    # Remove newlines at the end of text blocks.
+    inline_end = r"(?:</(?:strong|em|a|span)>)*"
+    text = re.sub(rf"\n+({inline_end}</(?:p|li|h[1-6])>)", r"\1", text)
+    text = re.sub(
+        rf"\n+({inline_end}</span>)(?=</div>|<(?:div|p|ul|ol|h[1-6])[ >])", r"\1", text
+    )
     return text
 
 

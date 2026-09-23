@@ -151,7 +151,7 @@ Suppliers should monitor labor rights through a publicly accessible Code of Cond
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey9.png %}
-**According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**<br>
+**According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -199,8 +199,7 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><a href="https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Procura +. 2020. Socially responsible public procurement of ICT equipment in Sweden</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process. 
-</p>
+  <p class="notion-text notion-text__content notion-semantic-string">The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process. </p>
   <li class="notion-list-item notion-semantic-string"><a href="https://www.responsiblebusiness.org/media/docs/RBAPracticalGuideProcurement.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Responsible Business Alliance. 2019. Practical guide to transparency in procurement</a></li>
   <p class="notion-text notion-text__content notion-semantic-string">The RBA has created a framework with a set of Corporate Responsibility Indicators (CSR) that aims to harmonize and simplify the process of supply chain assessment. </p>
 </ul>

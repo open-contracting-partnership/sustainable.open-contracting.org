@@ -170,9 +170,7 @@ Create flags on contracts registers or portals for key economic indicators: e.g.
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Create regional dashboards that use machine learning geolocation to show where contract monies are being spent (thereby relying less on data entry).
 
-Break down spend by region down to ZIP code, creating heat maps that show where investment and monies are going and overlapping these heat maps with other measures such as deprivation indexes, location of minority owned businesses.
-
-</span></div>
+Break down spend by region down to ZIP code, creating heat maps that show where investment and monies are going and overlapping these heat maps with other measures such as deprivation indexes, location of minority owned businesses.</span></div>
         </td>
       </tr>
       <tr style="color:var(--color-text-default)">

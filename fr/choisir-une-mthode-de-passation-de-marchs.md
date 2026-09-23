@@ -35,7 +35,7 @@ Les marchés axés sur les résultats peuvent constituer un bon point de départ
 Ce type d’approche peut vous procurer deux grands avantages :
 
 - **Concentrer l’attention sur les besoins réels.** En présentant les besoins sous la forme de résultats (par exemple, le besoin d’un système de divertissement dans un centre de santé) au lieu de formuler des besoins plus spécifiques (par exemple des téléviseurs), les acheteurs publics donnent la possibilité de soumettre des propositions plus variées pour répondre aux besoins recensés. Certaines solutions proposées par les fournisseurs peuvent répondre plus efficacement aux besoins recensés que les solutions spécifiques définies par l’acheteur.
-- **Promouvoir l’innovation.** Le fait de formuler les besoins sous la forme de résultats incite les acteurs du marché à concevoir et proposer des solutions novatrices.<br>
+- **Promouvoir l’innovation.** Le fait de formuler les besoins sous la forme de résultats incite les acteurs du marché à concevoir et proposer des solutions novatrices. 
 
 {% endtoggle %}
 
@@ -45,7 +45,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 
 - Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;
 - Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;
-- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](https://sustainable.open-contracting.org/prepare-contract-obligations)<strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).<br>
+- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](https://sustainable.open-contracting.org/prepare-contract-obligations)<strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).
 
 {% endtoggle %}
 
@@ -97,7 +97,7 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 - Étape 3 : ouvrez le dialogue avec les candidats et d’autres parties prenantes de la chaîne d’approvisionnement.
 - Étape 4 : rédigez une version préliminaire des spécifications en vous appuyant sur les discussions avec les entreprises afin de pouvoir sélectionner les solutions définitives.
 - Étape 5 : les candidats soumettent leurs offres définitives.
-- Étape 6 : évaluez les offres et attribuez le marché au fournisseur retenu.<br>
+- Étape 6 : évaluez les offres et attribuez le marché au fournisseur retenu.
 
 {% endtoggle %}
 
@@ -128,7 +128,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 - La mise en commun du pouvoir d’achat de plusieurs organismes pour obtenir des économies d’échelle ;
 - La réduction des doublons en matière d’achat, permettant aux organismes publics d’éviter d’utiliser certaines ressources inutilement ;
 - La normalisation et l’harmonisation des pratiques durables ;
-- L’augmentation du nombre de soumissionnaires potentiels, car les marchés groupés permettent aux entreprises de conclure des marchés avec plusieurs organismes publics en répondant à un seul appel d’offres.<strong><br></strong>
+- L’augmentation du nombre de soumissionnaires potentiels, car les marchés groupés permettent aux entreprises de conclure des marchés avec plusieurs organismes publics en répondant à un seul appel d’offres.<strong></strong>
 
 {% endtoggle %}
 

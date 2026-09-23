@@ -17,8 +17,7 @@ notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
 <div class="notion-text"></div>
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta sección explicamos cómo los responsables de la contratación pueden implementar la CPS Abierta en diferentes contextos.</strong> Suministramos una lista de chequeo con la cual se puede evaluar las normas y políticas actuales sobre contratación frente a los criterios del CPS Abierta. Asimismo, planteamos posibles maneras de comunicarlos a las partes interesadas del caso.
-</span>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>En esta sección explicamos cómo los responsables de la contratación pueden implementar la CPS Abierta en diferentes contextos.</strong> Suministramos una lista de chequeo con la cual se puede evaluar las normas y políticas actuales sobre contratación frente a los criterios del CPS Abierta. Asimismo, planteamos posibles maneras de comunicarlos a las partes interesadas del caso.</span>
     <p class="notion-text notion-text__content notion-semantic-string">Esto resulta esencial en la generación de confianza, y la consolidación de la implementación efectiva de CPS Abierta. Además, al final de la sección encontrará orientaciones sobre la manera de traducir la comunicación en acciones específicas.</p>
   </div>
 </div>
@@ -51,8 +50,7 @@ Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la list
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string"><strong>Establezca las sostenibilidad como requisito indispensable para admitir al proveedor.</strong></li>
     </ul>
-    <p class="notion-text notion-text__content notion-semantic-string">Cada contrato público establece ciertos criterios imprescindibles a ser cumplidas por los proveedores para que se consideren aptos como oferentes, y este requisitito generalmente aparece bajo un rubro que llevaba el criterios esenciales o especificaciones técnicas, tú. La inclusión de sostenibilidad como parte de estos criterios es uno de las maneras principales de obtener una contratación más sostenible, y al mismo tiempo seleccionar la oferta más baja.
-</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Cada contrato público establece ciertos criterios imprescindibles a ser cumplidas por los proveedores para que se consideren aptos como oferentes, y este requisitito generalmente aparece bajo un rubro que llevaba el criterios esenciales o especificaciones técnicas, tú. La inclusión de sostenibilidad como parte de estos criterios es uno de las maneras principales de obtener una contratación más sostenible, y al mismo tiempo seleccionar la oferta más baja.</p>
     <p class="notion-text notion-text__content notion-semantic-string">Para lograr esto, usted debe asegurar que los criterios están claramente ligados a la materia del contrato, y relacionarse con el mercado con obtener la seguridad de que un número adecuado de proveedores pueden cumplir con estos criterios. Para mayor información sobre esto, ver secciones Determine criterios de sostenibilidad y Relaciónese con el mercado de proveedores.</p>
     <div class="notion-text"></div>
     <ul class="notion-bulleted-list">
@@ -142,8 +140,7 @@ Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la list
 <h2 class="notion-heading notion-semantic-string"><strong>Ponga las redes de apoyo a su alcance</strong></h2>
 <p class="notion-text notion-text__content notion-semantic-string">Al contemplar la implementación de prácticas de CPS Abierta por primera vez, podría ser útil aprender de otros equipos que están trabajando también en iniciativas de CPS. Esas redes ofrecen una oportunidad de compartir opiniones y mejores prácticas abiertamente, y de aprender una de otra.</p>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string">Algunas de las redes clave de mejores prácticas internacionales son:<strong>
-</strong></p>
+<p class="notion-text notion-text__content notion-semantic-string">Algunas de las redes clave de mejores prácticas internacionales son:<strong></strong></p>
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><a href="http://ppra.go.ke/eapf/" class="notion-link link" target="_blank" rel="noopener noreferrer">The East African Procurement Forum (EAPF)</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="https://africa.iclei.org/" class="notion-link link" target="_blank" rel="noopener noreferrer">ICLEI Africa</a></li>

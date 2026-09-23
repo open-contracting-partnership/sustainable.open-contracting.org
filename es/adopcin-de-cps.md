@@ -298,7 +298,7 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
   </table>
 </div>
 
-<br>
+<p class="notion-text notion-text__content notion-semantic-string"></p>
 
 {% endcolumn %}
 {% endcolumns %}

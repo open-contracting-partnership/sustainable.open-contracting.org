@@ -222,8 +222,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which include a carbon budget within specifications
 
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Contracts which include a carbon budget / Total number of tenders</span></div>
@@ -245,8 +244,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference CO2 emissions within the award criteria
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to CO2 emissions / Total number of tenders</span></div>
@@ -360,8 +358,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference environmental certifications within specifications
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders with reference to environmental certifications within specifications / Total number of tenders</span></div>
@@ -387,8 +384,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which reference environmental certifications within scoring of tender
 
-- Total number of tenders
-</span></div>
+- Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to environmental certifications within scoring of tender / Total number of tenders</span></div>
@@ -414,8 +410,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of suppliers which meet low carbon criteria
 
-- Total number of suppliers
-</span></div>
+- Total number of suppliers</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Number of suppliers which meet low carbon criteria / Total number of suppliers</span></div>

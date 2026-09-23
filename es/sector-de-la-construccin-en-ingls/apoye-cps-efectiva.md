@@ -137,8 +137,7 @@ Data about all aspects of the project will have to be openly shared with all sta
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case study
-</strong>
+**Case study**
 
 [The construction of The Habitat Research and Development Centre (HRDC) in Namibia](https://www.irbnet.de/daten/iconda/CIB_DC23125.pdf) was procured using a two-stage tender. The two bidders chosen after the first stage, and their Quantity Surveyors, drafted the Bill of Quantities (BOQ) that would be included in the second stage. 
 
@@ -148,8 +147,7 @@ Data about all aspects of the project will have to be openly shared with all sta
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case study
-</strong>
+**Case study**
 
 In 2006, [Scotland’s Forth Road Bridge](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2018/12/construction-procurement-handbook/documents/chapter-4/chapter-4/govscot%3Adocument/chapter-4.pdf) showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. Due to the complexity of the project, **Transport Scotland decided to engage with the market in order to gain knowledge and assess the procurement plan.** This was done by organizing an Industry Day with top contractors, where a Questionnaire was distributed.
 <br>Following this, **bilateral conversations were established with suppliers to come up with the best possible plan. These activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements.** 

@@ -103,8 +103,7 @@ Incluir estas cláusulas puede ser crucial para garantizar una buena calidad y u
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-<strong>Recursos
-</strong>
+**Recursos**
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).
 {% endcallout %}

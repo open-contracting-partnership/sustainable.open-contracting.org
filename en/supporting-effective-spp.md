@@ -35,7 +35,7 @@ As previously stated, two of the key challenges of the ICT sector are: gathering
 
 {% toggle **ICT needs assessment** %}
 
-Conducting a needs assessment process before procurement processes is essential when implementing Open SPP. An accurate description of needs will prevent procuring unnecessary services or products, avoiding, thus, the unnecessary waste of resources. Needs assessments when procuring ICT should take into account:<br>
+Conducting a needs assessment process before procurement processes is essential when implementing Open SPP. An accurate description of needs will prevent procuring unnecessary services or products, avoiding, thus, the unnecessary waste of resources. Needs assessments when procuring ICT should take into account:
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Assess the option of repairing available equipment:</strong> for example, if a public authority is considering buying new printers, they should analyse the state of current equipment, identifying which are the performance issues and whether these can be fixed. This can be done by gathering contract information and contacting the supplier of the equipment and/or maintenance services. </li>
@@ -52,7 +52,7 @@ Conducting a needs assessment process before procurement processes is essential 
 
 {% toggle **Collaboration with other authorities** %}
 
-Before deciding to procure new equipment, it can be useful to contact other public authorities regarding the availability of any unused equipment. Establishing a communication channel amongst public authorities where they can publish information regarding unused equipment can be a way to promote circularity and avoid unnecessary purchases.<br>
+Before deciding to procure new equipment, it can be useful to contact other public authorities regarding the availability of any unused equipment. Establishing a communication channel amongst public authorities where they can publish information regarding unused equipment can be a way to promote circularity and avoid unnecessary purchases. 
 
 {% endtoggle %}
 
@@ -62,7 +62,7 @@ Engaging with the market is essential to evaluate its capability to meet the sus
 
 Market engagement can help to define what current practices are regarding this area, for example, supply chain activities are currently being carried out by more than 50% of the potential suppliers, this can be set as a technical specification or award criteria. 
 
-However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See[ this section](/engage-with-the-market) for more information about different market engagement methods.<br>
+However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See[ this section](/engage-with-the-market) for more information about different market engagement methods. 
 
 {% endtoggle %}
 
@@ -78,7 +78,7 @@ Additionally to the approaches mentioned in the previous sections, we include be
 
 Many times, ICT equipment is not procured directly from brand owners, but from resellers or manufacturers. Engaging with resellers can be beneficial not only from an economic perspective, as their prices are often lower, but also to gain access to a broader offer of equipment, which can facilitate comparisons regarding sustainability. 
 
-In these cases it is important to maintain a continuous dialogue not only with the direct supplier (the reseller) but also with the brand, to ensure that the information regarding sustainability can be effectively captured.<br>
+In these cases it is important to maintain a continuous dialogue not only with the direct supplier (the reseller) but also with the brand, to ensure that the information regarding sustainability can be effectively captured.
 
 {% endtoggle %}
 

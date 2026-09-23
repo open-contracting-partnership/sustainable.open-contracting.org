@@ -138,8 +138,7 @@ For a more detailed account of the process, and concepts, introduced on the chec
 <h2 class="notion-heading notion-semantic-string"><strong>Reach out to support networks</strong></h2>
 <p class="notion-text notion-text__content notion-semantic-string">When you are thinking about implementing SPP practices for the first time, it can be useful to learn from other teams who are also working on SPP initiatives. These networks provide an opportunity to openly share insights and best practices and learn from each other.</p>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string"><strong>Some of the key international best practice networks include:
-</strong></p>
+<p class="notion-text notion-text__content notion-semantic-string"><strong>Some of the key international best practice networks include:</strong></p>
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><a href="http://ppra.go.ke/eapf/" class="notion-link link" target="_blank" rel="noopener noreferrer">The East African Procurement Forum (EAPF)</a></li>
   <li class="notion-list-item notion-semantic-string"><a href="https://africa.iclei.org/" class="notion-link link" target="_blank" rel="noopener noreferrer">ICLEI Africa</a></li>

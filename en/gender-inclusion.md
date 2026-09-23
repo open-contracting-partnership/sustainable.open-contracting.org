@@ -169,8 +169,7 @@ We have included these outcomes below, together with the corresponding indicator
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of bids received by businesses which are women- led
 
-- Total number of bids received
-</span></div>
+- Total number of bids received</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Bids by women-led businesses / Total number of bids</span></div>
@@ -192,9 +191,7 @@ We have included these outcomes below, together with the corresponding indicator
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts awarded to women-led businesses
 
-- Total number of public contracts
-
-</span></div>
+- Total number of public contracts</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Contracts awarded to women-led businesses / Total number of contracts</span></div>
@@ -216,9 +213,7 @@ We have included these outcomes below, together with the corresponding indicator
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts awarded to women-led businesses
 
-- Total value of public contracts
-
-</span></div>
+- Total value of public contracts</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts awarded to women-led businesses / Total number of contracts</span></div>
@@ -284,8 +279,7 @@ We have included these outcomes below, together with the corresponding indicator
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Sum of pay gap data submitted by suppliers (percentage difference in earnings between equivalent job roles across an entire organisation)
 
-- Total number of suppliers
-</span></div>
+- Total number of suppliers</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Sum of pay gap data submitted by suppliers / Total number of suppliers</span></div>

@@ -128,8 +128,7 @@ Les lois, politiques et plans pertinents et les interprétations possibles du po
     <div class="notion-text"></div>
     <div class="notion-callout bg-gray-light border">
       <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas
-</strong></span>
+      <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas</strong></span>
         <p class="notion-text notion-text__content notion-semantic-string">En 2021, la ville du Cap, en Afrique du Sud, a publié son <a href="https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan" class="notion-link link">plan d’action sur les marchés publics écologiques</a>. Ce plan contient sept objectifs opérationnels, notamment « Assurer que la ville possède des politiques appropriées pour favoriser les marchés publics écologiques, notamment les outils administratifs correspondants » et « Suivre et évaluer les résultats de l’action de la ville en matière de marchés publics écologiques ».</p>
         <div class="notion-text"></div>
         <p class="notion-text notion-text__content notion-semantic-string">Chaque objectif est associé à une série de résultats et d’activités faisant pour la plupart référence à la mise en place de mécanismes d’assistance. Ils comprennent par exemple « Conception de lignes directrices et de spécifications pour les produits prioritaires » ou « Élaboration de produits et d’événements de communication et de formation à l’intention du personnel de la ville ». </p>
@@ -191,8 +190,7 @@ Les lois, politiques et plans pertinents et les interprétations possibles du po
     </div><span class="notion-semantic-string"><strong>Portée institutionnelle</strong></span>
   </div>
   <div class="notion-toggle__content" style="display:none">
-    <p class="notion-text notion-text__content notion-semantic-string">Beaucoup de pays commencent par mettre en place des marchés publics durables et ouverts au sein de certaines institutions, comme certaines administrations centrales, et étendent progressivement les pratiques à l’ensemble des administrations centrales, organismes autonomes et administrations locales.
-</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Beaucoup de pays commencent par mettre en place des marchés publics durables et ouverts au sein de certaines institutions, comme certaines administrations centrales, et étendent progressivement les pratiques à l’ensemble des administrations centrales, organismes autonomes et administrations locales.</p>
   </div>
 </div>
 <div class="notion-toggle closed">
@@ -224,8 +222,7 @@ Les lois, politiques et plans pertinents et les interprétations possibles du po
 <div class="notion-text"></div>
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Ressources 
-</strong></span>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Ressources </strong></span>
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string"><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer">Groupe de la Banque mondiale,</a><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer"><em> Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems</em></a><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2021.</a></li>
       <li class="notion-list-item notion-semantic-string"><a href="https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines" class="notion-link link" target="_blank" rel="noopener noreferrer">PNUE, </a><a href="https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines" class="notion-link link" target="_blank" rel="noopener noreferrer"><em>Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach</em></a><a href="https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines" class="notion-link link" target="_blank" rel="noopener noreferrer">, 2021.</a></li>

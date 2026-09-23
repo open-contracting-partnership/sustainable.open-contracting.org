@@ -38,8 +38,7 @@ When you decide to use outcome-based procurement approaches, this can result in 
   <li class="notion-list-item notion-semantic-string"><strong>Focusing on real needs </strong></li>
   <p class="notion-text notion-text__content notion-semantic-string">By framing needs in terms of outcomes (e.g. need for a patient entertainment system in a health facility) instead of specific needs (e.g. television units), public authorities open up the option of considering different ways to meet the identified needs. Some of the proposed solutions from suppliers might respond better to the needs identified than the specific options that could be considered. </p>
   <li class="notion-list-item notion-semantic-string"><strong>Promoting innovation</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions. 
-</p>
+  <p class="notion-text notion-text__content notion-semantic-string">Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions. </p>
 </ul>
 
 {% endtoggle %}
@@ -50,7 +49,7 @@ To apply and outcome-based procurement approach, you need to:
 
 - Frame your **needs in terms of outcomes** (see [section on needs assessment ](/assess-needs)for more information on this). 
 - Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below). 
-- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations)).<br>
+- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations)).
 
 {% endtoggle %}
 
@@ -87,7 +86,7 @@ There are different benefits of using two-stage tender processes when implementi
 - It incentivizes collaboration between the supplier and the procurement authority, but also facilitates integrating members from the supply chain early on in the process.
 - It incentivizes the suggestion of innovative solutions from suppliers.
 - It increases the chances of finding the best solution for identified needs.
-- Allows SMEs an entry point to working with government. <strong><br></strong>
+- Allows SMEs an entry point to working with government. <strong></strong>
 
 {% endtoggle %}
 
@@ -99,8 +98,7 @@ There are different benefits of using two-stage tender processes when implementi
   <li class="notion-list-item notion-semantic-string"><strong>Step 3: </strong>Engage in dialogue with suppliers, and bring in more stakeholders from the supply chain.</li>
   <li class="notion-list-item notion-semantic-string"><strong>Step 4: </strong>Draft tender specifications based on dialogue with suppliers to select the final solutions. </li>
   <li class="notion-list-item notion-semantic-string"><strong>Step 5: </strong>Candidates submit their final tenders.<strong> </strong></li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 6:</strong> Evaluate tenders and award the contract to the selected supplier. 
-</li>
+  <li class="notion-list-item notion-semantic-string"><strong>Step 6:</strong> Evaluate tenders and award the contract to the selected supplier. </li>
   <div class="notion-callout bg-red-light border">
     <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
     <div class="notion-callout__content"><span class="notion-semantic-string">A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract. </span></div>
@@ -133,8 +131,7 @@ There are different benefits of using joint procurement when implementing Open S
 - **Collectively leveraging purchasing power to achieve economies of scale.**
 - **Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.**  
 - **Standardizing and aligning sustainability practices.** 
-- <strong>Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.
-  </strong>
+- **Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.**
 
 {% endtoggle %}
 

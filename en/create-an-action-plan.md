@@ -188,8 +188,7 @@ In 2021, the Basque Country published the </strong><strong><a href="https://www.
     </div><span class="notion-semantic-string"><strong>Institutional coverage</strong></span>
   </div>
   <div class="notion-toggle__content" style="display:none">
-    <p class="notion-text notion-text__content notion-semantic-string">Many countries start by working on the implementation of Open SPP in specific institutions, such as selected central governments, and gradually expand the scope to include all central governments, autonomous agencies and local authorities.
-</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Many countries start by working on the implementation of Open SPP in specific institutions, such as selected central governments, and gradually expand the scope to include all central governments, autonomous agencies and local authorities.</p>
   </div>
 </div>
 <div class="notion-toggle closed">
@@ -221,8 +220,7 @@ In 2021, the Basque Country published the </strong><strong><a href="https://www.
 <div class="notion-text"></div>
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources 
-</strong></span>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Resources </strong></span>
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string"><a href="https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&amp;isAllowed=y" class="notion-link link" target="_blank" rel="noopener noreferrer">World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems</a>.</li>
       <li class="notion-list-item notion-semantic-string"><a href="https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines" class="notion-link link" target="_blank" rel="noopener noreferrer">UNEP. 2021. Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach.</a></li>

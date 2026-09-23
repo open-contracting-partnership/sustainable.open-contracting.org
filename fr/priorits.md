@@ -73,7 +73,7 @@ La valeur désigne l’ensemble des dépenses liées à une catégorie de march�
 
 {% toggle **Fréquence des marchés** %}
 
-Pour chaque catégorie de marchés, il est nécessaire d’évaluer la fréquence des marchés, c’est-à-dire le nombre de marchés conclus concernant une certaine catégorie de marchés au cours d’une période donnée.<br>
+Pour chaque catégorie de marchés, il est nécessaire d’évaluer la fréquence des marchés, c’est-à-dire le nombre de marchés conclus concernant une certaine catégorie de marchés au cours d’une période donnée.
 
 {% endtoggle %}
 
@@ -144,7 +144,7 @@ La mise en place de marchés publics plus durables suppose de connaître les nor
 - **Certifications environnementales, ou « éco-étiquettes », existantes.** 
   Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
 - **Critères élaborés par d’autres pays.** 
-  Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.<strong><br></strong>
+  Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.<strong></strong>
 
 {% endtoggle %}
 
@@ -198,7 +198,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
-**Ressources**<br>
+**Ressources**
 
 - [Programme des Nations Unies sur l’environnement, ](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)[*Instructions for the Prioritisation Exercise.*](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
 - [Groupe de la Banque mondiale, ](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
@@ -207,8 +207,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 <div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-<strong>Étude de cas
-</strong>
+**Étude de cas** 
 
 Après l’approbation de sa stratégie nationale pour une croissance verte en 2012, le **Vietnam**[ a utilisé un outil de définition des achats prioritaires](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) dans le cadre des marchés publics en 2015 afin de sélectionner les catégories de produits sur lesquelles concentrer ses efforts en matière de marchés publics durables avec l’aide du PNUE.
 
