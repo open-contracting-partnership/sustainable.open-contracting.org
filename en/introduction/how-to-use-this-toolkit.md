@@ -17,7 +17,7 @@ notion_id: "09ebd7d98f7a4923b60c499ff06d4ba1"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/How-to-use-this-toolkit">https://sustainable.open-contracting.org/How-to-use-this-toolkit</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/how-to-use-this-toolkit">https://sustainable.open-contracting.org/How-to-use-this-toolkit</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

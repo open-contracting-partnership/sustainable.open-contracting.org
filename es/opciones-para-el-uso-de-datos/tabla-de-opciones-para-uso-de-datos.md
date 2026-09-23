@@ -114,7 +114,7 @@ Create flags on contract registers or portals for key economic indicators: e.g. 
           <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 6: Measure use of certifications </strong></span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Conduct discovery work around worldwide standards and certifications (see <a href="https://openspp.super.site/guide-to-ecolabels" class="notion-link link" target="_blank" rel="noopener noreferrer">this section</a> for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Conduct discovery work around worldwide standards and certifications (see <a href="https://sustainable.open-contracting.org/guide-to-ecolabels" class="notion-link link" target="_blank" rel="noopener noreferrer">this section</a> for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance.</span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-yellow)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Upgrade supplier registers, companies registers, and contracts registers to include certification labels.</span></div>

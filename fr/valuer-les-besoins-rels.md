@@ -165,7 +165,7 @@ Au lieu d’acheter des produits neufs, la location peut parfois être une bonne
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Les marchés groupés peuvent aider à gonfler la demande de produits et services écologiques, ce qui peut ensuite encourager les fournisseurs à investir dans des solutions durables. En regroupant leurs besoins dans le cadre de marchés groupés, les entités adjudicatrices donnent simplement aux acteurs du marché la possibilité de conclure plusieurs contrats à l’issue d’un seul processus d’appel d’offres. La réduction maximale des ressources nécessaires pour générer du chiffre d’affaires peut inciter davantage d’entreprises à investir dans des solutions durables. Consultez [**cette section**](https://openspp.super.site/implement/choose-a-procurement-method)<strong> </strong>pour en savoir plus sur les marchés groupés.
+Les marchés groupés peuvent aider à gonfler la demande de produits et services écologiques, ce qui peut ensuite encourager les fournisseurs à investir dans des solutions durables. En regroupant leurs besoins dans le cadre de marchés groupés, les entités adjudicatrices donnent simplement aux acteurs du marché la possibilité de conclure plusieurs contrats à l’issue d’un seul processus d’appel d’offres. La réduction maximale des ressources nécessaires pour générer du chiffre d’affaires peut inciter davantage d’entreprises à investir dans des solutions durables. Consultez [**cette section**](https://sustainable.open-contracting.org/choose-a-procurement-method)<strong> </strong>pour en savoir plus sur les marchés groupés.
 
 </div>
 </div>
@@ -178,7 +178,7 @@ Les marchés groupés peuvent aider à gonfler la demande de produits et service
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting)[ et ](https://openspp.super.site/implement/choose-a-procurement-method)[**cette section**](https://openspp.super.site/implement/choose-a-procurement-method).
+Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting)[ et ](https://sustainable.open-contracting.org/choose-a-procurement-method)[**cette section**](https://sustainable.open-contracting.org/choose-a-procurement-method).
 
 <div class="notion-text"></div>
 
@@ -204,7 +204,7 @@ Les projecteurs dont nous disposons consomment beaucoup d’énergie et tombent 
 Le Département étudiera les propositions concernant la location d’écrans dans le cadre d’un contrat de prestation de services. » [traduction]</span></div>
 </div>
 
-<br>L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://openspp.super.site/implement/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://openspp.super.site/get-started/prioritize) et s’il existe des [objectifs et cibles pertinents](https://openspp.super.site/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
+<br>L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize) et s’il existe des [objectifs et cibles pertinents](https://sustainable.open-contracting.org/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
 
 <div class="notion-text"></div>
 

@@ -17,7 +17,7 @@ notion_id: "09bf4002befb4e4d8405d94d1d5a0910"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="https://sustainability.open-contracting.org/engage-with-the-market" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/engage-with-the-market</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="/engage-with-the-market" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/engage-with-the-market</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

@@ -18,7 +18,7 @@ notion_id: "ed83d8b6dc444be099d81abb9e2491ac"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="https://sustainable.open-contractring.org/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use</a></div>
+    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

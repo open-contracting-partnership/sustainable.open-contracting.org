@@ -107,7 +107,7 @@ Once this has been clearly established, you can measure and record uptake of SPP
 
 ## Sample indicators 
 
-There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we[ introduced an M&E framework](https://openspp.super.site/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
+There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we[ introduced an M&E framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
 
 <div class="notion-text"></div>
 

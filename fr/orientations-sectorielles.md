@@ -29,12 +29,12 @@ notion_id: "e3ea7c0e7d3d4816a68427570bac88ff"
     <h3 class="notion-collection__header"><a class="notion-anchor" href="#46e89ab961784061b5a205df42a87c66"></a><span class="notion-semantic-string">Cliquez sur une section pour en savoir plus</span></h3>
   </div>
   <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="https://openspp.super.site/construction-sector" class="notion-link notion-collection-card__anchor">La construction (en anglais)</a>
+    <div class="notion-collection-card gallery"><a href="https://sustainable.open-contracting.org/sector-guidance-1/construction-sector" class="notion-link notion-collection-card__anchor">La construction (en anglais)</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey5.png"/></div>La construction (en anglais)</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="https://openspp.super.site/ict-sector" class="notion-link notion-collection-card__anchor">Le secteur TIC (en anglais)</a>
+    <div class="notion-collection-card gallery"><a href="https://sustainable.open-contracting.org/sector-guidance-1/ict-sector" class="notion-link notion-collection-card__anchor">Le secteur TIC (en anglais)</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey5.png"/></div>Le secteur TIC (en anglais)</div>
       </div>

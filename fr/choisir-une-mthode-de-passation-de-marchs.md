@@ -63,7 +63,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string">Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;</li>
   <li class="notion-list-item notion-semantic-string">Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;</li>
-  <li class="notion-list-item notion-semantic-string">Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez <a href="https://openspp.super.site/implement/prepare-contract-obligations" class="notion-link link" target="_blank" rel="noopener noreferrer"><strong>cette section</strong></a><strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).
+  <li class="notion-list-item notion-semantic-string">Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez <a href="https://sustainable.open-contracting.org/prepare-contract-obligations" class="notion-link link" target="_blank" rel="noopener noreferrer"><strong>cette section</strong></a><strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).
 </li>
 </ul>
 
@@ -232,14 +232,14 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de </strong><a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/framework-agreements" class="notion-link link">cadres</a><a href="https://openspp.super.site/get-started/build-support-and-capacity" class="notion-link link"> catalogues</a> et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.</span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de </strong><a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements" class="notion-link link">cadres</a><a href="https://sustainable.open-contracting.org/get-started/build-support-and-capacity" class="notion-link link"> catalogues</a> et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.</span></div>
 </div>
 
 <div class="notion-text"></div>
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur</em><a href="https://openspp.super.site/construction-sector" class="notion-link link"><em> la construction</em></a><em> et les </em><a href="https://openspp.super.site/ict-sector" class="notion-link link"><em>technologies de l’information et des communications</em></a><em>.</em> </span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><em>Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur</em><a href="https://sustainable.open-contracting.org/sector-guidance-1/construction-sector" class="notion-link link"><em> la construction</em></a><em> et les </em><a href="https://sustainable.open-contracting.org/sector-guidance-1/ict-sector" class="notion-link link"><em>technologies de l’information et des communications</em></a><em>.</em> </span></div>
 </div>
 
 <div class="notion-text"></div>

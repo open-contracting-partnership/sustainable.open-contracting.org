@@ -17,7 +17,7 @@ notion_id: "fec8e3ea7eeb4e77bac198ed37d6bf88"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="https://sustainability.open-contracting.org/set-sustainable-criteria" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/set-sustainable-criteria</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="/set-sustainable-criteria" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/set-sustainable-criteria</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

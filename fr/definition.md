@@ -21,7 +21,7 @@ Les marchés publics durables renvoient à la façon dont les organisations acqu
 
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/What-is-SPP-Diagram-fr.png"/></div>
 
-[Des utilisateurs de nos ressources ont souligné](https://openspp.super.site/what-did-our-users-tell-us) que souvent, l’évaluation et la production d’effets environnementaux plus positifs constituaient les aspects les plus difficiles de ces trois piliers. Ainsi, même si nous conservons un cadre global d’achat durable, ce guide sera axé sur des approches visant à renforcer la durabilité environnementale (aussi connues sous le nom de « marchés publics écologiques ») sans compromettre les objectifs de durabilité économique et sociale.
+[Des utilisateurs de nos ressources ont souligné](https://sustainable.open-contracting.org/what-did-our-users-tell-us) que souvent, l’évaluation et la production d’effets environnementaux plus positifs constituaient les aspects les plus difficiles de ces trois piliers. Ainsi, même si nous conservons un cadre global d’achat durable, ce guide sera axé sur des approches visant à renforcer la durabilité environnementale (aussi connues sous le nom de « marchés publics écologiques ») sans compromettre les objectifs de durabilité économique et sociale.
 
 <div class="notion-text"></div>
 
@@ -165,7 +165,7 @@ L’absence d’identifiants cohérents dans les systèmes d’information gouve
 
 <div class="notion-text"></div>
 
-[Notre guide sur les « signaux écologiques »](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) indique comment « étiqueter » certains marchés considérés comme écologiques et en fait la première étape essentielle de l’évaluation des résultats des marchés publics durables. Cela sera uniquement possible si vous disposez de données de bonne qualité concernant les marchés et que ces derniers possèdent des identifiants clairs. Dans la [troisième partie](https://openspp.super.site/use-cases) de ce guide pratique, nous vous montrerons comment tirer parti de cette approche pour produire des données probantes détaillées et approfondies concernant les marchés publics durables.
+[Notre guide sur les « signaux écologiques »](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) indique comment « étiqueter » certains marchés considérés comme écologiques et en fait la première étape essentielle de l’évaluation des résultats des marchés publics durables. Cela sera uniquement possible si vous disposez de données de bonne qualité concernant les marchés et que ces derniers possèdent des identifiants clairs. Dans la [troisième partie](https://sustainable.open-contracting.org/use-cases) de ce guide pratique, nous vous montrerons comment tirer parti de cette approche pour produire des données probantes détaillées et approfondies concernant les marchés publics durables.
 
 <div class="notion-text"></div>
 

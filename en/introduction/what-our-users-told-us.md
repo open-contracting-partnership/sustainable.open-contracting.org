@@ -16,7 +16,7 @@ notion_id: "1c22db15199247108c6fa2b77c8d57eb"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/What-our-users-told-us">https://sustainable.open-contracting.org/What-our-users-told-us</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/introduction/what-our-users-told-us">https://sustainable.open-contracting.org/What-our-users-told-us</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

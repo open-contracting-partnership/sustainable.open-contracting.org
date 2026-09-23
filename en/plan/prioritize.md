@@ -11,7 +11,7 @@ notion_id: "9c9e34703f724a1b982c78a6c8998c76"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-4662653e notion-semantic-string"><a class="notion-link link" href="/prioritize">https://sustainable.open-contracting.org/prioritize</a></div>
+    <div class="notion-property notion-property__url property-4662653e notion-semantic-string"><a class="notion-link link" href="/plan/prioritize">https://sustainable.open-contracting.org/prioritize</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

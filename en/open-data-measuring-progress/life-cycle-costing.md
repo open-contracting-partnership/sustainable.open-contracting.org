@@ -18,7 +18,7 @@ notion_id: "c1cd403e5ca9479f8092f49ad462fdd3"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="https://sustainable.open-contractring.org/options-for-data-use/use-cases/life-cycle-costing" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use/use-cases/life-cycle-costing</a></div>
+    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="/life-cycle-costing" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use/use-cases/life-cycle-costing</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

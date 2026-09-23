@@ -127,7 +127,7 @@ Encouragez les fournisseurs à préciser ce qu’ils comptent faire pour réduir
 
 ### **Anticiper les effets des marchés (Possibilité 4)**
 
-[L’évaluation du niveau d’émission de carbone des marchés](/possibilits-dutilisation-des-donnes/how-to-estimate-carbon-values) est un bon moyen de planifier les émissions cumulées et l’effet potentiel de la modification des stratégies de passation de marchés. Cela peut aider les acheteurs à concentrer leurs efforts sur les catégories qui auront le plus d’effet. Cela peut également aider les acheteurs à définir des « budgets » carbone afin d’assurer que les fournisseurs respectent le niveau d’émission spécifié au cours de l’exécution du marché. Les données peuvent servir à informer les fournisseurs de cette obligation, mais également à effectuer des analyses groupées des initiatives de la commande publique dans toutes les divisions du gouvernement. Cette approche est plus efficace si elle est employée à l’échelle d’une catégorie unique faisant l’objet de nombreuses évaluations, comme l’énergie.
+[L’évaluation du niveau d’émission de carbone des marchés](/la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values) est un bon moyen de planifier les émissions cumulées et l’effet potentiel de la modification des stratégies de passation de marchés. Cela peut aider les acheteurs à concentrer leurs efforts sur les catégories qui auront le plus d’effet. Cela peut également aider les acheteurs à définir des « budgets » carbone afin d’assurer que les fournisseurs respectent le niveau d’émission spécifié au cours de l’exécution du marché. Les données peuvent servir à informer les fournisseurs de cette obligation, mais également à effectuer des analyses groupées des initiatives de la commande publique dans toutes les divisions du gouvernement. Cette approche est plus efficace si elle est employée à l’échelle d’une catégorie unique faisant l’objet de nombreuses évaluations, comme l’énergie.
 
 <div class="notion-text"></div>
 
@@ -139,7 +139,7 @@ Les acheteurs publics peuvent fournir des informations concernant les émissions
 
 ### **Évaluer l’emploi des certifications (Possibilité 6)**
 
-Vous pouvez utiliser des [certifications](https://openspp.super.site/guide-to-ecolabels), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
+Vous pouvez utiliser des [certifications](https://sustainable.open-contracting.org/guide-to-ecolabels), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
 
 <div class="notion-text"></div>
 
@@ -162,7 +162,7 @@ Certains de ces éléments sont plus abordables que d’autres. Même si vous n�
 
 Il est important de commencer par les aspects les plus simples et d’assurer que vous avez un processus fiable et reproductible de publication des données relatives aux émissions.
 
-Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons présenté le cadre de suivi et d’évaluation](https://openspp.super.site/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) visant à évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Dans le tableau ci-dessous, vous trouverez des exemples des résultats et d’indicateurs pouvant faire l’objet d’un suivi.
+Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) visant à évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Dans le tableau ci-dessous, vous trouverez des exemples des résultats et d’indicateurs pouvant faire l’objet d’un suivi.
 
 <div class="notion-text"></div>
 

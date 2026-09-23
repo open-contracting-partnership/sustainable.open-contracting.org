@@ -137,7 +137,7 @@ Public buyers can provide information on carbon emissions during, or at the conc
 
 ### **Measure use of certifications (Option 6)**
 
-You can use [certifications](https://openspp.super.site/guide-to-ecolabels) such as Environmental Product Declarations (EPD) to gather information on carbon emissions associated with a product. You can also request the use of other environmental certifications (e.g. Type I ecolabels) and assess their impact by contrasting forecasting and contract implementation data.
+You can use [certifications](/guide-to-ecolabels) such as Environmental Product Declarations (EPD) to gather information on carbon emissions associated with a product. You can also request the use of other environmental certifications (e.g. Type I ecolabels) and assess their impact by contrasting forecasting and contract implementation data.
 
 <div class="notion-text"></div>
 
@@ -160,7 +160,7 @@ You can use public reporting to:
 
 <div class="notion-text"></div>
 
-Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](https://openspp.super.site/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
+Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
 
 <div class="notion-text"></div>
 

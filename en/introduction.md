@@ -63,17 +63,17 @@ Practitioners realize that they need to buy things in a fundamentally different 
     <h3 class="notion-collection__header"><a class="notion-anchor" href="#f265124af758420fbc2b12d60058ea64"></a><span class="notion-semantic-string">Click through to learn more</span></h3>
   </div>
   <div class="notion-collection-gallery large">
-    <div class="notion-collection-card gallery"><a href="/How-to-use-this-toolkit" class="notion-link notion-collection-card__anchor">How to use this toolkit</a>
+    <div class="notion-collection-card gallery"><a href="/how-to-use-this-toolkit" class="notion-link notion-collection-card__anchor">How to use this toolkit</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>How to use this toolkit</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="/What-is-Open-SPP" class="notion-link notion-collection-card__anchor">What is Open SPP?</a>
+    <div class="notion-collection-card gallery"><a href="/what-is-open-spp" class="notion-link notion-collection-card__anchor">What is Open SPP?</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>What is Open SPP?</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="/What-our-users-told-us" class="notion-link notion-collection-card__anchor">What our users told us</a>
+    <div class="notion-collection-card gallery"><a href="/introduction/what-our-users-told-us" class="notion-link notion-collection-card__anchor">What our users told us</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro2.png"/></div>What our users told us</div>
       </div>

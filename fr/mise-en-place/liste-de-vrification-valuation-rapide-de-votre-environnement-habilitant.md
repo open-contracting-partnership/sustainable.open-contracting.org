@@ -9,7 +9,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section <a href="https://openspp.super.site/get-started/establish-a-framework" class="notion-link link">Establish an enabling environment </a>in the <a href="https://openspp.super.site/980ec1cc6e04494196f185047e0a9f2a" class="notion-link link">Open SPP toolkit</a>.</span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section <a href="https://sustainable.open-contracting.org/get-started/establish-a-framework" class="notion-link link">Establish an enabling environment </a>in the <a href="https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a" class="notion-link link">Open SPP toolkit</a>.</span></div>
 </div>
 
 <div class="notion-text"></div>
@@ -41,7 +41,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 
 <div class="notion-text"></div>
 
-- Consider applying [Life-Cycle Costing (LCC)](https://openspp.super.site/use-cases/life-cycle-costing) calculations.
+- Consider applying [Life-Cycle Costing (LCC)](https://sustainable.open-contracting.org/life-cycle-costing) calculations.
 
 <div class="notion-text"></div>
 
@@ -65,7 +65,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check if there are any <strong>provisions to consider specific social and/or environmental factors as award criteria </strong>(see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/explicit-provisions-to-include-sustainability-as-award-criteria" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check if there are any <strong>provisions to consider specific social and/or environmental factors as award criteria </strong>(see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that the current regulation allows for sufficient <strong>market engagement </strong>during the pre-procurement stage, including soliciting feedback from the market (see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/open-market-engagement-and-ongoing-dialogue" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that the current regulation allows for sufficient <strong>market engagement </strong>during the pre-procurement stage, including soliciting feedback from the market (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -87,7 +87,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that current regulation allows for procedures that include open disclosure of information or <strong>ongoing dialogue during the procurement phase </strong>(such as Competitive Dialogue) (see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/open-market-engagement-and-ongoing-dialogue" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that current regulation allows for procedures that include open disclosure of information or <strong>ongoing dialogue during the procurement phase </strong>(such as Competitive Dialogue) (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that existing <strong>framework agreements</strong> allow space for the introduction of sustainability criteria (see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/framework-agreements" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check that existing <strong>framework agreements</strong> allow space for the introduction of sustainability criteria (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether there are any <strong>procurement thresholds or distinct regulations</strong> whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/thresholds-and-sectors-with-distinct-regulation" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether there are any <strong>procurement thresholds or distinct regulations</strong> whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -120,7 +120,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether current regulations allows to establish SPP <strong>targets, reserve contracts</strong> for specific outcomes or groups (see <a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/targets-and-reserved-contracts" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Check whether current regulations allows to establish SPP <strong>targets, reserve contracts</strong> for specific outcomes or groups (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 
@@ -135,7 +135,7 @@ notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
     <div class="notion-to-do__icon">
       <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
     </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">Openly <strong>communicate the laws and policies</strong> that underpin your SPP practices (see <a href="https://openspp.super.site/get-started/establish-a-framework/quick-checklist-share-your-compliance-trail" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
+    <div class="notion-to-do__title"><span class="notion-semantic-string">Openly <strong>communicate the laws and policies</strong> that underpin your SPP practices (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
 

@@ -15,7 +15,7 @@ notion_id: "35dc615b39b84af793a9430029ef8567"
 
 # **Données ouvertes et évaluation des progrès**
 
-Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](https://openspp.super.site/what-is-spp-and-open-spp) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](https://openspp.super.site/get-started/identify-your-goals) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
+Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
 <div class="notion-text"></div>
 
@@ -78,7 +78,7 @@ Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre de
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](https://openspp.super.site/get-started/create-an-action-plan)
+L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
 , qui doit déterminer le moment du début de la collecte de données. Du point de vue opérationnel, il est également important d’établir avec les pouvoirs publics la fréquence de collecte et de publication de données concernant leurs marchés, par exemple sur une base mensuelle, trimestrielle ou annuelle.
 
 <div class="notion-text"></div>
@@ -116,30 +116,30 @@ Il existe plusieurs méthodes de collecte et d’analyse de données variant en 
 
 <div class="notion-collection inline collection-de7eaeea446e470f9881d140600cd91d">
   <div class="notion-collection__header-wrapper">
-    <h3 class="notion-collection__header"><a class="notion-anchor" href="#1a144e82589b4729b2107b7d87bc276c"></a><span class="notion-semantic-string"><strong><strong>Cliquez sur une section pour en savoir plus.</strong></strong><a href="https://fr.super.site/assess-needs" class="notion-link link" target="_blank" rel="noopener noreferrer">Évaluer les besoins réels</a></span></h3>
+    <h3 class="notion-collection__header"><a class="notion-anchor" href="#1a144e82589b4729b2107b7d87bc276c"></a><span class="notion-semantic-string"><strong><strong>Cliquez sur une section pour en savoir plus.</strong></strong><a href="/assess-needs" class="notion-link link" target="_blank" rel="noopener noreferrer">Évaluer les besoins réels</a></span></h3>
   </div>
   <div class="notion-collection-gallery medium">
-    <div class="notion-collection-card gallery"><a href="https://fr.super.site/options-for-data-use" class="notion-link notion-collection-card__anchor">D’utilisation des données</a>
+    <div class="notion-collection-card gallery"><a href="/options-for-data-use" class="notion-link notion-collection-card__anchor">D’utilisation des données</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>D’utilisation des données</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="https://fr.super.site/spp-uptake" class="notion-link notion-collection-card__anchor">L’adoption des pratiques durables</a>
+    <div class="notion-collection-card gallery"><a href="/spp-uptake" class="notion-link notion-collection-card__anchor">L’adoption des pratiques durables</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’adoption des pratiques durables</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="https://fr.super.site/carbon-reduction" class="notion-link notion-collection-card__anchor">La réduction des émissions de carbone</a>
+    <div class="notion-collection-card gallery"><a href="/carbon-reduction" class="notion-link notion-collection-card__anchor">La réduction des émissions de carbone</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>La réduction des émissions de carbone</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="https://fr.super.site/gender-inclusion" class="notion-link notion-collection-card__anchor">L’inclusion des genres</a>
+    <div class="notion-collection-card gallery"><a href="/gender-inclusion" class="notion-link notion-collection-card__anchor">L’inclusion des genres</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>L’inclusion des genres</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="https://fr.super.site/life-cycle-costing" class="notion-link notion-collection-card__anchor">Le coût du cycle de vie</a>
+    <div class="notion-collection-card gallery"><a href="/life-cycle-costing" class="notion-link notion-collection-card__anchor">Le coût du cycle de vie</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green2.png"/></div>Le coût du cycle de vie</div>
       </div>

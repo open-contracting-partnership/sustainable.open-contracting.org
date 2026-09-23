@@ -24,7 +24,7 @@ notion_id: "f718c6ce9ad84de0b86181491ddda103"
 
 <div class="notion-text"></div>
 
-Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real[ needs](https://openspp.super.site/implement/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
+Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real[ needs](/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
 
 <div class="notion-text"></div>
 
@@ -62,7 +62,7 @@ The subject matter of the contract refers to the product, service or work that y
 
 <div class="notion-text"></div>
 
-- The[ needs](https://openspp.super.site/implement/assess-needs) that have been identified.
+- The[ needs](/assess-needs) that have been identified.
 - Fairness and non-discrimination in procurement. Remember that some of the common key principles of procurement regulation are related to fairness and non-discrimination. This is something that should be embedded into your procurement, and will inform the different steps you take, including defining your subject matter.
 
 <div class="notion-text"></div>
@@ -74,11 +74,11 @@ The subject matter of the contract refers to the product, service or work that y
 
 <div class="notion-text"></div>
 
-The definition of your subject matter is an essential step when implementing SPP. As we introduced in[ this section](https://openspp.super.site/get-started/establish-a-framework), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned.  This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
+The definition of your subject matter is an essential step when implementing SPP. As we introduced in[ this section](/get-started/establish-a-framework), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned.  This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
 
 <div class="notion-text"></div>
 
-As we explain in the [previous section](https://openspp.super.site/implement/engage-with-the-market), the best way to promote local suppliers is by engaging with the market during the planning stage of your procurement and designing your specifications based on local market capability. There might also be some cases where[ a target related to local suppliers has been set, or certain contracts have been reserved ](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/targets-and-reserved-contracts)for local suppliers or smaller businesses. In this case, the supplier’s location would be included as part of the criteria. However, this does not apply to most procurements, so you should always ensure that the sustainability criteria included is relevant to the subject matter (or specific pre-agreed policies like good tax conduct or past performance) to avoid unfair competition.
+As we explain in the [previous section](/engage-with-the-market), the best way to promote local suppliers is by engaging with the market during the planning stage of your procurement and designing your specifications based on local market capability. There might also be some cases where[ a target related to local suppliers has been set, or certain contracts have been reserved ](/establish-an-enabling-environment/targets-and-reserved-contracts)for local suppliers or smaller businesses. In this case, the supplier’s location would be included as part of the criteria. However, this does not apply to most procurements, so you should always ensure that the sustainability criteria included is relevant to the subject matter (or specific pre-agreed policies like good tax conduct or past performance) to avoid unfair competition.
 
 <div class="notion-text"></div>
 
@@ -97,7 +97,7 @@ To this effect, some public authorities decide to explicitly include reference t
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in[ this section. ](https://openspp.super.site/get-started/establish-a-framework)
+When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in[ this section. ](/get-started/establish-a-framework)
 
 <div class="notion-text"></div>
 

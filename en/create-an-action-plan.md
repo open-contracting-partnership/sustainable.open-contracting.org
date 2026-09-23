@@ -13,7 +13,7 @@ notion_id: "d035741343454fe485c05b64b7bbb745"
 </div>
 <div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)">
 <h1 class="notion-heading notion-semantic-string">Communicating your first steps in an SPP Action Plan</h1>
-<p class="notion-text notion-text__content notion-semantic-string">Throughout this<a href="https://openspp.super.site/get-started" class="notion-link link"> first section of the toolkit</a>, we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation.</p>
+<p class="notion-text notion-text__content notion-semantic-string">Throughout this<a href="/get-started" class="notion-link link"> first section of the toolkit</a>, we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation.</p>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">In each of these sections, we have explained the importance of openly communicating your chosen SPP approaches, the reasons behind your decision, and how these will be implemented. An SPP Action Plan is the key way to bring all this together.</p>
 <div class="notion-text"></div>
@@ -40,7 +40,7 @@ notion_id: "d035741343454fe485c05b64b7bbb745"
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section[ ](https://openspp.super.site/get-started/establish-a-framework)[**Establish an enabling environment**](https://openspp.super.site/get-started/establish-a-framework)**.**
+In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section[ ](/get-started/establish-a-framework)[**Establish an enabling environment**](/get-started/establish-a-framework)**.**
 
 <div class="notion-text"></div>
 
@@ -236,7 +236,7 @@ Many countries start by working on the implementation of Open SPP in specific in
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](https://openspp.super.site/get-started/prioritize)
+Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/plan/prioritize)
 
 <div class="notion-text"></div>
 
@@ -250,7 +250,7 @@ Although countries start by selecting specific procurement categories to focus S
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section.](https://openspp.super.site/get-started/build-support-and-capacity)
+Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section.](/get-started/build-support-and-capacity)
 
 </div>
 </div>

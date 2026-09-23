@@ -27,7 +27,17 @@ NEXT_IMAGE = re.compile(r"/_next/image\?url=([^&\"]+)(?:&amp;|&)w=\d+(?:&amp;|&)
 SUPER_ASSET = re.compile(r"https://assets\.super\.so/")
 MAIN = re.compile(r'<main id="([^"]*)" class="([^"]*)">(.*)</main>', re.S)
 STYLE = re.compile(r"<style>(.*?)</style>", re.S)
-NOTION_LINK = re.compile(r'href="/([0-9a-f]{32})"')
+HREF = re.compile(r'href="([^"]*)"')
+# Domains on which the sites' pages have been served, including misspellings in links.
+LINK_HOSTS = {
+    **SITES,
+    "openspp.super.site": "en",
+    "esp.super.site": "es",
+    "fr.super.site": "fr",
+    "sustainability.open-contracting.org": "en",
+    "sustainable.open-contractring.org": "en",
+}
+DOMAINS = {lang: host for host, lang in SITES.items()}
 SIDEBAR = re.compile(r'<div id="[^"]*" class="notion-column"(?: style="[^"]*")?>')
 
 
@@ -185,21 +195,57 @@ def sidebar(content):
     return None
 
 
+def rewrite_link(match, lang, live, redirects, counter):
+    """
+    Make a link to a site's page relative (or absolute to its domain), skipping any redirect.
+
+    Add a redirect for a link to a page that doesn't exist, if a live page clearly replaces it.
+    """
+    href = html.unescape(match.group(1))
+    url = urllib.parse.urlsplit(href)
+    if url.scheme in ("http", "https") and url.netloc.lower() in LINK_HOSTS:
+        target = LINK_HOSTS[url.netloc.lower()]
+        kind = "absolute"
+    elif href.startswith("/") and not href.startswith(("//", "/assets/")):
+        target = lang
+        kind = "relative"
+    else:
+        return match.group(0)
+    path = urllib.parse.unquote(url.path).rstrip("/") or "/"
+    path = redirects[target].get(path, path)
+    if path not in live[target] and (moved := moved_to(path, live[target])):
+        redirects[target][path] = moved
+        path = moved
+    new = urllib.parse.urlunsplit(
+        ("", "", urllib.parse.quote(path), url.query, url.fragment)
+    )
+    if target != lang:
+        new = f"https://{DOMAINS[target]}{new}"
+    if new != href:
+        counter[
+            f"{kind} {'to another site' if target != lang else 'made relative' if kind == 'absolute' else 'redirected'}"
+        ] += 1
+    return f'href="{html.escape(new)}"'
+
+
 def moved_to(source, live):
-    """Return the live page with the same final path segment as a page that Super.so no longer renders, if clear."""
-    candidates = [path for path in live if path.split("/")[-1] == source.split("/")[-1]]
-    segments = set(source.split("/")[:-1])
+    """
+    Return the live page with the same final path segment (ignoring case) as a missing page, if clear.
+
+    Prefer the page that shares more of the path, then the only page with incoming links, since the others are
+    unlinked duplicates (``live`` maps paths to numbers of incoming links).
+    """
+    segments = set(source.lower().split("/")[:-1])
     ranked = sorted(
-        candidates,
-        key=lambda path: len(segments & set(path.split("/")[:-1])),
+        (
+            (len(segments & set(path.split("/")[:-1])), bool(incoming), path)
+            for path, incoming in live.items()
+            if path.split("/")[-1] == source.split("/")[-1].lower()
+        ),
         reverse=True,
     )
-    if len(ranked) == 1 or (
-        len(ranked) > 1
-        and len(segments & set(ranked[0].split("/")[:-1]))
-        > len(segments & set(ranked[1].split("/")[:-1]))
-    ):
-        return ranked[0]
+    if len(ranked) == 1 or (len(ranked) > 1 and ranked[0][:2] != ranked[1][:2]):
+        return ranked[0][2]
     return None
 
 
@@ -238,6 +284,53 @@ def main():
             urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
         )
 
+    # Each live page's number of incoming links on its site, other than breadcrumbs (from itself and its descendants).
+    live_paths = {lang: {} for lang in SITES.values()}
+    for (lang, _), path in slugs.items():
+        live_paths[lang][path] = 0
+    for r in canonical:
+        lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
+        source = urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
+        for link in r["links"]:
+            url = urllib.parse.urlsplit(link)
+            if url.netloc in ("", DOMAINS[lang]):
+                path = url.path.rstrip("/") or "/"
+                if path in live_paths[lang] and not (source + "/").startswith(
+                    path.rstrip("/") + "/"
+                ):
+                    live_paths[lang][path] += 1
+
+    # Super.so lists pages that it no longer renders, from super-so-pages.csv (exported from its dashboard).
+    stale = {lang: [] for lang in SITES.values()}
+    with (CRAWL / "super-so-pages.csv").open(encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            if row["renders_on_super"] == "no" and row["path"]:
+                stale[SITES[row["domain"]]].append("/" + row["path"])
+
+    # Super.so serves each page at its Notion ID, and some pages at other capitalizations, and redirects to the slug.
+    redirects = {}
+    for lang in SITES.values():
+        rules = {
+            f"/{page_id}": path
+            for (language, page_id), path in slugs.items()
+            if language == lang
+        }
+        for r in ok:
+            if (
+                r not in canonical
+                and SITES[urllib.parse.urlparse(r["url"]).netloc] == lang
+            ):
+                source = urllib.parse.urlparse(r["url"]).path
+                if source not in ("", "/"):
+                    rules[source] = urllib.parse.urlparse(r["final"]).path
+        for source in stale[lang]:
+            if target := moved_to(source, live_paths[lang]):
+                rules.setdefault(source, target)
+        redirects[lang] = {
+            source: target for source, target in rules.items() if source != target
+        }
+
+    links = collections.Counter()
     pages = []
     for r in canonical:
         lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
@@ -247,9 +340,8 @@ def main():
         content = MAIN.search(document).group(3)
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)
         content = clean(localize(content))
-        content = NOTION_LINK.sub(
-            lambda m: f'href="{slugs.get((lang, m.group(1)), m.group(0)[6:-1])}"',
-            content,
+        content = HREF.sub(
+            lambda m: rewrite_link(m, lang, live_paths, redirects, links), content
         )
         data, content = parse_page(content)
         data = {
@@ -300,36 +392,12 @@ def main():
         f"{converted} of {candidates} blocks and {sum(t is not None for t in markdowns)} of {len(pages)} pages converted to Markdown"
     )
 
-    # Super.so lists pages that it no longer renders, from super-so-pages.csv (exported from its dashboard).
-    stale = {lang: [] for lang in SITES.values()}
-    with (CRAWL / "super-so-pages.csv").open(encoding="utf-8-sig") as f:
-        for row in csv.DictReader(f):
-            if row["renders_on_super"] == "no" and row["path"]:
-                stale[SITES[row["domain"]]].append("/" + row["path"])
+    print("links:", dict(links))
 
-    # Super.so serves each page at its Notion ID, and some pages at other capitalizations, and redirects to the slug.
     for lang in SITES.values():
-        rules = {
-            f"/{page_id}": path
-            for (language, page_id), path in slugs.items()
-            if language == lang
-        }
-        for r in ok:
-            if (
-                r not in canonical
-                and SITES[urllib.parse.urlparse(r["url"]).netloc] == lang
-            ):
-                source = urllib.parse.urlparse(r["url"]).path
-                if source not in ("", "/"):
-                    rules[source] = urllib.parse.urlparse(r["final"]).path
-        live = [path for (language, _), path in slugs.items() if language == lang]
-        for source in stale[lang]:
-            if target := moved_to(source, live):
-                rules.setdefault(source, target)
         lines = [
             f"{source} {target} 301"
-            for source, target in sorted(rules.items())
-            if source != target
+            for source, target in sorted(redirects[lang].items())
         ]
         (ROOT / lang / "_redirects").write_text(
             front_matter({"permalink": "/_redirects", "layout": None})

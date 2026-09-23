@@ -233,7 +233,7 @@ There are different benefits of using joint procurement when implementing Open S
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Throughout this toolkit, we have provided guidance on the use of<a href="https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/framework-agreements" class="notion-link link"> frameworks</a><a href="https://openspp.super.site/get-started/build-support-and-capacity" class="notion-link link"> catalogs</a>, and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.</span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Throughout this toolkit, we have provided guidance on the use of<a href="/establish-an-enabling-environment/framework-agreements" class="notion-link link"> frameworks</a><a href="/get-started/build-support-and-capacity" class="notion-link link"> catalogs</a>, and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.</span></div>
 </div>
 
 <div class="notion-text"></div>

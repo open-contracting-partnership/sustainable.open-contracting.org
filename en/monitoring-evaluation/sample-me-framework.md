@@ -968,7 +968,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 3: Measure contracts awarded</a>
 
-<a href="https://openspp.super.site/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
+<a href="/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
 </strong>
 </span></div>
         </td>
@@ -1015,7 +1015,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 3: Measure contracts awarded</a>
 
-<a href="https://openspp.super.site/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
+<a href="/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
 </strong></span></div>
         </td>
       </tr>
@@ -1039,7 +1039,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 3: Measure contracts awarded</a>
 
-<a href="https://openspp.super.site/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
+<a href="/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">See Option 9: Create SPP supplier registries</a><strong>
 </strong></span></div>
         </td>
       </tr>

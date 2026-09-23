@@ -18,7 +18,7 @@ notion_id: "4d54baa285c44099ad5c35b2e4b5ca39"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="https://sustainable.open-contractring.org/options-for-data-use/use-cases/gender-equality" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use/use-cases/gender-equality</a></div>
+    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="/options-for-data-use/use-cases/gender-equality" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use/use-cases/gender-equality</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

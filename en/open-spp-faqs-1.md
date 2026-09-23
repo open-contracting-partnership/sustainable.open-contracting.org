@@ -107,7 +107,7 @@ When starting to implement SPP, prioritizing specific product categories can hel
 
 <div class="notion-text"></div>
 
-For more information on these factors, see [this section](/prioritize-1). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). This [case study](/case-study-database/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
+For more information on these factors, see [this section](/prioritize-1). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). This [case study](/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
 
 <div class="notion-text"></div>
 
@@ -220,7 +220,7 @@ Type I, and Type I-like ecolabels usually publish the criteria that should be me
 
 <div class="notion-text"></div>
 
-For more information on how to use ecolabels during a procurement process, see [this guide](https://openspp.super.site/guide-to-ecolabels). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories.
+For more information on how to use ecolabels during a procurement process, see [this guide](/guide-to-ecolabels). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories.
 
 <div class="notion-text"></div>
 
@@ -239,7 +239,7 @@ There is a common misconception that procuring sustainable products and services
 
 <div class="notion-text"></div>
 
-For more information on Life Cycle Costing (LCC) see [this section](https://openspp.super.site/use-cases/life-cycle-costing). For practical tools, the [European Commission](https://ec.europa.eu/environment/gpp/lcc.htm) has developed five LCC excel-based tools for specific product-categories (Vending Machines, Imaging Equipment, Computers and Monitors, Indoor and Outdoor Lighting). The tools include information on how they can be used before tendering to evaluate different solutions, during tendering to compare offers and after tendering to evaluate performance.
+For more information on Life Cycle Costing (LCC) see [this section](/life-cycle-costing). For practical tools, the [European Commission](https://ec.europa.eu/environment/gpp/lcc.htm) has developed five LCC excel-based tools for specific product-categories (Vending Machines, Imaging Equipment, Computers and Monitors, Indoor and Outdoor Lighting). The tools include information on how they can be used before tendering to evaluate different solutions, during tendering to compare offers and after tendering to evaluate performance.
 
 </div>
 </div>

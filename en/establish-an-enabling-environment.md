@@ -54,13 +54,13 @@ Every public contract establishes certain criteria that have to be met by suppli
 
 <div class="notion-text"></div>
 
-To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](https://openspp.super.site/implement/set-sustainable-criteria), and [Engage with the supplier market](https://openspp.super.site/implement/engage-with-the-market).
+To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/implement/set-sustainable-criteria), and [Engage with the supplier market](/engage-with-the-market).
 
 <div class="notion-text"></div>
 
 - **Consider applying Life Cycle Costing (LCC) calculations.**
 
-When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see[ this section.](https://openspp.super.site/use-cases/life-cycle-costing)
+When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see[ this section.](/life-cycle-costing)
 
 <div class="notion-text"></div>
 
@@ -84,7 +84,7 @@ Some procurement regimes  might allow you to use criteria other than price to e
 
 <div class="notion-text"></div>
 
-In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section[ Set sustainability criteria](https://openspp.super.site/implement/set-sustainable-criteria).
+In this case, you can also design the evaluation process so that sustainability is part of the award criteria (as well as using the SPP practices mentioned for contexts which only allow to select the lowest-price bid). When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals). For more information on setting this criteria see section[ Set sustainability criteria](/implement/set-sustainable-criteria).
 
 </div>
 </div>
@@ -134,11 +134,11 @@ In this case, you can also design the evaluation process so that sustainability 
 <p class="notion-text notion-text__content notion-semantic-string">Once you have evaluated your enabling environment, you should clearly communicate how it underpins your SPP approach. This can translate into two key actions:</p>
 <div class="notion-text"></div>
 <ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string">National authorities should clearly communicate the current enabling environment for SPP implementation in their<a href="https://openspp.super.site/get-started/create-an-action-plan" class="notion-link link" target="_blank" rel="noopener noreferrer"> SPP Action Plans</a>, as well as any plans to develop new enabling policy or regulation.</li>
+  <li class="notion-list-item notion-semantic-string">National authorities should clearly communicate the current enabling environment for SPP implementation in their<a href="/create-an-action-plan" class="notion-link link" target="_blank" rel="noopener noreferrer"> SPP Action Plans</a>, as well as any plans to develop new enabling policy or regulation.</li>
 </ul>
 <div class="notion-text"></div>
 <ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string">Procurement practitioners should clearly communicate how their SPP approach is compliant with the existing enabling environment on a contract-by-contract basis. This can be by referring to the relevant section in the SPP Action Plan, or the <a href="https://openspp.super.site/get-started/establish-a-framework/quick-checklist-share-your-compliance-trail" class="notion-link link" target="_blank" rel="noopener noreferrer">documents that have been checked as part of the assessment.</a></li>
+  <li class="notion-list-item notion-semantic-string">Procurement practitioners should clearly communicate how their SPP approach is compliant with the existing enabling environment on a contract-by-contract basis. This can be by referring to the relevant section in the SPP Action Plan, or the <a href="/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail" class="notion-link link" target="_blank" rel="noopener noreferrer">documents that have been checked as part of the assessment.</a></li>
 </ul>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">As a quick way to go over the different regulatory and policy documents you might need to refer to, we have put together the following checklist: </p>

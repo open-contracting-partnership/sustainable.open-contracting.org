@@ -17,7 +17,7 @@ notion_id: "e8b64c612d7341a4adc1e432bdf65a94"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/What-is-Open-SPP">https://sustainable.open-contracting.org/What-is-Open-SPP</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/what-is-open-spp">https://sustainable.open-contracting.org/What-is-Open-SPP</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

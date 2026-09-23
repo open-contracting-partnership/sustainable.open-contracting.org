@@ -51,7 +51,7 @@ This will be a huge shift in the traditional box ticking, compliance-based appro
 
 <div class="notion-text"></div>
 
-Below we include some  of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system ](https://openspp.super.site/case-study-database/latin-america-and-the-caribbean-lac/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
+Below we include some  of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system ](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
 
 <div class="notion-text"></div>
 
@@ -67,7 +67,7 @@ Beyond individual tenders, open and sustainable public procurement will need sma
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Organizing workshops with procurement professionals to inform, contribute to and celebrate  share the final[ Action Plan](https://openspp.super.site/get-started/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
+Organizing workshops with procurement professionals to inform, contribute to and celebrate  share the final[ Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
 
 <div class="notion-text"></div>
 
@@ -90,7 +90,7 @@ SPP training sessions can be organized throughout the year to build capabilities
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](https://openspp.super.site/implement/set-sustainable-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
+Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](/implement/set-sustainable-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
 
 <div class="notion-text"></div>
 
@@ -117,7 +117,7 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 
 <div class="notion-text"></div>
 
-- Importantly, as well as action planning, CSOs can assist with[ monitoring the outcomes of policies or specific procurement processes activities](https://openspp.super.site/implement/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
+- Importantly, as well as action planning, CSOs can assist with[ monitoring the outcomes of policies or specific procurement processes activities](/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
 
 <div class="notion-text"></div>
 
@@ -133,7 +133,7 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 
 ## **Standardize sustainability criteria**
 
-Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](https://openspp.super.site/get-started/prioritize) section, one of the steps when getting started with Open SPP is identifying existing[ ](https://openspp.super.site/guide-to-ecolabels)sustainability standards and [ecolabels](https://openspp.super.site/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](https://openspp.super.site/implement/set-sustainable-criteria).
+Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/plan/prioritize) section, one of the steps when getting started with Open SPP is identifying existing[ ](/guide-to-ecolabels)sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/implement/set-sustainable-criteria).
 
 <div class="notion-text"></div>
 

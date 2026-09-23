@@ -74,7 +74,7 @@ En la [primera sección](https://sustainable.open-contracting.org/what-is-spp-an
 
 Existe la creencia común de que, cuando el marco habilitante, es decir, las normas y políticas existentes que rigen su contratación, establece que los contratos públicos deben adjudicarse a la oferta de precio más bajo, es difícil implementar SPP. Sin embargo, esto es un concepto erróneo e independientemente del marco propicio, a menudo hay mucho espacio para la implementación de SPP. Para evaluar sus opciones, le recomendamos que comience identificando la regulación actual con respecto a los criterios de evaluación:
 
-- **Cuando el marco habilitante solo permite que el precio se considere como criterio de evaluación,** hay tres enfoques principales que puede tomar: introducir criterios de sostenibilidad como requisitos esenciales, usar cálculos de [costos del ciclo de vida](https://sustainable.open-contracting.org/use-cases/life-cycle-costing) y garantizar el cumplimiento de las regulaciones de sostenibilidad existentes.
+- **Cuando el marco habilitante solo permite que el precio se considere como criterio de evaluación,** hay tres enfoques principales que puede tomar: introducir criterios de sostenibilidad como requisitos esenciales, usar cálculos de [costos del ciclo de vida](https://sustainable.open-contracting.org/life-cycle-costing) y garantizar el cumplimiento de las regulaciones de sostenibilidad existentes.
 - **Cuando el marco habilitante deja espacio para considerar criterios de evaluación distintos al precio,** puede utilizar los planes y políticas de sostenibilidad existentes para guiar el diseño de los criterios de evaluación de la sostenibilidad.
 
 Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
@@ -97,7 +97,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 - Factores que lo ayudarán a determinar el **impacto de sostenibilidad** de implementar CPS en una categoría específica (como las emisiones de CO2 atribuidas).
 - Factores que le ayudarán a evaluar la **facilidad de implementación** (como la disponibilidad de etiquetas ambientales).
 
-Para obtener más información sobre estos factores, consulte [esta sección](https://sustainable.open-contracting.org/get-started/prioritize). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+Para obtener más información sobre estos factores, consulte [esta sección](https://sustainable.open-contracting.org/plan/prioritize). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
 
 <div class="notion-text"></div>
 
@@ -152,7 +152,7 @@ Un Plan de Acción de CPS sirve como referencia para que los profesionales de co
 
 **Presupuesto asignado**: qué presupuesto se dedicará a la estrategia CPS (por ejemplo, desarrollo de materiales de orientación, sesiones de capacitación, etc.).
 
-Este [índice](https://sustainable.open-contracting.org/get-started/create-an-action-plan/sample-outline-of-an-spp-action-plan) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](https://sustainable.open-contracting.org/get-started/create-an-action-plan/sample-outline-of-an-spp-action-plan) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
+Este [índice](https://sustainable.open-contracting.org/create-an-action-plan/sample-outline-of-an-spp-action-plan) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](https://sustainable.open-contracting.org/create-an-action-plan/sample-outline-of-an-spp-action-plan) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
 
 <div class="notion-text"></div>
 
@@ -180,7 +180,7 @@ Hay diferentes formas de relacionarse con el mercado a lo largo del proceso de c
 - **Durante la fase de planeación de las contrataciones**: organización de eventos con proveedores para presentar objetivos de sostenibilidad y realización de estudios de mercado para evaluar la disponibilidad de opciones sostenibles.
 - **Durante la contratación**: notificar al mercado la intención de adjudicar un contrato, desarrollar canales para comprometerse con grupos de proveedores prioritarios (p. ej., pymes), proporcionar canales para recibir comentarios y facilitar los consorcios de proveedores.
 
-Para obtener más información, consulte [esta sección](https://sustainable.open-contracting.org/implement/engage-with-the-market).
+Para obtener más información, consulte [esta sección](https://sustainable.open-contracting.org/engage-with-the-market).
 
 <div class="notion-text"></div>
 
@@ -199,7 +199,7 @@ Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolab
 
 Las ecoetiquetas Tipo I y Tipo I generalmente publican los criterios que deben cumplirse para recibir la certificación. Para adquirir de manera más sostenible, puede solicitar a los proveedores que cumplan con los criterios establecidos por una etiqueta específica, o utilizar algunos de los criterios para redactar especificaciones en un contrato.
 
-Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](https://openspp.super.site/guide-to-ecolabels). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
+Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](https://sustainable.open-contracting.org/guide-to-ecolabels). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
 
 <div class="notion-text"></div>
 
@@ -216,7 +216,7 @@ Para obtener más información sobre cómo usar ecoetiquetas durante un proceso 
 
 Existe una idea errónea común de que adquirir productos y servicios sostenibles siempre significa gastar más dinero. En realidad, aunque las alternativas sostenibles en ocasiones pueden tener un coste de contratación más elevado, si además se tienen en cuenta los costos de operación, mantenimiento y eliminación, pueden convertirse en la alternativa más económica. El costo del ciclo de vida (LCC) calcula estos costes y también puede incluir el cálculo de costes medioambientales, como las emisiones de CO2.
 
-Para obtener más información sobre el coste del ciclo de vida (LCC), consulte [esta sección](https://openspp.super.site/use-cases/life-cycle-costing). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
+Para obtener más información sobre el coste del ciclo de vida (LCC), consulte [esta sección](https://sustainable.open-contracting.org/life-cycle-costing). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
 
 </div>
 </div>

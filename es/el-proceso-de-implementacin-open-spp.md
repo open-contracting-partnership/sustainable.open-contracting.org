@@ -7,27 +7,27 @@ collection: true
 notion_id: "9c163ecbb0d540cfae796f11074f5c07"
 ---
 <div class="notion-collection-gallery medium">
-  <div class="notion-collection-card gallery"><a href="https://esp.super.site/introduccion" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>
+  <div class="notion-collection-card gallery"><a href="/introduccion" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>
     <div class="notion-collection-card__content notion-collection-card__property-list">
       <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Blue_Intro.png"/></div>Introduction</div>
     </div>
   </div>
-  <div class="notion-collection-card gallery"><a href="https://esp.super.site/get-started" class="notion-link notion-collection-card__anchor">Plan</a><img alt="Plan" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers2_%281%29.png"/>
+  <div class="notion-collection-card gallery"><a href="/get-started" class="notion-link notion-collection-card__anchor">Plan</a><img alt="Plan" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers2_%281%29.png"/>
     <div class="notion-collection-card__content notion-collection-card__property-list">
       <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green.png"/></div>Plan</div>
     </div>
   </div>
-  <div class="notion-collection-card gallery"><a href="https://esp.super.site/implement" class="notion-link notion-collection-card__anchor">Implement</a><img alt="Implement" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_notion_cover.png"/>
+  <div class="notion-collection-card gallery"><a href="/el-proceso-de-implementacin-open-spp/implement" class="notion-link notion-collection-card__anchor">Implement</a><img alt="Implement" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_notion_cover.png"/>
     <div class="notion-collection-card__content notion-collection-card__property-list">
       <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red.png"/></div>Implement</div>
     </div>
   </div>
-  <div class="notion-collection-card gallery"><a href="https://esp.super.site/use-cases" class="notion-link notion-collection-card__anchor">Open data &amp; measuring progress</a><img alt="Open data &amp; measuring progress" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 6.479999999999997%" src="/assets/images/PUBLIC_SPP_covers4_%281%29.png"/>
+  <div class="notion-collection-card gallery"><a href="/use-cases" class="notion-link notion-collection-card__anchor">Open data &amp; measuring progress</a><img alt="Open data &amp; measuring progress" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 6.479999999999997%" src="/assets/images/PUBLIC_SPP_covers4_%281%29.png"/>
     <div class="notion-collection-card__content notion-collection-card__property-list">
       <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Light_Green.png"/></div>Open data &amp; measuring progress</div>
     </div>
   </div>
-  <div class="notion-collection-card gallery"><a href="https://esp.super.site/sector-guidance" class="notion-link notion-collection-card__anchor">Sector guidance</a><img alt="Sector guidance" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 89.84%" src="/assets/images/PUBLIC_SPP_covers6.png"/>
+  <div class="notion-collection-card gallery"><a href="/el-proceso-de-implementacin-open-spp/sector-guidance" class="notion-link notion-collection-card__anchor">Sector guidance</a><img alt="Sector guidance" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 89.84%" src="/assets/images/PUBLIC_SPP_covers6.png"/>
     <div class="notion-collection-card__content notion-collection-card__property-list">
       <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey.png"/></div>Sector guidance</div>
     </div>

@@ -29,8 +29,8 @@ notion_id: "4c20445a515f4093b87882059e6d89b0"
 
 **Pour quand vous établissez votre l’environnement habilitant:**
 
-- [Liste de vérification : évaluation rapide de votre environnement habilitant](https://fr.super.site/establish-an-enabling-environment/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant) (en anglais)
-- [Liste de vérification rapide : fournir des preuves de conformité](https://fr.super.site/establish-an-enabling-environment/liste-de-vrification-rapide-fournir-des-preuves-de-conformit) (en anglais)
+- [Liste de vérification : évaluation rapide de votre environnement habilitant](/mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant) (en anglais)
+- [Liste de vérification rapide : fournir des preuves de conformité](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit) (en anglais)
 
 <div class="notion-text"></div>
 
@@ -48,13 +48,13 @@ notion_id: "4c20445a515f4093b87882059e6d89b0"
 
 **Pour quand vous assemblez un plan d’action sur les marchés publics durables:**
 
-- [Modèle de plan d’action sur les marchés publics durables](https://fr.super.site/create-an-action-plan/sample-outline-of-an-spp-action-plan)
+- [Modèle de plan d’action sur les marchés publics durables](/create-an-action-plan/sample-outline-of-an-spp-action-plan)
 
 <div class="notion-text"></div>
 
 **Pour quand vous explorez des possibilités d’utilisation des données:**
 
-- [Table des possibilités d’utilisation des données](https://fr.super.site/options-for-data-use)
+- [Table des possibilités d’utilisation des données](/options-for-data-use)
 
 <div class="notion-text"></div>
 

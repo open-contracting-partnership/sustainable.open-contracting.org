@@ -14,13 +14,13 @@ notion_id: "1f53708050f744299ed811a68005427d"
 <div class="notion-column" style="width:calc((100% - var(--column-spacing) * 1) * 0.7391304347826085);margin-inline-start:var(--column-spacing)">
 <h1 class="notion-heading notion-semantic-string"><strong>Présenter vos premières mesures dans un plan d’action sur les marchés publics durables</strong></h1>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://openspp.super.site/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.</p>
+<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://sustainable.open-contracting.org/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.</p>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces élément</p>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">En vous dotant d’un plan d’action sur les marchés publics durables, vous pourrez divulguer aux membres des services de passation de marchés le cadre applicable aux marchés publics durables, les conséquences sur leur travail et les actions qui seront entreprises pour perfectionner ce cadre.</p>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://openspp.super.site/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables</p>
+<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://sustainable.open-contracting.org/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables</p>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces éléments.</p>
 <div class="notion-text"></div>
@@ -53,7 +53,7 @@ Dans chaque pays, les marchés publics sont régis par des lois, règles et cadr
 
 <br>Les lois, politiques et plans pertinents et les interprétations possibles du point de vue de la mise en place de marchés publics durables. Cela suppose de mentionner la réglementation en vigueur concernant les critères d’évaluation et tout aspect réglementaire influant sur les marchés publics durables ;
 
-Les changements ou ajustements qui permettront d’augmenter la portée de la mise en place. Cela peut inclure, par exemple, l’établissement [de marchés réservés ou le ciblage](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/targets-and-reserved-contracts) de certains types d’entreprises, comme les petites et moyennes entreprises, ou l’établissement [d’un seuil](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/open-market-engagement-and-ongoing-dialogue) pour faciliter la mise en place de marchés publics durables et ouverts.
+Les changements ou ajustements qui permettront d’augmenter la portée de la mise en place. Cela peut inclure, par exemple, l’établissement [de marchés réservés ou le ciblage](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) de certains types d’entreprises, comme les petites et moyennes entreprises, ou l’établissement [d’un seuil](https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) pour faciliter la mise en place de marchés publics durables et ouverts.
 
 <div class="notion-text"></div>
 
@@ -61,7 +61,7 @@ Les changements ou ajustements qui permettront d’augmenter la portée de la mi
 
 <div class="notion-text"></div>
 
-- **Les changements ou ajustements** qui permettront d’augmenter la portée de la mise en place. Cela peut inclure, par exemple, l’établissement [de marchés réservés ou le ciblage](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/targets-and-reserved-contracts) de certains types d’entreprises, comme les petites et moyennes entreprises, ou l’établissement [d’un seuil](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/open-market-engagement-and-ongoing-dialogue) pour faciliter la mise en place de marchés publics durables et ouverts.
+- **Les changements ou ajustements** qui permettront d’augmenter la portée de la mise en place. Cela peut inclure, par exemple, l’établissement [de marchés réservés ou le ciblage](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) de certains types d’entreprises, comme les petites et moyennes entreprises, ou l’établissement [d’un seuil](https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) pour faciliter la mise en place de marchés publics durables et ouverts.
 
 <div class="notion-text"></div>
 
@@ -87,7 +87,7 @@ Les changements ou ajustements qui permettront d’augmenter la portée de la mi
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Dans la section sur la [définition des catégories de marchés prioritaires](https://openspp.super.site/get-started/prioritize), nous avons expliqué comment ce travail peut guider l’élaboration des critères de durabilité et promouvoir une mise en place harmonisée et cohérente des marchés publics durables et ouverts. Après avoir défini les catégories prioritaires, vous pouvez communiquer les résultats de votre démarche dans votre plan d’action en incluant notamment les informations suivantes :
+Dans la section sur la [définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize), nous avons expliqué comment ce travail peut guider l’élaboration des critères de durabilité et promouvoir une mise en place harmonisée et cohérente des marchés publics durables et ouverts. Après avoir défini les catégories prioritaires, vous pouvez communiquer les résultats de votre démarche dans votre plan d’action en incluant notamment les informations suivantes :
 
 - **Les catégories de marchés prioritaires** et une justification transparente de vos choix ;
 - <strong>Des orientations sur les critères de durabilité pouvant être utilisés dans chaque catégorie prioritaire. </strong>Il peut s’agir de recommandations sur les règles, les éco-étiquettes ou les exigences en matière de durabilité, par exemple concernant l’efficacité énergétique, qui peuvent être intégrées aux dossiers d’appel d’offres. Vous pouvez également fournir des renseignements sur l’emplacement de ces informations ainsi que tous les plans abordant l’élaboration de critères normalisés aux échelles nationale, régionale et locale. 
@@ -135,7 +135,7 @@ Pour en savoir plus, consultez la section relative au suivi et à l’évaluatio
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](https://openspp.super.site/get-started/build-support-and-capacity), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
+Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](https://sustainable.open-contracting.org/get-started/build-support-and-capacity), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
 
 <div class="notion-text"></div>
 
@@ -236,7 +236,7 @@ Beaucoup de pays commencent par mettre en place des marchés publics durables et
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Consultez [cette section](https://openspp.super.site/get-started/prioritize) pour en savoir plus sur le processus de définition des catégories prioritaires.
+Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Consultez [cette section](https://sustainable.open-contracting.org/plan/prioritize) pour en savoir plus sur le processus de définition des catégories prioritaires.
 
 <div class="notion-text"></div>
 
@@ -250,7 +250,7 @@ Bien que des pays concentrent d’abord leurs efforts sur des catégories de mar
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](https://openspp.super.site/get-started/build-support-and-capacity) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
+La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
 
 </div>
 </div>
@@ -273,7 +273,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 </div>
 <div class="notion-text"></div>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://openspp.super.site/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.</p>
+<p class="notion-text notion-text__content notion-semantic-string">Dans la <a href="https://sustainable.open-contracting.org/get-started" class="notion-link link">première partie de ce guide pratique</a>, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.</p>
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces éléments.</p>
 <div class="notion-text"></div>

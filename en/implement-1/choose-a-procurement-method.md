@@ -17,7 +17,7 @@ notion_id: "4d035f65ed4d4d1ab81190777d9944dc"
     <div class="notion-page__property-name-wrapper">
       <div class="notion-page__property-name"><span>super:Link</span></div>
     </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="https://sustainability.open-contracting.org/choose-a-procurement-method" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/choose-a-procurement-method</a></div>
+    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a href="/choose-a-procurement-method" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainability.open-contracting.org/choose-a-procurement-method</a></div>
   </div>
   <div class="notion-divider"></div>
 </div>

@@ -170,7 +170,7 @@ Instead of purchasing new goods, sometimes leasing can be a good alternative. Le
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Joint procurement can help to create stronger demand for green products and services, which can consequently encourage the supplier market to invest in sustainable alternatives. By aggregating their needs through joint procurement, public authorities essentially offer suppliers the opportunity to win more than one contract through one single tender submission.  Minimizing the resources needed to access this revenue can encourage more suppliers to invest in sustainable alternatives. For more information on joint procurement see[ this section.](https://openspp.super.site/implement/choose-a-procurement-method)
+Joint procurement can help to create stronger demand for green products and services, which can consequently encourage the supplier market to invest in sustainable alternatives. By aggregating their needs through joint procurement, public authorities essentially offer suppliers the opportunity to win more than one contract through one single tender submission.  Minimizing the resources needed to access this revenue can encourage more suppliers to invest in sustainable alternatives. For more information on joint procurement see[ this section.](/choose-a-procurement-method)
 
 <div class="notion-text"></div>
 
@@ -185,7 +185,7 @@ Joint procurement can help to create stronger demand for green products and serv
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Framing user needs in terms of outcomes can help to encourage innovative sustainable suggestions from suppliers (i.e. asking for an office to be heated to 20-22 degrees vs asking for a 300W radiator.). For more information on outcomes-based procurement see the [Harvard Kennedy School’s Government Performance Lab](https://govlab.hks.harvard.edu/results-driven-contracting) and[ this section.](https://openspp.super.site/implement/choose-a-procurement-method)
+Framing user needs in terms of outcomes can help to encourage innovative sustainable suggestions from suppliers (i.e. asking for an office to be heated to 20-22 degrees vs asking for a 300W radiator.). For more information on outcomes-based procurement see the [Harvard Kennedy School’s Government Performance Lab](https://govlab.hks.harvard.edu/results-driven-contracting) and[ this section.](/choose-a-procurement-method)
 
 </div>
 </div>

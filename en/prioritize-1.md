@@ -33,7 +33,7 @@ Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldb
 <div class="notion-callout border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Communicating why you have prioritized certain categories.</strong></span>
-    <p class="notion-text notion-text__content notion-semantic-string">Although there are many ways to prioritize, is it really important both to engage stakeholders in the prioritization to learn their perspectives and to communicate any decisions made so they can be implemented including through the clear <a href="https://openspp.super.site/get-started/create-an-action-plan" class="notion-link link">Action Plan</a> that we recommend at the end of the section.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Although there are many ways to prioritize, is it really important both to engage stakeholders in the prioritization to learn their perspectives and to communicate any decisions made so they can be implemented including through the clear <a href="/create-an-action-plan" class="notion-link link">Action Plan</a> that we recommend at the end of the section.</p>
   </div>
 </div>
 
@@ -240,7 +240,7 @@ The existence of sustainability initiatives in the local market should also be c
 
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards. </strong>These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see<a href="https://openspp.super.site/implement/engage-with-the-market" class="notion-link link"> this section.</a></span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards. </strong>These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see<a href="/engage-with-the-market" class="notion-link link"> this section.</a></span></div>
 </div>
 
 <div class="notion-text"></div>

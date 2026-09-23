@@ -42,7 +42,7 @@ As you can see on the diagram below, we have created five subsections to meet th
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green2.png"/></div>Establish an enabling environment</div>
       </div>
     </div>
-    <div class="notion-collection-card gallery"><a href="/prioritize" class="notion-link notion-collection-card__anchor">Prioritize</a>
+    <div class="notion-collection-card gallery"><a href="/plan/prioritize" class="notion-link notion-collection-card__anchor">Prioritize</a>
       <div class="notion-collection-card__content notion-collection-card__property-list">
         <div class="notion-property notion-property__title notion-collection-card__property title notion-semantic-string"><div class="notion-property__title__icon-wrapper"><img alt="" loading="lazy" width="16" height="16" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icons_D_Green2.png"/></div>Prioritize</div>
       </div>

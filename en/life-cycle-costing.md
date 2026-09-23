@@ -173,7 +173,7 @@ With robust data in place, it will be possible to identify and work with the mos
 
 <div class="notion-text"></div>
 
-Earlier in the toolkit, we [introduced an M&E Framework](https://openspp.super.site/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track the application of life cycle costing approaches: 
+Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track the application of life cycle costing approaches: 
 
 <div class="notion-text"></div>
 

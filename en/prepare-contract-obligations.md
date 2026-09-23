@@ -54,7 +54,7 @@ This feature refers to the degree of detail used to describe the sustainability 
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-An effective contract clause should also frame sustainability requirements as “obligations to be assessed”, to clearly leave room for activities aimed at verifying compliance against the requirements. The methods that will be used to monitor compliance should be agreed with the supplier, and can be included in an annex to the contract. This includes considering factors such as the frequency of monitoring activities, whether they will be carried out by the supplier or a third party, and who is responsible for covering the costs. For more information regarding possible methods see[ this section](https://openspp.super.site/implement/monitor-implementation).
+An effective contract clause should also frame sustainability requirements as “obligations to be assessed”, to clearly leave room for activities aimed at verifying compliance against the requirements. The methods that will be used to monitor compliance should be agreed with the supplier, and can be included in an annex to the contract. This includes considering factors such as the frequency of monitoring activities, whether they will be carried out by the supplier or a third party, and who is responsible for covering the costs. For more information regarding possible methods see[ this section](/monitor-implementation).
 
 <div class="notion-text"></div>
 
@@ -88,7 +88,7 @@ Coverage depth refers to the different layers in the supply chain that the claus
 
 <div class="notion-text"></div>
 
-It can be complicated to enforce clauses beyond those with whom a supplier has direct business relations (ie. beyond tier-1 suppliers) to cover those suppliers’ suppliers (tier-2 etc). This is why establishing a dialogue with suppliers is crucial to understand current supplier chain information, and work with the supplier, or the suppliers working in that sector in your specific area, to encourage transparency and to cascade better practices down a supply chain. For examples on how supply chain requirements can be introduced in a procurement process, [see section on IT procurement.](https://openspp.super.site/ict-sector)
+It can be complicated to enforce clauses beyond those with whom a supplier has direct business relations (ie. beyond tier-1 suppliers) to cover those suppliers’ suppliers (tier-2 etc). This is why establishing a dialogue with suppliers is crucial to understand current supplier chain information, and work with the supplier, or the suppliers working in that sector in your specific area, to encourage transparency and to cascade better practices down a supply chain. For examples on how supply chain requirements can be introduced in a procurement process, [see section on IT procurement.](/sector-guidance-1/ict-sector)
 
 <div class="notion-text"></div>
 

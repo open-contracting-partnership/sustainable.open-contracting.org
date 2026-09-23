@@ -16,13 +16,13 @@ notion_id: "e10550c9408d4537a5b0065517aea46a"
 
 # **Gérer la durabilité durant l’exécution du marché**
 
-Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](https://openspp.super.site/implement/prepare-contract-obligations), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
+Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](https://sustainable.open-contracting.org/prepare-contract-obligations), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
 
 <div class="notion-text"></div>
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les <a href="https://openspp.super.site/get-started/identify-your-goals" class="notion-link link">objectifs globaux</a>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les <a href="https://sustainable.open-contracting.org/get-started/identify-your-goals" class="notion-link link">objectifs globaux</a>
  définis dans votre stratégie sur les marchés publics durables et ouverts.</span></div>
 </div>
 
@@ -32,7 +32,7 @@ Après avoir imposé des critères de durabilité aux fournisseurs, vous devez d
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/7_areas_open_SPP5.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.
 
-L’un des aspects essentiels des </strong><a href="https://openspp.super.site/what-is-spp-and-open-spp" class="notion-link link">marchés publics durables et ouverts</a> est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme <a href="https://openspp.super.site/get-started/build-support-and-capacity" class="notion-link link">signalé précédemment</a>, cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des <a href="https://openspp.super.site/ict-sector" class="notion-link link">technologies de l’information et des communications</a> et de la <a href="https://openspp.super.site/construction-sector" class="notion-link link">construction</a>.</span></div>
+L’un des aspects essentiels des </strong><a href="https://sustainable.open-contracting.org/what-is-spp-and-open-spp" class="notion-link link">marchés publics durables et ouverts</a> est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme <a href="https://sustainable.open-contracting.org/get-started/build-support-and-capacity" class="notion-link link">signalé précédemment</a>, cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des <a href="https://sustainable.open-contracting.org/sector-guidance-1/ict-sector" class="notion-link link">technologies de l’information et des communications</a> et de la <a href="https://sustainable.open-contracting.org/sector-guidance-1/construction-sector" class="notion-link link">construction</a>.</span></div>
 </div>
 
 <div class="notion-text"></div>
@@ -131,7 +131,7 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Idea_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la <a href="https://openspp.super.site/construction-sector" class="notion-link link"><strong>construction</strong></a><strong> </strong>et des <a href="https://openspp.super.site/ict-sector" class="notion-link link"><strong>technologies de l’information et des communications</strong></a><strong>.</strong></span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la <a href="https://sustainable.open-contracting.org/sector-guidance-1/construction-sector" class="notion-link link"><strong>construction</strong></a><strong> </strong>et des <a href="https://sustainable.open-contracting.org/sector-guidance-1/ict-sector" class="notion-link link"><strong>technologies de l’information et des communications</strong></a><strong>.</strong></span></div>
 </div>
 
 <div class="notion-text"></div>

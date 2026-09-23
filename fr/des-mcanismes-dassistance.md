@@ -51,7 +51,7 @@ Le changement sera radical par rapport à l’approche traditionnelle faisant l�
 
 <div class="notion-text"></div>
 
-Nous présentons ci-dessous certaines des meilleures façons d’y parvenir, la clé étant d’interagir de façon répétée et constante. Notre étude de cas sur le processus de renouvellement du [système de vélos en libre-service de la ville de Mexico](https://openspp.super.site/case-study-database/latin-america-and-the-caribbean-lac/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city) illustre bien cet aspect. En effet, en repensant son processus et en s’appuyant sur la participation constante des prestataires et des communautés, la ville a réussi à étendre son système de vélos en libre-service jusqu’à des quartiers plus pauvres et défavorisés, pour des résultats bien meilleurs que ceux des appels d’offres précédents.
+Nous présentons ci-dessous certaines des meilleures façons d’y parvenir, la clé étant d’interagir de façon répétée et constante. Notre étude de cas sur le processus de renouvellement du [système de vélos en libre-service de la ville de Mexico](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city) illustre bien cet aspect. En effet, en repensant son processus et en s’appuyant sur la participation constante des prestataires et des communautés, la ville a réussi à étendre son système de vélos en libre-service jusqu’à des quartiers plus pauvres et défavorisés, pour des résultats bien meilleurs que ceux des appels d’offres précédents.
 
 <div class="notion-text"></div>
 
@@ -67,7 +67,7 @@ En plus des appels d’offres particuliers, les marchés publics durables et ouv
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-L’organisation d’ateliers avec des membres de services de passation de marchés pour guider, étoffer et diffuser le [plan d’action](https://openspp.super.site/get-started/create-an-action-plan) définitif sera essentielle pour l’élaboration de ce dernier, la maximisation de ses bénéfices et sa reconnaissance.
+L’organisation d’ateliers avec des membres de services de passation de marchés pour guider, étoffer et diffuser le [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) définitif sera essentielle pour l’élaboration de ce dernier, la maximisation de ses bénéfices et sa reconnaissance.
 
 <div class="notion-text"></div>
 
@@ -90,7 +90,7 @@ Des ateliers de formation sur les marchés publics durables peuvent être organi
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Les pouvoirs publics doivent collaborer avec leurs fournisseurs et des organismes sectoriels afin de déterminer [les normes de durabilité qui doivent être intégrées aux processus de passation de marchés](https://openspp.super.site/implement/set-sustainable-criteria)
+Les pouvoirs publics doivent collaborer avec leurs fournisseurs et des organismes sectoriels afin de déterminer [les normes de durabilité qui doivent être intégrées aux processus de passation de marchés](https://sustainable.open-contracting.org/implement/set-sustainable-criteria)
 . Des ateliers et événements peuvent être organisés afin d’évaluer les capacités du marché et de travailler avec les fournisseurs pour élaborer une feuille de route concernant l’amélioration continue des pratiques durables. Ces événements peuvent aider les pouvoirs publics à collaborer avec des entreprises locales, en particulier les petites et moyennes entreprises (PME), et à s’assurer qu’elles ne sont pas exclues par l’intégration d’exigences de durabilité aux processus de passation de marchés.
 
 <div class="notion-text"></div>
@@ -112,7 +112,7 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 
 - En fonction de votre domaine d’action prioritaire, les OSC peuvent vous orienter concernant les cibles les plus pertinentes ou la meilleure façon de concevoir le processus de passation de marchés, par exemple concernant l’achat de produits écologiques, la promotion des PME ou le renforcement de l’égalité entre les genres. Ainsi, les OSC peuvent aider à concevoir les politiques relatives aux marchés publics durables et à préparer et organiser des ateliers de renforcement des capacités à l’intention des services de passation de marchés.
 - Ces organisations peuvent également apporter des connaissances et analyses supplémentaires et ainsi aider à relier des données provenant de plusieurs disciplines pour produire de nouvelles connaissances. En Inde, le laboratoire de recherche CivicDataLab a conçu un modèle de données combinant trois jeux de données volumineux afin de suivre les investissements réalisés en faveur de l’assistance, de l’intervention d’urgence et de la préparation concernant les inondations dans le but d’évaluer dans quelle mesure ces investissements contribuent à la résilience climatique ou répondent aux besoins humanitaires les plus urgents. Ce laboratoire a exploité des données satellitaires et météorologiques pour évaluer l’exposition aux inondations d’une zone spécifique, des données socio-économiques pour comprendre le degré de vulnérabilité de la population résidant dans les zones à risque d’inondation et des données budgétaires concernant par exemple des marchés antérieurs pour analyser l’action des gouvernements à la suite d’inondations par le passé et les régions où des interventions urgentes seront nécessaires à l’avenir.
-- De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés.](https://openspp.super.site/implement/monitor-implementation) Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
+- De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés.](https://sustainable.open-contracting.org/monitor-implementation) Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
 
 <div class="notion-text"></div>
 
@@ -128,7 +128,7 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 
 ## **Établir des critères de durabilité normalisés**
 
-Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](https://openspp.super.site/get-started/prioritize), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](https://openspp.super.site/guide-to-ecolabels) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](https://openspp.super.site/implement/set-sustainable-criteria).
+Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](https://sustainable.open-contracting.org/guide-to-ecolabels) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](https://sustainable.open-contracting.org/implement/set-sustainable-criteria).
 
 <div class="notion-text"></div>
 
@@ -141,7 +141,7 @@ Les gouvernements acquièrent une grande variété de produits et la plupart des
 
 ## **Créer et diffuser des registres et catalogues axés sur la durabilité**
 
-Dans la section portant sur l’environnement habilitant, nous avons montré en quoi l’intégration de critères de durabilité à des [accords-cadres](https://openspp.super.site/get-started/establish-a-framework/key-spp-enablers/framework-agreements) peut favoriser les marchés publics durables. Une autre façon de créer une liste de présélection des fournisseurs les plus responsables consiste à créer des catalogues ou registres publics et faciles d’accès.
+Dans la section portant sur l’environnement habilitant, nous avons montré en quoi l’intégration de critères de durabilité à des [accords-cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements) peut favoriser les marchés publics durables. Une autre façon de créer une liste de présélection des fournisseurs les plus responsables consiste à créer des catalogues ou registres publics et faciles d’accès.
 
 <div class="notion-text"></div>
 
@@ -149,7 +149,7 @@ Les fournisseurs présents dans ces catalogues et registres peuvent être sélec
 
 <div class="notion-text"></div>
 
-Pour en savoir plus sur la création de registres de fournisseurs responsables à partir des données relatives à la commande publique, consultez [la possibilité 9 dans la troisième partie](https://openspp.super.site/options-for-data-use).
+Pour en savoir plus sur la création de registres de fournisseurs responsables à partir des données relatives à la commande publique, consultez [la possibilité 9 dans la troisième partie](https://sustainable.open-contracting.org/open-data-measuring-progress/options-for-data-use).
 
 <div class="notion-text"></div>
 
