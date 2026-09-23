@@ -282,7 +282,7 @@ Algunas industrias ya cuentan con estándares para productos y principios que co
 
 <div class="notion-text"></div>
 
-Es importante señalar que existen diferentes tipos de etiquetas y certificaciones ambientales. Por ejemplo, las certificaciones que brindan una cuenta más detallada de las emisiones de carbono asociadas con un producto específico son las clasificadas como ecoetiquetas Tipo III por la Organización Internacional de Normalización (ISO). En este grupo encontramos las Declaraciones Ambientales de Producto (EPD). Véase, por ejemplo, esta EPD **\[LINK 10\]**
+Es importante señalar que existen diferentes tipos de etiquetas y certificaciones ambientales. Por ejemplo, las certificaciones que brindan una cuenta más detallada de las emisiones de carbono asociadas con un producto específico son las clasificadas como ecoetiquetas Tipo III por la Organización Internacional de Normalización (ISO). En este grupo encontramos las Declaraciones Ambientales de Producto (EPD). Véase, por ejemplo, esta EPD **[LINK 10]**
  para un producto fabricado en acero. Otros tipos de certificaciones, como las etiquetas ecológicas Tipo I, son útiles para identificar productos ambientalmente preferibles, pero no suelen proporcionar datos concretos sobre las emisiones de carbono. Del mismo modo, las certificaciones que dan fe de los esfuerzos de sostenibilidad del proveedor, como las certificaciones ISO o B Corporation, no brindan información sobre las emisiones asociadas del servicio o producto adquirido. Para obtener más información sobre las diferentes formas en que se pueden utilizar estas certificaciones dentro de SPP, consulte esta sección. (Guía para ecoetiquetas).
 
 <div class="notion-text"></div>

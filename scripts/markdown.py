@@ -57,6 +57,7 @@ PARAGRAPH = "notion-text notion-text__content notion-semantic-string"
 HEADING = "notion-heading notion-semantic-string"
 LIST_ITEM = "notion-list-item notion-semantic-string"
 LINK = "notion-link link"
+LEVELS = ("minimal", "common", "all")
 # Containers of blocks, in which Markdown is enabled.
 CONTAINERS = {"notion-column", "notion-toggle__content"}
 
@@ -110,17 +111,26 @@ def parse(text):
     return root.children
 
 
-def escape(text, start_of_line):
-    """Escape text for Markdown."""
-    text = re.sub(r"([\\`*_\[\]<>|{}$])", r"\\\1", text)
+def escape(text, start_of_line, level):
+    """
+    Escape text for Markdown, at a level of ``LEVELS``.
+
+    The lowest level that renders the same HTML is used, to avoid unnecessary backslashes.
+    """
     text = re.sub(r"&(?=#?\w+;)", "&amp;", text)
+    if level == "minimal":
+        return re.sub(r"\\|<(?=[a-zA-Z/!?])", r"\\\g<0>", text)
+    if level == "common":
+        text = re.sub(r"([\\`*_\[\]<])", r"\\\1", text)
+    else:
+        text = re.sub(r"([\\`*_\[\]<>|{}$])", r"\\\1", text)
     if start_of_line:
-        text = re.sub(r"^([#:=+-])", r"\\\1", text)
+        text = re.sub(r"^([#>:=+-])", r"\\\1", text)
         text = re.sub(r"^(\d+)([.)])", r"\1\\\2", text)
     return text
 
 
-def inline(nodes, source, start_of_line=True):
+def inline(nodes, level, start_of_line=True):
     """Return the Markdown for inline content, or None."""
     output = []
     for node in nodes:
@@ -135,7 +145,7 @@ def inline(nodes, source, start_of_line=True):
             for i, line in enumerate(lines):
                 if line.endswith("  ") and i < len(lines) - 1:
                     return None  # would be a hard line break
-                parts.append(escape(line, at_start if i == 0 else True))
+                parts.append(escape(line, at_start if i == 0 else True, level))
             # A line break is a newline, unless the previous line is empty, in which case it's a <br>.
             markdown = parts[0]
             for part in parts[1:]:
@@ -153,7 +163,7 @@ def inline(nodes, source, start_of_line=True):
                 and not node.children[0].attrs
             ):
                 node = node.children[0]
-            content = inline(node.children, source, at_start)
+            content = inline(node.children, level, at_start)
             if content is None:
                 return None
             marker = "**" if node.name == "strong" else "*"
@@ -166,7 +176,7 @@ def inline(nodes, source, start_of_line=True):
             and node.attrs.get("class") == LINK
             and set(node.attrs) <= {"href", "class", "target", "rel"}
         ):
-            content = inline(node.children, source, False)
+            content = inline(node.children, level, False)
             href = html.unescape(node.attrs.get("href", ""))
             if (
                 content is None
@@ -183,16 +193,16 @@ def inline(nodes, source, start_of_line=True):
     return "".join(output)
 
 
-def block(node, source):
+def block(node, level):
     """Return the Markdown for a paragraph, heading or list, or None."""
     if node.cls == PARAGRAPH and node.name == "p":
-        content = inline(node.children, source)
+        content = inline(node.children, level)
         if not content or content.startswith((" ", "\t")):
             return None
         # Markdown would drop a trailing newline.
         return content[:-1] + "<br>" if content.endswith("\n") else content
     if node.name in ("h1", "h2", "h3") and node.cls == HEADING:
-        content = inline(node.children, source)
+        content = inline(node.children, level)
         if (
             content
             and "\n" not in content
@@ -223,7 +233,7 @@ def block(node, source):
                 or set(item.attrs) - {"id", "class"}
             ):
                 return None
-            content = inline(item.children, source)
+            content = inline(item.children, level)
             if not content or content.startswith(" ") or "\n" in content:
                 return None
             items.append(("- " if node.name == "ul" else f"{i + 1}. ") + content)
@@ -253,10 +263,10 @@ def convert(text, indent, candidates):
         if node.name not in BLOCK:
             REPORT["unconverted containers"].append(f"inline element: {node.tag[:120]}")
             return None
-        markdown = block(node, text)
-        if markdown is not None:
+        markdowns = [block(node, level) for level in LEVELS]
+        if markdowns[-1] is not None:
             key = f"\x00{len(candidates)}\x00"
-            candidates.append((markdown, strip_ids(raw), indent(strip_ids(raw))))
+            candidates.append((markdowns, strip_ids(raw), indent(strip_ids(raw))))
             output.append(key)
         elif node.name == "div" and (
             node.cls in CONTAINERS
@@ -363,18 +373,27 @@ def to_markdown(pages, indent):
         convert(content, indent, candidates) if content.strip() else ""
         for content in pages
     ]
-    rendered = render([markdown for markdown, _, _ in candidates])
+    # Render each block's Markdown at each escaping level, and use the lowest level that renders the same HTML.
+    rendered = iter(
+        render(
+            [markdown or "" for markdowns, _, _ in candidates for markdown in markdowns]
+        )
+    )
     results = []
-    for markdown, (original_markdown, original, raw) in zip(rendered, candidates):
-        if normalize(markdown) == normalize(original):
-            results.append(original_markdown)
+    for markdowns, original, raw in candidates:
+        outputs = [next(rendered) for _ in markdowns]
+        expected = normalize(original)
+        for markdown, output in zip(markdowns, outputs):
+            if markdown is not None and normalize(output) == expected:
+                results.append(markdown)
+                break
         else:
             results.append(raw)
             REPORT["unconverted blocks"].append(
                 {
-                    "markdown": original_markdown,
-                    "expected": normalize(original),
-                    "actual": normalize(markdown),
+                    "markdown": markdowns[-1],
+                    "expected": expected,
+                    "actual": normalize(outputs[-1]),
                 }
             )
 
@@ -406,5 +425,5 @@ def to_markdown(pages, indent):
     (ROOT / ".crawl" / "markdown-report.json").write_text(
         json.dumps(REPORT, indent=1, ensure_ascii=False)
     )
-    stats = sum(r == c[0] for r, c in zip(results, candidates)), len(candidates)
+    stats = sum(r in c[0] for r, c in zip(results, candidates)), len(candidates)
     return final, stats

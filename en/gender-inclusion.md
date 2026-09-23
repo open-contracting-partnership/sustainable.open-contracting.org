@@ -30,7 +30,7 @@ To reduce the barriers women-led businesses face in public procurement markets, 
 
 ### Why do it?
 
-Governments spend a staggering US\$ 13 trillion per year on public contracts. Unfortunately, small business and women-led businesses are very under represented in this market. For example, women-led companies get only 5% of federal contracts in the US and 17% in Ukraine. When an intersectional lens is applied, factors such as race, disability, and geography further limit access to public procurement by women-led businesses.
+Governments spend a staggering US$ 13 trillion per year on public contracts. Unfortunately, small business and women-led businesses are very under represented in this market. For example, women-led companies get only 5% of federal contracts in the US and 17% in Ukraine. When an intersectional lens is applied, factors such as race, disability, and geography further limit access to public procurement by women-led businesses.
 
 <div class="notion-text"></div>
 

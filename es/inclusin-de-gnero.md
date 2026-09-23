@@ -30,7 +30,7 @@ Para reducir las barreras a las que se enfrentan las empresas dirigidas por muje
 
 ### **¿Por qué hacerlo?**
 
-Los gobiernos gastan la asombrosa cantidad de US\$ 13 billones por año en contratación pública. Desafortunadamente, las pequeñas empresas y las empresas dirigidas por mujeres están muy poco representadas en este mercado. Por ejemplo, las empresas dirigidas por mujeres obtienen solo el 5 % de los contratos federales en EE. UU. y el 17 % en Ucrania. Cuando se aplica una lente interseccional, factores como la raza, la discapacidad y la geografía limitan aún más el acceso a la contratación pública por parte de las empresas dirigidas por mujeres.
+Los gobiernos gastan la asombrosa cantidad de US$ 13 billones por año en contratación pública. Desafortunadamente, las pequeñas empresas y las empresas dirigidas por mujeres están muy poco representadas en este mercado. Por ejemplo, las empresas dirigidas por mujeres obtienen solo el 5 % de los contratos federales en EE. UU. y el 17 % en Ucrania. Cuando se aplica una lente interseccional, factores como la raza, la discapacidad y la geografía limitan aún más el acceso a la contratación pública por parte de las empresas dirigidas por mujeres.
 
 A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres luchan por prosperar en los mercados de contratación pública. Trabajamos con <em>Value for Women </em>para investigar las barreras que enfrentan las empresas dirigidas por mujeres en la contratación pública y las prácticas emergentes para la equidad y la inclusión de socios que implementan reformas de contratación abierta en América Latina, con ejemplos de Chile, República Dominicana y Buenos Aires, Argentina.
 

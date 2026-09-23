@@ -15,7 +15,7 @@ Governments like the private sector, are increasingly becoming aware of the valu
 
 Ways to create the data include mandates for companies to submit their CO2 emissions as part of the procurement process and to release this information. Governments can be more ambitious still and mandate yearly publication by companies as part of those companies’ other returns such as tax returns and financial account submissions.
 
-This of course raises concerns about the burdens on business for instance around sole traders. These can be alleviated through introducing thresholds for reporting and limiting mandatory reporting to the largest firms or larger contracts. By way of example, mandatory carbon measurement and reporting might only apply to the largest 1000 firms in a country. Mandatory carbon reporting in procurement might only apply to firms bidding on a contract with a value of more than \$10m.
+This of course raises concerns about the burdens on business for instance around sole traders. These can be alleviated through introducing thresholds for reporting and limiting mandatory reporting to the largest firms or larger contracts. By way of example, mandatory carbon measurement and reporting might only apply to the largest 1000 firms in a country. Mandatory carbon reporting in procurement might only apply to firms bidding on a contract with a value of more than $10m.
 
 Where the same financial data is required by multiple agencies, but no central repository for this data exists, it may be desirable to collect data on suppliers in a central bidders database, so that suppliers can record and post required information once and multiple agencies can use this data when assessing bids.
 

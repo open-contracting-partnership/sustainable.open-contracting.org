@@ -32,7 +32,7 @@ notion_id: "6acdc6a4546941279d00b2aa846b58b9"
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » \[traduction\].
+Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » [traduction].
 
 <div class="notion-text"></div>
 
@@ -198,7 +198,7 @@ Consultez [cette section](https://sustainable.open-contracting.org/engage-with-t
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » \[traduction\]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » \[traduction\]. L’Organisation internationale de normalisation (ISO) classe actuellement ces étiquettes en trois types : type I, type II, type III, et nous ajoutons les éco-étiquettes apparentées au type I.
+Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. L’Organisation internationale de normalisation (ISO) classe actuellement ces étiquettes en trois types : type I, type II, type III, et nous ajoutons les éco-étiquettes apparentées au type I.
 
 Les éco-étiquettes de type I et apparentées au type I divulguent généralement les critères à respecter pour recevoir la certification. Pour renforcer la durabilité des marchés publics, vous pouvez demander aux fournisseurs de respecter les critères définis par un programme de certification spécifique ou reprendre certains de ces critères dans les spécifications d’un marché.
 

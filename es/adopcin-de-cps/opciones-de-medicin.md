@@ -22,7 +22,7 @@ En un programa de hoja de cálculo, puede filtrar los registros que no tienen un
 
 <div class="notion-text"></div>
 
-Es importante que estas etiquetas puedan ser validadas. En estos casos, es importante identificar exactamente qué se entiende por PYME (pequeñas y medianas empresas) o empresas dirigidas por mujeres para dar claridad y permitir la coherencia. En el caso de las pequeñas y medianas empresas (PYME), las definiciones podrían girar en torno al número de empleados, la facturación o ambos. En el caso de empresas propiedad de mujeres, las definiciones podrían girar en torno a si la empresa es propiedad de mujeres o si las mujeres constituyen \>50% de los beneficiarios finales o \>50% de la junta.
+Es importante que estas etiquetas puedan ser validadas. En estos casos, es importante identificar exactamente qué se entiende por PYME (pequeñas y medianas empresas) o empresas dirigidas por mujeres para dar claridad y permitir la coherencia. En el caso de las pequeñas y medianas empresas (PYME), las definiciones podrían girar en torno al número de empleados, la facturación o ambos. En el caso de empresas propiedad de mujeres, las definiciones podrían girar en torno a si la empresa es propiedad de mujeres o si las mujeres constituyen >50% de los beneficiarios finales o >50% de la junta.
 
 <div class="notion-text"></div>
 

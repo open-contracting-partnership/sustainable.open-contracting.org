@@ -19,7 +19,7 @@ Growing concerns over climate change and sustainability have driven governments 
 
 <div class="notion-text"></div>
 
-A key route to deliver on those commitments is how governments make their purchases. Public procurement represents around 15% of global GDP, one in every 3 dollars that they spend, adding up to an enormous \$13 trillion of spending every year. Procurement also accounts for [15% of all greenhouse gas emissions](https://www.bcg.com/press/13january2022-green-government-procurement-practices-cut-global-emissions) each year: that is seven times as much as the entire aviation industry.
+A key route to deliver on those commitments is how governments make their purchases. Public procurement represents around 15% of global GDP, one in every 3 dollars that they spend, adding up to an enormous $13 trillion of spending every year. Procurement also accounts for [15% of all greenhouse gas emissions](https://www.bcg.com/press/13january2022-green-government-procurement-practices-cut-global-emissions) each year: that is seven times as much as the entire aviation industry.
 
 <div class="notion-text"></div>
 

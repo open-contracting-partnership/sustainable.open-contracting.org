@@ -109,17 +109,17 @@ Le Standard de données sur la commande publique ouverte [recommande](https://st
 
 En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
 
-\{
+{
 
-"parties": \[
+"parties": [
 
-\{
+{
 
 "name": "Siemens, SRL",
 
 "id": "DO-RPE-12716",
 
-"identifier": \{
+"identifier": {
 
 "scheme": "DO-RPE",
 
@@ -127,15 +127,15 @@ En suivant une approche similaire, pour [publier ses données relatives à la co
 
 "legalName": "Siemens, SRL"
 
-\},
+},
 
-"roles": \[
+"roles": [
 
 "supplier"
 
-\],
+],
 
-"address": \{
+"address": {
 
 "streetAddress": "Avenida Pedro Henriquez Ureña No. 138, Torre Empresarial Reyna II, Piso 6 , 602, La Esperilla",
 
@@ -143,29 +143,29 @@ En suivant une approche similaire, pour [publier ses données relatives à la co
 
 "region": "DISTRITO NACIONAL"
 
-\},
+},
 
-**"details": \{**
+**"details": {**
 
 **"gender": "male"**
 
-**\}**
+**}**
 
-\}
+}
 
-\]
+]
 
-\}
+}
 
 Toutefois, comme expliqué précédemment, dans certains cas, les informations concernant les entreprises ne sont pas accessibles. C’est le cas en Colombie, où seul le sexe de la personne qui représente l’entreprise est connu. Par conséquent, pour publier ces informations au format OCDS, les acheteurs publics ont créé leur propre [extension](https://apiocds.colombiacompra.gov.co/recursos/contactPoint/release-schema.json) afin de créer un champ correspondant et d’énumérer les valeurs acceptées. Voici un exemple de la présentation de ces données :
 
-\{
+{
 
 "name": "JINNA PAOLA LEoN WESSO",
 
 "id": "52838216",
 
-"identifier": \{
+"identifier": {
 
 "scheme": "COL-IDCARD",
 
@@ -173,9 +173,9 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 "legalName": "JINNA PAOLA LEoN WESSO"
 
-\},
+},
 
-"address": \{
+"address": {
 
 "streetAddress": "CL 1 70 A 06 ",
 
@@ -185,9 +185,9 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 "countryName": "COLOMBIA"
 
-\},
+},
 
-"contactPoint": \{
+"contactPoint": {
 
 "name": "JINNA PAOLA LEÓN WESSO",
 
@@ -197,9 +197,9 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 <strong>  "gender": "Femenino"</strong>
 
-\}
+}
 
-\}
+}
 
 **Collecter des données sur l’écart de rémunération entre les femmes et les hommes**
 
@@ -608,29 +608,29 @@ Grâce aux données, les acheteurs peuvent exploiter ces éléments pour oriente
 
 <div class="notion-text"></div>
 
-### 1\. Améliorer l’accès aux financements ou payer rapidement les fournisseurs du gouvernement
+### 1. Améliorer l’accès aux financements ou payer rapidement les fournisseurs du gouvernement
 
 Le déficit d’accès aux financements des entrepreneures limite leurs possibilités d’obtenir le fonds de roulement nécessaire pour prétendre à des marchés gouvernementaux.
 
 Les problèmes de retards de paiement dans les marchés publics signifient que les entreprises doivent avoir accès à des financements pour pouvoir accéder aux marchés publics.
 
-### 2\. Mettre en place des mécanismes de participation et de discussion destinés aux entreprises dirigées par des femmes
+### 2. Mettre en place des mécanismes de participation et de discussion destinés aux entreprises dirigées par des femmes
 
 Cet aspect est particulièrement important pour les groupes de femmes qui ont moins accès aux réseaux d’informations et aux réseaux formels, comme celles vivant en milieu rural ou faisant partie d’un groupe sous-représenté.
 
-### 3\. Élaborer des orientations et des stratégies de gestion du changement à l’intention des acheteurs publics afin d’atténuer les biais du processus d’évaluation
+### 3. Élaborer des orientations et des stratégies de gestion du changement à l’intention des acheteurs publics afin d’atténuer les biais du processus d’évaluation
 
 Malheureusement, les préjugés et la discrimination (conscients ou inconscients) peuvent encore polluer le processus d’évaluation. L’élaboration d’orientations et de formations à l’intention des acheteurs publics peut aider à y remédier. Explorez [cet exemple de la Colombie](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit).
 
-### 4\. Simplifier les processus de la commande publique et renforcer les capacités de suivi
+### 4. Simplifier les processus de la commande publique et renforcer les capacités de suivi
 
 Simplifiez les procédures de soumission d’offres et les exigences des appels d’offres en ne conservant que les aspects essentiels relatifs à l’objet du marché afin de rationaliser et d’uniformiser les dossiers d’appel d’offres et les procédures de présélection. Divisez les marchés en petits lots plus faciles à gérer pour favoriser la participation de petites entreprises. Formez des entreprises dirigées par des femmes sur le processus et proposez-leur un service d’assistance.
 
-### 5\. Limiter les frais et les possibilités de corruption dans les processus de la commande publique
+### 5. Limiter les frais et les possibilités de corruption dans les processus de la commande publique
 
 Répondre à un appel d’offres public peut être coûteux. L’élimination ou la réduction des frais d’accès aux dossiers d’appel d’offres, des exigences concernant les garanties de soumission et des frais de soumission peuvent réduire le coût. De la même manière, si le processus nécessite que les entreprises obtiennent des certifications, cachets et signatures de diverses administrations, le processus sera à la fois chronophage et propice à la corruption. La numérisation de l’enregistrement des soumissionnaires et de la soumission des offres peut supprimer ces obstacles.
 
-### 6\. Renforcer la transparence
+### 6. Renforcer la transparence
 
 Voir, c’est croire. Si des entreprises dirigées par des femmes constatent que de petites entreprises comme la leur répondent aux appels d’offres publics et se voient attribuer des marchés publics, elles auront davantage confiance concernant le fait que les conditions de concurrence sont équitables et qu’elles seront évaluées de façon juste.
 
