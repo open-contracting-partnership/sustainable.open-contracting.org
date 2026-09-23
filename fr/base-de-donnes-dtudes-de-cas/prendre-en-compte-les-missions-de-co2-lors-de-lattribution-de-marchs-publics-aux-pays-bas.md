@@ -20,8 +20,6 @@ Les organisations peuvent obtenir un certificat correspondant à leur échelon q
 
 Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C propose un prix initial plus élevé, l’application de la réduction liée à ses émissions de CO2 (échelon 4) lui fait remporter le marché. En adoptant cette approche pour prendre en compte les émissions de carbone lors de la passation de marchés, il est possible de sélectionner des fournisseurs responsables même si le marché peut uniquement être attribué en fonction du prix.
 
-<div class="notion-text"></div>
-
 <div class="notion-table__wrapper">
   <table class="notion-table col-header">
     <tbody>

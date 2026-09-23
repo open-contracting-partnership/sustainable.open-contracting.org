@@ -30,11 +30,5 @@ notion_id: "e534e0eaf267468b8ed00478f8a41017"
 
 <h2 class="notion-heading notion-semantic-string"></h2>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

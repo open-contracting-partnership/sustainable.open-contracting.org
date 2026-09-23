@@ -10,7 +10,6 @@ notion_id: "ac0ea2f84d304498b926d5045858734f"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-fr.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
@@ -18,17 +17,11 @@ notion_id: "ac0ea2f84d304498b926d5045858734f"
 
 Il existe de nombreuses façons de définir des priorités en ce qui concerne la mise en place de marchés publics durables et ouverts. Par exemple, il peut s’agir de traiter les enjeux environnementaux de première importance, d’axer le travail sur les secteurs ou catégories dans lesquels des biens et services écologiques sont immédiatement disponibles, de programmes publics dans lesquels les acheteurs et la société civile comprennent pourquoi l’utilisation de produits écologiques est nécessaire, ou encore de projets ou d’événements de premier plan où les marchés publics durables peuvent être utilisés pour sensibiliser et susciter l’intérêt du public, comme des événements sportifs, des conférences et la modernisation de bâtiments gouvernementaux importants.
 
-<div class="notion-text"></div>
-
 Les pages 28 à 32 du [manuel de la Banque mondiale sur les marchés publics écologiques](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) fournissent un bon aperçu des différentes approches permettant de définir les catégories de livrables prioritaires. [L’outil de définition des achats prioritaires](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) conçu par le Programme des Nations Unies pour l’environnement (PNUE) peut aussi vous aider dans cette tâche.
-
-<div class="notion-text"></div>
 
 {% callout green /assets/images/Pin_green.png %}
 *Dans cette section, nous présentons les différents facteurs pouvant être pris en compte pour définir les catégories prioritaires en vue de la mise en place des marchés publics durables.*
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout default /assets/images/7_areas_open_SPP2.png %}
 **Justifier vos choix de catégories prioritaires.**
@@ -37,33 +30,23 @@ Bien qu’il existe de nombreuses façons de définir des catégories prioritair
  clair que nous recommandons à la fin de cette section.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1920" height="1080" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Prioritisation-Diagram-fr.png"/></div>
 
 ## **Examiner une liste préliminaire de catégories de marchés**
 
 La première étape consiste à définir les priorités en collaboration avec les parties prenantes afin de dresser une liste des catégories qui seront analysées. Ces catégories doivent provenir du vocabulaire officiel normalisé que les fonctionnaires utilisent dans le pays pour classer les marchés de façon cohérente. Lors de la mise en place de marchés publics durables et ouverts, il est important d’utiliser une classification normalisée des catégories de marchés pour que les entreprises et les acheteurs puissent trouver et analyser les avis de marchés, mais également pour garantir que la mise en œuvre des politiques de durabilité, les pratiques et la collecte des données pour le suivi soient cohérentes.
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Globe_green.png %}
 Aucun système de classification des catégories de marchés n’a été adopté à l’échelle mondiale, on trouve donc des systèmes de classification différents à travers le monde. Par exemple, en Europe, les codes du [Vocabulaire commun pour les marchés publics](https://simap.ted.europa.eu/web/simap/cpv) sont utilisés, tandis que certains pays utilisent la [Classification normalisée des produits et services des Nations Unies](https://www.unspsc.org/). Il est essentiel de repérer le système de classification utilisé et de veiller à ce que les pratiques de passation des marchés publics durables et ouverts correspondent aux catégories existantes.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## **Repérer les catégories de marchés à fort potentiel**
 
 Une façon logique de définir les catégories de marchés prioritaires est de repérer celles pour lesquelles l’adoption de pratiques durables peut avoir les retombées les plus significatives. Pour cela, vous devez analyser les objets de vos acquisitions et leurs effets.
 
-<div class="notion-text"></div>
-
 **Exploiter les données pour dresser un état des lieux des dépenses liées aux catégories et aux marchés**
 
 Pour définir les catégories de marchés prioritaires, il est d’abord important d’avoir une bonne vue d’ensemble des dépenses liées aux catégories et aux marchés. Les catégories de marchés préliminaires doivent être triées en fonction des éléments suivants :
-
-<div class="notion-text"></div>
 
 {% toggle **Valeur** %}
 
@@ -77,19 +60,13 @@ Pour chaque catégorie de marchés, il est nécessaire d’évaluer la fréquenc
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 *Le processus de collecte de données dépendra du fonctionnement des processus de passation de marchés au sein de votre organisation, qu’ils soient centralisés, décentralisés ou divisés par catégories de marchés. La mise en place de processus électroniques de passation de marchés contribuera à faciliter le processus. En l’absence de processus électroniques, des enquêtes et des questionnaires peuvent être distribués pour collecter les informations nécessaires.*
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ***Évaluer les incidences sociales, environnementales et économiques de chaque catégorie de marchés***
 
 *Avant de choisir les catégories de marchés prioritaires, il est indispensable de prendre en compte l’incidence de chaque catégorie sur les aspects essentiels de la durabilité, à savoir les sphères environnementale, sociale et économique.* 
-
-<div class="notion-text"></div>
 
 {% toggle **Incidence environnementale** %}
 
@@ -97,15 +74,11 @@ Chaque catégorie peut être classée en fonction de différents facteurs enviro
 
 Par exemple, comme nous l’indiquons dans la section consacrée à certains secteurs, l’incidence environnementale du [secteur de la construction](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector) concerne principalement les émissions de CO2 et des effets potentiels sur les matières premières, la pollution et la biodiversité. Pour sa part, le [secteur des technologies de l’information et des communications](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector) est souvent associé aux déchets, aux substances dangereuses et à l’extraction de matières premières.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Incidence sociale** %}
 
 Chaque catégorie peut être classée en fonction de son incidence dans des domaines tels que la santé de communautés, la sécurité sur le lieu de travail ou les risques professionnels dans la chaîne d’approvisionnement. Par exemple, une préoccupation majeure liée aux projets de construction porte sur la sécurité sur le lieu de travail, tandis que l’acquisition de produits issus des technologies de l’information et des communications est fortement associée à des risques du travail dans les chaînes d’approvisionnement.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -113,29 +86,19 @@ Chaque catégorie peut être classée en fonction de son incidence dans des doma
 
 L’incidence économique d’une catégorie de marchés dépendra largement de l’offre du marché local. Pour évaluer l’incidence économique d’une catégorie de marchés, des données relatives au contexte peuvent être nécessaires, notamment concernant le nombre de petites et moyennes entreprises locales ou de membres de la population locale travaillant dans le secteur concerné.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 {% callout green /assets/images/Pin_green.png %}
 Afin d’évaluer l’incidence de ces catégories, **vous devez également réfléchir quant à leur pertinence du point de vue stratégique.** Cela signifie, par exemple, que si un pays ou une organisation décide que les marchés publics durables et ouverts ont pour [objectif](https://sustainable.open-contracting.org/get-started/identify-your-goals) de l’aider à atteindre zéro émission nette, les catégories de marchés susceptibles d’entraîner une réduction des émissions de CO2 si elles font l’objet de marchés publics durables et ouverts doivent être définies comme prioritaires. **La mise en place de marchés publics durables et ouverts dans les catégories ayant une plus grande importance stratégique peut recevoir davantage d’appui de la part des parties prenantes, ce qui peut produire de meilleurs résultats.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Évaluer la facilité de mise en place** 
 
 En plus de repérer les catégories dans lesquelles des marchés publics durables et ouverts auraient un fort potentiel, vous devez également prendre en compte les ressources existantes qui peuvent faciliter leur mise en place.
 
-<div class="notion-text"></div>
-
 **Recenser les normes de durabilité et les éco-étiquettes**
 
 Les programmes de certification peuvent faciliter la mise en place de marchés publics durables et ouverts. Par exemple, des éco-étiquettes crédibles peuvent aider à recenser les solutions durables présentes sur un marché qui peuvent être achetées en ce qui concerne les catégories prioritaires. *Vous pouvez évaluer la crédibilité d’un programme de certification en examinant ses mécanismes d’adoption, de gouvernance, d’audit et de contrôle.*
-
-<div class="notion-text"></div>
 
 {% toggle **Disponibilité de normes de durabilité** %}
 
@@ -148,19 +111,13 @@ La mise en place de marchés publics plus durables suppose de connaître les nor
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 **Adapter les exigences de durabilité aux capacités du marché**
 
 Au moment de définir des catégories de marchés prioritaires, la capacité des acteurs du marché à se mettre en conformité avec les normes de durabilité est une variable importante qu’il convient de prendre en compte. Pour évaluer cette variable, des données peuvent être collectées concernant les éléments suivants :
 
-<div class="notion-text"></div>
-
 {% toggle **Les éco-étiquettes présentes sur le marché** %}
 
 Afin d’évaluer les capacités du marché, il peut être utile de déterminer le nombre d’entreprises locales qui vendent des produits certifiés par une éco-étiquette. Cela peut conduire à privilégier les critères associés à une éco-étiquette bien implantée afin que le gouvernement achète des produits concernés par cette éco-étiquette. Si une éco-étiquette nationale existe, les produits qu’elle couvre doivent être des catégories de marchés prioritaires.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -170,32 +127,22 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 *Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](https://sustainable.open-contracting.org/engage-with-the-market)*.*
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 **Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité** 
 
 Les politiques et réglementations sur la durabilité en vigueur doivent être considérées comme des variables pour définir des catégories de marchés prioritaires et il est nécessaire de privilégier celles qui possèdent déjà un cadre propice à la mise en place de marchés publics durables. La législation a été examinée durant le processus d’analyse de [l’environnement habilitant](https://sustainable.open-contracting.org/get-started/establish-a-framework) et peut inclure, par exemple, des règlements sur la gestion des déchets toxiques ou des conventions fondamentales de l’Organisation internationale du Travail.
-
-<div class="notion-text"></div>
 
 ## **Diffusion et présentation de votre démarche et vos catégories de marchés prioritaires**
 
 Comme expliqué au début de cette section, une fois que vous avez décidé de concentrer vos efforts en matière de marchés publics durables ouverts sur certaines catégories, vous avez intérêt à communiquer de façon ouverte les raisons qui ont guidé vos choix. Pour cela, vous pouvez élaborer un [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
  et devez rappeler ces raisons dans les contrats relevant des catégories de marchés prioritaires.
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Warn_green_2.png %}
 **Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](https://sustainable.open-contracting.org/get-started/identify-your-goals) relatifs aux catégories prioritaires et de réexaminer vos priorités.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
@@ -203,8 +150,6 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 - [Programme des Nations Unies sur l’environnement, ](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)[*Instructions for the Prioritisation Exercise.*](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
 - [Groupe de la Banque mondiale, ](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Étude de cas** 
@@ -216,9 +161,5 @@ La première étape a consisté à dresser une liste préliminaire de catégorie
 À partir de cette méthode de notation, quatre types de produits ont été sélectionnés comme des catégories prioritaires qui concentreront les efforts en matière de marchés publics durables : la papeterie de bureau, les ordinateurs portables, les lampes fluorescentes et les éclairages à LED.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

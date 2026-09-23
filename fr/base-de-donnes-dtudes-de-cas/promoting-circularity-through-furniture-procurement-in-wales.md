@@ -18,18 +18,10 @@ Public Health Wales (PHW) is the national public health agency in Wales. In 2016
 
 <br>**PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
 
-<div class="notion-text"></div>
-
 In the end, out of the 2.563 items used in the new office 45% of items were re-used, 49% were remanufactured, and only 6% of items were sourced from new stock. 
 
 <br>In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

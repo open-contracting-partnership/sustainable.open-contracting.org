@@ -28,6 +28,7 @@ SUPER_ASSET = re.compile(r"https://assets\.super\.so/")
 MAIN = re.compile(r'<main id="([^"]*)" class="([^"]*)">(.*)</main>', re.S)
 STYLE = re.compile(r"<style>(.*?)</style>", re.S)
 HREF = re.compile(r'href="([^"]*)"')
+SPACER = re.compile(r'<div (?:id="[^"]*" )?class="notion-text"></div>')
 # Domains on which the sites' pages have been served, including misspellings in links.
 LINK_HOSTS = {
     **SITES,
@@ -414,6 +415,10 @@ def main():
                     + normalized[len(sidebars[lang]) :]
                     + content[start + len(column) :]
                 )
+        # Remove empty paragraphs, which Notion uses for spacing (the sidebar's separate its groups of links).
+        content = SPACER.sub("", content)
+        # Join the bulleted lists that the empty paragraphs separated (Markdown would join them as a "loose" list).
+        content = content.replace('</ul><ul class="notion-bulleted-list">', "")
         contents.append(content)
 
     markdowns, (converted, candidates, tagged) = markdown.to_markdown(contents, indent)

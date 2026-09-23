@@ -20,11 +20,5 @@ It also now incorporates a specific section on Sustainable Public Procurement (S
 <br>The expertise center includes information regarding best practice exchange meetings amongst procurement practitioners. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

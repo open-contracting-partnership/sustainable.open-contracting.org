@@ -17,8 +17,6 @@ notion_id: "d8c00bb67a29407c8354c3d1b9cbcd58"
 
 El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta)*.* En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 Un enfoque de contratación que puede ser muy útil al comenzar a implementar prácticas sostenibles en la contratación pública es dividir los proyectos en **fases piloto y de escala.** Esto puede ser especialmente útil para probar suposiciones arriesgadas e inciertas. Durante la fase piloto, los datos se deben capturar claramente y se deben alimentar en la fase de escalera.
 {% endcallout %}
@@ -27,8 +25,6 @@ Un enfoque de contratación que puede ser muy útil al comenzar a implementar pr
 <strong>Contratación basada en resultados</strong></h2>
 
 La contratación basada en resultados puede ser otra forma de comenzar a implementar una CPS. La aplicación de un enfoque de contratación basado en resultados consiste en enmarcar las necesidades de compra en términos del resultado que se debe lograr, en lugar de cómo lograr ese resultado, lo que permite que el mercado de proveedores ofrezca diferentes soluciones.
-
-<div class="notion-text"></div>
 
 {% toggle **Beneficios de utilizar contrataciones basadas en resultados**   %}
 
@@ -62,19 +58,13 @@ Los enfoques de contratación basados en resultados pueden ser más útiles cuan
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 Para mayor orientación y ejemplos de cómo dar forma a los enfoques de contratación para alcanzar resultados de sostenibilidad, recommendamos hacer referencia a [*Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting*](https://govlab.hks.harvard.edu/results-driven-contracting)[”](https://govlab.hks.harvard.edu/results-driven-contracting). Para un estudio de caso de cómo diseñar un proceso de contratación basado en alcanzar los resltados deseados, ver el ejemplo de Wichita Ground Maintenance al final de esta sección
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Procesos de licitación en dos etapas**
 
 El uso de procedimientos de contratación en dos etapas implica la posibilidad de establecer un diálogo continuo y divulgar información abiertamente entre proveedores y profesionales de la contratación.
-
-<div class="notion-text"></div>
 
 {% toggle **Beneficios de los procesos de licitación en dos etapas** %}
 
@@ -85,8 +75,6 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - Incentiva la sugerencia de soluciones innovadoras por parte de los proveedores.
 - Aumenta las posibilidades de encontrar la mejor solución para las necesidades identificadas.
 - Permite a las PYMES un punto de entrada para trabajar con el gobierno.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -106,7 +94,6 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
       <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
       <div class="notion-callout__content"><span class="notion-semantic-string">Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.</span></div>
     </div>
-    <div class="notion-text"></div>
   </div>
 </div>
 
@@ -116,18 +103,12 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 
 El uso de procesos de licitación de dos etapas puede ser especialmente útil en proyectos complejos como la contratación de obras de construcción. También puede ser útil cuando existen estándares de sostenibilidad de la industria menos establecidos para un servicio, producto o trabajo específico.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 ## **Contratación conjunta**
 
 Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS <em> </em>
  es la contratación conjunta. Este enfoque se refiere a la colaboración de múltiples autoridades públicas en una contratación específica. Esta colaboración puede incluir hacer pruebas conjuntas del mercado en las etapas iniciales y vincularse al comienzo de un proceso de contratación, o licitar o contratar conjuntamente con un proveedor durante el proceso.
-
-<div class="notion-text"></div>
 
 {% toggle **Beneficios de utilizar la contratación conjunta** %}
 
@@ -137,8 +118,6 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 - **Hacer menos contrataciones duplicadas, lo que permite a las autoridades públicas ahorrar el uso innecesario de recursos.**
 - **Estandarizar y alinear las prácticas de sustentabilidad.**
 - **Aumentar el número de proveedores interesados. Ofrece la oportunidad de obtener negocios de más de una autoridad; es un menor esfuerzo para responder a una licitación lo que puede conducir a más negocios**
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -150,8 +129,6 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 - **Paso 4:** Relaciónense junto con el mercado.
 - **Paso 5:** Considere el uso de contratos individuales (colabore para compartir las mejores prácticas al evaluar proveedores, o establezca un contrato conjunto (proceso de licitación conjunto, incluida la evaluación de proveedores).
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **¿Cuándo puede ser más útil?** %}
@@ -161,21 +138,13 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS*.* Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la<strong> </strong>selección de proveedores más sostenibles.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 Para obtener más orientación sobre los enfoques de contratación que pueden ser útiles al implementar CPS Abierta en categorías de contratación específicas, consulte las secciones sobre Construcción y TIC.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**
@@ -183,25 +152,15 @@ Para obtener más orientación sobre los enfoques de contratación que pueden se
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Estudio de caso** 
 
-<div class="notion-text"></div>
-
 **En 2015, Wichita, la ciudad más grande del estado de Kansas, EE. UU.,** se propuso mejorar la calidad de los parques de la ciudad y reducir los costos. En ese momento, los montos de las ofertas de mantenimiento de los terrenos aumentaron un 30 por ciento con respecto al año anterior, los contratistas no cumplían con los estándares de calidad y los funcionarios de la ciudad recibían quejas sobre la altura del césped en los parques infantiles y campos de juego.
 
-<div class="notion-text"></div>
-
 Con la ayuda del Laboratorio de Desempeño del Gobierno de Harvard, **la ciudad creó una herramienta de recopilación de datos que los inspectores podrían usar en el campo para rastrear el desempeño en indicadores clave (incluida la altura del césped, la prevalencia de malezas y los daños a la propiedad).** Luego llevaron a cabo una **contratación competitiva en la que, por primera vez, la Ciudad consideró factores como el desempeño anterior y la capacidad de informar sobre métricas clave como parte de la selección de proveedores**. El Departamento de Compras también dividió grandes áreas de terreno en parcelas más pequeñas y se acercó a los proveedores que no habían ofertado previamente por los contratos de la Ciudad. **Los nuevos contratos reemplazaron los daños punitivos por desempeño deficiente con un bono de desempeño del 5 por ciento para incentivar un desempeño sólido**. Los proveedores enviaron facturas con fotografías del trabajo terminado. Esto eliminó la necesidad de que el personal de la ciudad realizara inspecciones en el lugar.
-
-<div class="notion-text"></div>
 
 **Con este enfoque, la ciudad impulsó la competencia general (el número de proveedores que enviaron respuestas aumentó en un 38 por ciento) sin aumentar los costos. Lo que es más importante, las quejas al administrador de la ciudad sobre el mantenimiento de los terrenos se redujeron sustancialmente.**
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

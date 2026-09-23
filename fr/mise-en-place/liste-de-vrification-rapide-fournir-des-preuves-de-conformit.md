@@ -5,18 +5,12 @@ description: "Compliance Trail Checklist"
 icon: "/assets/images/icons_D_Green5.png"
 notion_id: "d679f51442ce457abbd9dcdc1a3db291"
 ---
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green4.png %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](https://sustainable.open-contracting.org/get-started/establish-a-framework)
  in the [Open SPP toolkit.](https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 **Compliance Trail Checklist**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -117,13 +111,9 @@ The following checklist has been created for national authorities to easily iden
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green8.png %}
 Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local leve**l, and any international frameworks that might have served as guidance.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
@@ -133,6 +123,4 @@ Remember that, although you will find most of these regulations at the national 
     <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/0c64054d-cb5d-4729-88d2-6080f07f7abc.pdf"></iframe>
   </div>
 </div>
-
-<div class="notion-text"></div>
 {% endcallout %}

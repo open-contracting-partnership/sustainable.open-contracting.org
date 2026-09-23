@@ -14,13 +14,5 @@ notion_id: "2fdb29f54cc54e1cb91f38fb45bfd5ac"
 
 <h2 class="notion-heading notion-semantic-string"></h2>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

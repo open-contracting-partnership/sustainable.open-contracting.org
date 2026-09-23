@@ -17,13 +17,9 @@ notion_id: "3578aad1ed6c48608e9804192cadf910"
 
 Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 Dans cette section, nous fournissons des informations concernant l’importance d’interagir avec les acteurs du marché ainsi que des orientations concernant les différentes possibilités d’interaction lors des différentes étapes du processus de passation des marchés publics durables et ouverts.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## **Pourquoi interagir avec les acteurs du marché ?**
 
@@ -31,35 +27,20 @@ L’interaction avec les acteurs du marché lors de la mise en place de marchés
 
 - <strong>Évaluer les capacités du marché
   </strong>Au moment de choisir les catégories de marchés prioritaires ou d’examiner les critères de durabilité qui doivent être intégrés aux marchés publics, il est essentiel d’évaluer les capacités du marché. Une bonne évaluation des capacités du marché permet d’assurer que les marchés publics durables et ouverts tirent parti du travail des entreprises locales en matière de durabilité tout en promouvant l’innovation et le renforcement progressif des capacités du marché.
-
-<div class="notion-text"></div>
-
 - <strong>Maximiser le nombre de soumissionnaires dans le cadre des marchés publics
   </strong>L’interaction avec les acteurs du marché vise à promouvoir les appels d’offres, ce qui peut entraîner une hausse du nombre de soumissionnaires. La possibilité de choisir parmi différents fournisseurs potentiels, notamment ceux qui ne s’intéressaient pas aux marchés publics par le passé, augmente les probabilités de trouver la solution la plus adéquate pour répondre aux besoins recensés.
-
-<div class="notion-text"></div>
-
 - <strong>Renforcer la confiance et la transparence
   </strong>Les interactions avec les acteurs du marché permettent aux pouvoirs publics de divulguer de façon transparente leurs plans de passation de marchés aux fournisseurs, leurs objectifs en matière de durabilité et les motivations qui sont à l’origine de ces objectifs, favorisant ainsi l’établissement d’un rapport de confiance avec les parties prenantes.
-
-<div class="notion-text"></div>
-
 - <strong>Collecter des avis des acteurs du marché concernant votre approche
   </strong>Parfois, des décisions concernant la structure de certains processus de passation de marchés ou l’intégration de certains critères de durabilité peuvent entraver la participation de fournisseurs potentiels ou aller à l’encontre des pratiques du marché. Le fait de sonder l’opinion des fournisseurs peut aider à rectifier cela en assurant que des processus de passation de marchés sont planifiés de façon à maximiser les probabilités de choisir la meilleure solution possible.
-
-<div class="notion-text"></div>
 
 {% callout red /assets/images/Icons_Red6.png %}
 L’exemple du [système « ](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)[*Ecobici*](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)[ » de la ville de Mexico](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city) montre bien comment les interactions avec les acteurs du marché peuvent aider à définir votre approche des marchés publics et améliorer leurs résultats. Consultez [ce rapport](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) du Chicago Council on Global Affairs pour en savoir plus sur la façon dont l’interaction ouverte avec les acteurs du marché peut favoriser les marchés publics durables.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Quelle est la meilleure façon d’interagir avec les acteurs du marché ?**
 
 Les méthodes d’interaction peuvent varier en fonction de l’état d’avancement du processus de passation des marchés publics durables et ouverts.
-
-<div class="notion-text"></div>
 
 {% toggle **Interagir durant l’élaboration de votre plan d’action sur les marchés publics durables** %}
 
@@ -71,8 +52,6 @@ Il est possible d’interagir avec les acteurs du marché à chaque étape de la
 - Des sondages et questionnaires en ligne ou distribués lors d’événement ou d’ateliers visant à évaluer les capacités du marché ou à collecter des avis concernant les approches des marchés publics durables ;
 - Des interactions avec les groupes prioritaires des marchés publics durables et ouverts, comme les petites et moyennes entreprises (PME), les entreprises dirigées par des femmes ou des membres de minorités, visant à définir les obstacles qu’ils peuvent rencontrer pour accéder aux marchés publics. Pour définir ces obstacles, il peut aussi être utile d’interagir avec la société civile et des organisations à but non lucratif. Les connaissances ainsi collectées peuvent guider la conception d’approches des marchés publics durables plus accessibles ;
 - Des communications de vos projets à venir qui permettront aux fournisseurs d’analyser vos besoins à long terme et les exigences éventuelles en matière de durabilité. Ils pourront ainsi mieux se préparer afin de répondre aux appels d’offres après leur publication. Cela peut être particulièrement utile pour renforcer la participation des PME, qui tendent à avoir moins de ressources pour accéder aux marchés publics.
-
-<div class="notion-text"></div>
 
 {% callout red /assets/images/Idea_Red.png %}
 *L’interaction avec les acteurs du marché lors de l’élaboration de votre premier plan d’action sur les marchés publics durables est essentielle pour diffuser et communiquer tout changement stratégique majeur, inclure les fournisseurs dans votre démarche et prendre conscience des possibilités.*
@@ -93,12 +72,8 @@ Les interactions avec les acteurs du marché durant la phase de planification d�
 {% callout red /assets/images/Idea_Red.png %}
 Afin d’interagir avec les acteurs du marché durant la phase de planification, vous pouvez organiser des événements avec les fournisseurs visant à présenter vos objectifs en matière de durabilité. On parle parfois de journées consacrées aux questions environnementales, sociales et de gouvernance (ESG), qui sont l’occasion de discuter de la façon dont les fournisseurs peuvent répondre aux priorités en matière de durabilité. Les renseignements collectés lors de ces événements guident ensuite les processus de passation de marchés.
 
-<div class="notion-text"></div>
-
 Notez que le travail du secteur privé en matière de durabilité est souvent divisé entre les trois domaines ESG au lieu de mettre l’accent sur les [trois piliers du développement durable](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) (économie, société et environnement).
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -113,10 +88,6 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
@@ -124,25 +95,15 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 **Études de cas**
 
 Après dix ans d’exploitation, **la ville de Mexico a décidé d’étendre son réseau écologique et abordable de vélos en libre-service à de nouveaux quartiers et d’améliorer la conception et la technologie utilisée moyennant un coût raisonnable.** La ville avait besoin de promouvoir la compétitivité d’un marché concentré, de se renseigner sur les dernières technologies et innovations concernant les vélos en libre-service et de fournir un service de meilleure qualité sur une zone plus vaste pour un budget identique, voire inférieur.
 
-<div class="notion-text"></div>
-
 La ville de Mexico a tiré parti des pratiques de la commande publique ouverte pour élaborer un processus transparent de passation de marchés afin d’acquérir un réseau de vélos en libre-service moderne, plus vaste et convivial. La ville a publié une demande d’information pour la première fois afin de recueillir les contributions de la population concernant la conception de ce service, organisé des discussions avec les fournisseurs et publié ses conclusions sur un site convivial. **Cette approche a permis à l’équipe et à la communauté de fournisseurs de prendre des décisions fondées sur les données, de renforcer le rapport de confiance et d’atteindre leur objectif.**
 
-<div class="notion-text"></div>
-
 Le nouveau contrat conclu par la ville a permis d’étendre ce service, passant de 6 500 à 9 300 vélos et de 480 à 687 stations, et de moderniser la technologie et la conception du réseau pour un meilleur confort d’utilisation, le tout pour environ la moitié du coût d’exploitation de l’ancien réseau. D’autres départements ont commencé à reprendre les méthodes du réseau « Ecobici » dans le cadre de projets stratégiques importants du service public et la ville a amélioré son système électronique de passation de marchés afin d’aider d’autres organismes à appliquer **l’approche « Ecobici » pour engager des discussions avec les fournisseurs, la population et les organisations de la société civile dès les premières phases des processus de passation des marchés publics de première importance. Pour en savoir plus, consultez** [**cette étude de cas**](https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/)**.**
-
-<div class="notion-text"></div>
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

@@ -12,13 +12,7 @@ notion_id: "7c9ecf8de3e147b1b6ba04e278ed18a4"
 {% endcolumn %}
 {% column 0.8722 %}
 
-<div class="notion-text"></div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

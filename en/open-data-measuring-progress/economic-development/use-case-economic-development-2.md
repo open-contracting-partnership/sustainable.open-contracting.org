@@ -207,8 +207,6 @@ As part of contract publishing, assign a pre-defined category.</span></div>
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ## Goals for implementers
 
 Better data on the way that contracts are marshalled to deliver economic growth can meet multiple goals. In the first instance, governments need to be able to report on their work:
@@ -267,8 +265,6 @@ There are a wide range of analysis options in this area, we have already conside
 
 Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver greater productivity and growth. If published openly, suppliers can use the data to make positive changes to their own organisations and to deliver improved bids for future contracts.
 
-<div class="notion-text"></div>
-
 KPIs
 
 We have outlined the following KPIs that could be associated with an economic development SPP initiative.
@@ -292,5 +288,3 @@ The types of new jobs created by a contract
 Social enterprise status of winning suppliers
 
 We would advocate measuring economic impacts over time, using procurement to deliver economic development is a long-term project and a consistent source of data for the long-term is essential.
-
-<div class="notion-text"></div>

@@ -17,13 +17,9 @@ notion_id: "4d456dd7a8764e15b628886de013e8ed"
 
 The application of Open SPP when procuring ICT equipment can be guided by the existence of certain compliance frameworks that address some of the sustainability challenges in the sector. These can include:
 
-<div class="notion-text"></div>
-
 {% toggle **Ratification of International Labour Organisation (ILO) Conventions** %}
 
 Ratification of the core eight ILO conventions can help to guide what information can be requested of suppliers regarding labor rights in the supply chains. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -32,8 +28,6 @@ Ratification of the core eight ILO conventions can help to guide what informatio
 Many countries have specific regulations regarding the management of electronic and electrical waste (e-waste). For example, Mexico, which is the third global producer of e-waste, has [recently amended](https://comunicacionnoticias.diputados.gob.mx/comunicacion/index.php/boletines/aprueban-reforma-para-regular-manejo-y-disposicion-final-de-residuos-de-aparatos-electricos-y-electronicos#gsc.tab=0) their waste management regulatory framework to include specific provisions regarding e-waste management. These regulations often include provisions regarding hazardous waste management (batteries, etc.). This framework can be useful to determine the obligations regarding waste management that should be clearly communicated to the supplier and included on the contract. 
 
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 ## Look for existing sustainability standards
 
@@ -53,23 +47,11 @@ Energy Star is a Type I-like ecolabel which sets a maximum level of energy consu
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 Aside from these two, other ecolabels which cover ICT products include the [**Taiwan Green Mark**](https://greenliving.epa.gov.tw/newPublic/Eng/GreenMark/Criteria)**, the** [**Korea Eco Label**](http://el.keiti.re.kr/enservice/enpage.do?mMenu=2&sMenu=1)**, the Blue Angel ecolabel for** [printers](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20219-202101-en%20Criteria-V3-2021-11-10.pdf). The EU has also developed sustainability criteria for the procurement of [“Imaging equipment, consumables and print services”](https://ec.europa.eu/environment/gpp/pdf/20032020_EU_GPP_criteria_for_imaging_equipment_2020.pdf) and of [“Computers, monitors, tablets and smartphones”](https://ec.europa.eu/environment/gpp/pdf/210309_EU%20GPP%20criteria%20computers.pdf). 
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 The criteria included in the above mentioned sources is extensive and covers many aspects of ICT equipment. Based on this criteria, and the identified sustainability concerns of the ICT sector, in the [following section](/selecting-your-data) we have selected some of the key factors where the application of Open SPP can have the biggest impact.
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

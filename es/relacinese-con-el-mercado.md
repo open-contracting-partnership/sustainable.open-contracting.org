@@ -17,21 +17,13 @@ notion_id: "fa393ae5a1e3497d89aadb46b3a35f43"
 
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 **En esta sección brindamos** información sobre la importancia de comprometerse con el mercado **y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta**.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **¿Por qué relacionarse con el mercado?**
 
-<div class="notion-text"></div>
-
 Las prácticas de relación con el mercado en el contexto de la implementación de una CPS Abierta normalmente se llevan a cabo con el propósito de:
-
-<div class="notion-text"></div>
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Evaluación de la capacidad del mercado</strong></li>
@@ -44,20 +36,14 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
   <p class="notion-text notion-text__content notion-semantic-string">En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.</p>
 </ul>
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Icons_Red6.png %}
 **Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.**
  Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales*.(The Chicago Council on Global Affairs.)*
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **¿Cómo puede relacionarse con el mercado de una manera más efectiva?**
 
 Las prácticas de participación en el mercado pueden variar según las diferentes etapas del proceso de una CPS Abierta.
-
-<div class="notion-text"></div>
 
 {% toggle ***Involucrarse durante la preparación de su Plan de Acción CPS*** %}
 
@@ -69,8 +55,6 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 - **Encuestas y cuestionario**s distribuidos en línea, o en eventos y talleres organizados, para evaluar la capacidad del mercado o recopilar comentarios sobre el enfoque de CPS.
 - **Involucrarse con grupos prioritarios de CPS Abiertas**, como PYME, empresas propiedad de mujeres o propiedad de minorías, para comprender las barreras que podrían enfrentar al acceder a oportunidades de contratación pública. Para comprender estas barreras, también puede ser útil comprometerse con la sociedad civil y las organizaciones sin fines de lucro. Los conocimientos recopilados se pueden utilizar para diseñar enfoques de CPS más accesibles.
 - **Comunicar su cartera de proyectos** permitirá a los diferentes proveedores comprender mejor sus necesidades a largo plazo y los posibles requisitos de sostenibilidad. Esto les permitirá prepararse mejor para responder a las oportunidades de contrato a medida que surjan. Hacer esto puede ser particularmente útil para ampliar la participación entre las PYME, que tienden a tener menos recursos de contratación.
-
-<div class="notion-text"></div>
 
 {% callout red /assets/images/Idea_Red.png %}
 **Relacionarse con el mercado de proveedores** al diseñar su primer Plan de Acción de APP **es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible**.
@@ -95,7 +79,6 @@ Una forma de relacionarse con el mercado durante la fase de planificación es **
   <p class="notion-text__content notion-semantic-string">Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).<strong>Conectarse durante la contratación</strong></p>
   <div class="notion-text__children">
     <p class="notion-text notion-text__content notion-semantic-string">Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:</p>
-    <div class="notion-text"></div>
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string"><strong>Use a Prior Information Notice (PIN) or a notice of engagement to the market.</strong></li>
       <p class="notion-text notion-text__content notion-semantic-string">PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</p>
@@ -129,8 +112,6 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**
 
@@ -138,25 +119,15 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
-<div class="notion-text"></div>
-
 Luego de diez años de operación, **la Ciudad de México buscó expandir su servicio de bicicletas públicas asequible y amigable con el medio ambiente a más vecindarios, actualizar el diseño y la tecnología, y todo a un costo razonable**. La ciudad necesitaba promover la competencia en un mercado concentrado, aprender más sobre las últimas innovaciones y tecnología de bicicletas compartidas y brindar un servicio mejor y más amplio con el mismo presupuesto o menos.
 
-<div class="notion-text"></div>
-
 Ciudad de México utilizó la contratación abierta para diseñar un proceso de contratación transparente para adquirir una red de bicicletas públicas moderna, ampliada y fácil de usar. La ciudad publicó una Solicitud de información (RFI) por primera vez, solicitando la opinión de los residentes sobre el diseño de bicicletas compartidas, mantuvo múltiples conversaciones con los proveedores y publicó sus hallazgos en un sitio web fácil de usar. **Este enfoque permitió que el equipo y la comunidad de proveedores tomaran decisiones basadas en datos, promovieran la confianza y cumplieran su objetivo.**
-
-<div class="notion-text"></div>
 
 El nuevo contrato de la ciudad amplía el servicio de 6500 a 9300 bicicletas y de 480 a 687 estaciones de bicicletas, y actualiza la tecnología y el diseño de bicicletas compartidas de la ciudad para que sean más fáciles de usar, todo a aproximadamente la mitad de los costos operativos del antiguo servicio. Otros departamentos han comenzado a replicar las estrategias de contratación abierta de Ecobici para importantes proyectos públicos estratégicos, y la ciudad también mejoró su sistema de contratación electrónica para ayudar a otros a utilizar el enfoque de **Ecobici para involucrar a proveedores, ciudadanos y organizaciones de la sociedad civil al principio de los procesos de contratación de alta prioridad. Lea más sobre este estudio de caso aquí.**
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

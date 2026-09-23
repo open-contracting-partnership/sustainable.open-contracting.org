@@ -41,14 +41,4 @@ Low code environments are where an organisation has access to data via databases
 
 A code environment has skills to create and maintain databases, they have the ability to collate, process and insert data into a database either using a supplier or their own developers and analysts. It is likely that these organisations have good analytical capability, are familiar with data and have budgets allocated for the creation and management of databases.
 
-<div class="notion-text"></div>
-
 Most public sector organisations will probably sit in the low code category, but there are an increasing number of public organisations that recognise the need to have data and development teams located in the heart of their organisations.
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>

@@ -21,9 +21,5 @@ In 2002 the Government of Namibia ran a tender for the construction of the [Habi
 was [the first comprehensive attempt at sustainability in a public building in Namibia](https://knowledge-hub.circle-lab.com/article/5108?n=Namibia%27s-Habitat-Research-and-Development-Centre).</strong>
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

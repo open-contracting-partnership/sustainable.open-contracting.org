@@ -19,11 +19,5 @@ notion_id: "98a98c104a8541daa2024e0b1436f54f"
 <br>**On page 28, a timeline with the activities that will be carried on during the first year of the plan is presented, assigning responsibilities to the different public authorities.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

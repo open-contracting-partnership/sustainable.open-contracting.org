@@ -36,11 +36,5 @@ In Paraguay, agriculture represented 17,9% of the GDP in 2017, with **family agr
 <br>The strategy started by connecting family agriculture to school feeding programs, and was later expanded to hospitals, penitentiaries, and other public agencies. **In 2016, 16% of food procurement derived from family agriculture.**  
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

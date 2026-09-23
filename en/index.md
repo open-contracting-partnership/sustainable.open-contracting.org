@@ -11,8 +11,6 @@ notion_id: "a91bdf7457324b2e815ef25eea1a3458"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-en.html %}
-<div class="notion-text"></div>
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
@@ -25,8 +23,6 @@ notion_id: "a91bdf7457324b2e815ef25eea1a3458"
 {% callout gray /assets/images/Icons_Grey3.png %}
 This Open and Sustainable Public Procurement toolkit has been co-designed by the[ Open Contracting Partnership (OCP)](https://www.open-contracting.org/), an independent non-profit working in over 50 countries to open up and transform the whole process of public procurement by making it more user-friendly, data-driven and inclusive;[ Spend Network](https://spendnetwork.com/), a global leader in open contracting and procurement data analysis; and [PUBLIC](https://www.public.io/), a leading government-focused technology company. The toolkit development is supported by the German Development Cooperation implemented by [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/about_giz.html) (GIZ) GmbH.
 
-<div class="notion-text"></div>
-
 Throughout the toolkit, we provide guidance on how to apply open data and open government approaches to underpin successful sustainable public procurement SPP implementation and drive impact. 
 {% endcallout %}
 
@@ -36,13 +32,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 [Acesse este kit de ferramentas em português ](http://www.open-contracting.org/openspp-por)(PDF)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_%281%29.png"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-25313dde2db84602bb0319f1342f73f2">
   <div class="notion-collection__header-wrapper">
@@ -77,15 +67,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="701.984375" height="163.79635416666667" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations.png"/></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

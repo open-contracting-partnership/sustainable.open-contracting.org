@@ -19,21 +19,13 @@ The construction industry is one of high economic relevance, as it is estimated 
 
 As the method by which many construction projects are delivered, public procurement constitutes an opportunity to include sustainable and open practices that can contribute to minimise and better the economic, social and environmental impacts of this sector.
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey8.png %}
 It is important to note that **within the construction sector, there are different built asset** types, including residential and commercial buildings, economic infrastructure (e.g. transport) and social infrastructure (e.g. education).
 <br>Projects related to each of t**hese asset types are normally divided into four stages**: Design, Construction, In-Use and Deconstruction. As well as representing the lifecycle of a construction project, **these stages can also represent different types of construction procurement processes**, depending on the contract signed. In most cases, Design and Construction are procured together (Design and Build contracts), with the inclusion, sometimes, of the In-Use stage (Design-Build-Operate contracts).
 <br>**This section does not go into detail on the different types of construction projects.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D4_-_Construction_Diagram.jpg"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-b1f2ecca8a6d4776b4a319eeb3bd67be">
   <div class="notion-collection__header-wrapper">
@@ -63,13 +55,5 @@ It is important to note that **within the construction sector, there are differe
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

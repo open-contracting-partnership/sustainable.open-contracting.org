@@ -17,25 +17,17 @@ notion_id: "e26d206901154c1f94196272eefda571"
 
 When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 In this section, we present some of the key information that should be gathered in order to **successfully identify real needs, and ensure a more open and sustainable procurement process.** 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## Identify user needs
 
 In order to conduct a successful needs assessment, it is important to have a clear understanding of who the users are, and gather required information to identify their needs. **Think of how to design the procurement with them, not just for them.**
 
-<div class="notion-text"></div>
-
 {% toggle **Step 1:** Identify end-users %}
 
 The first step consists in identifying relevant users, which will vary depending on the subject of the contract. These can be public service workers, or users of public services. For example, when thinking about what catering services to procure for a hospital, engaging with both hospital patients and staff will result in a more accurate description of user needs.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -75,34 +67,22 @@ Sharing the needs assessment process is an essential part of Open SPP. Public au
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
 <br>Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,</strong> working directly with medical staff to shape tender documents for use across the country. 
 
-<div class="notion-text"></div>
-
 **CONSIP agrees the tender specifications in consultations with doctors' groups and scientific associations, while tenders are frequently drafted by medical professionals themselves.** This prioritizes product quality which is vital for medical use. Devices that meet the contract’s financial requirements and specifications are tested by doctors and nurses in their hospitals, which then award the final contract on the basis of the product’s performance. 
-
-<div class="notion-text"></div>
 
 **The system has been widely praised by both medical professionals and suppliers, leading to its implementation on a regional as well as national level.**
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## Consider alternative procurement options
 
 Once user needs have been identified, it is important to assess different procurement options in order to find one that meets user’s needs in the most sustainable way possible.
 
-<div class="notion-text"></div>
-
 {% toggle **Reusing, repairing, or upgrading existing resources**  %}
 
 Public authorities should assess whether instead of purchasing new products, current resources can be reused to meet identified needs. Another option can be to issue a tender for repairing and upgrading current resources, promoting circular use and minimizing waste. To identify available resources to reuse, repair, or upgrade, it can also be useful to establish an online channel to exchange products and services between authorities.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -110,15 +90,11 @@ Public authorities should assess whether instead of purchasing new products, cur
 
 Instead of purchasing new goods, sometimes leasing can be a good alternative. Leasing new products can lead to reuse of existing products, and minimize waste, promoting the circular use of resources.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Joint procurement**  %}
 
 Joint procurement can help to create stronger demand for green products and services, which can consequently encourage the supplier market to invest in sustainable alternatives. By aggregating their needs through joint procurement, public authorities essentially offer suppliers the opportunity to win more than one contract through one single tender submission. Minimizing the resources needed to access this revenue can encourage more suppliers to invest in sustainable alternatives. For more information on joint procurement see[ this section.](/choose-a-procurement-method)
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -128,34 +104,22 @@ Framing user needs in terms of outcomes can help to encourage innovative sustain
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ## Formulate a needs statement 
 
 Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered. 
-
-<div class="notion-text"></div>
 
 {% callout red /assets/images/Pin_Red.png %}
 <strong>For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:
 <br></strong>”The Department has identified a need for 6 smart screens for use in its 12 meeting rooms. The screens will facilitate web-conferencing and reduce the need for document printing.
 
-<div class="notion-text"></div>
-
 Based on user consultation, a maximum of 6 meetings requiring screens are held at any one time.
 
-<div class="notion-text"></div>
-
 The existing projectors consume a large amount of energy and often break down.
-
-<div class="notion-text"></div>
 
 The Department will consider proposals for leasing the screens under a service contract.”
 {% endcallout %}
 
 <br>The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize-1), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
@@ -163,8 +127,6 @@ The Department will consider proposals for leasing the screens under a service c
 - [European Commission. 2019. GPP Training Toolkit. ](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
@@ -177,5 +139,3 @@ The Department will consider proposals for leasing the screens under a service c
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

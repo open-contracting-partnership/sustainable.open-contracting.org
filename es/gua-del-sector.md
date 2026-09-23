@@ -15,13 +15,9 @@ notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
 
 # ¿Cómo se puede implementar la CPS Abierta en sectores específicos?
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 **En esta sección brindamos una guía específica sobre cómo integrar la sostenibilidad en los procesos de adquisición de TIC y construcción.** Esto incluye orientación relacionada con certificaciones relevantes que se pueden usar como referencia, criterios clave de sostenibilidad a considerar, opciones para recopilar los datos necesarios de los proveedores y métodos de adquisición útiles que pueden respaldar el proceso. 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-021e90ad36254625a2e9eefefadc8272">
   <div class="notion-collection__header-wrapper">
@@ -41,13 +37,5 @@ notion_id: "77bd0e0b56c2464a99d34434acbeeb15"
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

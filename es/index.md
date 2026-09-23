@@ -11,8 +11,6 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-es.html %}
-<div class="notion-text"></div>
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
@@ -33,15 +31,7 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 <br>[Access the toolkit in English](https://sustainable.open-contracting.org/)<strong><br></strong>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="5504" height="5563" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Structure_Diagram_esp.png"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-8e61c6bd33d940c588e62e23e650a38a">
   <div class="notion-collection__header-wrapper">
@@ -76,15 +66,7 @@ notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="745.4765625" height="173.94453125" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Organizations-es.png"/></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

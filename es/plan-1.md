@@ -19,10 +19,6 @@ En esta sección **le proporcionamos toda la información necesaria para empezar
 Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-collection inline collection-da51d7855dbb427392bcd6e6fc8fe465">
   <div class="notion-collection__header-wrapper">
     <h3 class="notion-collection__header"><a class="notion-anchor" href="#f0048abe2b0b4cb4acc440586fa3179a"></a><span class="notion-semantic-string"><strong>Para más información, debe consultar estas subsecciones</strong></span></h3>
@@ -55,20 +51,6 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
     </div>
   </div>
 </div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

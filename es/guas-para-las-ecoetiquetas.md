@@ -13,13 +13,9 @@ notion_id: "763ef3d4e57c4b3cb777f8e519308ed5"
 {% endcolumn %}
 {% column 0.75 %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección incluimos información clave para **entender las ecoetiquetas y la función que cumplen para facilitar la implementación de CPS.**
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## **¿Qué son las ecoetiquetas?**
 
@@ -53,13 +49,9 @@ Estas etiquetas tienen las mismas características que las ecoetiquetas Tipo I, 
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ### **Cómo puede usted aplicar ecoetiquetas en todo el proceso de implementación CPS**
 
 Las etiquetas ecológicas se pueden aplicar en diferentes etapas y de diferentes maneras a lo largo de la implementación de CPS, que incluyen:
-
-<div class="notion-text"></div>
 
 {% toggle **Utilice los estándares de la etiqueta ecológica como guía para redactar los requisitos ambientales.** %}
 
@@ -77,23 +69,13 @@ Cuando utilice ecoetiquetas tipo I y tipo I en el proceso de contratación, pued
 
 When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/priorice) of the toolkit. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 Finalmente, las EPD de Tipo III pueden ser muy útiles para comparar entre diferentes productos y recopilar datos ambientales relevantes, como las emisiones de CO2. Sin embargo, estas no son tan comunes como otras etiquetas, como las ecoetiquetas Tipo I y Tipo I.
 
-<div class="notion-text"></div>
-
 ## **¿Cómo puede encontrar etiquetas ecológicas relevantes?**
 
-<div class="notion-text"></div>
-
 Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según las categorías de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector) y [construcción](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector).
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-36302ffbde384f42b810cc3d5ac3e82d">
   <div class="notion-collection__header-wrapper">
@@ -305,12 +287,10 @@ Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen s
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% column 0.0417 %}
 
-<div class="notion-text"></div>
+
 
 {% endcolumn %}
 {% endcolumns %}

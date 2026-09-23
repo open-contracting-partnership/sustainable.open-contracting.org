@@ -25,13 +25,9 @@ Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pa
 
 Afin d’évaluer efficacement les besoins, il est important d’acquérir une bonne compréhension du profil des bénéficiaires que vous ciblez et de collecter des informations qui permettront de recenser leurs besoins. Envisagez les différentes possibilités qui vous permettront de concevoir des marchés publics avec les bénéficiaires, et pas seulement pour les bénéficiaires.
 
-<div class="notion-text"></div>
-
 {% toggle **Étape 1 : définir le profil des bénéficiaires**  %}
 
 La première étape consiste à définir le profil des bénéficiaires, qui varie en fonction de l’objet du marché. Il peut s’agir de fonctionnaires ou d’usagers et usagères des services publics. Par exemple, lorsque vous prévoyez d’acheter des services de restauration pour un hôpital, le dialogue avec les patients, les patientes et le personnel de l’hôpital permettra d’obtenir une description plus précise des besoins.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -45,8 +41,6 @@ Une fois que vous avez identifié les bénéficiaires, différentes méthodes pe
 - Réaliser des entretiens ou créer des groupes de travail composés de différents types de bénéficiaires.
 
 En fonction de la taille du marché envisagé, ces recherches peuvent aussi être commandées à un tiers.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -66,8 +60,6 @@ Ces données fournissent des indications concernant :
 
 Toute exigence technique devant être intégrée aux conditions du marché concernant les besoins des bénéficiaires. Par exemple, si vous prévoyez d’acquérir du matériel informatique neuf, ce processus doit guider l’élaboration des exigences particulières en matière d’accessibilité pour les bénéficiaires.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Étape 4 : communiquer le processus et les résultats** %}
@@ -76,27 +68,15 @@ Communiquer le processus d’évaluation des besoins est un aspect essentiel des
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey4-2.png %}
 **Étude de cas**
 
-<div class="notion-text"></div>
-
 L’organisme central de passation de marchés de l’Italie, [CONSIP](http://www.consip.it/), a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.
-
-<div class="notion-text"></div>
 
 Le CONSIP convient des spécifications de l’appel d’offres avec des groupes de médecins et de scientifiques, tandis que les appels d’offres sont fréquemment proposés par des membres du corps médical. Cela permet de mettre l’accent sur la qualité de produits, un critère vital dans le secteur médical. Les appareils qui satisfont aux exigences financières et aux spécifications sont testés par les médecins et le personnel infirmier dans leurs hôpitaux, qui attribuent enfin le marché définitif en fonction des résultats des produits.
 
-<div class="notion-text"></div>
-
 Ce système a été plébiscité par la profession et les fournisseurs, ce qui a entraîné sa mise en place à l’échelle régionale et nationale.
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 ## **Étudiez toutes les possibilités**
 
@@ -114,8 +94,6 @@ Avant d’acquérir de nouveaux produits, les acheteurs publics doivent se deman
 
 Au lieu d’acheter des produits neufs, la location peut parfois être une bonne solution. La location de produits neufs peut entraîner la réutilisation de produits existants et limiter les déchets, ce qui promeut l’utilisation circulaire des ressources.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Marché groupé** %}
@@ -128,15 +106,11 @@ Les marchés groupés peuvent aider à gonfler la demande de produits et service
 
 Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting)[ et ](https://sustainable.open-contracting.org/choose-a-procurement-method)[**cette section**](https://sustainable.open-contracting.org/choose-a-procurement-method).
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 ## **Dresser un exposé des besoins**
 
 Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dresser un exposé des besoins. Cet exposé doit inclure des informations concernant les besoins recensés et les possibilités d’achat envisagées.
-
-<div class="notion-text"></div>
 
 {% callout red /assets/images/Pin_Red.png %}
 **À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le** [module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) de la Commission européenne fournit les informations suivantes :
@@ -148,8 +122,6 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 
 <br>L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize) et s’il existe des [objectifs et cibles pertinents](https://sustainable.open-contracting.org/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
@@ -157,28 +129,16 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Étude de cas
 <br></strong>Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.
 
-<div class="notion-text"></div>
-
 PHW a décidé d’intégrer des exigences de durabilité à l’appel d’offres et un inventaire complet du mobilier de l’entité. L’offre sélectionnée est celle d’un consortium regroupant un service de conception durable de bureaux et une société d’intérêt communautaire.
-
-<div class="notion-text"></div>
 
 Ainsi, parmi les 2 563 articles présents dans les nouveaux locaux, 45 % sont réutilisés, 49 % ont été refabriqués et seulement 6 % proviennent de nouveaux stocks.
 
-<div class="notion-text"></div>
-
 Au total, on estime que la réutilisation des ressources disponibles a permis d’éviter 41 tonnes de déchets supplémentaires et que ce projet a évité l’émission d’environ 134 tonnes de CO2.
-
-<div class="notion-text"></div>
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

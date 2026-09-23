@@ -15,8 +15,6 @@ notion_id: "ec044dfe861a4d8c87b2416781297eee"
 
 Once the [key sustainability variables have been identified](/sector-ict-en-ingls/seleccione-sus-datos), it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. 
 
-<div class="notion-text"></div>
-
 ## Request relevant documentation
 
 The information from [the previous section](/sector-ict-en-ingls/seleccione-sus-datos) will guide decisions on what criteria should be evaluated during the procurement process. To verify the compliance of suppliers with the established criteria, information gathered will include: 
@@ -25,19 +23,13 @@ The information from [the previous section](/sector-ict-en-ingls/seleccione-sus-
 - **Service manuals** with maintenance and repairs information. 
 - **Accreditation certificates** or awarded ecolabels. 
 
-<div class="notion-text"></div>
-
 ## Gather evidence during implementation 
 
 Specific social criteria regarding supply chains should be included in the contract clauses to ensure compliance, and encourage continuous improvement towards transparency and labor rights monitoring. To gather the necessary data to monitor compliance with agreed criteria, the following methods can be used:
 
-<div class="notion-text"></div>
-
 {% toggle **Questionnaires** %}
 
 Questionnaires can be useful to monitor the compliance with supply chain conditions set in the contract by distributing questionnaires to ICT suppliers throughout the duration of the contract. These questionnaires will require information and proof regarding the activities they are carrying out to comply with social criteria set in the contract clauses. The information gathered from the questionnaires can help to assess the need of conducting any further desktop or factory audits. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -53,17 +45,9 @@ For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-f
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 The methods that will be used throughout the duration of the contract to collect the data should be clearly stated on the contract. Consequences and responsibilities in case of non-compliance should also be included.  
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

@@ -35,11 +35,5 @@ In 2017, **Argentina developed their [National Sustainable Public Procurement Pl
 <br>At the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. **This includes the [Decree approved in 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm) which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

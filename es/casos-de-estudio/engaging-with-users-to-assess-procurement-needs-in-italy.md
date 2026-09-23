@@ -16,20 +16,10 @@ notion_id: "b80851d687564ee1a44de394ecd75201"
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country. 
 
-<div class="notion-text"></div>
-
 **CONSIP agrees the tender specifications in consultations with doctors' groups and scientific associations, while tenders are frequently drafted by medical professionals themselves.** This prioritizes product quality which is vital for medical use. Devices that meet the contract’s financial requirements and specifications are tested by doctors and nurses in their hospitals, which then award the final contract on the basis of the product’s performance. 
 
-<div class="notion-text"></div>
-
 **The system has been widely praised by both medical professionals and suppliers, leading to its implementation on a regional as well as national level.**
-
-<div class="notion-text"></div>
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

@@ -17,15 +17,7 @@ notion_id: "79b865ec9e6f42cc957a713b028303cc"
 **In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.** As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="691.8046875" height="273.33541848776224" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_3Implement.png"/></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-244dbe6216f34e8db6b5fe175470546f">
   <div class="notion-collection__header-wrapper">
@@ -65,9 +57,5 @@ notion_id: "79b865ec9e6f42cc957a713b028303cc"
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

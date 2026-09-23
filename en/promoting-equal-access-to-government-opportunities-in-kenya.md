@@ -37,11 +37,5 @@ notion_id: "7c77bc1174ed44029d9f475faf22951d"
 <br>Sensitization, public engagement, and promoting transparency in public procurement, are some of key approaches that are being taken to drive the benefits of AGPO. **Progress on this can be seen through their [public procurement information portal. ](https://tenders.go.ke/)**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

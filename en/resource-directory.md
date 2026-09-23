@@ -10,17 +10,12 @@ notion_id: "8ff2b22021c842fba9d90d780be1a101"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-en.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, we include **information on existing Sustainable Public Procurement (SPP)** guidance and practice references. Available resources have been classified according to whether they provide guidance, or references, on overall SPP implementation, or focus on specific SPP practices, such as prioritizing procurement categories, or establishing an enabling framework. 
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-9f99c0fa67d0439fa228d9c5bc5018db">
   <div class="notion-collection__header-wrapper">
@@ -1415,5 +1410,3 @@ Compras Públicas Sustentables</div>
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

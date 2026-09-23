@@ -33,13 +33,9 @@ notion_id: "cc0f660ad723458e9f331fa012ea7e30"
 {% callout gray /assets/images/Icons_Grey4.png %}
 **The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions. 
 
-<div class="notion-text"></div>
-
 Organizations can obtain a certificate with their level on the Ladder, which they can use to receive an award advantage for their registration on tenders. In this way, **contractors can benefit for a reduction of the submission price by proving and developing their efforts to reduce CO2 emissions.** This mechanism is sometimes known as an [optimal discounts system. ](https://www.diw.de/documents/publikationen/73/diw_01.c.830045.de/dp1983.pdf)
 
 <br>As can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. **By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price.**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header">
@@ -127,8 +123,6 @@ Organizations can obtain a certificate with their level on the Ladder, which the
     </tbody>
   </table>
 </div>
-
-<div class="notion-text"></div>
 {% endcallout %}
 
 {% endcolumn %}

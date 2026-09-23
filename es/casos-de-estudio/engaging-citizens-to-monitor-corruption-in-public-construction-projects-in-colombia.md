@@ -21,7 +21,5 @@ notion_id: "6a6e3863fec04b85b7f1474d7b3206ea"
 **The app was introduced in 2013 and, [by 2017](https://apolitical.co/solution-articles/en/colombias-anti-corruption-app-identifies-163m-neglected-projects), the Transparency Secretariat had 54 projects valued at 163 million USD.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

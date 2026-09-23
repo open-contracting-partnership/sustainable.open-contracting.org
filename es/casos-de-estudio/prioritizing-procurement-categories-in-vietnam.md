@@ -19,9 +19,5 @@ After the approval of its National Green Growth Strategy in 2012, **Vietnam** [*
 <br>In the end **four products were selected: office paper, laptops, fluorescent lamps, and LEDs lights.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

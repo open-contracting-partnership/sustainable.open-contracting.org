@@ -39,12 +39,6 @@ For governments too, there are benefits. Publishing the data openly allows gover
 
 Source: [https://vpt.lrv.lt/lt/svieslente](https://vpt.lrv.lt/lt/svieslente)
 
-<div class="notion-text"></div>
-
 <div class="notion-image page-width"><img alt="image" loading="lazy" width="1942" height="1448" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Screenshot_2022-06-24_at_11.53.04.png"/></div>
 
 Source: [https://spendnetwork.com/carbon/](https://spendnetwork.com/carbon/)
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>

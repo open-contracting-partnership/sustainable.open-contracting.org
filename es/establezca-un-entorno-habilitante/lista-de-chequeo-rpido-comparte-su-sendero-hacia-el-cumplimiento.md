@@ -5,16 +5,12 @@ description: "\nCompliance Trail Checklist"
 icon: "/assets/images/Tick_green_2.png"
 notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
 ---
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit. ](/)
 {% endcallout %}
 
 <h3 class="notion-heading notion-semantic-string">
 <strong>Compliance Trail Checklist</strong></h3>
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -115,24 +111,16 @@ The following checklist has been created for national authorities to easily iden
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Warn_green_2.png %}
 Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local leve**l, and any international frameworks that might have served as guidance.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
-
-<div class="notion-text"></div>
 
 <div class="notion-pdf">
   <div class="notion-pdf__content">
     <iframe width="708" height="320" src="/assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/10dff7fa-0acc-4162-80ee-37e9ea6b4518.pdf"></iframe>
   </div>
 </div>
-
-<div class="notion-text"></div>
 {% endcallout %}

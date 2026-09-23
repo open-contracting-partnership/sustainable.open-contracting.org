@@ -16,16 +16,10 @@ notion_id: "b5a480a43f87452792022d719809c748"
 {% callout green /assets/images/Pin_green.png %}
 Dans cette partie, **nous mettons à votre disposition toutes les informations dont vous aurez besoin pour commencer votre démarche.** Vous trouverez les pratiques et approches essentielles permettant de placer la durabilité au cœur de votre stratégie de passation de marchés.
 
-<div class="notion-text"></div>
-
 Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte cinq sections répondant chacune aux besoins essentiels que nous avons recensés auprès des parties prenantes en ce qui concerne le début de la transformation de leurs pratiques d’achat.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="1648" height="706" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Group_1Plan_%285%29.png"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-1f0c8f1ea9a7499183bf6d6520e9566a">
   <div class="notion-collection__header-wrapper">
@@ -59,20 +53,6 @@ Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte ci
     </div>
   </div>
 </div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

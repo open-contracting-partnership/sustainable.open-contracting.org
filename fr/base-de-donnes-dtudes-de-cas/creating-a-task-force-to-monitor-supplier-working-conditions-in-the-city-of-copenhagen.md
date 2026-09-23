@@ -19,13 +19,5 @@ notion_id: "60c737a4d56c4222b5bc063470e72fe8"
 <br>**The task force carries out around 600 compliance checks each year.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

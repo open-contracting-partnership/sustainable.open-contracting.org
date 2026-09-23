@@ -15,13 +15,9 @@ notion_id: "af0648dd80f4427691c47c7aba1c1342"
 
 # How can you implement Open SPP in specific sectors?
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 **In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes.** This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process. 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-ef970e4846d44c7da394d59b5db9674f">
   <div class="notion-collection__header-wrapper">
@@ -41,13 +37,5 @@ notion_id: "af0648dd80f4427691c47c7aba1c1342"
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

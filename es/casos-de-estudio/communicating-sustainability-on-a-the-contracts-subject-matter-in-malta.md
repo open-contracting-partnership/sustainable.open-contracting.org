@@ -17,11 +17,5 @@ notion_id: "ea1c4d373fce42ab8ce3f65fbf804820"
   <div class="notion-callout__content"><span class="notion-semantic-string"></span></div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

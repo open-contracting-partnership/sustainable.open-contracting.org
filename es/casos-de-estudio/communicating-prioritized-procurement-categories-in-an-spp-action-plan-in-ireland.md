@@ -13,16 +13,10 @@ notion_id: "b95fcbeea19645a4a502d7c224ee4f10"
 {% endcolumn %}
 {% column 0.8722 %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2021 Ireland published its [Green Public Procurement Action Plan](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **The Action Plan prioritizes 8 procurement product/service categories,** which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT.
 <br>**On pages 21 to 57, the Plan includes specific information for each category.** This includes information regarding specific regulations and policies that should be considered to procure more sustainably in each area, specific accreditations available, green tender examples, and key proposed actions for the implementation of green procurement practices. 
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

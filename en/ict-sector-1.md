@@ -21,17 +21,11 @@ The extraction and disposal of minerals used in the ICT sector are associated wi
 
 The environmental impacts associated with the ICT sector also have a strong impact across the economic and social pillars of sustainability. Material toxicity, for example, can have negative impacts on the health of workers across the supply chain, mainly those involved in mining, smelting, manufacturing, and e-waste handling. Due to the lack of transparency in the ICT supply chain, it is difficult to monitor these activities, which are often also associated with labour rights violations.
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey8.png %}
 This section focuses on the purchase of hardware equipment, which mainly includes **displays, notebooks, desktops, all-in-one PCs, projectors, headsets, network equipment, data storage devices, servers, printers, and scanners.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-d0026fc150994c68b062e0cfd8b6eec0">
   <div class="notion-collection__header-wrapper">
@@ -61,9 +55,5 @@ This section focuses on the purchase of hardware equipment, which mainly include
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

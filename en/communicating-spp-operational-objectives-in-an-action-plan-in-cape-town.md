@@ -36,11 +36,5 @@ notion_id: "7f31dfbbed5748eda6c09a9c85fb7ccc"
 <br>**The City has given each activity a timeframe for completion, which varies from 1-2 years, 3-5 years, and 6-10 years.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

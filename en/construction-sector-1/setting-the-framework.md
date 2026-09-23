@@ -27,8 +27,6 @@ notion_id: "e11c9b99989a490db72eeb0bad6693ca"
 
 When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the [enabling framework](/establish-an-enabling-environment), it can be useful to identify, or consider establishing, the following compliance sources:
 
-<div class="notion-text"></div>
-
 {% toggle **National Planning Policies** %}
 
 Many countries have national, and local, planning policies which include Master Plans, long-term planning documents that guide the future development of a specific area. 
@@ -36,8 +34,6 @@ Many countries have national, and local, planning policies which include Master 
 Master Plans are based on the community vision for the future of a specific area, and take into account different factors, including those related to the three pillars of sustainability. Identifying, or developing, a Master Plan for a specific area, can help you identify key sustainability concerns and adapt procurement processes accordingly. 
 
 For example, certain areas might be especially concerned with pollution levels, whereas others might identify solving the problem of informal settlements as a one of the key priorities. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -48,8 +44,6 @@ Many countries have specific design codes for infrastructure projects, some have
 {% callout gray /assets/images/Icons_Grey9.png %}
 In 2019, **Rwanda created a [minimum compliance system](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf) for the construction of new buildings to promote energy and water efficiency, environmental protection, better Indoor Environmental Quality and green innovation.** These type of systems can help to guide decisions on what criteria should be introduced in construction projects. 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -62,13 +56,9 @@ There are certain environmental regulations which can serve to underpin the intr
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ## Look for existing sustainability standards
 
 When considering the implementation of SPP for procuring a construction project, it can be helpful to identify current sustainability standards. These will inform [what requirements you set for selecting suppliers. ](/set-sustainability-criteria)For the construction sector, we have identified three key types of standards and accreditations:
-
-<div class="notion-text"></div>
 
 {% toggle **Company accreditations**  %}
 
@@ -82,8 +72,6 @@ These accreditations can help you identify environmentally preferable suppliers.
 {% toggle **Product accreditations** %}
 
 Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products_list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory.](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -104,8 +92,6 @@ The following accreditations are given to a construction project once it has bee
 {% callout gray /assets/images/Icons_Grey9.png %}
 Green construction accreditations cover many aspects of construction projects, **for an overview of some of the key sustainability factors, and how they can be measured during a construction project**, see [the next section](/construction-sector-1/selecting-your-data).
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
@@ -129,19 +115,11 @@ Green construction accreditations cover many aspects of construction projects, *
 </ul>
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
 <br>Completed in 2017, the </strong>[**design of the Ghana Ridge Hospital** ](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/)<strong>was the first project in Africa to receive LEED accreditation.
 <br></strong>The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.** The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. It is the first project in Africa to receive LEED accreditation. 
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

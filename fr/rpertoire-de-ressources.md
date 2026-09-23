@@ -10,17 +10,12 @@ notion_id: "523c6afd5cae4a12b4ddce3f06263499"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-fr.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-4353cd77811c46859390f31e404d7e88">
   <div class="notion-collection__header-wrapper">
@@ -1415,5 +1410,3 @@ Compras Públicas Sustentables</div>
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

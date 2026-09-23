@@ -5,19 +5,13 @@ description: "The outline presented has been adapted from: UNEP 2021, Sustainabl
 icon: "/assets/images/Tick_green_2.png"
 notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 ---
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 **You can use the following outline as the basis for developing your SPP Action Plan Index.** We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in [this section](/create-an-action-plan). 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 **The outline presented has been adapted from:** [UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) (page 94).
 
 <div class="notion-divider"></div>
-
-<div class="notion-text"></div>
 
 **Context**
 
@@ -25,20 +19,14 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 - 1.2 Contribution to sustainable development objectives
 - 1.3 Relevant laws and regulations for SPP
 
-<div class="notion-text"></div>
-
 **Institutional arrangements (Governance structure and responsibilities)**
 
 - 2.1 This should explain how the SPP responsibilities are divided between ministries and other stakeholders
-
-<div class="notion-text"></div>
 
 **Addressing legal barriers for SPP (Enabling environment)**
 
 - 3.1 Changes or adjustments that should be made to the current legislation to favor SPP
 - 3.2 Actions to articulate existing laws and regulations to favor SPP implementation
-
-<div class="notion-text"></div>
 
 **Identifying priority product groups and services and definition of criteria (Prioritized procurement categories)**
 
@@ -46,8 +34,6 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 - 4.2 Process of prioritizing and selecting products and services for SPP
 - 4.3 Process of market engagement
 - 4.4 Preparation of SPP criteria
-
-<div class="notion-text"></div>
 
 **Development and adaptations of new sustainable procurement tools (Capacity building plan)**
 
@@ -57,22 +43,16 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 
 5.3 Training modules
 
-<div class="notion-text"></div>
-
 **Integrating sustainability requirements in the procurement cycle (Capacity building plan)**
 
 - 6.1 Analysis of processes that facilitate SPP implementation, including procurement planning
 - 6.2 Actions to ensure integration of sustainability requirements at all stages of the procurement cycle
 - 6.3 Institutions to be implementing pilot tenders
 
-<div class="notion-text"></div>
-
 **Capacity Building Strategy (Capacity building plan)**
 
 - 7.1 Capacity Building needs
 - 7.2 Capacity Building Strategy
-
-<div class="notion-text"></div>
 
 **Communication Strategy**
 
@@ -80,34 +60,22 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 - 8.2 Stakeholders to be reached
 - 8.3 Communication Strategy
 
-<div class="notion-text"></div>
-
 **Monitoring and control (Monitoring & evaluation)**
 
 9.1. Need for monitoring and control
 
 9.2 How to quantify and determine impact through indicators
 
-<div class="notion-text"></div>
-
 **Estimated budget to be allocated (Assigned budget)**
 
 10.1 Fundraising and other strategies to ensure SPP annual funding
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this outline:**
-
-<div class="notion-text"></div>
 
 <div class="notion-pdf">
   <div class="notion-pdf__content">
     <iframe width="708" height="320" src="/assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/6bcdf1fe-5daa-4886-aee1-b445a878c8f9.pdf"></iframe>
   </div>
 </div>
-
-<div class="notion-text"></div>
 {% endcallout %}
-
-<div class="notion-text"></div>

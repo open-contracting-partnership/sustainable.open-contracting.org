@@ -17,8 +17,6 @@ notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
 
 La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 *Pour adopter des pratiques durables de passation de marchés, il est intéressant de diviser les projets dans des phases d’essai et de reproduction à grande échelle. Cela peut être particulièrement utile pour tester des hypothèses risquées et incertaines. Durant la phase d’essai, une stratégie claire de collecte de données doit être mise en œuvre et les données collectées guideront la phase de reproduction à grande échelle.*
 {% endcallout %}
@@ -27,8 +25,6 @@ La conception d’un processus de passation de marchés peut limiter ou facilite
 <strong>Marchés axés sur les résultats</strong></h2>
 
 Les marchés axés sur les résultats peuvent constituer un bon point de départ en ce qui concerne les marchés publics durables. Cette approche consiste à définir les besoins en matière d’achat du point de vue des résultats souhaités plutôt que de définir une méthode pour obtenir ces résultats, ce qui permet aux acteurs du marché de proposer des solutions diversifiées.
-
-<div class="notion-text"></div>
 
 {% toggle **Avantages des marchés axés sur les résultats**  %}
 
@@ -60,21 +56,13 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (](https://govlab.hks.harvard.edu/results-driven-contracting)[*« Results-Driven Contracting »*](https://govlab.hks.harvard.edu/results-driven-contracting)[) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Processus d’appel d’offres en deux temps**
 
 Les processus de passation de marchés en deux temps permettent d’établir un dialogue constant entre les fournisseurs et les services de passation de marchés et de divulguer les informations pertinentes de façon ouverte.
-
-<div class="notion-text"></div>
 
 {% toggle **Avantages des processus d’appel d’offres en deux temps** %}
 
@@ -85,8 +73,6 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 - Il favorise la proposition de solutions innovantes de la part des fournisseurs ;
 - Il augmente les probabilités de trouver la meilleure solution pour répondre aux besoins recensés ;
 - Il fournit aux petites et moyennes entreprises un point d’entrée pour collaborer avec le gouvernement.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -105,21 +91,15 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 *Un questionnaire de présélection est une liste de questions visant à évaluer la capacité d’une entreprise à répondre aux exigences d’un marché.*
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% toggle **Dans quelles situations cette approche peut-elle être utile ?** %}
 
 Les processus d’appel d’offres en deux temps sont particulièrement utiles dans les projets complexes, comme les achats relatifs aux projets de construction. Ils peuvent également servir lorsqu’il existe peu de normes de durabilité bien établies à l’échelle du secteur concernant le produit, le service ou les travaux que vous prévoyez d’acquérir.
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ## **Marché groupé**
 
 Afin de mettre en place des marchés publics durables, vous pouvez également opter pour des marchés groupés. Cette approche désigne la collaboration entre plusieurs organismes publics dans le cadre de certains marchés. Cette collaboration peut porter sur des essais conjoints ou certaines interactions avec les acteurs du marché au début du processus, ou encore le lancement d’un appel d’offres commun ou la signature conjointe d’un contrat avec un fournisseur dans le cadre d’un processus de passation de marchés. 
-
-<div class="notion-text"></div>
 
 {% toggle **Avantages des marchés groupés**  %}
 
@@ -140,8 +120,6 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 - Étape 4 : interagissez conjointement avec les acteurs du marché.
 - Étape 5 : déterminez si vous aurez recours à des contrats individuels (en collaborant pour partager les meilleures pratiques concernant l’évaluation des fournisseurs) ou si vous établirez un contrat commun (processus d’appel d’offres conjoint, y compris concernant l’évaluation des fournisseurs).
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Dans quelles situations cette approche peut-elle être utile ?** %}
@@ -151,21 +129,13 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 **Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements)[ catalogues](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 *Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur*[ *la construction*](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector) *et les* [*technologies de l’information et des communications*](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector)*.* 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
@@ -173,23 +143,15 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Étude de cas** 
-
-<div class="notion-text"></div>
 
 En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.
 
 Avec l’aide du Government Performance Lab de Harvard, la ville a conçu un outil de collecte de données que les services d’inspection ont utilisé sur le terrain pour évaluer les résultats des prestataires en suivant plusieurs indicateurs clés (notamment la hauteur des pelouses, la présence de mauvaise herbe et les dommages matériels). Par la suite, la ville a lancé un appel d’offres concurrentiel lors duquel, pour la première fois, elle a pris en compte des critères tels que les résultats lors des marchés antérieurs et la capacité à présenter des rapports concernant des indicateurs essentiels pour choisir son prestataire. Le département des achats a également divisé de grandes zones en parcelles plus petites et contacté des prestataires qui n’avaient encore jamais répondu aux appels d’offres de la ville. Les nouvelles conditions ont remplacé les dommages-intérêts punitifs pour mauvais résultats par une prime de rendement de 5 % afin de favoriser la bonne exécution du marché. Les prestataires joignent des photos de leur travail à leurs factures. Le personnel de la ville n’a ainsi plus besoin de réaliser d’inspections sur site.
 
 Grâce à cette approche, la ville a renforcé la compétitivité globale (le nombre de soumissionnaires a augmenté de 38 %) sans augmenter ses coûts. Plus important encore, les plaintes auprès du service de gestion de la ville concernant l’entretien paysagiste ont diminué de façon substantielle.
-
-<div class="notion-text"></div>
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

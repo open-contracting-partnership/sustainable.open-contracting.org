@@ -13,21 +13,13 @@ notion_id: "9e2d0f0fedf0487d9cc1f536f1a63e85"
 {% endcolumn %}
 {% column 0.75 %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 En esta sección, incluimos **preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles**. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% toggle ¿**Qué es la Contratación Pública Sostenible (CPS)?** %}
 
 El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
-
-<div class="notion-text"></div>
 
 En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [esta sección](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
 
@@ -37,15 +29,9 @@ En otras palabras, CPS es la consideración de los tres pilares del desarrollo s
 
 <p class="notion-text notion-text__content notion-semantic-string"> La contratación pública abierta y sostenible (CPS Abierta) se refiere a la aplicación de prácticas de contratación abierta y gobierno abierto para respaldar la implementación exitosa de CPS e impulsar mejores resultados sostenibles.</p>
 
-<div class="notion-text"></div>
-
 Según [Open Contracting Partnership (OCP),](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
 
-<div class="notion-text"></div>
-
 En la [primera sección](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) de este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -58,8 +44,6 @@ Existe la creencia común de que, cuando el marco habilitante, es decir, las nor
 
 Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **¿Cómo se pueden priorizar las categorías de contrataciones?** %}
@@ -71,11 +55,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 
 Para obtener más información sobre estos factores, consulte [esta sección](https://sustainable.open-contracting.org/plan/prioritize). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
 
-<div class="notion-text"></div>
-
 Este estudio de caso demuestra cómo se puede utilizar una técnica de medición simple para evaluar las categorías de productos según su valor de contratación; la disponibilidad y costo de alternativas sostenibles; y su impacto ambiental, económico y social, para priorizar categorías de productos.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -89,8 +69,6 @@ Hay diferentes formas en que las autoridades nacionales, locales o regionales pu
 - **Establecer una mesa de ayuda y un punto central de información.** Proporcione una manera fácil para que los profesionales de contrataciones accedan a la orientación sobre las prácticas de SPP, incluida la regulación existente, los criterios estandarizados y los ejemplos de mejores prácticas. También puede ser útil establecer una mesa de ayuda para que los profesionales hagan preguntas sobre la implementación de CPS.
 
 Para obtener más información al respecto, consulte [esta sección](https://sustainable.open-contracting.org/get-started/build-support-and-capacity).
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -112,8 +90,6 @@ Un Plan de Acción de CPS sirve como referencia para que los profesionales de co
 
 Este [índice](https://sustainable.open-contracting.org/create-an-action-plan/sample-outline-of-an-spp-action-plan) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](https://sustainable.open-contracting.org/create-an-action-plan/sample-outline-of-an-spp-action-plan) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **¿Cómo puede usted encontrar e interactuar con proveedores sostenibles?** %}
@@ -133,8 +109,6 @@ Hay diferentes formas de relacionarse con el mercado a lo largo del proceso de c
 
 Para obtener más información, consulte [esta sección](https://sustainable.open-contracting.org/engage-with-the-market).
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **¿Qué es una etiqueta ecológica y cómo puede usarla para CPS?** %}
@@ -144,8 +118,6 @@ Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolab
 Las ecoetiquetas Tipo I y Tipo I generalmente publican los criterios que deben cumplirse para recibir la certificación. Para adquirir de manera más sostenible, puede solicitar a los proveedores que cumplan con los criterios establecidos por una etiqueta específica, o utilizar algunos de los criterios para redactar especificaciones en un contrato.
 
 Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](https://sustainable.open-contracting.org/guide-to-ecolabels). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -157,16 +129,10 @@ Para obtener más información sobre el coste del ciclo de vida (LCC), consulte 
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% column 0.0417 %}
 
-<div class="notion-text"></div>
+
 
 {% endcolumn %}
 {% endcolumns %}

@@ -19,19 +19,13 @@ In relation to the environmental challenges of the ICT sector, procurement appro
 
 This information should be disclosed and easily accessible to avoid unnecessary and inadequate disposal of equipment, ensuring that those having to make decisions regarding the equipment are aware of the options available. 
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, **we introduce some of the procurement approaches and procedures that can be applied to facilitate open sharing of information between suppliers and procurers, and tackle the sustainability challenges of the ICT sector.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## Define your needs and understand market capability
 
 As previously stated, two of the key challenges of the ICT sector are: gathering supply chain information, and prolonging equipment use. The following approaches can help you to better understand market capability regarding supply chain transparency, and ensure that procured equipments respond to real needs. 
-
-<div class="notion-text"></div>
 
 {% toggle **ICT needs assessment** %}
 
@@ -40,12 +34,10 @@ Conducting a needs assessment process before procurement processes is essential 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Assess the option of repairing available equipment:</strong> for example, if a public authority is considering buying new printers, they should analyse the state of current equipment, identifying which are the performance issues and whether these can be fixed. This can be done by gathering contract information and contacting the supplier of the equipment and/or maintenance services. </li>
   <li class="notion-list-item notion-semantic-string"><strong>Map out current and future needs: </strong>if the decision to procure new equipment has been taken, public authorities should gather the necessary information to understand their real needs and how these will inform the drafting of procurement documents. This can include having a clear idea of the staff that will be using the equipment, and any foreseeable staffing decisions that might alter this number. This process can also include gathering information regarding any accessibility adjustments that should be integrated in the equipment to ensure adaptation to users with different abilities. </li>
-  <div class="notion-text"></div>
   <div class="notion-callout bg-gray-light border">
     <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey9.png"/></div>
     <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Some ICT companies provide needs assessments as a service that is attached to the procuring of equipment, it is sometimes known as Device as a Service (DaaS). </strong>This can be useful for public authorities which are thinking of procuring a large quantity of equipment but do not have the skills or resources to conduct this analysis themselves. </span></div>
   </div>
-  <div class="notion-text"></div>
 </ul>
 
 {% endtoggle %}
@@ -66,13 +58,9 @@ However, if this is not the case, then it can be set as a contract clause as a c
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ## Select the best procurement practices
 
 Additionally to the approaches mentioned in the previous sections, we include below two procurement practices that support SPP implementation in the ICT sector. 
-
-<div class="notion-text"></div>
 
 {% toggle **Procuring from resellers**  %}
 
@@ -91,12 +79,6 @@ Continuous improvement clauses can also relate to supply chain management activi
 See [this section](/prepare-contract-obligations) for more information on continuous improvement clauses. 
 
 {% endtoggle %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

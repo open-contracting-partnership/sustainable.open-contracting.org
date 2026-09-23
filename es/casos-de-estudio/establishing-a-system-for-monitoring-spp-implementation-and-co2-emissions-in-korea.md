@@ -18,13 +18,5 @@ In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.u
 <br>The Korea Environmental Industry and Technology Institute (KEITI) has been appointed the responsible authority for managing the reporting and monitoring system. In order to do this, as mentioned earlier, **data is gathered from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform” (GPIP), created for procurement authorities to upload required data from decentralized procurement processes.** To incentivize performance, Korea provides an annual performance bonus to local governments, public organizations and local public organizations based on their GPP ratio to local spending, and GPP growth rate. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

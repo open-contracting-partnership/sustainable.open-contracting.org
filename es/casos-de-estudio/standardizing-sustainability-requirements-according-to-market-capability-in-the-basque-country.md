@@ -28,7 +28,5 @@ The Basque Country’s <a href="https://www.ihobe.eus/news/75-of-procurement-by-
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

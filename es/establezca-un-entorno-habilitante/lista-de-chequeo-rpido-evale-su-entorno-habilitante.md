@@ -5,21 +5,13 @@ description: "Quick checklist"
 icon: "/assets/images/Tick_green_2.png"
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
 ---
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](/establezca-un-entorno-habilitante)in the [Open SPP toolkit](/). 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### Quick c**hecklist**
 
-<div class="notion-text"></div>
-
 **First, check the regulation regarding evaluation or award criteria (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -35,16 +27,9 @@ The following checklist is designed to help you assess the different ways in whi
   <div class="notion-text__children">
     <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string">Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the <a href="https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm" class="notion-link link" target="_blank" rel="noopener noreferrer">International Labour Organisation (ILO)</a>). </li>
-    </ul>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string">Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.</li>
-    </ul>
-    <div class="notion-text"></div>
-    <ul class="notion-bulleted-list">
       <li class="notion-list-item notion-semantic-string">Consider applying <a class="notion-link link" href="/costeo-del-ciclo-de-vida">Life-Cycle Costing (LCC)</a> calculations.</li>
     </ul>
-    <div class="notion-text"></div>
   </div>
 </div>
 
@@ -57,11 +42,7 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -72,8 +53,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -82,8 +61,6 @@ The following checklist is designed to help you assess the different ways in whi
     <div class="notion-to-do__title"><span class="notion-semantic-string">Check that the current regulation allows for sufficient <strong>market engagement </strong>during the pre-procurement stage, including soliciting feedback from the market (see <a class="notion-link link" href="/establezca-un-entorno-habilitante/metas-y-contratos-reservados">here</a> for more information).</span></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -94,8 +71,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -104,8 +79,6 @@ The following checklist is designed to help you assess the different ways in whi
     <div class="notion-to-do__title"><span class="notion-semantic-string">Check that existing <strong>framework agreements</strong> allow space for the introduction of sustainability criteria (see <a class="notion-link link" href="/establezca-un-entorno-habilitante/acuerdo-marco">here</a> for more information).</span></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -116,8 +89,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -127,11 +98,7 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 **Finally:**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -142,14 +109,8 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
-
-<div class="notion-text"></div>
 
 <div class="notion-pdf">
   <div class="notion-pdf__content">

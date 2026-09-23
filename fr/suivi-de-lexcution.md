@@ -10,7 +10,6 @@ notion_id: "e10550c9408d4537a5b0065517aea46a"
 {% columns %}
 {% column 0.2609 html %}
 {% include sidebar-fr.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.7391 %}
 
@@ -18,37 +17,25 @@ notion_id: "e10550c9408d4537a5b0065517aea46a"
 
 Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](https://sustainable.open-contracting.org/prepare-contract-obligations), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les [objectifs globaux](https://sustainable.open-contracting.org/get-started/identify-your-goals)
  définis dans votre stratégie sur les marchés publics durables et ouverts.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
 <strong>Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.
 <br>L’un des aspects essentiels des </strong>[marchés publics durables et ouverts](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](https://sustainable.open-contracting.org/get-started/build-support-and-capacity), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector) et de la [construction](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector).
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Comment suivre les résultats durant l’exécution du marché ?**
 
 Différents mécanismes permettent de suivre les résultats relatifs aux critères de durabilité de votre contrat. Ci-dessous, nous présentons plusieurs actions axées sur la distinction entre performance et conformité qui vous aideront à collecter les données nécessaires concernant les résultats.
 
-<div class="notion-text"></div>
-
 **Nous apprenons encore sur les méthodes efficaces pour renforcer la durabilité et transformer en profondeur les pratiques d’achat de biens, de travaux et de services des gouvernements afin d’améliorer les résultats des marchés publics en matière sociale et environnementale, c’est pourquoi ces travaux ne doivent pas être perçus comme une « chasse » consistant à montrer du doigt et sanctionner les entreprises, mais plutôt comme un moyen d’apprendre, de regrouper des connaissances et d’améliorer les bonnes pratiques. Tim Cummins, président de la World Commerce and Contracting Association, en parle dans l’article « **[***If saving the world depends on contracts, is it time to give up?***](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)** »**
-
-<div class="notion-text"></div>
 
 {% toggle **Envoyer des questionnaires pendant l’exécution**  %}
 
 Afin d’évaluer certains indicateurs de référence concernant les marchés publics durables durant l’exécution d’un marché, vous pouvez soumettre des questionnaires aux fournisseurs à des échéances convenues, en particulier si vous essayez d’obtenir des changements de comportement ou de pratiques. Par exemple, si dans le cadre d’un contrat, il a été convenu que les fournisseurs effectueraient un certain nombre d’audits de leur chaîne d’approvisionnement ou qu’ils ne dépasseraient pas un certain niveau d’émission de CO2, vous pouvez leur transmettre des questionnaires afin d’obtenir des informations concernant ces obligations. Des questionnaires peuvent être « envoyés » à des échéances convenues, exiger des informations spécifiques et inclure des instructions concernant la documentation qui doit être fournie pour la vérification et l’évaluation des résultats.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -63,23 +50,17 @@ Les fournisseurs peuvent faire évaluer leurs résultats relatifs aux exigences 
 
 En fonction du type de marché, il peut être difficile de collecter toute la documentation pertinente (par exemple la documentation de vérification de tous les matériaux utilisés dans un projet de construction, ou concernant les déchets produits au cours de l’exécution d’un marché). Afin de faciliter ce processus, il est possible d’élaborer des registres de gestion des matériaux ou des déchets dans lesquels les fournisseurs peuvent importer leurs données à des étapes prédéterminées de l’exécution du marché.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Audits réalisés par des tiers**  %}
 
 Le recours à des tiers pour effectuer des audits peut être un bon moyen de suivre l’exécution d’un marché. Cela peut être particulièrement pertinent pour les contrats d’une durée relativement longue et pouvant nécessiter des ressources supplémentaires par rapport aux ressources dont disposent l’entité adjudicatrice ou les fournisseurs. Par exemple, des ONG peuvent être engagées pour contrôler les conditions de travail tout au long d’une chaîne d’approvisionnement, ou des sociétés de conseil environnemental peuvent être engagées pour évaluer des facteurs comme les émissions de CO2 durant les projets de construction.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Constituer des groupes de travail** %}
 
 Les pouvoirs publics peuvent mettre en place des groupes de travail visant à vérifier et suivre les résultats des fournisseurs en ce qui concerne les exigences de durabilité, en particulier concernant les droits des travailleurs et travailleuses. Ainsi, ces groupes de travail pourraient, par exemple, planifier des inspections sur site intermittentes et aléatoires ou coordonner d’autres évaluations de cette liste.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -89,25 +70,17 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](https://sustainable.open-contracting.org/sector-guidance-1/construction-sector)<strong> </strong>et des [**technologies de l’information et des communications**](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector)**.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Ressources**
-
-<div class="notion-text"></div>
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
 - [OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/)
 - [Integrity Action. 2022. Development check. ](https://integrityaction.org/devcheck/)
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Étude de cas**
@@ -121,11 +94,5 @@ Par ailleurs, au cours de cette période, la communauté DoZorro a signalé des 
 Plus de 100 000 personnes ont utilisé leur système de surveillance des marchés publics et 14 % des infractions signalées ont été traitées avec succès. Cette surveillance est officiellement intégrée au système de passation électronique de marchés du gouvernement et les résultats obtenus sont une source d’inspiration pour d’autres réseaux similaires dans d’autres pays de la région et au-delà.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

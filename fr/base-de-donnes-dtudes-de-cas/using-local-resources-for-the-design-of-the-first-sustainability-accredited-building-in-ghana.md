@@ -20,13 +20,5 @@ notion_id: "f1ef59bcf86045d0ad0cb340f88d1e08"
 <br></strong>The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. **It is the first project in Africa to receive LEED accreditation.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

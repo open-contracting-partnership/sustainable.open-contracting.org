@@ -17,25 +17,15 @@ notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
 
 La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas.
 
-<div class="notion-text"></div>
-
 La extracción y disposición de minerales utilizados en el sector de las TIC están asociadas con la toxicidad de los materiales y el agotamiento de los recursos. Se estima que, aunque los residuos electrónicos generados en el sector de las TIC representan solo el 2 % de los flujos de residuos sólidos, ellos representan el 70 %<strong> </strong>de los residuos peligrosos que terminan en vertederos.
 
-<div class="notion-text"></div>
-
 Los impactos ambientales asociados con el sector de las TIC también tienen un fuerte impacto en los pilares económico y social de la sostenibilidad. La toxicidad de los materiales, por ejemplo, puede tener impactos negativos en la salud de los trabajadores a lo largo de la cadena de suministro, principalmente aquellos involucrados en la minería, la fundición, la fabricación y el manejo de desechos electrónicos. Debido a la falta de transparencia en la cadena de suministro de las TIC, es difícil monitorear estas actividades, que a menudo también están asociadas con violaciones de los derechos laborales.
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey8.png %}
 Esta sección se enfoca en la compra de equipo de hardware, que incluye principalmente **pantallas, notebooks, computadoras de escritorio, PC todo en uno, proyectores, auriculares, equipo de red, dispositivos de almacenamiento de datos, servidores, impresoras y escáneres.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 <div class="notion-image align-start page-width"><img alt="image" loading="lazy" width="2560" height="1440" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/D3_-_ICT_Diagram.jpg"/></div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-26ccad1aec404058afbdb34663c2db63">
   <div class="notion-collection__header-wrapper">
@@ -65,9 +55,5 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

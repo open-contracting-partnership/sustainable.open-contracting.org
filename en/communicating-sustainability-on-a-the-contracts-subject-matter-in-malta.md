@@ -33,11 +33,5 @@ notion_id: "16eb2fbe5848413b904704f7476e67ea"
   <div class="notion-callout__content"><span class="notion-semantic-string"></span></div>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

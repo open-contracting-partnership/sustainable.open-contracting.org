@@ -17,12 +17,6 @@ notion_id: "8697a18f28314a5ba51174fc55a22274"
 **En esta segunda sección, le proporcionamos la información que usted necesita para integrar sostenibilidad en un proceso** específico de contratación. Como se puede ver en el diagama a continuación, cada una de las seis subsecciones establece una respuesta and una pregunta clave que puede surgir cuando se considera sostenibilidad durante el ciclo de vida de una contratación.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 <div class="notion-collection inline collection-397b0b98d37a40c5b9f1bf4b7a2c9087">
   <div class="notion-collection__header-wrapper">
     <h3 class="notion-collection__header"><a class="notion-anchor" href="#e0822986525a4845b8892f7f57ae55f6"></a><span class="notion-semantic-string"><strong>Haga click para obtener más información</strong></span></h3>
@@ -63,5 +57,3 @@ notion_id: "8697a18f28314a5ba51174fc55a22274"
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

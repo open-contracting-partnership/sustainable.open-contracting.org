@@ -17,17 +17,12 @@ notion_id: "de45cb395a9b47d6b0fd727e1015ebaa"
 
 Hay diferentes formas en que los datos abiertos se pueden utilizar para impulsar y medir el progreso en relación con los objetivos de sostenibilidad. A continuación, incluimos diez formas diferentes en las que puede recopilar y utilizar datos para medir y monitorear la sostenibilidad en las compras.
 
-<div class="notion-text"></div>
-
 <div class="notion-callout bg-yellow-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_yellow3_%281%29.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string">Las opciones presentadas en esta sección se pueden utilizar para recopilar datos y medir el progreso en relación con los objetivos de sostenibilidad incluidos en nuestro Marco M&amp;E de muestra y desarrollados como ejemplos prácticos en esta sección. Para cada opción, hemos incluido una guía sobre cómo se puede aplicar según su capacidad (es decir, sin código, código bajo, código). Puede acceder y descargar la tabla con todo el conjunto de opciones de uso de datos aquí:</span>
-    <div class="notion-text"></div>
     <a href="/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos" class="notion-link notion-page"><span class="notion-page__icon"><img alt="Tabla de opciones para uso de datos" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/Icons_Light_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Tabla de opciones para uso de datos</span></a>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 ### **Opción 1: Asigne etiquetas a la contratación**
 
@@ -35,11 +30,7 @@ A medida que presentamos en nuestra guía Banderas Ecológicas, una de las forma
 
 Hacer esto requerirá establecer una definición clara de qué contratos caen dentro de cada una de estas categorías. Por ejemplo, si ha creado especificaciones estándar de sostenibilidad para la adquisición de papel, puede establecer que todos los contratos que incluyan estas especificaciones deben etiquetarse como "CPS".
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -78,19 +69,11 @@ Aplique esto retrospectivamente para aumentar el alcance del análisis.</span></
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 2: Impulse el rendimiento de las políticas a través de alertas y notificaciones**
 
 A través del análisis manual o programático de los datos, las autoridades contratantes pueden crear y utilizar alertas para fomentar la adopción de iniciativas y el desempeño de CPS. El análisis se puede compilar en tableros para mostrar datos sobre sectores, compradores, proveedores y categorías, incluidas las 10 clasificaciones superiores e inferiores, como en este ejemplo de Lituania.
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -129,17 +112,11 @@ Ver también caso de estudio.</span></div>
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 3: Analice los contratos adjudicados**
 
 Los compradores pueden medir el valor y la cantidad de contratos relacionados con CPS otorgados a los proveedores según la ubicación, el tamaño, la industria u otros. Esto ayudará a construir una base de evidencia firme relacionada con los resultados y el impacto de CPS en su conjunto (evidencia que se puede usar contra afirmaciones de que ofrece menos valor por dinero o que solo favorece a las empresas más grandes). El análisis también puede extenderse hacia categorías, como si la atención social y de la salud son más equitativas en el salario de género, o análisis de tendencias regionales como el desempleo y la demografía.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -180,17 +157,11 @@ Cree banderas en registros de contratos o portales para indicadores económicos 
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 4: Previsión del impacto del contrato**
 
 Estimar el impacto potencial que podría tener un contrato puede ayudar a dar forma a los requisitos establecidos para los proveedores. Esto puede incluir, por ejemplo, la estimación de las emisiones de carbono, asociadas al contrato a generación de residuos prevista o los costos asociados del ciclo de vida del activo que está adquiriendo. Estos datos se pueden recopilar a través de los mecanismos existentes para medir el impacto (por ejemplo, el cálculo predictivo de las emisiones de carbono) o al observar los datos históricos del contrato para pronosticar los costos del ciclo de vida. Luego puede usar este pronóstico como base para establecer un "presupuesto" de carbono (es decir, las emisiones permitidas asociadas con un contrato), o para calcular el valor de la oferta en función de los costos del ciclo de vida.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -227,17 +198,11 @@ Estimar el impacto potencial que podría tener un contrato puede ayudar a dar fo
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 5: Solicite sugerencias de sostenibilidad**
 
 Esto es tan simple como dar a sus equipos de compras la capacidad de marcar una oportunidad de contrato como una competencia en la que se alienta a los proveedores a detallar cómo cumplirán con los objetivos de sostenibilidad específicos. Esto puede incluir, por ejemplo, cómo reducirán las emisiones de carbono, cómo apoyarán la igualdad de género a través del compromiso con esquemas reconocidos (por ejemplo, subvenciones a mujeres en tecnología, etc.), o cómo apoyarán la economía local a través de la creación de empleo.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -274,22 +239,14 @@ Esto es tan simple como dar a sus equipos de compras la capacidad de marcar una 
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 6: Mida el uso de las certificaciones**
 
 Algunas industrias ya cuentan con estándares para productos y principios que conducen a impactos más sostenibles. Estos estándares pueden ser cooptados para que los utilicen los compradores al especificar e informar sobre el desempeño de la sostenibilidad. La inclusión de la necesidad de cumplir con los estándares se puede agregar a las especificaciones y su impacto se puede calcular utilizando modelos disponibles públicamente.
 
-<div class="notion-text"></div>
-
 Es importante señalar que existen diferentes tipos de etiquetas y certificaciones ambientales. Por ejemplo, las certificaciones que brindan una cuenta más detallada de las emisiones de carbono asociadas con un producto específico son las clasificadas como ecoetiquetas Tipo III por la Organización Internacional de Normalización (ISO). En este grupo encontramos las Declaraciones Ambientales de Producto (EPD). Véase, por ejemplo, esta EPD **[LINK 10]**
  para un producto fabricado en acero. Otros tipos de certificaciones, como las etiquetas ecológicas Tipo I, son útiles para identificar productos ambientalmente preferibles, pero no suelen proporcionar datos concretos sobre las emisiones de carbono. Del mismo modo, las certificaciones que dan fe de los esfuerzos de sostenibilidad del proveedor, como las certificaciones ISO o B Corporation, no brindan información sobre las emisiones asociadas del servicio o producto adquirido. Para obtener más información sobre las diferentes formas en que se pueden utilizar estas certificaciones dentro de SPP, consulte esta sección. (Guía para ecoetiquetas).
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -326,17 +283,11 @@ Es importante señalar que existen diferentes tipos de etiquetas y certificacion
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 7: Supervise la ejecución del contrato**
 
 Las organizaciones pueden publicar actualizaciones de rendimiento en los contratos, como: el carbono emitido durante o al finalizar un contrato, la cantidad de puestos de trabajo creados como resultado del contrato, etc. Esta información se puede utilizar para medir el progreso en relación con los objetivos de sostenibilidad, sino también para monitorear el desempeño contra las especificaciones CPS. Esto es especialmente relevante para garantizar una implementación justa y eficiente de CPS, minimizando los riesgos de lavado verde: otorgar contratos de carbono a subempresas de contaminadores, otorgar contratos favorables a las PYME a no PYME, contratos de igualdad de género a salas de juntas u organizaciones dominadas por hombres. con salarios sesgados a favor de los hombres.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -373,17 +324,11 @@ Las organizaciones pueden publicar actualizaciones de rendimiento en los contrat
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 8: Registre los datos del proveedor en el momento de la presentación de la oferta**
 
 En la presentación de ofertas los compradores podrán solicitar a los proveedores que proporcionen datos relacionados con los objetivos de sostenibilidad. Esto puede incluir datos sobre la propiedad de la empresa, dónde se encuentra o cualquier información sobre las certificaciones de sostenibilidad que puedan tener.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -420,17 +365,11 @@ En la presentación de ofertas los compradores podrán solicitar a los proveedor
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 9: Cree registros de proveedores CPS**
 
 En la presentación de ofertas los compradores podrán solicitar a los proveedores que proporcionen datos relacionados con los objetivos de sostenibilidad. Esto puede incluir datos sobre la propiedad de la empresa, dónde se encuentra o cualquier información sobre las certificaciones de sostenibilidad que puedan tener.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -467,17 +406,11 @@ En la presentación de ofertas los compradores podrán solicitar a los proveedor
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ### **Opción 10: Use datos nacionales o estatales**
 
 Una forma de recopilar los datos necesarios para medir el impacto de sostenibilidad de su contrato es consultar los datos nacionales disponibles. Esto puede incluir, por ejemplo, vincular los contratos de SPP con los datos de propiedad de la empresa (si el estado exige que se informe de esto), o con datos de estadísticas nacionales sobre sectores de crecimiento para medir el impacto económico.
 
-<div class="notion-text"></div>
-
 **Opciones de uso de datos según su capacidad:**
-
-<div class="notion-text"></div>
 
 <div class="notion-table__wrapper">
   <table class="notion-table col-header row-header">
@@ -516,15 +449,5 @@ Trabaje con industrias específicas con bajo rendimiento conocido en métricas d
   </table>
 </div>
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

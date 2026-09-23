@@ -15,8 +15,6 @@ notion_id: "62de91131c48424bad09f737eac35e8c"
 
 # Worked example: Measuring gender inclusion
 
-<div class="notion-text"></div>
-
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 In this section we explain how you can use data to measure the participation of women-led businesses in public procurement.
 {% endcallout %}
@@ -25,37 +23,23 @@ In this section we explain how you can use data to measure the participation of 
 
 To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector. We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time.
 
-<div class="notion-text"></div>
-
 ### Why do it?
 
 Governments spend a staggering US$ 13 trillion per year on public contracts. Unfortunately, small business and women-led businesses are very under represented in this market. For example, women-led companies get only 5% of federal contracts in the US and 17% in Ukraine. When an intersectional lens is applied, factors such as race, disability, and geography further limit access to public procurement by women-led businesses.
 
-<div class="notion-text"></div>
-
 Starting in 2020, we dug deeper into *why* women-led businesses struggle to thrive in public procurement markets. We worked with *Value for Women* to research the barriers facing women-led businesses in public procurement and emerging practices for fairness and inclusion from partners implementing open contracting reforms in Latin America, with examples from Chile, the Dominican Republic and Buenos Aires, Argentina.
-
-<div class="notion-text"></div>
 
 {% callout yellow /assets/images/Icons_Light_Green6.png %}
 You can read the [full report](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), an [insights version](https://www.open-contracting.org/resources/empower-women-led-business-procurement/), or a [summary blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). We then worked with UNWomen to prepare a [policy note](https://www.open-contracting.org/resources/empowering-women/) including more examples and recommendations from around the world.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## Benefits
 
 Data on who governments contract with can help identify systemic bias that can be tackled through better procurement policies and practices.
 
-<div class="notion-text"></div>
-
 In most countries, the participation of women businesses in public procurement cannot be measured because the data simply does not exist. In Colombia, the country’s procurement agency Colombia Compra Eficiente started to review their gender inclusion by publishing sex-disaggregated data about all their contract awards using the Open Contracting Data Standard. The gender of the supplier’s legal representative was used to determine whether the business was women-led. The agency is now working to integrate the new criteria to analyze the differences in women business participation through a public dashboard that uses various indicators, such as sector, region and value of contracts.
 
-<div class="notion-text"></div>
-
 ## Getting started
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-3670a921d5b443a7bdcb76a0cbd662a4">
   <div class="notion-collection__header-wrapper">
@@ -87,49 +71,29 @@ In most countries, the participation of women businesses in public procurement c
 
 ## **Options for data use**
 
-<div class="notion-text"></div>
-
 Gender data is typically more limited than other types of SPP data, this is usually down to the difficulty of collecting and processing good data. Centralizing data on suppliers will be an important step forward when considering gender analysis, as this will allow a supplier to report once and have multiple buyers share and evaluate that data.
 
-<div class="notion-text"></div>
-
 At the beginning of this section, we introduced ten different ways in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected three which can be especially useful for measuring gender equality:
-
-<div class="notion-text"></div>
 
 - **Record supplier data at tender submission (Option 8)**
 
 OCDS [recommends](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) publishing the information about if an organization is woman-led with the [organization classification extension](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). This approach encourages publishers to document the definition of what being a woman-led business means.
 
-<div class="notion-text"></div>
-
 In addition to data on whether businesses are women-led, you can use complementary datasets about the gender equity of companies, if they exist, such as: information about the [gender-pay gap](/gender-inclusion/how-to-analyze-the-gender-pay-gap) (whether women are paid less than men for similar work), women in leadership positions, and other gender-empowering policies (parental leave, childcare subsidies etc.)
-
-<div class="notion-text"></div>
 
 - **Use national or statewide data (Option 10)** 
 
 A legally mandated national or statewide reporting on company ownership or gender pay gaps will confer numerous other benefits to authorities, such as anti-fraud and lobbying controls. This also creates more data that leads to better algorithms to measure outcomes of interventions. For instance, the effect of gender equality mandates in tender specifications can be correlated with gender pay gap over time to better know whether or not these mandates were effective.
 
-<div class="notion-text"></div>
-
 - **Request sustainability suggestions (Option 5)**
 
 Suppliers can include in their tender submission what actions they take to promote gender equality. This can include commitments to recognised public schemes (e.g. grants for women in tech, back to work schemes for mothers).
 
-<div class="notion-text"></div>
-
 ## Sample indicators
-
-<div class="notion-text"></div>
 
 Based on this data you can start to measure progress against the goal of achieving gender equality through procurement. For guidance on how to do this, earlier in the toolkit, we[ introduced a M&E framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. This framework included three sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting gender equality”.
 
-<div class="notion-text"></div>
-
 We have included these outcomes below, together with the corresponding indicators, the relevant options for collecting data that are presented in [this section](/options-for-data-use-1), and some tips for implementation:
-
-<div class="notion-text"></div>
 
 ← Scroll to see more                                                                                                                                                           Scroll to see more →
 
@@ -460,55 +424,35 @@ We have included these outcomes below, together with the corresponding indicator
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver meaningful change, particularly in industries where the government is an important buyer. If data on gender disparity is published openly, others can monitor the activities of suppliers and the data can be used to make positive changes to their own organizations and to deliver improved bids for future contracts.
 
-<div class="notion-text"></div>
-
 ## **Policy measures to improve gender equity**
-
-<div class="notion-text"></div>
 
 - **Increase access to finance and/or ensure prompt payment of government suppliers.**
 
 Women entrepreneurs' lack of access to finance limits their ability the acquire the working capital needed to apply for government contracts. Issues with payment delays in public procurement means that businesses need access to finance in public contracting.
 
-<div class="notion-text"></div>
-
 - **Develop engagement and feedback mechanisms for women-led businesses.**
 
 This is particularly important for groups of women who may have less access to information and formal networks, such as those living in rural areas, or those who belong to an under-represented group.
-
-<div class="notion-text"></div>
 
 - **Develop guidance and change management strategies for buyers to reduce bias in the evaluation process.**
 
 Unfortunately, bias and discrimination can still affect the evaluation process (whether conscious or unconscious). Creating guidance and training for public buyers can help. See this [example from Colombia.](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit)
 
-<div class="notion-text"></div>
-
 - **Simplify contracting processes & build capacity to navigate the process.**
 
 Simplify application procedures and tender requirements by streamlining and standardizing tender documentation and pre-qualification procedures, prioritizing only those that are essential for the work. Reduce the size of contracts into manageable pieces for small businesses to deliver. Train women-led businesses on the process and offer a helpdesk to help them.
-
-<div class="notion-text"></div>
 
 - **Reduce expenses and opportunities for corruption in the procurement process.**
 
 Bidding on public contracts can be expensive. Eliminating or reducing fees for access to bidding documents, bid security requirements, and bid submission fees reduces this barrier. Likewise, if the process requires businesses to obtain multiple certificates, stamps, and signatures from various authorities, it is both time consuming and an opportunity for bribe-seeking. Digitizing supplier registration and bid submission can eliminate these barriers.
 
-<div class="notion-text"></div>
-
 - **Improve transparency.**
 
 Seeing is believing. If women-led businesses are able to see that small businesses like theirs are bidding on and winning contracts, it will give them more confidence that there is a level playing field and they will be treated fairly.
-
-<div class="notion-text"></div>
 
 You can read more about policy measures to improve gender inclusion and case studies from around the world in this [Policy Note by UN Women and OCP.](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf)
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

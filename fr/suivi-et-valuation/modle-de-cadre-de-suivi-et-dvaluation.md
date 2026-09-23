@@ -5,22 +5,14 @@ description: "The M&E framework includes the following section:"
 icon: "/assets/images/icons_D_Green3.png"
 notion_id: "78211b5af9254502aa43120eee8c658d"
 ---
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<strong><br>
 This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP. </strong>
 
-<div class="notion-text"></div>
-
 You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) of the framework in the [downloadable tools section](/ressources-pratiques), which you can duplicate and edit to fit your specific context. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 The M&E framework includes the following section:
-
-<div class="notion-text"></div>
 
 - **Goals** - Goals are high-level sustainability objectives that guide Open SPP implementation. 
 - **Outcomes** - Outcomes are the expected intermediate changes from implementing Open SPP practices. 
@@ -29,11 +21,7 @@ The M&E framework includes the following section:
 - **Calculation method** - The method and variables required to calculate the selected indicators.
 - **Options for recording the data you need** - Which data recording options, from the ones presented [in section three of this toolkit](/possibilits-dutilisation-des-donnes), can be used to collect the data needed to measure progress against the selected indicator. 
 
-<div class="notion-text"></div>
-
 You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/donnes-ouvertes-et-valuation-des-progrs). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward. 
-
-<div class="notion-text"></div>
 
 ← Scroll to see more                                                                                           Scroll to see more →
 
@@ -1230,5 +1218,3 @@ You will notice that each of the sustainability goals introduced in this M&E fra
     </tbody>
   </table>
 </div>
-
-<div class="notion-text"></div>

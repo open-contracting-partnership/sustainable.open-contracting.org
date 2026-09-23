@@ -15,8 +15,6 @@ notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 
 # **Exemple : évaluer l’inclusion des genres**
 
-<div class="notion-text"></div>
-
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer la participation des entreprises dirigées par des femmes aux processus de passation de marchés.
 {% endcallout %}
@@ -25,39 +23,25 @@ Dans cette section, nous expliquons comment utiliser les données pour évaluer 
 
 Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps.
 
-<div class="notion-text"></div>
-
 ## **Quel est l’objectif ?**
 
 Les gouvernements dépensent chaque année la somme colossale de 13 000 milliards de dollars dans les marchés publics. Malheureusement, les petites entreprises et les entreprises dirigées par des femmes y sont largement sous-représentées. Par exemple, les entreprises dirigées par des femmes n’obtiennent que 5 % des marchés publics aux États-Unis et 17 % en Ukraine. À travers le prisme de l’intersectionnalité, des facteurs tels que la couleur de peau, le handicap et la localisation géographique limitent encore davantage l’accès des entreprises dirigées par des femmes aux marchés publics.
 
-<div class="notion-text"></div>
-
 En 2020, nous avons commencé à approfondir ce sujet afin de déterminer *pourquoi* les entreprises dirigées par des femmes avaient du mal à remporter des marchés publics. Nous avons travaillé avec Value for Women pour examiner les obstacles que rencontrent les entreprises dirigées par des femmes dans les marchés publics et les pratiques émergentes d’équité et d’inclusion adoptées par des partenaires mettant en œuvre des réformes de la commande publique ouverte en Amérique latine, avec des exemples du Chili, de la République dominicaine et de Buenos Aires, en Argentine.
-
-<div class="notion-text"></div>
 
 {% callout yellow /assets/images/Icons_Light_Green6.png %}
 Vous pouvez lire le [rapport complet](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), un [résumé](https://www.open-contracting.org/resources/empower-women-led-business-procurement/) ou un [article récapitulatif sur notre blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). Nous avons travaillé avec ONU-Femmes pour préparer une [note de synthèse](https://www.open-contracting.org/resources/empowering-women/) comprenant davantage d’exemples et des recommandations provenant du monde entier.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Avantages**
 
 Les données concernant les partenaires des gouvernements peuvent aider à repérer des biais systémiques pouvant être corrigés par l’amélioration des politiques et pratiques de passation de marchés.
 
-<div class="notion-text"></div>
-
 Dans la plupart des pays, la participation d’entreprises dirigées par des femmes aux marchés publics ne peut pas être évaluée parce que les données requises n’existent pas. En Colombie, l’agence nationale de passation des marchés publics, Colombia Compra Eficiente, a commencé à évaluer l’inclusion en publiant des données ventilées par sexe concernant l’ensemble des marchés attribués à l’aide du Standard de données sur la commande publique ouverte. Le sexe de la personne représentant le fournisseur a été utilisé pour déterminer si l’entreprise était dirigée par une femme ou non. Cette agence œuvre désormais pour la prise en compte de nouveaux critères afin d’analyser les différences en matière de participation des entreprises dirigées par des femmes à l’aide d’un tableau de bord public qui utilise divers indicateurs, comme le secteur, la région et la valeur des marchés.
-
-<div class="notion-text"></div>
 
 ## **Pour commencer**
 
 La définition du concept et le recensement des entreprises dirigées par des femmes sont la première étape pour renforcer l’égalité entre les genres dans la commande publique.
-
-<div class="notion-text"></div>
 
 La définition du concept d’entreprise dirigée par une femme varie d’une juridiction à une autre. Comme mentionné plus haut, la Colombie tient seulement compte du sexe de la personne qui représente l’entreprise, tandis que d’autres pays possèdent une définition plus détaillée de ce concept (et ont généralement un processus de certification ou d’enregistrement des entreprises dirigées par des femmes pour montrer qu’elles entrent dans le champ de la définition). Voici plusieurs possibilités pour définir les entreprises dirigées par des femmes :
 
@@ -66,8 +50,6 @@ a) ≥ 51 % du capital ou des actions détenus par une ou plusieurs femmes ;
 b) ≥ 1 directrice générale ou directrice des opérations (présidente/vice-présidente) ;
 
 c) Des femmes sont propriétaires exclusives de l’entreprise.
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-d28852c94b054060800d80e91f96238c">
   <div class="notion-collection__header-wrapper">
@@ -98,8 +80,6 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 </div>
 
 ## **Possibilités de collecte des données**
-
-<div class="notion-text"></div>
 
 ### **Déterminer le sexe de la personne qui détient le capital d’une entreprise lors de la soumission des offres**
 
@@ -221,45 +201,27 @@ et des conseils pratiques
 
 Gender data is typically more limited than other types of SPP data, this is usually down to the difficulty of collecting and processing good data. Centralizing data on suppliers will be an important step forward when considering gender analysis, as this will allow a supplier to report once and have multiple buyers share and evaluate that data.
 
-<div class="notion-text"></div>
-
 At the beginning of this section, we introduced ten different ways in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected three which can be especially useful for measuring gender equality:
-
-<div class="notion-text"></div>
 
 - **Record supplier data at tender submission (Option 8)**
 
 OCDS [recommends](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) publishing the information about if an organization is woman-led with the [organization classification extension](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). This approach encourages publishers to document the definition of what being a woman-led business means.
 
-<div class="notion-text"></div>
-
 In addition to data on whether businesses are women-led, you can use complementary datasets about the gender equity of companies, if they exist, such as: information about the [gender-pay gap](/linclusion-des-genres/how-to-analyze-the-gender-pay-gap) (whether women are paid less than men for similar work), women in leadership positions, and other gender-empowering policies (parental leave, childcare subsidies etc.)
-
-<div class="notion-text"></div>
 
 - **Use national or statewide data (Option 10)** 
 
 A legally mandated national or statewide reporting on company ownership or gender pay gaps will confer numerous other benefits to authorities, such as anti-fraud and lobbying controls. This also creates more data that leads to better algorithms to measure outcomes of interventions. For instance, the effect of gender equality mandates in tender specifications can be correlated with gender pay gap over time to better know whether or not these mandates were effective.
 
-<div class="notion-text"></div>
-
 - **Request sustainability suggestions (Option 5)**
 
 Suppliers can include in their tender submission what actions they take to promote gender equality. This can include commitments to recognised public schemes (e.g. grants for women in tech, back to work schemes for mothers).
 
-<div class="notion-text"></div>
-
 ## **Exemples d’indicateurs**
-
-<div class="notion-text"></div>
 
 À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 
-<div class="notion-text"></div>
-
 Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans [cette section](https://sustainable.open-contracting.org/use-cases/gender-equality) et des conseils pratiques
-
-<div class="notion-text"></div>
 
 ← Scroll to see more                                                                                                                                                           Scroll to see more →
 
@@ -590,15 +552,9 @@ Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs 
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 Grâce aux données, les acheteurs peuvent exploiter ces éléments pour orienter davantage les marchés publics vers la production de changements concrets, en particulier dans les secteurs où le gouvernement est un acheteur important. Si les données relatives aux disparités entre les genres sont publiées de façon ouverte, d’autres parties prenantes peuvent suivre les activités des fournisseurs et utiliser les données pour générer des changements positifs dans leurs propres organisations et améliorer leurs offres en vue des futures procédures.
 
-<div class="notion-text"></div>
-
 ## Mesures politiques visant à renforcer l’égalité entre les genres
-
-<div class="notion-text"></div>
 
 ### 1. Améliorer l’accès aux financements ou payer rapidement les fournisseurs du gouvernement
 
@@ -630,5 +586,3 @@ Pour en savoir plus sur les mesures politiques visant à renforcer l’inclusion
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

@@ -20,13 +20,5 @@ In 2014, Chile conducted a research study to evaluate how many public contracts 
 <br></strong>As an example, they propose **giving this factor a weighing of 15% in the evaluation**, and suggest different ways of evaluation. These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

@@ -36,9 +36,5 @@ notion_id: "5d84f98d6d874182953c2544e7ad5b24"
 <br>Among the different lessons learnt from these tenders, the Region highlighted the **importance of having binding contractual requirements.** However, the market engagement activities showed that **mandatory requirements should only be set if they can be met by around 50% of the suppliers.** For this it is **important to establish a regular open dialogue with suppliers**, both and after the procurement. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

@@ -35,11 +35,5 @@ In 2006, Scotland’s Forth Road Bridge showed in signs of significant deteriora
 <br>These activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements.</strong>
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}

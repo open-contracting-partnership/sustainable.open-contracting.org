@@ -15,29 +15,19 @@ notion_id: "f6b9fea7045d4268b6a35725f949a001"
 
 # Worked example: Measuring SPP uptake
 
-<div class="notion-text"></div>
-
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 In this section we explain how you can use data to measure and monitor progress against the goal of promoting SPP uptake.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## What is it?
 
 Measuring SPP uptake levels is about knowing how much sustainable public procurement is being relied on by public buyers, either during the procurement process or after the fact to allow the clear identification of social, environmental, or economic procurement within tendering and contracting.
 
-<div class="notion-text"></div>
-
 ## Why do it?
 
 Government departments around the world are initiating policies and targets that either directly require buyers to consider social value, or have systemic policies (e.g. net zero targets) that require buyers to adapt their buying practices to consider more than savings. Measuring the uptake and progress of these new initiatives can be difficult, as the data needed to record changes in behavior can be hard to find. Measuring SPP uptake allows public buyers to demonstrate that they’re incorporating sustainable procurement and therefore are meeting policy requirements.
 
-<div class="notion-text"></div>
-
 ## Benefits
-
-<div class="notion-text"></div>
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Allows governments to demonstrate that new policies are having a meaningful effect on purchasing.
@@ -51,25 +41,15 @@ Clearly shows suppliers that sustainable procurement is a long-term commitment t
 Links policy to procurement through a feedback loop allowing measurement of policy objectives to take place.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## Getting started 
 
 Measuring the progress of sustainable procurement is usually about recording whether a contract or tender has been set out to meet a stated policy goal. As a result, measuring progress often takes the form of a binary “yes” or “no” tag that is recorded as part of the procurement process.
 
-<div class="notion-text"></div>
-
 The challenge for governments is not how to measure the resulting data, that is normally as simple as adding up the total number of contracts or value of contracts that are recorded as being part of a sustainable procurement initiative. Instead the real challenge is how to establish whether or not a contract meets a commonly agreed threshold for sustainable procurement.
-
-<div class="notion-text"></div>
 
 As such, it is vital for governments to be clear about the policies that they wish to implement, for instance if there is a policy to award contracts to female owned businesses then there needs to be good guidance on what constitutes a female owned business and under what circumstances the policy can be applied.
 
-<div class="notion-text"></div>
-
 Once this has been clearly established, you can measure and record uptake of SPP policies. 
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-862da8f3ab3642f89efaebccd15b69c5">
   <div class="notion-collection__header-wrapper">
@@ -99,17 +79,11 @@ Once this has been clearly established, you can measure and record uptake of SPP
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 ## Sample indicators 
 
 There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we[ introduced an M&E framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
 
-<div class="notion-text"></div>
-
 In the specific, worked example below, we have included these outcomes, together with the corresponding indicators, the relevant options for collecting data and some tips for implementation. These are just suggestions to demonstrate how to bring the elements of the Guide together, you would want to adjust them depending on your objectives, data available, the context, etc.
-
-<div class="notion-text"></div>
 
 ← Scroll to see more                                                                                                                                      Scroll to see more →
 

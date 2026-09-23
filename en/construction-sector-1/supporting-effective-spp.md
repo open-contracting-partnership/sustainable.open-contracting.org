@@ -31,27 +31,19 @@ Construction projects are usually long and complex, involving the participation 
 In this section, **we introduce certain procurement approaches and procedures that support open collaboration amongst stakeholders**, facilitating the collection and sharing of data during the process. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## Define your needs and understand market capability
 
 The following approaches promote data sharing and collaborative approaches in procurement. Applying these will help you to gather relevant information regarding how to best design the procurement process according to your needs, and according to market capability. 
 
-<div class="notion-text"></div>
-
 {% toggle **Market engagement practices** %}
 
 Early engagement with the supplier market in the construction sector can be key for collecting the necessary data to define the design brief and specifications of the project. See [this section](/engage-with-the-market) for more information on market engagement methods. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
 {% toggle **Early Supply Chain Integration (ESI)** %}
 
 Integrating suppliers from a construction project’s life-cycle as early as possible in the procurement process can help to set relevant sustainability targets and ensure commitment. This can be achieved by promoting collaborative procurement mechanisms that involve Early Supply Integration (ESI) . See the next section on “Selecting the best procurement practices” for more information on these.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -61,19 +53,13 @@ Creating a hub where data from finalized infrastructure projects is stored can f
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ## Select the best procurement practices
 
 The following procedures can constitute the characteristics of a single procurement procedure, or individual characteristics of certain procurement processes. 
 
-<div class="notion-text"></div>
-
 {% toggle **Outcomes-based approaches** %}
 
 Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section ](/choose-a-procurement-method)for more information. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -85,8 +71,6 @@ This approach requires suppliers to collaborate and openly share the information
 
 Finally, if project targets include environmental considerations, this approach also leaves room for suppliers to come up with innovative ways to reach these targets without exceeding the price. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Two-stage tender** %}
@@ -97,8 +81,6 @@ This approach can often be seen in design and construction projects, where the d
 
 Two stage procurement procedures allow for ongoing dialogue and open disclosure of information between suppliers and procurement practitioners. This can be especially useful for negotiating ways to reach sustainability targets in construction projects. See [this section](/choose-a-procurement-method) for more information.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Integrated teams** %}
@@ -106,8 +88,6 @@ Two stage procurement procedures allow for ongoing dialogue and open disclosure 
 An integrated team can include contractors, subcontractors and suppliers of a single project stage (i.e. deconstruction, design, etc.), or/and stakeholders from the whole project’s life cycle (i.e. design, construction and maintenance or operation). 
 
 If an integrated team is put together early on in the procurement process, it will facilitate coordination throughout the project and promote data sharing, which will minimize risks, improve resource estimation, and ensure that sustainability targets permeate through the whole project life-cycle. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -121,20 +101,14 @@ Data about all aspects of the project will have to be openly shared with all sta
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
-
-<div class="notion-text"></div>
 
 **Guidance on using two-stage procurement processes in construction projects:** 
 
 - [User Guide for Procurement of Plant Design, Supply, and Installation. 2021. Asian Development Bank (ADB)](https://www.adb.org/documents/procurement-plant-guide)
 - [Procurement of Works: Two-Stage Open Tendering Procedure. 2019. European Bank for Reconstruction and Development (EBRD)](https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true)
 - [User’s Guide for the SBD for Procurement of Plant Design, Supply, and Installation. 2018. African Development Bank (AfDB)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Procurement/Project-related-Procurement/User_s_Guide_for_the_SBD_for_Procurement_of_Plant_Design_Supply_and_Installation_-February_2018.doc)
-
-<div class="notion-text"></div>
 
 **Guidance on including early supply integration in construction projects at the design stage:**
 
@@ -144,8 +118,6 @@ Data about all aspects of the project will have to be openly shared with all sta
 </ul>
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 **Case study**
 
@@ -154,20 +126,12 @@ Data about all aspects of the project will have to be openly shared with all sta
 **Openly sharing information during the time between the two stages of the tender allowed the experienced team to come up with sustainable materials and methods to include in the BOQ, all of which they based on available local resources.** 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Notion-others2.png %}
 **Case study**
 
 In 2006, [Scotland’s Forth Road Bridge](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2018/12/construction-procurement-handbook/documents/chapter-4/chapter-4/govscot%3Adocument/chapter-4.pdf) showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. Due to the complexity of the project, **Transport Scotland decided to engage with the market in order to gain knowledge and assess the procurement plan.** This was done by organizing an Industry Day with top contractors, where a Questionnaire was distributed.
 <br>Following this, **bilateral conversations were established with suppliers to come up with the best possible plan. These activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements.** 
 {% endcallout %}
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endcolumn %}
 {% endcolumns %}

@@ -15,25 +15,15 @@ notion_id: "6acdc6a4546941279d00b2aa846b58b9"
 
 # **Foire aux questions**
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.* 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% toggle **Qu’entend-on par « marchés publics durables » ?** %}
 
 Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » [traduction].
 
-<div class="notion-text"></div>
-
 En d’autres mots, les marchés publics durables désignent la prise en compte des trois piliers du développement durable (économique, social et environnemental) dans le cadre de la commande publique. Cela peut supposer, par exemple, de concevoir une procédure de passation de marchés visant à favoriser les entreprises locales (économique), assurer que les fournisseurs veillent au respect des droits du travail dans leur chaîne d’approvisionnement (social) ou acquérir des produits fabriqués à partir de matériaux recyclés (environnemental). Pour une vue d’ensemble d’autres facteurs pouvant être pris en considération concernant chaque pilier, consultez [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -41,15 +31,9 @@ En d’autres mots, les marchés publics durables désignent la prise en compte 
 
 Les marchés publics durables et ouverts désignent l’adoption de pratiques relatives à la commande publique ouverte et aux gouvernements ouverts dans le but de favoriser la bonne mise en place des marchés publics durables et l’obtention de résultats plus durables.
 
-<div class="notion-text"></div>
-
 Selon [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf), la commande publique ouverte suppose la publication et l’exploitation de données ouvertes, faciles d’accès et à jour concernant la commande publique afin de faire participer la population et les entreprises dans le repérage et la résolution de problèmes. La commande publique ouverte englobe la transparence et la participation des parties prenantes tout au long du processus de passation de marchés, de la planification à l’exécution.
 
-<div class="notion-text"></div>
-
 Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -57,14 +41,10 @@ Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-op
 
 Il existe une croyance répandue selon laquelle, lorsque l’environnement habilitant, c’est-à-dire les règles et politiques qui régissent les marchés publics, établit que les marchés publics doivent être attribués à l’offre proposant le prix le plus bas, il est difficile de mettre l’accent sur la durabilité. Cette croyance est fausse, car indépendamment de l’environnement habilitant, il existe souvent beaucoup de possibilités pour mettre en place des marchés publics durables. Afin d’évaluer vos options, nous conseillons de commencer par analyser la réglementation relative aux critères d’évaluation :
 
-<div class="notion-text"></div>
-
 - Lorsque l’environnement habilitant permet seulement de prendre en compte le prix parmi les critères d’évaluation, trois grandes approches sont possibles : intégrer des critères de durabilité aux exigences essentielles des marchés ; prendre en compte le [coût du cycle de vie](https://sustainable.open-contracting.org/life-cycle-costing) ; et assurer le respect de la réglementation en vigueur en matière de durabilité.
 - Lorsque l’environnement habilitant permet de prendre en compte d’autres éléments que le prix parmi les critères d’évaluation, vous pouvez utiliser les plans et politiques de durabilité en vigueur pour guider la conception de critères d’évaluation de la durabilité.
 
 Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) pour évaluer rapidement votre environnement habilitant et consulter [cette section](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour approfondir les concepts de la liste.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -79,8 +59,6 @@ Consultez [cette section](https://sustainable.open-contracting.org/plan/prioriti
 
 [l’outil de définition des achats prioritaires du PNUE](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). Par ailleurs, [cette étude de cas](https://sustainable.open-contracting.org/prioritizing-procurement-categories-in-vietnam) montre comment une technique simple permet d’évaluer les catégories de produits en fonction de la valeur des marchés les concernant, de la disponibilité et du coût des solutions alternatives durables, et de leurs effets en matières environnementale, économique et sociale pour définir les catégories prioritaires.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **En tant qu’administration nationale, comment faciliter la mise en place de marchés publics durables et ouverts ?** %}
@@ -93,8 +71,6 @@ Les administrations nationales, locales ou régionales peuvent faciliter la mise
 - Créer un service d’assistance et un centre d’information. Il est important de fournir aux services de passation de marchés un moyen simple d’obtenir des orientations sur les pratiques relatives aux marchés publics durables, notamment sur la réglementation en vigueur, les critères normalisés et des exemples de bonnes pratiques. Il peut également être utile de mettre en place un service d’assistance afin de répondre aux questions concernant la mise en place de marchés publics durables.
 
 Consultez [cette section](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) pour en savoir plus. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -109,17 +85,11 @@ Un plan d’action sur les marchés publics durables sert de référence aux ser
 - Structure de gouvernance et responsabilités : abordez les entités publiques qui seront responsables de la coordination et de l’exécution des différentes pratiques et mesures de la stratégie sur les marchés publics durables ;
 - Budget alloué : abordez le budget qui sera alloué à la stratégie relative aux marchés publics durables (par exemple pour l’élaboration de documents d’orientation, la formation…).
 
-<div class="notion-text"></div>
-
 [Cette table des matières](https://sustainable.open-contracting.org/create-an-action-plan/sample-outline-of-an-spp-action-plan) peut vous guider dans la structuration de votre plan d’action. Vous pouvez parcourir [cette section](https://sustainable.open-contracting.org/create-an-action-plan) pour en savoir plus sur les plans d’action et découvrir des exemples de bonnes pratiques.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
 {% toggle **Comment repérer des fournisseurs responsables et établir une relation avec eux ?** %}
-
-<div class="notion-text"></div>
 
 Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cette interaction est particulièrement importante dans le cadre des marchés publics durables pour :
 
@@ -136,8 +106,6 @@ Dans le cadre du processus de passation de marchés, il est possible d’interag
 
 Consultez [cette section](https://sustainable.open-contracting.org/engage-with-the-market) pour en savoir plus.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Que sont les éco-étiquettes et quel peut être leur rôle dans les marchés publics durables ?** %}
@@ -148,30 +116,20 @@ Les éco-étiquettes de type I et apparentées au type I divulguent généraleme
 
 Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Que désigne la prise en compte du coût du cycle de vie et comment l’appliquer aux marchés publics ?** %}
 
 Une croyance erronée pourtant répandue voudrait que l’achat de produits et services durables implique toujours des dépenses supplémentaires. En réalité, bien que certaines solutions alternatives durables puissent avoir un coût d’acquisition plus élevé, en prenant en compte les coûts d’exploitation, d’entretien et de mise hors service, ces solutions peuvent devenir plus économiques. Le coût du cycle de vie intègre ces coûts et peut également comprendre une évaluation du coût environnemental, par exemple concernant les émissions de CO2.
 
-<div class="notion-text"></div>
-
 Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le calcul et la prise en compte du coût du cycle de vie. Parmi les outils pratiques, la [Commission européenne](https://ec.europa.eu/environment/gpp/lcc.htm) a conçu cinq outils de calcul du coût du cycle de vie utilisant Excel concernant plusieurs catégories de marchés (distributeurs automatiques, équipements de traitement de l’image, ordinateurs et écrans, éclairage intérieur et éclairage extérieur). La documentation de ces outils indique comment ils peuvent être utilisés pour évaluer les solutions existantes avant de lancer l’appel d’offres, pour comparer les offres durant l’appel d’offres et pour évaluer l’exécution du marché après la clôture de l’appel d’offres.
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% column 0.0417 %}
 
-<div class="notion-text"></div>
+
 
 {% endcolumn %}
 {% endcolumns %}

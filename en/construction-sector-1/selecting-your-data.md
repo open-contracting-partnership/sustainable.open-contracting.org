@@ -27,27 +27,19 @@ notion_id: "98c412788073444e8210c12f66aaa69c"
 In this section, we identify which are the **key sustainability variables that can be captured in a construction project.** For each variable, we also provide guidance on **how you can use these variables to introduce sustainability criteria in the procurement process.** As we introduced earlier in the toolkit, this will mainly depend on market capability. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### **Material use** 
 
 It is estimated that around 40-50% of natural resources are transformed into construction material, and that as much as 30% of all building materials delivered to a construction site end up in waste. To minimize this, it is important to ensure that the procurement process allows for careful and detailed planning of resource use during the project. In order to promote this, and encourage the use of sustainable materials, the following data should be captured during the project:
 
-<div class="notion-text"></div>
-
 {% toggle **Total material use** %}
 
 The estimated material use during a project should be recorded. This data will include the type, quantity, and quality of the materials. Although the sustainability impact of material use will depend on the type and quality of the materials, capturing the quantity is essential, as projects with lower material use usually have a lower environmental impact. However, it is also important to take into account what % of this material is, as described below, reused or more sustainable.
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
 {% toggle **Reutilisation of available materials** %}
 
 The quantity of materials available on-site that are reused during the project should be recorded. This is particularly relevant in refurbishment projects, where a pre-procurement evaluation of the quantity and type of available materials should be conducted. Generally, the more materials are reused, the lower the environmental impact of the project will be. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -57,26 +49,18 @@ The quantity of more sustainable material use should be captured. Sustainable ma
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey9.png %}
 In a tender process, you can **establish the use of materials with certain sustainability standards essential criteria**.
 <br>Another option is to include these variables as part of award criteria, **granting the highest score to those projects which, measured in kilograms (or tonnes) use the least amount of materials, reuse the highest amount of available materials, or use the highest amount of sustainable materials.**
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### Vehicle and transport use
 
 It is estimated that construction projects account for the largest share of both global final energy use (36%) and energy-related CO2 emissions (39%). Although not all of these emissions derive from vehicle use, it is also important to monitor and capture the following:
 
-<div class="notion-text"></div>
-
 {% toggle **Vehicle use** %}
 
 The total vehicle use can be captured during the project. This data will normally include the number of vehicles used during the project, and the hours of use for each vehicle. Less hours of vehicle use will normally result in a lower environmental impact. However, this will also depend, as explained below, on the vehicles’ emission standards. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -84,18 +68,12 @@ The total vehicle use can be captured during the project. This data will normall
 
 The emission standards of the vehicles used during the project should be captured. The European Emission Standards can help as guidance. Despite being European, these standards have been used by UNEP to evaluate vehicle emissions in [LAC](https://www.unep.org/resources/report/latin-america-and-carribbean-vehicle-emission-standards) and [Africa](https://www.unep.org/resources/report/africa-vehicle-emission-standards), and West Africa has used these standards to develop their [new vehicle emissions regulation.](https://www.unep.org/news-and-stories/story/west-african-ministers-adopt-cleaner-fuels-and-vehicles-standards) 
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 The following emission standards are those established by Euro 3, the most widely used in LAC and Africa:
-
-<div class="notion-text"></div>
 
 - **Petrol:** CO: 2.3G/km; THC:0.20g/km; NOx: 0.15 g/km/
 - **Diesel:** CO: 0.66g/km; HC + NOx: 0.56g/km; NOx: 0.50g/km; PM: 0.05g/km.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -107,19 +85,13 @@ Grouping shipments, sourcing local materials, and using more sustainable modes o
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey9.png %}
 In a tender process, **complying with Euro 3 emission standards can be set as a technical specification** for all vehicles involved in the project. To encourage improvement, using vehicles that comply with Euro 4, or 5, can be set as award criteria. 
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### Generated waste
 
 Construction projects, especially those in the construction, refurbishment, and deconstruction stages, involve the generation of great quantities of waste. To minimize and monitor waste generation, the following data can be captured:
-
-<div class="notion-text"></div>
 
 {% toggle **Waste generated** %}
 
@@ -127,37 +99,25 @@ The quantity of waste generated during a construction project should be captured
 
 Lowering the amount of waste generated during a project will also lower the environmental impact of the project. However, in terms of sustainability, it is also important to capture data that shows what % of the generated waste is diverted from landfill. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **Waste diverted from landfill**  %}
 
 Minimizing waste generation will help to lower the environmental impact of the construction project. However, diverting the generated waste from landfill will also help towards minimizing this impact. This data should also be captured, and it will include the volume (m3), or weight (kilograms and tonnes), of waste that is reused, or recycled. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 In a tender process, one of the technical specifications set as essential criteria for bidders can be to **divert a specific % of generated waste from landfill.** For further specification, a target % of recycled, or reused, waste can also be set.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### Supplier details
 
 In order to monitor the economic and social impact of a construction project, data can be collected regarding:
 
-<div class="notion-text"></div>
-
 {% toggle **SMEs, local, and women-led companies**  %}
 
 Data should be recorded regarding the companies that are involved in the supply chain, especially the number of SMEs, local, and women-led companies. 
-
-<div class="notion-text"></div>
 
 {% endtoggle %}
 
@@ -165,17 +125,11 @@ Data should be recorded regarding the companies that are involved in the supply 
 
 Data regarding the employees that will be involved during the project can be collected, including the employee data from the suppliers, and subcontractors. This data can include the number of employees contracted as part of the project, as well as the number of hours of work per employee. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 In a tender process, the selection of local companies, SMEs, or women-owned companies can be favored if there are certain [targets](/establish-an-enabling-environment/targets-and-reserved-contracts) that underpin this decision.
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
@@ -189,13 +143,5 @@ In a tender process, the selection of local companies, SMEs, or women-owned comp
 </ul>
 {% endcallout %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

@@ -10,15 +10,12 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-en.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 **In this section, we have included best practice examples of SPP implementation around the world.** 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-8cda1bf3ebd74682b160dc51ad24d42e">
   <div class="notion-collection__header-wrapper">
@@ -31,8 +28,6 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
     <div class="notion-collection-card gallery"><a href="/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia" class="notion-link notion-collection-card__anchor">Using a two-stage tender to increase collaboration in a construction project in Namibia</a><img alt="Using a two-stage tender to increase collaboration in a construction project in Namibia" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.580000000000005%" src="/assets/images/Africa_-_Namibia.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-ac596ae6371f45d59e8f32db30592813">
   <div class="notion-collection__header-wrapper">
@@ -49,8 +44,6 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
     <div class="notion-collection-card gallery"><a href="/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city" class="notion-link notion-collection-card__anchor">Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City </a><img alt="Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City " loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Mexico.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-73354fd5ff1b447382e4a309dde31cfa">
   <div class="notion-collection__header-wrapper">
@@ -71,8 +64,6 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
     <div class="notion-collection-card gallery"><a href="/establishing-a-network-of-civil-society-procurement-monitors-in-ukraine" class="notion-link notion-collection-card__anchor">Establishing a network of civil society procurement monitors in Ukraine</a><img alt="Establishing a network of civil society procurement monitors in Ukraine" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 55.88999999999999%" src="/assets/images/Europe_-_Ukraine-2.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-b15386059b574abb8dc92222abb2d154">
   <div class="notion-collection__header-wrapper">
@@ -108,8 +99,6 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
     <div class="notion-collection-card gallery"><a href="/setting-up-a-catalogue-of-sustainable-suppliers-in-thailand" class="notion-link notion-collection-card__anchor">Setting up a catalogue of sustainable suppliers in Thailand</a><img alt="Setting up a catalogue of sustainable suppliers in Thailand" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Asia_-_Thailand.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-4c6c053e07984e9f8c75a7860fe95ac2">
   <div class="notion-collection__header-wrapper">

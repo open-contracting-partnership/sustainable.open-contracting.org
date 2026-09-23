@@ -177,8 +177,6 @@ As part of contract publishing, assign a pre-defined category.</span></div>
   </table>
 </div>
 
-<div class="notion-text"></div>
-
 ## Goals for implementers
 
 Better data on the way that contracts are marshalled to deliver economic growth can meet multiple goals. In the first instance, governments need to be able to report on their work:

@@ -10,15 +10,12 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
 {% columns %}
 {% column 0.25 html %}
 {% include sidebar-fr.html %}
-<div class="notion-text"></div>
 {% endcolumn %}
 {% column 0.75 %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 ***Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.***
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-7895da0457eb47979c080f753a105732">
   <div class="notion-collection__header-wrapper">
@@ -31,8 +28,6 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
     <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia" class="notion-link notion-collection-card__anchor">Using a two-stage tender to increase collaboration in a construction project in Namibia</a><img alt="Using a two-stage tender to increase collaboration in a construction project in Namibia" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.580000000000005%" src="/assets/images/Africa_-_Namibia.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-d996a4c5031c45f59d45971f46b9101e">
   <div class="notion-collection__header-wrapper">
@@ -49,8 +44,6 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
     <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico" class="notion-link notion-collection-card__anchor">Utilisation de contrats ouverts pour acquérir un système de vélos à Mexico</a><img alt="Utilisation de contrats ouverts pour acquérir un système de vélos à Mexico" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_CDMX.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-10a1c534e51d4aec878293b63ae08ec1">
   <div class="notion-collection__header-wrapper">
@@ -71,8 +64,6 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
     <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/un-rseau-de-surveillance-citoyenne-des-marchs-publics-en-ukraine" class="notion-link notion-collection-card__anchor">Un réseau de surveillance citoyenne des marchés publics en Ukraine</a><img alt="Un réseau de surveillance citoyenne des marchés publics en Ukraine" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Ukraine_%281%29.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-01b74daef56b47efb1a8002affe19c36">
   <div class="notion-collection__header-wrapper">
@@ -108,8 +99,6 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
     <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/setting-up-a-catalogue-of-sustainable-suppliers-in-thailand" class="notion-link notion-collection-card__anchor">Setting up a catalogue of sustainable suppliers in Thailand</a><img alt="Setting up a catalogue of sustainable suppliers in Thailand" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Asia_-_Thailand.png"/></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-bc3c7884d1324dc390cd5c4267526e16">
   <div class="notion-collection__header-wrapper">

@@ -17,8 +17,6 @@ notion_id: "fa649a8ba1c343baa82ee941abf95579"
 
 The design of a public procurement process can limit or facilitate the application of Open SPP practices. In this section we include approaches to procurement that can be useful to introduce Open SPP practices. Procuring agencies should openly communicate, for each procurement process, which of these approaches will be taken, and how they are underpinned by the Open SPP enabling framework.
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 One procurement approach that can be very helpful when starting to implement sustainable practices in public procurement is to divide projects into **pilot and scale phases.** This can be especially useful for testing risky and uncertain assumptions. During the pilot phase, data should be clearly captured and should feed into the scaling phase.
 {% endcallout %}
@@ -27,8 +25,6 @@ One procurement approach that can be very helpful when starting to implement sus
 <strong>Outcome-based procurement</strong></h2>
 
 Outcome-based procurement can be another way to start implementing SPP. Applying an outcome-based procurement approach consists in framing purchasing needs in terms of the outcome that should be achieved, rather than how to achieve that outcome, allowing the supplier market to offer different solutions.
-
-<div class="notion-text"></div>
 
 {% toggle **Benefits of using outcome-based procurement**   %}
 
@@ -64,19 +60,13 @@ Outcome-based procurement approaches can be most useful when:
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 For more guidance and examples of how to shape procurement approaches to achieve sustainability outcomes, we recommend referring to the [Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting”](https://govlab.hks.harvard.edu/results-driven-contracting). For a case study on how to design a procurement process based on achieving desired outcomes see the Wichita Ground Maintenance Contracts example developed at the end of this section.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ## **Two-stage tender processes**
 
 Using two-stage procurement procedures, entails the possibility of establishing an ongoing dialogue, and openly disclosing information, between suppliers and procurement practitioners. 
-
-<div class="notion-text"></div>
 
 {% toggle **Benefits of two-stage tender processes** %}
 
@@ -103,7 +93,6 @@ There are different benefits of using two-stage tender processes when implementi
     <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
     <div class="notion-callout__content"><span class="notion-semantic-string">A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract. </span></div>
   </div>
-  <div class="notion-text"></div>
 </ul>
 
 {% endtoggle %}
@@ -112,17 +101,11 @@ There are different benefits of using two-stage tender processes when implementi
 
 Using two-stage tender processes can be especially useful in complex projects such as construction procurement. It can also be useful when there are less well established industry sustainability standards for a specific service, product, or work. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
-
-<div class="notion-text"></div>
 
 ## J**oint procurement**
 
 One of the procurement approaches that you can take within SPP implementation is joint procurement. This approach refers to the collaboration of multiple public authorities on a specific procurement. This collaboration can include jointly conducting early-stage market testing and engagement at the beginning of a procurement, or jointly tendering or contracting with a supplier, during the execution of a procurement. 
-
-<div class="notion-text"></div>
 
 {% toggle **Benefits of using joint procurement**  %}
 
@@ -143,8 +126,6 @@ There are different benefits of using joint procurement when implementing Open S
 - **Step 4:** Engage with the market together.
 - Step 5: Consider using individual contracts (collaborate to share best practice when evaluating suppliers, or set up a joint contract (joint tendering process, including the evaluation of suppliers).
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
 {% toggle **When can it be most useful?** %}
@@ -154,21 +135,13 @@ There are different benefits of using joint procurement when implementing Open S
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Pin_Red.png %}
 Throughout this toolkit, we have provided guidance on the use of[ frameworks](/establish-an-enabling-environment/framework-agreements)[ catalogs](/get-started/build-support-and-capacity), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout red /assets/images/Idea_Red.png %}
 For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction ](/construction-sector-1)and [ICT](/ict-sector-1). 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
@@ -176,25 +149,15 @@ For more guidance on procurement approaches that can be useful when implementing
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Case study** 
 
-<div class="notion-text"></div>
-
 **In 2015, Wichita, the largest city in the U.S. state of Kansas, [aimed to improve the quality of the city’s parks while reducing costs](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.
 
-<div class="notion-text"></div>
-
 With help from the Harvard Government Performance Lab, **the city created a data collection tool which inspectors could use in the field to track performance on key indicators (including grass height, prevalence of weeds and property damage).** They then conducted a **competitive procurement where, for the first time, the City considered factors such as past performance and ability to report on key metrics as part of the vendor selection.** The Purchasing Department also divided large land areas into smaller parcels, and reached out to vendors that had not previously bid on the City’s contracts. **The new contracts replaced punitive damages for under-performance with a 5 percent performance bonus to incentivize strong performance.** Vendors submitted invoices with pictures of the completed work. This eliminated the need for City staff to perform on-site inspections.
-
-<div class="notion-text"></div>
 
 **With this approach, the city boosted overall competition (the number of vendors submitting responses rose by 38 percent) without raising the costs. What is more important, complaints to the City Manager about grounds maintenance fell substantially.**
 {% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
-
-<div class="notion-text"></div>

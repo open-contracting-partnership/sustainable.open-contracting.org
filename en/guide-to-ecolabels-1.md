@@ -13,13 +13,9 @@ notion_id: "72beba9e9d394c5b80e1392e38aad24d"
 {% endcolumn %}
 {% column 0.75 %}
 
-<div class="notion-text"></div>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.** 
 {% endcallout %}
-
-<div class="notion-text"></div>
 
 ## **What are ecolabels?**
 
@@ -53,13 +49,9 @@ These labels have the same characteristics as Type I ecolabels, but focus on a s
 
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 ### **How can you apply ecolabels throughout SPP implementation**
 
 Ecolabels can be applied at different stages, and in different ways, throughout SPP implementation, including:
-
-<div class="notion-text"></div>
 
 {% toggle **Use ecolabel standards as guidance to draft environmental requirements** %}
 
@@ -77,21 +69,13 @@ When using Type I and Type-I like ecolabels in the procurement process, you can 
 
 When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/prioritize-1) of the toolkit. 
 
-<div class="notion-text"></div>
-
 {% endtoggle %}
 
-<div class="notion-text"></div>
-
 Finally, Type III EPDs can be very useful to compare amongst different products, and gather relevant environmental data, such as CO2 emissions. However, these are not as common as other labels, such as Type I and Type-I ecolabels. 
-
-<div class="notion-text"></div>
 
 ## **How can you find relevant ecolabels?**
 
 As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector-1) and [construction. ](/construction-sector-1)
-
-<div class="notion-text"></div>
 
 <div class="notion-collection inline collection-c0b0831c47e141aaa4a719e149885366">
   <div class="notion-collection__header-wrapper">
@@ -303,12 +287,10 @@ As explained in this section, Type I ecolabels are often the most commonly used 
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% endcolumn %}
 {% column 0.0417 %}
 
-<div class="notion-text"></div>
+
 
 {% endcolumn %}
 {% endcolumns %}

@@ -5,21 +5,13 @@ description: "Quick checklist"
 icon: "/assets/images/Tick_green_2-2.png"
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 ---
-<div class="notion-text"></div>
-
 {% callout green /assets/images/Pin_green.png %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](https://sustainable.open-contracting.org/get-started/establish-a-framework)in the [Open SPP toolkit](https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a).
 {% endcallout %}
 
-<div class="notion-text"></div>
-
 ### Quick c**hecklist**
 
-<div class="notion-text"></div>
-
 **First, check the regulation regarding evaluation or award criteria (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -30,19 +22,9 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 - Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
-
-<div class="notion-text"></div>
-
 - Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.
-
-<div class="notion-text"></div>
-
 - Consider applying [Life-Cycle Costing (LCC)](https://sustainable.open-contracting.org/life-cycle-costing) calculations.
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -53,11 +35,7 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -68,8 +46,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -78,8 +54,6 @@ The following checklist is designed to help you assess the different ways in whi
     <div class="notion-to-do__title"><span class="notion-semantic-string">Check that the current regulation allows for sufficient <strong>market engagement </strong>during the pre-procurement stage, including soliciting feedback from the market (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -90,8 +64,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -100,8 +72,6 @@ The following checklist is designed to help you assess the different ways in whi
     <div class="notion-to-do__title"><span class="notion-semantic-string">Check that existing <strong>framework agreements</strong> allow space for the introduction of sustainability criteria (see <a href="https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements" class="notion-link link" target="_blank" rel="noopener noreferrer">here</a> for more information).</span></div>
   </div>
 </div>
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -112,8 +82,6 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 <div class="notion-to-do">
   <div class="notion-to-do__content">
     <div class="notion-to-do__icon">
@@ -123,11 +91,7 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 **Finally:**
-
-<div class="notion-text"></div>
 
 <div class="notion-to-do">
   <div class="notion-to-do__content">
@@ -138,18 +102,12 @@ The following checklist is designed to help you assess the different ways in whi
   </div>
 </div>
 
-<div class="notion-text"></div>
-
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
-
-<div class="notion-text"></div>
 
 <div class="notion-pdf">
   <div class="notion-pdf__content">
     <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/49257986-2e99-4d72-9be1-e81a5e5b8da0.pdf"></iframe>
   </div>
 </div>
-
-<div class="notion-text"></div>
 {% endcallout %}
