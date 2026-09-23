@@ -40,6 +40,92 @@ def localize(text):
     return SUPER_ASSET.sub("/assets/super/", text)
 
 
+def clean(text):
+    """Remove markup that only Super.so's JavaScript uses."""
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    text = re.sub(
+        r' (?:data-server-link|data-link-uri|data-full-size|data-lightbox-src|data-nimg|decoding)="[^"]*"',
+        "",
+        text,
+    )
+    text = re.sub(r'<span style="display:contents">(<img [^>]*>)</span>', r"\1", text)
+    text = re.sub(r"<img [^>]*>", clean_image, text)
+    return text
+
+
+def clean_image(match):
+    tag = match.group(0)
+    src = re.search(r' src="([^"]*)"', tag).group(1)
+    srcset = re.search(r' srcSet="([^"]*)"', tag)
+    if srcset and all(
+        entry.split(" ")[0] == src for entry in srcset.group(1).split(", ")
+    ):
+        tag = re.sub(r' (?:srcSet|sizes)="[^"]*"', "", tag)
+    tag = re.sub(r"color:transparent;?", "", tag)
+    return tag.replace(' style=""', "")
+
+
+BLOCK = {
+    "article",
+    "aside",
+    "blockquote",
+    "details",
+    "div",
+    "figcaption",
+    "figure",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "hr",
+    "iframe",
+    "li",
+    "main",
+    "nav",
+    "ol",
+    "p",
+    "summary",
+    "table",
+    "tbody",
+    "td",
+    "th",
+    "thead",
+    "tr",
+    "ul",
+}
+VOID = {"br", "hr", "img", "input", "meta", "link", "source", "col", "wbr"}
+# Elements in which whitespace is significant (white-space: pre or pre-wrap), or not worth indenting.
+PRESERVE = re.compile(
+    r'^<(?:pre|code|svg)\b|class="[^"]*\b(?:notion-semantic-string|notion-header__title|notion-code)\b'
+)
+TOKEN = re.compile(r"<[^>]*>|[^<]+")
+
+
+def indent(text):
+    """Put block elements on their own lines, without changing whitespace that renders."""
+    output = []
+    stack = []  # [preserve whitespace, has a child on its own line]
+    for token in TOKEN.findall(text):
+        preserving = bool(stack) and stack[-1][0]
+        if token.startswith("</"):
+            element = stack.pop()
+            if element[1]:
+                output.append("\n" + "  " * len(stack))
+            output.append(token)
+        elif token.startswith("<"):
+            name = re.match(r"<([a-zA-Z0-9]+)", token).group(1).lower()
+            if name in BLOCK and not preserving:
+                output.append("\n" + "  " * len(stack))
+                if stack:
+                    stack[-1][1] = True
+            output.append(token)
+            if name not in VOID and not token.endswith("/>"):
+                stack.append([preserving or bool(PRESERVE.search(token)), False])
+        else:
+            output.append(token)
+    return "".join(output).strip()
+
+
 def meta(head, attribute, name):
     match = re.search(rf'<meta {attribute}="{name}" content="([^"]*)"', head)
     return match and html.unescape(match.group(1))
@@ -98,7 +184,9 @@ def main():
         }
         filename = ROOT / lang / ((path.strip("/") or "index") + ".html")
         filename.parent.mkdir(parents=True, exist_ok=True)
-        filename.write_text(front_matter(data) + localize(content) + "\n")
+        filename.write_text(
+            front_matter(data) + indent(clean(localize(content))) + "\n"
+        )
 
     # Super.so serves each page at its Notion ID, and some pages at other capitalizations, and redirects to the slug.
     for lang in SITES.values():
