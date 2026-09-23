@@ -1,7 +1,6 @@
 ---
 permalink: "/resource-directory/resource-directory"
 title: "Resource Directory"
-description: ""
 full_width: true
 collection: true
 notion_id: "c7a20ce72dbf45f9a8b9f4ae758aa910"

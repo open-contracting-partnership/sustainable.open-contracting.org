@@ -30,7 +30,7 @@ Afin de réduire les obstacles rencontrés par les entreprises dirigées par des
 
 ## **Quel est l’objectif ?**
 
-Les gouvernements dépensent chaque année la somme colossale de 13 000 milliards de dollars dans les marchés publics. Malheureusement, les petites entreprises et les entreprises dirigées par des femmes y sont largement sous-représentées. Par exemple, les entreprises dirigées par des femmes n’obtiennent que 5 % des marchés publics aux États-Unis et 17 % en Ukraine. À travers le prisme de l’intersectionnalité, des facteurs tels que la couleur de peau, le handicap et la localisation géographique limitent encore davantage l’accès des entreprises dirigées par des femmes aux marchés publics.
+Les gouvernements dépensent chaque année la somme colossale de 13 000 milliards de dollars dans les marchés publics. Malheureusement, les petites entreprises et les entreprises dirigées par des femmes y sont largement sous-représentées. Par exemple, les entreprises dirigées par des femmes n’obtiennent que 5 % des marchés publics aux États-Unis et 17 % en Ukraine. À travers le prisme de l’intersectionnalité, des facteurs tels que la couleur de peau, le handicap et la localisation géographique limitent encore davantage l’accès des entreprises dirigées par des femmes aux marchés publics.
 
 <div class="notion-text"></div>
 
@@ -63,9 +63,9 @@ La définition du concept et le recensement des entreprises dirigées par des fe
 
 La définition du concept d’entreprise dirigée par une femme varie d’une juridiction à une autre. Comme mentionné plus haut, la Colombie tient seulement compte du sexe de la personne qui représente l’entreprise, tandis que d’autres pays possèdent une définition plus détaillée de ce concept (et ont généralement un processus de certification ou d’enregistrement des entreprises dirigées par des femmes pour montrer qu’elles entrent dans le champ de la définition). Voici plusieurs possibilités pour définir les entreprises dirigées par des femmes :
 
-a) ≥ 51 % du capital ou des actions détenus par une ou plusieurs femmes ;
+a) ≥ 51 % du capital ou des actions détenus par une ou plusieurs femmes ;
 
-b) ≥ 1 directrice générale ou directrice des opérations (présidente/vice-présidente) ;
+b) ≥ 1 directrice générale ou directrice des opérations (présidente/vice-présidente) ;
 
 c) Des femmes sont propriétaires exclusives de l’entreprise.
 
@@ -107,7 +107,7 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 
 Le Standard de données sur la commande publique ouverte [recommande](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) de mettre en évidence les organisations dirigées par des femmes à l’aide de [l’extension concernant la classification des organisations](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Cette approche encourage les producteurs de données à élaborer leur définition du concept d’entreprise dirigée par une femme.
 
-En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
+En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
 
 {
 
@@ -195,7 +195,7 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 "identifier": "52.838.216",
 
-<strong>  "gender": "Femenino"</strong>
+<strong> "gender": "Femenino"</strong>
 
 }
 
@@ -213,7 +213,7 @@ D’autres politiques de recrutement axées sur l’égalité femmes-hommes peuv
 
 **Exemples d’indicateurs**
 
-À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
+À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 
 Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans
 
@@ -255,7 +255,7 @@ Suppliers can include in their tender submission what actions they take to promo
 
 <div class="notion-text"></div>
 
-À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
+À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 
 <div class="notion-text"></div>
 

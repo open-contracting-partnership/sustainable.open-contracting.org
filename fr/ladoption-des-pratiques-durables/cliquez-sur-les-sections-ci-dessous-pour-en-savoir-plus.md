@@ -1,7 +1,6 @@
 ---
 permalink: "/ladoption-des-pratiques-durables/cliquez-sur-les-sections-ci-dessous-pour-en-savoir-plus"
 title: "Cliquez sur les sections ci-dessous pour en savoir plus:"
-description: ""
 full_width: true
 collection: true
 notion_id: "56a67f7e4e114f4f88e0b397b0340c4f"

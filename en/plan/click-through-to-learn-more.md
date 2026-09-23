@@ -1,7 +1,6 @@
 ---
 permalink: "/plan/click-through-to-learn-more"
 title: "Click through to learn more"
-description: ""
 full_width: true
 collection: true
 notion_id: "4c33d7fd78b54214a8dcf08a0063929e"

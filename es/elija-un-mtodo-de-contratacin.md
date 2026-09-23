@@ -43,9 +43,9 @@ Cuando decida utilizar enfoques de contratación basados en resultados, esto pue
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Enfocándose en las necesidades reales
-</strong>Al enmarcar las necesidades en términos de resultados (por ejemplo, la necesidad de un sistema de entretenimiento para pacientes en un centro de salud) en lugar de necesidades específicas (por ejemplo, unidades de televisión), las autoridades públicas abren la opción de considerar diferentes formas de satisfacer las necesidades identificadas. Algunas de las soluciones propuestas por los proveedores podrían responder mejor a las necesidades identificadas que las opciones específicas que podrían considerarse.</li>
+</strong>Al enmarcar las necesidades en términos de resultados (por ejemplo, la necesidad de un sistema de entretenimiento para pacientes en un centro de salud) en lugar de necesidades específicas (por ejemplo, unidades de televisión), las autoridades públicas abren la opción de considerar diferentes formas de satisfacer las necesidades identificadas. Algunas de las soluciones propuestas por los proveedores podrían responder mejor a las necesidades identificadas que las opciones específicas que podrían considerarse.</li>
   <li class="notion-list-item notion-semantic-string"><strong>Impulsando la innovación
-</strong>Enmarcar las necesidades en términos de resultados anima al    mercado de proveedores a desarrollar y proponer diferentes soluciones.</li>
+</strong>Enmarcar las necesidades en términos de resultados anima al  mercado de proveedores a desarrollar y proponer diferentes soluciones.</li>
 </ul>
 
 </div>
@@ -171,8 +171,8 @@ El uso de procesos de licitación de dos etapas puede ser especialmente útil en
 
 ## **Contratación conjunta**
 
-Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS <em> </em>
- es la contratación conjunta. Este enfoque se refiere a la colaboración de múltiples autoridades públicas en una contratación específica. Esta colaboración puede incluir hacer pruebas conjuntas del mercado en las etapas iniciales y vincularse al comienzo de un proceso de contratación, o licitar o contratar conjuntamente con un proveedor durante el proceso.
+Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS <em> </em>
+ es la contratación conjunta. Este enfoque se refiere a la colaboración de múltiples autoridades públicas en una contratación específica. Esta colaboración puede incluir hacer pruebas conjuntas del mercado en las etapas iniciales y vincularse al comienzo de un proceso de contratación, o licitar o contratar conjuntamente con un proveedor durante el proceso.
 
 <div class="notion-text"></div>
 

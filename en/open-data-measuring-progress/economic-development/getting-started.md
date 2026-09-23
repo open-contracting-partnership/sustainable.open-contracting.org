@@ -1,7 +1,6 @@
 ---
 permalink: "/open-data-measuring-progress/economic-development/getting-started"
 title: "Getting started"
-description: ""
 full_width: true
 collection: true
 notion_id: "1454abcc35ce4c4e9e89158b2ecd8def"

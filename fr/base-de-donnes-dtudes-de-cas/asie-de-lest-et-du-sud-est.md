@@ -1,7 +1,6 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/asie-de-lest-et-du-sud-est"
 title: "Asie de l'Est et du Sud-Est"
-description: ""
 full_width: true
 collection: true
 notion_id: "272a4e061e694884846cdd80563cb8e3"

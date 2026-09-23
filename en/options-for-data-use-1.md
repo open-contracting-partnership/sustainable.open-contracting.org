@@ -258,7 +258,7 @@ This is as simple as giving your buying teams the capacity to flag a contract op
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 5: Request sustainability suggestions </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 5: Request sustainability suggestions </strong></span></div>
         </td>
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Work with buyers to set out standard terms to encourage sustainability suggestions (e.g low carbon alternatives) in contract opportunities.</span></div>
@@ -267,7 +267,7 @@ This is as simple as giving your buying teams the capacity to flag a contract op
           <div class="notion-table__cell"><span class="notion-semantic-string">Explore upgrading existing contract opportunities websites to include a flag (e.g. “low carbon“) for opportunities that are seeking sustainability alternatives.</span></div>
         </td>
         <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). </span></div>
         </td>
       </tr>
     </tbody>
@@ -309,7 +309,7 @@ It is important to note that there are different types of environmental labels a
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 6: Measure use of certifications </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 6: Measure use of certifications </strong></span></div>
         </td>
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Conduct discovery work around worldwide standards and certifications (see <a href="/guide-to-ecolabels" class="notion-link link" target="_blank" rel="noopener noreferrer">this section</a> for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance.</span></div>
@@ -356,7 +356,7 @@ Organizations can publish performance updates on contracts, such as: the carbon 
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 7: Monitor contract performance    </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 7: Monitor contract performance </strong></span></div>
         </td>
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Manually reconcile specifications with targeted metrics (e.g. look at specifications around SME and look at companies data). Contact suppliers to submit SPP based metrics.</span></div>

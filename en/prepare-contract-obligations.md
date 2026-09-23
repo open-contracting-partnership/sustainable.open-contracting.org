@@ -69,7 +69,7 @@ An effective contract clause should also frame sustainability requirements as â€
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Sustainability contract clauses should determine specific consequences in case of non-compliance. Best practice is to establish progressive consequences of clause breaches. Developing a corrective plan can be the first step after a breach, followed if needed byÂ  suspension of the contract, penalties, and termination.
+Sustainability contract clauses should determine specific consequences in case of non-compliance. Best practice is to establish progressive consequences of clause breaches. Developing a corrective plan can be the first step after a breach, followed if needed by suspension of the contract, penalties, and termination.
 
 <div class="notion-text"></div>
 

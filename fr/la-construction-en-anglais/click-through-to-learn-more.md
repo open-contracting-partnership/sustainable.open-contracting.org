@@ -1,7 +1,6 @@
 ---
 permalink: "/la-construction-en-anglais/click-through-to-learn-more"
 title: "Click through to learn more"
-description: ""
 full_width: true
 collection: true
 notion_id: "4cc790fb3b3942358a4c99b7e06e8bf7"

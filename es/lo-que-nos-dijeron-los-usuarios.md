@@ -23,7 +23,7 @@ Nos pusimos en contacto con más de 30 profesionales y expertos en compras soste
 
 - **La guía debe ser práctica y basada en las necesidades diarias**.
 
-Escuchamos de nuestros usuarios que la orientación existente a menudo puede ser difícil de implementar de manera práctica. Esto es especialmente relevante para los profesionales de adquisiciones, quienes expresaron la dificultad de aplicar una guía general en un contrato de adquisición específico. Nuestro conjunto de herramientas responde a esta necesidad reuniendo la orientación existente de una manera más fácil de usar, y también incluimos dos secciones con orientación práctica sobre cómo implementar la contratación pública sostenible y abierta en categorías de contrataciones  específicas.
+Escuchamos de nuestros usuarios que la orientación existente a menudo puede ser difícil de implementar de manera práctica. Esto es especialmente relevante para los profesionales de adquisiciones, quienes expresaron la dificultad de aplicar una guía general en un contrato de adquisición específico. Nuestro conjunto de herramientas responde a esta necesidad reuniendo la orientación existente de una manera más fácil de usar, y también incluimos dos secciones con orientación práctica sobre cómo implementar la contratación pública sostenible y abierta en categorías de contrataciones específicas.
 
 <div class="notion-text"></div>
 

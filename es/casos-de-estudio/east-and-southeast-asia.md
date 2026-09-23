@@ -1,7 +1,6 @@
 ---
 permalink: "/casos-de-estudio/east-and-southeast-asia"
 title: "East and Southeast Asia"
-description: ""
 full_width: true
 collection: true
 notion_id: "da62832db8564a9186ceaf6592ab4ef3"

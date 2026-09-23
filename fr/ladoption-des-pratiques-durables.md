@@ -234,7 +234,7 @@ Dans l’exemple ci-dessous, nous présentons les résultats et les indicateurs 
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 3: Analyze contracts awarded</a>
 
-<a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 7: Monitor contract performance </a>   </span></div>
+<a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 7: Monitor contract performance </a> </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">

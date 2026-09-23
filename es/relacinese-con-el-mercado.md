@@ -36,7 +36,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Evaluación de la capacidad del mercado</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
+  <p class="notion-text notion-text__content notion-semantic-string">Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
 </p>
   <li class="notion-list-item notion-semantic-string"><strong>Maximizar la oferta de proveedores por oportunidades de contrato</strong></li>
   <p class="notion-text notion-text__content notion-semantic-string">Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.
@@ -52,7 +52,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Un gran ejemplo de cómo las prácticas de participación en el  mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.</strong>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.</strong>
  Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales<em>.(The Chicago Council on Global Affairs.)</em></span></div>
 </div>
 
@@ -72,7 +72,7 @@ Las prácticas de participación en el mercado pueden variar según las diferent
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Las actividades de relación con el mercado se pueden aplicar a lo largo de  los diferentes pasos del diseño de su primer Plan de Acción de una CPS Abierta. Por ejemplo, relacionatse con el mercado es esencial para recopilar los datos necesarios para priorizar las categorías de contrataciones y diseñar criterios de sostenibilidad estandarizados. Los métodos que se pueden utilizar para relacionarse con el mercado durante este proceso pueden incluir:
+Las actividades de relación con el mercado se pueden aplicar a lo largo de los diferentes pasos del diseño de su primer Plan de Acción de una CPS Abierta. Por ejemplo, relacionatse con el mercado es esencial para recopilar los datos necesarios para priorizar las categorías de contrataciones y diseñar criterios de sostenibilidad estandarizados. Los métodos que se pueden utilizar para relacionarse con el mercado durante este proceso pueden incluir:
 
 - **Talleres** con proveedores para presentar objetivos de sostenibilidad y recopilar los datos necesarios para evaluar la capacidad del mercado.
 - **Consultas** en línea para permitir que los proveedores brinden retroalimentación sobre decisiones estratégicas con respecto a Open SPP, como la priorización de categorías de contrataciones.
@@ -101,7 +101,7 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de  lo
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Las actividades de participación en el mercado realizadas durante la fase  de planificación de un proceso de contratación se basarán en las necesidades que se hayan identificado y guiarán las decisiones sobre el diseño y los criterios introducidos en el proceso de contratación. Las actividades de participación en el mercado durante esta etapa se pueden solicitar para:
+Las actividades de participación en el mercado realizadas durante la fase de planificación de un proceso de contratación se basarán en las necesidades que se hayan identificado y guiarán las decisiones sobre el diseño y los criterios introducidos en el proceso de contratación. Las actividades de participación en el mercado durante esta etapa se pueden solicitar para:
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Realización de estudios de mercado </strong>para evaluar la disponibilidad de las soluciones existentes para resolver las necesidades identificadas de la forma más sostenible</li>

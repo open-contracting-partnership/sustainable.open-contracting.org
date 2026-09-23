@@ -38,7 +38,7 @@ The use of recycled materials in ICT equipment can contribute to lower its envir
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-One variable that should be considered when procuring ICT equipment is the total  % of recycled content.
+One variable that should be considered when procuring ICT equipment is the total % of recycled content.
 
 <div class="notion-text"></div>
 

@@ -119,27 +119,27 @@ Il existe plusieurs possibilités pour relier les données relatives aux marché
 
 <div class="notion-text"></div>
 
-### **Demander des propositions pour renforcer la durabilité (Possibilité 5)**
+### **Demander des propositions pour renforcer la durabilité (Possibilité 5)**
 
 Encouragez les fournisseurs à préciser ce qu’ils comptent faire pour réduire les émissions de carbone associées à leur marché.
 
 <div class="notion-text"></div>
 
-### **Anticiper les effets des marchés (Possibilité 4)**
+### **Anticiper les effets des marchés (Possibilité 4)**
 
 [L’évaluation du niveau d’émission de carbone des marchés](/la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values) est un bon moyen de planifier les émissions cumulées et l’effet potentiel de la modification des stratégies de passation de marchés. Cela peut aider les acheteurs à concentrer leurs efforts sur les catégories qui auront le plus d’effet. Cela peut également aider les acheteurs à définir des « budgets » carbone afin d’assurer que les fournisseurs respectent le niveau d’émission spécifié au cours de l’exécution du marché. Les données peuvent servir à informer les fournisseurs de cette obligation, mais également à effectuer des analyses groupées des initiatives de la commande publique dans toutes les divisions du gouvernement. Cette approche est plus efficace si elle est employée à l’échelle d’une catégorie unique faisant l’objet de nombreuses évaluations, comme l’énergie.
 
 <div class="notion-text"></div>
 
-### **Suivre l’exécution des marchés (Possibilité 7)**
+### **Suivre l’exécution des marchés (Possibilité 7)**
 
 Les acheteurs publics peuvent fournir des informations concernant les émissions de carbone durant ou après l’exécution du marché. Un certain nombre de secteurs, tels que le voyage et la construction, possèdent des indicateurs normalisés concernant les émissions pouvant être intégrés à tout rapport relatif à l’exécution. Étant donné qu’un [traité contraignant](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sur les déchets plastiques est en cours d’élaboration, ces approches peuvent également être reprises pour évaluer l’utilisation de plastique, en particulier dans les secteurs tendant vers une utilisation accrue, comme la construction, les médicaments ou les équipements médicaux.
 
 <div class="notion-text"></div>
 
-### **Évaluer l’emploi des certifications (Possibilité 6)**
+### **Évaluer l’emploi des certifications (Possibilité 6)**
 
-Vous pouvez utiliser des [certifications](https://sustainable.open-contracting.org/guide-to-ecolabels), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
+Vous pouvez utiliser des [certifications](https://sustainable.open-contracting.org/guide-to-ecolabels), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
 
 <div class="notion-text"></div>
 
@@ -303,7 +303,7 @@ Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons p
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected emissions - Actual emissions</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 5: Request sustainability suggestions</a>  
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 5: Request sustainability suggestions</a> 
 
 <a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 7: Monitor contract performance </a></span></div>
         </td>
@@ -327,7 +327,7 @@ Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons p
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected alignment with target (e.g. will achieve net zero in 2030)</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 5: Request sustainability suggestions</a>  
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 5: Request sustainability suggestions</a> 
 
 <a class="notion-link link" href="/possibilits-dutilisation-des-donnes">See Option 7: Monitor contract performance </a></span></div>
         </td>

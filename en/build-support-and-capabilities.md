@@ -51,7 +51,7 @@ This will be a huge shift in the traditional box ticking, compliance-based appro
 
 <div class="notion-text"></div>
 
-Below we include some  of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system ](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
+Below we include some of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system ](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
 
 <div class="notion-text"></div>
 
@@ -67,7 +67,7 @@ Beyond individual tenders, open and sustainable public procurement will need sma
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Organizing workshops with procurement professionals to inform, contribute to and celebrate  share the final[ Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
+Organizing workshops with procurement professionals to inform, contribute to and celebrate share the final[ Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
 
 <div class="notion-text"></div>
 

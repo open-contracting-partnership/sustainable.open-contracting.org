@@ -1,7 +1,7 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas"
 title: "Base de données d’études de cas"
-description: "Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables."
+description: "Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
@@ -16,7 +16,7 @@ notion_id: "b558a3155ed64ccdb4698b4364a55ae2"
 
 <div class="notion-callout bg-gray-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey3.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong><em>Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.</em></strong></span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong><em>Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.</em></strong></span></div>
 </div>
 
 <div class="notion-text"></div>

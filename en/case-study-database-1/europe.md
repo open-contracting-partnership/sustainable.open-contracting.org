@@ -1,7 +1,6 @@
 ---
 permalink: "/case-study-database-1/europe"
 title: "Europe"
-description: ""
 full_width: true
 collection: true
 notion_id: "1bf2fbacd9fe42699eac2d92e9ede9bb"

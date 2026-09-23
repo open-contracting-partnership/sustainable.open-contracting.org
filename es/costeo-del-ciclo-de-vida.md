@@ -173,7 +173,7 @@ Con datos sólidos, será posible identificar y trabajar con los equipos más ex
 
 <div class="notion-text"></div>
 
-Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida: 
+Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida: 
 
 <div class="notion-text"></div>
 
@@ -210,7 +210,7 @@ Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para 
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducir costeo del ciclo de vida en el proceso de contratación.</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores  </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Número de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores.
@@ -298,10 +298,10 @@ Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para 
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida.
--Número total de propuestas </span></div>
+-Número total de propuestas </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida/-Número total de propuestas </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida/-Número total de propuestas </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
@@ -384,7 +384,7 @@ Ver Opción 4</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Licitación más económica para un proponente en particular (con base en el precio de adquisición.
--Costo proyectado del ciclo de vida 
+-Costo proyectado del ciclo de vida 
 -Costo proyectado del ciclo de vida de la licitación seleccionada</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">

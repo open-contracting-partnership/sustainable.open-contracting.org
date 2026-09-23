@@ -216,7 +216,7 @@ Hemos incluido estos resultados a continuación, junto con los indicadores corre
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de contratos adjudicados a empresas lideradas por mujeres.
--Valor total de contratos públicos </span></div>
+-Valor total de contratos públicos </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Valor de contratos adjudicados a empresas lideradas por mujeres /Número total de contratos</span></div>
@@ -272,13 +272,13 @@ Hemos incluido estos resultados a continuación, junto con los indicadores corre
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública.</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Promedio de la brecha salarial de género entre proveedores del sector público.</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Suma de datos de brecha salarial entregada por proveedores (diferencia en porcentaje en ganancias  entre funciones equivalentes en toda la organización)
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Suma de datos de brecha salarial entregada por proveedores (diferencia en porcentaje en ganancias entre funciones equivalentes en toda la organización)
 -Número total de proveedores.</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
@@ -294,17 +294,17 @@ Ver Opción 10</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública.</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Promedio de la brecha salarial entre proveedores del sector público por categoría de contratación (p.ej. TI, construcción, etc.)</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Suma de datos de brecha salarial entregada por proveedores (diferencia en porcentaje en ganancias  entre funciones equivalentes en toda la organización)
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Suma de datos de brecha salarial entregada por proveedores (diferencia en porcentaje en ganancias entre funciones equivalentes en toda la organización)
 -Número total de proveedores.</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Suma de datos de brecha salarial entregada por proveedores (en una categoría específica) / Número total de proveedores (en una categoría específica </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Suma de datos de brecha salarial entregada por proveedores (en una categoría específica) / Número total de proveedores (en una categoría específica </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 8
@@ -316,7 +316,7 @@ Ver Opción 10</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública. </span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Desvío de la brecha salarial para los proveedores ganadores.</span></div>
@@ -326,7 +326,7 @@ Ver Opción 10</span></div>
 -Brecha salarial de los proveedores ganadores.</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promedio de brecha salarial por categoría – brecha salarial del proveedor ganador </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promedio de brecha salarial por categoría – brecha salarial del proveedor ganador </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 10</span></div>
@@ -337,7 +337,7 @@ Ver Opción 10</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública. </span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Desvío de la brecha salarial promedio de todos los oferentes y de los proveedores ganadores.</span></div>
@@ -359,7 +359,7 @@ Ver Opción 10</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública.</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de contratos adjudicados a proveedores que presenten igualdad salarial dentro de su organización.</span></div>
@@ -381,7 +381,7 @@ Ver Opción 10</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover la inclusión de género</span></div>
         </td>
         <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover  igualdad salarial de género a través de contratación pública.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Promover igualdad salarial de género a través de contratación pública.</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de propuestas que referencien desigualdad de género dentro del puntaje (criterios de adjudicación)</span></div>
@@ -410,7 +410,7 @@ Ver Opción 5</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Valor total de propuestas que referencien desigualdad de género dentro de los puntajes de propuestas.
--Valor total de propuestas publicadas </span></div>
+-Valor total de propuestas publicadas </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Valor de propuestas que referencien desigualdad de género / Valor total de las propuestas publicadas</span></div>

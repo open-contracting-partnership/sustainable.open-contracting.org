@@ -1,7 +1,6 @@
 ---
 permalink: "/adopcin-de-cps/haga-clic-en-las-siguientes-secciones-para-obtener-ms-informacin-sobre-cmo-comenzar"
 title: "Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:"
-description: ""
 full_width: true
 collection: true
 notion_id: "7ca2fb0638404bae83ecc23035cf0805"

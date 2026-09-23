@@ -53,7 +53,7 @@ La comunicación del resultado de este ejercicio en su Plan de Acción es una op
 
 <div class="notion-text"></div>
 
-- **Cambios o ajustes que habría que adoptar con el fin de aumentar el alcance de implementación.** Esto puede incluir, por ejemplo, la figura de contratos reservados o metas, (LINK 87) )para ciertos tipos de empresas como  PyMES; o la definición de un umbral de contratación (LINK 88) para facilitar la implementación de CPS Abierta.
+- **Cambios o ajustes que habría que adoptar con el fin de aumentar el alcance de implementación.** Esto puede incluir, por ejemplo, la figura de contratos reservados o metas, (LINK 87) )para ciertos tipos de empresas como PyMES; o la definición de un umbral de contratación (LINK 88) para facilitar la implementación de CPS Abierta.
 
 <div class="notion-text"></div>
 
@@ -158,7 +158,7 @@ En 2021 la Ciudad del Cabo, Sudáfrica, publicó su</strong> <a href="https://ww
     <div class="notion-text"></div>
     <p class="notion-text notion-text__content notion-semantic-string">Cada objetivo está asociado con unos resultados específicos y actividades que en su mayoría hacen referencia a la creación de mecanismos de apoyo. Éstos incluyen, por ejemplo, &quot;desarrollar lineamientos y especificaciones para los bienes prioritarios&quot;, o &quot;desarrollar una gama de productos de comunicación y capacitación e intervenciones dirigidas a los empleados de la Ciudad&quot;.</p>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string"><strong>La Ciudad ha asignado un cronograma para para cada actividad, que oscila entre  1 a 2 años,   3 a 5 años o 6 a 0 años.</strong></p>
+    <p class="notion-text notion-text__content notion-semantic-string"><strong>La Ciudad ha asignado un cronograma para para cada actividad, que oscila entre 1 a 2 años, 3 a 5 años o 6 a 0 años.</strong></p>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ En 2021 la Ciudad del Cabo, Sudáfrica, publicó su</strong> <a href="https://ww
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-La implementación de CPS Abierta normalmente involucra a varias entidades institucionales a nivel nacional, que frecuentemente incluye el Ministerio de Medio Entorno, y cualesquiera Autoridades Nacionales  de Contratación Pública pertinentes. El Plan de Acción debe hace claridad en la asignación de **responsabilidades y rendición de cuentas entre las agencias del gobierno (de demás partes interesadas del caso**).
+La implementación de CPS Abierta normalmente involucra a varias entidades institucionales a nivel nacional, que frecuentemente incluye el Ministerio de Medio Entorno, y cualesquiera Autoridades Nacionales de Contratación Pública pertinentes. El Plan de Acción debe hace claridad en la asignación de **responsabilidades y rendición de cuentas entre las agencias del gobierno (de demás partes interesadas del caso**).
 
 <div class="notion-text"></div>
 
@@ -262,7 +262,7 @@ Asimismo, los criterios ambientales recomendados para su inclusión en procesos 
 <div class="notion-text"></div>
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Warn_green_2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Recuerde siempre que la <strong>meta final es tener prácticas de contratación sostenibles </strong>que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública. </span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Recuerde siempre que la <strong>meta final es tener prácticas de contratación sostenibles </strong>que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública. </span></div>
 </div>
 <div class="notion-text"></div>
 <div class="notion-callout bg-gray-light border">

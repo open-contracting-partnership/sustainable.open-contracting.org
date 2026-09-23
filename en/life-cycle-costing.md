@@ -254,15 +254,15 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life cycle costing into the tendering process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">Option 4: Forecast contract impact</a></span></div>
@@ -276,15 +276,15 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life cycle costing into the tendering process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total value of tenders </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">Option 4: Forecast contract impact</a></span></div>
@@ -342,15 +342,15 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total number of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
  / Total number of contracts</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
@@ -367,15 +367,15 @@ Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-y
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total value of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">Option 1: Assign tags to procurements</a>

@@ -39,7 +39,7 @@ Les marchés axés sur les résultats peuvent constituer un bon point de départ
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Ce type d’approche peut vous procurer deux grands avantages :
+Ce type d’approche peut vous procurer deux grands avantages :
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string"><strong>Concentrer l’attention sur les besoins réels.</strong> En présentant les besoins sous la forme de résultats (par exemple, le besoin d’un système de divertissement dans un centre de santé) au lieu de formuler des besoins plus spécifiques (par exemple des téléviseurs), les acheteurs publics donnent la possibilité de soumettre des propositions plus variées pour répondre aux besoins recensés. Certaines solutions proposées par les fournisseurs peuvent répondre plus efficacement aux besoins recensés que les solutions spécifiques définies par l’acheteur.</li>
@@ -62,7 +62,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 
 <ul class="notion-bulleted-list">
   <li class="notion-list-item notion-semantic-string">Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;</li>
-  <li class="notion-list-item notion-semantic-string">Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;</li>
+  <li class="notion-list-item notion-semantic-string">Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;</li>
   <li class="notion-list-item notion-semantic-string">Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez <a href="https://sustainable.open-contracting.org/prepare-contract-obligations" class="notion-link link" target="_blank" rel="noopener noreferrer"><strong>cette section</strong></a><strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).
 </li>
 </ul>
@@ -99,7 +99,7 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 
 <div class="notion-text"></div>
 
-## **Processus d’appel d’offres en deux temps**
+## **Processus d’appel d’offres en deux temps**
 
 Les processus de passation de marchés en deux temps permettent d’établir un dialogue constant entre les fournisseurs et les services de passation de marchés et de divulguer les informations pertinentes de façon ouverte.
 
@@ -109,7 +109,7 @@ Les processus de passation de marchés en deux temps permettent d’établir un 
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Avantages des processus d’appel d’offres en deux temps</strong></span>
+  </div><span class="notion-semantic-string"><strong>Avantages des processus d’appel d’offres en deux temps</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -135,12 +135,12 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
 <ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string">Étape 1 : publiez un avis de marché et établissez des critères d’évaluation pour la phase du questionnaire de présélection.</li>
-  <li class="notion-list-item notion-semantic-string">Étape 2 : faites une première sélection des fournisseurs potentiels à partir des réponses au questionnaire.</li>
-  <li class="notion-list-item notion-semantic-string">Étape 3 : ouvrez le dialogue avec les candidats et d’autres parties prenantes de la chaîne d’approvisionnement.</li>
-  <li class="notion-list-item notion-semantic-string">Étape 4 : rédigez une version préliminaire des spécifications en vous appuyant sur les discussions avec les entreprises afin de pouvoir sélectionner les solutions définitives.</li>
-  <li class="notion-list-item notion-semantic-string">Étape 5 : les candidats soumettent leurs offres définitives.</li>
-  <li class="notion-list-item notion-semantic-string">Étape 6 : évaluez les offres et attribuez le marché au fournisseur retenu.
+  <li class="notion-list-item notion-semantic-string">Étape 1 : publiez un avis de marché et établissez des critères d’évaluation pour la phase du questionnaire de présélection.</li>
+  <li class="notion-list-item notion-semantic-string">Étape 2 : faites une première sélection des fournisseurs potentiels à partir des réponses au questionnaire.</li>
+  <li class="notion-list-item notion-semantic-string">Étape 3 : ouvrez le dialogue avec les candidats et d’autres parties prenantes de la chaîne d’approvisionnement.</li>
+  <li class="notion-list-item notion-semantic-string">Étape 4 : rédigez une version préliminaire des spécifications en vous appuyant sur les discussions avec les entreprises afin de pouvoir sélectionner les solutions définitives.</li>
+  <li class="notion-list-item notion-semantic-string">Étape 5 : les candidats soumettent leurs offres définitives.</li>
+  <li class="notion-list-item notion-semantic-string">Étape 6 : évaluez les offres et attribuez le marché au fournisseur retenu.
 </li>
 </ul>
 
@@ -201,11 +201,11 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-- Étape 1 : communiquez vos besoins ou programmes d’achat à d’autres acheteurs publics. Communiquez vos projets d’achat à venir et établissez un canal de communication clair entre les organismes publics.
-- Étape 2 : définissez les règles de gouvernance et de direction du groupe. Déterminez si vous souhaitez créer un partenariat ou donner un pouvoir de direction à un organisme en particulier.
-- Étape 3 : convenez de spécifications et d’approches similaires.
-- Étape 4 : interagissez conjointement avec les acteurs du marché.
-- Étape 5 : déterminez si vous aurez recours à des contrats individuels (en collaborant pour partager les meilleures pratiques concernant l’évaluation des fournisseurs) ou si vous établirez un contrat commun (processus d’appel d’offres conjoint, y compris concernant l’évaluation des fournisseurs).
+- Étape 1 : communiquez vos besoins ou programmes d’achat à d’autres acheteurs publics. Communiquez vos projets d’achat à venir et établissez un canal de communication clair entre les organismes publics.
+- Étape 2 : définissez les règles de gouvernance et de direction du groupe. Déterminez si vous souhaitez créer un partenariat ou donner un pouvoir de direction à un organisme en particulier.
+- Étape 3 : convenez de spécifications et d’approches similaires.
+- Étape 4 : interagissez conjointement avec les acteurs du marché.
+- Étape 5 : déterminez si vous aurez recours à des contrats individuels (en collaborant pour partager les meilleures pratiques concernant l’évaluation des fournisseurs) ou si vous établirez un contrat commun (processus d’appel d’offres conjoint, y compris concernant l’évaluation des fournisseurs).
 
 <div class="notion-text"></div>
 
@@ -259,9 +259,9 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey4.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas </strong></span>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, <a href="https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts" class="notion-link link">souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts</a>. À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.</p>
-    <p class="notion-text notion-text__content notion-semantic-string">Avec l’aide du Government Performance Lab de Harvard, la ville a conçu un outil de collecte de données que les services d’inspection ont utilisé sur le terrain pour évaluer les résultats des prestataires en suivant plusieurs indicateurs clés (notamment la hauteur des pelouses, la présence de mauvaise herbe et les dommages matériels). Par la suite, la ville a lancé un appel d’offres concurrentiel lors duquel, pour la première fois, elle a pris en compte des critères tels que les résultats lors des marchés antérieurs et la capacité à présenter des rapports concernant des indicateurs essentiels pour choisir son prestataire. Le département des achats a également divisé de grandes zones en parcelles plus petites et contacté des prestataires qui n’avaient encore jamais répondu aux appels d’offres de la ville. Les nouvelles conditions ont remplacé les dommages-intérêts punitifs pour mauvais résultats par une prime de rendement de 5 % afin de favoriser la bonne exécution du marché. Les prestataires joignent des photos de leur travail à leurs factures. Le personnel de la ville n’a ainsi plus besoin de réaliser d’inspections sur site.</p>
-    <p class="notion-text notion-text__content notion-semantic-string">Grâce à cette approche, la ville a renforcé la compétitivité globale (le nombre de soumissionnaires a augmenté de 38 %) sans augmenter ses coûts. Plus important encore, les plaintes auprès du service de gestion de la ville concernant l’entretien paysagiste ont diminué de façon substantielle.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, <a href="https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts" class="notion-link link">souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts</a>. À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Avec l’aide du Government Performance Lab de Harvard, la ville a conçu un outil de collecte de données que les services d’inspection ont utilisé sur le terrain pour évaluer les résultats des prestataires en suivant plusieurs indicateurs clés (notamment la hauteur des pelouses, la présence de mauvaise herbe et les dommages matériels). Par la suite, la ville a lancé un appel d’offres concurrentiel lors duquel, pour la première fois, elle a pris en compte des critères tels que les résultats lors des marchés antérieurs et la capacité à présenter des rapports concernant des indicateurs essentiels pour choisir son prestataire. Le département des achats a également divisé de grandes zones en parcelles plus petites et contacté des prestataires qui n’avaient encore jamais répondu aux appels d’offres de la ville. Les nouvelles conditions ont remplacé les dommages-intérêts punitifs pour mauvais résultats par une prime de rendement de 5 % afin de favoriser la bonne exécution du marché. Les prestataires joignent des photos de leur travail à leurs factures. Le personnel de la ville n’a ainsi plus besoin de réaliser d’inspections sur site.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Grâce à cette approche, la ville a renforcé la compétitivité globale (le nombre de soumissionnaires a augmenté de 38 %) sans augmenter ses coûts. Plus important encore, les plaintes auprès du service de gestion de la ville concernant l’entretien paysagiste ont diminué de façon substantielle.</p>
     <div class="notion-text"></div>
   </div>
 </div>

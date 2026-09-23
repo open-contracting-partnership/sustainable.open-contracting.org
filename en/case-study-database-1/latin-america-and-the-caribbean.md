@@ -1,7 +1,6 @@
 ---
 permalink: "/case-study-database-1/latin-america-and-the-caribbean"
 title: "Latin America and the Caribbean"
-description: ""
 full_width: true
 collection: true
 notion_id: "a02b0ed1590146ebb846fbba9f36f1f0"

@@ -1,7 +1,7 @@
 ---
 permalink: "/gender-inclusion"
 title: "Gender inclusion"
-description: "To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector.  We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time."
+description: "To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector. We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
@@ -24,7 +24,7 @@ notion_id: "62de91131c48424bad09f737eac35e8c"
 
 ## What is it?
 
-To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector.  We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time.
+To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector. We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time.
 
 <div class="notion-text"></div>
 
@@ -411,7 +411,7 @@ We have included these outcomes below, together with the corresponding indicator
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements
 </a>
-<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-purple)">
@@ -436,7 +436,7 @@ We have included these outcomes below, together with the corresponding indicator
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements
 </a>
 
-<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-purple)">
@@ -461,7 +461,7 @@ We have included these outcomes below, together with the corresponding indicator
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements
 </a>
 
-<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
     </tbody>
@@ -470,7 +470,7 @@ We have included these outcomes below, together with the corresponding indicator
 
 <div class="notion-text"></div>
 
-Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver meaningful change, particularly in industries where the government is an important  buyer. If data on gender disparity is published openly, others can monitor the activities of suppliers and the data can be used to make positive changes to their own organizations and to deliver improved bids for future contracts.
+Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver meaningful change, particularly in industries where the government is an important buyer. If data on gender disparity is published openly, others can monitor the activities of suppliers and the data can be used to make positive changes to their own organizations and to deliver improved bids for future contracts.
 
 <div class="notion-text"></div>
 
@@ -492,7 +492,7 @@ This is particularly important for groups of women who may have less access to i
 
 - **Develop guidance and change management strategies for buyers to reduce bias in the evaluation process.**
 
-Unfortunately, bias and discrimination can still affect the evaluation process (whether conscious or unconscious).  Creating guidance and training for public buyers can help. See this [example from Colombia.](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit)
+Unfortunately, bias and discrimination can still affect the evaluation process (whether conscious or unconscious). Creating guidance and training for public buyers can help. See this [example from Colombia.](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit)
 
 <div class="notion-text"></div>
 

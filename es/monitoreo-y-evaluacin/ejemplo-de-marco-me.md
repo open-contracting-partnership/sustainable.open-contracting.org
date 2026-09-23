@@ -150,7 +150,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 3: Analyze contracts awarded</a>
 
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 7: Monitor contract performance </a>   </span></div>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 7: Monitor contract performance </a> </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">
@@ -263,7 +263,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Compliant tenders / Total number of tenders</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-green)">
@@ -310,7 +310,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to CO2 emissions / Total number of tenders</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-green)">
@@ -354,7 +354,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected emissions - Actual emissions</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 7: Monitor contract performance </a></span></div>
         </td>
@@ -378,7 +378,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected alignment with target (e.g. will achieve net zero in 2030)</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 7: Monitor contract performance </a></span></div>
         </td>
@@ -427,7 +427,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 6: Measure use of certifications</a></span></div>
         </td>
@@ -454,7 +454,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 6: Measure use of certifications</a></span></div>
         </td>
@@ -781,7 +781,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements
 </a>
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-purple)">
@@ -805,7 +805,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-purple)">
@@ -829,7 +829,7 @@ You will notice that each of the sustainability goals introduced in this M&E fra
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
+<a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 5: Request sustainability suggestions </a></span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-orange)">
@@ -1095,15 +1095,15 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life-cycle costing into the procurement process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 4: Forecast contract impact</a></span></div>
@@ -1117,15 +1117,15 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life-cycle costing into the procurement process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total value of tenders </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 4: Forecast contract impact</a></span></div>
@@ -1183,15 +1183,15 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total number of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
  / Total number of contracts</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
@@ -1208,15 +1208,15 @@ You will notice that each of the sustainability goals introduced in this M&E fra
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total value of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/opciones-para-el-uso-de-datos">See Option 1: Assign tags to procurements</a>

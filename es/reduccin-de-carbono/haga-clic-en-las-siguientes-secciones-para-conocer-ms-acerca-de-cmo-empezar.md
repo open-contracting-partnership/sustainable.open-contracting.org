@@ -1,7 +1,6 @@
 ---
 permalink: "/reduccin-de-carbono/haga-clic-en-las-siguientes-secciones-para-conocer-ms-acerca-de-cmo-empezar"
 title: "Haga clic en las siguientes secciones para conocer más acerca de cómo empezar:"
-description: ""
 full_width: true
 collection: true
 notion_id: "f325664dacee4ac9bcb1f83c2c70736a"

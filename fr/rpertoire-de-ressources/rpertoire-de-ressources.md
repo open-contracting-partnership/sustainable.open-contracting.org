@@ -1,7 +1,6 @@
 ---
 permalink: "/rpertoire-de-ressources/rpertoire-de-ressources"
 title: "Répertoire de ressources"
-description: ""
 full_width: true
 collection: true
 notion_id: "2f907c0eb5484e96b977d1e38de3f67d"

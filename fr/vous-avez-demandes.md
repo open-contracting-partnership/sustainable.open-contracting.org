@@ -27,13 +27,13 @@ Notre lectorat a indiqué que les orientations existantes sont souvent difficile
 
 - **Les orientations doivent pouvoir être utilisées à différentes étapes du processus et adaptées à différents niveaux de compétences technologiques.**
 
-Les besoins des utilisateurs dépendent de l’étape du processus de mise en place de marchés publics durables à laquelle ils se trouvent. Nos conversations ont rappelé que les orientations sont plus utiles lorsqu’elles reconnaissent et traitent la diversité des besoins. De ce fait, notre guide pratique est divisé en trois parties. L’introduction et la première section vous seront particulièrement utiles si vous êtes au début du processus. Si vous avez déjà avancé, ces sections restent pertinentes, mais vous trouverez les informations les plus utiles dans les deuxième et troisième parties. Les personnes les plus aguerries focaliseront probablement leur attention sur la troisième section.
+Les besoins des utilisateurs dépendent de l’étape du processus de mise en place de marchés publics durables à laquelle ils se trouvent. Nos conversations ont rappelé que les orientations sont plus utiles lorsqu’elles reconnaissent et traitent la diversité des besoins. De ce fait, notre guide pratique est divisé en trois parties. L’introduction et la première section vous seront particulièrement utiles si vous êtes au début du processus. Si vous avez déjà avancé, ces sections restent pertinentes, mais vous trouverez les informations les plus utiles dans les deuxième et troisième parties. Les personnes les plus aguerries focaliseront probablement leur attention sur la troisième section.
 
 <div class="notion-text"></div>
 
 - **Les marchés publics écologiques sont la priorité absolue.**
 
-La mise en place de marchés publics durables suppose de prendre en compte des facteurs concernant les trois piliers du développement durable : les aspects économiques, sociaux et environnementaux. Toutefois, la majorité de notre lectorat cible souhaite en savoir plus sur l’aspect environnemental.
+La mise en place de marchés publics durables suppose de prendre en compte des facteurs concernant les trois piliers du développement durable : les aspects économiques, sociaux et environnementaux. Toutefois, la majorité de notre lectorat cible souhaite en savoir plus sur l’aspect environnemental.
 
 <div class="notion-text"></div>
 
@@ -41,7 +41,7 @@ Tout d’abord, des engagements récents pris par de nombreux gouvernements à a
 
 <div class="notion-text"></div>
 
-C’est pourquoi nous avons mis l’accent sur des exemples plus poussés abordant des questions environnementales tout en montrant comment les objectifs de durabilité concernant les trois domaines peuvent contribuer mutuellement les uns aux autres.
+C’est pourquoi nous avons mis l’accent sur des exemples plus poussés abordant des questions environnementales tout en montrant comment les objectifs de durabilité concernant les trois domaines peuvent contribuer mutuellement les uns aux autres.
 
 <div class="notion-text"></div>
 

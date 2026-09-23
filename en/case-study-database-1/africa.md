@@ -1,7 +1,6 @@
 ---
 permalink: "/case-study-database-1/africa"
 title: "Africa"
-description: ""
 full_width: true
 collection: true
 notion_id: "d1540eb07fda4dac836ffa8c346591a0"

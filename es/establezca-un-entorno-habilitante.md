@@ -37,7 +37,7 @@ Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la list
 <div class="notion-text"></div>
 <p class="notion-text notion-text__content notion-semantic-string">Sin embargo, no necesariamente resulta factible incluir estos factores a la hora de determinar los criterios de evaluación, ya que en muchos casos el contrato se debe adjudicar a la oferta más baja.</p>
 <div class="notion-text"></div>
-<p class="notion-text notion-text__content notion-semantic-string">Esta situación puede representar una barrera clave; y debe empezar a hacer una revisión de las condiciones establecidas  o exigidas en su entorno habilitante en relación con los criterios de evaluación o adjudicación. Como regla general,  estas condiciones  quedan establecidas a nivel nacional, o bien  por una institución internacional si el Proyecto va a estar financiado (por ejemplo) con recursos de ayuda para el desarrollo de una entidad internacional. Dependiendo de esas condiciones en relación con los criterios de adjudicación, ofrecemos unos lineamientos sobre su implementación eventual de CPS Abierta.</p>
+<p class="notion-text notion-text__content notion-semantic-string">Esta situación puede representar una barrera clave; y debe empezar a hacer una revisión de las condiciones establecidas o exigidas en su entorno habilitante en relación con los criterios de evaluación o adjudicación. Como regla general, estas condiciones quedan establecidas a nivel nacional, o bien por una institución internacional si el Proyecto va a estar financiado (por ejemplo) con recursos de ayuda para el desarrollo de una entidad internacional. Dependiendo de esas condiciones en relación con los criterios de adjudicación, ofrecemos unos lineamientos sobre su implementación eventual de CPS Abierta.</p>
 <div class="notion-text"></div>
 <div class="notion-toggle closed">
 <div class="notion-toggle__summary">
@@ -55,7 +55,7 @@ Muchos regímenes de contratación solo permiten la adjudicación de contratos a
 
 Cada contrato público establece ciertos criterios imprescindibles a ser cumplidas por los proveedores para que se consideren aptos como oferentes, y este requisitito generalmente aparece bajo un rubro que llevaba el criterios esenciales o especificaciones técnicas, tú. La inclusión de sostenibilidad como parte de estos criterios es uno de las maneras principales de obtener una contratación más sostenible, y al mismo tiempo seleccionar la oferta más baja.<br>
 
-Para lograr esto, usted debe asegurar que los criterios están claramente ligados a la materia del contrato, y relacionarse con el mercado con obtener la seguridad de que un número adecuado de proveedores pueden cumplir con estos criterios. Para mayor información sobre esto, ver secciones  Determine criterios de sostenibilidad y Relaciónese con el mercado de proveedores.
+Para lograr esto, usted debe asegurar que los criterios están claramente ligados a la materia del contrato, y relacionarse con el mercado con obtener la seguridad de que un número adecuado de proveedores pueden cumplir con estos criterios. Para mayor información sobre esto, ver secciones Determine criterios de sostenibilidad y Relaciónese con el mercado de proveedores.
 
 <div class="notion-text"></div>
 

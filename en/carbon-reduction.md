@@ -131,7 +131,7 @@ Encouraging suppliers to detail how they will reduce the carbon emissions associ
 
 ### **Monitor contract performance (Option 7)**
 
-Public buyers can provide information on carbon emissions during, or at the conclusion of a contract.  A number of industries such as travel and construction have standardized measures for their emissions and these can be included in any contract performance update. As work is underway to create a [binding treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) on plastic waste, these approaches can also be taken to measure use of plastic, specially in sectors that are skewed towards heavy usage such as construction and medicines/medical equipment.
+Public buyers can provide information on carbon emissions during, or at the conclusion of a contract. A number of industries such as travel and construction have standardized measures for their emissions and these can be included in any contract performance update. As work is underway to create a [binding treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) on plastic waste, these approaches can also be taken to measure use of plastic, specially in sectors that are skewed towards heavy usage such as construction and medicines/medical equipment.
 
 <div class="notion-text"></div>
 
@@ -143,7 +143,7 @@ You can use [certifications](/guide-to-ecolabels) such as Environmental Product 
 
 ## Sample indicators
 
-Below are some simple low code and no code options that can help governments to measure the uptake of policies and the likely reductions that are being secured through specifying low carbon products and services. It is also a great way to communicate that you  are taking action on climate more generally.
+Below are some simple low code and no code options that can help governments to measure the uptake of policies and the likely reductions that are being secured through specifying low carbon products and services. It is also a great way to communicate that you are taking action on climate more generally.
 
 <div class="notion-text"></div>
 
@@ -208,7 +208,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
           <div class="notion-table__cell"><span class="notion-semantic-string">Compliant tenders / Total number of tenders</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-green)">
@@ -255,7 +255,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
           <div class="notion-table__cell"><span class="notion-semantic-string">Tenders which reference to CO2 emissions / Total number of tenders</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-green)">
@@ -299,7 +299,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected emissions - Actual emissions</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a>  
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> 
 
 <a class="notion-link link" href="/options-for-data-use-1">See Option 7: Monitor contract performance </a></span></div>
         </td>
@@ -323,7 +323,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
           <div class="notion-table__cell"><span class="notion-semantic-string">Projected alignment with target (e.g. will achieve net zero in 2030)</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a>  
+          <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions</a> 
 
 <a class="notion-link link" href="/options-for-data-use-1">See Option 7: Monitor contract performance </a></span></div>
         </td>
@@ -372,7 +372,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a>
+<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/options-for-data-use-1">See Option 6: Measure use of certifications</a></span></div>
         </td>
@@ -399,7 +399,7 @@ Some of these are more complicated than others. Even if you don’t have a relia
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">See Option 1: Assign tags to procurements</a>
 
-<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a>
+<a class="notion-link link" href="/options-for-data-use-1">See Option 5: Request sustainability suggestions </a>
 
 <a class="notion-link link" href="/options-for-data-use-1">See Option 6: Measure use of certifications</a></span></div>
         </td>

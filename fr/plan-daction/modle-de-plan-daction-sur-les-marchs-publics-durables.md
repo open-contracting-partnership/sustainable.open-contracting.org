@@ -22,8 +22,8 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 
 **Contexte**
 
-- 1.1. Historique des marchés publics durables dans le pays
-- 1.2. Contribution aux objectifs de développement durable
+- 1.1. Historique des marchés publics durables dans le pays
+- 1.2. Contribution aux objectifs de développement durable
 - 1.3. Lois et réglementation pertinentes sur les marchés publics durables
 
 <div class="notion-text"></div>
@@ -77,13 +77,13 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 
 - 8.1. Responsabilités en matière de communication
 - 8.2. Parties prenantes à contacter
-- 8.3. Stratégie de communication
+- 8.3. Stratégie de communication
 
 <div class="notion-text"></div>
 
 **Suivi et contrôle (Suivi et évaluation : objectifs, résultats et indicateurs)**
 
-- 9.1. Besoins en matière de suivi et de contrôle
+- 9.1. Besoins en matière de suivi et de contrôle
 - 9.2 Comment quantifier et déterminer les effets grâce à des indicateurs ?
 
 <div class="notion-text"></div>

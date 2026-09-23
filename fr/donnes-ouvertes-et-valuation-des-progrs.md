@@ -1,7 +1,7 @@
 ---
 permalink: "/donnes-ouvertes-et-valuation-des-progrs"
 title: "Données ouvertes et évaluation des progrès"
-description: "Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée au début de notre guide pratique et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de cadre de suivi et d’évaluation dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
+description: "Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée au début de notre guide pratique et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de cadre de suivi et d’évaluation dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Notion-Imp_3.png"
 full_width: true
@@ -15,7 +15,7 @@ notion_id: "35dc615b39b84af793a9430029ef8567"
 
 # **Données ouvertes et évaluation des progrès**
 
-Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
+Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
 <div class="notion-text"></div>
 
@@ -42,7 +42,7 @@ Plusieurs facteurs influenceront et détermineront votre approche de collecte de
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 1 : analyser le fonctionnement et la structure de gouvernance de la passation de marchés de votre entité</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 1 : analyser le fonctionnement et la structure de gouvernance de la passation de marchés de votre entité</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -59,11 +59,11 @@ Convenir des modalités de collaboration des nombreuses parties prenantes dans l
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 2 : évaluer vos plateformes de passation de marchés</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 2 : évaluer vos plateformes de passation de marchés</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre des marchés publics. Il est nécessaire de mettre en place un système permettant de collecter les données de différents plateformes ou canaux afin de recueillir toutes les données pertinentes. Par exemple, la Corée collecte des données de trois plateformes différentes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données requises issues de processus d’achat décentralisés (pour en savoir plus, consultez les pages 60 à 63 de [ce rapport du Programme des Nations Unies pour l’environnement](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Il est essentiel de comprendre d’où viennent les données que vous collectez pour concevoir un système de publication des informations.
+Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre des marchés publics. Il est nécessaire de mettre en place un système permettant de collecter les données de différents plateformes ou canaux afin de recueillir toutes les données pertinentes. Par exemple, la Corée collecte des données de trois plateformes différentes : la plateforme centrale de passation électronique de marchés publics « KONEPS » ; la plateforme décentralisée de passation électronique de marchés « Green Market » ; et la plateforme électronique de suivi « Green Products Information Platform », créée pour que les organismes publics de passation de marchés transmettent les données requises issues de processus d’achat décentralisés (pour en savoir plus, consultez les pages 60 à 63 de [ce rapport du Programme des Nations Unies pour l’environnement](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Il est essentiel de comprendre d’où viennent les données que vous collectez pour concevoir un système de publication des informations.
 
 <div class="notion-text"></div>
 
@@ -74,7 +74,7 @@ Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre de
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -90,7 +90,7 @@ L’année de référence est le moment où vous commencerez à collecter des do
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 4 : évaluer vos capacités</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 4 : évaluer vos capacités</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 

@@ -36,7 +36,7 @@ Les marchés publics durables sont [définis par le Programme des Nations Unies 
 
 <div class="notion-text"></div>
 
-En d’autres mots, les marchés publics durables désignent la prise en compte des trois piliers du développement durable (économique, social et environnemental) dans le cadre de la commande publique. Cela peut supposer, par exemple, de concevoir une procédure de passation de marchés visant à favoriser les entreprises locales (économique), assurer que les fournisseurs veillent au respect des droits du travail dans leur chaîne d’approvisionnement (social) ou acquérir des produits fabriqués à partir de matériaux recyclés (environnemental). Pour une vue d’ensemble d’autres facteurs pouvant être pris en considération concernant chaque pilier, consultez [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
+En d’autres mots, les marchés publics durables désignent la prise en compte des trois piliers du développement durable (économique, social et environnemental) dans le cadre de la commande publique. Cela peut supposer, par exemple, de concevoir une procédure de passation de marchés visant à favoriser les entreprises locales (économique), assurer que les fournisseurs veillent au respect des droits du travail dans leur chaîne d’approvisionnement (social) ou acquérir des produits fabriqués à partir de matériaux recyclés (environnemental). Pour une vue d’ensemble d’autres facteurs pouvant être pris en considération concernant chaque pilier, consultez [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
 
 <div class="notion-text"></div>
 
@@ -61,7 +61,7 @@ Selon [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp
 
 <div class="notion-text"></div>
 
-Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
+Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
 
 <div class="notion-text"></div>
 
@@ -80,7 +80,7 @@ Il existe une croyance répandue selon laquelle, lorsque l’environnement habil
 
 <div class="notion-text"></div>
 
-- Lorsque l’environnement habilitant permet seulement de prendre en compte le prix parmi les critères d’évaluation, trois grandes approches sont possibles : intégrer des critères de durabilité aux exigences essentielles des marchés ; prendre en compte le [coût du cycle de vie](https://sustainable.open-contracting.org/life-cycle-costing) ; et assurer le respect de la réglementation en vigueur en matière de durabilité.
+- Lorsque l’environnement habilitant permet seulement de prendre en compte le prix parmi les critères d’évaluation, trois grandes approches sont possibles : intégrer des critères de durabilité aux exigences essentielles des marchés ; prendre en compte le [coût du cycle de vie](https://sustainable.open-contracting.org/life-cycle-costing) ; et assurer le respect de la réglementation en vigueur en matière de durabilité.
 - Lorsque l’environnement habilitant permet de prendre en compte d’autres éléments que le prix parmi les critères d’évaluation, vous pouvez utiliser les plans et politiques de durabilité en vigueur pour guider la conception de critères d’évaluation de la durabilité.
 
 Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) pour évaluer rapidement votre environnement habilitant et consulter [cette section](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour approfondir les concepts de la liste.
@@ -98,7 +98,7 @@ Une fois que vous avez analysé la réglementation relative aux critères d’é
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Avant de mettre en place des marchés publics durables, il peut être utile de définir les produits prioritaires afin de cibler les efforts en la matière. Différents facteurs peuvent être pris en compte pour définir ces priorités, ils peuvent globalement être séparés en deux grandes catégories :
+Avant de mettre en place des marchés publics durables, il peut être utile de définir les produits prioritaires afin de cibler les efforts en la matière. Différents facteurs peuvent être pris en compte pour définir ces priorités, ils peuvent globalement être séparés en deux grandes catégories :
 
 - Les facteurs qui vous aideront à déterminer les effets en matière de durabilité de la mise en place de marchés publics durables dans une catégorie particulière (comme les émissions de CO2 associées) ;
 - Les facteurs qui vous aideront à évaluer la facilité de mise en place (comme l’existence de certifications environnementales).
@@ -146,7 +146,7 @@ Un plan d’action sur les marchés publics durables sert de référence aux ser
 
 - L’environnement habilitant : abordez les modalités de mise en place des marchés publics durables par rapport à la réglementation en vigueur et tous les changements qui y seront apportés pour renforcer la portée de leur mise en place (par exemple les marchés réservés) ;
 - Les catégories de marchés prioritaires : abordez les catégories définies comme prioritaires et la justification de ces choix, ainsi que des orientations relatives à la mise en place de marchés publics durables dans ces catégories ;
-- Objectifs et cibles : abordez les objectifs en matière de durabilité (par exemple la réduction des émissions de carbone), le mode d’évaluation des progrès concernant leur réalisation (par exemple en évaluant le nombre de marchés publics contenant des critères environnementaux) et les cibles qui y sont associées (par exemple 50 % de marchés publics contenant des critères environnementaux d’ici 2030) ;
+- Objectifs et cibles : abordez les objectifs en matière de durabilité (par exemple la réduction des émissions de carbone), le mode d’évaluation des progrès concernant leur réalisation (par exemple en évaluant le nombre de marchés publics contenant des critères environnementaux) et les cibles qui y sont associées (par exemple 50 % de marchés publics contenant des critères environnementaux d’ici 2030) ;
 - Plan de renforcement des capacités : abordez les mécanismes qui faciliteront la mise en place (par exemple la création de registres et de catalogues de fournisseurs responsables, ou l’organisation de formations sur les marchés publics durables à l’intention des professionnels de la commande publique) ;
 - Structure de gouvernance et responsabilités : abordez les entités publiques qui seront responsables de la coordination et de l’exécution des différentes pratiques et mesures de la stratégie sur les marchés publics durables ;
 - Budget alloué : abordez le budget qui sera alloué à la stratégie relative aux marchés publics durables (par exemple pour l’élaboration de documents d’orientation, la formation…).
@@ -198,11 +198,11 @@ Consultez [cette section](https://sustainable.open-contracting.org/engage-with-t
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. L’Organisation internationale de normalisation (ISO) classe actuellement ces étiquettes en trois types : type I, type II, type III, et nous ajoutons les éco-étiquettes apparentées au type I.
+Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. L’Organisation internationale de normalisation (ISO) classe actuellement ces étiquettes en trois types : type I, type II, type III, et nous ajoutons les éco-étiquettes apparentées au type I.
 
-Les éco-étiquettes de type I et apparentées au type I divulguent généralement les critères à respecter pour recevoir la certification. Pour renforcer la durabilité des marchés publics, vous pouvez demander aux fournisseurs de respecter les critères définis par un programme de certification spécifique ou reprendre certains de ces critères dans les spécifications d’un marché.
+Les éco-étiquettes de type I et apparentées au type I divulguent généralement les critères à respecter pour recevoir la certification. Pour renforcer la durabilité des marchés publics, vous pouvez demander aux fournisseurs de respecter les critères définis par un programme de certification spécifique ou reprendre certains de ces critères dans les spécifications d’un marché.
 
-Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
+Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
 
 <div class="notion-text"></div>
 
@@ -221,7 +221,7 @@ Une croyance erronée pourtant répandue voudrait que l’achat de produits et s
 
 <div class="notion-text"></div>
 
-Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le calcul et la prise en compte du coût du cycle de vie. Parmi les outils pratiques, la [Commission européenne](https://ec.europa.eu/environment/gpp/lcc.htm) a conçu cinq outils de calcul du coût du cycle de vie utilisant Excel concernant plusieurs catégories de marchés (distributeurs automatiques, équipements de traitement de l’image, ordinateurs et écrans, éclairage intérieur et éclairage extérieur). La documentation de ces outils indique comment ils peuvent être utilisés pour évaluer les solutions existantes avant de lancer l’appel d’offres, pour comparer les offres durant l’appel d’offres et pour évaluer l’exécution du marché après la clôture de l’appel d’offres.
+Consultez [cette section](https://sustainable.open-contracting.org/life-cycle-costing) pour en savoir plus sur le calcul et la prise en compte du coût du cycle de vie. Parmi les outils pratiques, la [Commission européenne](https://ec.europa.eu/environment/gpp/lcc.htm) a conçu cinq outils de calcul du coût du cycle de vie utilisant Excel concernant plusieurs catégories de marchés (distributeurs automatiques, équipements de traitement de l’image, ordinateurs et écrans, éclairage intérieur et éclairage extérieur). La documentation de ces outils indique comment ils peuvent être utilisés pour évaluer les solutions existantes avant de lancer l’appel d’offres, pour comparer les offres durant l’appel d’offres et pour évaluer l’exécution du marché après la clôture de l’appel d’offres.
 
 </div>
 </div>

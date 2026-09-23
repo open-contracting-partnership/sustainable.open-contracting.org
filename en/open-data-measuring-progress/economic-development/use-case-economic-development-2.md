@@ -1,14 +1,14 @@
 ---
 permalink: "/open-data-measuring-progress/economic-development/use-case-economic-development-2"
 title: "Use case: Economic development (2)"
-description: "For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy."
+description: "For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy."
 notion_id: "c60fec464c5e41619c1e0859a52aa2d7"
 ---
 <div class="notion-image page-width"><img alt="image" loading="lazy" width="4478" height="2784" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_110.jpg"/></div>
 
 ## What is it?
 
-For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy.
+For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy.
 
 ## Why do it?
 

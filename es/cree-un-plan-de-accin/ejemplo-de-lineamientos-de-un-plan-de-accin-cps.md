@@ -52,11 +52,11 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 
 **Development and adaptations of new sustainable procurement tools (Capacity building plan)**
 
-5.1  Sustainable Procurement Guidelines of the Priority Products
+5.1 Sustainable Procurement Guidelines of the Priority Products
 
 5.2 Updated tender documents
 
-5.3  Training modules
+5.3 Training modules
 
 <div class="notion-text"></div>
 
@@ -85,7 +85,7 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 
 **Monitoring and control (Monitoring & evaluation)**
 
-9.1.  Need for monitoring and control
+9.1. Need for monitoring and control
 
 9.2 How to quantify and determine impact through indicators
 

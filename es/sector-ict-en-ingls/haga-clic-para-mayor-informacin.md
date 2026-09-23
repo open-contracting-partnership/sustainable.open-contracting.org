@@ -1,7 +1,6 @@
 ---
 permalink: "/sector-ict-en-ingls/haga-clic-para-mayor-informacin"
 title: "Haga clic para mayor información"
-description: ""
 full_width: true
 collection: true
 notion_id: "d7927c8ac8094938a033b66caa06ca2c"

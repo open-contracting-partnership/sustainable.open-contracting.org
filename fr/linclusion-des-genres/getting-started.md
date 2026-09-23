@@ -1,7 +1,6 @@
 ---
 permalink: "/linclusion-des-genres/getting-started"
 title: "Getting started"
-description: ""
 full_width: true
 collection: true
 notion_id: "fb8a5242429d4c17bdd1f6e07e1f79b4"

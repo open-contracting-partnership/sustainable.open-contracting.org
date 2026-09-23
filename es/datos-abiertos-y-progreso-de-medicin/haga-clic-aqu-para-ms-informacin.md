@@ -1,7 +1,6 @@
 ---
 permalink: "/datos-abiertos-y-progreso-de-medicin/haga-clic-aqu-para-ms-informacin"
 title: "Haga clic aquí para más información"
-description: ""
 full_width: true
 collection: true
 notion_id: "a08fcfdc88344818a66667e68174b97e"

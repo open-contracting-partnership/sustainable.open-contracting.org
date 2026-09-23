@@ -97,7 +97,7 @@ Create flags on contract registers or portals for key economic indicators: e.g. 
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 5: Request sustainability suggestions </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 5: Request sustainability suggestions </strong></span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Work with buyers to set out standard terms to encourage sustainability suggestions (e.g low carbon alternatives) in contract opportunities.</span></div>
@@ -106,12 +106,12 @@ Create flags on contract registers or portals for key economic indicators: e.g. 
           <div class="notion-table__cell"><span class="notion-semantic-string">Explore upgrading existing contract opportunities websites to include a flag (e.g. “low carbon“) for opportunities that are seeking sustainability alternatives.</span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). </span></div>
         </td>
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 6: Measure use of certifications </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 6: Measure use of certifications </strong></span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Conduct discovery work around worldwide standards and certifications (see <a href="/guide-to-ecolabels" class="notion-link link" target="_blank" rel="noopener noreferrer">this section</a> for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance.</span></div>
@@ -125,7 +125,7 @@ Create flags on contract registers or portals for key economic indicators: e.g. 
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:174.5px;max-width:174.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 7: Monitor contract performance    </strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Option 7: Monitor contract performance </strong></span></div>
         </td>
         <td style="min-width:174.5px;max-width:174.5px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Manually reconcile specifications with targeted metrics (e.g. look at specifications around SME and look at companies data). Contact suppliers to submit SPP based metrics.</span></div>

@@ -74,7 +74,7 @@ The subject matter of the contract refers to the product, service or work that y
 
 <div class="notion-text"></div>
 
-The definition of your subject matter is an essential step when implementing SPP. As we introduced in[ this section](/get-started/establish-a-framework), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned.  This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
+The definition of your subject matter is an essential step when implementing SPP. As we introduced in[ this section](/get-started/establish-a-framework), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned. This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
 
 <div class="notion-text"></div>
 

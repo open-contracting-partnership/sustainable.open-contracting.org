@@ -48,7 +48,7 @@ Esto representa un cambio radical desde las prácticas tradicionales de cumplir 
 
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/icon-exclamation.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos  y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.</span>
+  <div class="notion-callout__content"><span class="notion-semantic-string">Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.</span>
     <p class="notion-text notion-text__content notion-semantic-string"><strong>La regla de oro es: vincular temprano, vincular con frecuencia. Si usted no tiene designios para la vinculación e inclusión desde el inicio, nunca la logrará</strong>.</p>
   </div>
 </div>
@@ -83,7 +83,7 @@ Las sesiones de capacitación en CPS se pueden organizar durante todo el año, c
 <div class="notion-text">
   <p class="notion-text__content notion-semantic-string"><strong>Talleres sobre sostenibilidad con los proveedores</strong></p>
   <div class="notion-text__children">
-    <p class="notion-text notion-text__content notion-semantic-string">Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación. (LINK 65)  Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación. (LINK 65) Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.</p>
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Estas organizaciones pueden monitorear la transparencia e impacto, o la implemen
 
 ## **Estandarice sus criterios de sostenibilidad**
 
-Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
+Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 
 <div class="notion-text"></div>
 

@@ -1,7 +1,6 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/europe"
 title: "Europe"
-description: ""
 full_width: true
 collection: true
 notion_id: "b8477f5c4266465eaea24d9f6a19ad9f"

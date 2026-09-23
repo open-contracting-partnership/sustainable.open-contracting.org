@@ -70,6 +70,32 @@ def clean(text):
     return text
 
 
+def fix_spaces(text, lang):
+    """Replace non-breaking spaces with spaces, except where typography requires them (in numbers and in French)."""
+
+    def replace(match):
+        before = text[match.start() - 1 : match.start()]
+        after = text[match.end() : match.end() + 1]
+        if before.isdigit() and after.isdigit():
+            return match.group(0)
+        if lang == "fr" and (
+            after in ":;!?»" or before == "«" or (before.isdigit() and after.isalpha())
+        ):
+            return match.group(0)
+        return " "
+
+    text = re.sub(" ? + ?", lambda m: m.group(0) if m.group(0) == " " else " ", text)
+    return re.sub(" ", replace, text)
+
+
+def fix_text_spaces(content, lang):
+    """Apply ``fix_spaces`` to the text of HTML, not its tags."""
+    return "".join(
+        token if token.startswith("<") else fix_spaces(token, lang)
+        for token in TOKEN.findall(content)
+    )
+
+
 def clean_image(match):
     tag = match.group(0)
     src = re.search(r' src="([^"]*)"', tag).group(1)
@@ -339,15 +365,18 @@ def main():
         head = document[: document.index("<body")]
         content = MAIN.search(document).group(3)
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)
-        content = clean(localize(content))
+        content = fix_text_spaces(clean(localize(content)), lang)
         content = HREF.sub(
             lambda m: rewrite_link(m, lang, live_paths, redirects, links), content
         )
         data, content = parse_page(content)
         data = {
             "permalink": path,
-            "title": html.unescape(re.search(r"<title>([^<]*)</title>", head).group(1)),
-            "description": meta(head, "name", "description"),
+            "title": fix_spaces(
+                html.unescape(re.search(r"<title>([^<]*)</title>", head).group(1)), lang
+            ),
+            "description": fix_spaces(meta(head, "name", "description") or "", lang)
+            or None,
             **data,
             "notion_id": r["pageId"],
         }

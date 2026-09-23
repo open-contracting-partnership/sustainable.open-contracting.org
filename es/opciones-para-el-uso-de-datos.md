@@ -160,7 +160,7 @@ Los compradores pueden medir el valor y la cantidad de contratos relacionados co
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 3: Analice los contratos adjudicados</strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 3: Analice los contratos adjudicados</strong></span></div>
         </td>
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Haga seguimiento y supervise los contratos adjudicados en hojas de cálculo simples y herramientas de análisis comunes (por ejemplo, Excel).
@@ -182,7 +182,7 @@ Cree banderas en registros de contratos o portales para indicadores económicos 
 
 <div class="notion-text"></div>
 
-### **Opción 4: Previsión del impacto del contrato**
+### **Opción 4: Previsión del impacto del contrato**
 
 Estimar el impacto potencial que podría tener un contrato puede ayudar a dar forma a los requisitos establecidos para los proveedores. Esto puede incluir, por ejemplo, la estimación de las emisiones de carbono, asociadas al contrato a generación de residuos prevista o los costos asociados del ciclo de vida del activo que está adquiriendo. Estos datos se pueden recopilar a través de los mecanismos existentes para medir el impacto (por ejemplo, el cálculo predictivo de las emisiones de carbono) o al observar los datos históricos del contrato para pronosticar los costos del ciclo de vida. Luego puede usar este pronóstico como base para establecer un "presupuesto" de carbono (es decir, las emisiones permitidas asociadas con un contrato), o para calcular el valor de la oferta en función de los costos del ciclo de vida.
 
@@ -267,7 +267,7 @@ Esto es tan simple como dar a sus equipos de compras la capacidad de marcar una 
           <div class="notion-table__cell"><span class="notion-semantic-string">Explore la actualización de los sitios web de oportunidades de contratos existentes para incluir una bandera (por ejemplo, &quot;bajo en carbono&quot;) para las oportunidades que buscan alternativas de sostenibilidad.</span></div>
         </td>
         <td style="min-width:183.865234375px;max-width:183.865234375px;background:var(--color-bg-green)">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Establezca una especificación para una característica que requiera que los proveedores detallen cómo planean ser más sostenibles (por ejemplo, reducir el carbono durante un contrato. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Establezca una especificación para una característica que requiera que los proveedores detallen cómo planean ser más sostenibles (por ejemplo, reducir el carbono durante un contrato. </span></div>
         </td>
       </tr>
     </tbody>
@@ -310,7 +310,7 @@ Es importante señalar que existen diferentes tipos de etiquetas y certificacion
       </tr>
       <tr style="color:var(--color-text-default)">
         <td style="min-width:197.861328125px;max-width:197.861328125px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 6:  Mida el uso de las certificaciones</strong></span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>Opción 6: Mida el uso de las certificaciones</strong></span></div>
         </td>
         <td style="min-width:198.8671875px;max-width:198.8671875px;background:var(--color-bg-orange)">
           <div class="notion-table__cell"><span class="notion-semantic-string">Realice un trabajo de descubrimiento en torno a estándares y certificaciones mundiales (consulte esta sección<strong> </strong>para ver ejemplos) para identificar el mejor ajuste con las necesidades del comprador. Utilice esto para trabajar con los proveedores y garantizar una mayor acreditación y cumplimiento.</span></div>
@@ -328,7 +328,7 @@ Es importante señalar que existen diferentes tipos de etiquetas y certificacion
 
 <div class="notion-text"></div>
 
-### **Opción 7: Supervise la ejecución del contrato**
+### **Opción 7: Supervise la ejecución del contrato**
 
 Las organizaciones pueden publicar actualizaciones de rendimiento en los contratos, como: el carbono emitido durante o al finalizar un contrato, la cantidad de puestos de trabajo creados como resultado del contrato, etc. Esta información se puede utilizar para medir el progreso en relación con los objetivos de sostenibilidad, sino también para monitorear el desempeño contra las especificaciones CPS. Esto es especialmente relevante para garantizar una implementación justa y eficiente de CPS, minimizando los riesgos de lavado verde: otorgar contratos de carbono a subempresas de contaminadores, otorgar contratos favorables a las PYME a no PYME, contratos de igualdad de género a salas de juntas u organizaciones dominadas por hombres. con salarios sesgados a favor de los hombres.
 

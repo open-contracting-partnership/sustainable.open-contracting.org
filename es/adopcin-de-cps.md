@@ -146,13 +146,13 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Aumentar la implementación de CPS</span></div>
         </td>
         <td style="min-width:143.5px;max-width:143.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Compartir  contratos que estén clasificados como CPS</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Compartir contratos que estén clasificados como CPS</span></div>
         </td>
         <td style="min-width:188.5px;max-width:188.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">- Número de contratos clasificados como CPS- Número total de contratos.</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Contratos clasificados como CPS / Número total de contratos </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Contratos clasificados como CPS / Número total de contratos </span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1: *-</span></div>
@@ -169,13 +169,13 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación en el valor de los contratos clasificados como CPS</span></div>
         </td>
         <td style="min-width:188.5px;max-width:188.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-  Valores de contratos clasificados como CPS- Valor total de los contratos </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Valores de contratos clasificados como CPS- Valor total de los contratos </span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Valor de contratos clasificados como CPS / Valor total de los contratos.</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1: *- </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1: *- </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">
@@ -186,16 +186,16 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Aumentar la implementación de CPS</span></div>
         </td>
         <td style="min-width:143.5px;max-width:143.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de compradores públicos  que adjudiquen contratos clasificados como CPS. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de compradores públicos que adjudiquen contratos clasificados como CPS. </span></div>
         </td>
         <td style="min-width:188.5px;max-width:188.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-  Número de autoridades de contratación pública que adjudiquen contratos clasificados como CPS.- Número total de autoridades de contratación. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Número de autoridades de contratación pública que adjudiquen contratos clasificados como CPS.- Número total de autoridades de contratación. </span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Autoridades de contratación pública que adjudiquen contratos como CPS /.Número total de autoridades de contratación pública</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1: *-Ver Opción 2:  </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1: *-Ver Opción 2: </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">
@@ -215,7 +215,7 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Contratos donde se han registrado resultados de sostenibilidad / Número total de contratos clasificados como CPS</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 3: Ver Opción 7: </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 3: Ver Opción 7: </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">
@@ -229,30 +229,10 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de proponentes que referencian los criterios CPS dentro de los puntajes de las especificaciones</span></div>
         </td>
         <td style="min-width:188.5px;max-width:188.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Número de proponentes que referencian criterios CPS dentro de los puntajes de los criterios (criterios de adjudicación)-  Número total de proponentes.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Número de proponentes que referencian criterios CPS dentro de los puntajes de los criterios (criterios de adjudicación)- Número total de proponentes.</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Contratos que incluyan requisitos ambientales como especificaciones de la licitación / Número total de contratos </span></div>
-        </td>
-        <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-blue)">
-        <td style="min-width:137.5px;max-width:137.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Fomentar la adopción de CPS</span></div>
-        </td>
-        <td style="min-width:127.5px;max-width:127.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Incorporar la sostenibilidad en el proceso de contratación</span></div>
-        </td>
-        <td style="min-width:143.5px;max-width:143.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de propuestas que referencien criterios CPS dentro de las especificaciones.</span></div>
-        </td>
-        <td style="min-width:188.5px;max-width:188.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de propuestas que  referencien criterios CPS dentro de las especificaciones.-Valor total de las propuestas.</span></div>
-        </td>
-        <td style="min-width:189.5px;max-width:189.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Licitaciones que referencien  criterios CPS en el puntaje (criterios de adjudicación) / Número total de  licitaciones</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Contratos que incluyan requisitos ambientales como especificaciones de la licitación / Número total de contratos </span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1</span></div>
@@ -269,7 +249,27 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de propuestas que referencien criterios CPS dentro de las especificaciones.</span></div>
         </td>
         <td style="min-width:188.5px;max-width:188.5px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de las licitaciones  que referencien criterios CPS dentro de las especificaciones.-Valor total de las propuestas.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de propuestas que referencien criterios CPS dentro de las especificaciones.-Valor total de las propuestas.</span></div>
+        </td>
+        <td style="min-width:189.5px;max-width:189.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">Licitaciones que referencien criterios CPS en el puntaje (criterios de adjudicación) / Número total de licitaciones</span></div>
+        </td>
+        <td style="min-width:189.5px;max-width:189.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1</span></div>
+        </td>
+      </tr>
+      <tr style="background:var(--color-bg-blue)">
+        <td style="min-width:137.5px;max-width:137.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">Fomentar la adopción de CPS</span></div>
+        </td>
+        <td style="min-width:127.5px;max-width:127.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">Incorporar la sostenibilidad en el proceso de contratación</span></div>
+        </td>
+        <td style="min-width:143.5px;max-width:143.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de propuestas que referencien criterios CPS dentro de las especificaciones.</span></div>
+        </td>
+        <td style="min-width:188.5px;max-width:188.5px">
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de las licitaciones que referencien criterios CPS dentro de las especificaciones.-Valor total de las propuestas.</span></div>
         </td>
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Valor de licitaciones que referencien criterios CPS en las especificaciones / Valor total de los contratos</span></div>

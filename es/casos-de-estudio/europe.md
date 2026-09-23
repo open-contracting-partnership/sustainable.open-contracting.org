@@ -1,7 +1,6 @@
 ---
 permalink: "/casos-de-estudio/europe"
 title: "Europe"
-description: ""
 full_width: true
 collection: true
 notion_id: "3402d9d316484305ae00dd5e568ef8a8"

@@ -68,7 +68,7 @@ One way to monitor implementation of SPP benchmarks during a contract is by dist
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-There are different ways by which suppliers can verify performance  against sustainability requirements. These include:
+There are different ways by which suppliers can verify performance against sustainability requirements. These include:
 
 <div class="notion-text"></div>
 
@@ -124,7 +124,7 @@ Public authorities can organize task forces to verify and monitor sustainability
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Another important  way to gather needed data to monitor performance  could be  by engaging civil society or the users/beneficiaries of a service. Citizen or beneficiary collaboration could then be enabled to collect data, for example, on health and safety measures, impact of projects on the communities, etc. This can be done by using community forums, opening online platforms, assigning civil organizations to gather information, apps, etc. Read more about the role of [procurement monitoring here](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/), and check out Integrity Action’s [Development Check app](https://integrityaction.org/devcheck/) for additional inspiration.
+Another important way to gather needed data to monitor performance could be by engaging civil society or the users/beneficiaries of a service. Citizen or beneficiary collaboration could then be enabled to collect data, for example, on health and safety measures, impact of projects on the communities, etc. This can be done by using community forums, opening online platforms, assigning civil organizations to gather information, apps, etc. Read more about the role of [procurement monitoring here](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/), and check out Integrity Action’s [Development Check app](https://integrityaction.org/devcheck/) for additional inspiration.
 
 </div>
 </div>

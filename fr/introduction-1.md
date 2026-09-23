@@ -19,7 +19,7 @@ Les préoccupations croissantes concernant les changements climatiques et la dur
 
 <div class="notion-text"></div>
 
-Pour tenir ces engagements, les pratiques de passation de marchés des gouvernements apparaissent comme un domaine d’action essentiel. Les marchés publics représentent environ 15 % du produit intérieur brut mondial et concernent un dollar sur trois qui est dépensé par les gouvernements, ce qui représente la somme colossale de 13 000 milliards de dollars par an. Les marchés publics comptent également pour [15 % des émissions mondiales annuelles de gaz à effet de serre](https://www.bcg.com/press/13january2022-green-government-procurement-practices-cut-global-emissions), c’est sept fois plus que l’industrie aéronautique.
+Pour tenir ces engagements, les pratiques de passation de marchés des gouvernements apparaissent comme un domaine d’action essentiel. Les marchés publics représentent environ 15 % du produit intérieur brut mondial et concernent un dollar sur trois qui est dépensé par les gouvernements, ce qui représente la somme colossale de 13 000 milliards de dollars par an. Les marchés publics comptent également pour [15 % des émissions mondiales annuelles de gaz à effet de serre](https://www.bcg.com/press/13january2022-green-government-procurement-practices-cut-global-emissions), c’est sept fois plus que l’industrie aéronautique.
 
 <div class="notion-text"></div>
 

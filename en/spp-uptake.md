@@ -32,7 +32,7 @@ Measuring SPP uptake levels is about knowing how much sustainable public procure
 
 ## Why do it?
 
-Government departments around the world are initiating policies and targets that either directly require buyers to consider social value, or have systemic policies (e.g. net zero targets) that require buyers to adapt their buying practices to consider more than savings. Measuring the uptake and progress of these new initiatives can be difficult, as the data needed to record changes in behavior can be hard to find.  Measuring SPP uptake allows public buyers to demonstrate that they’re incorporating sustainable procurement and therefore are meeting policy requirements.
+Government departments around the world are initiating policies and targets that either directly require buyers to consider social value, or have systemic policies (e.g. net zero targets) that require buyers to adapt their buying practices to consider more than savings. Measuring the uptake and progress of these new initiatives can be difficult, as the data needed to record changes in behavior can be hard to find. Measuring SPP uptake allows public buyers to demonstrate that they’re incorporating sustainable procurement and therefore are meeting policy requirements.
 
 <div class="notion-text"></div>
 
@@ -229,7 +229,7 @@ In the specific, worked example below, we have included these outcomes, together
         <td style="min-width:189.5px;max-width:189.5px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/options-for-data-use-1">Option 3: Analyze contracts awarded</a>
 
-<a class="notion-link link" href="/options-for-data-use-1">Option 7: Monitor contract performance </a>   </span></div>
+<a class="notion-link link" href="/options-for-data-use-1">Option 7: Monitor contract performance </a> </span></div>
         </td>
       </tr>
       <tr style="background:var(--color-bg-blue)">

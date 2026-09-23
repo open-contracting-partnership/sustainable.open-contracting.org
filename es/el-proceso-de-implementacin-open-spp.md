@@ -1,7 +1,6 @@
 ---
 permalink: "/el-proceso-de-implementacin-open-spp"
 title: "El proceso de implementación Open SPP"
-description: ""
 full_width: true
 collection: true
 notion_id: "9c163ecbb0d540cfae796f11074f5c07"

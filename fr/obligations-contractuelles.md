@@ -29,7 +29,7 @@ Une fois que des critères de durabilité ont été clairement établis, il conv
 <strong>Caractéristiques essentielles des clauses contractuelles</strong></h2>
 
 Souvent, les clauses contractuelles qui renvoient aux obligations de durabilité ne sont pas efficaces ou considérées comme moins importantes que d’autres clauses commerciales. Une [analyse](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)
- provenant de deux sociétés de conseil, EcoVadis et Affectio Mutandi, montre que cela est souvent dû à des facteurs tels que les attentes irréalistes en matière de suivi imposées aux fournisseurs ou encore aux contradictions parfois constatées entre les clauses de durabilité et les clauses commerciales. Cette analyse propose six caractéristiques à partir desquelles il est possible d’évaluer l’efficacité d’une clause contractuelle. Nous présentons ces caractéristiques ci-dessous.
+ provenant de deux sociétés de conseil, EcoVadis et Affectio Mutandi, montre que cela est souvent dû à des facteurs tels que les attentes irréalistes en matière de suivi imposées aux fournisseurs ou encore aux contradictions parfois constatées entre les clauses de durabilité et les clauses commerciales. Cette analyse propose six caractéristiques à partir desquelles il est possible d’évaluer l’efficacité d’une clause contractuelle. Nous présentons ces caractéristiques ci-dessous.
 
 <div class="notion-text"></div>
 
@@ -83,7 +83,7 @@ Les clauses contractuelles de durabilité doivent prévoir des conséquences en 
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Couverture : prise en compte des fournisseurs au-delà du rang 1</strong></span>
+  </div><span class="notion-semantic-string"><strong>Couverture : prise en compte des fournisseurs au-delà du rang 1</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -91,7 +91,7 @@ La couverture concerne les différentes parties de la chaîne d’approvisionnem
 
 <div class="notion-text"></div>
 
-Il peut être difficile d’appliquer certaines clauses au-delà des entités avec lesquelles le fournisseur a une relation commerciale directe (c’est-à-dire au-delà des fournisseurs de rang 1) pour les appliquer aux fournisseurs des fournisseurs (rang 2…). C’est pourquoi il est essentiel d’établir un dialogue avec les fournisseurs pour analyser les informations relatives à la chaîne d’approvisionnement et travailler avec le ou les fournisseurs d’un secteur dans votre région, ce dans le but de renforcer la transparence et de promouvoir de meilleures pratiques tout au long de la chaîne d’approvisionnement. Pour obtenir des exemples sur l’intégration d’exigences relatives à la chaîne d’approvisionnement à un processus de passation de marchés, [consultez la section consacrée à l’achat de produits informatiques](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector).
+Il peut être difficile d’appliquer certaines clauses au-delà des entités avec lesquelles le fournisseur a une relation commerciale directe (c’est-à-dire au-delà des fournisseurs de rang 1) pour les appliquer aux fournisseurs des fournisseurs (rang 2…). C’est pourquoi il est essentiel d’établir un dialogue avec les fournisseurs pour analyser les informations relatives à la chaîne d’approvisionnement et travailler avec le ou les fournisseurs d’un secteur dans votre région, ce dans le but de renforcer la transparence et de promouvoir de meilleures pratiques tout au long de la chaîne d’approvisionnement. Pour obtenir des exemples sur l’intégration d’exigences relatives à la chaîne d’approvisionnement à un processus de passation de marchés, [consultez la section consacrée à l’achat de produits informatiques](https://sustainable.open-contracting.org/sector-guidance-1/ict-sector).
 
 <div class="notion-text"></div>
 

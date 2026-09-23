@@ -38,7 +38,7 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
     </ul>
     <div class="notion-text"></div>
     <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string">Usted podrá ver el enfoque de Asociación de Contratación Abierta <a href="https://www.open-contracting.org/implement/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a><strong> </strong>y cómo ayuda a que las reformas se amplíen y se mantengan <a href="https://www.open-contracting.org/impact/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a>.</li>
+      <li class="notion-list-item notion-semantic-string">Usted podrá ver el enfoque de Asociación de Contratación Abierta <a href="https://www.open-contracting.org/implement/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a><strong> </strong>y cómo ayuda a que las reformas se amplíen y se mantengan <a href="https://www.open-contracting.org/impact/" class="notion-link link" target="_blank" rel="noopener noreferrer">aquí</a>.</li>
     </ul>
     <div class="notion-text"></div>
   </div>
@@ -150,7 +150,7 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 
 <div class="notion-text"></div>
 
-### **Datos de contratación unidos:  ¿Qué publicar y por qué?**
+### **Datos de contratación unidos: ¿Qué publicar y por qué?**
 
 <div class="notion-collection inline collection-d3f9e901b2be42a5b3d829823e566eb6">
   <div class="notion-collection__header-wrapper">
@@ -187,19 +187,19 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 <em>Que incluya </em><strong></strong></p>
           </td>
           <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><strong>Licitación </strong>
+            <p class="notion-property notion-property__text property-5a77594b notion-semantic-string"><strong>Licitación </strong>
 <em>Que incluya </em><strong></strong></p>
           </td>
           <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><strong>Adjudicación </strong>
+            <p class="notion-property notion-property__text property-45534064 notion-semantic-string"><strong>Adjudicación </strong>
 <em>Que incluya </em><strong></strong></p>
           </td>
           <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><strong>Contrato </strong>
+            <p class="notion-property notion-property__text property-7266406e notion-semantic-string"><strong>Contrato </strong>
 <em>Que incluya </em><strong></strong></p>
           </td>
           <td class="notion-collection-table__cell text">
-            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><strong>Ejecución </strong>
+            <p class="notion-property notion-property__text property-4f763f47 notion-semantic-string"><strong>Ejecución </strong>
 <em>Que incluya </em><strong></strong></p>
           </td>
           <td class="notion-collection-table__cell title no-click">
@@ -288,7 +288,7 @@ Fijar y articular prioridades verdes.</p>
           </td>
           <td class="notion-collection-table__cell text">
             <p class="notion-property notion-property__text property-5a77594b notion-semantic-string">Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.
-Comparaciones  de análisis/precio específicos por categoría.
+Comparaciones de análisis/precio específicos por categoría.
 Que los proveedores encuentren oportunidades de negocio verde.
 Análisis de resultados GPP previstos.
 Compromiso/consultas

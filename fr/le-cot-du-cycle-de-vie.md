@@ -33,7 +33,7 @@ La prise en compte du coût du cycle de vie, ou du coût total de possession, d�
 
 <div class="notion-text"></div>
 
-Il est possible de prendre en compte le coût du cycle de vie dans les projets de construction, lors desquels les acheteurs évaluent le coût de la construction et le coût de l’exploitation d’un bâtiment au cours d’une période donnée. Ce coût peut ensuite être compensé en fonction de son utilisation prévue. Par exemple, pour un projet d’école, le coût d’un cycle de vie de dix ans peut être calculé par rapport au nombre d’élèves qui en bénéficieront au cours de cette période.
+Il est possible de prendre en compte le coût du cycle de vie dans les projets de construction, lors desquels les acheteurs évaluent le coût de la construction et le coût de l’exploitation d’un bâtiment au cours d’une période donnée. Ce coût peut ensuite être compensé en fonction de son utilisation prévue. Par exemple, pour un projet d’école, le coût d’un cycle de vie de dix ans peut être calculé par rapport au nombre d’élèves qui en bénéficieront au cours de cette période.
 
 ## **Quel est l’objectif ?**
 
@@ -146,17 +146,17 @@ Cliquez sur les sous-sections suivantes pour en savoir plus concernant le proces
 
 <div class="notion-text"></div>
 
-Au début de cette partie, nous avons présenté dix possibilités pour exploiter les données afin de favoriser et d’évaluer la durabilité de vos marchés. De cette liste, nous avons sélectionné deux possibilités qui peuvent être particulièrement utiles pour les marchés publics prenant en compte le coût du cycle de vie :
+Au début de cette partie, nous avons présenté dix possibilités pour exploiter les données afin de favoriser et d’évaluer la durabilité de vos marchés. De cette liste, nous avons sélectionné deux possibilités qui peuvent être particulièrement utiles pour les marchés publics prenant en compte le coût du cycle de vie :
 
 <div class="notion-text"></div>
 
-### **Anticiper les effets des marchés (Possibilité 4)**
+### **Anticiper les effets des marchés (Possibilité 4)**
 
 Il est possible d’estimer le coût du cycle de vie d’un actif à partir de données historiques concernant des marchés associés à cet actif. Par exemple, le coût du cycle de vie d’un serveur informatique doit inclure l’électricité ainsi que le temps de travail nécessaire à son entretien. Les informations relatives aux marchés peuvent être suffisantes pour établir des données de référence en vue d’analyses ultérieures.
 
 <div class="notion-text"></div>
 
-### **Suivre l’exécution des marchés (Possibilité 7)**
+### **Suivre l’exécution des marchés (Possibilité 7)**
 
 Lorsque l’évaluation du coût du cycle de vie est établie comme la méthode de calcul de la valeur d’un marché public durable, le regroupement des données relatives aux comptes fournisseurs et à la commande publique est le moyen le plus précis de suivre l’évolution du coût durant l’exécution du marché. En rapprochant les paiements effectifs, ou une partie des paiements concernant un actif, il est possible de déterminer le coût détaillé d’un actif. Pour cela, il est possible d’étiqueter les données relatives aux sommes à verser en utilisant un code comptable spécifique qui rattache les dépenses à un actif ou un groupe d’actifs.
 
@@ -263,15 +263,15 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life cycle costing into the tendering process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total number of tenders</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 4: Forecast contract impact</a></span></div>
@@ -285,15 +285,15 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
           <div class="notion-table__cell"><span class="notion-semantic-string">Introducing life cycle costing into the tendering process</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations 
 
 - Total value of tenders </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of tenders which base the cost score for each bid<em><strong> </strong></em>on life cycle costing calculations / Total number of tenders </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 4: Forecast contract impact</a></span></div>
@@ -351,15 +351,15 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total number of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">Number of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
  / Total number of contracts</span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
@@ -376,15 +376,15 @@ Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dess
           <div class="notion-table__cell"><span class="notion-semantic-string">Driving SPP through life cycle costing approaches</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value share of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
+          <div class="notion-table__cell"><span class="notion-semantic-string">- Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations
 
 - Total value of contracts </span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Value of contracts classified as SPP which base the cost score for each bid on life cycle costing calculations / Total value of contracts </span></div>
         </td>
         <td style="min-width:165.21875px;max-width:165.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string"><a class="notion-link link" href="/possibilits-dutilisation-des-donnes">Option 1: Assign tags to procurements</a>

@@ -1,7 +1,6 @@
 ---
 permalink: "/implement-1/click-through-to-learn-more"
 title: "Click through to learn more"
-description: ""
 full_width: true
 collection: true
 notion_id: "9a064272103346c0a1724b96f1225146"

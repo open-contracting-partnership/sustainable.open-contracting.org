@@ -56,7 +56,7 @@ Avant de choisir les critères de durabilité que vous allez intégrer au proces
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 1 : quel est l’objet du marché ?</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 1 : quel est l’objet du marché ?</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -95,7 +95,7 @@ Comme expliqué dans la [section précédente](https://sustainable.open-contract
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 2 : que permet mon environnement habilitant ?</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 2 : que permet mon environnement habilitant ?</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -110,7 +110,7 @@ Lorsque vous réfléchissez à l’intégration de critères de durabilité à u
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 3 : existe-t-il déjà des critères de durabilité normalisés ?</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 3 : existe-t-il déjà des critères de durabilité normalisés ?</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -132,7 +132,7 @@ Comme nous l’avons déjà évoqué dans ce guide pratique, les acheteurs publi
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 4 : quelles sont les capacités du marché ?</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 4 : quelles sont les capacités du marché ?</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -161,7 +161,7 @@ Les critères de sélection visent à évaluer la capacité des fournisseurs pot
 
 <div class="notion-text"></div>
 
-Ces informations sont souvent collectées par l’entremise de questionnaires, et cette méthode est souvent utilisée dans [les approches des marchés publics en deux temps](https://sustainable.open-contracting.org/choose-a-procurement-method). Les pouvoirs publics doivent clairement indiquer les informations qui seront utilisées pour évaluer les fournisseurs et souligner leur lien avec l’objet du marché.
+Ces informations sont souvent collectées par l’entremise de questionnaires, et cette méthode est souvent utilisée dans [les approches des marchés publics en deux temps](https://sustainable.open-contracting.org/choose-a-procurement-method). Les pouvoirs publics doivent clairement indiquer les informations qui seront utilisées pour évaluer les fournisseurs et souligner leur lien avec l’objet du marché.
 
 <div class="notion-text"></div>
 
@@ -229,9 +229,9 @@ Une fois que les critères de durabilité sont définis, les pouvoirs publics do
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Études de cas  </strong></span>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Les Pays-Bas ont mis en place un système appelé <a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link">« </a><a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link"><em>CO2 Performance Ladder</em></a><a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link"> »</a> afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Les Pays-Bas ont mis en place un système appelé <a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link">« </a><a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link"><em>CO2 Performance Ladder</em></a><a href="https://www.co2-prestatieladder.nl/en/what-is-the-ladder" class="notion-link link"> »</a> afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.</p>
     <p class="notion-text notion-text__content notion-semantic-string">Les organisations peuvent obtenir un certificat correspondant à leur échelon qu’elles peuvent ensuite utiliser lors d’appels d’offres pour bénéficier d’un avantage en vue de l’attribution de marchés publics. Ainsi, une réduction peut être appliquée au prix proposé par les entreprises si ces dernières montrent et renforcent leurs efforts en faveur de la réduction des émissions de CO2.</p>
-    <p class="notion-text notion-text__content notion-semantic-string">Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C propose un prix initial plus élevé, l’application de la réduction liée à ses émissions de CO2 (échelon 4) lui fait remporter le marché. En adoptant cette approche pour prendre en compte les émissions de carbone lors de la passation de marchés, il est possible de sélectionner des fournisseurs responsables même si le marché peut uniquement être attribué en fonction du prix.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C propose un prix initial plus élevé, l’application de la réduction liée à ses émissions de CO2 (échelon 4) lui fait remporter le marché. En adoptant cette approche pour prendre en compte les émissions de carbone lors de la passation de marchés, il est possible de sélectionner des fournisseurs responsables même si le marché peut uniquement être attribué en fonction du prix.</p>
     <div class="notion-text"></div>
     <div class="notion-table__wrapper">
       <table class="notion-table col-header">
@@ -330,11 +330,11 @@ Une fois que les critères de durabilité sont définis, les pouvoirs publics do
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas  </strong></span>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés publics attribués à des entreprises dirigées par des hommes par rapport au nombre de marchés attribués à des entreprises dirigées par des femmes. L’étude a montré que seuls 36 % des marchés publics avaient été attribués à des femmes, pour seulement 26 % de la valeur totale des marchés publics.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés publics attribués à des entreprises dirigées par des hommes par rapport au nombre de marchés attribués à des entreprises dirigées par des femmes. L’étude a montré que seuls 36 % des marchés publics avaient été attribués à des femmes, pour seulement 26 % de la valeur totale des marchés publics.</p>
     <div class="notion-text"></div>
     <p class="notion-text notion-text__content notion-semantic-string">À partir de cette étude, un éventail de mesures a été élaboré dans le but de promouvoir l’égalité entre les genres dans les marchés publics. Par exemple, <a href="https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf" class="notion-link link">des dispositions prévoient la prise en compte</a> de critères d’attribution évaluant des aspects liés à l’inclusion des femmes.</p>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">À titre d’exemple, ces dispositions proposent de donner à ce facteur une pondération de 15 % dans l’évaluation et suggèrent différentes modalités d’évaluation. Elles proposent de donner le score maximum aux entreprises dirigées par des femmes ainsi qu’aux entreprises qui ont atteint la parité au sein de leur personnel et pouvant démontrer que le pourcentage de femmes recrutées par rapport l’ensemble du personnel est supérieur à 50 %.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">À titre d’exemple, ces dispositions proposent de donner à ce facteur une pondération de 15 % dans l’évaluation et suggèrent différentes modalités d’évaluation. Elles proposent de donner le score maximum aux entreprises dirigées par des femmes ainsi qu’aux entreprises qui ont atteint la parité au sein de leur personnel et pouvant démontrer que le pourcentage de femmes recrutées par rapport l’ensemble du personnel est supérieur à 50 %.</p>
   </div>
 </div>
 

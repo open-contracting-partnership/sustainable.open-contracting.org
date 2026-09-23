@@ -1,7 +1,6 @@
 ---
 permalink: "/life-cycle-costing/click-through-to-the-following-sections-to-find-out-more-about-the-process-and-data-needed-to-calculate-life-cycle-costs"
 title: "Click through to the following sections to find out more about the process and data needed to calculate life cycle costs:"
-description: ""
 full_width: true
 collection: true
 notion_id: "0ca39df2c8e8471087bda36adefabf4c"

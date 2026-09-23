@@ -101,7 +101,7 @@ Algunos de los resultados de la investigación del usuario incluirán: *(ver est
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Compartir el proceso de evaluación de necesidades es una parte esencial de una CPS Abierta. Las autoridades públicas deben compartir abiertamente cómo la investigación de los usuarios ha informado las decisiones con respecto a nuevos contratos. Ser transparente sobre este proceso ayudará a ganarse la confianza de las partes interesadas y minimizar los riesgos de corrupción.
+Compartir el proceso de evaluación de necesidades es una parte esencial de una CPS Abierta. Las autoridades públicas deben compartir abiertamente cómo la investigación de los usuarios ha informado las decisiones con respecto a nuevos contratos. Ser transparente sobre este proceso ayudará a ganarse la confianza de las partes interesadas y minimizar los riesgos de corrupción.
 
 </div>
 </div>

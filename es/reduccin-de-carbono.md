@@ -258,7 +258,7 @@ Algunos de estos son más complicados que otros. Incluso si no tiene una fuente 
           <div class="notion-table__cell"><span class="notion-semantic-string">Reducir valor del carbono asociado con contratos públicos</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"> Toneladas de CO2 asociadas con contratos públicos</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string"> Toneladas de CO2 asociadas con contratos públicos</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-CO2 estimado de bienes comprados.-Cantidad de unidades compradas.</span></div>
@@ -320,7 +320,7 @@ Ver Opción 7</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Reducir valor del carbono asociado con contratos públicos</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de contratos priorizados para implementación de CPS por ser contratos de altas emisiones. </span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Número de contratos priorizados para implementación de CPS por ser contratos de altas emisiones. </span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Contratos priorizados.-Número total de contratos .</span></div>
@@ -343,7 +343,7 @@ Ver Opción 7</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de propuestas que referencien certificaciones ambientales dentro de las especificaciones.</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que referencien certificaciones  ambientales dentro de las especificaciones.-Número total de propuestas.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que referencien certificaciones ambientales dentro de las especificaciones.-Número total de propuestas.</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
           <div class="notion-table__cell"><span class="notion-semantic-string">Propuestas con referencia a certificaciones ambientales dentro de las especificaciones / Número total de propuestas</span></div>
@@ -365,7 +365,7 @@ Ver Opción 6</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Participación de propuestas que referencien certificaciones ambientales dentro del puntaje (criterios de adjudicación)</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que referencien certificaciones  ambientales dentro de las especificaciones.
+          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que referencien certificaciones ambientales dentro de las especificaciones.
 -Número total de propuestas.</span></div>
         </td>
         <td style="min-width:189.21875px;max-width:189.21875px">
@@ -385,7 +385,7 @@ Ver Opción 6</span></div>
           <div class="notion-table__cell"><span class="notion-semantic-string">Promover proveedores de carbono bajo</span></div>
         </td>
         <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de proveedores que  cumplan con los criterios de carbono (p.ej. certificaciones ambientales) establecidos en los documentos de licitación.</span></div>
+          <div class="notion-table__cell"><span class="notion-semantic-string">Número de proveedores que cumplan con los criterios de carbono (p.ej. certificaciones ambientales) establecidos en los documentos de licitación.</span></div>
         </td>
         <td style="min-width:205.234375px;max-width:205.234375px">
           <div class="notion-table__cell"><span class="notion-semantic-string">-Número de proveedores que cumplan con los criterios de carbono bajo.

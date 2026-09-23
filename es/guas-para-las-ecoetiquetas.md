@@ -1,7 +1,7 @@
 ---
 permalink: "/guas-para-las-ecoetiquetas"
 title: "Guías para las ecoetiquetas"
-description: "La Red Global de Ecoetiquetado  (Global Ecolabelling Network (GEN) define ecoetiquetado como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”.  Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios.  Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos  ambientales durante el proceso de fabricación del producto.\n"
+description: "La Red Global de Ecoetiquetado (Global Ecolabelling Network (GEN) define ecoetiquetado como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”. Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios. Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos ambientales durante el proceso de fabricación del producto.\n"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey2.png"
 full_width: true
@@ -24,7 +24,7 @@ notion_id: "763ef3d4e57c4b3cb777f8e519308ed5"
 
 ## **¿Qué son las ecoetiquetas?**
 
-La Red Global de Ecoetiquetado <em> (Global Ecolabelling Network</em> (GEN) [define ecoetiquetado](https://globalecolabelling.net/what-is-eco-labelling/) como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”.  Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios.  Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos  ambientales durante el proceso de fabricación del producto.<br>
+La Red Global de Ecoetiquetado <em> (Global Ecolabelling Network</em> (GEN) [define ecoetiquetado](https://globalecolabelling.net/what-is-eco-labelling/) como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”. Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios. Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos ambientales durante el proceso de fabricación del producto.<br>
 
 ## **¿Qué tipo de ecoetiquetas hay?**
 
@@ -85,7 +85,7 @@ Estas etiquetas tienen las mismas características que las ecoetiquetas Tipo I, 
 
 <div class="notion-text"></div>
 
-### **Cómo puede usted aplicar ecoetiquetas en todo el proceso de  implementación CPS**
+### **Cómo puede usted aplicar ecoetiquetas en todo el proceso de implementación CPS**
 
 Las etiquetas ecológicas se pueden aplicar en diferentes etapas y de diferentes maneras a lo largo de la implementación de CPS, que incluyen:
 

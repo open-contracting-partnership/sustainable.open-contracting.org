@@ -17,7 +17,7 @@ notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 <div class="notion-text"></div>
 <div class="notion-callout bg-green-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section we explain how there is room for procurement practitioners to implement SPP in different contexts.</strong> We  provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.</span></div>
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>In this section we explain how there is room for procurement practitioners to implement SPP in different contexts.</strong> We provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.</span></div>
 </div>
 <div class="notion-text"></div>
 <h2 class="notion-heading notion-semantic-string"><strong>Quickly evaluate your enabling environment</strong></h2>
@@ -80,7 +80,7 @@ Finally, there are already many sustainability regulations in place at the inter
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
-Some procurement regimes  might allow you to use criteria other than price to evaluate bids. For example, in Europe this is done under the concept of most economically advantageous tender ([M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024)).
+Some procurement regimes might allow you to use criteria other than price to evaluate bids. For example, in Europe this is done under the concept of most economically advantageous tender ([M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024)).
 
 <div class="notion-text"></div>
 

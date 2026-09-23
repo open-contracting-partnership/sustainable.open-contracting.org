@@ -32,7 +32,7 @@ Afin d’évaluer efficacement les besoins, il est important d’acquérir une b
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 1 : définir le profil des bénéficiaires </strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 1 : définir le profil des bénéficiaires </strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -47,7 +47,7 @@ La première étape consiste à définir le profil des bénéficiaires, qui vari
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 2 : faire des recherches sur les bénéficiaires</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 2 : faire des recherches sur les bénéficiaires</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -69,7 +69,7 @@ En fonction de la taille du marché envisagé, ces recherches peuvent aussi êtr
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 3 : consolider les résultats des recherches</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 3 : consolider les résultats des recherches</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -96,7 +96,7 @@ Toute exigence technique devant être intégrée aux conditions du marché conce
 <div class="notion-toggle__summary">
   <div class="notion-toggle__trigger">
     <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Étape 4 : communiquer le processus et les résultats</strong></span>
+  </div><span class="notion-semantic-string"><strong>Étape 4 : communiquer le processus et les résultats</strong></span>
 </div>
 <div class="notion-toggle__content" style="display:none" markdown="1">
 
@@ -111,7 +111,7 @@ Communiquer le processus d’évaluation des besoins est un aspect essentiel des
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey4-2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas</strong></span>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">L’organisme central de passation de marchés de l’Italie, <a href="http://www.consip.it/" class="notion-link link">CONSIP</a>, a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">L’organisme central de passation de marchés de l’Italie, <a href="http://www.consip.it/" class="notion-link link">CONSIP</a>, a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.</p>
     <div class="notion-text"></div>
     <p class="notion-text notion-text__content notion-semantic-string">Le CONSIP convient des spécifications de l’appel d’offres avec des groupes de médecins et de scientifiques, tandis que les appels d’offres sont fréquemment proposés par des membres du corps médical. Cela permet de mettre l’accent sur la qualité de produits, un critère vital dans le secteur médical. Les appareils qui satisfont aux exigences financières et aux spécifications sont testés par les médecins et le personnel infirmier dans leurs hôpitaux, qui attribuent enfin le marché définitif en fonction des résultats des produits.</p>
     <div class="notion-text"></div>
@@ -193,11 +193,11 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 
 <div class="notion-callout bg-red-light border">
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_Red.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le </strong><a href="https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance." class="notion-link link">module 4</a> de la Commission européenne fournit les informations suivantes :
+  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le </strong><a href="https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance." class="notion-link link">module 4</a> de la Commission européenne fournit les informations suivantes :
 
-« Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
+« Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
 
-Basé sur une consultation des utilisateurs et utilisatrices, un maximum de six réunions nécessitant ces écrans ont lieu simultanément.
+Basé sur une consultation des utilisateurs et utilisatrices, un maximum de six réunions nécessitant ces écrans ont lieu simultanément.
 
 Les projecteurs dont nous disposons consomment beaucoup d’énergie et tombent souvent en panne.
 
@@ -224,11 +224,11 @@ Le Département étudiera les propositions concernant la location d’écrans da
   <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
   <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Étude de cas
 
-</strong>Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.</span>
+</strong>Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.</span>
     <div class="notion-text"></div>
     <p class="notion-text notion-text__content notion-semantic-string">PHW a décidé d’intégrer des exigences de durabilité à l’appel d’offres et un inventaire complet du mobilier de l’entité. L’offre sélectionnée est celle d’un consortium regroupant un service de conception durable de bureaux et une société d’intérêt communautaire.</p>
     <div class="notion-text"></div>
-    <p class="notion-text notion-text__content notion-semantic-string">Ainsi, parmi les 2 563 articles présents dans les nouveaux locaux, 45 % sont réutilisés, 49 % ont été refabriqués et seulement 6 % proviennent de nouveaux stocks.</p>
+    <p class="notion-text notion-text__content notion-semantic-string">Ainsi, parmi les 2 563 articles présents dans les nouveaux locaux, 45 % sont réutilisés, 49 % ont été refabriqués et seulement 6 % proviennent de nouveaux stocks.</p>
     <div class="notion-text"></div>
     <p class="notion-text notion-text__content notion-semantic-string">Au total, on estime que la réutilisation des ressources disponibles a permis d’éviter 41 tonnes de déchets supplémentaires et que ce projet a évité l’émission d’environ 134 tonnes de CO2.</p>
     <div class="notion-text"></div>
