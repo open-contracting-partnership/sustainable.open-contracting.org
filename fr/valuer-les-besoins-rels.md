@@ -77,8 +77,6 @@ Ce système a été plébiscité par la profession et les fournisseurs, ce qui a
 
 Après avoir recensé les besoins des bénéficiaires, il est important d’évaluer les différentes possibilités d’achat afin de choisir celle qui répond aux besoins des bénéficiaires de la façon la plus responsable possible.
 
-<p class="notion-text notion-text__content notion-semantic-string"> </p>
-
 {% toggle **Réutilisation, réparation et modernisation des ressources existantes** %}
 
 Avant d’acquérir de nouveaux produits, les acheteurs publics doivent se demander s’il n’est pas possible de réutiliser des ressources existantes pour répondre aux besoins recensés. Une autre possibilité consiste à lancer un appel d’offres pour la réparation ou la modernisation de ressources existantes, promouvant ainsi une utilisation circulaire des ressources et limitant les déchets. Afin de repérer les ressources pouvant être réutilisées, réparées ou modernisées, il peut être utile d’établir un système électronique d’échange de produits et de services entre les organismes publics.
@@ -115,7 +113,7 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 <br>Le Département étudiera les propositions concernant la location d’écrans dans le cadre d’un contrat de prestation de services. » \[traduction\]
 {% endcallout %}
 
-<br>L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize) et s’il existe des [objectifs et cibles pertinents](https://sustainable.open-contracting.org/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
+L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/plan/prioritize) et s’il existe des [objectifs et cibles pertinents](https://sustainable.open-contracting.org/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**

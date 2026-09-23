@@ -11,7 +11,7 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 
 **The outline presented has been adapted from:** [UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) (page 94).
 
-<div class="notion-divider"></div>
+---
 
 **Context**
 
@@ -73,9 +73,5 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this outline:**
 
-<div class="notion-pdf">
-  <div class="notion-pdf__content">
-    <iframe width="708" height="320" src="/assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/6bcdf1fe-5daa-4886-aee1-b445a878c8f9.pdf"></iframe>
-  </div>
-</div>
+{% pdf /assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/6bcdf1fe-5daa-4886-aee1-b445a878c8f9.pdf %}
 {% endcallout %}

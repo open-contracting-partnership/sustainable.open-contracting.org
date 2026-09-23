@@ -83,5 +83,3 @@ In the specific, worked example below, we have included these outcomes, together
 {blue} | Promoting SPP uptake | Embedding sustainability into the procurement process | Value share of tenders which reference SPP criteria within specifications  | \- Value of tenders which reference SPP criteria within specifications<br><br>\- Total value of tenders | Value of tenders which reference SPP criteria within specifications / Total value of tenders | [See Option 1: Assign tags to procurements](/options-for-data-use-1) |
 {blue} | Promoting SPP uptake | Embedding sustainability into the procurement process | Value share of contracts which reference SPP criteria within scoring (award criteria) | \- Value of tenders which reference SPP criteria within scoring (award criteria)<br><br>\- Total value of tenders | Value of tenders which reference SPP criteria within scoring (award criteria) / Total value of tenders | [See Option 1: Assign tags to procurements](/options-for-data-use-1) |
 {% endtable %}
-
-<p class="notion-text notion-text__content notion-semantic-string"></p>

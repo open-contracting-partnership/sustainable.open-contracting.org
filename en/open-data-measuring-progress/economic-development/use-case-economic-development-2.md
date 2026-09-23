@@ -21,26 +21,23 @@ Analysing public procurement’s impact on an economy can have a range of positi
 {% columns %}
 {% column 0.3333 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🗣</span></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Research shows that spending with smaller companies provides greater returns for tax authorities and new jobs can reduce govt costs.</span></div>
-</div>
+{% callout gray 🗣 %}
+Research shows that spending with smaller companies provides greater returns for tax authorities and new jobs can reduce govt costs.
+{% endcallout %}
 
 {% endcolumn %}
 {% column 0.3333 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">🔉</span></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">Most innovation happens in smaller companies, engaging with them can deliver significant advances for governments.</span></div>
-</div>
+{% callout gray 🔉 %}
+Most innovation happens in smaller companies, engaging with them can deliver significant advances for governments.
+{% endcallout %}
 
 {% endcolumn %}
 {% column 0.3333 %}
 
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><span class="notion-icon text" style="width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)">👉</span></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string">It is possible to create a virtuous cycle that helps small companies grow into large companies just from government business.</span></div>
-</div>
+{% callout gray 👉 %}
+It is possible to create a virtuous cycle that helps small companies grow into large companies just from government business.
+{% endcallout %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -142,37 +139,27 @@ With robust data in place, it will be possible to work with the most successful 
 
 There are a wide range of analysis options in this area, we have already considered the issue of job creation but the scope of socio-economic analysis is very broad and does not have to be limited to job creation. Seeking to direct funding to different areas of your economy can be measured in multiple different ways. Below we outline some of the areas that you can consider:
 
-<ol type="1" class="notion-numbered-list">
-  <li class="notion-list-item notion-semantic-string">Measure contracting commitments that have been made using different features:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Supplier’s region (e.g. number of contracts awarded to suppliers in City X)</li>
-    <li class="notion-list-item notion-semantic-string">Economic profile of supplier’s region (e.g. value of contracts awarded to locations with a poor socio economic profile)</li>
-    <li class="notion-list-item notion-semantic-string">Distance between buyer and supplier (e.g. test number of contracts awarded to local suppliers),</li>
-    <li class="notion-list-item notion-semantic-string">Supplier size (e.g. contract awarded to small business),</li>
-    <li class="notion-list-item notion-semantic-string">Supplier’s charity status,</li>
-    <li class="notion-list-item notion-semantic-string">Supplier’s social enterprise status</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Record when buyers make reference to socio-economic factors in their tender notices</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Count the volume of tenders that score for socio-economic factors.</li>
-    <li class="notion-list-item notion-semantic-string">Count the value of tenders that score for socio-economic factors.</li>
-    <li class="notion-list-item notion-semantic-string">Record impacts related to these tenders when published.</li>
-    <li class="notion-list-item notion-semantic-string">Record which buyers publish these tenders.</li>
-    <li class="notion-list-item notion-semantic-string">Record which suppliers win these tenders.</li>
-    <li class="notion-list-item notion-semantic-string">Record whether tenders encouraging engagement by a given type of organisation (e.g. small businesses) returns increased numbers of bids from these organisations.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Evaluate all activities by category</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Establish whether different categories are likely to deliver better socio-economic outcomes.</li>
-    <li class="notion-list-item notion-semantic-string">Determine whether policy take up varies by category.</li>
-    <li class="notion-list-item notion-semantic-string">Explore suppliers by category and encourage those that can deliver better outcomes to bid for work.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Look at the root causes of better socio-economic outcomes</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Where a buyer has successfully delivered a positive outcome, it makes sense to determine what conditions made this possible.</li>
-    <li class="notion-list-item notion-semantic-string">Record the key features of successful contracts, reference technologies, metrics and outcomes</li>
-  </ol>
-</ol>
+1. Measure contracting commitments that have been made using different features:
+   1. Supplier’s region (e.g. number of contracts awarded to suppliers in City X)
+   2. Economic profile of supplier’s region (e.g. value of contracts awarded to locations with a poor socio economic profile)
+   3. Distance between buyer and supplier (e.g. test number of contracts awarded to local suppliers),
+   4. Supplier size (e.g. contract awarded to small business),
+   5. Supplier’s charity status,
+   6. Supplier’s social enterprise status
+2. Record when buyers make reference to socio-economic factors in their tender notices
+   1. Count the volume of tenders that score for socio-economic factors.
+   2. Count the value of tenders that score for socio-economic factors.
+   3. Record impacts related to these tenders when published.
+   4. Record which buyers publish these tenders.
+   5. Record which suppliers win these tenders.
+   6. Record whether tenders encouraging engagement by a given type of organisation (e.g. small businesses) returns increased numbers of bids from these organisations.
+3. Evaluate all activities by category
+   1. Establish whether different categories are likely to deliver better socio-economic outcomes.
+   2. Determine whether policy take up varies by category.
+   3. Explore suppliers by category and encourage those that can deliver better outcomes to bid for work.
+4. Look at the root causes of better socio-economic outcomes
+   1. Where a buyer has successfully delivered a positive outcome, it makes sense to determine what conditions made this possible.
+   2. Record the key features of successful contracts, reference technologies, metrics and outcomes
 
 Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver greater productivity and growth. If published openly, suppliers can use the data to make positive changes to their own organisations and to deliver improved bids for future contracts.
 

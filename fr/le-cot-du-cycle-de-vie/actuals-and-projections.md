@@ -41,7 +41,24 @@ Total five year life cycle costs = €1,800 + (€400 * 5) = €3,800
 
 This is a relatively simple per unit cost, but you may also need to consider replacement parts,  replacement products, training and support for the laptops as well. In this scenario you can model these extra costs in the following way:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Annual replacements
+20 invoices received a year, average invoice value = €50
+1 laptop a year damaged beyond repair, replacement = €1,300 (purchase + set up)
+
+Annual costs
+Training staff = €40,000
+Support staff = €120,000
+
+In a suite of 100 laptops these costs model as follows:
+
+Replacement parts: (€50 x 20)/100 = €10 per laptop per year
+Replacement laptops: €1,300/100 = €130 per laptop per year
+Training: €40,000/100 = €400 per laptop per year
+Support: €120,000/100 = €1,200 per laptop per year
+
+Additional annual costs = €1,740 per laptop
+```
 
 Having modeled up the costs associated with replacements and support services to help the laptops function, you can combine these costs into an accurate annual cost before projecting the costs to a full lifecycle cost:
 

@@ -50,27 +50,17 @@ Having identified an asset you want to measure, you need to combine the data tha
 
 There are a wide range of analysis options in this area. Governments have very broad purchasing requirements from dental tools to defense vehicles and life cycle costing can be applied to most of these categories. Below we outline some of the cost features that you will need to include when conducting a lifecycle cost.
 
-<ol type="1" class="notion-numbered-list">
-  <li class="notion-list-item notion-semantic-string">Initial investment:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">The up front cost of a product.</li>
-    <li class="notion-list-item notion-semantic-string">Initial costs can be lessened by using financing options, but these need to be considered across the lifetime of a finance contract and any penalties that might be experienced.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Maintenance:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">The cost of maintaining an asset can be included in the contract or priced separately</li>
-    <li class="notion-list-item notion-semantic-string">Look for reliable evidence of maintenance costs from other users of the same or similar assets.</li>
-    <li class="notion-list-item notion-semantic-string">Consider whether there are any restrictions on maintaining a product yourselves, e.g. does using an unqualified engineer to examine a laptop invalidate a warranty?</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Licenses:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Assets may come with usage licenses or software that is used to run an asset may include a license. Be wary of costs around over usage or limitations on how you can use the software or data you enter into the system.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Staffing:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Be mindful of the time and resources required to manage an asset. You may choose to purchase on a supply and maintain basis, in this case it is tempting to believe that there is no staff time to be spent on the asset, but you will still need to manage the contract and monitor and evaluate the supplier’s work. Every asset will consume staff time, be sure to assess this cost conservatively.</li>
-  </ol>
-</ol>
+1. Initial investment:
+   1. The up front cost of a product.
+   2. Initial costs can be lessened by using financing options, but these need to be considered across the lifetime of a finance contract and any penalties that might be experienced.
+2. Maintenance:
+   1. The cost of maintaining an asset can be included in the contract or priced separately
+   2. Look for reliable evidence of maintenance costs from other users of the same or similar assets.
+   3. Consider whether there are any restrictions on maintaining a product yourselves, e.g. does using an unqualified engineer to examine a laptop invalidate a warranty?
+3. Licenses:
+   1. Assets may come with usage licenses or software that is used to run an asset may include a license. Be wary of costs around over usage or limitations on how you can use the software or data you enter into the system.
+4. Staffing:
+   1. Be mindful of the time and resources required to manage an asset. You may choose to purchase on a supply and maintain basis, in this case it is tempting to believe that there is no staff time to be spent on the asset, but you will still need to manage the contract and monitor and evaluate the supplier’s work. Every asset will consume staff time, be sure to assess this cost conservatively.
 
 {% database Click through to the following sections to find out more about the process and data needed to calculate life cycle costs: %}
 {% gallery medium %}

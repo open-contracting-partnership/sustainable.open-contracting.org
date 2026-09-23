@@ -1,6 +1,7 @@
 # Liquid tags for Notion's callouts, toggles and columns, which render Notion's markup around Markdown content.
 module NotionTags
   ICON_STYLE = "object-fit:contain;object-position:center".freeze
+  EMOJI_STYLE = "width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)".freeze
 
   # Convert Markdown to HTML with the site's converter.
   def self.markdown(context, text)
@@ -14,17 +15,27 @@ module NotionTags
     markdown(context, text).strip.sub(%r{\A<p[^>]*>(.*)</p>\z}m, '\1')
   end
 
-  # {% callout COLOR ICON %}TEXT\n\nBLOCKS{% endcallout %}, where COLOR is a Notion color or "default".
+  # {% callout COLOR ICON %}TEXT\n\nBLOCKS{% endcallout %}, where COLOR is a Notion color or "default", and ICON is
+  # an image's path or an emoji. If TEXT is empty, BLOCKS follow a blank line.
   class Callout < Liquid::Block
     def initialize(tag_name, markup, options)
       super
       @color, @icon = markup.split
     end
 
+    # Liquid discards the output of a block whose body is blank.
+    def blank?
+      false
+    end
+
     def render(context)
-      text, blocks = super.strip.split(/\n\n/, 2)
+      text, blocks = super.sub(/\A\n/, "").split(/\n\n/, 2)
       classes = @color == "default" ? "border" : "bg-#{@color}-light border"
-      icon = %(<img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="#{ICON_STYLE}" src="#{@icon}"/>)
+      icon = if @icon.start_with?("/")
+               %(<img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="#{ICON_STYLE}" src="#{@icon}"/>)
+             else # an emoji
+               %(<span class="notion-icon text" style="#{EMOJI_STYLE}">#{@icon}</span>)
+             end
       %(<div class="notion-callout #{classes}"><div class="notion-callout__icon">#{icon}</div>) +
         %(<div class="notion-callout__content"><span class="notion-semantic-string">#{NotionTags.inline(context, text.to_s)}</span>) +
         %(#{NotionTags.markdown(context, blocks.to_s)}</div></div>)
@@ -36,6 +47,11 @@ module NotionTags
     def initialize(tag_name, markup, options)
       super
       @summary = markup.strip
+    end
+
+    # Liquid discards the output of a block whose body is blank.
+    def blank?
+      false
     end
 
     def render(context)
@@ -188,7 +204,8 @@ module NotionTags
 end
 
 module NotionTags
-  # {% table WIDTH... [col-header] [row-header] %}ROWS{% endtable %}, where each WIDTH is a column's width in pixels.
+  # {% table WIDTH... [col-header] [row-header] %}ROWS{% endtable %}, where each WIDTH is a column's width in pixels,
+  # or its minimum and maximum widths, as MIN-MAX.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
   # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text.
@@ -198,7 +215,7 @@ module NotionTags
     def initialize(tag_name, markup, options)
       super
       words = markup.split
-      @widths = words.grep(/\A[\d.]+\z/)
+      @widths = words.grep(/\A[\d.]+(?:-[\d.]+)?\z/)
       @classes = (["notion-table"] + (words - @widths)).join(" ")
     end
 
@@ -219,7 +236,8 @@ module NotionTags
     def cell(context, text, width)
       color = text[COLOR, 1]
       text = text.sub(COLOR, "")
-      style = "min-width:#{width}px;max-width:#{width}px"
+      min, max = width.split("-")
+      style = "min-width:#{min}px;max-width:#{max || min}px"
       style += ";background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})" if color
       content = if text.empty?
                   %(<div class="notion-table__empty-cell"></div>)
@@ -295,23 +313,26 @@ module NotionTags
 end
 
 module NotionTags
-  # {% page PATH [html] %} renders a link to a page, with its icon and title. Without "html", it is wrapped for use
-  # as a block in Markdown.
+  # {% page PATH [bg-COLOR] [html] %} renders a link to a page, with its icon and title, and optionally a background
+  # color. Without "html", it is wrapped for use as a block in Markdown.
   class Page < Liquid::Tag
     STYLE = "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;".freeze
 
     def initialize(tag_name, markup, options)
       super
-      @path, @format = markup.split
+      @path, *options = markup.split
+      @color = options.grep(/\Abg-\w+\z/).first
+      @html = options.include?("html")
     end
 
     def render(context)
       page = NotionTags.pages(context).fetch(@path)
       title = CGI.escapeHTML(page["title"].to_s)
       icon = %(<img alt="#{title}" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"].to_s)}"/>)
-      html = %(<a href="#{CGI.escapeHTML(@path)}" class="notion-link notion-page"><span class="notion-page__icon">#{icon}</span>) +
+      classes = ["notion-link", "notion-page", @color].compact.join(" ")
+      html = %(<a href="#{CGI.escapeHTML(@path)}" class="#{classes}"><span class="notion-page__icon">#{icon}</span>) +
              %(<span class="notion-page__title notion-semantic-string">#{title}</span></a>)
-      @format == "html" ? html : "{::nomarkdown}\n#{html}\n{:/nomarkdown}"
+      @html ? html : "{::nomarkdown}\n#{html}\n{:/nomarkdown}"
     end
   end
 end
@@ -334,6 +355,37 @@ module NotionTags
   end
 end
 
+module NotionTags
+  # {% pdf SRC %} renders an embedded PDF.
+  class Pdf < Liquid::Tag
+    def render(_context)
+      src = CGI.escapeHTML(@markup.strip)
+      %(<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="320" src="#{src}"></iframe></div></div>)
+    end
+  end
+
+  # {% indent [TEXT] %}BLOCKS{% endindent %} renders a paragraph (TEXT, in Markdown, which can be empty) followed by
+  # indented blocks.
+  class Indent < Liquid::Block
+    def initialize(tag_name, markup, options)
+      super
+      @text = markup.strip
+    end
+
+    # Liquid discards the output of a block whose body is blank.
+    def blank?
+      false
+    end
+
+    def render(context)
+      %(<div class="notion-text"><p class="notion-text__content notion-semantic-string">#{NotionTags.inline(context, @text)}</p>) +
+        %(<div class="notion-text__children">#{NotionTags.markdown(context, super)}</div></div>)
+    end
+  end
+end
+
+Liquid::Template.register_tag("pdf", NotionTags::Pdf)
+Liquid::Template.register_tag("indent", NotionTags::Indent)
 Liquid::Template.register_tag("image", NotionTags::Image)
 Liquid::Template.register_tag("page", NotionTags::Page)
 Liquid::Template.register_tag("database", NotionTags::Database)

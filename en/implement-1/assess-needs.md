@@ -11,4 +11,4 @@ properties:
     - "https://sustainability.open-contracting.org/assess-needs": /assess-needs
 sidebar: true
 ---
-<h2 class="notion-heading notion-semantic-string"></h2>
+

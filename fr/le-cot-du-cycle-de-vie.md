@@ -50,27 +50,17 @@ Une fois que vous avez choisi l’actif que vous souhaitez évaluer, vous devez 
 
 Il existe une grande variété de possibilités d’analyse dans ce domaine. Les gouvernements ont des besoins très larges en matière d’achat – cela peut aller d’outils dentaires à des véhicules de défense – et il est possible de calculer le coût du cycle de vie des livrables de la plupart de ces catégories de marchés. Nous présentons ci-dessous plusieurs éléments constitutifs du coût que vous devrez prendre en compte pour calculer le coût du cycle de vie.
 
-<ol type="1" class="notion-numbered-list">
-  <li class="notion-list-item notion-semantic-string">Investissement initial :</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">C’est le montant déboursé pour acquérir un produit.</li>
-    <li class="notion-list-item notion-semantic-string">Le coût initial peut être diminué grâce à des solutions de financement, mais il convient d’étudier les possibilités en tenant compte de la durée du contrat de financement et des pénalités éventuelles.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Entretien :</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Le coût d’entretien d’un actif peut être intégré au marché ou évalué séparément.</li>
-    <li class="notion-list-item notion-semantic-string">Cherchez des éléments fiables concernant le coût d’entretien auprès d’autres utilisateurs du même actif ou d’actifs similaires.</li>
-    <li class="notion-list-item notion-semantic-string">Demandez-vous s’il existe des restrictions concernant l’entretien d’un produit, par exemple : est-ce que l’inspection d’un ordinateur portable par un ingénieur non qualifié entraîne une perte de garantie ?</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Licences :</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Certains actifs peuvent nécessiter une licence d’utilisation ou un logiciel d’exploitation peut nécessiter une licence. Prenez toujours en compte le coût d’utilisation et les restrictions concernant l’utilisation d’un logiciel ou des données que vous saisissez dans le système.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Personnel :</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Évaluez le temps et les ressources nécessaires pour gérer un actif. Vous pouvez décider de conclure un contrat d’achat et de gérance. Dans ce cas, il est tentant de supposer que votre personnel ne passera aucune minute à la gestion de l’actif, mais vous devrez tout de même gérer le contrat et suivre et évaluer le travail du fournisseur. Chaque actif demande du temps à votre personnel, assurez-vous d’évaluer ce coût de façon prudente.</li>
-  </ol>
-</ol>
+1. Investissement initial :
+   1. C’est le montant déboursé pour acquérir un produit.
+   2. Le coût initial peut être diminué grâce à des solutions de financement, mais il convient d’étudier les possibilités en tenant compte de la durée du contrat de financement et des pénalités éventuelles.
+2. Entretien :
+   1. Le coût d’entretien d’un actif peut être intégré au marché ou évalué séparément.
+   2. Cherchez des éléments fiables concernant le coût d’entretien auprès d’autres utilisateurs du même actif ou d’actifs similaires.
+   3. Demandez-vous s’il existe des restrictions concernant l’entretien d’un produit, par exemple : est-ce que l’inspection d’un ordinateur portable par un ingénieur non qualifié entraîne une perte de garantie ?
+3. Licences :
+   1. Certains actifs peuvent nécessiter une licence d’utilisation ou un logiciel d’exploitation peut nécessiter une licence. Prenez toujours en compte le coût d’utilisation et les restrictions concernant l’utilisation d’un logiciel ou des données que vous saisissez dans le système.
+4. Personnel :
+   1. Évaluez le temps et les ressources nécessaires pour gérer un actif. Vous pouvez décider de conclure un contrat d’achat et de gérance. Dans ce cas, il est tentant de supposer que votre personnel ne passera aucune minute à la gestion de l’actif, mais vous devrez tout de même gérer le contrat et suivre et évaluer le travail du fournisseur. Chaque actif demande du temps à votre personnel, assurez-vous d’évaluer ce coût de façon prudente.
 
 Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie.
 

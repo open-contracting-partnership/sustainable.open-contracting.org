@@ -106,32 +106,11 @@ Suppliers should monitor labor rights through a publicly accessible Code of Cond
 {% callout gray /assets/images/Icons_Grey9.png %}
 **According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">ILO’s eight core conventions: 29, 87, 98, 100, 105, 111, 138 and 182. </span></div>
-  </div>
-</div>
+- [ ] ILO’s eight core conventions: 29, 87, 98, 100, 105, 111, 138 and 182.
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">The UN Convention on the Rights of the Child, article 32. </span></div>
-  </div>
-</div>
+- [ ] The UN Convention on the Rights of the Child, article 32.
 
-<div class="notion-to-do">
-  <div class="notion-to-do__content">
-    <div class="notion-to-do__icon">
-      <div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 L1.5,1.5 Z M0,0 L16,0 L16,16 L0,16 L0,0 Z"></path></svg></div>
-    </div>
-    <div class="notion-to-do__title"><span class="notion-semantic-string">All applicable local and national health and safety labor laws effective in the country of manufacture, and a maximum 60-hour workweek including overtime. </span></div>
-  </div>
-</div>
+- [ ] All applicable local and national health and safety labor laws effective in the country of manufacture, and a maximum 60-hour workweek including overtime.
 {% endcallout %}
 
 The supplier should also provide information on how this Code of Conduct is transmitted to supply chain (translations, questionnaires, training, etc.), how it is monitored (frequency, identification of countries or suppliers with higher risk, etc.), corrective actions taken, and any collaboration with third parties to monitor compliance with Code of Conduct. 
@@ -142,12 +121,12 @@ The supplier should also provide information on how this Code of Conduct is tran
 **Resources**
 <br>**Introducing responsible supply-chain criteria in the procurement process:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Procura +. 2020. Socially responsible public procurement of ICT equipment in Sweden</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process. </p>
-  <li class="notion-list-item notion-semantic-string"><a href="https://www.responsiblebusiness.org/media/docs/RBAPracticalGuideProcurement.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Responsible Business Alliance. 2019. Practical guide to transparency in procurement</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">The RBA has created a framework with a set of Corporate Responsibility Indicators (CSR) that aims to harmonize and simplify the process of supply chain assessment. </p>
-</ul>
+- [Procura +. 2020. Socially responsible public procurement of ICT equipment in Sweden](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf)
+
+  The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process. 
+- [Responsible Business Alliance. 2019. Practical guide to transparency in procurement](https://www.responsiblebusiness.org/media/docs/RBAPracticalGuideProcurement.pdf)
+
+  The RBA has created a framework with a set of Corporate Responsibility Indicators (CSR) that aims to harmonize and simplify the process of supply chain assessment. 
 
 **Introducing general sustainability criteria in the procurement process:**
 

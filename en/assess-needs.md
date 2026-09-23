@@ -114,7 +114,7 @@ The existing projectors consume a large amount of energy and often break down.
 The Department will consider proposals for leasing the screens under a service contract.”
 {% endcallout %}
 
-<br>The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize-1), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
+The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize-1), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
@@ -128,6 +128,6 @@ The Department will consider proposals for leasing the screens under a service c
 <br></strong>Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
 <br>**PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
 
-<br>In the end, out of the 2.563 items used in the new office 45% of items were re-used, 49% were remanufactured, and only 6% of items were sourced from new stock.
+In the end, out of the 2.563 items used in the new office 45% of items were re-used, 49% were remanufactured, and only 6% of items were sourced from new stock.
 <br>In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
 {% endcallout %}

@@ -267,6 +267,8 @@ def todo(node, level, raw):
     m = TODO.fullmatch(raw)
     spans = parse(m.group(1)) if m else None
     content = inline(spans[0].children, level) if spans and len(spans) == 1 else None
+    # Trailing spaces don't render.
+    content = content and content.rstrip(" ")
     if not content or content != content.strip() or "\n" in content:
         return None
     return f"- [ ] {content}"
@@ -278,6 +280,12 @@ def block(node, level, raw=""):
         return code_block(node)
     if node.name == "div" and node.cls == "notion-to-do":
         return todo(node, level, raw)
+    if (
+        node.name == "div"
+        and node.attrs == {"class": "notion-divider"}
+        and not node.children
+    ):
+        return "---"
     if node.cls == PARAGRAPH and node.name == "p":
         content = inline(node.children, level)
         if not content or content.startswith((" ", "\t")):
@@ -294,38 +302,64 @@ def block(node, level, raw=""):
         ):
             return "#" * int(node.name[1]) + " " + content
         return None
-    if node.name in ("ul", "ol") and node.cls in (
-        "notion-bulleted-list",
-        "notion-numbered-list",
-    ):
-        if node.name == "ol" and node.attrs != {
-            "type": "1",
-            "class": "notion-numbered-list",
-        }:
-            return None
-        items = []
-        for i, item in enumerate(
-            child
-            for child in node.children
-            if not (isinstance(child, str) and not child.strip())
-        ):
-            if (
-                isinstance(item, str)
-                or item.name != "li"
-                or item.cls != LIST_ITEM
-                or set(item.attrs) - {"id", "class"}
-            ):
+    if node.name in ("ul", "ol"):
+        return list_block(node, level)
+    return None
+
+
+def list_block(node, level, depth=0):
+    """
+    Return the Markdown for a list, or None.
+
+    Notion puts an item's other blocks (paragraphs and nested lists) after the item, which Markdown nests in it.
+    """
+    if node.name == "ul" and node.attrs != {"class": "notion-bulleted-list"}:
+        return None
+    if node.name == "ol" and node.attrs != {
+        "type": "1ai"[depth % 3],
+        "class": "notion-numbered-list",
+    }:
+        return None
+    items = []
+    widths = []  # the widths of the items' markers, by which their other blocks are indented
+    for child in node.children:
+        if isinstance(child, str):
+            if child.strip():
                 return None
-            content = inline(item.children, level)
+            continue
+        marker = "- " if node.name == "ul" else f"{len(items) + 1}. "
+        pad = " " * (widths[-1] if widths and child.name != "li" else len(marker))
+        if (
+            child.name == "li"
+            and child.cls == LIST_ITEM
+            and set(child.attrs) <= {"id", "class"}
+        ):
+            content = inline(child.children, level)
             if not content or content.startswith(" "):
                 return None
             # Markdown would drop a trailing newline, and continuation lines are indented.
             if content.endswith("\n"):
                 content = content[:-1] + "<br>"
-            marker = "- " if node.name == "ul" else f"{i + 1}. "
-            items.append(marker + content.replace("\n", "\n" + " " * len(marker)))
-        return "\n".join(items)
-    return None
+            items.append([marker + content.replace("\n", "\n" + pad)])
+            widths.append(len(marker))
+        elif items and child.name == "p" and child.cls == PARAGRAPH:
+            content = inline(child.children, level)
+            if not content or content.startswith(" ") or content.endswith("\n"):
+                return None
+            items[-1].append("\n\n" + pad + content.replace("\n", "\n" + pad))
+        elif items and child.name in ("ul", "ol"):
+            nested = list_block(
+                child, level, depth + 1 if child.name == "ol" else depth
+            )
+            if nested is None:
+                return None
+            items[-1].append(
+                "\n"
+                + "\n".join(pad + line if line else line for line in nested.split("\n"))
+            )
+        else:
+            return None
+    return "\n".join("".join(parts) for parts in items) if items else None
 
 
 def strip_ids(text):
@@ -357,6 +391,11 @@ def summary_text(span):
     return content
 
 
+EMOJI_STYLE = (
+    "width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)"
+)
+
+
 def callout_tag(node, text, indent, candidates):
     """Return a callout as a {% callout %} tag, or None."""
     match = re.fullmatch(r"notion-callout(?: bg-(\w+)-light)? border", node.cls)
@@ -377,30 +416,41 @@ def callout_tag(node, text, indent, candidates):
         "class": "notion-icon",
         "style": "object-fit:contain;object-position:center",
     }
+    if not icon or len(icon) != 1:
+        return None
     if (
-        not icon
-        or len(icon) != 1
-        or icon[0].name != "img"
-        or {k: v for k, v in icon[0].attrs.items() if k != "src"} != expected
+        icon[0].name == "img"
+        and {k: v for k, v in icon[0].attrs.items() if k != "src"} == expected
     ):
+        symbol = icon[0].attrs["src"]
+    elif (
+        icon[0].name == "span"
+        and icon[0].attrs == {"class": "notion-icon text", "style": EMOJI_STYLE}
+        and len(icon[0].children) == 1
+        and isinstance(icon[0].children[0], str)
+        and re.fullmatch(r"[^\s/%}]+", icon[0].children[0])
+    ):
+        symbol = icon[0].children[0]
+    else:
         return None
     content = children[1]
     blocks = elements(content)
     if content.attrs != {"class": "notion-callout__content"} or not blocks:
         return None
-    body = summary_text(blocks[0])
+    rest = text[blocks[0].end : content.end - len("</div>")]
+    empty = blocks[0].name == "span" and blocks[0].attrs == {"class": "notion-semantic-string"} and not blocks[0].children
+    body = "" if empty else summary_text(blocks[0])
     if body is None or "\n\n" in body:
         return None
     # Markdown would drop a trailing newline.
     if body.endswith("\n"):
         body = body[:-1] + "<br>"
-    rest = text[blocks[0].end : content.end - len("</div>")]
     markdown = convert(rest, indent, candidates, tags=True) if rest.strip() else ""
     if markdown is None:
         return None
     color = match.group(1) or "default"
     body = f"{body}\n\n{markdown}" if markdown else body
-    return f"{{% callout {color} {icon[0].attrs['src']} %}}\n{body}\n{{% endcallout %}}"
+    return f"{{% callout {color} {symbol} %}}\n{body}\n{{% endcallout %}}"
 
 
 def toggle_tag(node, text, indent, candidates):
@@ -425,8 +475,9 @@ def toggle_tag(node, text, indent, candidates):
     ):
         return None
     title = summary_text(parts[1])
-    if title is None or "\n" in title or "<br>" in title:
+    if title is None:
         return None
+    title = title.replace("\n", "<br>")
     if content.attrs != {"class": "notion-toggle__content", "style": "display:none"}:
         return None
     markdown = convert(inner(content, text), indent, candidates, tags=True)
@@ -511,14 +562,15 @@ def table_tag(node, text, indent, candidates):
         row_widths = []
         for td in elements(tr) or [None]:
             cell = re.fullmatch(
-                r"min-width:([\d.]+)px;max-width:\1px(?:;background:var\(--color-(?:bg-(\w+)|color-(default))\))?",
+                r"min-width:([\d.]+)px;max-width:([\d.]+)px(?:;background:var\(--color-(?:bg-(\w+)|color-(default))\))?",
                 td.attrs.get("style", "") if td else "",
             )
             contents = elements(td) if td and cell else None
             if not contents or len(contents) != 1 or set(td.attrs) != {"style"}:
                 return None
-            row_widths.append(cell.group(1))
-            color = cell.group(2) or cell.group(3)
+            minimum, maximum = (f"{round(float(cell.group(i)), 2):g}" for i in (1, 2))
+            row_widths.append(minimum if minimum == maximum else f"{minimum}-{maximum}")
+            color = cell.group(3) or cell.group(4)
             if (
                 contents[0].attrs == {"class": "notion-table__empty-cell"}
                 and not contents[0].children
@@ -546,9 +598,7 @@ def table_tag(node, text, indent, candidates):
             lines.append("|" + "---|" * len(cells))
     if not widths:
         return None
-    arguments = " ".join(
-        f"{round(float(width), 2):g}" for width in widths
-    ) + match.group(1)
+    arguments = " ".join(widths) + match.group(1)
     return f"{{% table {arguments} %}}\n" + "\n".join(lines) + "\n{% endtable %}"
 
 
@@ -594,8 +644,9 @@ def gallery_tag(node, text, indent, candidates):
         if not m or (m.group("title") is None) == (m.group("only") is None):
             return None
         title = m.group("title") if m.group("title") is not None else m.group("alt")
+        # Super truncates the covers' alt text, which is the title.
         if (m.group("anchor") is not None and m.group("anchor") != title) or (
-            m.group("alt") is not None and m.group("alt") != title
+            m.group("alt") is not None and not title.startswith(m.group("alt"))
         ):
             return None
         if bool(m.group(1)) == (m.group("link") is not None):
@@ -685,7 +736,7 @@ def image_tag(node, text, indent, candidates):
 # The front matter of the pages of the language of the page being converted, by permalink.
 PAGES = {}
 PAGE_LINK = re.compile(
-    r'<a href="(?P<href>[^"]*)" class="notion-link notion-page"><span class="notion-page__icon">'
+    r'<a href="(?P<href>[^"]*)" class="notion-link notion-page(?P<color> bg-\w+)?"><span class="notion-page__icon">'
     r'<img alt="(?P<alt>[^"]*)" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;'
     r'left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="(?P<src>[^"]*)"/></span>'
     r'<span class="notion-page__title notion-semantic-string">(?P<title>[^<]*)</span></a>'
@@ -704,7 +755,7 @@ def page_link(raw, argument=""):
         or " " in m.group("href")
     ):
         return None
-    return f"{{% page {html.unescape(m.group('href'))}{argument} %}}"
+    return f"{{% page {html.unescape(m.group('href'))}{m.group('color') or ''}{argument} %}}"
 
 
 # Databases' table views' HTML (without IDs), mapped to {% database_table %} tags by import_pages.py, which also
@@ -717,6 +768,44 @@ def database_table_tag(node, text, indent, candidates):
     return VIEWS.get(text[node.start : node.end])
 
 
+PDF = re.compile(
+    r'<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="320" src="([^" ]+)"></iframe></div></div>'
+)
+
+
+def pdf_tag(node, text, indent, candidates):
+    """Return an embedded PDF as a {% pdf %} tag, or None."""
+    m = PDF.fullmatch(re.sub(r">\s*\n\s*<", "><", text[node.start : node.end]))
+    return m and f"{{% pdf {html.unescape(m.group(1))} %}}"
+
+
+def indent_tag(node, text, indent, candidates):
+    """Return a paragraph with indented blocks as an {% indent %} tag, or None."""
+    children = elements(node)
+    if node.attrs != {"class": "notion-text"} or not children or len(children) != 2:
+        return None
+    paragraph, blocks = children
+    if (
+        paragraph.name != "p"
+        or paragraph.attrs != {"class": "notion-text__content notion-semantic-string"}
+        or blocks.attrs != {"class": "notion-text__children"}
+    ):
+        return None
+    content = inline(paragraph.children, "common") if paragraph.children else ""
+    if (
+        content is None
+        or content != content.strip()
+        or "\n" in content
+        or "%}" in content
+    ):
+        return None
+    markdown = convert(inner(blocks, text), indent, candidates, tags=True)
+    if markdown is None:
+        return None
+    opening = f"{{% indent {content} %}}" if content else "{% indent %}"
+    return f"{opening}\n\n{markdown}\n\n{{% endindent %}}"
+
+
 TAGS = {
     "notion-collection": database_tag,
     "notion-collection-gallery": gallery_tag,
@@ -726,6 +815,8 @@ TAGS = {
     "notion-column-list": columns_tag,
     "notion-table__wrapper": table_tag,
     "notion-image": image_tag,
+    "notion-pdf": pdf_tag,
+    "notion-text": indent_tag,
 }
 
 
@@ -855,6 +946,12 @@ def normalize(text):
         elif token.strip():
             output.append(html.unescape(token.strip()))
     text = "".join(output)
+    # Super truncates the alt text of cards' covers.
+    text = re.sub(
+        r"(<img )alt=(?:'[^']*'|\"[^\"]*\") (class='notion-collection-card__cover)",
+        r"\1\2",
+        text,
+    )
     # Images' dimensions are rounded.
     text = re.sub(
         r"\b(width|height)='([\d.]+)'",

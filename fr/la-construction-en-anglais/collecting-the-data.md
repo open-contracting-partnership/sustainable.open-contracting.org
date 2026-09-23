@@ -80,11 +80,10 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 **Resources**
 <br>**Templates for BOQs and SWMPs:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls" class="notion-link link" target="_blank" rel="noopener noreferrer">BOQ Template - European Bank for Reconstruction and Development (EBRD)</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">The EBRD has developed a BOQ template for “fit-out” project, which is a construction stage where a built space is prepared for occupation. This template can help as guidance to understand what type of data is gathered in BOQs in construction projects. </p>
-  <li class="notion-list-item notion-semantic-string"><a href="https://www.netregs.org.uk/media/1128/swmp_waste_data_form.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">Site Waste Management Plan Data Form. Netregs</a>.</li>
-</ul>
+- [BOQ Template - European Bank for Reconstruction and Development (EBRD)](https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls)
+
+  The EBRD has developed a BOQ template for “fit-out” project, which is a construction stage where a built space is prepared for occupation. This template can help as guidance to understand what type of data is gathered in BOQs in construction projects. 
+- [Site Waste Management Plan Data Form. Netregs](https://www.netregs.org.uk/media/1128/swmp_waste_data_form.pdf).
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
@@ -98,10 +97,10 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 
 **Engaging civil society in monitoring activities:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://monitorciudadano.contraloria.gob.pe/" class="notion-link link" target="_blank" rel="noopener noreferrer">MONITORES CIUDADANOS DE CONTROL I PERU</a> (ES)</li>
-  <p class="notion-text notion-text__content notion-semantic-string">Peru has established a system that allows citizens to visit construction sites at the beginning, during, and/or completion of public works in order to monitor the construction progress. </p>
-  <li class="notion-list-item notion-semantic-string"><a href="https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos" class="notion-link link" target="_blank" rel="noopener noreferrer">ELEFANTES BLANCOS APP I COLOMBIA</a> (ES)</li>
-  <p class="notion-text notion-text__content notion-semantic-string">Colombia has developed an app in order to promote the citizen control of white elephant projects (neglected, abandoned or over-billed public works projects).</p>
-</ul>
+- [MONITORES CIUDADANOS DE CONTROL I PERU](https://monitorciudadano.contraloria.gob.pe/) (ES)
+
+  Peru has established a system that allows citizens to visit construction sites at the beginning, during, and/or completion of public works in order to monitor the construction progress. 
+- [ELEFANTES BLANCOS APP I COLOMBIA](https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos) (ES)
+
+  Colombia has developed an app in order to promote the citizen control of white elephant projects (neglected, abandoned or over-billed public works projects).
 {% endcallout %}

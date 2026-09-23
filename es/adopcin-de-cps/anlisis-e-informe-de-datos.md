@@ -11,9 +11,24 @@ Esta conexión entre lo que la política o la legislación están tratando de lo
 
 En CPS, este enfoque se puede utilizar para revisar los objetivos de CPS para la mejora continua:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Año    | Número CPS*   | Política     |
+        | (real)     | Objetivo     |  
+-----------------------------------------------
+2017    | 56%          | 70%        |    
+2018    | 69%          | 70%        |    
+2019    | 73%          | 70%        |    
+2020    | 74%          | 75%        |    
+2021    | 76%          | 75%        |  
 
-<p class="notion-text notion-text__content notion-semantic-string"> </p>
+*Cuenta como un porcentaje de todas las contrataciones
+
+Se ha establecido un objetivo de política para hacer al menos el 70% de todas las contrataciones CPS para 2021
+El seguimiento del objetivo de la política muestra un cumplimiento cercano para 2018: 69 %.
+Para 2019 se ha superado la meta: 73% contra 70%.
+Por tanto, se fija un nuevo objetivo más ambicioso del 75 % para 2020
+Esto se supera en 2021, lo que permite un margen para aumentar la meta
+```
 
 También se puede usar para refinar los Indicadores Clave de Desempeño (KPI) existentes con mayor detalle. Por ejemplo, supongamos que un gobierno logra un objetivo del 95 % en materia de contrataciones ecológicas. Esto puede conducir a una evaluación de cómo mejorar la especificación en torno a las adquisiciones verdes para incluir más medidas, como por ejemplo, agregar medidas que vayan más allá del carbono para incluir los desechos plásticos, o agregar más CPS. Con una tasa de aceptación tan alta, es probable que los cambios se implementen de manera más integral que antes y cualquier caída se pueda abordar con el mismo enfoque que condujo a la tasa del 95 % en primer lugar.
 

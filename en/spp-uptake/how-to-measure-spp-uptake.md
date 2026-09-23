@@ -14,7 +14,24 @@ Female owned business friendly? = "Yes"
 
 An analysis of performance over time can be undertaken on procurement counts, using the year that a contract was entered into for the year of each contract.
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Year    | SPP count | All procurements |   
+----------------------------------------
+2019    | 200       | 600              |    
+2020    | 150       | 380              |    
+2021    | 450       | 650              |  
+
+
+For 2019
+All procurements = 600
+Total SPP = 200
+SPP as a percentage of all procurements = 200/600 = 33.3%
+
+For 2020-2021
+SPP procurements in 2020 = 150
+SPP procurements in 2021 = 450
+2020-2021 difference = 450-150 = 300
+```
 
 This can also be used to track Year on Year changes as a percentage:
 
@@ -32,7 +49,29 @@ SPP procurements in 2021 = 450
 
 Or on contract values:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:1"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Year    | SPP contracts let | All procurements  |
+        | ($millions)       |  ($millions)      |  
+-------------------------------------------------
+2019    | 400               | 700               |    
+2020    | 200               | 1000              |    
+2021    | 350               | 850               |  
+
+
+For 2020
+All procurements = $1000m
+Total SPP = $200m
+SPP as a percentage of all procurements = 200/1000 = 20%
+
+For 2020-2021
+SPP procurements in 2020 = 200
+SPP procurements in 2021 = 350
+2020-2021 Difference = 350-200 = 150
+
+%age change 2020 to 2021
+2020-2021 difference divided by 2020 SPP procurements
+%age change 2020 to 2021 = 150/200 = 75%
+```
 
 Using raw contract values is the simplest option but not always the best option. The reason is, these values can be skewed by high value contracts. For instance, a single large contract like infrastructure building can be worth billions and uplift the entire procurement for the year. In this instance, the values need to be looked at alongside the contract counts. 
 
@@ -46,7 +85,22 @@ SPP Count = Total of all SPPs carried out divided by All procurements
 
 Means that rankings of government organizations can be created, showing good performers and poor performers. For example this illustrative top 5 list for 2021:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:2"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Buyer                      | SPP count   | SPP count  |
+                           | (actual)    | (target)   |  
+-------------------------------------------------------
+Ministry of Public Health  | 86%         | 70%        |    
+Ministry of Finance        | 82%         | 70%        |    
+Ministry of Education      | 73%         | 70%        |  
+Ministry of Infrastructure | 63%         | 70%        |  
+
+The lowest performer is Ministry of Infrastructure
+Tracking performance against target
+SPP count as a %age of all procurement = 63%
+Target SPP count = 70%
+Target against actual = 63-70% = -7% against target
+Ministry of Infrastructure is underperforming by 7%
+```
 
 From a high level ranking view, data can be further broken down on spreadsheets and dashboards. From the above illustrative list, taking the poorest performing Ministry of Infrastructure at 63%: 
 

@@ -32,10 +32,9 @@ Publishing good data on carbon emissions has multiple positive effects for those
 Use the data to plan and implement immediate, direct action to reduce carbon emissions from procurement.
 {% endcallout %}
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img src="https://app.notion.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbe592384-8d76-44a0-8696-1bdc7be9cb38%2FIcons_Light_Green5.png?id=0f6005a1-f136-429b-8851-4385e8b64fb3&amp;table=block" alt="icon" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" loading="lazy"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"></span></div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+
+{% endcallout %}
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Publication and analysis of good data will unlock learning and iteration on what policies and processes work to reduce carbon intensity. You can’t manage what you can’t measure.
@@ -122,11 +121,10 @@ Some of these are more complicated than others. Even if you don’t have a relia
 {green} | Reducing carbon emissions  | Reducing the purchase of carbon intensive products | Tonnes of CO2 associated with the use of steel in public procurement projects  | \- CO2 estimate of steel<br><br>\- Tonnes of concrete purchased | CO2 estimates X Tonnes of steel | [See Option 4: Forecast contract impact](/options-for-data-use-1) |
 {% endtable %}
 
-<br>Through insights gained from the data, buyers can use this to mandate carbon reductions in procurement, while suppliers can use the data to improve their own supply chains and working practices in an effort to reduce emissions.
+Through insights gained from the data, buyers can use this to mandate carbon reductions in procurement, while suppliers can use the data to improve their own supply chains and working practices in an effort to reduce emissions.
 
-<div class="notion-callout bg-yellow-light border">
-  <div class="notion-callout__icon"><img src="https://app.notion.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbe592384-8d76-44a0-8696-1bdc7be9cb38%2FIcons_Light_Green5.png?id=f6e85bd4-2daa-40b6-bf48-ee90cd125e40&amp;table=block" alt="icon" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" loading="lazy"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"></span>
-    <p class="notion-text notion-text__content notion-semantic-string">Reward suppliers that are committed to reducing carbon intensity in their goods, works, services and supply chain.</p>
-  </div>
-</div>
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
+
+
+Reward suppliers that are committed to reducing carbon intensity in their goods, works, services and supply chain.
+{% endcallout %}

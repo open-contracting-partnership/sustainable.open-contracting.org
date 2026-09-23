@@ -20,5 +20,5 @@ In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl
 
 It also now incorporates a specific section on Sustainable Public Procurement (SPP), offering learning materials, guidance, a**nd a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.** 
 
-<br>The expertise center includes information regarding best practice exchange meetings amongst procurement practitioners. 
+The expertise center includes information regarding best practice exchange meetings amongst procurement practitioners. 
 {% endcallout %}

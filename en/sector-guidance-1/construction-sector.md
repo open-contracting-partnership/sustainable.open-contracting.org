@@ -11,4 +11,4 @@ properties:
     - "https://sustainable.open-contracting.org/922396faae2e490e82eb63c21ae7e0cc": /construction-sector-1
 sidebar: true
 ---
-<h2 class="notion-heading notion-semantic-string"></h2>
+

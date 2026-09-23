@@ -116,7 +116,7 @@ Según la consulta de los usuarios, se llevan a cabo un máximo de 6 reuniones q
 Los proyectores existentes consumen una gran cantidad de energía ya menudo se estropean.
 {% endcallout %}
 
-<br>La declaración de necesidades debe compartirse abiertamente con las partes interesadas relevantes y utilizarse para informar las actividades de participación en el mercado. Es importante identificar si la evaluación de necesidades cae dentro de una de las categorías de contratación prioritarias, y si hay objetivos y metas relevantes establecidas que debe considerar durante el proceso de contratación.
+La declaración de necesidades debe compartirse abiertamente con las partes interesadas relevantes y utilizarse para informar las actividades de participación en el mercado. Es importante identificar si la evaluación de necesidades cae dentro de una de las categorías de contratación prioritarias, y si hay objetivos y metas relevantes establecidas que debe considerar durante el proceso de contratación.
 
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**

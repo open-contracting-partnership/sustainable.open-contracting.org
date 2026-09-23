@@ -37,7 +37,7 @@ Each page is `<lang>/<path>.md`, with front matter:
 
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`) if a page has `sidebar: true`. The `sidebar_width` setting in `_config.yml` is the sidebar's fraction of the width.
 
-Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown. Callouts, toggles and columns are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -58,11 +58,26 @@ The first column's content.
 <div class="notion-text">The second column's content, as HTML.</div>
 {% endcolumn %}
 {% endcolumns %}
+
+{% indent **A paragraph** %}
+Blocks indented under the paragraph, which can be empty.
+{% endindent %}
 ```
 
-A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
+A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. If a callout's text is empty, its other blocks follow a blank line. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
 
-Tables are `{% table %}` tags, whose arguments are the columns' widths in pixels and Notion's `col-header` and `row-header` options. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). A row or cell that starts with `{color}` has that background color, and `<br>` is a line break in a cell:
+Links to pages (with the page's icon and title), images and PDFs are also tags:
+
+```liquid
+{% page /plan/prioritize %}
+{% page /monitoring-evaluation/sample-me-framework bg-green %}
+{% image /assets/images/Untitled.jpg 672 420 align-start normal %}
+{% pdf /assets/super/.../file.pdf %}
+```
+
+A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source and its width and height in Notion, then `align-start` to align it left, and `normal` to not make it as wide as the page.
+
+Tables are `{% table %}` tags, whose arguments are the columns' widths in pixels (or `MIN-MAX`) and Notion's `col-header` and `row-header` options. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). A row or cell that starts with `{color}` has that background color, and `<br>` is a line break in a cell:
 
 ```liquid
 {% table 166.24 177.23 col-header %}
@@ -110,7 +125,7 @@ items:
 
 On the Spanish and French sites, the `notion.hide_properties` setting hides the properties on the items' own pages, as on Super.so.
 
-Other Notion blocks (images, to-dos, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
+The few remaining blocks (lists with callouts in them) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
 ## How the content was produced
 

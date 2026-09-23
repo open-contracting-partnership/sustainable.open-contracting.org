@@ -42,33 +42,17 @@ Una manera lógica de determinar prioridades de contratación es la identificaci
 
 En primer lugar, es importante para la determinación de prioridades de categorías de contratación el tener una visión clara de las categorías actuales, y de los presupuestos para los contratos asociadas con ellas. Las categorías preliminares de contratación deben de estar filtradas, según:
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Valor
-</strong>El valor hace referencia al presupuesto total asociado con la categoría de contratación, si miras al número de contratos asociados con ella.</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle <strong>Valor<br></strong>El valor hace referencia al presupuesto total asociado con la categoría de contratación, si miras al número de contratos asociados con ella. %}
 
 
 
-</div>
-</div>
+{% endtoggle %}
 
-<div class="notion-toggle closed">
-<div class="notion-toggle__summary">
-  <div class="notion-toggle__trigger">
-    <div class="notion-toggle__trigger_icon"><span>‣</span></div>
-  </div><span class="notion-semantic-string"><strong>Frecuencia de contratación
-</strong>Se debe establecer la frecuencia de contratos para cada categoría, es decir, la cantidad de contratos asociada con una categoría de contratación durante un periodo determinado.</span>
-</div>
-<div class="notion-toggle__content" style="display:none" markdown="1">
+{% toggle <strong>Frecuencia de contratación<br></strong>Se debe establecer la frecuencia de contratos para cada categoría, es decir, la cantidad de contratos asociada con una categoría de contratación durante un periodo determinado. %}
 
 
 
-</div>
-</div>
+{% endtoggle %}
 
 {% callout green /assets/images/Pin_green-2.png %}
 El proceso de **recolección de datos dependerá de la estructura organizacional de la contratación**, ya sea centralizada, descentralizada o si obedece a un enfoque de gestión por categorías. La presencia de un sistema de e-contratación ayudaría a facilitar el proceso; en su ausencia, las encuestas y cuestionarios se pueden ser distribuidos con el fin de recoger la información necesaria.
@@ -109,16 +93,14 @@ Además de identificar las categorías que puedan tener un impacto con la implem
 
 Los esquemas de certificación pueden facilitar la implementación de CPS Abierta. Por ejemplo, se puede hacer uso de eco etiquetas creíbles (LINK 31) para identificar opciones sostenibles ya disponibles que se pueden adquirir dentro de las categorías de contratación identificadas. Usted puede juzgar la credibilidad del esquema por sus mecanismos de adopción, gobierno, auditoría, y supervisión.
 
-<div class="notion-text">
-  <p class="notion-text__content notion-semantic-string"><strong>Disponibilidad de normas de sostenibilidad desarrolladas</strong></p>
-  <div class="notion-text__children">
-    <p class="notion-text notion-text__content notion-semantic-string">Las prácticas de compras más sostenibles implican conocimientos de las normas que un producto, servicio u obra deben cumplir para ser clasificado como sostenible. Este elemento informará los requisitos que usted establece (LINK 32) para comparar las ofertas a lo largo del proceso de contratación. Las normas de sostenibilidad ya existentes pueden facilitar este proceso, ya que pueden ser utilizadas como puntos de referencia para elaborar dichos requisitos.</p>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><strong>Etiquetas ambientales existentes, o &quot;ecoetiquetas</strong><em>&quot;</em>. Estas etiquetas pueden ayudar a identificar productos ambientalmente preferibles dentro de una categoría dada de productos. Por ejemplo, en las categorías de contratación como los TIC ya existen eco etiquetas bien establecidas que faciliten la implementación de adquirir productos dentro de esta categoría. Para más información sobre estas imponer su uso en la implementación de CPS, debe hacer referencia a esta Guía.</li>
-      <li class="notion-list-item notion-semantic-string"><strong>Criterios existentes desarrollados por otros países</strong><em>.</em> Por ejemplo, muchos países de Europa han asignado prioridad a las categorías de contratación incluidas en orientación de criterios para Contratación Pública Verde (GPP) (LINK 33) de la Comisión Europea. Esta orientación contiene información sobre criterios específicos que usted puede establecer como requisitos esenciales, o como criterios de adjudicación, en el proceso de adquisición, por ejemplo, de productos y servicios de aseo ambientalmente preferidos. Esta información facilita la implementación para los responsables de procesos de contratación. Sin embargo, usted debe tener presente su entorno habilitante (LINK 34) para su orientación sobre la manera de introducir estas normas en la evaluación de ofertas.</li>
-    </ul>
-  </div>
-</div>
+{% indent **Disponibilidad de normas de sostenibilidad desarrolladas** %}
+
+Las prácticas de compras más sostenibles implican conocimientos de las normas que un producto, servicio u obra deben cumplir para ser clasificado como sostenible. Este elemento informará los requisitos que usted establece (LINK 32) para comparar las ofertas a lo largo del proceso de contratación. Las normas de sostenibilidad ya existentes pueden facilitar este proceso, ya que pueden ser utilizadas como puntos de referencia para elaborar dichos requisitos.
+
+- **Etiquetas ambientales existentes, o "ecoetiquetas***"*. Estas etiquetas pueden ayudar a identificar productos ambientalmente preferibles dentro de una categoría dada de productos. Por ejemplo, en las categorías de contratación como los TIC ya existen eco etiquetas bien establecidas que faciliten la implementación de adquirir productos dentro de esta categoría. Para más información sobre estas imponer su uso en la implementación de CPS, debe hacer referencia a esta Guía.
+- **Criterios existentes desarrollados por otros países***.* Por ejemplo, muchos países de Europa han asignado prioridad a las categorías de contratación incluidas en orientación de criterios para Contratación Pública Verde (GPP) (LINK 33) de la Comisión Europea. Esta orientación contiene información sobre criterios específicos que usted puede establecer como requisitos esenciales, o como criterios de adjudicación, en el proceso de adquisición, por ejemplo, de productos y servicios de aseo ambientalmente preferidos. Esta información facilita la implementación para los responsables de procesos de contratación. Sin embargo, usted debe tener presente su entorno habilitante (LINK 34) para su orientación sobre la manera de introducir estas normas en la evaluación de ofertas.
+
+{% endindent %}
 
 ### **Requisitos de referencia en sostenibilidad vs. capacidad actual del mercado.**
 

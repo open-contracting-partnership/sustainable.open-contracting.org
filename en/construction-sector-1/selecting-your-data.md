@@ -122,10 +122,9 @@ In a tender process, the selection of local companies, SMEs, or women-owned comp
 **Resources**
 <br>**Including construction sustainability criteria in tender documents:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://www.ihobe.eus/CriteriosAmbientales/Ficha.aspx?IdMenu=244677a9-6fc5-4e48-b375-3283c46421fe&amp;Cod=0e4a8c33-e470-4792-b0f2-58ed3b554490&amp;Idioma=es-ES" class="notion-link link" target="_blank" rel="noopener noreferrer">Civil Works Contract Model. IHOBE (ES)</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">IHOBE provides examples of how to introduce sustainability criteria regarding construction materials on a tender document, as well as how data should be required of the bidders. </p>
-  <li class="notion-list-item notion-semantic-string"><a href="https://ec.europa.eu/environment/gpp/pdf/GPP%20criteria%20Roads%20(2016)%20203.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">EU Green Public Procurement Criteria for Road Design, Construction and Maintenance. 2016. European Commission</a></li>
-  <li class="notion-list-item notion-semantic-string"><a href="https://ec.europa.eu/environment/gpp/pdf/report_gpp_office_buildings.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">EU GPP Criteria for Office Building Design, Construction and Management. 2016. European Commission</a></li>
-</ul>
+- [Civil Works Contract Model. IHOBE (ES)](https://www.ihobe.eus/CriteriosAmbientales/Ficha.aspx?IdMenu=244677a9-6fc5-4e48-b375-3283c46421fe&Cod=0e4a8c33-e470-4792-b0f2-58ed3b554490&Idioma=es-ES)
+
+  IHOBE provides examples of how to introduce sustainability criteria regarding construction materials on a tender document, as well as how data should be required of the bidders. 
+- [EU Green Public Procurement Criteria for Road Design, Construction and Maintenance. 2016. European Commission](<https://ec.europa.eu/environment/gpp/pdf/GPP%20criteria%20Roads%20(2016)%20203.pdf>)
+- [EU GPP Criteria for Office Building Design, Construction and Management. 2016. European Commission](https://ec.europa.eu/environment/gpp/pdf/report_gpp_office_buildings.pdf)
 {% endcallout %}

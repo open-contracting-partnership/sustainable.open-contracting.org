@@ -60,8 +60,6 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
 
 {% endtoggle %}
 
-<p class="notion-text notion-text__content notion-semantic-string"> </p>
-
 {% callout green /assets/images/Pin_green-2.png %}
 *En Amérique latine et en Afrique en particulier, les principes de passation des marchés publics figurent souvent dans la constitution et sont parfois décrits comme des principes qui « régissent les activités des organismes publics » ou « l’utilisation des fonds publics ». Le recensement de ces principes et l’étude des conditions dans lesquels ils ont été définis peuvent guider vos décisions concernant les éléments que vous prendrez en compte au moment de comparer les offres durant le processus de passation de marchés.*
 {% endcallout %}

@@ -16,8 +16,7 @@ Once sustainability criteria have been clearly established, it should be transla
 **Engaging with suppliers**, and openly discussing sustainability obligations, **will lead to more effective contract clauses, increasing the positive impact of the contract, and minimizing non-compliance risks.** However, **this process should also be used to ensure that the overall contract is user friendly, and that key responsibilities are understood by all relevant stakeholders.**
 {% endcallout %}
 
-<h2 class="notion-heading notion-semantic-string">
-Key features of contract clauses</h2>
+## Key features of contract clauses
 
 Often, contract clauses that make reference to sustainability obligations are not effective, or considered less important than other business clauses. An[ analysis](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf) carried out by two consultancies, EcoVadis and Affectio Mutandi, shows that this is often due to factors such as the unrealistic monitoring expectations set on suppliers, or even the contradictions that sometimes emerge between sustainability and business clauses. They suggest six features against which the effectiveness of contract clauses can be measured. We include an explanation of these below.
 

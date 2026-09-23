@@ -22,7 +22,7 @@ Esto resulta esencial en la generación de confianza, y la consolidación de la 
 
 {% page /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante %}
 
-<br>Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la lista de chequeo, debe seguir leyendo esta sección.
+Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la lista de chequeo, debe seguir leyendo esta sección.
 
 ## **Verifique los criterios de evaluación o adjudicación**
 

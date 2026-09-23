@@ -14,7 +14,24 @@ Apto para PYME = "Sí"
 
 Se puede hacer un análisis del desempeño a lo largo del tiempo sobre los recuentos de contrataciones utilizando el año en que se celebró un contrato para el año de cada contrato.
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Año    | Número de CPS | Todas las contrataciones | 
+----------------------------------------
+2019    | 200       | 600              |    
+2020    | 150       | 380              |    
+2021    | 450       | 650              |  
+
+
+Para 2019
+Todas las contrataciones = 600
+ASPP totales = 200
+CPS como porcentaje de todas las contrataciones = 200/600 = 33,3 %
+
+Para 2020-2021
+Contrataciones CPS en 2020 = 150
+Contrataciones CPS en 2021 = 450
+2020-2021 diferencia = 450-150 = 300
+```
 
 Esto también se puede utilizar para hacer un seguimiento de los cambios año tras año como un porcentaje:
 
@@ -31,7 +48,29 @@ Diferencia 2020-2021 dividida por contrataciones SPP 2020
 
 O sobre los valores del contrato:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:1"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Año     | Contratos CPS    | Todas las contrataciones |
+        | ($millones)      |  ($millones)      |  
+-------------------------------------------------
+2019    | 400              | 700               |    
+2020    | 200              | 1000              |    
+2021    | 350              | 850               |  
+
+
+Para 2020
+Todas las contrataciones = $ 1000m
+CPS total = $ 200 millones
+CPS como porcentaje de todas las contrataciones = 200/1000 = 20 %
+
+Para 2020-2021
+Contrataciones CPS en 2020 = 200
+Contrataciones CPS en 2021 = 350
+2020-2021 Diferencia = 350-200 = 150
+
+% cambio de edad 2020 a 2021
+Diferencia 2020-2021 dividida por contrataciones SPP 2020
+% cambio de edad 2020 a 2021 = 150/200 = 75%
+```
 
 Usar el valor bruto de los contratos es la opción más simple, pero no siempre la mejor opción. La razón es que estos valores pueden verse sesgados por contratos de alto valor. Por ejemplo, un solo contrato grande como la construcción de infraestructura puede valer miles de millones y aumentar la contratación total del año. En este caso, los valores deben analizarse junto con los números de contratos.
 
@@ -45,7 +84,22 @@ Número de 	CPS = Total de todas las CPS realizadas dividido por todas las contr
 
 Significa que se pueden crear clasificaciones de organizaciones gubernamentales que muestren los buenos y los malos resultados. Por ejemplo, esta lista es ilustrativa de los 5 mejores para 2021:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:2"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Comprador                  | Número de CPS  | Número de CPS  |
+                           | (real)         | (objetivo)   |  
+-------------------------------------------------------
+Ministerio de Salud Pública   | 86%         | 70%        |    
+Ministerio de Hacienda        | 82%         | 70%        |    
+Ministerio de Educación       | 73%         | 70%        |  
+Ministerio de Infraestructura | 63%         | 70%        |  
+
+El de peor desempeño es Ministerio de Infraestructura
+Seguimiento del rendimiento contra el objetivo
+CPS cuenta como un porcentaje de todas las contrataciones = 63%
+Número de CPS objetivo = 70 %
+Objetivo contra real = 63-70% = -7% contra objetivo
+El Ministerio de Infraestructura tiene un rendimiento inferior al 7%
+```
 
 Desde una vista de clasificación de alto nivel, los datos se pueden desglosar aún más en hojas de cálculo y paneles. De la lista ilustrativa anterior, tomando el Ministerio de Infraestructura con el peor desempeño en 63%: 
 

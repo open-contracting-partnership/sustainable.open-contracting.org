@@ -20,16 +20,18 @@ Relacionarse con el mercado de proveedores es importante para todos los procesos
 
 Las prácticas de relación con el mercado en el contexto de la implementación de una CPS Abierta normalmente se llevan a cabo con el propósito de:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Evaluación de la capacidad del mercado</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Maximizar la oferta de proveedores por oportunidades de contrato</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Promover la confianza y la transparencia</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Relacinarse con el mercado ofrece una oportunidad para que las autoridades compartan de manera transparente sus planes de contrataciones con los proveedores, sus objetivos de sostenibilidad y las motivaciones detrás de estos objetivos, promoviendo la confianza entre las partes interesadas.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Recopilación de comentarios sobre su enfoque del mercado</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.</p>
-</ul>
+- **Evaluación de la capacidad del mercado**
+
+  Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
+- **Maximizar la oferta de proveedores por oportunidades de contrato**
+
+  Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.
+- **Promover la confianza y la transparencia**
+
+  Relacinarse con el mercado ofrece una oportunidad para que las autoridades compartan de manera transparente sus planes de contrataciones con los proveedores, sus objetivos de sostenibilidad y las motivaciones detrás de estos objetivos, promoviendo la confianza entre las partes interesadas.
+- **Recopilación de comentarios sobre su enfoque del mercado**
+
+  En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.
 
 {% callout red /assets/images/Icons_Red6.png %}
 **Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.**
@@ -55,8 +57,6 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 **Relacionarse con el mercado de proveedores** al diseñar su primer Plan de Acción de APP **es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible**.
 {% endcallout %}
 
-<p class="notion-text notion-text__content notion-semantic-string"></p>
-
 {% endtoggle %}
 
 {% toggle **Conectarse durante la fase de planificación de contrataciones** %}
@@ -70,22 +70,24 @@ Las actividades de participación en el mercado realizadas durante la fase de pl
 {% callout red /assets/images/Idea_Red.png %}
 Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para **discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.**
 
-<div class="notion-text">
-  <p class="notion-text__content notion-semantic-string">Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).<strong>Conectarse durante la contratación</strong></p>
-  <div class="notion-text__children">
-    <p class="notion-text notion-text__content notion-semantic-string">Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:</p>
-    <ul class="notion-bulleted-list">
-      <li class="notion-list-item notion-semantic-string"><strong>Use a Prior Information Notice (PIN) or a notice of engagement to the market.</strong></li>
-      <p class="notion-text notion-text__content notion-semantic-string">PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</p>
-      <li class="notion-list-item notion-semantic-string"><strong>Finding or developing channels to engage with priority supplier groups.</strong></li>
-      <p class="notion-text notion-text__content notion-semantic-string">Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.</p>
-      <li class="notion-list-item notion-semantic-string"><strong>Facilitate supplier consortia, especially SMEs and priority groups. </strong></li>
-      <p class="notion-text notion-text__content notion-semantic-string">Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.</p>
-      <li class="notion-list-item notion-semantic-string"><strong>Give clear channels for feedback.</strong></li>
-      <p class="notion-text notion-text__content notion-semantic-string">It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.</p>
-    </ul>
-  </div>
-</div>
+{% indent Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).**Conectarse durante la contratación** %}
+
+Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:
+
+- **Use a Prior Information Notice (PIN) or a notice of engagement to the market.**
+
+  PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.
+- **Finding or developing channels to engage with priority supplier groups.**
+
+  Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.
+- **Facilitate supplier consortia, especially SMEs and priority groups.** 
+
+  Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.
+- **Give clear channels for feedback.**
+
+  It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.
+
+{% endindent %}
 {% endcallout %}
 
 {% endtoggle %}
@@ -94,16 +96,18 @@ Una forma de relacionarse con el mercado durante la fase de planificación es **
 
 Una vez usted haya decidido emitir una oferta, existen diferentes métodos que se pueden utilizar para relacionarse con el mercado durante el proceso de licitación, algunos de estos incluyen:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Utilice un Aviso de Información Previa </strong><em><strong>(Prior Information Notice (PIN)) </strong></em><strong>o un aviso de compromiso con el mercado.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Los PIN son una herramienta para notificar al mercado su intención de adjudicar un contrato e iniciar conversaciones con posibles proveedores, lo que le permite evaluar la disponibilidad de alternativas sostenibles y recopilar información para el desarrollo de las especificaciones de la licitación.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Encuentre o desarrolle canales para conectarse con grupos de proveedores prioritarios.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Es posible que muchos de los actuales proveedores no estén al tanto de la posibilidad de vender sus soluciones al sector público. Para alentar a todos los tipos de proveedores a postularse, es importante ir más allá de simplemente publicar en el portal de compras habitual. Esto se puede hacer publicitando las oportunidades en eventos locales e interactuando con grupos y comunidades existentes.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Facilite los consorcios de proveedores, especialmente las PYME y los colectivos prioritarios.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Abordar la falta de recursos suficientes, a menudo un desafío clave para las PYME que buscan participar en los procesos de contratación. Esta barrera se puede superar presentando una oferta conjunta con otros proveedores. Las autoridades públicas pueden sugerir esta opción a los proveedores relevantes, realizar eventos de compromiso y compartir detalles de los participantes.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Brinde canales claros de retroalimentación.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">También podrá ser útil solicitar comentarios sobre el diseño de la licitación, incluidos los enfoques de contratación utilizados y cómo se han introducido los criterios de sostenibilidad, además de proporcionar comentarios a todos los proveedores una vez que se haya adjudicado la licitación.</p>
-</ul>
+- **Utilice un Aviso de Información Previa** ***(Prior Information Notice (PIN))*** **o un aviso de compromiso con el mercado.**
+
+  Los PIN son una herramienta para notificar al mercado su intención de adjudicar un contrato e iniciar conversaciones con posibles proveedores, lo que le permite evaluar la disponibilidad de alternativas sostenibles y recopilar información para el desarrollo de las especificaciones de la licitación.
+- **Encuentre o desarrolle canales para conectarse con grupos de proveedores prioritarios.**
+
+  Es posible que muchos de los actuales proveedores no estén al tanto de la posibilidad de vender sus soluciones al sector público. Para alentar a todos los tipos de proveedores a postularse, es importante ir más allá de simplemente publicar en el portal de compras habitual. Esto se puede hacer publicitando las oportunidades en eventos locales e interactuando con grupos y comunidades existentes.
+- **Facilite los consorcios de proveedores, especialmente las PYME y los colectivos prioritarios.**
+
+  Abordar la falta de recursos suficientes, a menudo un desafío clave para las PYME que buscan participar en los procesos de contratación. Esta barrera se puede superar presentando una oferta conjunta con otros proveedores. Las autoridades públicas pueden sugerir esta opción a los proveedores relevantes, realizar eventos de compromiso y compartir detalles de los participantes.
+- **Brinde canales claros de retroalimentación.**
+
+  También podrá ser útil solicitar comentarios sobre el diseño de la licitación, incluidos los enfoques de contratación utilizados y cómo se han introducido los criterios de sostenibilidad, además de proporcionar comentarios a todos los proveedores una vez que se haya adjudicado la licitación.
 
 {% endtoggle %}
 

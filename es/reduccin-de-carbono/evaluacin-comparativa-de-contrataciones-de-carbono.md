@@ -22,4 +22,16 @@ Taxi Co wins the contract for $5 million or $1 million a year
 
 This self report can be benchmarked against average for that category.
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```sql
+Taxi service's estimated carbon emissions/$ = 603.05 tonnes CO2/$ million
+(620 tonnes - 603.05 tonnes) / 603.05 tonnes = 3%
+This represents a 3% greater carbon emissions compared to market
+
+This 5 year contract therefore yields 3100 tonnes of CO2
+The industry average would generate 3015.25 tonnes over the same 5 years
+This represents 84.75 tonnes in excess generation
+
+This translates to 42,375 CO2 fire extinguishers
+And would need 4138 trees to be planted to offset from average
+Source: https://www.climateneutralgroup.com/en/news/what-exactly-is-1-tonne-of-co2/
+```

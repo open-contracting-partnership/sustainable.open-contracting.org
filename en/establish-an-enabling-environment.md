@@ -22,7 +22,7 @@ For a simple and quick way to carry out an overview of your enabling environment
 
 {% page /establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment %}
 
-<br>For a more detailed account of the process, and concepts, introduced on the checklist, keep reading this section.
+For a more detailed account of the process, and concepts, introduced on the checklist, keep reading this section.
 
 ## C**heck evaluation or award criteria** 
 

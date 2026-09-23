@@ -12,7 +12,7 @@ sidebar: true
 A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herramientas prácticas que usted puede usar para ayudarlo a planear APP. En esta sección incluimos una selección de algunos de los más útiles, en formatos descargables y editables.
 {% endcallout %}
 
-<br>**Para cuando esté estableciendo su marco de trabajo:**
+**Para cuando esté estableciendo su marco de trabajo:**
 
 - [Quick checklist - Evaluate your enabling environment](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante)
 - [Quick checklist - Share your compliance trail](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento)

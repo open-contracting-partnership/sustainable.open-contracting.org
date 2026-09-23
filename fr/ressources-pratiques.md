@@ -12,7 +12,7 @@ sidebar: true
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
 
-<br>**Pour quand vous avez besoin d'un résumé rapide**
+**Pour quand vous avez besoin d'un résumé rapide**
 
 - [Policy Brief: Open, Sustainable Government Procurement. For People, Planet and Prosperity](https://www.open-contracting.org/resources/open-sustainable-government-procurement-for-people-planet-and-prosperity/) (en anglais)
 - Présentation vidéo: [Mettre en œuvre l’achat public durable et ouvert](https://www.youtube.com/watch?v=CELTgg1Z7QY)

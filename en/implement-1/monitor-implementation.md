@@ -11,4 +11,4 @@ properties:
     - "https://sustainability.open-contracting.org/monitor-implementation": /monitor-implementation
 sidebar: true
 ---
-<h2 class="notion-heading notion-semantic-string"></h2>
+

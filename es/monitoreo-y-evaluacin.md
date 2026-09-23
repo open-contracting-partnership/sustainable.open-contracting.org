@@ -52,62 +52,20 @@ Si una autoridad pública decide seleccionar "reducción de valores de carbono a
 
 La muestra Marco M&E ofrece una orientación sobre la información que se requiere para medir cada indicador, una un método propuesto para medirla, y las opciones para registrar los datos que se requieren. Un ejemplo se puede tomar de la tabla que aparece a continuación.
 
-<div class="notion-table__wrapper">
-  <table class="notion-table">
-    <tbody>
-      <tr style="background:var(--color-bg-orange)">
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">META</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">RESULTADO</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">INDICADOR</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">INFORMACIÓN NECESITADA</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">MÉTODO DE CÁLCULO</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">OPCIONES DE REGISTRO DE LOS DATOS QUE NECESITA</span></div>
-        </td>
-      </tr>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Reducción de emisiones de CO2</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Reducción de valores de carbono asociados con contratos públicos</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Toneladas de CO2 asociados con contratos públicos</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">CO2 estimado de bienes adquiridos- No. de unidades adquiridos</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">CO2 estimado x No. de unidades</span></div>
-        </td>
-        <td style="min-width:120px;max-width:240px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 2, Pronóstico de emisiones probables” en el caso de la reducción del uso de carbono</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 120-240 120-240 120-240 120-240 120-240 120-240 %}
+{orange} | META | RESULTADO | INDICADOR | INFORMACIÓN NECESITADA | MÉTODO DE CÁLCULO | OPCIONES DE REGISTRO DE LOS DATOS QUE NECESITA |
+|---|---|---|---|---|---|
+| Reducción de emisiones de CO2 | Reducción de valores de carbono asociados con contratos públicos | Toneladas de CO2 asociados con contratos públicos | CO2 estimado de bienes adquiridos- No. de unidades adquiridos | CO2 estimado x No. de unidades | Ver Opción 2, Pronóstico de emisiones probables” en el caso de la reducción del uso de carbono |
+{% endtable %}
 
 La estructura presentada en la tabla anterior se puede utilizar dentro de su organización para fijar sus propias metas, resultados e indicadores para todas las áreas prioritarias de contratación Para ver más ejemplos, hemos desarrollado un ejemplo marco completo de un Marco M&E. Ver enlace abajo.
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Más ejemplos de metas resultados e indicadores; como crearlos; y como medirlos:
-</strong></span>
-    <a href="/monitoreo-y-evaluacin/ejemplo-de-marco-me" class="notion-link notion-page bg-green"><span class="notion-page__icon"><img alt="Ejemplo de Marco M&amp;E" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/icons_D_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Ejemplo de Marco M&amp;E</span></a>
-  </div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+<strong>Más ejemplos de metas resultados e indicadores; como crearlos; y como medirlos:
+</strong>
+
+{% page /monitoreo-y-evaluacin/ejemplo-de-marco-me bg-green %}
+{% endcallout %}
 
 El desarrollo de metas, resultados e indicadores exige un entendimiento integral de lo que usted está tratando de lograr, y la manera de hacerlo. Nuestro ejemplo de Marco M&E le ayudará a pensar cómo se pueden fijar y hacer monitoreo de metas, resultados e indicadores prácticos específicos y medibles
 

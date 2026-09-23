@@ -83,5 +83,3 @@ En el ejemplo específico y trabajado a continuación, hemos incluido estos resu
 {blue} | Fomentar la adopción de CPS | Incorporar la sostenibilidad en el proceso de contratación | Participación de valor de propuestas que referencien criterios CPS dentro de las especificaciones. | \-Valor de las licitaciones que referencien criterios CPS dentro de las especificaciones.-Valor total de las propuestas. | Valor de licitaciones que referencien criterios CPS en las especificaciones / Valor total de los contratos | Ver Opción 1 |
 {blue} | Fomentar la adopción de CPS | Incorporar la sostenibilidad en el proceso de contratación | Participación de valor de contratos que referencien criterios CPS dentro de los puntajes (criterios de adjudicación) | \-Valor de las propuestas que referencien criterios CPS dentro de los puntajes (criterios de adjudicación).-Valor total de la propuesta | Valor de las licitaciones que referencien criterios CPS en el puntaje (criterios de adjudicación) / Valor total de las licitaciones | Ver Opción 1 |
 {% endtable %}
-
-<p class="notion-text notion-text__content notion-semantic-string"></p>

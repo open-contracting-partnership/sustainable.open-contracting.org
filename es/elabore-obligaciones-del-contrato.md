@@ -16,8 +16,7 @@ Una vez se hayan establecido claramente los criterios de sostenibilidad, deben t
 **Relacionarse con los proveedores** y discutir abiertamente las obligaciones de sostenibilidad **conducirá a cláusulas contractuales más efectivas, aumentando el impacto positivo del contrato y minimizando los riesgos de incumplimiento**. Sin embargo, **este proceso también debe usarse para garantizar que el contrato general sea fácil de usar y que todas las partes interesadas comprendan las responsabilidades clave.**
 {% endcallout %}
 
-<h2 class="notion-heading notion-semantic-string">
-<strong>Características clave de las cláusulas del contrato</strong></h2>
+## **Características clave de las cláusulas del contrato**
 
 A menudo, las cláusulas contractuales que hacen referencia a las obligaciones de sostenibilidad no son efectivas o se consideran menos importantes que otras cláusulas comerciales. Un [análisis](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf) realizado por dos consultoras, EcoVadis y Affectio Mutandi, muestra que esto se debe en muchas ocasiones a factores como las expectativas de seguimiento poco realistas que se establecen en los proveedores, o incluso las contradicciones que a veces surgen entre las cláusulas de sostenibilidad y las comerciales. Sugieren seis características con las que se puede medir la eficacia de las cláusulas contractuales. Incluimos una explicación de estos a continuación.
 
@@ -43,7 +42,7 @@ Las cláusulas del contrato de sostenibilidad deben determinar consecuencias esp
 
 La profundidad de la cobertura se refiere a las diferentes capas de la cadena de suministro a las que se refieren las cláusulas. Esto es más relevante en términos de cláusulas de sostenibilidad social, como las que se refieren a la necesidad de que el proveedor cuente con un código de conducta y realice actividades de monitoreo a lo largo de la cadena de suministro.
 
-<br>Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que un proveedor tiene relaciones comerciales directas (es decir, más allá de los proveedores de nivel 1) para cubrir a los proveedores de esos proveedores (nivel 2, etc.). Esta es la razón por la cual establecer un diálogo con los proveedores es crucial para comprender la información actual de la cadena de proveedores y trabajar con el proveedor, o los proveedores que trabajan en ese sector en su área específica, para fomentar la transparencia y aplicar mejores prácticas en cascada a lo largo de una cadena de suministro. Para ver ejemplos sobre cómo se pueden introducir los requisitos de la cadena de suministro en un proceso de contratación, consulte la sección sobre contratación de TI.
+Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que un proveedor tiene relaciones comerciales directas (es decir, más allá de los proveedores de nivel 1) para cubrir a los proveedores de esos proveedores (nivel 2, etc.). Esta es la razón por la cual establecer un diálogo con los proveedores es crucial para comprender la información actual de la cadena de proveedores y trabajar con el proveedor, o los proveedores que trabajan en ese sector en su área específica, para fomentar la transparencia y aplicar mejores prácticas en cascada a lo largo de una cadena de suministro. Para ver ejemplos sobre cómo se pueden introducir los requisitos de la cadena de suministro en un proceso de contratación, consulte la sección sobre contratación de TI.
 
 {% endtoggle %}
 

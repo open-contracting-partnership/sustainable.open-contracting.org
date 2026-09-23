@@ -127,4 +127,4 @@ Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons p
 {green} | Reducing carbon emissions  | Reducing the purchase of carbon intensive products | Tonnes of CO2 associated with the use of steel in public procurement projects  | \- CO2 estimate of steel<br><br>\- Tonnes of concrete purchased | CO2 estimates X Tonnes of steel | [See Option 4: Forecast contract impact](/possibilits-dutilisation-des-donnes) |
 {% endtable %}
 
-<br>Grâce aux informations extraites des données, les acheteurs peuvent exiger des réductions des émissions de carbone dans le cadre des marchés publics, tandis que les fournisseurs peuvent utiliser ces données pour améliorer leurs propres chaînes d’approvisionnement et pratiques afin de réduire les émissions.
+Grâce aux informations extraites des données, les acheteurs peuvent exiger des réductions des émissions de carbone dans le cadre des marchés publics, tandis que les fournisseurs peuvent utiliser ces données pour améliorer leurs propres chaînes d’approvisionnement et pratiques afin de réduire les émissions.

@@ -11,4 +11,4 @@ properties:
     - "https://sustainability.open-contracting.org/choose-a-procurement-method": /choose-a-procurement-method
 sidebar: true
 ---
-<h2 class="notion-heading notion-semantic-string"></h2>
+

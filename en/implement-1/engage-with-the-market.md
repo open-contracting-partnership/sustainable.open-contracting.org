@@ -11,4 +11,4 @@ properties:
     - "https://sustainability.open-contracting.org/engage-with-the-market": /engage-with-the-market
 sidebar: true
 ---
-<h2 class="notion-heading notion-semantic-string"></h2>
+

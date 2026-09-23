@@ -22,7 +22,7 @@ En otras palabras, CPS es la consideración de los tres pilares del desarrollo s
 
 {% toggle **¿Cuál es la diferencia entre CPS y CPS Abierta?** %}
 
-<p class="notion-text notion-text__content notion-semantic-string"> La contratación pública abierta y sostenible (CPS Abierta) se refiere a la aplicación de prácticas de contratación abierta y gobierno abierto para respaldar la implementación exitosa de CPS e impulsar mejores resultados sostenibles.</p>
+La contratación pública abierta y sostenible (CPS Abierta) se refiere a la aplicación de prácticas de contratación abierta y gobierno abierto para respaldar la implementación exitosa de CPS e impulsar mejores resultados sostenibles.
 
 Según [Open Contracting Partnership (OCP),](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
 

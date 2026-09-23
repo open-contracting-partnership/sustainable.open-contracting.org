@@ -12,8 +12,6 @@ sidebar: true
 ---
 Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of [relevant data variables](/construction-sector-1/selecting-your-data) [throughout the procurement process](/construction-sector-1/collecting-the-data).
 
-<p class="notion-text notion-text__content notion-semantic-string"> </p>
-
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, **we introduce certain procurement approaches and procedures that support open collaboration amongst stakeholders**, facilitating the collection and sharing of data during the process. 
 {% endcallout %}
@@ -99,10 +97,9 @@ Data about all aspects of the project will have to be openly shared with all sta
 
 **Guidance on including early supply integration in construction projects at the design stage:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://sftool.gov/plan/261/integrative-design-process" class="notion-link link" target="_blank" rel="noopener noreferrer">Integrative Design Process. U.S. General Services Administration </a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Step-by-step guidance on how to carry out an Integrative Design Process (IDP), with links to relevant guidance and tools at each step. </p>
-</ul>
+- [Integrative Design Process. U.S. General Services Administration ](https://sftool.gov/plan/261/integrative-design-process)
+
+  Step-by-step guidance on how to carry out an Integrative Design Process (IDP), with links to relevant guidance and tools at each step. 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

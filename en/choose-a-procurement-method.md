@@ -16,8 +16,7 @@ The design of a public procurement process can limit or facilitate the applicati
 One procurement approach that can be very helpful when starting to implement sustainable practices in public procurement is to divide projects into **pilot and scale phases.** This can be especially useful for testing risky and uncertain assumptions. During the pilot phase, data should be clearly captured and should feed into the scaling phase.
 {% endcallout %}
 
-<h2 class="notion-heading notion-semantic-string">
-<strong>Outcome-based procurement</strong></h2>
+## **Outcome-based procurement**
 
 Outcome-based procurement can be another way to start implementing SPP. Applying an outcome-based procurement approach consists in framing purchasing needs in terms of the outcome that should be achieved, rather than how to achieve that outcome, allowing the supplier market to offer different solutions.
 
@@ -25,12 +24,12 @@ Outcome-based procurement can be another way to start implementing SPP. Applying
 
 When you decide to use outcome-based procurement approaches, this can result in two main benefits: 
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Focusing on real needs </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">By framing needs in terms of outcomes (e.g. need for a patient entertainment system in a health facility) instead of specific needs (e.g. television units), public authorities open up the option of considering different ways to meet the identified needs. Some of the proposed solutions from suppliers might respond better to the needs identified than the specific options that could be considered. </p>
-  <li class="notion-list-item notion-semantic-string"><strong>Promoting innovation</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions. </p>
-</ul>
+- **Focusing on real needs** 
+
+  By framing needs in terms of outcomes (e.g. need for a patient entertainment system in a health facility) instead of specific needs (e.g. television units), public authorities open up the option of considering different ways to meet the identified needs. Some of the proposed solutions from suppliers might respond better to the needs identified than the specific options that could be considered. 
+- **Promoting innovation**
+
+  Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions. 
 
 {% endtoggle %}
 

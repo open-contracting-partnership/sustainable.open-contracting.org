@@ -72,8 +72,6 @@ The following accreditations are given to a construction project once it has bee
 
 {% endtoggle %}
 
-<div class="notion-text color-blue"></div>
-
 {% callout gray /assets/images/Icons_Grey9.png %}
 Green construction accreditations cover many aspects of construction projects, **for an overview of some of the key sustainability factors, and how they can be measured during a construction project**, see [the next section](/sector-de-la-construccin-en-ingls/seleccione-sus-datos).
 {% endcallout %}
@@ -92,12 +90,12 @@ Green construction accreditations cover many aspects of construction projects, *
 
 **Finding relevant ecolabels in the construction sector:**
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><a href="https://sftool.gov/greenprocurement/green-products/1/construction-materials/0" class="notion-link link" target="_blank" rel="noopener noreferrer">Construction Materials. SF Tool </a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">S.F. Tool is a tool for procurers provided by the U.S. General Service Administration (GSA) that includes information on product sustainability specifications, and relevant certifications, in the construction sector.</p>
-  <li class="notion-list-item notion-semantic-string"><a href="https://globalecolabelling.net/eco/eco-friendly-products-by-category/" class="notion-link link" target="_blank" rel="noopener noreferrer">Ecolabelling Standards by Product Category. Global Ecolabelling Network</a></li>
-  <p class="notion-text notion-text__content notion-semantic-string">The Global Ecolabelling Network provides information on what Type I ecolabels include standards for products in the construction sector. </p>
-</ul>
+- [Construction Materials. SF Tool ](https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
+
+  S.F. Tool is a tool for procurers provided by the U.S. General Service Administration (GSA) that includes information on product sustainability specifications, and relevant certifications, in the construction sector.
+- [Ecolabelling Standards by Product Category. Global Ecolabelling Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/)
+
+  The Global Ecolabelling Network provides information on what Type I ecolabels include standards for products in the construction sector. 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

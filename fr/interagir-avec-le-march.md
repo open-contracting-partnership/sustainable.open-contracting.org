@@ -52,8 +52,6 @@ Il est possible d’interagir avec les acteurs du marché à chaque étape de la
 *L’interaction avec les acteurs du marché lors de l’élaboration de votre premier plan d’action sur les marchés publics durables est essentielle pour diffuser et communiquer tout changement stratégique majeur, inclure les fournisseurs dans votre démarche et prendre conscience des possibilités.*
 {% endcallout %}
 
-<p class="notion-text notion-text__content notion-semantic-string"></p>
-
 {% endtoggle %}
 
 {% toggle **Interagir durant la phase de planification des marchés** %}

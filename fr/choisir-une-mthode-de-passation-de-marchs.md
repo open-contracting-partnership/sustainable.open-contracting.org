@@ -16,8 +16,7 @@ La conception d’un processus de passation de marchés peut limiter ou facilite
 *Pour adopter des pratiques durables de passation de marchés, il est intéressant de diviser les projets dans des phases d’essai et de reproduction à grande échelle. Cela peut être particulièrement utile pour tester des hypothèses risquées et incertaines. Durant la phase d’essai, une stratégie claire de collecte de données doit être mise en œuvre et les données collectées guideront la phase de reproduction à grande échelle.*
 {% endcallout %}
 
-<h2 class="notion-heading notion-semantic-string">
-<strong>Marchés axés sur les résultats</strong></h2>
+## **Marchés axés sur les résultats**
 
 Les marchés axés sur les résultats peuvent constituer un bon point de départ en ce qui concerne les marchés publics durables. Cette approche consiste à définir les besoins en matière d’achat du point de vue des résultats souhaités plutôt que de définir une méthode pour obtenir ces résultats, ce qui permet aux acteurs du marché de proposer des solutions diversifiées.
 

@@ -157,7 +157,7 @@ Toutefois, comme expliqué précédemment, dans certains cas, les informations c
 
 "identifier": "52.838.216",
 
-<p class="notion-text notion-text__content notion-semantic-string"><strong> &quot;gender&quot;: &quot;Femenino&quot;</strong></p>
+**"gender": "Femenino"**
 
 }
 

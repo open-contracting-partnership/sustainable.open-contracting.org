@@ -20,16 +20,18 @@ Engaging with the supplier market is important for all procurement processes. Ho
 
 Market engagement practices in the context of Open SPP implementation are normally carried out for the purpose of:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Assessing market capability </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">When deciding which procurement categories to prioritize, or considering what sustainability criteria should be introduced in public procurement contracts, it is essential to assess market capability. A successful assessment of market capability will ensure that Open SPP constitutes an opportunity to build on the sustainability work being carried out by local suppliers, while using it as a tool to promote innovation and progressively build market capability.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Maximizing suppliers bidding for contract opportunities </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Market engagement activities will serve to promote tender opportunities, which can result in an increase of the number of bidders in public procurement tenders. Being able to choose from different suppliers, including those who might have not considered public procurement before, increases the chances of finding the best solution to the identified needs.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Promoting trust and transparency </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Engaging with the market offers an opportunity for authorities to transparently share their procurement plans with suppliers, their sustainability objectives, and the motivations behind these objectives, promoting trust amongst stakeholders.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Gathering feedback on your approach from the market </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Sometimes, decisions regarding the structure of certain procurement processes, or the inclusion of specific sustainability criteria, may make it difficult for certain suppliers to participate, or contradict existing market practices. Gathering feedback from suppliers can help to correct this, ensuring that procurement processes are planned in a way to maximize the chances of selecting the best available solution.</p>
-</ul>
+- **Assessing market capability** 
+
+  When deciding which procurement categories to prioritize, or considering what sustainability criteria should be introduced in public procurement contracts, it is essential to assess market capability. A successful assessment of market capability will ensure that Open SPP constitutes an opportunity to build on the sustainability work being carried out by local suppliers, while using it as a tool to promote innovation and progressively build market capability.
+- **Maximizing suppliers bidding for contract opportunities** 
+
+  Market engagement activities will serve to promote tender opportunities, which can result in an increase of the number of bidders in public procurement tenders. Being able to choose from different suppliers, including those who might have not considered public procurement before, increases the chances of finding the best solution to the identified needs.
+- **Promoting trust and transparency** 
+
+  Engaging with the market offers an opportunity for authorities to transparently share their procurement plans with suppliers, their sustainability objectives, and the motivations behind these objectives, promoting trust amongst stakeholders.
+- **Gathering feedback on your approach from the market** 
+
+  Sometimes, decisions regarding the structure of certain procurement processes, or the inclusion of specific sustainability criteria, may make it difficult for certain suppliers to participate, or contradict existing market practices. Gathering feedback from suppliers can help to correct this, ensuring that procurement processes are planned in a way to maximize the chances of selecting the best available solution.
 
 {% callout red /assets/images/Icons_Red6.png %}
 **A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is [Mexico’s City Ecobici bike sharing system.](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)** For more information on how open market engagement approaches can help drive SPP **see [this report](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) published by The Chicago Council on Global Affairs.**
@@ -54,8 +56,6 @@ Market engagement activities can be applied throughout the different steps of de
 **Engaging with the supplier market** when designing your first SPP Action Plan is **essential to share and communicate a major strategy change, take suppliers on the journey with you, and understand what is feasible.**
 {% endcallout %}
 
-<p class="notion-text notion-text__content notion-semantic-string"></p>
-
 {% endtoggle %}
 
 {% toggle **Engaging during procurement planning phase** %}
@@ -77,16 +77,18 @@ One way in which you can engage with the market during the planning phase is by 
 
 Once it has been decided to issue a tender, there are different methods that can be used to engage with the market during the tendering process, some of these include:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Use a Prior Information Notice (PIN) or a notice of engagement to the market.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Finding or developing channels to engage with priority supplier groups.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Facilitate supplier consortia, especially SMEs and priority groups. </strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.</p>
-  <li class="notion-list-item notion-semantic-string"><strong>Give clear channels for feedback.</strong></li>
-  <p class="notion-text notion-text__content notion-semantic-string">It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.</p>
-</ul>
+- **Use a Prior Information Notice (PIN) or a notice of engagement to the market.**
+
+  PINs are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.
+- **Finding or developing channels to engage with priority supplier groups.**
+
+  Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.
+- **Facilitate supplier consortia, especially SMEs and priority groups.** 
+
+  Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.
+- **Give clear channels for feedback.**
+
+  It can also be valuable to request feedback regarding the design of the tender, including the procurement approaches used, and how the sustainability criteria have been introduced, in addition to providing feedback to all suppliers once the tender has been awarded.
 
 {% endtoggle %}
 

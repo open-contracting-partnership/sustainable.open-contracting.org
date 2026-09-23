@@ -7,7 +7,6 @@ full_width: true
 notion_id: ea1c4d373fce42ab8ce3f65fbf804820
 sidebar: true
 ---
-<div class="notion-callout bg-gray-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Notion-others2.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"></span></div>
-</div>
+{% callout gray /assets/images/Notion-others2.png %}
+
+{% endcallout %}

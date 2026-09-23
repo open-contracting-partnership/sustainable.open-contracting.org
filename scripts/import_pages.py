@@ -24,11 +24,20 @@ IMAGE = re.compile(
     r"https://images\.spr\.so/cdn-cgi/imagedelivery/[^/]+/([^/]+)/[^/\"\s]+/[^\"\s]*"
 )
 NEXT_IMAGE = re.compile(r"/_next/image\?url=([^&\"]+)(?:&amp;|&)w=\d+(?:&amp;|&)q=\d+")
+NOTION_IMAGE = re.compile(
+    r"https://app\.notion\.com/image/https%3A%2F%2Fs3-us-west-2\.amazonaws\.com%2Fsecure\.notion-static\.com%2F"
+    r"[0-9a-f-]+%2F([^?\"%]+(?:%20[^?\"%]+)*)\?[^\"]*"
+)
 SUPER_ASSET = re.compile(r"https://assets\.super\.so/")
 MAIN = re.compile(r'<main id="([^"]*)" class="([^"]*)">(.*)</main>', re.S)
 STYLE = re.compile(r"<style>(.*?)</style>", re.S)
 HREF = re.compile(r'href="([^"]*)"')
-SPACER = re.compile(r'<div (?:id="[^"]*" )?class="notion-text"></div>')
+# Empty paragraphs and headings, which Notion uses for spacing.
+SPACER = re.compile(
+    r'<div (?:id="[^"]*" )?class="notion-text(?: color-\w+)?"></div>'
+    r'|<p (?:id="[^"]*" )?class="notion-text notion-text__content notion-semantic-string"></p>'
+    r'|<(h[1-3]) (?:id="[^"]*" )?class="notion-heading notion-semantic-string"></\1>'
+)
 # Domains on which the sites' pages have been served, including misspellings in links.
 LINK_HOSTS = {
     **SITES,
@@ -51,10 +60,33 @@ def image_path(match):
     return urllib.parse.quote(IMAGES[match.group(1)])
 
 
+def notion_image(match):
+    """Return the local image with the same name as an image hosted by Notion (whose links no longer work)."""
+    path = f"assets/images/{urllib.parse.unquote(match.group(1))}"
+    return f"/{urllib.parse.quote(path)}" if (ROOT / path).exists() else match.group(0)
+
+
 def localize(text):
     text = NEXT_IMAGE.sub(lambda m: urllib.parse.unquote(m.group(1)), text)
+    text = NOTION_IMAGE.sub(notion_image, text)
     text = IMAGE.sub(image_path, text)
     return SUPER_ASSET.sub("/assets/super/", text)
+
+
+def resolve_suspense(document):
+    """Put content that React streamed after the page (e.g. code blocks' code) where its script would put it."""
+    while match := re.search(r'<div hidden id="S:(\d+)">', document):
+        end = element_end(document, match.start())
+        content = document[match.end() : end - len("</div>")]
+        document = document[: match.start()] + document[end:]
+        document = re.sub(
+            rf'<!--\$\?--><template id="B:{match.group(1)}"></template>.*?<!--/\$-->',
+            lambda _: content,
+            document,
+            count=1,
+            flags=re.S,
+        )
+    return document
 
 
 def clean(text):
@@ -77,7 +109,13 @@ def clean(text):
         text = text[:start] + text[element_end(text, start) :]
     # Move newlines at the end of links' text after the links.
     text = re.sub(r"(\n+)</a>", r"</a>\1", text)
-    # Remove newlines at the end of text blocks.
+    # Remove whitespace at the start of text blocks, and newlines at the end.
+    inline_start = r"(?:<(?:strong|em|a|span)\b[^>]*>)*"
+    text = re.sub(
+        rf'(<(?:p|li|h[1-6]|span|div)\b[^>]*class="[^"]*notion-semantic-string[^"]*">{inline_start})[\n \xa0]+',
+        r"\1",
+        text,
+    )
     inline_end = r"(?:</(?:strong|em|a|span)>)*"
     text = re.sub(rf"\n+({inline_end}</(?:p|li|h[1-6])>)", r"\1", text)
     text = re.sub(
@@ -612,7 +650,7 @@ def main():
     for r in canonical:
         lang = SITES[urllib.parse.urlparse(r["url"]).netloc]
         path = slugs[(lang, r["pageId"])]
-        document = crawled_path(r["url"]).read_text()
+        document = resolve_suspense(crawled_path(r["url"]).read_text())
         head = document[: document.index("<body")]
         content = MAIN.search(document).group(3)
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)

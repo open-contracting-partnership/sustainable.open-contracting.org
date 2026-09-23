@@ -50,27 +50,17 @@ Una vez usted haya identificado un activo que desea medir, debe combinar los dat
 
 Hay una amplia gama de opciones de análisis en esta área. Los gobiernos tienen requisitos de compra muy amplios, desde herramientas dentales hasta vehículos de defensa, y el costo del ciclo de vida se puede aplicar a la mayoría de estas categorías. A continuación, describimos algunas de las características de costos que deberá incluir al realizar un costo del ciclo de vida.
 
-<ol type="1" class="notion-numbered-list">
-  <li class="notion-list-item notion-semantic-string">Inversión inicial:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">El costo inicial de un producto.</li>
-    <li class="notion-list-item notion-semantic-string">Los costos iniciales se pueden reducir mediante el uso de opciones de financiación, pero deben tenerse en cuenta a lo largo de la vigencia de un contrato de financiación y cualquier sanción que se pueda experimentar.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Mantenimiento:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">El costo de mantener un activo puede incluirse en el contrato o cotizarse por separado.</li>
-    <li class="notion-list-item notion-semantic-string">Busque evidencia confiable de los costos de mantenimiento de otros usuarios de los mismos activos o similares.</li>
-    <li class="notion-list-item notion-semantic-string">Considere si existen restricciones para el mantenimiento de un producto, p.ej. ¿El uso de un ingeniero no calificado para examinar una computadora portátil invalida la garantía?</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Licencias:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Los activos pueden venir con licencias de uso o el software que se usa para ejecutar un activo pueden incluir una licencia. Tenga cuidado con los costos relacionados con el uso excesivo o las limitaciones sobre cómo puede usar el software o los datos que ingresa al sistema.</li>
-  </ol>
-  <li class="notion-list-item notion-semantic-string">Personal:</li>
-  <ol type="a" class="notion-numbered-list">
-    <li class="notion-list-item notion-semantic-string">Tenga en cuenta el tiempo y los recursos necesarios para gestionar un activo. Puede optar por comprar sobre la base de suministro y mantenimiento, en este caso es tentador creer que no hay tiempo del personal para gastar en el activo, pero aún tendrá que administrar el contrato y monitorear y evaluar el trabajo del proveedor. Cada activo consumirá tiempo del personal, asegúrese de evaluar este costo de manera conservadora.</li>
-  </ol>
-</ol>
+1. Inversión inicial:
+   1. El costo inicial de un producto.
+   2. Los costos iniciales se pueden reducir mediante el uso de opciones de financiación, pero deben tenerse en cuenta a lo largo de la vigencia de un contrato de financiación y cualquier sanción que se pueda experimentar.
+2. Mantenimiento:
+   1. El costo de mantener un activo puede incluirse en el contrato o cotizarse por separado.
+   2. Busque evidencia confiable de los costos de mantenimiento de otros usuarios de los mismos activos o similares.
+   3. Considere si existen restricciones para el mantenimiento de un producto, p.ej. ¿El uso de un ingeniero no calificado para examinar una computadora portátil invalida la garantía?
+3. Licencias:
+   1. Los activos pueden venir con licencias de uso o el software que se usa para ejecutar un activo pueden incluir una licencia. Tenga cuidado con los costos relacionados con el uso excesivo o las limitaciones sobre cómo puede usar el software o los datos que ingresa al sistema.
+4. Personal:
+   1. Tenga en cuenta el tiempo y los recursos necesarios para gestionar un activo. Puede optar por comprar sobre la base de suministro y mantenimiento, en este caso es tentador creer que no hay tiempo del personal para gastar en el activo, pero aún tendrá que administrar el contrato y monitorear y evaluar el trabajo del proveedor. Cada activo consumirá tiempo del personal, asegúrese de evaluar este costo de manera conservadora.
 
 {% database **Haga clic en las siguientes secciones para obtener más información sobre el proceso y los datos necesarios para calcular los costos del ciclo de vida**: %}
 {% gallery medium %}
@@ -115,221 +105,16 @@ Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para m
 
 ← Scroll to see more                                                                                                                                      Scroll to see more →
 
-<div class="notion-table__wrapper">
-  <table class="notion-table col-header">
-    <tbody>
-      <tr style="color:var(--color-text-default)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>METAS</strong></span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>RESULTADOS</strong></span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>INDICADORES</strong></span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>INFORMACION REQUERIDA</strong></span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>MÉTODO DE CÁLCULO</strong></span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px;background:var(--color-color-default)">
-          <div class="notion-table__cell"><span class="notion-semantic-string"><strong>OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE</strong></span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Introducir costeo del ciclo de vida en el proceso de contratación.</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores </span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores.
--Número total de propuestas.</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Re-propuestas donde el valor se basa en cálculos del costo de vida de contratos anteriores. / Número total de re-propuestas</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Introducir costeo del ciclo de vida en el proceso de contratación.</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de re-propuestas en las que el valor se basa en cálculos del costeo del ciclo de vida de contratos anteriores.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida.
--Valor total de las re-propuestas.</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Valor de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida/ Número total de propuestas</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Introducir costeo del ciclo de vida en el proceso de contratación.</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de propuestas que basen el puntaje de costo para cada licitación en los cálculos de costeo del ciclo de vida.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que basen el puntaje de costo para cada licitación sobre los cálculos de costeo del ciclo de vida.
--Número total de propuestas.</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de propuestas que basen el puntaje de cada propuesta en cálculos del ciclo de vida / Número total de propuestas</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Introducir costeo del ciclo de vida en el proceso de contratación.</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de propuestas que basen el puntaje de costos para cada licitación sobre los cálculos de costeo del ciclo de vida.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de las propuestas que basen el puntaje de costos para cada licitación en cálculos del costo del ciclo de vida.
--Valor total de las propuestas</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string"> Valor de las propuestas que basen el puntaje de costos para cada licitación en cálculos del costo del ciclo de vida./-Valor total de las propuestas</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Impulsar CPS mediante enfoques de costo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida.
--Número total de propuestas </span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida/-Número total de propuestas </span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Impulsar CPS mediante enfoques de costo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de propuestas que incluyan un presupuesto de carbono basado en emisiones del ciclo de vida estimado</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de las propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida estimado.
--Valor total de las propuestas</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Valor de las propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida estimado./Valor total de las propuestas</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Impulsar CPS mediante enfoques de costo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida.
--Número total de los contratos</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida./Número total de contratos</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1
-Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Impulsar CPS mediante enfoques de costo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Participación de valor de contratos clasificados como CPS que basen el puntaje de costo para cada licitación sobre cálculos de costeo del ciclo de vida.</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Valor de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida.
--Valor total de los contratos</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Valor de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida./Valor total de los contratos</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 1
-Ver Opción 4</span></div>
-        </td>
-      </tr>
-      <tr style="background:var(--color-bg-yellow)">
-        <td style="min-width:166.2421875px;max-width:166.2421875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Promover enfoques de costeo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:177.234375px;max-width:177.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Aumentar el ahorro en costos a través de cálculos en el costo del ciclo de vida</span></div>
-        </td>
-        <td style="min-width:196.234375px;max-width:196.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ahorros por valor usando cálculos del ciclo de vida para establecer el valor del contrato</span></div>
-        </td>
-        <td style="min-width:205.234375px;max-width:205.234375px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">-Licitación más económica para un proponente en particular (con base en el precio de adquisición.
--Costo proyectado del ciclo de vida 
--Costo proyectado del ciclo de vida de la licitación seleccionada</span></div>
-        </td>
-        <td style="min-width:189.21875px;max-width:189.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Costo proyectado de la propuesta más económica-Costo proyectado del ciclo de vida de la licitación seleccionada</span></div>
-        </td>
-        <td style="min-width:165.21875px;max-width:165.21875px">
-          <div class="notion-table__cell"><span class="notion-semantic-string">Ver Opción 4</span></div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+| {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
+|---|---|---|---|---|---|
+{yellow} | Promover enfoques de costeo del ciclo de vida | Introducir costeo del ciclo de vida en el proceso de contratación. | Participación de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores  | \-Número de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores.<br>\-Número total de propuestas. | Re-propuestas donde el valor se basa en cálculos del costo de vida de contratos anteriores. / Número total de re-propuestas | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Introducir costeo del ciclo de vida en el proceso de contratación. | Participación de valor de re-propuestas en las que el valor se basa en cálculos del costeo del ciclo de vida de contratos anteriores. | \-Valor de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida.<br>\-Valor total de las re-propuestas. | Valor de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida/ Número total de propuestas | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Introducir costeo del ciclo de vida en el proceso de contratación. | Participación de propuestas que basen el puntaje de costo para cada licitación en los cálculos de costeo del ciclo de vida. | \-Número de propuestas que basen el puntaje de costo para cada licitación sobre los cálculos de costeo del ciclo de vida.<br>\-Número total de propuestas. | Número de propuestas que basen el puntaje de cada propuesta en cálculos del ciclo de vida / Número total de propuestas | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Introducir costeo del ciclo de vida en el proceso de contratación. | Participación de valor de propuestas que basen el puntaje de costos para cada licitación sobre los cálculos de costeo del ciclo de vida. | \-Valor de las propuestas que basen el puntaje de costos para cada licitación en cálculos del costo del ciclo de vida.<br>\-Valor total de las propuestas | Valor de las propuestas que basen el puntaje de costos para cada licitación en cálculos del costo del ciclo de vida./-Valor total de las propuestas | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Impulsar CPS mediante enfoques de costo del ciclo de vida | Participación de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida. | \-Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida.<br>\-Número total de propuestas  | Número de propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida/-Número total de propuestas  | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Impulsar CPS mediante enfoques de costo del ciclo de vida | Participación de valor de propuestas que incluyan un presupuesto de carbono basado en emisiones del ciclo de vida estimado | \-Valor de las propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida estimado.<br>\-Valor total de las propuestas | Valor de las propuestas que incluyan un presupuesto de carbono basado en emisiones de carbono del ciclo de vida estimado./Valor total de las propuestas | Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Impulsar CPS mediante enfoques de costo del ciclo de vida | Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida. | \-Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida.<br>\-Número total de los contratos | Número de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida./Número total de contratos | Ver Opción 1<br>Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Impulsar CPS mediante enfoques de costo del ciclo de vida | Participación de valor de contratos clasificados como CPS que basen el puntaje de costo para cada licitación sobre cálculos de costeo del ciclo de vida. | \-Valor de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida.<br>\-Valor total de los contratos | Valor de contratos clasificados como CPS que basen el puntaje de costos de cada licitación sobre cálculos del costo del ciclo de vida./Valor total de los contratos | Ver Opción 1<br>Ver Opción 4 |
+{yellow} | Promover enfoques de costeo del ciclo de vida | Aumentar el ahorro en costos a través de cálculos en el costo del ciclo de vida | Ahorros por valor usando cálculos del ciclo de vida para establecer el valor del contrato | \-Licitación más económica para un proponente en particular (con base en el precio de adquisición.<br>\-Costo proyectado del ciclo de vida<br>\-Costo proyectado del ciclo de vida de la licitación seleccionada | Costo proyectado de la propuesta más económica-Costo proyectado del ciclo de vida de la licitación seleccionada | Ver Opción 4 |
+{% endtable %}

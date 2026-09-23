@@ -16,8 +16,7 @@ El diseño de un proceso de contratación pública puede limitar o facilitar la 
 Un enfoque de contratación que puede ser muy útil al comenzar a implementar prácticas sostenibles en la contratación pública es dividir los proyectos en **fases piloto y de escala.** Esto puede ser especialmente útil para probar suposiciones arriesgadas e inciertas. Durante la fase piloto, los datos se deben capturar claramente y se deben alimentar en la fase de escalera.
 {% endcallout %}
 
-<h2 class="notion-heading notion-semantic-string">
-<strong>Contratación basada en resultados</strong></h2>
+## **Contratación basada en resultados**
 
 La contratación basada en resultados puede ser otra forma de comenzar a implementar una CPS. La aplicación de un enfoque de contratación basado en resultados consiste en enmarcar las necesidades de compra en términos del resultado que se debe lograr, en lugar de cómo lograr ese resultado, lo que permite que el mercado de proveedores ofrezca diferentes soluciones.
 
@@ -82,15 +81,13 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - **Paso 5:** Los candidatos presentan sus ofertas finales.
 - **Paso 6:** Evalúe las ofertas y adjudique el contrato al proveedor seleccionado
 
-<div class="notion-text">
-  <p class="notion-text__content notion-semantic-string"></p>
-  <div class="notion-text__children">
-    <div class="notion-callout bg-red-light border">
-      <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
-      <div class="notion-callout__content"><span class="notion-semantic-string">Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.</span></div>
-    </div>
-  </div>
-</div>
+{% indent %}
+
+{% callout red /assets/images/Icons_Red6.png %}
+Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.
+{% endcallout %}
+
+{% endindent %}
 
 {% endtoggle %}
 

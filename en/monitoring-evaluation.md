@@ -56,13 +56,12 @@ The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides 
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>More examples of goals, outcomes and indicators; how to create them; and how to measure them:
-</strong></span>
-    <a href="/monitoring-evaluation/sample-me-framework" class="notion-link notion-page bg-green"><span class="notion-page__icon"><img alt="Sample M&amp;E framework" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/icons_D_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Sample M&amp;E framework</span></a>
-  </div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+<strong>More examples of goals, outcomes and indicators; how to create them; and how to measure them:
+</strong>
+
+{% page /monitoring-evaluation/sample-me-framework bg-green %}
+{% endcallout %}
 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 

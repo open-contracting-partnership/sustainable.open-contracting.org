@@ -24,5 +24,3 @@ I**n 2020, there were over 10,000 accredited volunteers, who had visited over 1,
 
 **The program is seen as excellent value for money. It is now managed by 32 employees, and the investment increasing with time from US$17,770 in 2017, to US$87,851 in 2020.**
 {% endcallout %}
-
-<p class="notion-text notion-text__content notion-semantic-string"> </p>

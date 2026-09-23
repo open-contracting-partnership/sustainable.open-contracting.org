@@ -57,12 +57,11 @@ Le [modèle de cadre de suivi et d’évaluation](https://docs.google.com/spread
 
 Votre organisation peut reprendre la structure du tableau ci-dessus pour définir ses propres objectifs, résultats et indicateurs concernant ses domaines d’achat prioritaires. Pour voir d’autres exemples, vous trouverez notre modèle de cadre de suivi et d’évaluation complet en cliquant sur le lien ci-dessous.
 
-<div class="notion-callout bg-green-light border">
-  <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Pin_green.png"/></div>
-  <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Vous trouverez ici d’autres exemples d’objectifs, de résultats et d’indicateurs et des informations sur leur création et leur évaluation :</strong></span>
-    <a href="/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation" class="notion-link notion-page bg-green"><span class="notion-page__icon"><img alt="Modèle de cadre de suivi et d’évaluation" loading="lazy" class="notion-icon" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;" src="/assets/images/icons_D_Green3.png"/></span><span class="notion-page__title notion-semantic-string">Modèle de cadre de suivi et d’évaluation</span></a>
-  </div>
-</div>
+{% callout green /assets/images/Pin_green.png %}
+**Vous trouverez ici d’autres exemples d’objectifs, de résultats et d’indicateurs et des informations sur leur création et leur évaluation :**
+
+{% page /suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation bg-green %}
+{% endcallout %}
 
 La définition des objectifs, des résultats et des indicateurs nécessite une bonne compréhension de ce que vous souhaitez accomplir et de la façon dont vous allez procéder. Notre modèle de cadre de suivi et d’évaluation vous aide à définir et évaluer des objectifs, résultats et indicateurs pratiques, spécifiques et évaluables.
 

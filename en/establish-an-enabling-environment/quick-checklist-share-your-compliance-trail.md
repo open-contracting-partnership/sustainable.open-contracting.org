@@ -9,8 +9,7 @@ notion_id: "1bbc02f2300b4632bf35eae8e5e1c3d4"
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit. ](/)
 {% endcallout %}
 
-<h3 class="notion-heading notion-semantic-string">
-<strong>Compliance Trail Checklist</strong></h3>
+### **Compliance Trail Checklist**
 
 - [ ] Regulation where relevant guiding principles are mentioned (VfM, economy, effectiveness).
 
@@ -41,9 +40,5 @@ Remember that, although you will find most of these regulations at the national 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
 
-<div class="notion-pdf">
-  <div class="notion-pdf__content">
-    <iframe width="708" height="320" src="/assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/9539d2ba-78e0-4079-8f44-c4cd4a067093.pdf"></iframe>
-  </div>
-</div>
+{% pdf /assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/9539d2ba-78e0-4079-8f44-c4cd4a067093.pdf %}
 {% endcallout %}

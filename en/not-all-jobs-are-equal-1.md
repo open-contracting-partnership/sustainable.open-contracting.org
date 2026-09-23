@@ -19,6 +19,25 @@ We have laid out some weightings expressed as percentages below. Combining weigh
 
 This single credit can be given a place within the wider scoring mechanism for a tender, so economic development may be considered to be worth 10% of a bid value with other factors, such as price making up the remaining 90%
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><template id="B:0"></template><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Permanent skilled employement = 100%
+Permanent, unskilled employment = 80%
+Temporary, skilled employment = 40%
+Temporary, unskilled employment = 20%
+
+Supplier A's bid information
+New permanent skilled employees = 12
+New permanent, unskilled employees = 6
+New temporary, unskilled employees = 4
+
+Supplier A credit score = (12 * 1.0)+(6 * 0.8)+(4 * 0.2) = 17.6
+
+Supplier B's bid information
+New permanent skilled employees = 10
+New permanent, unskilled employees = 6
+New temporary, unskilled employees = 6
+
+Supplier B credit score = (10 * 1.0)+(6 * 0.8)+(6 * 0.2) = 16
+```
 
 Weightings can be created for a variety of factors, including location, nature of work, type of skills acquired or whether or not the company is in a growth market. Use of weightings and how they will be applied to a tender will need to be compliant with your procurement legislation and will need to be communicated to your bidders prior to conducting any bid assessment.

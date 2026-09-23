@@ -36,8 +36,6 @@ One way to monitor supply-chain activities is by conducting desktop audits and f
 For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf) hires external contractors to conduct check compliance with social criteria** in contract clauses once for each supplier during the entire contract period. **They have affiliated with [Electronics Watch](https://electronicswatch.org/en/)** to access their support in local worker-driven monitoring.
 {% endcallout %}
 
-<p class="notion-text notion-text__content notion-semantic-string"> </p>
-
 {% endtoggle %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}

@@ -46,12 +46,11 @@ Las sesiones de capacitación en CPS se pueden organizar durante todo el año, c
 
 {% endtoggle %}
 
-<div class="notion-text">
-  <p class="notion-text__content notion-semantic-string"><strong>Talleres sobre sostenibilidad con los proveedores</strong></p>
-  <div class="notion-text__children">
-    <p class="notion-text notion-text__content notion-semantic-string">Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación. (LINK 65) Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.</p>
-  </div>
-</div>
+{% indent **Talleres sobre sostenibilidad con los proveedores** %}
+
+Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación. (LINK 65) Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.
+
+{% endindent %}
 
 {% toggle **Relacionamiento sostenido con la sociedad civil, la academia y otras organizaciones cívicas (OSC)** %}
 

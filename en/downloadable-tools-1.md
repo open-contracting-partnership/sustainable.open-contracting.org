@@ -12,7 +12,7 @@ sidebar: true
 Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats. 
 {% endcallout %}
 
-<br>**For when you are establishing your framework:**
+**For when you are establishing your framework:**
 
 - [Quick checklist - Evaluate your enabling environment](/establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment)
 - [Quick checklist - Share your compliance trail](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail)

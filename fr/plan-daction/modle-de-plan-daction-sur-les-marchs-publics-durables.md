@@ -11,7 +11,7 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 
 **Ce modèle est inspiré du document suivant :** Programme des Nations Unies pour l’environnement, [*Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), 2021 (page 94).
 
-<div class="notion-divider"></div>
+---
 
 **Contexte**
 
@@ -70,9 +70,5 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 {% callout green /assets/images/icons_D_Green6.png %}
 **Télécharger ce schema :**
 
-<div class="notion-pdf">
-  <div class="notion-pdf__content">
-    <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/a38a3bd4-6a08-433b-b620-8965c5342316.pdf"></iframe>
-  </div>
-</div>
+{% pdf /assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/a38a3bd4-6a08-433b-b620-8965c5342316.pdf %}
 {% endcallout %}

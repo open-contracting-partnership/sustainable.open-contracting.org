@@ -44,9 +44,5 @@ The following checklist is designed to help you assess the different ways in whi
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
 
-<div class="notion-pdf">
-  <div class="notion-pdf__content">
-    <iframe width="708" height="320" src="/assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/49257986-2e99-4d72-9be1-e81a5e5b8da0.pdf"></iframe>
-  </div>
-</div>
+{% pdf /assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/files/49257986-2e99-4d72-9be1-e81a5e5b8da0.pdf %}
 {% endcallout %}

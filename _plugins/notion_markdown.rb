@@ -18,10 +18,10 @@ module NotionMarkdown
               "-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832" \
               'H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>'.freeze
 
-  CLASSES.each do |type, classes|
+  # Lists and list items are converted below.
+  CLASSES.slice(:p, :header, :a).each do |type, classes|
     define_method(:"convert_#{type}") do |el, indent|
       el.attr["class"] ||= classes
-      el.attr["type"] ||= "1" if type == :ol
       super(el, indent)
     end
   end
@@ -35,6 +35,28 @@ module NotionMarkdown
 
     el.attr["class"] ||= CLASSES[:ul]
     super
+  end
+
+  # Number nested lists 1, a, i, as Notion does.
+  def convert_ol(el, indent)
+    @ol_depth = (@ol_depth || 0) + 1
+    el.attr["class"] ||= CLASSES[:ol]
+    el.attr["type"] ||= %w[1 a i][(@ol_depth - 1) % 3]
+    super
+  ensure
+    @ol_depth -= 1
+  end
+
+  # Render a list item's other blocks (paragraphs and nested lists) after it, not in it, as Notion does.
+  def convert_li(el, indent)
+    first, *rest = el.children.reject { |child| child.type == :blank }
+    el.attr["class"] ||= CLASSES[:li]
+    return super unless first&.type == :p
+
+    # Before a nested list, the text ends with a newline.
+    text = rest.empty? ? inner(first, indent) : inner(first, indent).sub(/\n+\z/, "")
+    item = %(#{" " * indent}<li#{html_attributes(el.attr)}>#{text}</li>\n)
+    item + rest.map { |child| convert(child, indent) }.join
   end
 
   # The GFM parser replaces "[ ]" with a checkbox.
@@ -52,6 +74,11 @@ module NotionMarkdown
     text.value = text.value.delete_prefix(" ") if text&.type == :text
     %(<div class="notion-to-do"><div class="notion-to-do__content"><div class="notion-to-do__icon">#{CHECKBOX}</div>) +
       %(<div class="notion-to-do__title"><span class="notion-semantic-string">#{inner(paragraph, indent)}</span></div></div></div>\n)
+  end
+
+  # Render a thematic break as a Notion divider.
+  def convert_hr(_el, indent)
+    %(#{" " * indent}<div class="notion-divider"></div>\n)
   end
 
   # Render a fenced code block as a Notion code block, without syntax highlighting.
