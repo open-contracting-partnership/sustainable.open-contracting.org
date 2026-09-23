@@ -1,6 +1,6 @@
 ---
 permalink: "/planification/suivi-et-valuation"
-title: "Suivi et évaluation"
+title: Suivi et évaluation
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true

@@ -1,68 +1,27 @@
 ---
 permalink: "/resource-directory/serving-the-citizens-not-the-bureaucracy-a-strategic-vision-for-city-procurement"
 title: "Serving the Citizens - Not the Bureaucracy: A Strategic Vision for City Procurement"
-notion_id: "c80fd791dec84d19909b6325f5cd5964"
+notion_id: c80fd791dec84d19909b6325f5cd5964
+properties:
+  Attachment:
+    - "https://www.thechicagocouncil.org/sites/default/files/2021-06/CCGA-City%20procurement_vFb%5B94%5D.pdf": "https://www.thechicagocouncil.org/sites/default/files/2021-06/CCGA-City%20procurement_vFb%5B94%5D.pdf"
+  Geographic area:
+    Europe: yellow
+    Latin America and the Caribbean: default
+    Asia: pink
+    Africa: orange
+  Language:
+    English: default
+  Length: 64
+  Organization: The Chicago Council on Global Affairs
+  SPP focus:
+    Social: purple
+  Sectors: {}
+  Type of guidance:
+    Overall Implementation: green
+  User:
+    National Authorities: blue
+    Procurement Teams: brown
+  Year: 2021
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.thechicagocouncil.org/sites/default/files/2021-06/CCGA-City%20procurement_vFb%5B94%5D.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.thechicagocouncil.org/sites/default/files/2021-06/CCGA-City%20procurement_vFb%5B94%5D.pdf</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-yellow first">Europe</span><span class="notion-pill pill-default">Latin America and the Caribbean</span><span class="notion-pill pill-pink">Asia</span><span class="notion-pill pill-orange">Africa</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">64</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">The Chicago Council on Global Affairs</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-purple first">Social</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-green first">Overall Implementation</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-blue first">National Authorities</span><span class="notion-pill pill-brown">Procurement Teams</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2021</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

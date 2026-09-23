@@ -1,6 +1,6 @@
 ---
 permalink: "/la-construction-en-anglais/selecting-your-data"
-title: "Selecting your data"
+title: Selecting your data
 description: "Material use "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"

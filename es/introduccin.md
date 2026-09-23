@@ -1,6 +1,6 @@
 ---
 permalink: "/introduccin"
-title: "Introducción"
+title: Introducción
 description: "Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Notion-Intro_play.png"

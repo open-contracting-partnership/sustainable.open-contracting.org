@@ -1,11 +1,11 @@
 ---
 permalink: "/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes"
-title: "Umbrales y sectores con reglamentos diferentes"
+title: Umbrales y sectores con reglamentos diferentes
 description: "Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green3.png"
 full_width: true
-notion_id: "d1080e1a5e3240678b1b65a413cb1110"
+notion_id: d1080e1a5e3240678b1b65a413cb1110
 ---
 {% columns %}
 {% column 0.1278 html %}

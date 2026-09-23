@@ -1,6 +1,6 @@
 ---
 permalink: "/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo"
-title: "Relacionamiento directo con el mercado y diálogo continuo"
+title: Relacionamiento directo con el mercado y diálogo continuo
 description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green3.png"

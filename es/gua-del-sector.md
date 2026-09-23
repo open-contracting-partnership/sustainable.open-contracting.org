@@ -1,6 +1,6 @@
 ---
 permalink: "/gua-del-sector"
-title: "Guía del Sector"
+title: Guía del Sector
 description: "En esta sección brindamos una guía específica sobre cómo integrar la sostenibilidad en los procesos de adquisición de TIC y construcción. Esto incluye orientación relacionada con certificaciones relevantes que se pueden usar como referencia, criterios clave de sostenibilidad a considerar, opciones para recopilar los datos necesarios de los proveedores y métodos de adquisición útiles que pueden respaldar el proceso. "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey.png"

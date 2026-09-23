@@ -5,7 +5,7 @@ description: "Hay diferentes formas en que los datos abiertos se pueden utilizar
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
-notion_id: "de45cb395a9b47d6b0fd727e1015ebaa"
+notion_id: de45cb395a9b47d6b0fd727e1015ebaa
 ---
 {% columns %}
 {% column 0.25 html %}

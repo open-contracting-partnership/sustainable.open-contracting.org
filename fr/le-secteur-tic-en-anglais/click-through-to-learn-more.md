@@ -1,9 +1,9 @@
 ---
 permalink: "/le-secteur-tic-en-anglais/click-through-to-learn-more"
-title: "Click through to learn more"
+title: Click through to learn more
 full_width: true
 collection: true
-notion_id: "f1cf075948e442fea3f54af9195214de"
+notion_id: f1cf075948e442fea3f54af9195214de
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/le-secteur-tic-en-anglais/setting-the-framework" class="notion-link notion-collection-card__anchor">Setting the framework</a>

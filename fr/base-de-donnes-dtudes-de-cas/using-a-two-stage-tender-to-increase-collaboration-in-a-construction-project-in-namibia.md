@@ -1,6 +1,6 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia"
-title: "Using a two-stage tender to increase collaboration in a construction project in Namibia"
+title: Using a two-stage tender to increase collaboration in a construction project in Namibia
 description: "In 2002 the Government of Namibia ran a tender for the construction of the Habitat Research Development Centre (HRDC), a research institution for sustainable construction. The project to build the centre itself also followed sustainability principles.\n\nThe main objective of the project was to promote traditional Namibian construction methods, which is able to sustainably responsible to some of the main challenges posed by the local climate. With this in mind, the tender process was designed using a two-stage tender system. In the first stage, suppliers were chosen, among other things, based on their construction experience, and their approach to sustainability and experimentation on site. \n\nThe two-stage tender process allowed the two suppliers selected in the first stage to work collaboratively on a Provisional Bill of Quantities (BOQ). This B included the alternative materials and methods that would be used for the project. The HRDC\nwas the first comprehensive attempt at sustainability in a public building in Namibia.\n\n"
 cover: "/assets/images/Africa_-_Namibia.png"
 cover_position: 54.58

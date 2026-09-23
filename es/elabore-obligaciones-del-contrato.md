@@ -1,6 +1,6 @@
 ---
 permalink: "/elabore-obligaciones-del-contrato"
-title: "Elabore obligaciones del contrato"
+title: Elabore obligaciones del contrato
 description: "Una vez se hayan establecido claramente los criterios de sostenibilidad, deben traducirse en obligaciones contractuales. Esto incluye establecer cómo se monitoreará la implementación y cuáles son las consecuencias en caso de incumplimiento. Para redactar cláusulas contractuales efectivas, estas decisiones deben ser discutidas abiertamente y acordadas por la autoridad de contratación y los proveedores relevantes. Esta sección presenta algunas de las características clave de las cláusulas contractuales exitosas."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Red2.png"

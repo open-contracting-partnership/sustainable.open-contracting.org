@@ -220,8 +220,44 @@ def inline(nodes, level, start_of_line=True):
     return "".join(output)
 
 
+def code_block(node):
+    """Return a Notion code block as a fenced code block, or None."""
+    children = elements(node)
+    if (
+        node.attrs != {"class": "notion-code no-wrap"}
+        or not children
+        or len(children) != 3
+    ):
+        return None
+    button, pre, caption = children
+    if (
+        button.cls != "notion-code__copy-button"
+        or pre.name != "pre"
+        or caption.children
+    ):
+        return None
+    codes = elements(pre)
+    if (
+        not codes
+        or len(codes) != 1
+        or codes[0].name != "code"
+        or codes[0].attrs != pre.attrs
+    ):
+        return None
+    if not all(isinstance(child, str) for child in codes[0].children):
+        return None
+    language = pre.attrs.get("class", "").removeprefix("language-")
+    code = html.unescape("".join(codes[0].children))
+    fence = "```"
+    while fence in code:
+        fence += "`"
+    return f"{fence}{language}\n{code}\n{fence}"
+
+
 def block(node, level):
-    """Return the Markdown for a paragraph, heading or list, or None."""
+    """Return the Markdown for a paragraph, heading, list or code block, or None."""
+    if node.name == "div" and node.cls == "notion-code no-wrap":
+        return code_block(node)
     if node.cls == PARAGRAPH and node.name == "p":
         content = inline(node.children, level)
         if not content or content.startswith((" ", "\t")):

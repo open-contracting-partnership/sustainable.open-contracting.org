@@ -1,6 +1,6 @@
 ---
 permalink: "/gender-inclusion/how-to-analyze-the-gender-pay-gap"
-title: "How to analyze the gender pay gap"
+title: How to analyze the gender pay gap
 description: "Good gender pay data is defined as that which reports the difference in earnings between equivalent job roles across an entire organization, ideally split by quartiles of pay, so comparing gender differentials in pay across similar roles within the top 25%, then the next 25% up to 50%, etc. Good metrics also report the number of women in senior positions."
 icon: "/assets/images/Icons_Light_Green3.png"
 notion_id: "37259c7923194044970768c21091dcc5"

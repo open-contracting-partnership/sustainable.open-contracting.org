@@ -1,9 +1,9 @@
 ---
 permalink: "/votre-trajet-de-la-mise-en-place"
-title: "Votre trajet de la mise en place"
+title: Votre trajet de la mise en place
 full_width: true
 collection: true
-notion_id: "c82f31cd3c724f7bb4ee95b060b25d4f"
+notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/votre-trajet-de-la-mise-en-place/introduction" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>

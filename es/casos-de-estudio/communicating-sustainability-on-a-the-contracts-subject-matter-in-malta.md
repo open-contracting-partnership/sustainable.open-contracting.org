@@ -4,7 +4,7 @@ title: "Communicating sustainability on a the contract's subject matter in Malta
 cover: "/assets/images/Europe_-_Malta.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
-notion_id: "ea1c4d373fce42ab8ce3f65fbf804820"
+notion_id: ea1c4d373fce42ab8ce3f65fbf804820
 ---
 {% columns %}
 {% column 0.1278 html %}

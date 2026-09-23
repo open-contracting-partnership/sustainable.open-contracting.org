@@ -1,9 +1,9 @@
 ---
 permalink: "/introduction/click-through-to-learn-more"
-title: "Click through to learn more"
+title: Click through to learn more
 full_width: true
 collection: true
-notion_id: "f265124af758420fbc2b12d60058ea64"
+notion_id: f265124af758420fbc2b12d60058ea64
 ---
 <div class="notion-collection-gallery large">
   <div class="notion-collection-card gallery"><a href="/how-to-use-this-toolkit" class="notion-link notion-collection-card__anchor">How to use this toolkit</a>

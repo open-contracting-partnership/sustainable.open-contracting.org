@@ -1,28 +1,18 @@
 ---
 permalink: "/prioritizing-procurement-categories-in-vietnam"
-title: "Prioritizing procurement categories in Vietnam"
+title: Prioritizing procurement categories in Vietnam
 description: "After the approval of its National Green Growth Strategy in 2012, Vietnam applied a prioritization tool to public procurement in 2015 to select product categories where to focus SPP efforts, with the assistance of UNEP. \n\nAs the first step of the prioritizing exercise, a list of preliminary procurement categories was created. This list included all the products for which the  European Union’s (EU) has developed GPP criteria. A series of factors were taken into account in order to prioritize procurement categories, including the availability of Vietnam’s own national ecolabel Green Label. Then a scoring methodology was defined: products with no ecolabel were excluded; those which had a national ecolabel were scored with 2 points; and those with an equivalent international ecolabel 1 point. \n\nIn the end four products were selected: office paper, laptops, fluorescent lamps, and LEDs lights.\n"
 cover: "/assets/images/Asia_-_Vietnam-2.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
-notion_id: "dd3381a546a74c3eacfc7c482a66acce"
+notion_id: dd3381a546a74c3eacfc7c482a66acce
+properties:
+  Geographical Area:
+    Vietnam: gray
+    Asia: purple
+  Scope:
+    National: gray
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-gray first">Vietnam</span><span class="notion-pill pill-purple">Asia</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-gray first">National</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

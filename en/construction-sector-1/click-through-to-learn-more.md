@@ -1,6 +1,6 @@
 ---
 permalink: "/construction-sector-1/click-through-to-learn-more"
-title: "Click through to learn more"
+title: Click through to learn more
 full_width: true
 collection: true
 notion_id: "3913e5ce553b456ba62e368e77fe1f44"

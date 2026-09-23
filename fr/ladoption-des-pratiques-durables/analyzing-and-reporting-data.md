@@ -1,7 +1,7 @@
 ---
 permalink: "/ladoption-des-pratiques-durables/analyzing-and-reporting-data"
-title: "Analyzing and reporting data"
-description: "Good data on SPP uptake can be fed into dashboards and reports to allow policy makers and enforcement authorities a high level overview of SPP procurement side by side with policy and legislative targets as well as other metrics."
+title: Analyzing and reporting data
+description: Good data on SPP uptake can be fed into dashboards and reports to allow policy makers and enforcement authorities a high level overview of SPP procurement side by side with policy and legislative targets as well as other metrics.
 icon: "/assets/images/Icons_Light_Green3.png"
 notion_id: "602e1d3c300547808d5a4347f650c3da"
 ---

@@ -1,6 +1,6 @@
 ---
 permalink: "/introduction-1/definition"
-title: "Definition"
+title: Definition
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true

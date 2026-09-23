@@ -1,6 +1,6 @@
 ---
 permalink: "/le-cot-du-cycle-de-vie"
-title: "Le coût du cycle de vie"
+title: Le coût du cycle de vie
 description: "La prise en compte du coût du cycle de vie, ou du coût total de possession, désigne une pratique comptable consistant à déterminer le coût composé d’un actif. Dans le cadre des marchés publics, les acheteurs calculent le coût du cycle de vie pour évaluer le coût complet de possession d’un actif, typiquement d’une machine. Le coût du cycle de vie d’un équipement doit inclure le prix d’achat initial, le coût d’exploitation, tous les coûts liés à la mise en conformité, le coût d’entretien et le coût de mise hors service ou de sortie du capital. Il est également possible d’y intégrer le coût des défaillances et le coût de remplacement."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

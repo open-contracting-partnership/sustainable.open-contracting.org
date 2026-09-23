@@ -1,6 +1,6 @@
 ---
 permalink: "/plan-1/cree-un-plan-de-accin"
-title: "Cree un Plan de Acción"
+title: Cree un Plan de Acción
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true

@@ -1,6 +1,6 @@
 ---
 permalink: "/votre-trajet-de-la-mise-en-place/orientations-sectorielles"
-title: "Orientations sectorielles"
+title: Orientations sectorielles
 cover: "/assets/images/PUBLIC_SPP_covers6.png"
 icon: "/assets/images/Icons_Grey.png"
 full_width: true

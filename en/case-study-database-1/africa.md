@@ -1,9 +1,9 @@
 ---
 permalink: "/case-study-database-1/africa"
-title: "Africa"
+title: Africa
 full_width: true
 collection: true
-notion_id: "d1540eb07fda4dac836ffa8c346591a0"
+notion_id: d1540eb07fda4dac836ffa8c346591a0
 ---
 <div class="notion-collection-gallery large">
   <div class="notion-collection-card gallery"><a href="/promoting-equal-access-to-government-opportunities-in-kenya" class="notion-link notion-collection-card__anchor">Promoting equal access to government opportunities in Kenya</a><img alt="Promoting equal access to government opportunities in Kenya" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Africa_-_Kenya.png"/></div>

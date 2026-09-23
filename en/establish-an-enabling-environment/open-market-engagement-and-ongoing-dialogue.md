@@ -1,6 +1,6 @@
 ---
 permalink: "/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue"
-title: "Open market engagement and ongoing dialogue"
+title: Open market engagement and ongoing dialogue
 description: "Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in Peru, and has been proposed in Chile)."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green3.png"

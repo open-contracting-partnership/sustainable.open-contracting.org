@@ -1,9 +1,9 @@
 ---
 permalink: "/case-study-database-1/latin-america-and-the-caribbean"
-title: "Latin America and the Caribbean"
+title: Latin America and the Caribbean
 full_width: true
 collection: true
-notion_id: "a02b0ed1590146ebb846fbba9f36f1f0"
+notion_id: a02b0ed1590146ebb846fbba9f36f1f0
 ---
 <div class="notion-collection-gallery large">
   <div class="notion-collection-card gallery"><a href="/promoting-gender-inclusion-through-procurement-in-chile" class="notion-link notion-collection-card__anchor">Promoting gender inclusion through procurement in Chile</a><img alt="Promoting gender inclusion through procurement in Chile" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 49.5%" src="/assets/images/LAC_-_Chile.png"/></div>

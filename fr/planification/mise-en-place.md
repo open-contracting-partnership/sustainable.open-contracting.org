@@ -1,6 +1,6 @@
 ---
 permalink: "/planification/mise-en-place"
-title: "Mise en place"
+title: Mise en place
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true

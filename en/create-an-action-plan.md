@@ -5,7 +5,7 @@ description: "Throughout this first section of the toolkit, we have gone through
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true
-notion_id: "d035741343454fe485c05b64b7bbb745"
+notion_id: d035741343454fe485c05b64b7bbb745
 ---
 {% columns %}
 {% column 0.2609 html %}

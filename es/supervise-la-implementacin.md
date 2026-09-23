@@ -1,11 +1,11 @@
 ---
 permalink: "/supervise-la-implementacin"
-title: "Supervise la implementación"
+title: Supervise la implementación
 description: "Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.  "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Red2.png"
 full_width: true
-notion_id: "a50801a104c9467c965b7bf99b78334f"
+notion_id: a50801a104c9467c965b7bf99b78334f
 ---
 {% columns %}
 {% column 0.2609 html %}

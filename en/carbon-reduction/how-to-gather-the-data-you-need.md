@@ -1,9 +1,9 @@
 ---
 permalink: "/carbon-reduction/how-to-gather-the-data-you-need"
-title: "How to gather the data you need?"
+title: How to gather the data you need?
 description: "There are three elements to gathering the necessary data. The first is creating the data in the first place. Then comes the need to access the data which might be stored across other governmental departments and private sector suppliers. Finally there is the need to collect the data, which is the act of gathering, storing and using the data. "
 icon: "/assets/images/Icons_Light_Green3.png"
-notion_id: "d410178c2c5e4731a8cad97e32ea8c3c"
+notion_id: d410178c2c5e4731a8cad97e32ea8c3c
 ---
 # How to gather the data you need?
 

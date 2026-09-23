@@ -1,9 +1,9 @@
 ---
 permalink: "/resource-directory/resource-directory"
-title: "Resource Directory"
+title: Resource Directory
 full_width: true
 collection: true
-notion_id: "c7a20ce72dbf45f9a8b9f4ae758aa910"
+notion_id: c7a20ce72dbf45f9a8b9f4ae758aa910
 ---
 <div class="notion-collection-table__wrapper">
   <table class="notion-collection-table">

@@ -1,12 +1,12 @@
 ---
 permalink: "/"
-title: "Home"
+title: Home
 description: "\nSustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started."
 cover: "/assets/images/Open-SPP-main.png"
 cover_position: 83.26
 icon: "/assets/images/Open_SPP_home_1.png"
 full_width: true
-notion_id: "a91bdf7457324b2e815ef25eea1a3458"
+notion_id: a91bdf7457324b2e815ef25eea1a3458
 ---
 {% columns %}
 {% column 0.25 html %}

@@ -1,11 +1,11 @@
 ---
 permalink: "/mise-en-place"
-title: "Mise en place"
-description: "Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays."
+title: Mise en place
+description: Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true
-notion_id: "e04c4d5f89b14bf0b064b4893eb79e82"
+notion_id: e04c4d5f89b14bf0b064b4893eb79e82
 ---
 {% columns %}
 {% column 0.25 html %}

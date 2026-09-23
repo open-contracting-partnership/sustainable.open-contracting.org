@@ -1,11 +1,11 @@
 ---
 permalink: "/sector-ict-en-ingls/recopile-los-datos"
-title: "Recopile los datos"
+title: Recopile los datos
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"
 full_width: true
-notion_id: "ec044dfe861a4d8c87b2416781297eee"
+notion_id: ec044dfe861a4d8c87b2416781297eee
 ---
 {% columns %}
 {% column 0.1278 html %}

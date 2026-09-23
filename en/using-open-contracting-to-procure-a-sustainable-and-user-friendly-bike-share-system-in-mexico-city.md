@@ -5,24 +5,14 @@ description: "After ten years of operation, Mexico City sought to expand their e
 cover: "/assets/images/LAC_-_Mexico.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
-notion_id: "ae2a502d38084823b7f798cc9f3fc6bf"
+notion_id: ae2a502d38084823b7f798cc9f3fc6bf
+properties:
+  Geographical Area:
+    Latin America and the Caribbean: yellow
+    Mexico City: purple
+  Scope:
+    Local: blue
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-yellow first">Latin America and the Caribbean</span><span class="notion-pill pill-purple">Mexico City</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-blue first">Local</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

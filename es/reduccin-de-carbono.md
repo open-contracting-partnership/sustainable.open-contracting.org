@@ -1,7 +1,7 @@
 ---
 permalink: "/reduccin-de-carbono"
-title: "Reducción de carbono"
-description: "Los gobiernos y las empresas están fijando plazos para lograr cero emisiones. La contratación pública se puede utilizar como palanca para impulsar el cambio mediante la promoción de alternativas bajas en carbono en las cadenas de suministro del gobierno."
+title: Reducción de carbono
+description: Los gobiernos y las empresas están fijando plazos para lograr cero emisiones. La contratación pública se puede utilizar como palanca para impulsar el cambio mediante la promoción de alternativas bajas en carbono en las cadenas de suministro del gobierno.
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true

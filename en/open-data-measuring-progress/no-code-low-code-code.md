@@ -5,7 +5,7 @@ description: "Different organisations have different capabilities and resources.
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green3.png"
 full_width: true
-notion_id: "e3283c833b0e4d7e8b01d57d6c6b3e00"
+notion_id: e3283c833b0e4d7e8b01d57d6c6b3e00
 ---
 {% columns %}
 {% column 0.1278 html %}

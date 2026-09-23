@@ -1,6 +1,6 @@
 ---
 permalink: "/inclusin-de-gnero"
-title: "Inclusión de género"
+title: Inclusión de género
 description: "Para reducir las barreras a las que se enfrentan las empresas dirigidas por mujeres en los mercados de contratación pública, debemos ser capaces de identificar las empresas dirigidas por mujeres y comprender en qué medida están participando y ganando contratos gubernamentales. Esto incluye una comprensión tanto del número como del valor de los contratos, así como de su sector. Podemos tomar estas medidas como referencia y luego implementar medidas con el objetivo de mejorar estas métricas con el tiempo."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

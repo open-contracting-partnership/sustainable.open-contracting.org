@@ -1,6 +1,6 @@
 ---
 permalink: "/plan-1/establezca-un-entorno-habilitante"
-title: "Establezca un entorno habilitante"
+title: Establezca un entorno habilitante
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true

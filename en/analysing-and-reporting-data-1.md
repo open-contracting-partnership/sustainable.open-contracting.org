@@ -1,25 +1,12 @@
 ---
 permalink: "/analysing-and-reporting-data-1"
-title: "Analysing and reporting data"
+title: Analysing and reporting data
 description: "When reporting against economic development data, you will need to establish what you want to measure and what you want to report publicly before the data is collected and processed. If your policy is to create new jobs you can choose a metric that would create a report relating to the number of jobs that have been created by the award of contracts."
-notion_id: "d6b12f07b2c04248a050bbdedf45b09c"
+notion_id: d6b12f07b2c04248a050bbdedf45b09c
+properties:
+  Created: "Feb 9, 2023 7:38 PM"
+  Tags: {}
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-71496447 notion-semantic-string">Feb 9, 2023 7:38 PM</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Tags</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a634567"></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 <div class="notion-image page-width"><img alt="image" loading="lazy" width="1278" height="1099" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11e.jpg"/></div>
 
 # Analysing and reporting data
@@ -30,7 +17,8 @@ You should be clear about how you are recording and calculating these metrics an
 
 In the following scenario we can calculate the jobs that contracting supports and the number of new jobs that would be created by awarding the contract to Supplier A. By subtracting the number of jobs supported by the incumbent contractor from the number of jobs that would be supported by the new contractor it is possible to determine that nine new jobs would be created.
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><pre class="language-r"><code class="language-r">contract value = €3,000,000
+```r
+contract value = €3,000,000
 contract years = 3
 contract spend per year = €1,000,000
 incumbent supplier = C
@@ -44,6 +32,7 @@ Supplier C = €58,000
 Estimated number of jobs supported by the contract
 Supplier A = 20
 Supplier B = 18
-Supplier C = 11</code></pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+Supplier C = 11
+```
 
 Buyers can also group any reporting on a range of additional factors to give context to an economic development project. For instance, it is possible to group jobs by the region in which they have been created, the category of purchasing (e.g. construction), the nature of the jobs created (e.g. skilled) or the type of companies supported (e.g. female owned). 

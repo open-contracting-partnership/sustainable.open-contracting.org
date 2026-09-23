@@ -1,6 +1,6 @@
 ---
 permalink: "/sector-de-la-construccin-en-ingls/haga-clic-para-mayor-informacin"
-title: "Haga clic para mayor información"
+title: Haga clic para mayor información
 full_width: true
 collection: true
 notion_id: "4aca3f62338a4c689885e6b964f0d2ac"

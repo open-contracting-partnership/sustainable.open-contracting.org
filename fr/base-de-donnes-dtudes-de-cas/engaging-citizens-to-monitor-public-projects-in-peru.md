@@ -1,6 +1,6 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru"
-title: "Engaging citizens to monitor public projects in Peru"
+title: Engaging citizens to monitor public projects in Peru
 description: " "
 cover: "/assets/images/LAC_-_Peru.png"
 cover_position: 53.12

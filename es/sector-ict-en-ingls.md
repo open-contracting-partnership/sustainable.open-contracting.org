@@ -1,6 +1,6 @@
 ---
 permalink: "/sector-ict-en-ingls"
-title: "Sector ICT (en inglés)"
+title: Sector ICT (en inglés)
 description: "La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey5.png"

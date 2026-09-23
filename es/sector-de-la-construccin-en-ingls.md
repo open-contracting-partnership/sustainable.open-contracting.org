@@ -1,6 +1,6 @@
 ---
 permalink: "/sector-de-la-construccin-en-ingls"
-title: "Sector de la construcción (en inglés)"
+title: Sector de la construcción (en inglés)
 description: "La industria de la construcción es una de gran relevancia económica ya que se estima que representa el 6% del PIB mundial, con el mercado de la construcción de África valorado en alrededor de USD 5,4 mil millones en 2020 y el de ALC en USD 829,3 mil millones en 2018. Esto se traduce en más de 100 millones de puestos de trabajo en todo el mundo. Sin embargo, este sector también representó la mayor parte del uso global de energía final (36 %) y las emisiones de CO2 relacionadas con la energía (39 %) en 2018. También está clasificado como uno de los sectores con mayor proporción de corrupción, así como un sector de alto riesgo para el trabajo forzado."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey5.png"

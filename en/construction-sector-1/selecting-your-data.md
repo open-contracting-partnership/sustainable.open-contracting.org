@@ -1,22 +1,14 @@
 ---
 permalink: "/construction-sector-1/selecting-your-data"
-title: "Selecting your data"
+title: Selecting your data
 description: "Material use "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"
 full_width: true
 notion_id: "98c412788073444e8210c12f66aaa69c"
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-6d524e6a notion-semantic-string">Feb 9, 2023 7:39 PM</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.125 html %}
 {% include sidebar-en.html %}

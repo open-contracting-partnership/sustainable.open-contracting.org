@@ -2,67 +2,24 @@
 permalink: "/resource-directory/rgimen-regulatorio-para-el-desarrollo-y-competitividad-de-las-micro-pequeas-y-medianas-empresas-mipymes"
 title: "Régimen Regulatorio para el Desarrollo y Competitividad de las Micro, Pequeñas y Medianas Empresas (MIPYMES)"
 notion_id: "8d7627d6cb684561aecd17dd0781bfc2"
+properties:
+  Attachment:
+    - "https://www.notion.so/4e580ac7457847ae861a43ebad4e3a88?v=880e1e214aa94243925c9fb0bbc8cde8&p=701c735d66564156b2133383d0d9ec5f": "/4e580ac7457847ae861a43ebad4e3a88"
+  Geographic area:
+    Latin America and the Caribbean: default
+    Dominican Republic: red
+  Language:
+    Spanish: green
+  Length: 21
+  Organization: Government of the Dominican Republic
+  SPP focus:
+    Social: purple
+    Economic: green
+  Sectors: {}
+  Type of guidance:
+    Enabling Framework: default
+  User:
+    National Authorities: blue
+  Year: 2008
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a class="notion-link link" href="/4e580ac7457847ae861a43ebad4e3a88">https://www.notion.so/4e580ac7457847ae861a43ebad4e3a88?v=880e1e214aa94243925c9fb0bbc8cde8&amp;p=701c735d66564156b2133383d0d9ec5f</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-default first">Latin America and the Caribbean</span><span class="notion-pill pill-red">Dominican Republic</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-green first">Spanish</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">21</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">Government of the Dominican Republic</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-purple first">Social</span><span class="notion-pill pill-green">Economic</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-default first">Enabling Framework</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-blue first">National Authorities</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2008</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

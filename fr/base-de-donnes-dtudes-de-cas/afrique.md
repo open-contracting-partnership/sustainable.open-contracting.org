@@ -1,9 +1,9 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/afrique"
-title: "Afrique"
+title: Afrique
 full_width: true
 collection: true
-notion_id: "cd2191668de3460884f845e2f55cf04e"
+notion_id: cd2191668de3460884f845e2f55cf04e
 ---
 <div class="notion-collection-gallery large">
   <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/promoting-equal-access-to-government-opportunities-in-kenya" class="notion-link notion-collection-card__anchor">Promoting equal access to government opportunities in Kenya</a><img alt="Promoting equal access to government opportunities in Kenya" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Africa_-_Kenya.png"/></div>

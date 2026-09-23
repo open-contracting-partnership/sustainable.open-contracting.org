@@ -72,6 +72,66 @@ module NotionTags
   end
 end
 
+module NotionTags
+  # {% properties %} renders a database item's properties from its front matter. Pills are a mapping of values to
+  # colors, attachments and URLs are lists of mappings of text to URLs, numbers are numbers, and dates and text are
+  # strings. The notion.date_properties and notion.url_properties settings name the dates and URLs.
+  class Properties < Liquid::Tag
+    def render(context)
+      properties = context["page"]["properties"]
+      return "" unless properties
+
+      config = context.registers[:site].config["notion"] || {}
+      html = properties.map do |name, value|
+        label = %(<div class="notion-page__property-name-wrapper"><div class="notion-page__property-name">) +
+                %(<span>#{h(name)}</span></div></div>)
+        %(<div class="notion-page__property">#{label}#{value(name, value, config)}</div>)
+      end
+      %(<div class="notion-page__properties">#{html.join}<div class="notion-divider"></div></div>)
+    end
+
+    private
+
+    def value(name, value, config)
+      case value
+      when nil
+        ""
+      when Hash
+        pills = value.each_with_index.map do |(text, color), index|
+          %(<span class="notion-pill pill-#{color}#{index.zero? ? " first" : ""}">#{h(text)}</span>)
+        end
+        %(<div class="notion-property notion-property__select wrap">#{pills.join}</div>)
+      when Array
+        links = value.map(&:first)
+        if config.fetch("url_properties", []).include?(name)
+          html = links.map { |text, href| %(<a class="notion-link link" href="#{h(href)}">#{h(text)}</a>) }
+          %(<div class="notion-property notion-property__url notion-semantic-string">#{html.join}</div>)
+        else
+          html = links.map do |text, href|
+            target = href.start_with?("http") ? ' target="_blank" rel="noopener noreferrer"' : ""
+            %(<span class="notion-pill pill-default"><span class="notion-semantic-string">) +
+              %(<a href="#{h(href)}" class="notion-link link"#{target}>#{h(text)}</a></span></span>)
+          end
+          %(<div class="notion-property notion-property__file">#{html.join}</div>)
+        end
+      when Numeric
+        %(<div class="notion-property notion-property__number notion-semantic-string">#{value}</div>)
+      else
+        if config.fetch("date_properties", []).include?(name)
+          %(<div class="notion-property notion-property__date notion-semantic-string">#{h(value)}</div>)
+        else
+          %(<p class="notion-property notion-property__text notion-semantic-string">#{h(value)}</p>)
+        end
+      end
+    end
+
+    def h(text)
+      CGI.escapeHTML(text.to_s)
+    end
+  end
+end
+
+Liquid::Template.register_tag("properties", NotionTags::Properties)
 Liquid::Template.register_tag("callout", NotionTags::Callout)
 Liquid::Template.register_tag("toggle", NotionTags::Toggle)
 Liquid::Template.register_tag("columns", NotionTags::Columns)

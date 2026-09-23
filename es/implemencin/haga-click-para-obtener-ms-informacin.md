@@ -1,9 +1,9 @@
 ---
 permalink: "/implemencin/haga-click-para-obtener-ms-informacin"
-title: "Haga click para obtener más información"
+title: Haga click para obtener más información
 full_width: true
 collection: true
-notion_id: "e0822986525a4845b8892f7f57ae55f6"
+notion_id: e0822986525a4845b8892f7f57ae55f6
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/establezca-necesidades" class="notion-link notion-collection-card__anchor">Establezca necesidades</a>

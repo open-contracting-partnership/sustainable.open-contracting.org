@@ -1,6 +1,6 @@
 ---
 permalink: "/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento"
-title: "Lista de chequeo rápido-comparte su sendero hacia el cumplimiento"
+title: Lista de chequeo rápido-comparte su sendero hacia el cumplimiento
 description: "\nCompliance Trail Checklist"
 icon: "/assets/images/Tick_green_2.png"
 notion_id: "695b43b0af194afdadb67de1c5d9d6c8"

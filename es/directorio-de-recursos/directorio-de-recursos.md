@@ -1,9 +1,9 @@
 ---
 permalink: "/directorio-de-recursos/directorio-de-recursos"
-title: "Directorio de recursos"
+title: Directorio de recursos
 full_width: true
 collection: true
-notion_id: "d225beda5987413d8ad06416f2e3482d"
+notion_id: d225beda5987413d8ad06416f2e3482d
 ---
 <div class="notion-collection-table__wrapper">
   <table class="notion-collection-table">

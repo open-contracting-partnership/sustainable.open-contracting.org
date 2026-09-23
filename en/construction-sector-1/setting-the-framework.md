@@ -1,22 +1,14 @@
 ---
 permalink: "/construction-sector-1/setting-the-framework"
-title: "Setting the framework"
+title: Setting the framework
 description: "When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the enabling framework, it can be useful to identify, or consider establishing, the following compliance sources:"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"
 full_width: true
-notion_id: "e11c9b99989a490db72eeb0bad6693ca"
+notion_id: e11c9b99989a490db72eeb0bad6693ca
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-6d524e6a notion-semantic-string">Feb 9, 2023 7:39 PM</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.125 html %}
 {% include sidebar-en.html %}

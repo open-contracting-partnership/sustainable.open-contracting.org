@@ -1,11 +1,11 @@
 ---
 permalink: "/spp-uptake"
-title: "SPP uptake"
+title: SPP uptake
 description: "Measuring SPP uptake levels is about knowing how much sustainable public procurement is being relied on by public buyers, either during the procurement process or after the fact to allow the clear identification of social, environmental, or economic procurement within tendering and contracting."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
-notion_id: "f6b9fea7045d4268b6a35725f949a001"
+notion_id: f6b9fea7045d4268b6a35725f949a001
 ---
 {% columns %}
 {% column 0.25 html %}

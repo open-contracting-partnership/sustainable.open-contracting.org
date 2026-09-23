@@ -3,7 +3,7 @@ permalink: "/guide-to-ecolabels-1/ecolabels"
 title: "Ecolabels "
 full_width: true
 collection: true
-notion_id: "a8a53644ce6e4394b52d81b610ae5801"
+notion_id: a8a53644ce6e4394b52d81b610ae5801
 ---
 <div class="notion-collection-table__wrapper">
   <table class="notion-collection-table">

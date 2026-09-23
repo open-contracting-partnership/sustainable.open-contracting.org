@@ -1,9 +1,9 @@
 ---
 permalink: "/adopcin-de-cps/anlisis-e-informe-de-datos"
-title: "Análisis e informe de datos"
+title: Análisis e informe de datos
 description: "Los datos buenos sobre la adopción de CPS se pueden introducir en paneles e informes para permitir que los responsables de la formulación de políticas y las autoridades encargadas de hacer cumplir la ley tengan una visión general de alto nivel de la contratación de SPP junto con los objetivos políticos y legislativos, así como otras métricas."
 icon: "/assets/images/Icons_Light_Green3.png"
-notion_id: "a6998a29524a4b338ab96e906468dcb8"
+notion_id: a6998a29524a4b338ab96e906468dcb8
 ---
 Los datos buenos sobre la adopción de CPS se pueden introducir en paneles e informes para permitir que los responsables de la formulación de políticas y las autoridades encargadas de hacer cumplir la ley tengan una visión general de alto nivel de la contratación de SPP junto con los objetivos políticos y legislativos, así como otras métricas.
 

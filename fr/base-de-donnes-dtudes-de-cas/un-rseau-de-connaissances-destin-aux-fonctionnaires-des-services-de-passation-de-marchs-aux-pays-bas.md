@@ -1,6 +1,6 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/un-rseau-de-connaissances-destin-aux-fonctionnaires-des-services-de-passation-de-marchs-aux-pays-bas"
-title: "Un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés aux Pays-Bas"
+title: Un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés aux Pays-Bas
 description: "En 2005, le gouvernement des Pays-Bas a créé PIANOo, un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.\n Cet outil contient désormais une section spécifiquement consacrée aux marchés publics durables proposant du matériel d’apprentissage, des orientations et un outil sur les critères.\n afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.\n"
 cover: "/assets/images/Europe_-_Ukraine.png"
 icon: "/assets/images/Notion-others2.png"

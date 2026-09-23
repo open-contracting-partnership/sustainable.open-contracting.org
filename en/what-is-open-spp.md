@@ -1,6 +1,6 @@
 ---
 permalink: "/what-is-open-spp"
-title: "What is Open SPP?"
+title: What is Open SPP?
 description: "Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: economic, social, and environmental benefits."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Blue_Intro2.png"

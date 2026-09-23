@@ -2,67 +2,25 @@
 permalink: "/resource-directory/plan-de-accin-nacional-de-compras-pblicas-sustentables"
 title: "Plan de Acción Nacional de\nCompras Públicas Sustentables"
 notion_id: "86f66061aa6a4e79904f82c9f652ecfe"
+properties:
+  Attachment:
+    - "https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf": "https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf"
+  Geographic area:
+    Latin America and the Caribbean: default
+    Argentina: yellow
+  Language:
+    English: default
+  Length: 88
+  Organization: "Government of Argentina "
+  SPP focus:
+    Environmental: orange
+    Economic: green
+    Social: purple
+  Sectors: {}
+  Type of guidance:
+    SPP Action Plan: red
+  User:
+    National Authorities: blue
+  Year: 2017
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-default first">Latin America and the Caribbean</span><span class="notion-pill pill-yellow">Argentina</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">88</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">Government of Argentina </p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span><span class="notion-pill pill-green">Economic</span><span class="notion-pill pill-purple">Social</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-red first">SPP Action Plan</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-blue first">National Authorities</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2017</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

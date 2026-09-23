@@ -1,25 +1,12 @@
 ---
 permalink: "/open-data-measuring-progress/economic-development/use-case-economic-development-2/what-to-measure"
-title: "What to measure?"
+title: What to measure?
 description: "Economic development is a subject that has multiple measurement points that can be used. In a country where commissioning services from overseas firms it may be as simple as measuring the amount of money spent with in-country firms. In other cases it may be more to do with spending in a tighter geographic area, such as an economically deprived area of a city. "
 notion_id: "73080766304043d5af1e0a244861fec6"
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
+  Tags: {}
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-71496447 notion-semantic-string">Feb 9, 2023 7:39 PM</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Tags</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a634567"></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 <div class="notion-image page-width"><img alt="image" loading="lazy" width="1056" height="845" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11b.jpg"/></div>
 
 # What to measure?

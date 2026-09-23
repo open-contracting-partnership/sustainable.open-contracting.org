@@ -1,25 +1,12 @@
 ---
 permalink: "/open-data-measuring-progress/economic-development/use-case-economic-development-2/not-all-jobs-are-equal"
-title: "Not all jobs are equal"
+title: Not all jobs are equal
 description: "When looking for economic development from procurement it is common to want to record the nature of the job that is being created. Governments may, for instance, wish to prioritise the creation of apprenticeships, or permanent, skilled work over and above the creation of a non-skilled or temporary work. "
 notion_id: "04fe49fe25b94dd8b7287bc305072182"
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
+  Tags: {}
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-71496447 notion-semantic-string">Feb 9, 2023 7:39 PM</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Tags</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a634567"></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 <div class="notion-image page-width"><img alt="image" loading="lazy" width="2457" height="1847" style="object-fit:contain;object-position:center;height:auto" src="/assets/images/Asset_11d.jpg"/></div>
 
 # Not all jobs are equal

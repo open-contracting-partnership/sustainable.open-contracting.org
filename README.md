@@ -32,10 +32,11 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `full_width` | Whether the page is full width |
 | `collection` | Whether the page is a Notion database |
 | `notion_id` | The ID of the Notion page from which it was imported |
+| `properties` | A database item's properties, in order, rendered by the `{% properties %}` tag in the layout: a mapping of pills to their colors, a list of mappings of attachments' names to their URLs, a number, or text. The `notion.date_properties` and `notion.url_properties` settings in `_config.yml` name the properties that are dates and URLs. |
 
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header. The sidebar is in `_includes/sidebar-<lang>.html`.
 
-Paragraphs, headings, lists, bold, italics and links are Markdown. Callouts, toggles and columns are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown. Callouts, toggles and columns are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.png %}
@@ -60,7 +61,7 @@ The column's content.
 
 A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
 
-Other Notion blocks (databases, tables, images, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. An empty `<div class="notion-text"></div>` is Notion's spacing between blocks.
+Other Notion blocks (databases, tables, images, etc.) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
 ## How the content was produced
 
@@ -81,4 +82,4 @@ uv run scripts/screenshots.py take after
 uv run scripts/screenshots.py compare before after
 ```
 
-The stylesheets in `assets/css/` (except `fonts.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles and code block copy buttons. `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
+The stylesheets in `assets/css/` (except `fonts.css`, `site.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles and code block copy buttons. `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.

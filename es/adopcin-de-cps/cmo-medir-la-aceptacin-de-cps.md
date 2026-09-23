@@ -1,14 +1,16 @@
 ---
 permalink: "/adopcin-de-cps/cmo-medir-la-aceptacin-de-cps"
-title: "Cómo medir la aceptación de CPS"
+title: Cómo medir la aceptación de CPS
 description: "Claramente, en torno a las métricas de CPS se puede adoptar una visión a largo plazo para vincular los objetivos establecidos por la política y la legislación. Esto puede significar que las etiquetas se cuentan contra el cuerpo de los documentos de contratación y se miden a lo largo del tiempo. Entonces, un ejemplo de contratación CPS podría ser:"
 icon: "/assets/images/Icons_Light_Green3.png"
-notion_id: "f4df3d85a3c442cf89cd4668b7bf178c"
+notion_id: f4df3d85a3c442cf89cd4668b7bf178c
 ---
 Claramente, en torno a las métricas de CPS se puede adoptar una visión a largo plazo para vincular los objetivos establecidos por la política y la legislación. Esto puede significar que las etiquetas se cuentan contra el cuerpo de los documentos de contratación y se miden a lo largo del tiempo. Entonces, un ejemplo de contratación CPS podría ser:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><pre class="language-r"><code class="language-r">Apto para PYME = &quot;Sí&quot;
-¿Amigable con los negocios de propiedad de mujeres? = &quot;Sí&quot;</code></pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```r
+Apto para PYME = "Sí"
+¿Amigable con los negocios de propiedad de mujeres? = "Sí"
+```
 
 Se puede hacer un análisis del desempeño a lo largo del tiempo sobre los recuentos de contrataciones utilizando el año en que se celebró un contrato para el año de cada contrato.
 
@@ -16,14 +18,16 @@ Se puede hacer un análisis del desempeño a lo largo del tiempo sobre los recue
 
 Esto también se puede utilizar para hacer un seguimiento de los cambios año tras año como un porcentaje:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><pre class="language-r"><code class="language-r">Para 2020-2021
+```r
+Para 2020-2021
 Contrataciones SPP en 2020 = 150
 Contrataciones SPP en 2021 = 450
 
 % cambio de edad 2020 a 2021
 Diferencia 2020-2021 dividida por contrataciones SPP 2020
 2020-2021 diferencia = 450-150 = 300
-% de cambio de edad sobre el año anterior = 300/150 = 200%</code></pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+% de cambio de edad sobre el año anterior = 300/150 = 200%
+```
 
 O sobre los valores del contrato:
 
@@ -35,7 +39,9 @@ La medición de los objetivos a lo largo del tiempo permite tanto a los comprado
 
 Por ejemplo, recopilar datos sobre CPS como este:
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><pre class="language-sql"><code class="language-sql">Número de 	CPS = Total de todas las CPS realizadas dividido por todas las contrataciones</code></pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+```sql
+Número de 	CPS = Total de todas las CPS realizadas dividido por todas las contrataciones
+```
 
 Significa que se pueden crear clasificaciones de organizaciones gubernamentales que muestren los buenos y los malos resultados. Por ejemplo, esta lista es ilustrativa de los 5 mejores para 2021:
 
@@ -43,12 +49,14 @@ Significa que se pueden crear clasificaciones de organizaciones gubernamentales 
 
 Desde una vista de clasificación de alto nivel, los datos se pueden desglosar aún más en hojas de cálculo y paneles. De la lista ilustrativa anterior, tomando el Ministerio de Infraestructura con el peor desempeño en 63%: 
 
-<div class="notion-code no-wrap"><button class="notion-code__copy-button"><svg class="notion-icon notion-icon__copy" viewBox="0 0 14 16"><path d="M2.404 15.322h5.701c1.26 0 1.887-.662 1.887-1.927V12.38h1.154c1.254 0 1.91-.662 1.91-1.928V5.555c0-.774-.158-1.266-.626-1.74L9.512.837C9.066.387 8.545.21 7.865.21H5.463c-1.254 0-1.91.662-1.91 1.928v1.084H2.404c-1.254 0-1.91.668-1.91 1.933v8.239c0 1.265.656 1.927 1.91 1.927zm7.588-6.62c0-.792-.1-1.161-.592-1.665L6.225 3.814c-.452-.462-.844-.58-1.5-.591V2.215c0-.533.28-.832.843-.832h2.38v2.883c0 .726.386 1.113 1.107 1.113h2.83v4.998c0 .539-.276.832-.844.832H9.992V8.701zm-.79-4.29c-.206 0-.288-.088-.288-.287V1.594l2.771 2.818H9.201zM2.503 14.15c-.563 0-.844-.293-.844-.832V5.232c0-.539.281-.837.85-.837h1.91v3.187c0 .85.416 1.26 1.26 1.26h3.14v4.476c0 .54-.28.832-.843.832H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>Copy</button><pre class="language-r"><code class="language-r">Año    | Recuento SPP*   | Recuento SPP* |
+```r
+Año    | Recuento SPP*   | Recuento SPP* |
        | (real)          | (objetivo)   |  
 -------------------------------------
 2019    | 75%          | 70%        |    
 2020    | 72%          | 70%        |    
-2021    | 63%          | 70%        |  </code></pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>
+2021    | 63%          | 70%        |  
+```
 
 Está claro que el cumplimiento del objetivo no solo ha tenido una tendencia a la baja desde 2019, sino que algo sucedió en 2021 para empujar el desempeño muy por debajo del umbral del 70 %.
 

@@ -1,7 +1,7 @@
 ---
 permalink: "/possibilits-dutilisation-des-donnes"
-title: "Possibilités d’utilisation des données"
-description: "Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics."
+title: Possibilités d’utilisation des données
+description: Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics.
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true

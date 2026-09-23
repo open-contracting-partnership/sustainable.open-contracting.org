@@ -1,6 +1,6 @@
 ---
 permalink: "/donnes-ouvertes-et-valuation"
-title: "Données ouvertes et évaluation"
+title: Données ouvertes et évaluation
 cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
 cover_position: 6.48
 icon: "/assets/images/Icons_Light_Green.png"

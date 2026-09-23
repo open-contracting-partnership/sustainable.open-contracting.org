@@ -1,6 +1,6 @@
 ---
 permalink: "/ict-sector-1/click-through-to-learn-more"
-title: "Click through to learn more"
+title: Click through to learn more
 full_width: true
 collection: true
 notion_id: "3fcf9e55cc214a889ce7a0579e410269"

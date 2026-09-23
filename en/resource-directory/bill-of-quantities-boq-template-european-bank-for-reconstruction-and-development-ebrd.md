@@ -1,66 +1,29 @@
 ---
 permalink: "/resource-directory/bill-of-quantities-boq-template-european-bank-for-reconstruction-and-development-ebrd"
-title: "Bill of Quantities (BOQ) Template - European Bank for Reconstruction and Development (EBRD)"
-notion_id: "e7524aacfe0d49a2bfaecd4ebcb77aed"
+title: Bill of Quantities (BOQ) Template - European Bank for Reconstruction and Development (EBRD)
+notion_id: e7524aacfe0d49a2bfaecd4ebcb77aed
+properties:
+  Attachment:
+    - "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls": "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls"
+  Geographic area:
+    Europe: yellow
+    Asia: pink
+    Africa: orange
+    North America: orange
+    Latin America and the Caribbean: default
+  Language:
+    English: default
+  Length: null
+  Organization: European Bank for Reconstruction and Development (EBRD)
+  SPP focus:
+    Environmental: orange
+  Sectors:
+    Construction: pink
+  Type of guidance:
+    Implementing SPP in Specific Sectors: blue
+  User:
+    Procurement Teams: brown
+    Oversight Bodies: green
+  Year: null
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-yellow first">Europe</span><span class="notion-pill pill-pink">Asia</span><span class="notion-pill pill-orange">Africa</span><span class="notion-pill pill-orange">North America</span><span class="notion-pill pill-default">Latin America and the Caribbean</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">European Bank for Reconstruction and Development (EBRD)</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"><span class="notion-pill pill-pink first">Construction</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-blue first">Implementing SPP in Specific Sectors</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-brown first">Procurement Teams</span><span class="notion-pill pill-green">Oversight Bodies</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

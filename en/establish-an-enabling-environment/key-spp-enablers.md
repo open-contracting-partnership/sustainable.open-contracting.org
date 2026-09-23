@@ -1,6 +1,6 @@
 ---
 permalink: "/establish-an-enabling-environment/key-spp-enablers"
-title: "Key SPP enablers"
+title: Key SPP enablers
 full_width: true
 collection: true
 notion_id: "36e041d26513471e9d053b66f33a9d8d"

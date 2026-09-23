@@ -3,7 +3,7 @@ permalink: "/inclusin-de-gnero/cmo-recopilar-los-datos-que-necesita"
 title: "¿Cómo recopilar los datos que necesita?"
 description: "In addition to contract award notices, the main datasets required for this use case are around gender pay and women in senior positions, categories, and information around companies and company ownership."
 icon: "/assets/images/Icons_Light_Green3.png"
-notion_id: "f4b63b9b2016433891c2dece69faa9c7"
+notion_id: f4b63b9b2016433891c2dece69faa9c7
 ---
 In addition to contract award notices, the main datasets required for this use case are around gender pay and women in senior positions, categories, and information around companies and company ownership.
 

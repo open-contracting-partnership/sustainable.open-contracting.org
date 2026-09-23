@@ -1,6 +1,6 @@
 ---
 permalink: "/establezca-un-entorno-habilitante/habilitantes-clave-de-cps-abierta"
-title: "Habilitantes clave de CPS Abierta"
+title: Habilitantes clave de CPS Abierta
 full_width: true
 collection: true
 notion_id: "44c2a782c0b8496ca72e7edf39cf2a01"

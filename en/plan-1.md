@@ -1,27 +1,15 @@
 ---
 permalink: "/plan-1"
-title: "Plan"
+title: Plan
 cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 icon: "/assets/images/icons_D_Green.png"
 full_width: true
 notion_id: "49907132a8ca483bac10077db610f955"
+properties:
+  Created: "Feb 9, 2023 7:38 PM"
+  "super:Link":
+    - "https://sustainable.open-contracting.org/plan": "/plan"
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-6d524e6a notion-semantic-string">Feb 9, 2023 7:38 PM</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>super:Link</span></div>
-    </div>
-    <div class="notion-property notion-property__url property-43635273 notion-semantic-string"><a class="notion-link link" href="/plan">https://sustainable.open-contracting.org/plan</a></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

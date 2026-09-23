@@ -1,6 +1,6 @@
 ---
 permalink: "/donnes-ouvertes-et-valuation-des-progrs/la-rduction-des-missions-de-carbone"
-title: "La réduction des émissions de carbone"
+title: La réduction des émissions de carbone
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

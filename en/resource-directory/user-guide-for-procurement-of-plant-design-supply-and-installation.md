@@ -1,67 +1,30 @@
 ---
 permalink: "/resource-directory/user-guide-for-procurement-of-plant-design-supply-and-installation"
 title: "User Guide for Procurement of Plant Design, Supply, and Installation"
-notion_id: "b1349e5f16604eaab95926568145992e"
+notion_id: b1349e5f16604eaab95926568145992e
+properties:
+  Attachment:
+    - "https://www.adb.org/documents/procurement-plant-guide": "https://www.adb.org/documents/procurement-plant-guide"
+  Geographic area:
+    Asia: pink
+    Europe: yellow
+    Africa: orange
+    North America: orange
+    Latin America and the Caribbean: default
+  Language:
+    English: default
+  Length: null
+  Organization: Asian Development Bank (ADB)
+  SPP focus:
+    Environmental: orange
+  Sectors:
+    Construction: pink
+    Buildings: gray
+  Type of guidance:
+    Implementing SPP in Specific Sectors: blue
+  User:
+    Oversight Bodies: green
+    Procurement Teams: brown
+  Year: 2021
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.adb.org/documents/procurement-plant-guide" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.adb.org/documents/procurement-plant-guide</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-pink first">Asia</span><span class="notion-pill pill-yellow">Europe</span><span class="notion-pill pill-orange">Africa</span><span class="notion-pill pill-orange">North America</span><span class="notion-pill pill-default">Latin America and the Caribbean</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">Asian Development Bank (ADB)</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"><span class="notion-pill pill-pink first">Construction</span><span class="notion-pill pill-gray">Buildings</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-blue first">Implementing SPP in Specific Sectors</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-green first">Oversight Bodies</span><span class="notion-pill pill-brown">Procurement Teams</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2021</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

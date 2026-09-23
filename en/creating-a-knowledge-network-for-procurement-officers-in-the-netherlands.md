@@ -1,29 +1,19 @@
 ---
 permalink: "/creating-a-knowledge-network-for-procurement-officers-in-the-netherlands"
-title: "Creating a knowledge network for procurement officers in The Netherlands"
+title: Creating a knowledge network for procurement officers in The Netherlands
 description: "In 2005, the Government of The Netherlands set up PIANOo, a knowledge network for government procurement officers and contracting authorities. PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance. It also now incorporates a specific section on Sustainable Public Procurement (SPP), offering learning materials, guidance, and a criteria tool for public authorities to identify possible environmental requirements to include in tendering processes.  \nThe expertise center includes information regarding best practice exchange meetings amongst procurement practitioners. "
 cover: "/assets/images/Europe_-_The_Netherlands.png"
 cover_position: 54.16
 icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "4ecbd61fb52d4c6e8b906c5574f14a7b"
+properties:
+  Geographical Area:
+    The Netherlands: yellow
+    Europe: pink
+  Scope:
+    National: gray
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-yellow first">The Netherlands</span><span class="notion-pill pill-pink">Europe</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-gray first">National</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

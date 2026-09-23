@@ -1,6 +1,6 @@
 ---
 permalink: "/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation"
-title: "Modèle de cadre de suivi et d’évaluation"
+title: Modèle de cadre de suivi et d’évaluation
 description: "The M&E framework includes the following section:"
 icon: "/assets/images/icons_D_Green3.png"
 notion_id: "78211b5af9254502aa43120eee8c658d"

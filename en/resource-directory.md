@@ -1,6 +1,6 @@
 ---
 permalink: "/resource-directory"
-title: "Resource directory"
+title: Resource directory
 description: "In this section, we include information on existing Sustainable Public Procurement (SPP) guidance and practice references. Available resources have been classified according to whether they provide guidance, or references, on overall SPP implementation, or focus on specific SPP practices, such as prioritizing procurement categories, or establishing an enabling framework. "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Notion-others.png"

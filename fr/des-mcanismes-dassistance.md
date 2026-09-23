@@ -1,6 +1,6 @@
 ---
 permalink: "/des-mcanismes-dassistance"
-title: "Des mécanismes d’assistance"
+title: Des mécanismes d’assistance
 description: "À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs. "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"

@@ -2,67 +2,30 @@
 permalink: "/resource-directory/sustainability-clauses-in-commercial-contracts-the-key-to-corporate-responsibility"
 title: "Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility"
 notion_id: "61c3e7d2b444420e92f7fecb20b2a33f"
+properties:
+  Attachment:
+    - "https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf": "https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf"
+  Geographic area:
+    Europe: yellow
+    Latin America and the Caribbean: default
+    Asia: pink
+    Africa: orange
+    North America: orange
+  Language:
+    English: default
+  Length: 68
+  Organization: "Ecovadis "
+  SPP focus:
+    Environmental: orange
+    Economic: green
+    Social: purple
+  Sectors: {}
+  Type of guidance:
+    Translating Sustainability into Contract Obligations: gray
+  User:
+    Procurement Teams: brown
+    National Authorities: blue
+    Oversight Bodies: green
+  Year: 2018
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-yellow first">Europe</span><span class="notion-pill pill-default">Latin America and the Caribbean</span><span class="notion-pill pill-pink">Asia</span><span class="notion-pill pill-orange">Africa</span><span class="notion-pill pill-orange">North America</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">68</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">Ecovadis </p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span><span class="notion-pill pill-green">Economic</span><span class="notion-pill pill-purple">Social</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-gray first">Translating Sustainability into Contract Obligations</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-brown first">Procurement Teams</span><span class="notion-pill pill-blue">National Authorities</span><span class="notion-pill pill-green">Oversight Bodies</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2018</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

@@ -1,6 +1,6 @@
 ---
 permalink: "/guas-para-las-ecoetiquetas"
-title: "Guías para las ecoetiquetas"
+title: Guías para las ecoetiquetas
 description: "La Red Global de Ecoetiquetado (Global Ecolabelling Network (GEN) define ecoetiquetado como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”. Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios. Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos ambientales durante el proceso de fabricación del producto.\n"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey2.png"

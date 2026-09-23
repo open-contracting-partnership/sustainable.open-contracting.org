@@ -3,7 +3,7 @@ permalink: "/reduccin-de-carbono/haga-clic-en-las-siguientes-secciones-para-cono
 title: "Haga clic en las siguientes secciones para conocer más acerca de cómo empezar:"
 full_width: true
 collection: true
-notion_id: "f325664dacee4ac9bcb1f83c2c70736a"
+notion_id: f325664dacee4ac9bcb1f83c2c70736a
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/reduccin-de-carbono/cmo-estimar-los-valores-de-carbono" class="notion-link notion-collection-card__anchor">¿Cómo estimar los valores de carbono?</a>

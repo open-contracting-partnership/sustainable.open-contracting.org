@@ -1,6 +1,6 @@
 ---
 permalink: "/mise-en-place-1/cliquez-sur-une-section-pour-en-savoir-plus"
-title: "Cliquez sur une section pour en savoir plus."
+title: Cliquez sur une section pour en savoir plus.
 full_width: true
 collection: true
 notion_id: "80bcf685e25a4f4885da4a02517ee34b"

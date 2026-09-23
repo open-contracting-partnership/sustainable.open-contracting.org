@@ -5,23 +5,13 @@ cover: "/assets/images/Europe_-_Malta.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "16eb2fbe5848413b904704f7476e67ea"
+properties:
+  Geographical Area:
+    Malta: red
+    Europe: pink
+  Scope:
+    Organizational: green
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-red first">Malta</span><span class="notion-pill pill-pink">Europe</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-green first">Organizational</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

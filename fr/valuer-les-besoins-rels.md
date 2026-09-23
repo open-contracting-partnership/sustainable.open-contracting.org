@@ -1,11 +1,11 @@
 ---
 permalink: "/valuer-les-besoins-rels"
-title: "Évaluer les besoins réels"
+title: Évaluer les besoins réels
 description: "Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pas de trouver le moyen d’opter pour la solution la plus durable, vous devrez également vous assurer qu’un besoin réel existe concernant les biens, services ou travaux que vous prévoyez d’acquérir. Parfois, il se peut que l’option la plus durable soit de ne rien acheter. Afin d’éviter les achats superflus et d’assurer l’adéquation de l’objet du marché, il est essentiel d’évaluer les besoins avant de lancer un appel d’offres."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Red2.png"
 full_width: true
-notion_id: "e5cfb6fe384a4c9ea8e7bea503cb65d4"
+notion_id: e5cfb6fe384a4c9ea8e7bea503cb65d4
 ---
 {% columns %}
 {% column 0.25 html %}

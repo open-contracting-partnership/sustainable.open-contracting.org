@@ -1,9 +1,9 @@
 ---
 permalink: "/linclusion-des-genres/getting-started"
-title: "Getting started"
+title: Getting started
 full_width: true
 collection: true
-notion_id: "fb8a5242429d4c17bdd1f6e07e1f79b4"
+notion_id: fb8a5242429d4c17bdd1f6e07e1f79b4
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/linclusion-des-genres/how-to-analyze-the-gender-pay-gap" class="notion-link notion-collection-card__anchor">How to analyze the gender pay gap</a>

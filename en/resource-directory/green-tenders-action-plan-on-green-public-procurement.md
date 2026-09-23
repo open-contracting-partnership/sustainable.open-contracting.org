@@ -2,67 +2,28 @@
 permalink: "/resource-directory/green-tenders-action-plan-on-green-public-procurement"
 title: "Green Tenders: Action Plan on Green Public Procurement "
 notion_id: "270ff57b91ad462a87f53885a74685ed"
+properties:
+  Attachment:
+    - "https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/": "https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/"
+  Geographic area:
+    Ireland: purple
+    Europe: yellow
+  Language:
+    English: default
+  Length: 74
+  Organization: Government of Ireland
+  SPP focus:
+    Environmental: orange
+  Sectors:
+    Construction: pink
+    Energy: blue
+    Transport: purple
+    Food and Catering Services: pink
+    Cleaning Products and Services: yellow
+  Type of guidance:
+    SPP Action Plan: red
+  User:
+    National Authorities: blue
+  Year: 2021
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/" class="notion-link link" target="_blank" rel="noopener noreferrer">https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-purple first">Ireland</span><span class="notion-pill pill-yellow">Europe</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-default first">English</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">74</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">Government of Ireland</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-orange first">Environmental</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"><span class="notion-pill pill-pink first">Construction</span><span class="notion-pill pill-blue">Energy</span><span class="notion-pill pill-purple">Transport</span><span class="notion-pill pill-pink">Food and Catering Services</span><span class="notion-pill pill-yellow">Cleaning Products and Services</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-red first">SPP Action Plan</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-blue first">National Authorities</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2021</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

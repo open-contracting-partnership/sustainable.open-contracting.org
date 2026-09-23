@@ -1,9 +1,9 @@
 ---
 permalink: "/your-open-spp-journey-1"
-title: "Your Open SPP journey"
+title: Your Open SPP journey
 full_width: true
 collection: true
-notion_id: "d2744c10971b4e42bea4a89e7b644750"
+notion_id: d2744c10971b4e42bea4a89e7b644750
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/introduction" class="notion-link notion-collection-card__anchor">Introduction</a><img alt="Introduction" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/PUBLIC_SPP_covers.png"/>

@@ -1,11 +1,11 @@
 ---
 permalink: "/orientations-sectorielles"
-title: "Orientations sectorielles"
+title: Orientations sectorielles
 description: "Dans cette section, nous fournissons des conseils spécifiques sur la manière d'intégrer la durabilité dans les processus d'approvisionnement en construction et en TIC. Cela comprend des conseils relatifs aux certifications pertinentes qui peuvent être utilisées comme référence, des critères de durabilité clés à prendre en compte, des options pour collecter les données nécessaires auprès des fournisseurs et des méthodes d'approvisionnement utiles qui peuvent soutenir le processus."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey.png"
 full_width: true
-notion_id: "e3ea7c0e7d3d4816a68427570bac88ff"
+notion_id: e3ea7c0e7d3d4816a68427570bac88ff
 ---
 {% columns %}
 {% column 0.25 html %}

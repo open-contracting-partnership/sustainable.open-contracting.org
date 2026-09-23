@@ -1,68 +1,26 @@
 ---
 permalink: "/resource-directory/directiva-de-contratacin-pblica-n20-enfoque-de-gnero-en-materia-de-compras-pblicas"
-title: "Directiva de Contratación Pública N°20. Enfoque de género en materia de compras públicas"
-notion_id: "a79aeb3609c14eed90eeabb00a207d4b"
+title: Directiva de Contratación Pública N°20. Enfoque de género en materia de compras públicas
+notion_id: a79aeb3609c14eed90eeabb00a207d4b
+properties:
+  Attachment:
+    - "https://goreatacama.gob.cl/wp-content/uploads/Directiva20_comprasconenfoquedegenero.pdf": "https://goreatacama.gob.cl/wp-content/uploads/Directiva20_comprasconenfoquedegenero.pdf"
+  Geographic area:
+    Chile: green
+    Latin America and the Caribbean: default
+  Language:
+    Spanish: green
+  Length: 9
+  Organization: ChileCompra (Government of Chile)
+  SPP focus:
+    Social: purple
+    Environmental: orange
+  Sectors: {}
+  Type of guidance:
+    Enabling Framework: default
+  User:
+    Oversight Bodies: green
+    National Authorities: blue
+  Year: 2015
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Attachment</span></div>
-    </div>
-    <div class="notion-property notion-property__file property-676c5d6a"><span class="notion-pill pill-default"><span class="notion-semantic-string"><a href="https://goreatacama.gob.cl/wp-content/uploads/Directiva20_comprasconenfoquedegenero.pdf" class="notion-link link" target="_blank" rel="noopener noreferrer">https://goreatacama.gob.cl/wp-content/uploads/Directiva20_comprasconenfoquedegenero.pdf</a></span></span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographic area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-4a42587e"><span class="notion-pill pill-green first">Chile</span><span class="notion-pill pill-default">Latin America and the Caribbean</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Language</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5a713e3a"><span class="notion-pill pill-green first">Spanish</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Length</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-6e6a4562 notion-semantic-string">9</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Organization</span></div>
-    </div>
-    <p class="notion-property notion-property__text property-747b586a notion-semantic-string">ChileCompra (Government of Chile)</p>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>SPP focus</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-734a6f53"><span class="notion-pill pill-purple first">Social</span><span class="notion-pill pill-orange">Environmental</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Sectors</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3c523e4b"></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Type of guidance</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-495c696b"><span class="notion-pill pill-default first">Enabling Framework</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>User</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-3e6a6c4f"><span class="notion-pill pill-green first">Oversight Bodies</span><span class="notion-pill pill-blue">National Authorities</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Year</span></div>
-    </div>
-    <div class="notion-property notion-property__number property-7542545e notion-semantic-string">2015</div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
+

@@ -1,9 +1,9 @@
 ---
 permalink: "/open-data-measuring-progress/click-through-to-learn-more"
-title: "Click through to learn more"
+title: Click through to learn more
 full_width: true
 collection: true
-notion_id: "bcd7fee021e24e40ba6d27c444f643ef"
+notion_id: bcd7fee021e24e40ba6d27c444f643ef
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/open-data-measuring-progress/options-for-data-use" class="notion-link notion-collection-card__anchor">Options for data use</a>

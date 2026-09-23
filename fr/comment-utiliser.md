@@ -1,11 +1,11 @@
 ---
 permalink: "/comment-utiliser"
-title: "Comment utiliser"
+title: Comment utiliser
 description: "La structure de ce guide pratique suit le déroulement d’un processus de passation de marchés publics durables, des premières étapes visant à faciliter et suivre leur mise en place globale à l’échelle institutionnelle aux aspects qui doivent être pris en compte au moment de mettre en place des marchés publics durables concernant certaines catégories de marchés. Dans la dernière section, nous indiquons comment utiliser des pratiques de la commande publique ouverte et les données ouvertes pour favoriser et évaluer la réalisation d’objectifs de durabilité, comme la réduction des émissions de carbone ou l’égalité entre les genres."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Blue_Intro2.png"
 full_width: true
-notion_id: "a315f9eaaaf047838f081a80136d1b91"
+notion_id: a315f9eaaaf047838f081a80136d1b91
 ---
 {% columns %}
 {% column 0.25 html %}

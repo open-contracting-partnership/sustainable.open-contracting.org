@@ -1,6 +1,6 @@
 ---
 permalink: "/adopcin-de-cps"
-title: "Adopción de CPS"
+title: Adopción de CPS
 description: "Medir los niveles de adopción de CPS consiste en saber en qué medida los compradores públicos confían en la contratación pública sostenible, ya sea durante el proceso de contratación o después del hecho para permitir la identificación clara de la contratación social, ambiental o económica dentro de la licitación y la contratación."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

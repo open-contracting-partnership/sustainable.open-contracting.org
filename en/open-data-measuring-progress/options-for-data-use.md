@@ -1,28 +1,16 @@
 ---
 permalink: "/open-data-measuring-progress/options-for-data-use"
-title: "Options for data use"
+title: Options for data use
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
-notion_id: "ed83d8b6dc444be099d81abb9e2491ac"
+notion_id: ed83d8b6dc444be099d81abb9e2491ac
+properties:
+  Created: "Feb 9, 2023 7:39 PM"
+  "super:Link":
+    - "https://sustainable.open-contractring.org/options-for-data-use": "/open-data-measuring-progress/options-for-data-use"
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Created</span></div>
-    </div>
-    <div class="notion-property notion-property__date property-6d524e6a notion-semantic-string">Feb 9, 2023 7:39 PM</div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>super:Link</span></div>
-    </div>
-    <div class="notion-property notion-property__url property-727e7c4d notion-semantic-string"><a href="/open-data-measuring-progress/options-for-data-use" class="notion-link link" target="_blank" rel="noopener noreferrer">https://sustainable.open-contractring.org/options-for-data-use</a></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

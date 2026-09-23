@@ -1,9 +1,9 @@
 ---
 permalink: "/economic-development/getting-started-1"
-title: "Getting started"
+title: Getting started
 full_width: true
 collection: true
-notion_id: "ed5ef8c42a9249bfbb6a93965514c084"
+notion_id: ed5ef8c42a9249bfbb6a93965514c084
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/what-to-measure-1" class="notion-link notion-collection-card__anchor">What to measure?</a><img alt="What to measure?" loading="lazy" width="780" height="200" class="notion-collection-card__cover medium" style="object-fit:cover;object-position:center 50%" src="/assets/images/Asset_11b.jpg"/>

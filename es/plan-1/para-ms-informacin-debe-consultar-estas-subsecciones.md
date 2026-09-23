@@ -3,7 +3,7 @@ permalink: "/plan-1/para-ms-informacin-debe-consultar-estas-subsecciones"
 title: "Para más información, debe consultar estas subsecciones"
 full_width: true
 collection: true
-notion_id: "f0048abe2b0b4cb4acc440586fa3179a"
+notion_id: f0048abe2b0b4cb4acc440586fa3179a
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/establezca-un-entorno-habilitante" class="notion-link notion-collection-card__anchor">Establezca un entorno habilitante</a>

@@ -1,6 +1,6 @@
 ---
 permalink: "/herramientas-descargables"
-title: "Herramientas descargables"
+title: Herramientas descargables
 description: "\nPara cuando esté estableciendo su marco de trabajo:"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/download-circular-button_%281%29.png"

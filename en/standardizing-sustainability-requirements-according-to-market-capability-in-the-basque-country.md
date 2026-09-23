@@ -1,28 +1,18 @@
 ---
 permalink: "/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country"
-title: "Standardizing sustainability requirements according to market capability in the Basque Country"
+title: Standardizing sustainability requirements according to market capability in the Basque Country
 cover: "/assets/images/Europe_-_Basque_Country.png"
 cover_position: 53.64
 icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "79af7d66be2249ac82de0e55880bb66b"
+properties:
+  Geographical Area:
+    Basque Country: red
+    Europe: pink
+  Scope:
+    Regional: pink
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-red first">Basque Country</span><span class="notion-pill pill-pink">Europe</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-pink first">Regional</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

@@ -1,6 +1,6 @@
 ---
 permalink: "/gender-inclusion/getting-started"
-title: "Getting started"
+title: Getting started
 full_width: true
 collection: true
 notion_id: "680a29531e33415288c700657b4c8e93"

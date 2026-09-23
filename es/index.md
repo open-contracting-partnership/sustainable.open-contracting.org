@@ -1,6 +1,6 @@
 ---
 permalink: "/"
-title: "Inicio"
+title: Inicio
 description: "\nContratación sostenible requiere que los gobiernos compren de una forma fundamentalmente diferente. Esperamos que esta caja de herramientas le ayude a comenzar."
 cover: "/assets/images/Open_SPP_main_esp.png"
 cover_position: 84.77

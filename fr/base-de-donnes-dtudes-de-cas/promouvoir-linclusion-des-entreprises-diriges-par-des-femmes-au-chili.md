@@ -5,7 +5,7 @@ description: "En 2014, le Chili a fait des recherches afin d’évaluer le nombr
 cover: "/assets/images/LAC_-_Chile-2.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
-notion_id: "c5988b04586c4bdcac0f6e5314a80d04"
+notion_id: c5988b04586c4bdcac0f6e5314a80d04
 ---
 {% columns %}
 {% column 0.25 html %}

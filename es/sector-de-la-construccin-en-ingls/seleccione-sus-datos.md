@@ -1,11 +1,11 @@
 ---
 permalink: "/sector-de-la-construccin-en-ingls/seleccione-sus-datos"
-title: "Seleccione sus datos"
+title: Seleccione sus datos
 description: "Material use "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"
 full_width: true
-notion_id: "fec74fe3104a47f0bfcfad262e09d2ec"
+notion_id: fec74fe3104a47f0bfcfad262e09d2ec
 ---
 {% columns %}
 {% column 0.125 html %}

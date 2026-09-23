@@ -1,6 +1,6 @@
 ---
 permalink: "/mise-en-place-1/interagir-avec-le-march"
-title: "Interagir avec le marché"
+title: Interagir avec le marché
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Red2.png"
 full_width: true

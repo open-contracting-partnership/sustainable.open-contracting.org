@@ -1,11 +1,11 @@
 ---
 permalink: "/datos-abiertos-y-progreso-de-medicin/opciones-para-el-uso-de-datos"
-title: "Opciones para el uso de datos"
+title: Opciones para el uso de datos
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
-notion_id: "bf1a7ddadb794335b43bae25a834020c"
+notion_id: bf1a7ddadb794335b43bae25a834020c
 ---
 {% columns %}
 {% column 0.1278 html %}

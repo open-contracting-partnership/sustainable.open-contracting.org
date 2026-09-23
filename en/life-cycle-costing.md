@@ -1,11 +1,11 @@
 ---
 permalink: "/life-cycle-costing"
-title: "Life cycle costing"
+title: Life cycle costing
 description: "Life-cycle costing, or total cost of ownership refers to the accounting practice of determining the compound cost of an asset. In the context of procurement, buyers use life-cycle costing to evaluate the entire cost of owning something, typically a machine of some kind. So the life cycle costing associated with a piece of equipment might include the original purchase, operating costs, any licensing costs, maintenance costs and disposal costs. Other elements that can be considered are failure costs and the cost of replacing parts."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"
 full_width: true
-notion_id: "fdc60ea0ebd048f4b5603e4aec22360d"
+notion_id: fdc60ea0ebd048f4b5603e4aec22360d
 ---
 {% columns %}
 {% column 0.25 html %}

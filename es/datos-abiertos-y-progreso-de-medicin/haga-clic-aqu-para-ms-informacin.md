@@ -1,9 +1,9 @@
 ---
 permalink: "/datos-abiertos-y-progreso-de-medicin/haga-clic-aqu-para-ms-informacin"
-title: "Haga clic aquí para más información"
+title: Haga clic aquí para más información
 full_width: true
 collection: true
-notion_id: "a08fcfdc88344818a66667e68174b97e"
+notion_id: a08fcfdc88344818a66667e68174b97e
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/opciones-para-el-uso-de-datos" class="notion-link notion-collection-card__anchor">Opciones para el uso de datos</a>

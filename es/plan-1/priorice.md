@@ -1,6 +1,6 @@
 ---
 permalink: "/plan-1/priorice"
-title: "Priorice"
+title: Priorice
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/icons_D_Green2.png"
 full_width: true

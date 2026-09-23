@@ -1,28 +1,18 @@
 ---
 permalink: "/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland"
-title: "Engaging with the market to facilitate supplier collaboration in Scotland"
+title: Engaging with the market to facilitate supplier collaboration in Scotland
 description: "In 2006, Scotland’s Forth Road Bridge showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. Due to the complexity of the project, Transport Scotland decided to engage with the market in order to gain knowledge and assess the procurement plan. \n\nThis was done by organising an Industry Day with top contractors, where a Questionnaire was distributed. Following this, bilateral conversations were established with suppliers to come up with the best possible plan. These activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements. Following this, bilateral conversations were established with suppliers to come up with the best possible plan.\n\nThese activities shaped many aspects of the procurement procedure, including contract details and the employer’s requirements."
 cover: "/assets/images/Europe_-_Scotland.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
 notion_id: "00e901e2651e4db588f8d3a2b6f0a05b"
+properties:
+  Geographical Area:
+    Scotland: orange
+    Europe: pink
+  Scope:
+    Local: blue
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-orange first">Scotland</span><span class="notion-pill pill-pink">Europe</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-blue first">Local</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.1278 html %}
 {% include sidebar-en.html %}

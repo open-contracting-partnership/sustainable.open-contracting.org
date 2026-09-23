@@ -1,6 +1,6 @@
 ---
 permalink: "/ladoption-des-pratiques-durables"
-title: "L’adoption des pratiques durables"
+title: L’adoption des pratiques durables
 description: "L’évaluation du degré d’adoption des pratiques durables de passation de marchés suppose de déterminer dans quelle mesure les acheteurs publics ont recours aux marchés publics durables, durant les processus de passation de marchés ou ultérieurement, afin de pouvoir repérer clairement les marchés produisant des effets en matière sociale, environnementale et économique lors des appels d’offres et de l’engagement de fournisseurs."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

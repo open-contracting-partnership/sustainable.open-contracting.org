@@ -1,11 +1,11 @@
 ---
 permalink: "/plan-1"
-title: "Plan"
+title: Plan
 description: "En esta sección le proporcionamos toda la información necesaria para empezar. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación. Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Notion-How_to.png"
 full_width: true
-notion_id: "a2895d9856264842a71877737c547f3c"
+notion_id: a2895d9856264842a71877737c547f3c
 ---
 {% columns %}
 {% column 0.25 html %}

@@ -218,6 +218,84 @@ def parse_page(content):
     return data, content[article.end() : end - len("</article>")]
 
 
+def parse_properties(content):
+    """
+    Return a database item's properties and the rest of its content, or None and the content.
+
+    Pills are a mapping of values to colors, attachments and URLs are a list of mappings of text to URLs, numbers are
+    numbers, and dates and text are strings.
+    """
+    nodes = markdown.parse(content)
+    if (
+        not nodes
+        or isinstance(nodes[0], str)
+        or nodes[0].attrs != {"class": "notion-page__properties"}
+    ):
+        return None, content
+    block = nodes[0]
+    children = markdown.elements(block)
+    if not children or children[-1].cls != "notion-divider" or children[-1].children:
+        return None, content
+    properties = {}
+    for child in children[:-1]:
+        parts = markdown.elements(child)
+        if (
+            child.attrs != {"class": "notion-page__property"}
+            or not parts
+            or len(parts) > 2
+        ):
+            return None, content
+        name = re.fullmatch(
+            r'<div class="notion-page__property-name-wrapper"><div class="notion-page__property-name"><span>([^<]*)</span></div></div>',
+            content[parts[0].start : parts[0].end],
+        )
+        if not name or html.unescape(name.group(1)) in properties:
+            return None, content
+        value = property_value(parts[1], content) if len(parts) == 2 else (None,)
+        if value is False:
+            return None, content
+        properties[html.unescape(name.group(1))] = value[0]
+    return properties, content[block.end :]
+
+
+def property_value(node, content):
+    """Return a property's value as a 1-tuple, or False."""
+    cls = re.sub(r" property-[0-9a-f]+", "", node.cls)
+    text = content[node.start + len(node.tag) : node.end - len(f"</{node.name}>")]
+    if cls == "notion-property notion-property__select wrap":
+        pills = re.findall(
+            r'<span class="notion-pill pill-(\w+)(?: first)?">([^<]*)</span>', text
+        )
+        values = {html.unescape(value): color for color, value in pills}
+        if "".join(re.findall(r"<span .*?</span>", text)) != text or len(values) != len(
+            pills
+        ):
+            return False
+        return (values,)
+    if cls in (
+        "notion-property notion-property__number notion-semantic-string",
+    ) and re.fullmatch(r"-?\d+(\.\d+)?", text):
+        return (float(text) if "." in text else int(text),)
+    if (
+        cls
+        in (
+            "notion-property notion-property__text notion-semantic-string",
+            "notion-property notion-property__date notion-semantic-string",
+        )
+        and "<" not in text
+    ):
+        return (html.unescape(text),)
+    if cls in (
+        "notion-property notion-property__file",
+        "notion-property notion-property__url notion-semantic-string",
+    ):
+        links = re.findall(
+            r'<a (?:class="notion-link link" )?href="([^"]*)"[^>]*>([^<]*)</a>', text
+        )
+        return ([{html.unescape(label): html.unescape(href)} for href, label in links],)
+    return False
+
+
 def sidebar(content):
     """Return the content of the first column, if it starts with a link to the homepage."""
     match = SIDEBAR.search(content)
@@ -287,15 +365,39 @@ def meta(head, attribute, name):
     return match and html.unescape(match.group(1))
 
 
+def scalar(value):
+    """Return a scalar as YAML, quoting strings (as JSON) only if necessary."""
+    if (
+        isinstance(value, str)
+        and re.fullmatch(r"[^\W\d_][^:#\n\"'{}\[\],&*!|>%@`]*", value)
+        and value == value.strip()
+        and value.lower()
+        not in ("true", "false", "yes", "no", "on", "off", "null", "y", "n")
+    ):
+        return value
+    return json.dumps(value, ensure_ascii=False)
+
+
+def yaml(value, depth=0):
+    """Return a value as YAML, in block style for mappings and lists."""
+    pad = "  " * depth
+    if isinstance(value, dict) and value:
+        lines = []
+        for key, item in value.items():
+            separator = "" if isinstance(item, (dict, list)) and item else " "
+            lines.append(f"\n{pad}{scalar(key)}:{separator}{yaml(item, depth + 1)}")
+        return "".join(lines)
+    if isinstance(value, list) and value:
+        return "".join(f"\n{pad}- {yaml(item, depth + 1).lstrip()}" for item in value)
+    return scalar(value)
+
+
 def front_matter(data):
-    return (
-        "---\n"
-        + "".join(
-            f"{key}: {json.dumps(value, ensure_ascii=False)}\n"
-            for key, value in data.items()
-        )
-        + "---\n"
-    )
+    lines = []
+    for key, value in data.items():
+        separator = "" if isinstance(value, (dict, list)) and value else " "
+        lines.append(f"{key}:{separator}{yaml(value, 1)}\n")
+    return "---\n" + "".join(lines) + "---\n"
 
 
 def main():
@@ -377,6 +479,7 @@ def main():
             lambda m: rewrite_link(m, lang, live_paths, redirects, links), content
         )
         data, content = parse_page(content)
+        properties, content = parse_properties(content)
         data = {
             "permalink": path,
             "title": fix_spaces(
@@ -388,6 +491,8 @@ def main():
             "notion_id": r["pageId"],
         }
         data = {key: value for key, value in data.items() if value is not None}
+        if properties is not None:
+            data["properties"] = properties
         pages.append((lang, path, data, content))
 
     # Each language's sidebar is the most common content of a column that starts with a link to the homepage.

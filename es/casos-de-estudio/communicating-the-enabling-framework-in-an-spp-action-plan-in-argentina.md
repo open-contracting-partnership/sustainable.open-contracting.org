@@ -1,6 +1,6 @@
 ---
 permalink: "/casos-de-estudio/communicating-the-enabling-framework-in-an-spp-action-plan-in-argentina"
-title: "Communicating the enabling framework in an SPP Action Plan in Argentina"
+title: Communicating the enabling framework in an SPP Action Plan in Argentina
 cover: "/assets/images/LAC_-_Argentina.png"
 cover_position: 54.27
 icon: "/assets/images/Notion-others2.png"

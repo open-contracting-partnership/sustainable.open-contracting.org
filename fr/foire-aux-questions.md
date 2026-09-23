@@ -1,6 +1,6 @@
 ---
 permalink: "/foire-aux-questions"
-title: "Foire aux questions"
+title: Foire aux questions
 description: "Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires. "
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/NOTION_square_FAQ.png"

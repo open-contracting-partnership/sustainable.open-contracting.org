@@ -5,6 +5,10 @@ defaults:
       path: ""
     values:
       layout: default
+# Database items' properties whose values are dates and URLs, for the {% properties %} tag.
+notion:
+  date_properties: [Created]
+  url_properties: ["super:Link"]
 # Output text as written: no heading IDs, curly quotes or typographic symbols.
 kramdown:
   auto_ids: false

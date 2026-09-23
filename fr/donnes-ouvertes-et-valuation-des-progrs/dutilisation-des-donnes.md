@@ -1,6 +1,6 @@
 ---
 permalink: "/donnes-ouvertes-et-valuation-des-progrs/dutilisation-des-donnes"
-title: "D’utilisation des données"
+title: D’utilisation des données
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

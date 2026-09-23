@@ -1,6 +1,6 @@
 ---
 permalink: "/ressources-pratiques"
-title: "Ressources pratiques"
+title: Ressources pratiques
 description: "\nPour quand vous avez besoin d'un résumé rapide"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/download-circular-button_%281%29.png"

@@ -1,6 +1,6 @@
 ---
 permalink: "/linclusion-des-genres"
-title: "L’inclusion des genres"
+title: L’inclusion des genres
 description: "Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Light_Green2.png"

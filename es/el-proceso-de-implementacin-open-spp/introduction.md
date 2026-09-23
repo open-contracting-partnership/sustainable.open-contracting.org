@@ -1,6 +1,6 @@
 ---
 permalink: "/el-proceso-de-implementacin-open-spp/introduction"
-title: "Introduction"
+title: Introduction
 cover: "/assets/images/PUBLIC_SPP_covers.png"
 icon: "/assets/images/Icons_Blue_Intro.png"
 full_width: true

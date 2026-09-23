@@ -1,6 +1,6 @@
 ---
 permalink: "/establezca-criterios-de-sostenibilidad"
-title: "Establezca criterios de sostenibilidad"
+title: Establezca criterios de sostenibilidad
 description: "En última instancia, implementar una CPS Abierta significa comprar bienes, servicios y obras de la manera más sostenible, es decir, minimizar las externalidades negativas, como las emisiones de CO2, y maximizar el impacto social y económico positivo. Además de definir claramente cuáles son las necesidades reales y evitar compras innecesarias, esto también significa seleccionar la opción más sostenible una vez que se publique la licitación. Para hacer esto, las autoridades públicas deben introducir criterios de sostenibilidad en el proceso de contratación y comunicar abiertamente cómo se evaluará a los proveedores en relación con él."
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Red2.png"

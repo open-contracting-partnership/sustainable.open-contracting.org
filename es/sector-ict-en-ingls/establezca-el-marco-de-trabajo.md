@@ -1,6 +1,6 @@
 ---
 permalink: "/sector-ict-en-ingls/establezca-el-marco-de-trabajo"
-title: "Establezca el marco de trabajo"
+title: Establezca el marco de trabajo
 description: "The application of Open SPP when procuring ICT equipment can be guided by the existence of certain compliance frameworks that address some of the sustainability challenges in the sector. These can include:"
 cover: "/assets/images/PUBLIC_SPP_background.jpg"
 icon: "/assets/images/Icons_Grey6.png"

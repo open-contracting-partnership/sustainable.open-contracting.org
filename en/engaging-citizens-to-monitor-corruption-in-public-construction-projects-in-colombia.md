@@ -1,28 +1,18 @@
 ---
 permalink: "/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia"
-title: "Engaging citizens to monitor corruption in public construction projects in Colombia"
+title: Engaging citizens to monitor corruption in public construction projects in Colombia
 description: "In Colombia, corruption is estimated to cost the country around 7.5 billion USD a year. To work towards tackling this problem, the Transparency Secretariat decided to engage citizens in monitoring activities, and developed the Elefantes Blancos app. \n The Elefantes Blancos, or “white elephants”, app allows Colombian citizens to upload photos of abandoned and incomplete construction projects across the country. Citizens can also include information on the procurement agency responsible for the project, as well as its name and value. Users of the app can vote for the most disliked project, and government prioritizes investigations based on the most frequently reported “white elephants”. \n The app was introduced in 2013 and, by 2017, the Transparency Secretariat had 54 projects valued at 163 million USD. "
 cover: "/assets/images/LAC_-_Colombia.png"
 icon: "/assets/images/Notion-others2.png"
 full_width: true
-notion_id: "a08f4d9058f14d8a98097faa7492ba45"
+notion_id: a08f4d9058f14d8a98097faa7492ba45
+properties:
+  Geographical Area:
+    Colombia: green
+    Latin America and the Caribbean: yellow
+  Scope:
+    National: gray
 ---
-<div class="notion-page__properties">
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Geographical Area</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-5e425f3e"><span class="notion-pill pill-green first">Colombia</span><span class="notion-pill pill-yellow">Latin America and the Caribbean</span></div>
-  </div>
-  <div class="notion-page__property">
-    <div class="notion-page__property-name-wrapper">
-      <div class="notion-page__property-name"><span>Scope</span></div>
-    </div>
-    <div class="notion-property notion-property__select wrap property-6a49544a"><span class="notion-pill pill-gray first">National</span></div>
-  </div>
-  <div class="notion-divider"></div>
-</div>
-
 {% columns %}
 {% column 0.125 html %}
 {% include sidebar-en.html %}

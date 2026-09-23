@@ -1,9 +1,9 @@
 ---
 permalink: "/planification/cliquez-sur-une-section-pour-en-savoir-plus"
-title: "Cliquez sur une section pour en savoir plus"
+title: Cliquez sur une section pour en savoir plus
 full_width: true
 collection: true
-notion_id: "ffa8969118b14288b12ab4bb6cbcad61"
+notion_id: ffa8969118b14288b12ab4bb6cbcad61
 ---
 <div class="notion-collection-gallery medium">
   <div class="notion-collection-card gallery"><a href="/establish-an-enabling-environment" class="notion-link notion-collection-card__anchor">Mise en place</a>

@@ -1,9 +1,9 @@
 ---
 permalink: "/base-de-donnes-dtudes-de-cas/europe"
-title: "Europe"
+title: Europe
 full_width: true
 collection: true
-notion_id: "b8477f5c4266465eaea24d9f6a19ad9f"
+notion_id: b8477f5c4266465eaea24d9f6a19ad9f
 ---
 <div class="notion-collection-gallery large">
   <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country" class="notion-link notion-collection-card__anchor">Standardizing sustainability requirements according to market capability in the Basque Country</a><img alt="Standardizing sustainability requirements according to market capability in the Basque Country" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Basque_Country.png"/></div>
