@@ -1,0 +1,7 @@
+.crawl/
+.jekyll-cache/
+.bundle/
+_site/
+vendor/
+.DS_Store
+Export-*/

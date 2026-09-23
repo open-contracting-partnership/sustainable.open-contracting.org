@@ -1,0 +1,2 @@
+# Build one site at a time, e.g.: bundle exec jekyll serve --config _config.yml,_config.en.yml
+include: [_redirects]
