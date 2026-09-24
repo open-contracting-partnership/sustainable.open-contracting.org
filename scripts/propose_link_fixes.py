@@ -1,11 +1,13 @@
 """
-Write link-fixes.csv: each broken link's path in the built sites, and a proposed target to review.
+Write link-fixes.csv: each broken link's path in the built sites, by the language of the pages that link to it, and
+a proposed target to review.
 
     uv run scripts/propose_link_fixes.py
 
-Build the sites first. A target is proposed if the links' text is the title of exactly one non-empty page on the
-same site. Rows already in link-fixes.csv keep their targets. import_pages.py redirects each path with a target, and
-relinks its links.
+Build the sites first. A target is a path on the linking pages' site (the "from" column), or a URL. It is proposed
+if the links' text is the title of exactly one non-empty page on that site. Rows already in link-fixes.csv keep their
+targets. import_pages.py redirects each path with a target from its own site, and relinks the links to it from other
+sites. The file has a UTF-8 byte order mark, so that spreadsheets read it as UTF-8.
 """
 
 import collections
@@ -20,7 +22,15 @@ from check_links import DOMAINS, SITE, broken_links
 
 ROOT = Path(__file__).resolve().parent.parent
 FIXES = ROOT / "link-fixes.csv"
-HEADER = ["site", "path", "target", "proposed because", "link texts", "linked from"]
+HEADER = [
+    "from",
+    "site",
+    "path",
+    "target",
+    "proposed because",
+    "link texts",
+    "linked from",
+]
 
 
 def title_key(title):
@@ -47,9 +57,12 @@ def main():
 
     existing = {}
     if FIXES.exists():
-        with FIXES.open() as f:
-            existing = {(row["site"], row["path"]): row for row in csv.DictReader(f)}
+        with FIXES.open(encoding="utf-8-sig") as f:
+            for row in csv.DictReader(f):
+                row.setdefault("from", row["site"])
+                existing[(row["from"], row["site"], row["path"])] = row
 
+    # Links' texts, by the linking page's site and the link's site and path.
     texts = collections.defaultdict(set)
     for lang in DOMAINS.values():
         for file in sorted((SITE / lang).rglob("*.html")):
@@ -62,17 +75,23 @@ def main():
                     path = urllib.parse.unquote(url.path).rstrip("/") or "/"
                     text = html.unescape(re.sub(r"<[^>]*>", "", match.group(2))).strip()
                     if text:
-                        texts[(target, path)].add(text)
+                        texts[(lang, target, path)].add(text)
 
-    broken = broken_links()
+    broken = collections.defaultdict(set)
+    for (site, path), pages in broken_links().items():
+        for page in pages:
+            lang, _, page_path = page.partition(":")
+            broken[(lang, site, path)].add(page_path)
+
     # Reviewed fixes are kept, including those whose links are no longer broken.
     rows = [
         [row[key] for key in HEADER]
         for key, row in existing.items()
         if row["target"] and key not in broken
     ]
-    for (lang, path), pages in sorted(broken.items()):
-        link_texts = sorted(texts[(lang, path)])
+    for key, pages in sorted(broken.items()):
+        lang, site, path = key
+        link_texts = sorted(texts[key])
         matches = set().union(
             *(titles.get((lang, title_key(text)), set()) for text in link_texts)
         )
@@ -92,12 +111,13 @@ def main():
             because = (
                 f"no target: {len(matches)} pages have the link text as their title"
             )
-        if (lang, path) in existing:
-            target = existing[(lang, path)]["target"]
-            because = existing[(lang, path)]["proposed because"]
+        if key in existing:
+            target = existing[key]["target"]
+            because = existing[key]["proposed because"]
         rows.append(
             [
                 lang,
+                site,
                 path,
                 target,
                 because,
@@ -106,12 +126,12 @@ def main():
             ]
         )
 
-    with FIXES.open("w", newline="") as f:
+    with FIXES.open("w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f, lineterminator="\n")
         writer.writerow(HEADER)
         writer.writerows(sorted(rows))
     print(
-        f"{sum(bool(row[2]) for row in rows)} of {len(rows)} broken links have a target"
+        f"{sum(bool(row[3]) for row in rows)} of {len(rows)} broken links have a target"
     )
 
 

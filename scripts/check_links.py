@@ -38,7 +38,21 @@ def exists(lang, path, redirects):
 
 
 def broken_links():
-    """Return the paths of broken links, by site and path, mapped to the pages that link to them."""
+    """
+    Return the paths of broken links, by site and path, mapped to the pages that link to them.
+
+    A link from another site to a path with a fix in link-fixes.csv is broken, since the fix is for links from the
+    path's own site.
+    """
+    fixed = set()
+    if (ROOT / "link-fixes.csv").exists():
+        with (ROOT / "link-fixes.csv").open(encoding="utf-8-sig") as f:
+            fixed = {
+                (row["site"], row["path"])
+                for row in csv.DictReader(f)
+                if row["target"] and row.get("from", row["site"]) == row["site"]
+            }
+
     redirects = {}
     for lang in DOMAINS.values():
         redirects[lang] = {
@@ -62,7 +76,9 @@ def broken_links():
                 else:
                     continue
                 path = urllib.parse.unquote(url.path).rstrip("/") or "/"
-                if not exists(target, path, redirects):
+                if not exists(target, path, redirects) or (
+                    target != lang and (target, path) in fixed
+                ):
                     broken[(target, path)].add(f"{lang}:{page}")
     return broken
 

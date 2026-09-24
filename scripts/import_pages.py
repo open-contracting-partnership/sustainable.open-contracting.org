@@ -581,11 +581,12 @@ def duplicates(pages, live_paths):
     return moved
 
 
-def rewrite_link(match, lang, live, redirects, counter):
+def rewrite_link(match, lang, live, redirects, fixes, counter):
     """
     Make a link to a site's page relative (or absolute to its domain), skipping any redirect.
 
-    Add a redirect for a link to a page that doesn't exist, if a live page clearly replaces it.
+    Add a redirect for a link to a page that doesn't exist, if a live page clearly replaces it. A link from another
+    language's site to a page that doesn't exist links to its fix's target, on this page's site (or a URL).
     """
     href = html.unescape(match.group(1))
     url = urllib.parse.urlsplit(href)
@@ -605,6 +606,12 @@ def rewrite_link(match, lang, live, redirects, counter):
     else:
         return match.group(0)
     path = urllib.parse.unquote(url.path).rstrip("/") or "/"
+    if fixed := fixes.get((lang, target, path)):
+        counter["fixed from another site"] += 1
+        return f'href="{html.escape(fixed if fixed.startswith("https://") else urllib.parse.quote(fixed))}"'
+    # A fix for links from the path's own site doesn't apply to links from other sites, which stay broken.
+    if target != lang and (target, path) in fixes:
+        return f'href="{html.escape(f"https://{DOMAINS[target]}{urllib.parse.quote(path)}")}"'
     path = redirects[target].get(path, path)
     if path.startswith("https://"):
         counter["fixed to another site"] += 1
@@ -746,14 +753,20 @@ def main():
             source: target for source, target in rules.items() if source != target
         }
 
-    # Broken links' reviewed targets (a path on the same site, or a URL), from link-fixes.csv.
+    # Broken links' reviewed targets (a path on the linking pages' site, or a URL), from link-fixes.csv. A fix for
+    # links from the broken link's own site is a redirect, and a fix for links from another site is a link.
+    fixes = {}
     if (ROOT / "link-fixes.csv").exists():
-        with (ROOT / "link-fixes.csv").open() as f:
+        with (ROOT / "link-fixes.csv").open(encoding="utf-8-sig") as f:
             for row in csv.DictReader(f):
                 # A path can be a page again, if its page's path was canonicalized.
                 if row["target"] and row["path"] not in live_paths[row["site"]]:
-                    target = renamed[row["site"]].get(row["target"], row["target"])
-                    redirects[row["site"]][row["path"]] = target
+                    target = renamed[row["from"]].get(row["target"], row["target"])
+                    if row["from"] == row["site"]:
+                        redirects[row["site"]][row["path"]] = target
+                        fixes[(row["site"], row["path"])] = target
+                    else:
+                        fixes[(row["from"], row["site"], row["path"])] = target
 
     links = collections.Counter()
     pages = []
@@ -766,7 +779,7 @@ def main():
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)
         content = fix_text_spaces(clean(localize(content)), lang)
         content = HREF.sub(
-            lambda m: rewrite_link(m, lang, live_paths, redirects, links), content
+            lambda m: rewrite_link(m, lang, live_paths, redirects, fixes, links), content
         )
         data, content = parse_page(content)
         properties, content = parse_properties(content)

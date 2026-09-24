@@ -6,7 +6,7 @@ icon: /assets/images/icons_D_Green5.png
 notion_id: d679f51442ce457abbd9dcdc1a3db291
 ---
 {% callout green /assets/images/icons_D_Green4.png %}
-The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](https://sustainable.open-contracting.org/establish-an-enabling-environment)
+The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](https://sustainable.open-contracting.org/get-started/establish-a-framework)
  in the [Open SPP toolkit.](https://sustainable.open-contracting.org/980ec1cc6e04494196f185047e0a9f2a)
 {% endcallout %}
 
