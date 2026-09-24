@@ -20,4 +20,3 @@ properties:
   Hyperlien vers les critères:
     - Produits de A à Z.html: "https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html"
 ---
-

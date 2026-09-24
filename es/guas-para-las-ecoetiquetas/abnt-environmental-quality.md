@@ -21,4 +21,3 @@ properties:
   Enlace a criterios:
     - Critérios: "https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
 ---
-

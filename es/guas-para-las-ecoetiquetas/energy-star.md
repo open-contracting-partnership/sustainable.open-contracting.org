@@ -21,4 +21,3 @@ properties:
   Enlace a criterios:
     - Products list: "https://www.energystar.gov/products/products-list"
 ---
-

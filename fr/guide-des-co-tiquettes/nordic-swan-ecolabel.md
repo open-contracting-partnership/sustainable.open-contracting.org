@@ -12,4 +12,3 @@ properties:
     Oui: pink
   Hyperlien vers les critères: null
 ---
-

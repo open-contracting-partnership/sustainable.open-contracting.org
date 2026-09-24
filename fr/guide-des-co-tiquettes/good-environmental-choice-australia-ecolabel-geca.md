@@ -21,4 +21,3 @@ properties:
   Hyperlien vers les critères:
     - Normes GECA: "https://geca.eco/"
 ---
-

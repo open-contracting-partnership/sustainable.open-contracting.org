@@ -44,13 +44,9 @@ En primer lugar, es importante para la determinación de prioridades de categor�
 
 {% toggle <strong>Valor<br></strong>El valor hace referencia al presupuesto total asociado con la categoría de contratación, si miras al número de contratos asociados con ella. %}
 
-
-
 {% endtoggle %}
 
 {% toggle <strong>Frecuencia de contratación<br></strong>Se debe establecer la frecuencia de contratos para cada categoría, es decir, la cantidad de contratos asociada con una categoría de contratación durante un periodo determinado. %}
-
-
 
 {% endtoggle %}
 

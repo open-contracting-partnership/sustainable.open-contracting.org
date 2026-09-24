@@ -22,4 +22,3 @@ properties:
     Economic: green
   Length: 21
 ---
-

@@ -26,4 +26,3 @@ properties:
     National Authorities: blue
   Year: 2021
 ---
-

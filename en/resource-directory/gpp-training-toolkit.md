@@ -35,4 +35,3 @@ properties:
     Procurement Teams: brown
   Year: 2019
 ---
-

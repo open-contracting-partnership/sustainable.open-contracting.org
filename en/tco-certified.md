@@ -15,4 +15,3 @@ properties:
   "Type ":
     Type I: green
 ---
-

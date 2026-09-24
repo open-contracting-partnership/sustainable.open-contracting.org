@@ -27,4 +27,3 @@ properties:
     Social: purple
   Length: 4
 ---
-

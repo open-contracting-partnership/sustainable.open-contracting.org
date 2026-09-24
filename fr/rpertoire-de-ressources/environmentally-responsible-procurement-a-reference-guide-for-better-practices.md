@@ -20,4 +20,3 @@ properties:
     Environmental: orange
   Length: 86
 ---
-

@@ -15,4 +15,3 @@ properties:
   Hyperlien vers les critères:
     - Documents complets relatifs aux critères de TCO Certified: "https://tcocertified.com/criteria-documents/"
 ---
-

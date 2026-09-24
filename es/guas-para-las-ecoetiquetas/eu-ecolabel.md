@@ -20,4 +20,3 @@ properties:
   Enlace a criterios:
     - Product groups and criteria.html: "https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html"
 ---
-

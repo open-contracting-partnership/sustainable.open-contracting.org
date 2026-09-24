@@ -25,4 +25,3 @@ properties:
     Procurement Teams: brown
   Year: null
 ---
-

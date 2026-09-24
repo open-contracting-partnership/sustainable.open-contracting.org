@@ -21,4 +21,3 @@ properties:
   Enlace a criterios:
     - GECA Standards: "https://geca.eco/"
 ---
-

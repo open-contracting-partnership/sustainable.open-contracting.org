@@ -20,4 +20,3 @@ properties:
   Hyperlien vers les critères:
     - Products A-Z: "https://www.blauer-engel.de/en/products/products-list-a-z"
 ---
-

@@ -21,4 +21,3 @@ properties:
   Hyperlien vers les critères:
     - Critères: "https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
 ---
-

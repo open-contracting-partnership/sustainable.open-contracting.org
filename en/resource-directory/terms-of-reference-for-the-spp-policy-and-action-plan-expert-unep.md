@@ -27,4 +27,3 @@ properties:
     National Authorities: blue
   Year: null
 ---
-

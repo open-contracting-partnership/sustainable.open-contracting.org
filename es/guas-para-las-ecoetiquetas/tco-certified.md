@@ -15,4 +15,3 @@ properties:
   Enlace a criterios:
     - Complete criteria documents for TCO Certified: "https://tcocertified.com/criteria-documents/"
 ---
-

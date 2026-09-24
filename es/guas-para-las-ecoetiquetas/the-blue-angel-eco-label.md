@@ -21,4 +21,3 @@ properties:
   Enlace a criterios:
     - Products A-Z: "https://www.blauer-engel.de/en/products/products-list-a-z"
 ---
-

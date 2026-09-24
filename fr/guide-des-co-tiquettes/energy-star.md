@@ -19,4 +19,3 @@ properties:
   Hyperlien vers les critères:
     - Liste de produits: "https://www.energystar.gov/products/products-list"
 ---
-

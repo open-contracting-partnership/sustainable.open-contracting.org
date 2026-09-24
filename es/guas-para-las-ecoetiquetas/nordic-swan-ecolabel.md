@@ -12,4 +12,3 @@ properties:
     Si: pink
   Enlace a criterios: null
 ---
-
