@@ -7,7 +7,7 @@ notion_id: "1a144e82589b4729b2107b7d87bc276c"
 ---
 {% gallery medium %}
 - title: D’utilisation des données
-  link: /donnes-ouvertes-et-valuation-des-progrs/dutilisation-des-donnes
+  link: /possibilits-dutilisation-des-donnes
   icon: /assets/images/Icons_Light_Green2.png
 - title: L’adoption des pratiques durables
   link: /ladoption-des-pratiques-durables

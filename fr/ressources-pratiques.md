@@ -36,4 +36,4 @@ sidebar: true
 
 **Pour quand vous explorez des possibilités d’utilisation des données:**
 
-- [Table des possibilités d’utilisation des données](/donnes-ouvertes-et-valuation-des-progrs/dutilisation-des-donnes)
+- [Table des possibilités d’utilisation des données](/possibilits-dutilisation-des-donnes)

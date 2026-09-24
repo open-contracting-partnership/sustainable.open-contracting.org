@@ -313,11 +313,12 @@ def main():
             *(titles.get((lang, title_key(text)), set()) for text in link_texts)
         )
         target, because = "", ""
-        if len(matches) == 1:
+        # The other versions' links are better evidence than a title, which a placeholder can have.
+        if len({target for target, _, _ in proposals[key]}) == 1:
+            target, because, _ = sorted(proposals[key])[0]
+        elif len(matches) == 1:
             target = matches.pop()
             because = "link text is its title"
-        elif len({target for target, _, _ in proposals[key]}) == 1:
-            target, because, _ = sorted(proposals[key])[0]
         elif lang == site == "en" and len(english_targets[path]) == 1:
             target = next(iter(english_targets[path]))
             because = "the English versions of Spanish or French pages with this link link to this target instead"
