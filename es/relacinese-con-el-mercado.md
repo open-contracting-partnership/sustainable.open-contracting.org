@@ -22,7 +22,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
 - **Evaluación de la capacidad del mercado**
 
-  Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta <em> </em> constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
+  Al decidir qué categorías de contratación priorizar o considerar qué criterios de sostenibilidad deben introducirse en los contratos de contratación pública, es esencial evaluar la capacidad del mercado. Una evaluación exitosa de la capacidad del mercado garantizará que una CPS Abierta constituya una oportunidad para aprovechar el trabajo de sostenibilidad que llevan a cabo los proveedores locales, al mismo tiempo que lo utiliza como una herramienta para promover la innovación y desarrollar progresivamente la capacidad del mercado.
 - **Maximizar la oferta de proveedores por oportunidades de contrato**
 
   Las actividades de participación en el mercado servirán para promover las oportunidades de licitación, lo que puede resultar en un aumento del número de postores en las licitaciones de contratación pública. Poder elegir entre diferentes proveedores, incluidos aquellos que quizás no hayan considerado la contratación pública antes, aumenta las posibilidades de encontrar la mejor solución a las necesidades identificadas.

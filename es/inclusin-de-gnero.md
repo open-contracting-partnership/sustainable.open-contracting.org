@@ -61,7 +61,7 @@ Al comienzo de esta sección, presentamos diez formas diferentes en las que pued
 
 - **Registre los datos del proveedor en la presentación de la oferta (Opción 8)**
 
-  OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/)<strong> </strong>publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/).<strong> </strong>Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
+  OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/) publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
 
 {% indent %}
 

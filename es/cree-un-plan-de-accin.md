@@ -120,7 +120,7 @@ Muchas de las actividades asociadas con la implementación de CPS Abierta necesi
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Estudio de caso
-<br>En 2021, el País Vasco en España publicó el</strong> [Programa De Compra Y Contratación Verde De Euskadi](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years).<strong> </strong>El programa es una continuación de los planes de acción anteriores publicadas entre 2011 y 2016, y en esta ocasión incluyó una hoja de ruta para 20:30. El plan presenta 10 líneas de acción que se implementarán entre 2021 y 2030. **La página 36 ofrece una visión clara del presupuesto asignado a cada línea de acción, cuyo valor total es de €1.590.000 en los próximos 10 años.**
+<br>En 2021, el País Vasco en España publicó el</strong> [Programa De Compra Y Contratación Verde De Euskadi](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years). El programa es una continuación de los planes de acción anteriores publicadas entre 2011 y 2016, y en esta ocasión incluyó una hoja de ruta para 20:30. El plan presenta 10 líneas de acción que se implementarán entre 2021 y 2030. **La página 36 ofrece una visión clara del presupuesto asignado a cada línea de acción, cuyo valor total es de €1.590.000 en los próximos 10 años.**
 {% endcallout %}
 
 {% endtoggle %}

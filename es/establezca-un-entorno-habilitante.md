@@ -107,7 +107,7 @@ Este proceso le ayudará a establecer confianza en el mercado de proveedores y e
 
 Al contemplar la implementación de prácticas de CPS Abierta por primera vez, podría ser útil aprender de otros equipos que están trabajando también en iniciativas de CPS. Esas redes ofrecen una oportunidad de compartir opiniones y mejores prácticas abiertamente, y de aprender una de otra.
 
-Algunas de las redes clave de mejores prácticas internacionales son:<strong></strong>
+Algunas de las redes clave de mejores prácticas internacionales son:
 
 - [The East African Procurement Forum (EAPF)](http://ppra.go.ke/eapf/)
 - [ICLEI Africa](https://africa.iclei.org/)

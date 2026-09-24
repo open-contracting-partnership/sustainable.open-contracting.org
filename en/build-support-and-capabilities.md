@@ -66,7 +66,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 ## **Standardize sustainability criteria**
 
-Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing[ ](/guide-to-ecolabels)sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/set-sustainability-criteria).
+Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/set-sustainability-criteria).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 A good example of this guidance is the U.S. General Service Administration’s[ Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.

@@ -59,7 +59,7 @@ When considering how to introduce sustainability criteria in a procurement proce
 As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations ](/build-support-and-capabilities)as to what criteria should be included when purchasing specific procurement categories. 
 
 {% callout red /assets/images/Icons_Red8.png %}
-Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition.<strong> </strong>See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.
+Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition. See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.
 {% endcallout %}
 
 {% endtoggle %}
@@ -129,7 +129,7 @@ As can be seen in the example on the following table, although supplier C had a 
 
 **In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women.** This study showed that only 36% of public contracts were awarded to women, and that these represented 26% of total value.
 
-Based on this study they established a series of measures to promote gender equality through public procurement. This included[ ](https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf)**[provisions for including](https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf) award criteria to assess suppliers in terms of gender inclusion.**
+Based on this study they established a series of measures to promote gender equality through public procurement. This included **[provisions for including](https://www.chilecompra.cl/wp-content/uploads/2016/11/directiva-n20.pdf) award criteria to assess suppliers in terms of gender inclusion.**
 
 As an example, they propose giving this factor a weighing of 15% in the evaluation, and suggest different ways of evaluation. **These include giving full points to companies which are led by women, or companies which demonstrate gender parity in its hiring, showing that the % of women hired with respect to the total number of workers in the same company is higher than 50%.**
 {% endcallout %}

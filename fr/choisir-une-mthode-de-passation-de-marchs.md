@@ -35,7 +35,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 
 - Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;
 - Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;
-- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](/obligations-contractuelles)<strong> </strong>pour en savoir plus sur la définition de clauses d’amélioration continue).
+- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](/obligations-contractuelles) pour en savoir plus sur la définition de clauses d’amélioration continue).
 
 {% endtoggle %}
 
@@ -102,7 +102,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 - La mise en commun du pouvoir d’achat de plusieurs organismes pour obtenir des économies d’échelle ;
 - La réduction des doublons en matière d’achat, permettant aux organismes publics d’éviter d’utiliser certaines ressources inutilement ;
 - La normalisation et l’harmonisation des pratiques durables ;
-- L’augmentation du nombre de soumissionnaires potentiels, car les marchés groupés permettent aux entreprises de conclure des marchés avec plusieurs organismes publics en répondant à un seul appel d’offres.<strong></strong>
+- L’augmentation du nombre de soumissionnaires potentiels, car les marchés groupés permettent aux entreprises de conclure des marchés avec plusieurs organismes publics en répondant à un seul appel d’offres.
 
 {% endtoggle %}
 

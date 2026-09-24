@@ -26,7 +26,7 @@ This feature refers to the degree of detail used to describe the sustainability 
 
 {% endtoggle %}
 
-{% toggle **Verifiability -** Ensure requirements are verifiable<strong> </strong> %}
+{% toggle **Verifiability -** Ensure requirements are verifiable %}
 
 An effective contract clause should also frame sustainability requirements as “obligations to be assessed”, to clearly leave room for activities aimed at verifying compliance against the requirements. The methods that will be used to monitor compliance should be agreed with the supplier, and can be included in an annex to the contract. This includes considering factors such as the frequency of monitoring activities, whether they will be carried out by the supplier or a third party, and who is responsible for covering the costs. For more information regarding possible methods see[ this section](/monitor-implementation).
 

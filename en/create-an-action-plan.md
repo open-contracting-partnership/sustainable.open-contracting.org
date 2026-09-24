@@ -32,7 +32,7 @@ We have identified the key steps that you can take when getting started with Ope
 
 {% toggle **Enabling environment**  %}
 
-In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section[ ](/establish-an-enabling-environment)[**Establish an enabling environment**](/establish-an-enabling-environment)**.**
+In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section [**Establish an enabling environment**](/establish-an-enabling-environment)**.**
 
 Communicating the result of this exercise in your Action Plan is an opportunity to establish trust by clearly defining how suggested Open SPP approaches fit into the current rules. In particular, the Action Plan should focus on communicating:
 

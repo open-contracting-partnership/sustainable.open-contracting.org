@@ -50,7 +50,7 @@ When considering the implementation of SPP for procuring a construction project,
 These accreditations can help you identify environmentally preferable suppliers. For this sector we have identified two main ISO accreditations:
 
 - **ISO 14006 - Guidelines for incorporating ecodesign,** for identifying sustainable suppliers for the design stage of construction projects. 
-- **ISO 14001 - Environmental management systems,** to identify suppliers who have successfully implemented a system to enhance their environmental performance.<strong></strong>
+- **ISO 14001 - Environmental management systems,** to identify suppliers who have successfully implemented a system to enhance their environmental performance.
 
 {% endtoggle %}
 

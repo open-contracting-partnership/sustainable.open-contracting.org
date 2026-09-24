@@ -70,7 +70,7 @@ There are different benefits of using two-stage tender processes when implementi
 - It incentivizes collaboration between the supplier and the procurement authority, but also facilitates integrating members from the supply chain early on in the process.
 - It incentivizes the suggestion of innovative solutions from suppliers.
 - It increases the chances of finding the best solution for identified needs.
-- Allows SMEs an entry point to working with government. <strong></strong>
+- Allows SMEs an entry point to working with government.
 
 {% endtoggle %}
 

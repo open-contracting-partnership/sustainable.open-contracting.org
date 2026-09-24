@@ -92,7 +92,7 @@ Es importante señalar que existen diferentes tipos de etiquetas y certificacion
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
 |---|---|---|---|
-| **Opción 6: Mida el uso de las certificaciones** | {orange} Realice un trabajo de descubrimiento en torno a estándares y certificaciones mundiales (consulte esta sección<strong> </strong>para ver ejemplos) para identificar el mejor ajuste con las necesidades del comprador. Utilice esto para trabajar con los proveedores y garantizar una mayor acreditación y cumplimiento. | {yellow} Actualice los registros de proveedores, registros de empresas y registros de contratos para incluir etiquetas de certificación. | {green} Cree un sistema que alerte a los proveedores sobre cambios en los requisitos de la certificación ecológica, así como recordatorios para actualizarlos a medida que vencen. |
+| **Opción 6: Mida el uso de las certificaciones** | {orange} Realice un trabajo de descubrimiento en torno a estándares y certificaciones mundiales (consulte esta sección para ver ejemplos) para identificar el mejor ajuste con las necesidades del comprador. Utilice esto para trabajar con los proveedores y garantizar una mayor acreditación y cumplimiento. | {yellow} Actualice los registros de proveedores, registros de empresas y registros de contratos para incluir etiquetas de certificación. | {green} Cree un sistema que alerte a los proveedores sobre cambios en los requisitos de la certificación ecológica, así como recordatorios para actualizarlos a medida que vencen. |
 {% endtable %}
 
 ### **Opción 7: Supervise la ejecución del contrato**

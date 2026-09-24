@@ -16,13 +16,13 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
 
 [Escuchamos de los usuarios](/lo-que-nos-dijeron-los-usuarios) que, a menudo, evaluar y generar mejores impactos ambientales es el más desafiante de estos tres objetivos. Entonces, mientras mantenemos el marco más amplio de la contratación sostenible, esta guía se centrará en enfoques para mejorar la sostenibilidad ambiental (también conocida como "compra ecológica") sin comprometer los objetivos relacionados con la sostenibilidad económica o social.
 
-**CPS***<strong> </strong>***Abierta** agrega un enfoque de gobierno abierto y de datos abiertos a CPS para mejorar su adopción e impacto. Esto incluye un enfoque de **gobierno abierto** para incluir a las partes interesadas en la planificación y entrega de mejores compras, y el uso de **datos abiertos** para desbloquear, compartir y analizar qué se compra, para quién y con qué resultados e impactos de CPS. Ambos enfoques fueron temas claros con los que las partes interesadas del gobierno querían ayudar.
+**CPS Abierta** agrega un enfoque de gobierno abierto y de datos abiertos a CPS para mejorar su adopción e impacto. Esto incluye un enfoque de **gobierno abierto** para incluir a las partes interesadas en la planificación y entrega de mejores compras, y el uso de **datos abiertos** para desbloquear, compartir y analizar qué se compra, para quién y con qué resultados e impactos de CPS. Ambos enfoques fueron temas claros con los que las partes interesadas del gobierno querían ayudar.
 
 {% callout blue /assets/images/Icons_Blue_Intro6.png %}
 Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:
 
-- La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf):<strong> </strong>“un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
-- Usted podrá ver el enfoque de Asociación de Contratación Abierta [aquí](https://www.open-contracting.org/implement/)<strong> </strong>y cómo ayuda a que las reformas se amplíen y se mantengan [aquí](https://www.open-contracting.org/impact/).
+- La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
+- Usted podrá ver el enfoque de Asociación de Contratación Abierta [aquí](https://www.open-contracting.org/implement/) y cómo ayuda a que las reformas se amplíen y se mantengan [aquí](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
 # **Cómo la apertura puede ayudar a la contratación pública sostenible**
@@ -79,13 +79,13 @@ CPS Abierta implica dar forma, probar y escalar las prácticas de SPP, en funci�
 
 # **La importancia de datos buenos como base**
 
-Para cumplir con estas siete dimensiones de la apertura, los datos de alta calidad son cruciales. Esto significa [datos estandarizados](https://opengovdata.org/)<strong> </strong>en formatos abiertos y legibles por máquina.
+Para cumplir con estas siete dimensiones de la apertura, los datos de alta calidad son cruciales. Esto significa [datos estandarizados](https://opengovdata.org/) en formatos abiertos y legibles por máquina.
 
 Ya hemos compilado una guía que explora cómo los datos abiertos sobre adquisiciones pueden ayudarlo a impulsar CPS y recomienda los primeros pasos en su travesía de datos abiertos. Esta guía se puede encontrar [aquí](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
 <strong>Uso de “banderas ecológicas” en datos de contratación pública
-<br></strong>[Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).<strong> </strong>Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible
+<br></strong>[Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/). Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible
 {% endcallout %}
 
 Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos clave que necesita para poder planificar e implementar contrataciones públicas ecológicas. El siguiente gráfico ilustra algunos de los puntos de datos clave que usted puede capturar en las etapas de planificación, licitación, adjudicación y entrega de contratos públicos y cómo ayudan a rastrear, informar y analizar la contratación pública.
@@ -103,7 +103,7 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 
 Los identificadores le permiten a usted vincular datos de diferentes sistemas. Un elemento central del Estándar de datos de contrataciones abiertas es una identificación única y no patentada para cada contrato público que permite realizar un seguimiento a lo largo de su ciclo de vida comercial.
 
-El [Estándar de Datos para las Contrataciones Abiertas](https://standard.open-contracting.org/latest/es/schema/identifiers/)<strong> </strong>brinda orientación sobre los identificadores que se pueden usar para ayudarlo a unirse y hacer referencia cruzada de datos de contratación.
+El [Estándar de Datos para las Contrataciones Abiertas](https://standard.open-contracting.org/latest/es/schema/identifiers/) brinda orientación sobre los identificadores que se pueden usar para ayudarlo a unirse y hacer referencia cruzada de datos de contratación.
 
 {% image /assets/images/OCDS_model.png 2179 1000 align-start %}
 

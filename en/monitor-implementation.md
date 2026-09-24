@@ -13,7 +13,7 @@ sidebar: true
 After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the [previous section](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.  
 
 {% callout red /assets/images/Pin_Red.png %}
-In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the** [**broader goals**](/monitoring-evaluation)<strong> </strong>that have been set as part of the Open SPP strategy. 
+In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the** [**broader goals**](/monitoring-evaluation) that have been set as part of the Open SPP strategy. 
 {% endcallout %}
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}

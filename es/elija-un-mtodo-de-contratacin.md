@@ -99,7 +99,7 @@ El uso de procesos de licitación de dos etapas puede ser especialmente útil en
 
 ## **Contratación conjunta**
 
-Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS <em> </em>
+Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS
  es la contratación conjunta. Este enfoque se refiere a la colaboración de múltiples autoridades públicas en una contratación específica. Esta colaboración puede incluir hacer pruebas conjuntas del mercado en las etapas iniciales y vincularse al comienzo de un proceso de contratación, o licitar o contratar conjuntamente con un proveedor durante el proceso.
 
 {% toggle **Beneficios de utilizar la contratación conjunta** %}
@@ -131,7 +131,7 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS*.* Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la<strong> </strong>selección de proveedores más sostenibles.
+A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS*.* Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la selección de proveedores más sostenibles.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
