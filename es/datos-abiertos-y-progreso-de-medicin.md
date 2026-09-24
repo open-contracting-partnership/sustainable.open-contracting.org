@@ -35,7 +35,7 @@ In many countries, different platforms are used to carry out public procurement 
 
 {% toggle **Paso 3**: Establecer un año de referencia y una frecuencia de informes públicos %}
 
-The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the[ Action Plan](https://sustainable.open-contracting.org/create-an-action-plan), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
+The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the[ Action Plan](/cree-un-plan-de-accin), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
 
 {% endtoggle %}
 

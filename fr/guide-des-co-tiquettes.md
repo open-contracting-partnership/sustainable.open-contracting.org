@@ -62,7 +62,7 @@ Lorsque vous utilisez des éco-étiquettes de type I ou apparentées ou type I d
 
 {% toggle **Définir les catégories de marchés prioritaires en s’appuyant sur les éco-étiquettes existantes** %}
 
-En ce qui concerne la mise en place de marchés publics durables, il peut être utile de concentrer vos efforts sur certaines catégories de marchés. Les éco-étiquettes existantes peuvent être des facteurs importants en vue du choix des catégories prioritaires. Vous pouvez également prendre en compte les produits certifiés présents sur le marché local afin que la mise en place de marchés publics durables profitent aux entreprises locales. Consultez [cette section](https://sustainable.open-contracting.org/prioritize) pour en savoir plus.
+En ce qui concerne la mise en place de marchés publics durables, il peut être utile de concentrer vos efforts sur certaines catégories de marchés. Les éco-étiquettes existantes peuvent être des facteurs importants en vue du choix des catégories prioritaires. Vous pouvez également prendre en compte les produits certifiés présents sur le marché local afin que la mise en place de marchés publics durables profitent aux entreprises locales. Consultez [cette section](/priorits) pour en savoir plus.
 
 {% endtoggle %}
 
@@ -70,7 +70,7 @@ Enfin, les déclarations environnementales de produit correspondant aux éco-ét
 
 ## **Comment repérer les éco-étiquettes pertinentes ?**
 
-Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](https://sustainable.open-contracting.org/ict-sector) et le [secteur de la construction](https://sustainable.open-contracting.org/construction-sector).
+Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
 
 {% database **Éco-étiquettes**  %}
 {% database_table no-click %}

@@ -36,7 +36,7 @@ Dans de nombreux pays, différentes plateformes sont utilisées dans le cadre de
 
 {% toggle **Étape 3 : définir une année de référence et une fréquence de présentation de rapports publics** %}
 
-L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
+L’année de référence est le moment où vous commencerez à collecter des données et à élaborer des rapports publics concernant les indicateurs essentiels. Cela coïncide normalement avec la publication du [plan d’action](/plan-daction)
 , qui doit déterminer le moment du début de la collecte de données. Du point de vue opérationnel, il est également important d’établir avec les pouvoirs publics la fréquence de collecte et de publication de données concernant leurs marchés, par exemple sur une base mensuelle, trimestrielle ou annuelle.
 
 {% endtoggle %}

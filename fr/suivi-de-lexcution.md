@@ -10,7 +10,7 @@ sidebar: true
 ---
 # **Gérer la durabilité durant l’exécution du marché**
 
-Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](https://sustainable.open-contracting.org/prepare-contract-obligations), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
+Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](/obligations-contractuelles), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. 
 
 {% callout red /assets/images/Pin_Red.png %}
 Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les [objectifs globaux](/suivi-et-valuation)
@@ -19,7 +19,7 @@ Dans cette section, nous présentons plusieurs mécanismes pouvant être utilis�
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
 <strong>Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.
-<br>L’un des aspects essentiels des </strong>[marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](https://sustainable.open-contracting.org/ict-sector) et de la [construction](https://sustainable.open-contracting.org/construction-sector).
+<br>L’un des aspects essentiels des </strong>[marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et de la [construction](/la-construction-en-anglais).
 {% endcallout %}
 
 ## **Comment suivre les résultats durant l’exécution du marché ?**
@@ -66,7 +66,7 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](https://sustainable.open-contracting.org/construction-sector)<strong> </strong>et des [**technologies de l’information et des communications**](https://sustainable.open-contracting.org/ict-sector)**.**
+Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](/la-construction-en-anglais)<strong> </strong>et des [**technologies de l’information et des communications**](/le-secteur-tic-en-anglais)**.**
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

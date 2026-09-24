@@ -30,7 +30,7 @@ L’interaction avec les acteurs du marché lors de la mise en place de marchés
   </strong>Parfois, des décisions concernant la structure de certains processus de passation de marchés ou l’intégration de certains critères de durabilité peuvent entraver la participation de fournisseurs potentiels ou aller à l’encontre des pratiques du marché. Le fait de sonder l’opinion des fournisseurs peut aider à rectifier cela en assurant que des processus de passation de marchés sont planifiés de façon à maximiser les probabilités de choisir la meilleure solution possible.
 
 {% callout red /assets/images/Icons_Red6.png %}
-L’exemple du [système « ](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)[*Ecobici*](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)[ » de la ville de Mexico](https://sustainable.open-contracting.org/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city) montre bien comment les interactions avec les acteurs du marché peuvent aider à définir votre approche des marchés publics et améliorer leurs résultats. Consultez [ce rapport](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) du Chicago Council on Global Affairs pour en savoir plus sur la façon dont l’interaction ouverte avec les acteurs du marché peut favoriser les marchés publics durables.
+L’exemple du [système « ](/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico)[*Ecobici*](/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico)[ » de la ville de Mexico](/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico) montre bien comment les interactions avec les acteurs du marché peuvent aider à définir votre approche des marchés publics et améliorer leurs résultats. Consultez [ce rapport](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) du Chicago Council on Global Affairs pour en savoir plus sur la façon dont l’interaction ouverte avec les acteurs du marché peut favoriser les marchés publics durables.
 {% endcallout %}
 
 ## **Quelle est la meilleure façon d’interagir avec les acteurs du marché ?**
@@ -39,7 +39,7 @@ Les méthodes d’interaction peuvent varier en fonction de l’état d’avance
 
 {% toggle **Interagir durant l’élaboration de votre plan d’action sur les marchés publics durables** %}
 
-Il est possible d’interagir avec les acteurs du marché à chaque étape de la conception de votre premier plan d’action sur les marchés publics durables et ouverts. Par exemple, l’interaction est essentielle pour collecter les données nécessaires à [la définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize) ainsi que pour définir [des critères de durabilité normalisés](/des-mcanismes-dassistance). Les méthodes d’interaction avec les acteurs du marché durant ce processus peuvent prendre plusieurs formes telles que :
+Il est possible d’interagir avec les acteurs du marché à chaque étape de la conception de votre premier plan d’action sur les marchés publics durables et ouverts. Par exemple, l’interaction est essentielle pour collecter les données nécessaires à [la définition des catégories de marchés prioritaires](/priorits) ainsi que pour définir [des critères de durabilité normalisés](/des-mcanismes-dassistance). Les méthodes d’interaction avec les acteurs du marché durant ce processus peuvent prendre plusieurs formes telles que :
 
 - Des ateliers avec les fournisseurs pour présenter des objectifs de durabilité et collecter les données nécessaires à l’évaluation des capacités du marché ;
 - Des consultations en ligne pour permettre aux fournisseurs de donner leur avis sur les décisions stratégiques relatives aux marchés publics durables et ouverts ou le choix des catégories de marchés prioritaires ;
@@ -56,7 +56,7 @@ Il est possible d’interagir avec les acteurs du marché à chaque étape de la
 
 {% toggle **Interagir durant la phase de planification des marchés** %}
 
-Les interactions avec les acteurs du marché durant la phase de planification d’un processus de passation de marchés seront fondées sur [les besoins recensés](https://sustainable.open-contracting.org/assess-needs) et guideront les décisions concernant la conception du marché et les critères intégrés au processus. Les interactions avec les acteurs du marché durant cette phase peuvent servir à :
+Les interactions avec les acteurs du marché durant la phase de planification d’un processus de passation de marchés seront fondées sur [les besoins recensés](/valuer-les-besoins-rels) et guideront les décisions concernant la conception du marché et les critères intégrés au processus. Les interactions avec les acteurs du marché durant cette phase peuvent servir à :
 
 - Réaliser des études de marché afin d’évaluer la disponibilité des solutions existantes pour répondre aux besoins recensés de la façon la plus durable possible ;
 - Évaluer les possibilités pour répondre aux besoins ;

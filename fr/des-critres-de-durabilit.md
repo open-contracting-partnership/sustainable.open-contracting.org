@@ -14,7 +14,7 @@ sidebar: true
 *Dans cette section, nous fournissons des orientations concernant les différentes possibilités pour intégrer des critères de durabilité à un processus de passation de marchés et ce que ces critères impliquent pour les fournisseurs.*
 {% endcallout %}
 
-La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les [besoins](https://sustainable.open-contracting.org/assess-needs) réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires.
+La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les [besoins](/valuer-les-besoins-rels) réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires.
 
 {% callout default /assets/images/7_areas_open_SPP3.png %}
 <strong>Utiliser et justifier de façon claire les critères de durabilité
@@ -33,7 +33,7 @@ Avant de choisir les critères de durabilité que vous allez intégrer au proces
 
 L’objet du marché désigne les produits, les services ou les travaux que vous souhaitez acquérir. En définissant l’objet de votre marché, vous devez vous assurer qu’il tient compte de certains éléments :
 
-- Les [besoins](https://sustainable.open-contracting.org/assess-needs) identifiés ;
+- Les [besoins](/valuer-les-besoins-rels) identifiés ;
 - Les principes d’équité et de non-discrimination dans la commande publique. N’oubliez pas que certains principes communs essentiels de la réglementation des marchés publics sont liés à l’équité et à l’absence de discrimination. Ces principes doivent faire partie intégrante de vos marchés publics et guider les différentes mesures que vous prendrez, y compris lors de la définition de l’objet de votre marché.
 
 {% callout red /assets/images/Icons_Red8.png %}
@@ -42,7 +42,7 @@ Pour formuler un objet de marché équitable et non discriminatoire, vous devez 
 
 La définition de l’objet des marchés est une étape essentielle de la mise en place de marchés publics durables. Comme nous l’avons abordé dans [cette section](/mise-en-place), les cadres politiques et réglementaires de la plupart des pays autorisent la prise en compte de critères de durabilité à condition que ces derniers soient pertinents compte tenu de l’objet du marché. Cela signifie que ces critères doivent porter sur les travaux, produits ou services à livrer et non sur les caractéristiques des fournisseurs pris à titre individuel. Par exemple, si vous achetez des ordinateurs portables, vous ne pouvez pas inclure dans les spécifications que le fournisseur doit être une entreprise locale, car cela n’a pas de lien avec les produits que vous souhaitez acquérir.
 
-Comme expliqué dans la [section précédente](https://sustainable.open-contracting.org/engage-with-the-market), la meilleure façon de promouvoir la participation des fournisseurs locaux est d’interagir avec les acteurs du marché durant la phase de planification et d’adapter les spécifications aux capacités du marché local. Dans certains cas, il est possible de définir un [objectif spécifique concernant les fournisseurs locaux ou de réserver certains marchés](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) aux fournisseurs locaux ou aux petites entreprises. Dans ces situations, la localisation géographique du fournisseur fera partie des critères. Toutefois, cela est impossible pour la plupart des marchés publics, vous devez donc toujours vous assurer que les critères de durabilité sont en lien direct avec l’objet du marché (ou certaines politiques convenues au préalable, par exemple concernant le respect des obligations fiscales ou les résultats de marchés antérieurs) afin de garantir l’équité de la concurrence.
+Comme expliqué dans la [section précédente](/interagir-avec-le-march), la meilleure façon de promouvoir la participation des fournisseurs locaux est d’interagir avec les acteurs du marché durant la phase de planification et d’adapter les spécifications aux capacités du marché local. Dans certains cas, il est possible de définir un [objectif spécifique concernant les fournisseurs locaux ou de réserver certains marchés](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) aux fournisseurs locaux ou aux petites entreprises. Dans ces situations, la localisation géographique du fournisseur fera partie des critères. Toutefois, cela est impossible pour la plupart des marchés publics, vous devez donc toujours vous assurer que les critères de durabilité sont en lien direct avec l’objet du marché (ou certaines politiques convenues au préalable, par exemple concernant le respect des obligations fiscales ou les résultats de marchés antérieurs) afin de garantir l’équité de la concurrence.
 
 À cette fin, certaines administrations décident d’inclure de façon explicite une référence à la durabilité dans l’objet du marché. C’est par exemple le cas de « Appel d’offres pour l’achat d’ordinateurs portables économes en énergie » ou de [cet appel d’offres](https://ec.europa.eu/environment/gpp/pdf/news_alert/Issue32_Case_Study68_Malta_Green_finishings.pdf) de l’université de Malte dont l’objet est « Travaux de finition d’intérieur utilisant des produits et matériaux de construction durables ».
 
@@ -56,7 +56,7 @@ Lorsque vous réfléchissez à l’intégration de critères de durabilité à u
 
 {% toggle **Étape 3 : existe-t-il déjà des critères de durabilité normalisés ?** %}
 
-Comme nous l’avons déjà évoqué dans ce guide pratique, les acheteurs publics n’ont pas besoin de partir de zéro pour élaborer des critères de durabilité. Le recensement des critères de durabilité et des [éco-étiquettes](https://sustainable.open-contracting.org/guide-to-ecolabels) existants peut fournir un certain nombre de points de repère. Il est également important de contrôler si les pouvoirs publics ont [publié des recommandations](/des-mcanismes-dassistance) sur les critères à prendre en compte concernant certaines catégories de marchés.
+Comme nous l’avons déjà évoqué dans ce guide pratique, les acheteurs publics n’ont pas besoin de partir de zéro pour élaborer des critères de durabilité. Le recensement des critères de durabilité et des [éco-étiquettes](/guide-des-co-tiquettes) existants peut fournir un certain nombre de points de repère. Il est également important de contrôler si les pouvoirs publics ont [publié des recommandations](/des-mcanismes-dassistance) sur les critères à prendre en compte concernant certaines catégories de marchés.
 
 {% callout red /assets/images/Icons_Red8.png %}
 N’oubliez pas que lorsque vous demandez aux fournisseurs de respecter les exigences d’une éco-étiquette particulière, vous devez clairement indiquer qu’ils ne sont pas obligés d’obtenir la certification officielle de cette éco-étiquette pour montrer qu’ils respectent ces exigences (par exemple, des rapports d’expertise ou une documentation technique peuvent remplir cette fonction) afin de permettre les équivalences et de promouvoir une concurrence équitable. Consultez la section relative au [suivi de l’exécution](/suivi-de-lexcution) pour en savoir plus sur les moyens de vérification.
@@ -66,7 +66,7 @@ N’oubliez pas que lorsque vous demandez aux fournisseurs de respecter les exig
 
 {% toggle **Étape 4 : quelles sont les capacités du marché ?** %}
 
-Comme expliqué dans la section concernant [l’interaction avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market), les renseignements concernant les capacités du marché guideront le choix des critères de durabilité qui doivent figurer parmi les exigences essentielles (c’est-à-dire les spécifications techniques) ou facultatives (c’est-à-dire les critères d’attribution).
+Comme expliqué dans la section concernant [l’interaction avec les acteurs du marché](/interagir-avec-le-march), les renseignements concernant les capacités du marché guideront le choix des critères de durabilité qui doivent figurer parmi les exigences essentielles (c’est-à-dire les spécifications techniques) ou facultatives (c’est-à-dire les critères d’attribution).
 
 {% endtoggle %}
 
@@ -78,7 +78,7 @@ Il est difficile de fournir des conseils sur la meilleure façon d’intégrer d
 
 Les critères de sélection visent à évaluer la capacité des fournisseurs potentiels à exécuter le marché auquel ils prétendent. Au moment de faire cette évaluation, les pouvoirs publics peuvent prendre en compte un certain type d’expérience, par exemple en demandant aux fournisseurs s’ils possèdent un [système de gestion environnementale](<https://www.epa.gov/ems/learn-about-environmental-management-systems#:~:text=An%20Environmental%20Management%20System%20(EMS)%20is%20a%20framework%20that%20helps,improvement%20of%20its%20environmental%20performance.>) ou un code de conduite.
 
-Ces informations sont souvent collectées par l’entremise de questionnaires, et cette méthode est souvent utilisée dans [les approches des marchés publics en deux temps](https://sustainable.open-contracting.org/choose-a-procurement-method). Les pouvoirs publics doivent clairement indiquer les informations qui seront utilisées pour évaluer les fournisseurs et souligner leur lien avec l’objet du marché.
+Ces informations sont souvent collectées par l’entremise de questionnaires, et cette méthode est souvent utilisée dans [les approches des marchés publics en deux temps](/choisir-une-mthode-de-passation-de-marchs). Les pouvoirs publics doivent clairement indiquer les informations qui seront utilisées pour évaluer les fournisseurs et souligner leur lien avec l’objet du marché.
 
 {% endtoggle %}
 
@@ -100,12 +100,12 @@ Gardez à l’esprit que si votre environnement habilitant permet seulement d’
 Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normalement la qualité des offres des soumissionnaires et comparera leur coût. Alors que les spécifications techniques devraient inclure des critères de durabilité minimum, la prise en compte de critères de durabilité lors de la phase de l’attribution permet de favoriser les fournisseurs qui soumettent les offres les plus durables. Des critères de durabilité peuvent être pris en compte dans la pondération attribuée à la qualité, ou, en fonction de [l’environnement habilitant](/mise-en-place), il peut être possible d’allouer un pourcentage de la pondération aux critères de durabilité.
 
 {% callout red /assets/images/Idea_Red.png %}
-*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de* [*prendre en compte le coût du cycle de vie*](https://sustainable.open-contracting.org/life-cycle-costing)*.*
+*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de* [*prendre en compte le coût du cycle de vie*](/le-cot-du-cycle-de-vie)*.*
 {% endcallout %}
 
 {% endtoggle %}
 
-Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi,](https://sustainable.open-contracting.org/monitor-implementation) et [traduire clairement les exigences de durabilité en obligations contractuelles](https://sustainable.open-contracting.org/prepare-contract-obligations).
+Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi,](/suivi-de-lexcution) et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Études de cas**  

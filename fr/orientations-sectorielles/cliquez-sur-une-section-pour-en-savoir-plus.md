@@ -7,9 +7,9 @@ notion_id: "46e89ab961784061b5a205df42a87c66"
 ---
 {% gallery medium %}
 - title: La construction (en anglais)
-  link: "https://sustainable.open-contracting.org/construction-sector"
+  link: "/la-construction-en-anglais"
   icon: /assets/images/Icons_Grey5.png
 - title: Le secteur TIC (en anglais)
-  link: "https://sustainable.open-contracting.org/ict-sector"
+  link: "/le-secteur-tic-en-anglais"
   icon: /assets/images/Icons_Grey5.png
 {% endgallery %}

@@ -60,7 +60,7 @@ Les changements ou ajustements qui permettront d’augmenter la portée de la mi
 
 {% toggle **Catégories de marchés prioritaires**  %}
 
-Dans la section sur la [définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize), nous avons expliqué comment ce travail peut guider l’élaboration des critères de durabilité et promouvoir une mise en place harmonisée et cohérente des marchés publics durables et ouverts. Après avoir défini les catégories prioritaires, vous pouvez communiquer les résultats de votre démarche dans votre plan d’action en incluant notamment les informations suivantes :
+Dans la section sur la [définition des catégories de marchés prioritaires](/priorits), nous avons expliqué comment ce travail peut guider l’élaboration des critères de durabilité et promouvoir une mise en place harmonisée et cohérente des marchés publics durables et ouverts. Après avoir défini les catégories prioritaires, vous pouvez communiquer les résultats de votre démarche dans votre plan d’action en incluant notamment les informations suivantes :
 
 - **Les catégories de marchés prioritaires** et une justification transparente de vos choix ;
 - **Des orientations sur les critères de durabilité pouvant être utilisés dans chaque catégorie prioritaire.** Il peut s’agir de recommandations sur les règles, les éco-étiquettes ou les exigences en matière de durabilité, par exemple concernant l’efficacité énergétique, qui peuvent être intégrées aux dossiers d’appel d’offres. Vous pouvez également fournir des renseignements sur l’emplacement de ces informations ainsi que tous les plans abordant l’élaboration de critères normalisés aux échelles nationale, régionale et locale. 
@@ -142,7 +142,7 @@ Beaucoup de pays commencent par mettre en place des marchés publics durables et
 
 {% toggle **Catégories de marchés** %}
 
-Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Consultez [cette section](https://sustainable.open-contracting.org/prioritize) pour en savoir plus sur le processus de définition des catégories prioritaires.
+Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Consultez [cette section](/priorits) pour en savoir plus sur le processus de définition des catégories prioritaires.
 
 {% endtoggle %}
 

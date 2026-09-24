@@ -21,7 +21,7 @@ Les pages 28 à 32 du [manuel de la Banque mondiale sur les marchés publics éc
 {% callout default /assets/images/7_areas_open_SPP2.png %}
 **Justifier vos choix de catégories prioritaires.**
 
-Bien qu’il existe de nombreuses façons de définir des catégories prioritaires, il est vraiment important de faire participer les parties prenantes au processus afin de connaître leur point de vue et de divulguer toutes les décisions prises pour qu’elles puissent être mises en œuvre, notamment par l’entremise du [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
+Bien qu’il existe de nombreuses façons de définir des catégories prioritaires, il est vraiment important de faire participer les parties prenantes au processus afin de connaître leur point de vue et de divulguer toutes les décisions prises pour qu’elles puissent être mises en œuvre, notamment par l’entremise du [plan d’action](/plan-daction)
  clair que nous recommandons à la fin de cette section.
 {% endcallout %}
 
@@ -67,7 +67,7 @@ Pour chaque catégorie de marchés, il est nécessaire d’évaluer la fréquenc
 
 Chaque catégorie peut être classée en fonction de différents facteurs environnementaux, comme les émissions de CO2, la pollution de l’air, la pollution de l’eau, les déchets mis en décharge, le rejet de substances dangereuses, l’utilisation de matières premières, la consommation d’énergie, la consommation d’eau et l’incidence sur la biodiversité.
 
-Par exemple, comme nous l’indiquons dans la section consacrée à certains secteurs, l’incidence environnementale du [secteur de la construction](https://sustainable.open-contracting.org/construction-sector) concerne principalement les émissions de CO2 et des effets potentiels sur les matières premières, la pollution et la biodiversité. Pour sa part, le [secteur des technologies de l’information et des communications](https://sustainable.open-contracting.org/ict-sector) est souvent associé aux déchets, aux substances dangereuses et à l’extraction de matières premières.
+Par exemple, comme nous l’indiquons dans la section consacrée à certains secteurs, l’incidence environnementale du [secteur de la construction](/la-construction-en-anglais) concerne principalement les émissions de CO2 et des effets potentiels sur les matières premières, la pollution et la biodiversité. Pour sa part, le [secteur des technologies de l’information et des communications](/le-secteur-tic-en-anglais) est souvent associé aux déchets, aux substances dangereuses et à l’extraction de matières premières.
 
 {% endtoggle %}
 
@@ -100,7 +100,7 @@ Les programmes de certification peuvent faciliter la mise en place de marchés p
 La mise en place de marchés publics plus durables suppose de connaître les normes que des produits, services ou travaux doivent respecter pour être considérés comme durables. Cela guidera [les exigences que vous établirez](/des-critres-de-durabilit) pour comparer des offres durant le processus de passation de marchés. Les normes de durabilité existantes peuvent faciliter ce processus en faisant office de référence durant l’élaboration de vos exigences.
 
 - **Certifications environnementales, ou « éco-étiquettes », existantes.** 
-  Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
+  Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez [ce guide](/guide-des-co-tiquettes) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
 - **Critères élaborés par d’autres pays.** 
   Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](/mise-en-place) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.<strong></strong>
 
@@ -123,7 +123,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](https://sustainable.open-contracting.org/engage-with-the-market)*.*
+*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](/interagir-avec-le-march)*.*
 {% endcallout %}
 
 **Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité** 
@@ -132,11 +132,11 @@ Les politiques et réglementations sur la durabilité en vigueur doivent être c
 
 ## **Diffusion et présentation de votre démarche et vos catégories de marchés prioritaires**
 
-Comme expliqué au début de cette section, une fois que vous avez décidé de concentrer vos efforts en matière de marchés publics durables ouverts sur certaines catégories, vous avez intérêt à communiquer de façon ouverte les raisons qui ont guidé vos choix. Pour cela, vous pouvez élaborer un [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan)
+Comme expliqué au début de cette section, une fois que vous avez décidé de concentrer vos efforts en matière de marchés publics durables ouverts sur certaines catégories, vous avez intérêt à communiquer de façon ouverte les raisons qui ont guidé vos choix. Pour cela, vous pouvez élaborer un [plan d’action](/plan-daction)
  et devez rappeler ces raisons dans les contrats relevant des catégories de marchés prioritaires.
 
 {% callout green /assets/images/Warn_green_2.png %}
-**Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](/suivi-et-valuation) relatifs aux catégories prioritaires et de réexaminer vos priorités.
+**Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](/plan-daction) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](/suivi-et-valuation) relatifs aux catégories prioritaires et de réexaminer vos priorités.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}

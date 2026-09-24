@@ -18,14 +18,14 @@ The following checklist is designed to help you assess the different ways in whi
 
 - Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
 - Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.
-- Consider applying [Life-Cycle Costing (LCC)](https://sustainable.open-contracting.org/life-cycle-costing) calculations.
+- Consider applying [Life-Cycle Costing (LCC)](/le-cot-du-cycle-de-vie) calculations.
 ^
 
 - [ ] Check whether your enabling framework **allows you to award a contract based on criteria other than just price** (e.g. [M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024) in Europe). If so, you can apply the same SPP practices as the ones mentioned above, but also design the evaluation process so that sustainability is part of the award criteria. When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals).
 
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
 
-- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [here](https://sustainable.open-contracting.org/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria) for more information).
+- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [here](/mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution) for more information).
 
 - [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [here](https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) for more information).
 
@@ -39,7 +39,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 **Finally:**
 
-- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [here](https://sustainable.open-contracting.org/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail) for more information).
+- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [here](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit) for more information).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**

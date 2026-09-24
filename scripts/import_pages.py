@@ -10,6 +10,7 @@ import urllib.parse
 from pathlib import Path
 
 import markdown
+import translations
 
 ROOT = Path(__file__).resolve().parent.parent
 CRAWL = ROOT / ".crawl"
@@ -525,6 +526,62 @@ def canonical_paths(paths):
     return renamed
 
 
+# Links to the other sites' pages, in Markdown, HTML and YAML.
+CROSS_SITE = re.compile(
+    r"https://(sustainable|sostenibilidad|achatdurable)\.open-contracting\.org(/[^\s\"')\]#?]*)?([#?][^\s\"')\]]*)?"
+)
+# The lowest score of the translations' matches that link_versions() uses. The matches were reviewed.
+VERSION_SCORE = 5.5
+
+
+def link_versions():
+    """
+    Link the pages' links to another site's page to that page's version on their own site, if it has one.
+
+    Links to another site's homepage are kept, since they switch languages. Return the links that changed.
+    """
+    versions = translations.matches()
+    english = {
+        lang: {other: (path, score) for path, (other, score) in matched.items()}
+        for lang, matched in versions.items()
+    }
+
+    def version(lang, other, path):
+        scores = []
+        if other != "en":
+            if path not in english[other]:
+                return None
+            path, score = english[other][path]
+            scores.append(score)
+        if lang != "en":
+            if path not in versions[lang]:
+                return None
+            path, score = versions[lang][path]
+            scores.append(score)
+        return path, min(scores)
+
+    changed = []
+    for lang in SITES.values():
+        for file in sorted((ROOT / lang).rglob("*.md")):
+            text = file.read_text()
+
+            def replace(match):
+                other = LINK_HOSTS[f"{match.group(1)}.open-contracting.org"]
+                path = urllib.parse.unquote(match.group(2) or "/").rstrip("/") or "/"
+                if other == lang or path == "/":
+                    return match.group(0)
+                found = version(lang, other, path)
+                if found is None or found[1] < VERSION_SCORE:
+                    return match.group(0)
+                changed.append((lang, str(file.relative_to(ROOT)), match.group(0), found[0], found[1]))
+                return urllib.parse.quote(found[0]) + (match.group(3) or "")
+
+            new = CROSS_SITE.sub(replace, text)
+            if new != text:
+                file.write_text(new)
+    return changed
+
+
 def title_key(data):
     """Return a page's title, ignoring case and spacing."""
     return " ".join(data["title"].split()).casefold()
@@ -997,6 +1054,10 @@ def main():
     )
 
     print("links:", dict(links))
+
+    changed = link_versions()
+    (CRAWL / "versions-relinked.json").write_text(json.dumps(changed, indent=1, ensure_ascii=False) + "\n")
+    print(len(changed), "links to other sites linked to their pages' versions")
 
     for lang in SITES.values():
         lines = [

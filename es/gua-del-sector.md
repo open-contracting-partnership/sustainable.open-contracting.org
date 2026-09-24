@@ -17,10 +17,10 @@ sidebar: true
 {% database Haga clíc para más información %}
 {% gallery medium %}
 - title: Sector de la construcción
-  link: "https://sustainable.open-contracting.org/construction-sector"
+  link: "/sector-de-la-construccin-en-ingls"
   icon: /assets/images/Icons_Grey5.png
 - title: Sector ICT
-  link: "https://sustainable.open-contracting.org/ict-sector"
+  link: "/sector-ict-en-ingls"
   icon: /assets/images/Icons_Grey5.png
 {% endgallery %}
 {% enddatabase %}
