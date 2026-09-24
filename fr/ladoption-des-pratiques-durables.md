@@ -67,7 +67,7 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 
 ## **Exemples d’indicateurs** 
 
-Il existe différentes façons d’évaluer la mise en œuvre de politiques sur les marchés publics durables. Précédemment dans ce guide pratique, nous [avons présenté un cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) visant à évaluer les progrès concernant la réalisation des objectifs de durabilité en définissant des objectifs, des résultats et des indicateurs. Ce cadre contenait des exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant l’objectif de promotion de l’adoption de pratiques durables de passation de marchés.
+Il existe différentes façons d’évaluer la mise en œuvre de politiques sur les marchés publics durables. Précédemment dans ce guide pratique, nous [avons présenté un cadre de suivi et d’évaluation](/suivi-et-valuation) visant à évaluer les progrès concernant la réalisation des objectifs de durabilité en définissant des objectifs, des résultats et des indicateurs. Ce cadre contenait des exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant l’objectif de promotion de l’adoption de pratiques durables de passation de marchés.
 
 Dans l’exemple ci-dessous, nous présentons les résultats et les indicateurs correspondants, des solutions utiles pour collecter des données et quelques conseils pratiques. Notez qu’il ne s’agit que de propositions visant à montrer les possibilités d’utilisation de ce guide, vous devrez peut-être les adapter en fonction de vos objectifs, des données à votre disposition, de votre contexte…
 

@@ -106,7 +106,7 @@ Certains de ces éléments sont plus abordables que d’autres. Même si vous n�
 
 Il est important de commencer par les aspects les plus simples et d’assurer que vous avez un processus fiable et reproductible de publication des données relatives aux émissions.
 
-Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) visant à évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Dans le tableau ci-dessous, vous trouverez des exemples des résultats et d’indicateurs pouvant faire l’objet d’un suivi.
+Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons présenté le cadre de suivi et d’évaluation](/suivi-et-valuation) visant à évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Dans le tableau ci-dessous, vous trouverez des exemples des résultats et d’indicateurs pouvant faire l’objet d’un suivi.
 
 ← Scroll to see more                                                                                                                                 Scroll to see more →
 

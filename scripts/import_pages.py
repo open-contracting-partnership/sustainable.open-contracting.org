@@ -513,7 +513,11 @@ def canonical_paths(paths):
         parent = renamed.get(parent, parent)
         stripped = re.sub(r"-\d+$", "", segment)
         new = f"{parent}/{stripped}"
-        if stripped == segment or re.search(r"-(?:19|20)\d\d$", segment) or new in taken:
+        if (
+            stripped == segment
+            or re.search(r"-(?:19|20)\d\d$", segment)
+            or new in taken
+        ):
             new = f"{parent}/{segment}"
         if new != path:
             taken.add(new)
@@ -699,8 +703,16 @@ def main():
         slugs[(lang, r["pageId"])] = (
             urllib.parse.urlparse(r["url"]).path.rstrip("/") or "/"
         )
-    renamed = {lang: canonical_paths([path for (language, _), path in slugs.items() if language == lang]) for lang in SITES.values()}
-    slugs = {(lang, page_id): renamed[lang].get(path, path) for (lang, page_id), path in slugs.items()}
+    renamed = {
+        lang: canonical_paths(
+            [path for (language, _), path in slugs.items() if language == lang]
+        )
+        for lang in SITES.values()
+    }
+    slugs = {
+        (lang, page_id): renamed[lang].get(path, path)
+        for (lang, page_id), path in slugs.items()
+    }
 
     # Each live page's number of incoming links on its site, other than breadcrumbs (from itself and its descendants).
     live_paths = {lang: {} for lang in SITES.values()}
@@ -779,7 +791,29 @@ def main():
         content = re.sub(r"<script.*?</script>", "", content, flags=re.S)
         content = fix_text_spaces(clean(localize(content)), lang)
         content = HREF.sub(
-            lambda m: rewrite_link(m, lang, live_paths, redirects, fixes, links), content
+            lambda m: rewrite_link(m, lang, live_paths, redirects, fixes, links),
+            content,
+        )
+
+        # A link whose text is its original URL (like an attachment) has its new URL as its text.
+        def retext(match):
+            text = html.unescape(match.group(2))
+            rewritten = rewrite_link(
+                re.match(HREF, f'href="{html.escape(text)}"'),
+                lang,
+                live_paths,
+                redirects,
+                fixes,
+                collections.Counter(),
+            )
+            if text != match.group(1) and rewritten == f'href="{match.group(1)}"':
+                return match.group(0).replace(
+                    f">{match.group(2)}</a>", f">{match.group(1)}</a>"
+                )
+            return match.group(0)
+
+        content = re.sub(
+            r'<a [^>]*href="(https://[^"]*)"[^>]*>(https?://[^<]*)</a>', retext, content
         )
         data, content = parse_page(content)
         properties, content = parse_properties(content)

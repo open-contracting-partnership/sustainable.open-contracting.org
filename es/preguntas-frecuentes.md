@@ -63,7 +63,7 @@ Hay diferentes formas en que las autoridades nacionales, locales o regionales pu
 - **Comprometerse con las partes interesadas**. Esto incluye la organización de talleres de creación de capacidad con profesionales de contrataciones, la participación de proveedores para involucrarlos en el proceso de CPS y la consulta con organizaciones de la sociedad civil (OSC) sobre los mejores enfoques de sostenibilidad.
 - **Establecer una mesa de ayuda y un punto central de información.** Proporcione una manera fácil para que los profesionales de contrataciones accedan a la orientación sobre las prácticas de SPP, incluida la regulación existente, los criterios estandarizados y los ejemplos de mejores prácticas. También puede ser útil establecer una mesa de ayuda para que los profesionales hagan preguntas sobre la implementación de CPS.
 
-Para obtener más información al respecto, consulte [esta sección](https://sustainable.open-contracting.org/get-started/build-support-and-capacity).
+Para obtener más información al respecto, consulte [esta sección](/establezca-mecanismos-de-apoyo).
 
 {% endtoggle %}
 

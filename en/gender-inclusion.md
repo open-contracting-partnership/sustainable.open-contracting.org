@@ -75,7 +75,7 @@ Suppliers can include in their tender submission what actions they take to promo
 
 ## Sample indicators
 
-Based on this data you can start to measure progress against the goal of achieving gender equality through procurement. For guidance on how to do this, earlier in the toolkit, we[ introduced a M&E framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. This framework included three sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting gender equality”.
+Based on this data you can start to measure progress against the goal of achieving gender equality through procurement. For guidance on how to do this, earlier in the toolkit, we[ introduced a M&E framework](/monitoring-evaluation) for measuring progress against sustainability goals. This framework included three sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting gender equality”.
 
 We have included these outcomes below, together with the corresponding indicators, the relevant options for collecting data that are presented in [this section](/options-for-data-use), and some tips for implementation:
 

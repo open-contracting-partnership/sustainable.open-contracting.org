@@ -100,7 +100,7 @@ You can use public reporting to:
 - Set an emissions budget for different contracts.
 - Publish a pipeline of upcoming contracts and their CO2 budgets.
 
-Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
+Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](/monitoring-evaluation) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
 
 ← Scroll to see more                                                                                                                                 Scroll to see more →
 

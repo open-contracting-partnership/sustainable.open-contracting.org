@@ -65,7 +65,7 @@ Once this has been clearly established, you can measure and record uptake of SPP
 
 ## Sample indicators 
 
-There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we[ introduced an M&E framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
+There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we[ introduced an M&E framework](/monitoring-evaluation) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
 
 In the specific, worked example below, we have included these outcomes, together with the corresponding indicators, the relevant options for collecting data and some tips for implementation. These are just suggestions to demonstrate how to bring the elements of the Guide together, you would want to adjust them depending on your objectives, data available, the context, etc.
 

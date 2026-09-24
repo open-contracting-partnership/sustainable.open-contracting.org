@@ -101,7 +101,7 @@ In addition to public statements on policy implementations, the data can be used
 
 With robust data in place, it will be possible to identify and work with the most successful teams to determine the success factors that can support other buyers to have a positive impact.
 
-Earlier in the toolkit, we [introduced an M&E Framework](/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track the application of life cycle costing approaches: 
+Earlier in the toolkit, we [introduced an M&E Framework](/monitoring-evaluation) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track the application of life cycle costing approaches: 
 
 ← Scroll to see more                                                                                                                                      Scroll to see more →
 

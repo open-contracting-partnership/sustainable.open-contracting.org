@@ -10,7 +10,7 @@ sidebar: true
 ---
 # Communicating your first steps in an SPP Action Plan
 
-Throughout this[ first section of the toolkit](/get-started), we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation.
+Throughout this[ first section of the toolkit](/plan), we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation.
 
 In each of these sections, we have explained the importance of openly communicating your chosen SPP approaches, the reasons behind your decision, and how these will be implemented. An SPP Action Plan is the key way to bring all this together.
 
