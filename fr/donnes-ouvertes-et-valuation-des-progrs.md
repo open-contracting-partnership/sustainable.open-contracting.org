@@ -53,7 +53,7 @@ Nous avons recensé trois types d’environnements :
 
 {% endtoggle %}
 
-{% database **Cliquez sur une section pour en savoir plus.**[Évaluer les besoins réels](/valuer-les-besoins-rels) %}
+{% database **Cliquez sur une section pour en savoir plus.** %}
 {% gallery medium %}
 - title: D’utilisation des données
   link: /possibilits-dutilisation-des-donnes

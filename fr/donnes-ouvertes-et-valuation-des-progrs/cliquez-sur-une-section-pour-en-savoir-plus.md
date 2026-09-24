@@ -1,6 +1,6 @@
 ---
-permalink: /donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plusvaluer-les-besoins-rels
-title: Cliquez sur une section pour en savoir plus.Évaluer les besoins réels
+permalink: /donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plus
+title: Cliquez sur une section pour en savoir plus.
 full_width: true
 collection: true
 notion_id: "1a144e82589b4729b2107b7d87bc276c"

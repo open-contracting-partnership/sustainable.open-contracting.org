@@ -15,7 +15,7 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Implement
-  link: /el-proceso-de-implementacin-open-spp/implement
+  link: /implemencin
   icon: /assets/images/Icons_Red.png
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: "Open data & measuring progress"
@@ -24,7 +24,7 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
   cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
   cover_position: 6.48
 - title: Sector guidance
-  link: /el-proceso-de-implementacin-open-spp/sector-guidance
+  link: /gua-del-sector
   icon: /assets/images/Icons_Grey.png
   cover: /assets/images/PUBLIC_SPP_covers6.png
   cover_position: 89.84

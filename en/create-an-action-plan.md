@@ -37,7 +37,7 @@ In every country, public procurement is regulated by different laws, rules, and 
 Communicating the result of this exercise in your Action Plan is an opportunity to establish trust by clearly defining how suggested Open SPP approaches fit into the current rules. In particular, the Action Plan should focus on communicating:
 
 - **Relevant laws, policies, and plans**, and how they can be interpreted for SPP implementation. This includes referencing current regulation regarding evaluation criteria, and any existing SPP regulatory enablers. 
-- **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets,](/establish-an-enabling-environment/targets-and-reserved-contracts) for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) to facilitate Open SPP implementation. 
+- **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets,](/establish-an-enabling-environment/targets-and-reserved-contracts) for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) to facilitate Open SPP implementation. 
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study

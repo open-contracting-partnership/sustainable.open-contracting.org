@@ -37,7 +37,7 @@ Existe la creencia común de que, cuando el marco habilitante, es decir, las nor
 - **Cuando el marco habilitante solo permite que el precio se considere como criterio de evaluación,** hay tres enfoques principales que puede tomar: introducir criterios de sostenibilidad como requisitos esenciales, usar cálculos de [costos del ciclo de vida](/costeo-del-ciclo-de-vida) y garantizar el cumplimiento de las regulaciones de sostenibilidad existentes.
 - **Cuando el marco habilitante deja espacio para considerar criterios de evaluación distintos al precio,** puede utilizar los planes y políticas de sostenibilidad existentes para guiar el diseño de los criterios de evaluación de la sostenibilidad.
 
-Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
+Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](/establezca-un-entorno-habilitante) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
 
 {% endtoggle %}
 
@@ -83,7 +83,7 @@ Un Plan de Acción de CPS sirve como referencia para que los profesionales de co
 
 **Presupuesto asignado**: qué presupuesto se dedicará a la estrategia CPS (por ejemplo, desarrollo de materiales de orientación, sesiones de capacitación, etc.).
 
-Este [índice](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
+Este [índice](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](/cree-un-plan-de-accin) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
 
 {% endtoggle %}
 
