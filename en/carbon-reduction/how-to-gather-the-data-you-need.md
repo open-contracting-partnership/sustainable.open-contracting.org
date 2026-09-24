@@ -33,7 +33,7 @@ Of course, the easiest way, especially for datasets around Sustainable Public Pr
 
 It is not uncommon for a Government to hold their data on private sector hosted systems, for instance e-procurement portals. In order for data to be usable and analysable, it is important that the governments that rely on these solutions have unfettered access to the data and that the license rights belong to the government in question. This is because a tender notice from a buying authority that is legally owned by a third party creates liability issues with real cost implications for that body later on. If a government analyses data around procurement it needs to be without limitations to access of the data, and the threat of cost claims from suppliers. Open licensing and open identifiers get around this issue as these can be shared and reused without limitation.
 
-### Extracting the data for use.
+### Extracting the data for use
 
 Public sector organisations around the world all create rich datasets whether its data on cities, taxation, companies or procurement. This can take many forms, whether from excel spreadsheets to servers hosted on site to cloud storage. 
 

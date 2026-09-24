@@ -8,9 +8,9 @@ full_width: true
 notion_id: "149ab2d38e6b430eada9e1cb977fb06a"
 sidebar: true
 ---
-# **Possibilités d’utilisation des données** existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. 
+# **Possibilités d’utilisation des données**
 
-Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics.
+Il existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics.
 
 Il existe différentes façons d’exploiter les données ouvertes pour favoriser et évaluer les progrès concernant la réalisation de vos objectifs de durabilité. Vous trouverez ci-dessous dix possibilités pour collecter et utiliser les données afin d’évaluer et de suivre la durabilité des marchés publics.
 
