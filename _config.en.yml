@@ -13,4 +13,4 @@ search_labels:
   open_in_new_tab: Open in a new tab
 favicon: /assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/uploads/favicon/5e853f5d-e7b4-4e95-a104-89bc763a27b9.png
 destination: _site/en
-exclude: [es, fr, scripts, "Export-*", README.md, IMPROVEMENTS.md, LANGUAGES.md, TODO.md, super-so-inventory.md, translation-review.md, link-fixes.csv]
+exclude: [es, fr, scripts, "Export-*", README.md, link-fixes.csv]
