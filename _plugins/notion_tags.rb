@@ -38,7 +38,7 @@ module NotionTags
              end
       %(<div class="notion-callout #{classes}"><div class="notion-callout__icon">#{icon}</div>) +
         %(<div class="notion-callout__content"><span class="notion-semantic-string">#{NotionTags.inline(context, text.to_s)}</span>) +
-        %(#{NotionTags.markdown(context, blocks.to_s)}</div></div>)
+        %(#{blocks.to_s.strip.empty? ? "" : NotionTags.markdown(context, blocks)}</div></div>)
     end
   end
 

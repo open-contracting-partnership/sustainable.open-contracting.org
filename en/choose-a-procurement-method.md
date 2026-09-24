@@ -76,18 +76,16 @@ There are different benefits of using two-stage tender processes when implementi
 
 {% toggle **How can you do it?** %}
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Step 1: </strong>Publish a contract notice and decide evaluation criteria for the Pre-qualification questionnaire (PQQ) phase. </li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 2: </strong>Select the first round of suppliers based on a PQQ with specific questions.</li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 3: </strong>Engage in dialogue with suppliers, and bring in more stakeholders from the supply chain.</li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 4: </strong>Draft tender specifications based on dialogue with suppliers to select the final solutions. </li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 5: </strong>Candidates submit their final tenders.<strong> </strong></li>
-  <li class="notion-list-item notion-semantic-string"><strong>Step 6:</strong> Evaluate tenders and award the contract to the selected supplier. </li>
-  <div class="notion-callout bg-red-light border">
-    <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Red6.png"/></div>
-    <div class="notion-callout__content"><span class="notion-semantic-string">A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract. </span></div>
-  </div>
-</ul>
+- **Step 1:** Publish a contract notice and decide evaluation criteria for the Pre-qualification questionnaire (PQQ) phase.
+- **Step 2:** Select the first round of suppliers based on a PQQ with specific questions.
+- **Step 3:** Engage in dialogue with suppliers, and bring in more stakeholders from the supply chain.
+- **Step 4:** Draft tender specifications based on dialogue with suppliers to select the final solutions.
+- **Step 5:** Candidates submit their final tenders.
+- **Step 6:** Evaluate tenders and award the contract to the selected supplier.
+
+  {% callout red /assets/images/Icons_Red6.png %}
+  A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract.
+  {% endcallout %}
 
 {% endtoggle %}
 

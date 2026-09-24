@@ -26,14 +26,12 @@ As previously stated, two of the key challenges of the ICT sector are: gathering
 
 Conducting a needs assessment process before procurement processes is essential when implementing Open SPP. An accurate description of needs will prevent procuring unnecessary services or products, avoiding, thus, the unnecessary waste of resources. Needs assessments when procuring ICT should take into account:
 
-<ul class="notion-bulleted-list">
-  <li class="notion-list-item notion-semantic-string"><strong>Assess the option of repairing available equipment:</strong> for example, if a public authority is considering buying new printers, they should analyse the state of current equipment, identifying which are the performance issues and whether these can be fixed. This can be done by gathering contract information and contacting the supplier of the equipment and/or maintenance services. </li>
-  <li class="notion-list-item notion-semantic-string"><strong>Map out current and future needs: </strong>if the decision to procure new equipment has been taken, public authorities should gather the necessary information to understand their real needs and how these will inform the drafting of procurement documents. This can include having a clear idea of the staff that will be using the equipment, and any foreseeable staffing decisions that might alter this number. This process can also include gathering information regarding any accessibility adjustments that should be integrated in the equipment to ensure adaptation to users with different abilities. </li>
-  <div class="notion-callout bg-gray-light border">
-    <div class="notion-callout__icon"><img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="object-fit:contain;object-position:center" src="/assets/images/Icons_Grey9.png"/></div>
-    <div class="notion-callout__content"><span class="notion-semantic-string"><strong>Some ICT companies provide needs assessments as a service that is attached to the procuring of equipment, it is sometimes known as Device as a Service (DaaS). </strong>This can be useful for public authorities which are thinking of procuring a large quantity of equipment but do not have the skills or resources to conduct this analysis themselves. </span></div>
-  </div>
-</ul>
+- **Assess the option of repairing available equipment:** for example, if a public authority is considering buying new printers, they should analyse the state of current equipment, identifying which are the performance issues and whether these can be fixed. This can be done by gathering contract information and contacting the supplier of the equipment and/or maintenance services.
+- **Map out current and future needs:** if the decision to procure new equipment has been taken, public authorities should gather the necessary information to understand their real needs and how these will inform the drafting of procurement documents. This can include having a clear idea of the staff that will be using the equipment, and any foreseeable staffing decisions that might alter this number. This process can also include gathering information regarding any accessibility adjustments that should be integrated in the equipment to ensure adaptation to users with different abilities.
+
+  {% callout gray /assets/images/Icons_Grey9.png %}
+  **Some ICT companies provide needs assessments as a service that is attached to the procuring of equipment, it is sometimes known as Device as a Service (DaaS).** This can be useful for public authorities which are thinking of procuring a large quantity of equipment but do not have the skills or resources to conduct this analysis themselves.
+  {% endcallout %}
 
 {% endtoggle %}
 
