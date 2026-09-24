@@ -13,6 +13,6 @@ search_labels:
   open_in_new_tab: Abrir en una pestaña nueva
 favicon: 
 destination: _site/es
-exclude: [en, fr, scripts, "Export-*", README.md, link-fixes.csv]
+exclude: [en, fr, scripts, "Export-*", README.md]
 notion:
   hide_properties: true

@@ -13,6 +13,6 @@ search_labels:
   open_in_new_tab: Ouvrir dans un nouvel onglet
 favicon: /assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/uploads/favicon/5c16038d-c421-4cdb-ad8e-902782ed2b4e.png
 destination: _site/fr
-exclude: [en, es, scripts, "Export-*", README.md, link-fixes.csv]
+exclude: [en, es, scripts, "Export-*", README.md]
 notion:
   hide_properties: true
