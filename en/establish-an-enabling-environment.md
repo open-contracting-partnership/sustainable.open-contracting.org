@@ -82,7 +82,7 @@ Within your procurement regime, there will be certain policy vehicles, such as f
 - title: Framework agreements
   link: /establish-an-enabling-environment/framework-agreements
   icon: /assets/images/icons_D_Green3.png
-- title: "Thresholds and sectors with distinct regulation "
+- title: "Thresholds and sectors with distinct regulation"
   link: /establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation
   icon: /assets/images/icons_D_Green3.png
 - title: Targets and reserved contracts

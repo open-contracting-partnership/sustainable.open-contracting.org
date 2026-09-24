@@ -6,7 +6,7 @@ icon: /assets/images/Tick_green_2.png
 notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 ---
 {% callout green /assets/images/Pin_green.png %}
-***Vous pouvez vous inspirer de ce modèle pour élaborer la table des matières de votre plan d’action sur les marchés publics durables.*** *Lorsque cela était possible, nous avons indiqué les aspects des marchés publics durables et ouverts abordés plus en détail dans* [***cette section***](/plan-daction)***.***
+***Vous pouvez vous inspirer de ce modèle pour élaborer la table des matières de votre plan d’action sur les marchés publics durables.*** *Lorsque cela était possible, nous avons indiqué les aspects des marchés publics durables et ouverts abordés plus en détail dans* [***cette section***](/plan-daction).
 {% endcallout %}
 
 **Ce modèle est inspiré du document suivant :** Programme des Nations Unies pour l’environnement, [*Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), 2021 (page 94).

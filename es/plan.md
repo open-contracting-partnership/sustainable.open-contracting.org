@@ -23,7 +23,7 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
 - title: Priorice
   link: /priorice
   icon: /assets/images/icons_D_Green2.png
-- title: "Monitoreo y evaluación "
+- title: "Monitoreo y evaluación"
   link: /monitoreo-y-evaluacin
   icon: /assets/images/icons_D_Green2.png
 - title: Construya soporte y capacidades

@@ -24,7 +24,7 @@ In this section, **we provide you with all the information you need to get start
 - title: Prioritize
   link: /prioritize
   icon: /assets/images/icons_D_Green2.png
-- title: "Monitoring & evaluation "
+- title: "Monitoring & evaluation"
   link: /monitoring-evaluation
   icon: /assets/images/icons_D_Green2.png
 - title: Build support and capabilities

@@ -13,7 +13,7 @@ notion_id: f0048abe2b0b4cb4acc440586fa3179a
 - title: Priorice
   link: /priorice
   icon: /assets/images/icons_D_Green2.png
-- title: "Monitoreo y evaluación "
+- title: "Monitoreo y evaluación"
   link: /monitoreo-y-evaluacin
   icon: /assets/images/icons_D_Green2.png
 - title: Construya soporte y capacidades

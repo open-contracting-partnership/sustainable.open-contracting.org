@@ -71,7 +71,7 @@ There are a wide range of analysis options in this area. Governments have very b
 - title: Actuals and projections
   link: /life-cycle-costing/actuals-and-projections
   icon: /assets/images/Icons_Light_Green3.png
-- title: "How to gather the data you need? "
+- title: "How to gather the data you need?"
   link: /life-cycle-costing/how-to-gather-the-data-you-need
   icon: /assets/images/Icons_Light_Green3.png
 - title: Life cycle costing and SPP

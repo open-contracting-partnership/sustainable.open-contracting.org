@@ -16,7 +16,7 @@ notion_id: "36e041d26513471e9d053b66f33a9d8d"
 - title: Framework agreements
   link: /establish-an-enabling-environment/framework-agreements
   icon: /assets/images/icons_D_Green3.png
-- title: "Thresholds and sectors with distinct regulation "
+- title: "Thresholds and sectors with distinct regulation"
   link: /establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation
   icon: /assets/images/icons_D_Green3.png
 - title: Targets and reserved contracts

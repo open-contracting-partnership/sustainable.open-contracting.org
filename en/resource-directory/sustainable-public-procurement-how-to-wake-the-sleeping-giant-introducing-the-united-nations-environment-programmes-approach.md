@@ -1,6 +1,6 @@
 ---
 permalink: /resource-directory/sustainable-public-procurement-how-to-wake-the-sleeping-giant-introducing-the-united-nations-environment-programmes-approach
-title: "Sustainable Public Procurement: How to “Wake the Sleeping Giant”! Introducing the United Nations Environment Programme’s Approach."
+title: "Sustainable Public Procurement: How to “Wake the Sleeping Giant”! Introducing the United Nations Environment Programme’s Approach"
 notion_id: dc19e879d55e4465b8d5196fab3a8804
 properties:
   Attachment:

@@ -10,7 +10,7 @@ notion_id: "56a67f7e4e114f4f88e0b397b0340c4f"
 - title: How to record SPP in procurement
   link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png
-- title: "Options for measuring "
+- title: "Options for measuring"
   link: /ladoption-des-pratiques-durables/options-for-measuring
   icon: /assets/images/Icons_Light_Green3.png
 - title: How to measure SPP uptake

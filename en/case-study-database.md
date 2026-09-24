@@ -72,7 +72,7 @@ sidebar: true
   link: /establishing-spp-governance-in-an-action-plan-in-ecuador
   cover: /assets/images/LAC_-_Ecuador.png
   cover_only: true
-- title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City "
+- title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City"
   link: /using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city
   cover: /assets/images/LAC_-_Mexico.png
   cover_only: true

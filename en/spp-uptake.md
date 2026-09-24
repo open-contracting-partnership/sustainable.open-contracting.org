@@ -52,7 +52,7 @@ Once this has been clearly established, you can measure and record uptake of SPP
 - title: How to record SPP in procurement
   link: /spp-uptake/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png
-- title: "Options for measuring "
+- title: "Options for measuring"
   link: /spp-uptake/options-for-measuring
   icon: /assets/images/Icons_Light_Green3.png
 - title: How to measure SPP uptake

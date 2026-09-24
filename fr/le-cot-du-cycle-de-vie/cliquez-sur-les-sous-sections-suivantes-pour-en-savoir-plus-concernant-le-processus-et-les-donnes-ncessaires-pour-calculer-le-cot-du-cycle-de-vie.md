@@ -13,7 +13,7 @@ notion_id: "754144edc7db4f8aa37d61c887387598"
 - title: Actuals and projections
   link: /le-cot-du-cycle-de-vie/actuals-and-projections
   icon: /assets/images/Icons_Light_Green3.png
-- title: "How to gather the data you need? "
+- title: "How to gather the data you need?"
   link: /le-cot-du-cycle-de-vie/how-to-gather-the-data-you-need
   icon: /assets/images/Icons_Light_Green3.png
 - title: Life cycle costing and SPP

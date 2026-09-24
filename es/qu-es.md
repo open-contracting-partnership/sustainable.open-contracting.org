@@ -10,7 +10,7 @@ sidebar: true
 ---
 # ¿Qué es la Contratación Pública Sostenible y Abierta?
 
-La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: **beneficios económicos, sociales y ambientales***.*
+La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: **beneficios económicos, sociales y ambientales**.
 
 {% image /assets/images/What-is-SPP-Diagram-es.png 1920 1080 align-start %}
 

@@ -54,7 +54,7 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 - title: How to record SPP in procurement
   link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png
-- title: "Options for measuring "
+- title: "Options for measuring"
   link: /ladoption-des-pratiques-durables/options-for-measuring
   icon: /assets/images/Icons_Light_Green3.png
 - title: How to measure SPP uptake

@@ -39,7 +39,7 @@ notion_id: "37f87b7f84ce4be7b2ccb4445d2efed2"
   link: /casos-de-estudio/establishing-spp-governance-in-an-action-plan-in-ecuador
   cover: /assets/images/LAC_-_Ecuador.png
   cover_only: true
-- title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City "
+- title: "Using open contracting to procure a sustainable and user-friendly bike share system in Mexico City"
   link: /casos-de-estudio/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city
   cover: /assets/images/LAC_-_Mexico.png
   cover_only: true
