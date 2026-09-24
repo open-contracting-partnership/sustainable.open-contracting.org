@@ -17,19 +17,31 @@ bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.ym
 
 Each build writes to `_site/<lang>/`, which is the output directory for that site's Cloudflare Pages project. Google Analytics is included only when `JEKYLL_ENV=production`.
 
-Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. To build a site with its index, as its Cloudflare Pages project should:
+Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. `scripts/build.sh` builds a site and its index:
 
 ```bash
-JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.en.yml && npx -y pagefind --site _site/en
+scripts/build.sh en  # or es, fr
 ```
 
-To try search locally, build the index and serve `_site/<lang>/`, since `jekyll serve` rebuilds the site without it:
+To try search locally, serve the build, since `jekyll serve` rebuilds the site without the index:
 
 ```bash
-bundle exec jekyll build --config _config.yml,_config.en.yml && npx -y pagefind --site _site/en && python3 -m http.server -d _site/en
+scripts/build.sh en && python3 -m http.server -d _site/en
 ```
 
 Pagefind indexes each page's `<main>`, except the navbar, sidebar, cover and icon, and skips pages without content or properties (placeholders for database items).
+
+## Deploy
+
+Each site is a Cloudflare Pages project, connected to this repository:
+
+| Site | Build command | Output directory |
+| --- | --- | --- |
+| sustainable.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh en` | `_site/en` |
+| sostenibilidad.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh es` | `_site/es` |
+| achatdurable.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh fr` | `_site/fr` |
+
+`.ruby-version` and `.node-version` set the versions that the build uses, and Cloudflare runs `bundle install` before the build command.
 
 ## Pages
 
