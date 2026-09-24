@@ -10,7 +10,7 @@ sidebar: true
 ---
 # **Suivi et évaluation**
 
-Dans cette section, nous expliquons comment définir les objectifs de durabilité de votre organisation et suivre leur réalisation à l’aide d’indicateurs par l’entremise d’un modèle de cadre de suivi et d’évaluation. [Ce cadre](/ee270b90e9554e35a15e901482260c1f) contient des exemples d’indicateurs visant à faciliter le suivi et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
+Dans cette section, nous expliquons comment définir les objectifs de durabilité de votre organisation et suivre leur réalisation à l’aide d’indicateurs par l’entremise d’un modèle de cadre de suivi et d’évaluation. [Ce cadre](/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation) contient des exemples d’indicateurs visant à faciliter le suivi et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
 {% callout green /assets/images/icons_D_Green8.png %}
 Il est important de garder à l’esprit que les éléments de ce cadre ne sont pas pertinents pour tous les projets de marchés publics durables et ouverts, vous devrez donc choisir les objectifs, résultats et indicateurs qui s’adaptent le plus à votre contexte. Nous mettons à disposition un modèle de cadre dans la section des ressources.
@@ -18,7 +18,7 @@ Il est important de garder à l’esprit que les éléments de ce cadre ne sont 
 
 ## **Que désignent les objectifs, les résultats et les indicateurs ?**
 
-Le modèle de [cadre de suivi et d’évaluation](/ee270b90e9554e35a15e901482260c1f) est structuré autour d’objectifs, de résultats et d’indicateurs. Il peut vous aider à élaborer votre propre cadre de suivi et d’évaluation et doit être adapté en fonction de vos besoins.
+Le modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation) est structuré autour d’objectifs, de résultats et d’indicateurs. Il peut vous aider à élaborer votre propre cadre de suivi et d’évaluation et doit être adapté en fonction de vos besoins.
 
 {% toggle **Objectifs** %}
 
@@ -36,7 +36,7 @@ Parmi ces objectifs se trouve la **réduction des émissions de carbone**. Étan
 Les résultats correspondent aux changements intermédiaires visés par la mise en place de marchés publics durables et ouverts. Chaque objectif est associé à plusieurs résultats, qui contribuent ensemble à l’objectif de durabilité global.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-Comme vous pouvez le voir dans le modèle de [cadre de suivi et d’évaluation](/ee270b90e9554e35a15e901482260c1f), quatre résultats sont associés à l’objectif de **réduction des émissions de carbone.** Ces résultats sont les suivants : **Promotion des pratiques sobres en carbone dans les marchés publics ; Réduction du niveau d’émission de carbone des marchés publics ; Promotion des fournisseurs émettant peu de carbone ; Réduction de l’acquisition de produits à forte intensité de carbone.**
+Comme vous pouvez le voir dans le modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation), quatre résultats sont associés à l’objectif de **réduction des émissions de carbone.** Ces résultats sont les suivants : **Promotion des pratiques sobres en carbone dans les marchés publics ; Réduction du niveau d’émission de carbone des marchés publics ; Promotion des fournisseurs émettant peu de carbone ; Réduction de l’acquisition de produits à forte intensité de carbone.**
 {% endcallout %}
 
 {% endtoggle %}
