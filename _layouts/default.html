@@ -14,7 +14,7 @@
 {%- endif %}
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ page.title | escape }}">
-<meta property="og:locale" content="en-US">
+<meta property="og:locale" content="{{ site.locale }}">
 {%- if page.cover %}
 <meta property="og:image" content="{{ page.cover | absolute_url }}">
 <meta property="og:image:alt" content="{{ page.title | escape }}">

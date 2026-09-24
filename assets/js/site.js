@@ -89,6 +89,8 @@ if (search) {
     });
     const footer = template(".notion-search__result-footer");
     footer.querySelector("strong").textContent = results.length;
+    const label = footer.querySelector("strong + span");
+    label.textContent = results.length === 1 ? label.dataset.one : label.dataset.many;
     box.append(list, footer);
     list.querySelector(".active")?.scrollIntoView({ block: "nearest" });
   };

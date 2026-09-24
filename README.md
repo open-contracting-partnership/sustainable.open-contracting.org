@@ -17,7 +17,7 @@ bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.ym
 
 Each build writes to `_site/<lang>/`, which is the output directory for that site's Cloudflare Pages project. Google Analytics is included only when `JEKYLL_ENV=production`.
 
-The English and French sites have search (the `search` setting), whose index [Pagefind](https://pagefind.app) builds from a site's build. To build a site with its index, as its Cloudflare Pages project should:
+Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. To build a site with its index, as its Cloudflare Pages project should:
 
 ```bash
 JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.en.yml && npx -y pagefind --site _site/en
