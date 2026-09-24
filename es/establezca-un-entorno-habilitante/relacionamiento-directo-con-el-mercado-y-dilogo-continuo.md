@@ -1,7 +1,7 @@
 ---
 permalink: /establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo
 title: Relacionamiento directo con el mercado y diálogo continuo
-description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
+description: "Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in Peru, and has been proposed in Chile)."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
@@ -10,21 +10,24 @@ sidebar: true
 ---
 ## **What are they?**
 
-Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies.
+Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in [Peru](https://www.gob.pe/institucion/mef/normas-legales/226844-1362), and has been proposed in [Chile](https://www.chilecompra.cl/2021/03/hacienda-envia-proyecto-de-ley-de-compras-publicas-para-generar-mas-transparencia-y-competencia-en-las-transacciones-que-realiza-el-estado/)).
 
 ## **How do they relate to SPP?**
 
-**Procurement Thresholds**
+When implementing sustainable procurement, engaging with the market is essential to inform your decisions regarding what sustainability criteria to include in the procurement process. This will help ensure that the criteria can be met by many suppliers, without leaving out SMEs or local companies
 
-Procurement frameworks often establish financial thresholds where tenders that fall under the threshold are subject to more flexible regulation. If this is the case, under-threshold contracts could offer more scope to implement SPP practices.
+**Market Engagement**
 
-**Sectors with Distinct Regulation**
+Ensuring that there are provisions that allow for the implementation of Market Engagement practices, such as the use of Prior Information Notices (PINs) will facilitate the assessment of available sustainable alternatives in the market. This practice will inform, during the procurement planning stage, to what extent sustainability criteria can be included as technical specifications or award criteria during the procurement process. However, it is important to ensure that procurement practitioners have clarity over what constitutes compliant and effective market engagement in the context of SPP.
 
-Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories. 
+{% callout green /assets/images/icons_D_Green6.png %}
+**Prior Information Notices (PINs)** are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.
+{% endcallout %}
 
-{% callout green /assets/images/icons_D_Green8.png %}
-When looking at thresholds and sectors with distinct regulation it is **important to check the following:**
+**Ongoing consultation**
 
-- Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.
-- **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. 
+Ensuring that there are provisions that include open disclosure of information or ongoing dialogue during the procurement process can be especially useful for outcome-based and performance-based procurement. These types of procurement allow practitioners to set environmental and social desired outcomes and establish a dialogue with suppliers to discuss and negotiate possible solutions.
+
+{% callout green /assets/images/icons_D_Green6.png %}
+For **more information on market engagement practices** see section [Engage with the supplier market](/relacinese-con-el-mercado). To learn **more about procurement approaches that include ongoing consultation practices**, see section on [Choose a procurement method.](/elija-un-mtodo-de-contratacin)
 {% endcallout %}

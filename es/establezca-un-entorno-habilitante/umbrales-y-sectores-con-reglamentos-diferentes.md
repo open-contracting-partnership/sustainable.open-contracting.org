@@ -1,7 +1,7 @@
 ---
 permalink: /establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes
 title: Umbrales y sectores con reglamentos diferentes
-description: "Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses."
+description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png
 full_width: true
@@ -10,35 +10,21 @@ sidebar: true
 ---
 ## **What are they?**
 
-Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses.
-
-Both tools, in different ways, help to deliver improved SPP outcomes, and provide incentives for authorities to pursue SPP.
+Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies.
 
 ## **How do they relate to SPP?**
 
-**Targets**
+**Procurement Thresholds**
 
-Procurement targets can be set nationally or locally (or, in some cases, internationally) and provide a clear signal for all stakeholders of an authority’s intent to pursue SPP. Targets are usually compliant with most overarching procurement frameworks, but it can be useful for authorities to identify any provisions relating to targets in their regulations, and develop a target strategy that is consistent with that.
+Procurement frameworks often establish financial thresholds where tenders that fall under the threshold are subject to more flexible regulation. If this is the case, under-threshold contracts could offer more scope to implement SPP practices.
 
-When targets are developed, it is important to openly communicate this to all stakeholders, including why the target has been implemented, and how it will be measured. It is then important to provide timely updates on progress against targets, with information published openly on national or local portals.
+**Sectors with Distinct Regulation**
 
-**Reserved contracts**
-
-Authorities sometimes go a step further in intervening to drive SPP outcomes, by actively reserving contracts for certain outcomes, projects or groups. This is most frequently done in the context of reserving contracts for certain types of businesses - such as SMEs, VCSEs, local businesses, or businesses owned by certain demographic groups.
-
-Reserving contracts can present more of a compliance challenge, especially for authorities who are participating in an international procurement agreement, or who have other trade agreements in place that cover procurement. For reserving contracts for business groups types, this can be due to the fact that reserving might represent a restriction of the supplier market. And for reserving contracts for specific countries or regions, reserving may contravene an agreement for countries to be able access each other’s procurement markets.
-
-However, if done in a compliant way, reserving contracts can be extremely powerful. Introducing a provision for reserving contracts below legally regulated value thresholds is often a simpler way of getting started.
-
-As above, it is key to openly communicate any reserving policy as widely as possible, including why an authority has adopted this policy. It is then also important to publish data about these initiatives, including any ‘spill-over’ effects on contracts that have not been reserved (for instance, how reserving some below threshold contracts for minority-owned businesses may have an impact for procurement outcomes more generally).
+Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories. 
 
 {% callout green /assets/images/icons_D_Green8.png %}
-Despite the establishing reserved contracts and targets, these opportunities  When reserving contracts or establishing targets, it is important to develop a strategy to **effectively promote the uptake of this opportunity.** This can include sharing the information through relevant communication channels, and collaborating with Civil Society Organisations (CSOs) that can support with outreach and capacity building activities. 
-{% endcallout %}
+When looking at thresholds and sectors with distinct regulation it is **important to check the following:**
 
-{% callout gray /assets/images/Icons_Grey4.png %}
-**In the Dominican Republic Micro, Small and Medium-sized enterprises (MSMEs) represent 38.6% of the GDP and 54.5% of the overall employment.** In 2012, a national policy was launched to support MSMEs, and the promotion of these companies was one of the three main objectives of the 2013, and 2016 National Multi-annual Public Sector Plans.
-<br>As part of this policy, a series of legal instruments were created. This includes [Law No. 488-08](https://www.dgcp.gob.do/new_dgcp/documentos/fomen/Ley-488-08%20-%20MIPYMEs.pdf), which establishes that 1**5% of all goods and services must be procured from MSMEs, and obliges 20% of this percentage to be from women-led MSMEs**. [Decree 543-12](https://www.dgcp.gob.do/new_dgcp/documentos/politicas_normas_y_procedimientos/leyes_y_decretos/reglamento_no_543_12_de_aplicacion_de_la_ley_no_340_06.pdf) establishes that procuring agencies **set aside 20% of procurement budget for procurement from MSMEs.** This Decree also establishes that these institutions are allowed to receive partial offers from MSMEs through the remaining 80%.
-<br>As part of this programme, an MSMEs registry was created. Public procurers can access this registry to obtain relevant information about MSMEs. This registry allows public procurers to examine MSMEs offers in a particular sector when a tender is launched.
-<br>**These efforts, together with other supporting mechanisms, have resulted in an increase of over 380% in the number of MSMEs supplying the government - from 9,555 in 2012, to 36, 538 in 2019.**
+- Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.
+- **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. 
 {% endcallout %}
