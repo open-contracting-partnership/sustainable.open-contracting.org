@@ -65,7 +65,7 @@ Uno de los factores clave que usted debe considerar al determinar las prioridade
 {% toggle **Impacto ambiental** %}
 
 Cada categoría puede ser clasificada de acuerdo con su impacto sobre los diferentes factores ambientales, tales como emisiones de CO2, contaminación del aire y agua, rellenos sanitarios, sustancias peligrosas materias primas, consumo de energía, consume de agua e impactos sobre la biodiversidad.
-<br>Por ejemplo, tal como se aprecia en la sección dedicada a sectores específicos, el impacto del entorno del sector construcción (LINK 28) está asociado principalmente con la emisión de CO2, con un impacto potencial sobre las materias primas, la contaminación, y biodiversidad. Por otro lado, el sector TIC (LINK 29) se asocia más con desechos, sustancias peligrosas, y materias primas.
+<br>Por ejemplo, tal como se aprecia en la sección dedicada a sectores específicos, el impacto del entorno del [sector construcción](/sector-de-la-construccin-en-ingls) está asociado principalmente con la emisión de CO2, con un impacto potencial sobre las materias primas, la contaminación, y biodiversidad. Por otro lado, el [sector TIC](/sector-ict-en-ingls) se asocia más con desechos, sustancias peligrosas, y materias primas.
 
 {% endtoggle %}
 
@@ -82,7 +82,7 @@ El impacto económico de una categoría dependerá en gran medida de la oferta d
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green-2.png %}
-Al evaluar el impacto de estas categorías también debe tener en cuenta su importancia estratégica. Esto quiere decir, por ejemplo, que si un país o una organización ha decidido establecer la promoción de "cero neto" como una meta (LINK 30) de CPS Abierta, luego los categorías en las cuales la implementación del CPS Abierta serían conducente a la reducción de emisiones de CO2 deben ser tratadas como prioridad. La implementación de **CPS Abierta en categorías como con una importancia estratégica más alta podría recibir más apoyo por parte de las partes interesadas, con un impacto más alto resultante.**
+Al evaluar el impacto de estas categorías también debe tener en cuenta su importancia estratégica. Esto quiere decir, por ejemplo, que si un país o una organización ha decidido establecer la promoción de "cero neto" como una [meta](/monitoreo-y-evaluacin) de CPS Abierta, luego los categorías en las cuales la implementación del CPS Abierta serían conducente a la reducción de emisiones de CO2 deben ser tratadas como prioridad. La implementación de **CPS Abierta en categorías como con una importancia estratégica más alta podría recibir más apoyo por parte de las partes interesadas, con un impacto más alto resultante.**
 {% endcallout %}
 
 ## **Considere la facilidad de implementación**
@@ -91,14 +91,14 @@ Además de identificar las categorías que puedan tener un impacto con la implem
 
 ### **Identifique las normas de sostenibilidad vigentes y ecoetiquetas**
 
-Los esquemas de certificación pueden facilitar la implementación de CPS Abierta. Por ejemplo, se puede hacer uso de eco etiquetas creíbles (LINK 31) para identificar opciones sostenibles ya disponibles que se pueden adquirir dentro de las categorías de contratación identificadas. Usted puede juzgar la credibilidad del esquema por sus mecanismos de adopción, gobierno, auditoría, y supervisión.
+Los esquemas de certificación pueden facilitar la implementación de CPS Abierta. Por ejemplo, se puede hacer uso de [eco etiquetas creíbles](/guas-para-las-ecoetiquetas) para identificar opciones sostenibles ya disponibles que se pueden adquirir dentro de las categorías de contratación identificadas. Usted puede juzgar la credibilidad del esquema por sus mecanismos de adopción, gobierno, auditoría, y supervisión.
 
 {% indent **Disponibilidad de normas de sostenibilidad desarrolladas** %}
 
-Las prácticas de compras más sostenibles implican conocimientos de las normas que un producto, servicio u obra deben cumplir para ser clasificado como sostenible. Este elemento informará los requisitos que usted establece (LINK 32) para comparar las ofertas a lo largo del proceso de contratación. Las normas de sostenibilidad ya existentes pueden facilitar este proceso, ya que pueden ser utilizadas como puntos de referencia para elaborar dichos requisitos.
+Las prácticas de compras más sostenibles implican conocimientos de las normas que un producto, servicio u obra deben cumplir para ser clasificado como sostenible. Este elemento informará [los requisitos que usted establece](/establezca-criterios-de-sostenibilidad) para comparar las ofertas a lo largo del proceso de contratación. Las normas de sostenibilidad ya existentes pueden facilitar este proceso, ya que pueden ser utilizadas como puntos de referencia para elaborar dichos requisitos.
 
 - **Etiquetas ambientales existentes, o "ecoetiquetas***"*. Estas etiquetas pueden ayudar a identificar productos ambientalmente preferibles dentro de una categoría dada de productos. Por ejemplo, en las categorías de contratación como los TIC ya existen eco etiquetas bien establecidas que faciliten la implementación de adquirir productos dentro de esta categoría. Para más información sobre estas imponer su uso en la implementación de CPS, debe hacer referencia a esta Guía.
-- **Criterios existentes desarrollados por otros países***.* Por ejemplo, muchos países de Europa han asignado prioridad a las categorías de contratación incluidas en orientación de criterios para Contratación Pública Verde (GPP) (LINK 33) de la Comisión Europea. Esta orientación contiene información sobre criterios específicos que usted puede establecer como requisitos esenciales, o como criterios de adjudicación, en el proceso de adquisición, por ejemplo, de productos y servicios de aseo ambientalmente preferidos. Esta información facilita la implementación para los responsables de procesos de contratación. Sin embargo, usted debe tener presente su entorno habilitante (LINK 34) para su orientación sobre la manera de introducir estas normas en la evaluación de ofertas.
+- **Criterios existentes desarrollados por otros países***.* Por ejemplo, muchos países de Europa han asignado prioridad a las categorías de contratación incluidas en orientación de criterios para Contratación Pública Verde (GPP) (LINK 33) de la Comisión Europea. Esta orientación contiene información sobre criterios específicos que usted puede establecer como requisitos esenciales, o como criterios de adjudicación, en el proceso de adquisición, por ejemplo, de productos y servicios de aseo ambientalmente preferidos. Esta información facilita la implementación para los responsables de procesos de contratación. Sin embargo, usted debe tener presente su [entorno habilitante](/establezca-un-entorno-habilitante) para su orientación sobre la manera de introducir estas normas en la evaluación de ofertas.
 
 {% endindent %}
 

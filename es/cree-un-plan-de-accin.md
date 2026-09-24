@@ -37,7 +37,7 @@ Cada país regula su contratación pública con sus propias y diversas leyes, re
 La comunicación del resultado de este ejercicio en su Plan de Acción es una oportunidad para establecer confianza, mediante una definición clara de la manera en que el enfoque de CPS Abierta se enmarca dentro del las normas actuales. En particular, el Plan de Acción debe ser focalizado en la comunicación de los siguientes elementos:
 
 - **Leyes, políticas y planes pertinentes**, y la manera en que pueden ser interpretados para la implementación de CPS. Esto incluye la referenciación de las normas actuales en relación con los criterios de evaluación, y cualesquiera reglamentos habilitadores de CPS existentes.
-- **Cambios o ajustes que habría que adoptar con el fin de aumentar el alcance de implementación.** Esto puede incluir, por ejemplo, la figura de contratos reservados o metas, (LINK 87) )para ciertos tipos de empresas como PyMES; o la definición de un umbral de contratación (LINK 88) para facilitar la implementación de CPS Abierta.
+- **Cambios o ajustes que habría que adoptar con el fin de aumentar el alcance de implementación.** Esto puede incluir, por ejemplo, la figura de [contratos reservados o metas](/establezca-un-entorno-habilitante/metas-y-contratos-reservados) para ciertos tipos de empresas como PyMES; o la definición de un [umbral de contratación](/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes) para facilitar la implementación de CPS Abierta.
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**

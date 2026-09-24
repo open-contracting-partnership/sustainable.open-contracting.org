@@ -1,7 +1,7 @@
 ---
 permalink: /monitoreo-y-evaluacin
 title: Monitoreo y evaluación
-description: "En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). Este marco (LINK 44) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas."
+description: "En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). Este marco incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png
 full_width: true
@@ -10,7 +10,7 @@ sidebar: true
 ---
 # **Identifique sus metas de sostenibilidad y progreso de seguimiento**
 
-En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). Este marco (LINK 44) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
+En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). [Este marco](/monitoreo-y-evaluacin/ejemplo-de-marco-me) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
 
 {% callout green /assets/images/icons_D_Green8.png %}
 Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una plantilla editable del marco muestra (LINK 45)\] en la sección de recursos descargables. 
@@ -35,7 +35,7 @@ Una de las cinco metas que hemos incluido en nuestra muestra de trabajo en la se
 Los resultados son los cambios esperados a nivel intermedio, como consecuencia de la implementación de prácticas de CPS Abierta. Cada meta tiene ciertos resultados definidos y asociados con ella, los cuales en su conjunto aportan una meta final de sostenibilidad.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-Como se puede ver en el ejemplo Marco M&E, (LINK 49) cuatro resultados han sido alineados con una meta de la **reducción de emisiones de carbono**. Estos resultados son: **la promoción de prácticas de carbono bajo en contratos públicos, la reducción de valores de carbono asociados con los contratos públicos, la promoción de proveedores carbono**, y **la reducción de la adquisición de productos carbono intensivos.**
+Como se puede ver en el [ejemplo Marco M&E](/monitoreo-y-evaluacin/ejemplo-de-marco-me), cuatro resultados han sido alineados con una meta de la **reducción de emisiones de carbono**. Estos resultados son: **la promoción de prácticas de carbono bajo en contratos públicos, la reducción de valores de carbono asociados con los contratos públicos, la promoción de proveedores carbono**, y **la reducción de la adquisición de productos carbono intensivos.**
 {% endcallout %}
 
 {% endtoggle %}

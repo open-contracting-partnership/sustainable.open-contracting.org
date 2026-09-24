@@ -48,7 +48,7 @@ Las sesiones de capacitación en CPS se pueden organizar durante todo el año, c
 
 {% indent **Talleres sobre sostenibilidad con los proveedores** %}
 
-Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación. (LINK 65) Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.
+Las autoridades públicas deben colaborar con los proveedores y con las organizaciones y sectores específicos de sectores con el fin de determinar [cuáles normas de sostenibilidad se pueden recomendar para los procesos de contratación](/establezca-criterios-de-sostenibilidad). Los talleres y eventos se pueden organizar con el fin de evaluar la capacidad del mercado, y trabajar con los proveedores para crear una hoja de ruta para la mejora continua de prácticas sostenibles. Estos eventos pueden ayudar a las autoridades públicas en su trabajo con los proveedores locales, especialmente con las PyMES, para asegurar que no estén marginadas por la integración de requisitos de sostenibilidad en los procesos de contratación.
 
 {% endindent %}
 
@@ -78,7 +78,7 @@ Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green 
 
 # **Cree y comparta registros y catálogos de sostenibilidad**
 
-En la sección de Marco Habilitante vimos cómo la integración de criterios de sostenibilidad en los acuerdos marco (LINK 72) puede constituir un elemento habilitador de CPS. Otra manera de crear una lista preseleccionada de proveedores más sostenibles sería a través de los catálogos y registros públicos disponibles,
+En la sección de Marco Habilitante vimos cómo la integración de criterios de sostenibilidad en los [acuerdos marco](/establezca-un-entorno-habilitante/acuerdo-marco) puede constituir un elemento habilitador de CPS. Otra manera de crear una lista preseleccionada de proveedores más sostenibles sería a través de los catálogos y registros públicos disponibles,
 
 Los proveedores incluidos en estas listas pueden ser seleccionados de acuerdo con ciertas normas de sostenibilidad definidas por eco etiquetas existentes y acreditaciones, o por las los criterios estandarizados que se hayan desarrollado. El catálogo o registro ayudaría a resolver preocupaciones legales de parte de los responsables de la contratación, ya que se entendería que la compra de productos o servicios de la lista está apoyada por el gobierno, aunque los precios pueden ser más altos. Es importante crear rutas claras y equitativas, especialmente para las empresas de menor tamaño que puedan aspirar a tener acceso al registro, y tener actualizaciones periódicas.
 
