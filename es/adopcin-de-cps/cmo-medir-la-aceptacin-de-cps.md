@@ -101,7 +101,7 @@ Objetivo contra real = 63-70% = -7% contra objetivo
 El Ministerio de Infraestructura tiene un rendimiento inferior al 7%
 ```
 
-Desde una vista de clasificación de alto nivel, los datos se pueden desglosar aún más en hojas de cálculo y paneles. De la lista ilustrativa anterior, tomando el Ministerio de Infraestructura con el peor desempeño en 63%: 
+Desde una vista de clasificación de alto nivel, los datos se pueden desglosar aún más en hojas de cálculo y paneles. De la lista ilustrativa anterior, tomando el Ministerio de Infraestructura con el peor desempeño en 63%:
 
 ```r
 Año    | Recuento SPP*   | Recuento SPP* |

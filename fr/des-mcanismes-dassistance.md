@@ -10,9 +10,9 @@ sidebar: true
 ---
 # **Mettre en place des mécanismes d’assistance et de renforcement des capacités**
 
-À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs. 
+À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs.
 
-Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place de marchés publics durables suppose une transformation fondamentale des pratiques d’achat. Étant donné que cette transformation peut générer des difficultés pour les fonctionnaires responsables de la passation de marchés, les pouvoirs publics doivent examiner ce qui est en leur pouvoir pour renforcer les capacités. 
+Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place de marchés publics durables suppose une transformation fondamentale des pratiques d’achat. Étant donné que cette transformation peut générer des difficultés pour les fonctionnaires responsables de la passation de marchés, les pouvoirs publics doivent examiner ce qui est en leur pouvoir pour renforcer les capacités.
 
 {% callout green /assets/images/Pin_green.png %}
 **Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**

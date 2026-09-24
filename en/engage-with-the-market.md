@@ -20,16 +20,16 @@ Engaging with the supplier market is important for all procurement processes. Ho
 
 Market engagement practices in the context of Open SPP implementation are normally carried out for the purpose of:
 
-- **Assessing market capability** 
+- **Assessing market capability**
 
   When deciding which procurement categories to prioritize, or considering what sustainability criteria should be introduced in public procurement contracts, it is essential to assess market capability. A successful assessment of market capability will ensure that Open SPP constitutes an opportunity to build on the sustainability work being carried out by local suppliers, while using it as a tool to promote innovation and progressively build market capability.
-- **Maximizing suppliers bidding for contract opportunities** 
+- **Maximizing suppliers bidding for contract opportunities**
 
   Market engagement activities will serve to promote tender opportunities, which can result in an increase of the number of bidders in public procurement tenders. Being able to choose from different suppliers, including those who might have not considered public procurement before, increases the chances of finding the best solution to the identified needs.
-- **Promoting trust and transparency** 
+- **Promoting trust and transparency**
 
   Engaging with the market offers an opportunity for authorities to transparently share their procurement plans with suppliers, their sustainability objectives, and the motivations behind these objectives, promoting trust amongst stakeholders.
-- **Gathering feedback on your approach from the market** 
+- **Gathering feedback on your approach from the market**
 
   Sometimes, decisions regarding the structure of certain procurement processes, or the inclusion of specific sustainability criteria, may make it difficult for certain suppliers to participate, or contradict existing market practices. Gathering feedback from suppliers can help to correct this, ensuring that procurement processes are planned in a way to maximize the chances of selecting the best available solution.
 
@@ -45,11 +45,11 @@ Market engagement practices can vary depending on the different stages of the Op
 
 Market engagement activities can be applied throughout the different steps of designing your first Open SPP Action Plan. For example, engaging with the market is essential to collect the necessary data to [prioritize procurement categories](/prioritize), and to design [standardized sustainability criteria](/build-support-and-capabilities). The methods that can be used to engage with the market during this process can include:
 
-- **Workshops** with suppliers to present sustainability goals, and gather needed data to assess market capability. 
-- **Online consultations** to allow suppliers to provide feedback on strategic decisions regarding Open SPP, such as the prioritization of procurement categories. 
-- **Industry events** to gain a better understanding of the current sustainability offer in different sectors, and gather information regarding different supply options. 
+- **Workshops** with suppliers to present sustainability goals, and gather needed data to assess market capability.
+- **Online consultations** to allow suppliers to provide feedback on strategic decisions regarding Open SPP, such as the prioritization of procurement categories.
+- **Industry events** to gain a better understanding of the current sustainability offer in different sectors, and gather information regarding different supply options.
 - **Surveys and questionnaires** distributed online, or in organized events and workshops, to assess market capability, or gather feedback on SPP approach.
-- **Engaging with priority Open SPP groups,** such as SMEs, women-owned, or minority-owned businesses, to understand the barriers that they might face when accessing public procurement opportunities. To understand these barriers, it can also be useful to engage with civil society and nonprofit organizations. Insights gathered can be used to design more accessible SPP approaches. 
+- **Engaging with priority Open SPP groups,** such as SMEs, women-owned, or minority-owned businesses, to understand the barriers that they might face when accessing public procurement opportunities. To understand these barriers, it can also be useful to engage with civil society and nonprofit organizations. Insights gathered can be used to design more accessible SPP approaches.
 - **Communicating your pipeline of projects** will allow different suppliers to better understand your long-term needs, and potential sustainability requirements. This will allow them to better prepare to respond to contract opportunities as they emerge. Doing this can be particularly helpful to widen participation amongst SMEs, who tend to have fewer procurement resources.  
 
 {% callout red /assets/images/Idea_Red.png %}
@@ -62,9 +62,9 @@ Market engagement activities can be applied throughout the different steps of de
 
 Market engagement activities carried out during the planning phase of a procurement process will be based on the [needs that have been identified](/assess-needs), and will guide decisions regarding the design and criteria introduced in the procurement process. Market engagement activities during this stage can be applied for:
 
-- **Conducting market research** to assess the availability of existing solutions to solve the needs that have been identified in the most sustainable way. 
+- **Conducting market research** to assess the availability of existing solutions to solve the needs that have been identified in the most sustainable way.
 - **Assessing service model delivery options.**
-- **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers. 
+- **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers.
 
 {% callout red /assets/images/Idea_Red.png %}
 One way in which you can engage with the market during the planning phase is by **organizing events with suppliers to present their sustainability objectives.** These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to **discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.**
@@ -83,7 +83,7 @@ Once it has been decided to issue a tender, there are different methods that can
 - **Finding or developing channels to engage with priority supplier groups.**
 
   Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.
-- **Facilitate supplier consortia, especially SMEs and priority groups.** 
+- **Facilitate supplier consortia, especially SMEs and priority groups.**
 
   Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.
 - **Give clear channels for feedback.**

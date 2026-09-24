@@ -80,7 +80,7 @@ Total annual costs = €200 + €100 + €1,600 + €140 = €2,040
 Total five year life cycle costs = €1,800 + (€2,040 * 5) = €12,000
 ```
 
-We’ve taken the initial cost of a laptop at €1,000 and determined that the actual cost of owning and maintaining these laptops will be closer to €12,000 per laptop. This is a useful insight for buyers, because it clarifies that the primary cost of running the laptops is the €1,600 per year spent on support and training. 
+We’ve taken the initial cost of a laptop at €1,000 and determined that the actual cost of owning and maintaining these laptops will be closer to €12,000 per laptop. This is a useful insight for buyers, because it clarifies that the primary cost of running the laptops is the €1,600 per year spent on support and training.
 
 A second laptop that has a better user interface and requires less overall support may well represent better value for money, despite having a much higher unit cost. In the following scenario a laptop costing twice the unit cost but half the support provides a lifecycle cost of €9,000 per unit and a 33% saving on the cheaper unit.
 

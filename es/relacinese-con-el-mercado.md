@@ -65,7 +65,7 @@ Las actividades de participación en el mercado realizadas durante la fase de pl
 
 - **Realización de estudios de mercado** para evaluar la disponibilidad de las soluciones existentes para resolver las necesidades identificadas de la forma más sostenible
 - **Evaluación de las opciones de entrega del modelo de servicio**.
-- **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales. 
+- **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales.
 
 {% callout red /assets/images/Idea_Red.png %}
 Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para **discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.**
@@ -80,7 +80,7 @@ Once it has been decided to issue a tender, there are different methods that can
 - **Finding or developing channels to engage with priority supplier groups.**
 
   Many existing suppliers might not be aware of the possibility of selling their solutions to the public sector. To encourage all types of suppliers to apply it is important to go beyond just publishing on the usual procurement portal. This can be done by advertising the opportunities in local events, and engaging with existing groups and communities.
-- **Facilitate supplier consortia, especially SMEs and priority groups.** 
+- **Facilitate supplier consortia, especially SMEs and priority groups.**
 
   Addressing the lack of sufficient resources, often a key challenge for SMEs looking to participate in procurement processes. This barrier can be overcome by presenting a joint offer with other suppliers. Public authorities can suggest this option to relevant suppliers, run engagement events, and share participant details.
 - **Give clear channels for feedback.**

@@ -17,10 +17,10 @@ En cada una de estas sesiones hemos explicado la importancia de una comunicació
 Al tener un plan de acción CPS usted va a poder comunicar el marco actual para la implementación de CPS a los responsables de contratación, qué es lo que significa para ellos, y qué acciones se tomarán para la adaptación posterior de este marco.
 
 {% callout green /assets/images/Pin_green.png %}
-En esta sección ofrecemos unos ejemplos de cómo se puede utilizar su plan de acción CPS para **comunicar los pasos que ha tomado para la evaluación y establecimiento de un exitoso marco para la implementación de CPS**. Esto puede servir de referencia para que los responsables de la contratación entiendan qué cumple y qué no cumple y al mismo tiempo **garantizar la estandarización, rendimiento de cuentas, y continuidad si miras a los cambios eventuales en el liderazgo institucional.** 
+En esta sección ofrecemos unos ejemplos de cómo se puede utilizar su plan de acción CPS para **comunicar los pasos que ha tomado para la evaluación y establecimiento de un exitoso marco para la implementación de CPS**. Esto puede servir de referencia para que los responsables de la contratación entiendan qué cumple y qué no cumple y al mismo tiempo **garantizar la estandarización, rendimiento de cuentas, y continuidad si miras a los cambios eventuales en el liderazgo institucional.**
 {% endcallout %}
 
-## **Lo que usted puede incluir en un Plan de Acción CPS** 
+## **Lo que usted puede incluir en un Plan de Acción CPS**
 
 si usted necesita orientación en relación con la manera de estructurar un Plan, puede ser útil hacer referencia al Plan de Acción Modelo creado por el PNUMAUM, que usted puede consultar aquí:
 
@@ -116,7 +116,7 @@ La implementación de CPS Abierta normalmente involucra a varias entidades insti
 
 {% toggle **Asignación presupuestal** %}
 
-Muchas de las actividades asociadas con la implementación de CPS Abierta necesitarán la financiación del gobierno para ponerlos en práctica. El Plan de Acción debe compartir abiertamente los costos **financieros estimados asociados con la implementación de las actividades que se requieren para desarrollar los mecanismos de apoyo y fortalecimiento de capacidades, lo mismo que para el monitoreo y comunicación de resultados.** 
+Muchas de las actividades asociadas con la implementación de CPS Abierta necesitarán la financiación del gobierno para ponerlos en práctica. El Plan de Acción debe compartir abiertamente los costos **financieros estimados asociados con la implementación de las actividades que se requieren para desarrollar los mecanismos de apoyo y fortalecimiento de capacidades, lo mismo que para el monitoreo y comunicación de resultados.**
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Estudio de caso
@@ -125,7 +125,7 @@ Muchas de las actividades asociadas con la implementación de CPS Abierta necesi
 
 {% endtoggle %}
 
-## **Considere cómo será la evolución de su Plan de Acción** 
+## **Considere cómo será la evolución de su Plan de Acción**
 
 Muchos de los Planes de Acción se publican cada tres o cada cinco años, aunque pueden ser revisados y actualizados ario a año, si se requiere medir los avances logrados contra los objetivos y metas. Es importante para el diseño de su primer Plan de Acción de CPS Abierta considerar el alcance actual y ambiciones para las prácticas de CPS Abierta, y como estas evolucionarán en el futuro. Los aspectos extraídos de la página 87 del [Manual de Compras Públicas Verdes (GPP) del Banco Mundial](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) puede ser de utilidad para las consideraciones del alcance y ambición de su Plan de Acción para CPS Abierta.
 
@@ -148,11 +148,11 @@ Asimismo, los criterios ambientales recomendados para su inclusión en procesos 
 {% endtoggle %}
 
 {% callout green /assets/images/Warn_green_2.png %}
-Recuerde siempre que la **meta final es tener prácticas de contratación sostenibles** que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública. 
+Recuerde siempre que la **meta final es tener prácticas de contratación sostenibles** que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
-**Recursos** 
+**Recursos**
 
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 - [UNEP. 2021. Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)

@@ -62,7 +62,7 @@ Cuando utilice ecoetiquetas tipo I y tipo I en el proceso de contratación, pued
 
 {% toggle **Priorice las categorías de contratación en función de la disponibilidad de ecoetiquetas** %}
 
-When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/priorice) of the toolkit. 
+When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/priorice) of the toolkit.
 
 {% endtoggle %}
 

@@ -9,7 +9,7 @@ notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
 sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
-**En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo.** 
+**En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo.**
 {% endcallout %}
 
 {% database Africa %}

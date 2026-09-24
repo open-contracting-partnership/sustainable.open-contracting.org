@@ -102,7 +102,7 @@ Además de las declaraciones públicas sobre la implementación de políticas, l
 
 Con datos sólidos, será posible identificar y trabajar con los equipos más exitosos para determinar los factores de éxito que pueden ayudar a otros compradores a tener un impacto positivo
 
-Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida: 
+Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida:
 
 ← Scroll to see more                                                                                                                                      Scroll to see more →
 

@@ -35,4 +35,4 @@ Supplier B = 18
 Supplier C = 11
 ```
 
-Buyers can also group any reporting on a range of additional factors to give context to an economic development project. For instance, it is possible to group jobs by the region in which they have been created, the category of purchasing (e.g. construction), the nature of the jobs created (e.g. skilled) or the type of companies supported (e.g. female owned). 
+Buyers can also group any reporting on a range of additional factors to give context to an economic development project. For instance, it is possible to group jobs by the region in which they have been created, the category of purchasing (e.g. construction), the nature of the jobs created (e.g. skilled) or the type of companies supported (e.g. female owned).

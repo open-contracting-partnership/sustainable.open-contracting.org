@@ -11,7 +11,7 @@ sidebar: true
 # **Foire aux questions**
 
 {% callout gray /assets/images/Icons_Grey3.png %}
-*Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.* 
+*Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.*
 {% endcallout %}
 
 {% toggle **Qu’entend-on par « marchés publics durables » ?** %}
@@ -65,7 +65,7 @@ Les administrations nationales, locales ou régionales peuvent faciliter la mise
 - Interagir avec les parties prenantes. Cela suppose d’organiser des ateliers de renforcement des capacités avec les membres de services de passation de marchés, d’interagir avec les fournisseurs pour les faire participer aux processus des marchés publics durables et de consulter des organisations de la société civile sur les meilleures approches en matière de durabilité ;
 - Créer un service d’assistance et un centre d’information. Il est important de fournir aux services de passation de marchés un moyen simple d’obtenir des orientations sur les pratiques relatives aux marchés publics durables, notamment sur la réglementation en vigueur, les critères normalisés et des exemples de bonnes pratiques. Il peut également être utile de mettre en place un service d’assistance afin de répondre aux questions concernant la mise en place de marchés publics durables.
 
-Consultez [cette section](/des-mcanismes-dassistance) pour en savoir plus. 
+Consultez [cette section](/des-mcanismes-dassistance) pour en savoir plus.
 
 {% endtoggle %}
 

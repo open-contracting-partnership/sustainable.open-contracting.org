@@ -6,7 +6,7 @@ icon: /assets/images/Tick_green_2.png
 notion_id: "6a6a2d45158d4269aec4e02ab7172371"
 ---
 {% callout green /assets/images/Pin_green.png %}
-The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit](/). 
+The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit](/).
 {% endcallout %}
 
 ### Quick c**hecklist**
@@ -17,7 +17,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 {% indent %}
 
-- Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)). 
+- Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
 - Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.
 - Consider applying [Life-Cycle Costing (LCC)](/life-cycle-costing) calculations.
 

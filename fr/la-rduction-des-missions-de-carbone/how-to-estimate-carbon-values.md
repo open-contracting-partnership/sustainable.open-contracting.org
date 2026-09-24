@@ -5,7 +5,7 @@ description: "The most basic way to estimate the carbon value of a contract is t
 icon: /assets/images/Icons_Light_Green3.png
 notion_id: "0c14bbcbe3a84c2b8dcfa48ced98e465"
 ---
-The most basic way to estimate the carbon value of a contract is to multiply the contract value by a coefficient. One example coefficient is the carbon values derived from categories of goods and services. Spend Network has a table that calculates carbon tonnage based on CPV and UNSPSC. This presents a high level picture of what carbon value is associated with: for instance, a taxi contract. 
+The most basic way to estimate the carbon value of a contract is to multiply the contract value by a coefficient. One example coefficient is the carbon values derived from categories of goods and services. Spend Network has a table that calculates carbon tonnage based on CPV and UNSPSC. This presents a high level picture of what carbon value is associated with: for instance, a taxi contract.
 
 ```sql
 Carbon value = Contract value multiplied by Carbon coefficient

@@ -20,11 +20,11 @@ Procurement frameworks often establish financial thresholds where tenders that f
 
 **Sectors with Distinct Regulation**
 
-Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories. 
+Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories.
 
 {% callout green /assets/images/icons_D_Green8.png %}
 When looking at thresholds and sectors with distinct regulation it is **important to check the following:**
 
 - Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.
-- **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories. 
+- **Bilateral Free Trade Agreements** that establish specific conditions for certain procurement categories. This can include, for example, specific conditions for foreign suppliers, or threshold-related regulations in specific procurement categories.
 {% endcallout %}

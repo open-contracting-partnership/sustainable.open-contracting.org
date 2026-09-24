@@ -10,9 +10,9 @@ sidebar: true
 ---
 # Establishing supporting and capability-building mechanisms
 
-At this stage of planning your SPP implementation strategy, you have already assessed what you can do within your procurement enabling environment, decided where to focus your efforts, and established your goals. 
+At this stage of planning your SPP implementation strategy, you have already assessed what you can do within your procurement enabling environment, decided where to focus your efforts, and established your goals.
 
-However, as we mention in the introduction, implementing SPP means procuring in a different way. As this can be challenging for procurement officials, public authorities should consider what they can do to build capabilities. 
+However, as we mention in the introduction, implementing SPP means procuring in a different way. As this can be challenging for procurement officials, public authorities should consider what they can do to build capabilities.
 
 {% callout green /assets/images/Pin_green.png %}
 **In this section we introduce some of the mechanisms public authorities can put in place to support procurement officials effectively implement SPP**, together with examples of how they are used across the world.
@@ -106,5 +106,5 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 <br></strong>In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
 
 It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, a**nd a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
-<br>The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners. 
+<br>The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners.
 {% endcallout %}

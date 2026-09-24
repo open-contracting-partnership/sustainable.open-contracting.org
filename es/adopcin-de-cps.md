@@ -36,7 +36,7 @@ Muestra claramente a los proveedores que la compra sostenible es un compromiso a
 Vincula la política con la contratación a través de un ciclo de retroalimentación que permite medir los objetivos de la política.
 {% endcallout %}
 
-## **Para empezar** 
+## **Para empezar**
 
 Medir el progreso de las contrataciones sostenibles generalmente consiste en registrar si se ha establecido un contrato o una licitación para cumplir con un objetivo de política establecido. Como resultado, medir el progreso a menudo toma la forma de una etiqueta binaria de "sí" o "no" que se registra como parte del proceso de adquisición.
 

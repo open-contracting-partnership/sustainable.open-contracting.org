@@ -12,5 +12,5 @@ sidebar: true
 En 2016, l’Équateur a publié son premier [plan d’action sur les marchés publics durables](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). Les pages 20 à 22 de ce plan abordent la structure de gouvernance mise en place pour répartir les responsabilités en ce qui concerne les marchés publics durables.
 <br>L’organisme public principal est l’agence nationale des marchés publics (SERCOP), qui reçoit l’appui du ministère de l’Environnement. Ces deux entités recevront également l’appui d’un groupe de travail composé d’autres ministères, notamment celui de l’Inclusion économique et sociale (MIES) et celui de l’Agriculture (MAGAP).
 
-**En page 28 de ce plan, nous trouvons un chronogramme des activités qui seront mises en œuvre durant la première année d’exécution du plan clarifiant les responsabilités des différentes entités publiques.** 
+**En page 28 de ce plan, nous trouvons un chronogramme des activités qui seront mises en œuvre durant la première année d’exécution du plan clarifiant les responsabilités des différentes entités publiques.**
 {% endcallout %}

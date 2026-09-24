@@ -9,19 +9,19 @@ notion_id: "28ae4d111950488a8056def0973e0c35"
 When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<strong><br>
 This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP. </strong>
 
-You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) of the framework in the [downloadable tools section](/downloadable-tools), which you can duplicate and edit to fit your specific context. 
+You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) of the framework in the [downloadable tools section](/downloadable-tools), which you can duplicate and edit to fit your specific context.
 {% endcallout %}
 
 The M&E framework includes the following section:
 
-- **Goals** - Goals are high-level sustainability objectives that guide Open SPP implementation. 
-- **Outcomes** - Outcomes are the expected intermediate changes from implementing Open SPP practices. 
+- **Goals** - Goals are high-level sustainability objectives that guide Open SPP implementation.
+- **Outcomes** - Outcomes are the expected intermediate changes from implementing Open SPP practices.
 - **Indicators** - Indicators are the metrics needed to measure progress against outcomes.
-- **Information needs** - The information you might need to properly measure the selected indicators. 
+- **Information needs** - The information you might need to properly measure the selected indicators.
 - **Calculation method** - The method and variables required to calculate the selected indicators.
-- **Options for recording the data you need** - Which data recording options, from the ones presented [in section three of this toolkit](/options-for-data-use), can be used to collect the data needed to measure progress against the selected indicator. 
+- **Options for recording the data you need** - Which data recording options, from the ones presented [in section three of this toolkit](/options-for-data-use), can be used to collect the data needed to measure progress against the selected indicator.
 
-You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/open-data-measuring-progress). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward. 
+You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/open-data-measuring-progress). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward.
 
 ← Scroll to see more                                                                                           Scroll to see more →
 

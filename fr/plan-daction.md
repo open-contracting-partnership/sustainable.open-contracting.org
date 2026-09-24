@@ -26,7 +26,7 @@ En vous dotant d’un plan d’action sur les marchés publics durables, vous po
 *Dans cette section, vous verrez dans des exemples comment votre plan d’action sur les marchés publics durables peut vous permettre de présenter les mesures que vous avez prises pour évaluer votre environnement et établir un cadre propice à la mise en place de marchés publics durables. Ce plan d’action peut servir de référence aux membres des services de passation de marchés pour tout ce qui a trait à la conformité ainsi que pour garantir la normalisation, la redevabilité et la continuité des activités indépendamment des changements de direction au sein d’une institution.*
 {% endcallout %}
 
-## **Que peut contenir un plan d’action sur les marchés publics durables ?** 
+## **Que peut contenir un plan d’action sur les marchés publics durables ?**
 
 Pour obtenir des orientations concernant la structuration de votre plan d’action, il peut être utile de se reporter au modèle du Programme des Nations Unies pour l’environnement (PNUE) en cliquant sur le lien suivant :
 
@@ -63,11 +63,11 @@ Les changements ou ajustements qui permettront d’augmenter la portée de la mi
 Dans la section sur la [définition des catégories de marchés prioritaires](/priorits), nous avons expliqué comment ce travail peut guider l’élaboration des critères de durabilité et promouvoir une mise en place harmonisée et cohérente des marchés publics durables et ouverts. Après avoir défini les catégories prioritaires, vous pouvez communiquer les résultats de votre démarche dans votre plan d’action en incluant notamment les informations suivantes :
 
 - **Les catégories de marchés prioritaires** et une justification transparente de vos choix ;
-- **Des orientations sur les critères de durabilité pouvant être utilisés dans chaque catégorie prioritaire.** Il peut s’agir de recommandations sur les règles, les éco-étiquettes ou les exigences en matière de durabilité, par exemple concernant l’efficacité énergétique, qui peuvent être intégrées aux dossiers d’appel d’offres. Vous pouvez également fournir des renseignements sur l’emplacement de ces informations ainsi que tous les plans abordant l’élaboration de critères normalisés aux échelles nationale, régionale et locale. 
+- **Des orientations sur les critères de durabilité pouvant être utilisés dans chaque catégorie prioritaire.** Il peut s’agir de recommandations sur les règles, les éco-étiquettes ou les exigences en matière de durabilité, par exemple concernant l’efficacité énergétique, qui peuvent être intégrées aux dossiers d’appel d’offres. Vous pouvez également fournir des renseignements sur l’emplacement de ces informations ainsi que tous les plans abordant l’élaboration de critères normalisés aux échelles nationale, régionale et locale.
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Étude de cas
-<br></strong>En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications. 
+<br></strong>En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications.
 
 **Les pages 21 à 57 de ce plan fournissent des informations spécifiques aux différentes catégories**. Il s’agit notamment de renseignements concernant les réglementations et politiques qui doivent être prises en compte pour mettre en place des marchés publics plus durables dans chaque catégorie, les programmes de certification pertinents, des exemples d’appels d’offres écologiques et des propositions d’actions essentielles concernant la mise en place de marchés publics écologiques.
 {% endcallout %}
@@ -89,7 +89,7 @@ Pour en savoir plus, consultez la section relative au suivi et à l’évaluatio
 Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](/des-mcanismes-dassistance), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
 
 {% callout green /assets/images/Warn_green_2.png %}
-**Votre plan d’action doit inclure les mécanismes déjà en place et prévoir les activités qui seront mises en œuvre pour améliorer ces mécanismes.** 
+**Votre plan d’action doit inclure les mécanismes déjà en place et prévoir les activités qui seront mises en œuvre pour améliorer ces mécanismes.**
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
@@ -97,7 +97,7 @@ Dans la section concernant [la mise en place de mécanismes d’assistance et de
 
 En 2021, la ville du Cap, en Afrique du Sud, a publié son [plan d’action sur les marchés publics écologiques](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). Ce plan contient sept objectifs opérationnels, notamment « Assurer que la ville possède des politiques appropriées pour favoriser les marchés publics écologiques, notamment les outils administratifs correspondants » et « Suivre et évaluer les résultats de l’action de la ville en matière de marchés publics écologiques ».
 
-Chaque objectif est associé à une série de résultats et d’activités faisant pour la plupart référence à la mise en place de mécanismes d’assistance. Ils comprennent par exemple « Conception de lignes directrices et de spécifications pour les produits prioritaires » ou « Élaboration de produits et d’événements de communication et de formation à l’intention du personnel de la ville ». 
+Chaque objectif est associé à une série de résultats et d’activités faisant pour la plupart référence à la mise en place de mécanismes d’assistance. Ils comprennent par exemple « Conception de lignes directrices et de spécifications pour les produits prioritaires » ou « Élaboration de produits et d’événements de communication et de formation à l’intention du personnel de la ville ».
 
 **La ville a assorti chaque activité d’un délai de réalisation : 1 à 2 ans ; 3 à 5 ans ; et 6 à 10 ans.**
 {% endcallout %}
@@ -121,7 +121,7 @@ La mise en place de marchés publics durables et ouverts relève normalement de 
 
 {% toggle **Budget alloué** %}
 
-Beaucoup d’activités concernant la mise en place de marchés publics durables et ouverts nécessitent des fonds publics. **Votre plan d’action doit communiquer en toute transparence le coût estimé des activités visant à mettre en place les mécanismes d’assistance et de renforcement des capacités requis ainsi qu’à évaluer et publier leurs résultats.** 
+Beaucoup d’activités concernant la mise en place de marchés publics durables et ouverts nécessitent des fonds publics. **Votre plan d’action doit communiquer en toute transparence le coût estimé des activités visant à mettre en place les mécanismes d’assistance et de renforcement des capacités requis ainsi qu’à évaluer et publier leurs résultats.**
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Étude de cas
@@ -157,7 +157,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
-**Ressources** 
+**Ressources**
 
 - [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 - [PNUE, *Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*, 2021.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)

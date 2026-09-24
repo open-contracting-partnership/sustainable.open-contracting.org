@@ -9,7 +9,7 @@ notion_id: "72beba9e9d394c5b80e1392e38aad24d"
 sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
-In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.** 
+In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.**
 {% endcallout %}
 
 ## **What are ecolabels?**
@@ -62,11 +62,11 @@ When using Type I and Type-I like ecolabels in the procurement process, you can 
 
 {% toggle **Prioritize procurement categories based on ecolabel availability** %}
 
-When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/prioritize) of the toolkit. 
+When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/prioritize) of the toolkit.
 
 {% endtoggle %}
 
-Finally, Type III EPDs can be very useful to compare amongst different products, and gather relevant environmental data, such as CO2 emissions. However, these are not as common as other labels, such as Type I and Type-I ecolabels. 
+Finally, Type III EPDs can be very useful to compare amongst different products, and gather relevant environmental data, such as CO2 emissions. However, these are not as common as other labels, such as Type I and Type-I ecolabels.
 
 ## **How can you find relevant ecolabels?**
 

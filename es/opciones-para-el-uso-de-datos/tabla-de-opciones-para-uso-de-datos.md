@@ -6,7 +6,7 @@ icon: /assets/images/Icons_Light_Green3.png
 notion_id: "1708433ec49449dfa1c3213b2d4cd84f"
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
-The following table provides guidance regarding how to use the different data options presented in [this section](/opciones-para-el-uso-de-datos), depending on your capacity (i.e. [no code, low code, code](/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoreo-y-evaluacin/ejemplo-de-marco-me) and developed as worked examples in [this section](/datos-abiertos-y-progreso-de-medicin). 
+The following table provides guidance regarding how to use the different data options presented in [this section](/opciones-para-el-uso-de-datos), depending on your capacity (i.e. [no code, low code, code](/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoreo-y-evaluacin/ejemplo-de-marco-me) and developed as worked examples in [this section](/datos-abiertos-y-progreso-de-medicin).
 {% endcallout %}
 
 {% table 174.5 174.5 174.5 174.5 col-header row-header %}

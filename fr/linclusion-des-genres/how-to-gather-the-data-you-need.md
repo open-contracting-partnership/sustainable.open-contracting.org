@@ -23,12 +23,12 @@ Governments already collect financial data on companies in the form of tax repor
 
 Company ownership data is a lot less frequently published, with key exceptions being the UK and Denmark. With this data and gender based flags around ownership, companies can be reconciled to other data sources and gender analysis can be carried out.
 
-If any of the data is not available, then the onus is on public buyers to mandate this information as part of tender submission. 
+If any of the data is not available, then the onus is on public buyers to mandate this information as part of tender submission.
 
 ### Format and standardization
 
 One of the critical issues of self reporting is the lack of standardization. Even mandated reporting across fields generally agreed in the industry (e.g. balance sheets) can carry wildly different interpretations of the data. For instance, is -£387,559 debt a net debt or a net credit? The answer is not always obvious and often counter intuitive.
 
-Therefore, reporting needs to be prescribed as much as possible to prevent deviation and therefore anomalies in analysis, whether with a CSV creator such as Silver Eye or an online form. 
+Therefore, reporting needs to be prescribed as much as possible to prevent deviation and therefore anomalies in analysis, whether with a CSV creator such as Silver Eye or an online form.
 
 The other critical issue is that data is often published in PDF or other non machine readable format. Where possible, all this data needs to be released in a machine readable way to allow rapid ingestion and analysis.

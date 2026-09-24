@@ -16,7 +16,7 @@ We describe these environments as no code, low code or code environments based o
 
 ## No code
 
-In a no code environment data will most likely be held in spreadsheets rather than in databases and data will be exchanged by email or file stores rather than through a centralised tool for exchanging information, such as a website. It is likely that data analysis skills in this environment will be limited and similarly budgets for tools and infrastructure will be limited. 
+In a no code environment data will most likely be held in spreadsheets rather than in databases and data will be exchanged by email or file stores rather than through a centralised tool for exchanging information, such as a website. It is likely that data analysis skills in this environment will be limited and similarly budgets for tools and infrastructure will be limited.
 
 ## Low code
 

@@ -24,7 +24,7 @@ For a simple and quick way to carry out an overview of your enabling environment
 
 For a more detailed account of the process, and concepts, introduced on the checklist, keep reading this section.
 
-## C**heck evaluation or award criteria** 
+## C**heck evaluation or award criteria**
 
 In most countries, the existing laws and policies do not establish explicit provisions for considering sustainability in the procurement process. However, they always include certain principles, such as “fairness”, “equity”, “economy”, “value for money (VfM)”, “efficiency”, “effectiveness” to guide procurement decision-making processes.
 
@@ -38,7 +38,7 @@ As this can be a key barrier, start by checking what your enabling environment e
 
 Many procurement regimes only allow you to award the contract to the lowest-price bid. There are different ways around this, including the following:
 
-- **Establish sustainability criteria as essential requirements for suppliers.** 
+- **Establish sustainability criteria as essential requirements for suppliers.**
 
 Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.
 
@@ -48,7 +48,7 @@ To do this, you will have to ensure that these criteria are clearly linked to th
 
 When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see [this section](/life-cycle-costing).
 
-- **Ensure compliance with existing sustainability regulations.** 
+- **Ensure compliance with existing sustainability regulations.**
 
 Finally, there are already many sustainability regulations in place at the international and national levels. Ensuring that all suppliers comply with these existing regulations is also a way to procure more sustainably. Existing regulation can include, for example, national waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
 
@@ -98,11 +98,11 @@ Once you have evaluated your enabling environment, you should clearly communicat
 - National authorities should clearly communicate the current enabling environment for SPP implementation in their [SPP Action Plans](/create-an-action-plan), as well as any plans to develop new enabling policy or regulation.
 - Procurement practitioners should clearly communicate how their SPP approach is compliant with the existing enabling environment on a contract-by-contract basis. This can be by referring to the relevant section in the SPP Action Plan, or the [documents that have been checked as part of the assessment](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail).
 
-As a quick way to go over the different regulatory and policy documents you might need to refer to, we have put together the following checklist: 
+As a quick way to go over the different regulatory and policy documents you might need to refer to, we have put together the following checklist:
 
 {% page /establish-an-enabling-environment/quick-checklist-share-your-compliance-trail %}
 
-This process will help to establish trust across the supplier market, as well as procurement practitioners, that SPP approaches have been well-designed and fit well into the current rules. 
+This process will help to establish trust across the supplier market, as well as procurement practitioners, that SPP approaches have been well-designed and fit well into the current rules.
 
 ## **Reach out to support networks**
 

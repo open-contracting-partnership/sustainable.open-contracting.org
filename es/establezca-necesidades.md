@@ -64,7 +64,7 @@ Compartir el proceso de evaluación de necesidades es una parte esencial de una 
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Estudio de caso
-</strong> 
+</strong>
 
 **El organismo central de compras de Italia, [CONSIP](https://www.consip.it/), ha utilizado este enfoque centrado en el usuario de manera efectiva en el sector médico**, trabajando directamente con el personal médico para dar forma a los documentos de licitación para su uso en todo el país.
 

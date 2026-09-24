@@ -33,7 +33,7 @@ However, if done in a compliant way, reserving contracts can be extremely powerf
 As above, it is key to openly communicate any reserving policy as widely as possible, including why an authority has adopted this policy. It is then also important to publish data about these initiatives, including any ‘spill-over’ effects on contracts that have not been reserved (for instance, how reserving some below threshold contracts for minority-owned businesses may have an impact for procurement outcomes more generally).
 
 {% callout green /assets/images/icons_D_Green8.png %}
-Despite the establishing reserved contracts and targets, these opportunities  When reserving contracts or establishing targets, it is important to develop a strategy to **effectively promote the uptake of this opportunity.** This can include sharing the information through relevant communication channels, and collaborating with Civil Society Organisations (CSOs) that can support with outreach and capacity building activities. 
+Despite the establishing reserved contracts and targets, these opportunities  When reserving contracts or establishing targets, it is important to develop a strategy to **effectively promote the uptake of this opportunity.** This can include sharing the information through relevant communication channels, and collaborating with Civil Society Organisations (CSOs) that can support with outreach and capacity building activities.
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

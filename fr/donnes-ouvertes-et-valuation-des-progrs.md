@@ -43,10 +43,10 @@ L’année de référence est le moment où vous commencerez à collecter des do
 
 {% toggle **Étape 4 : évaluer vos capacités** %}
 
-Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables. 
+Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables.
 
 {% callout yellow /assets/images/Icons_Light_Green6.png %}
-Nous avons recensé trois types d’environnements : 
+Nous avons recensé trois types d’environnements :
 
 {% page /donnes-ouvertes-et-valuation-des-progrs/aucun-code-code-restreint-et-code %}
 {% endcallout %}

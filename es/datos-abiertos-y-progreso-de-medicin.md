@@ -11,7 +11,7 @@ sidebar: true
 A lo largo del conjunto de herramientas, hemos explicado la importancia de los datos abiertos y de alta calidad para impulsar la implementación de SPP y medir los resultados de sostenibilidad. Primero presentamos esta idea al comienzo del conjunto de herramientas y la desarrollamos más en las siguientes secciones, particularmente cuando presentamos un Marco de Medición y Evaluación (M&E) de muestra en la sección uno. Este marco de M&E propuesto está estructurado en torno a cinco objetivos y proporciona indicadores de seguimiento de muestra para facilitar la presentación de informes y la medición del progreso con respecto a los objetivos de sostenibilidad.
 
 {% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
-**En esta sección, presentamos una inmersión más profunda en las opciones disponibles para recopilar los datos que necesita para medir el progreso en relación con sus objetivos.** 
+**En esta sección, presentamos una inmersión más profunda en las opciones disponibles para recopilar los datos que necesita para medir el progreso en relación con sus objetivos.**
 Como se puede ver en el diagrama a continuación, primero presentamos un conjunto de consideraciones y opciones generales de recopilación de datos sobre cómo usar los datos para medir el progreso en diferentes objetivos. Luego, convertimos los cinco objetivos del marco de M&E en cinco ejemplos prácticos de cómo usar datos abiertos para medir el progreso en: (1) adopción de CPS, (2) reducción de carbono, (3) inclusión de género, (4) desarrollo económico, y (5) promover el costeo del ciclo de vida.
 {% endcallout %}
 

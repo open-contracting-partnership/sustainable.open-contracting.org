@@ -7,7 +7,7 @@ notion_id: "0387bcc8f7af4127b1cfee4dc6ed4c41"
 ---
 # Women in boardrooms / female owned businesses
 
-One way to assess the extent of spend going to female led businesses is to apportion contract value to the female:male leadership ratio. 
+One way to assess the extent of spend going to female led businesses is to apportion contract value to the female:male leadership ratio.
 
 ```r
 Take a Cleaning Company 

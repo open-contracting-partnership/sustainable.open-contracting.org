@@ -22,14 +22,14 @@ Outcome-based procurement can be another way to start implementing SPP. Applying
 
 {% toggle **Benefits of using outcome-based procurement**   %}
 
-When you decide to use outcome-based procurement approaches, this can result in two main benefits: 
+When you decide to use outcome-based procurement approaches, this can result in two main benefits:
 
-- **Focusing on real needs** 
+- **Focusing on real needs**
 
-  By framing needs in terms of outcomes (e.g. need for a patient entertainment system in a health facility) instead of specific needs (e.g. television units), public authorities open up the option of considering different ways to meet the identified needs. Some of the proposed solutions from suppliers might respond better to the needs identified than the specific options that could be considered. 
+  By framing needs in terms of outcomes (e.g. need for a patient entertainment system in a health facility) instead of specific needs (e.g. television units), public authorities open up the option of considering different ways to meet the identified needs. Some of the proposed solutions from suppliers might respond better to the needs identified than the specific options that could be considered.
 - **Promoting innovation**
 
-  Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions. 
+  Framing needs in terms of outcomes encourages the supplier market to develop and come up with different solutions.
 
 {% endtoggle %}
 
@@ -37,8 +37,8 @@ When you decide to use outcome-based procurement approaches, this can result in 
 
 To apply and outcome-based procurement approach, you need to:
 
-- Frame your **needs in terms of outcomes** (see [section on needs assessment](/assess-needs) for more information on this). 
-- Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below). 
+- Frame your **needs in terms of outcomes** (see [section on needs assessment](/assess-needs) for more information on this).
+- Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below).
 - Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations)).
 
 {% endtoggle %}
@@ -47,9 +47,9 @@ To apply and outcome-based procurement approach, you need to:
 
 Outcome-based procurement approaches can be most useful when:
 
-- You are unsure of the sustainable options available in the market. 
+- You are unsure of the sustainable options available in the market.
 - There are multiple ways of delivering on the vision that you have for the contract.
-- There are less well established industry sustainability standards for the product, service, or works you want to procure. 
+- There are less well established industry sustainability standards for the product, service, or works you want to procure.
 - People are hesitant to try something new, but open to testing something out before fully committing.
 
 {% endtoggle %}
@@ -60,13 +60,13 @@ For more guidance and examples of how to shape procurement approaches to achieve
 
 ## **Two-stage tender processes**
 
-Using two-stage procurement procedures, entails the possibility of establishing an ongoing dialogue, and openly disclosing information, between suppliers and procurement practitioners. 
+Using two-stage procurement procedures, entails the possibility of establishing an ongoing dialogue, and openly disclosing information, between suppliers and procurement practitioners.
 
 {% toggle **Benefits of two-stage tender processes** %}
 
-There are different benefits of using two-stage tender processes when implementing Open SPP, below we include four. 
+There are different benefits of using two-stage tender processes when implementing Open SPP, below we include four.
 
-- It allows the procurement authority to engage with suppliers before drafting final specifications. This will ensure that sustainability requirements better respond to existing market capability. 
+- It allows the procurement authority to engage with suppliers before drafting final specifications. This will ensure that sustainability requirements better respond to existing market capability.
 - It incentivizes collaboration between the supplier and the procurement authority, but also facilitates integrating members from the supply chain early on in the process.
 - It incentivizes the suggestion of innovative solutions from suppliers.
 - It increases the chances of finding the best solution for identified needs.
@@ -91,13 +91,13 @@ There are different benefits of using two-stage tender processes when implementi
 
 {% toggle **When can it be most useful?** %}
 
-Using two-stage tender processes can be especially useful in complex projects such as construction procurement. It can also be useful when there are less well established industry sustainability standards for a specific service, product, or work. 
+Using two-stage tender processes can be especially useful in complex projects such as construction procurement. It can also be useful when there are less well established industry sustainability standards for a specific service, product, or work.
 
 {% endtoggle %}
 
 ## J**oint procurement**
 
-One of the procurement approaches that you can take within SPP implementation is joint procurement. This approach refers to the collaboration of multiple public authorities on a specific procurement. This collaboration can include jointly conducting early-stage market testing and engagement at the beginning of a procurement, or jointly tendering or contracting with a supplier, during the execution of a procurement. 
+One of the procurement approaches that you can take within SPP implementation is joint procurement. This approach refers to the collaboration of multiple public authorities on a specific procurement. This collaboration can include jointly conducting early-stage market testing and engagement at the beginning of a procurement, or jointly tendering or contracting with a supplier, during the execution of a procurement.
 
 {% toggle **Benefits of using joint procurement**  %}
 
@@ -105,7 +105,7 @@ There are different benefits of using joint procurement when implementing Open S
 
 - **Collectively leveraging purchasing power to achieve economies of scale.**
 - **Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.**  
-- **Standardizing and aligning sustainability practices.** 
+- **Standardizing and aligning sustainability practices.**
 - **Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.**
 
 {% endtoggle %}
@@ -122,8 +122,8 @@ There are different benefits of using joint procurement when implementing Open S
 
 {% toggle **When can it be most useful?** %}
 
-- Joint procurement can be most useful when implementing sustainable procurement for the first time, leveraging the experience of more than one procurement authority to come up with consistent and standardized practices (even if they decide to publish individual contracts). 
-- Joint procurement can also be useful when procurement needs are the same, helping to save resources. This can be especially useful for smaller authorities with fewer resources, or smaller contracts. 
+- Joint procurement can be most useful when implementing sustainable procurement for the first time, leveraging the experience of more than one procurement authority to come up with consistent and standardized practices (even if they decide to publish individual contracts).
+- Joint procurement can also be useful when procurement needs are the same, helping to save resources. This can be especially useful for smaller authorities with fewer resources, or smaller contracts.
 
 {% endtoggle %}
 
@@ -132,7 +132,7 @@ Throughout this toolkit, we have provided guidance on the use of [frameworks](/e
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector). 
+For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector).
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
@@ -142,7 +142,7 @@ For more guidance on procurement approaches that can be useful when implementing
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-**Case study** 
+**Case study**
 
 **In 2015, Wichita, the largest city in the U.S. state of Kansas, [aimed to improve the quality of the city’s parks while reducing costs](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.
 

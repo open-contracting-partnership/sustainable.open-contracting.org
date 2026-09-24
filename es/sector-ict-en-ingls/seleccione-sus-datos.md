@@ -8,7 +8,7 @@ full_width: true
 notion_id: "9a72ae82dbdd41fc9072f3fdc5866b20"
 sidebar: true
 ---
-When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars. 
+When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars.
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 In this section, we identify which are the **key sustainability variables in ICT procurement.** Each factor is presented as a data group, highlighting which is the most relevant information that should be captured to determine the impact that each group will have on the sustainability of the procurement.
@@ -48,7 +48,7 @@ Energy efficiency is the main variable that will determine the environmental imp
 
 ## **Hazardous substances**
 
-The use of hazardous substances in ICT equipment can be dangerous for those handling the materials throughout the life-cycle of the product, from manufacturing to waste management. Information can be required from the supplier regarding the efforts to reduce or eliminate the use of these substances. 
+The use of hazardous substances in ICT equipment can be dangerous for those handling the materials throughout the life-cycle of the product, from manufacturing to waste management. Information can be required from the supplier regarding the efforts to reduce or eliminate the use of these substances.
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 For displays, for example, [on pages 124 to 134](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) **TCO includes guidelines on the maximum concentration of hazardous substances that these products should contain.**
@@ -67,7 +67,7 @@ Most ICT sustainability standards determine that spare parts should be available
 
 {% toggle **Availability of repairing service** %}
 
-If the manufacturer, brand, or reseller, offers a repair service as part of the contract is another variable that can help to ensure repairability of ICT equipment. It should also be captured whether the expenses associated with this service will be incurred by the public authority or the supplier, and whether this will be for the whole use life of the equipment, which is usually a minimum of 3-4 years. Generally, if repair costs are carried by the supplier, it can be an incentive to design a product that is easier to repair and recycle. 
+If the manufacturer, brand, or reseller, offers a repair service as part of the contract is another variable that can help to ensure repairability of ICT equipment. It should also be captured whether the expenses associated with this service will be incurred by the public authority or the supplier, and whether this will be for the whole use life of the equipment, which is usually a minimum of 3-4 years. Generally, if repair costs are carried by the supplier, it can be an incentive to design a product that is easier to repair and recycle.
 
 {% endtoggle %}
 
@@ -76,7 +76,7 @@ If the manufacturer, brand, or reseller, offers a repair service as part of the 
 To promote the repairability of ICT equipment, sellers should include a Service Manual with instructions on how to repair the equipment. The TCO Ecolabel includes standards of what information should be included on these manuals. If ICT equipment is designed in a way that facilitates the replaceability of its components, it will not only help to extend use life, but it will also increase the equipment’s recyclability.
 
 {% callout gray /assets/images/Icons_Grey9.png %}
-Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) include a l**ist of the components that should be replaceable in different types of ICT equipment,** what criteria can be used to evaluate their replaceability, and the instructions given to do so. 
+Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) include a l**ist of the components that should be replaceable in different types of ICT equipment,** what criteria can be used to evaluate their replaceability, and the instructions given to do so.
 {% endcallout %}
 
 {% endtoggle %}
@@ -87,7 +87,7 @@ Data security information is a variable that should be captured to ensure that p
 
 ## **End-of-life management**
 
-In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. For example, this can be clearly captured whether the supplier can provide a take-back, re-use or recycling service, and whether this service is also available for individual components, such as batteries. 
+In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. For example, this can be clearly captured whether the supplier can provide a take-back, re-use or recycling service, and whether this service is also available for individual components, such as batteries.
 
 ## Supply chain information
 
@@ -95,13 +95,13 @@ One of the key issues within the ICT sector is the lack of transparency regardin
 
 {% toggle **Supply chain information**  %}
 
-One of the variables that can be captured from a supplier, is whether there is publicly available information regarding the supply chain. This would ideally include all the different companies involved, from mining, to refineries, component producers, manufacturers, etc. This information can be required of the equipment that is the subject matter of the contract. 
+One of the variables that can be captured from a supplier, is whether there is publicly available information regarding the supply chain. This would ideally include all the different companies involved, from mining, to refineries, component producers, manufacturers, etc. This information can be required of the equipment that is the subject matter of the contract.
 
 {% endtoggle %}
 
 {% toggle **Supplier Code of Conduct or Supplier Policy** %}
 
-Suppliers should monitor labor rights through a publicly accessible Code of Conduct or Supplier Policy. 
+Suppliers should monitor labor rights through a publicly accessible Code of Conduct or Supplier Policy.
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 **According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
@@ -113,7 +113,7 @@ Suppliers should monitor labor rights through a publicly accessible Code of Cond
 - [ ] All applicable local and national health and safety labor laws effective in the country of manufacture, and a maximum 60-hour workweek including overtime.
 {% endcallout %}
 
-The supplier should also provide information on how this Code of Conduct is transmitted to supply chain (translations, questionnaires, training, etc.), how it is monitored (frequency, identification of countries or suppliers with higher risk, etc.), corrective actions taken, and any collaboration with third parties to monitor compliance with Code of Conduct. 
+The supplier should also provide information on how this Code of Conduct is transmitted to supply chain (translations, questionnaires, training, etc.), how it is monitored (frequency, identification of countries or suppliers with higher risk, etc.), corrective actions taken, and any collaboration with third parties to monitor compliance with Code of Conduct.
 
 {% endtoggle %}
 
@@ -123,10 +123,10 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 - [Procura +. 2020. Socially responsible public procurement of ICT equipment in Sweden](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf)
 
-  The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process. 
+  The Region Stockholm is one of the European leaders in implementing social criteria for ICT procurement. This resource provides guidance on how this criteria should be introduced and monitored throughout the procurement process.
 - [Responsible Business Alliance. 2019. Practical guide to transparency in procurement](https://www.responsiblebusiness.org/media/docs/RBAPracticalGuideProcurement.pdf)
 
-  The RBA has created a framework with a set of Corporate Responsibility Indicators (CSR) that aims to harmonize and simplify the process of supply chain assessment. 
+  The RBA has created a framework with a set of Corporate Responsibility Indicators (CSR) that aims to harmonize and simplify the process of supply chain assessment.
 
 **Introducing general sustainability criteria in the procurement process:**
 

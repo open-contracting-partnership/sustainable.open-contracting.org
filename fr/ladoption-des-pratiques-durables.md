@@ -38,7 +38,7 @@ Vous pouvez indiquer clairement aux fournisseurs que les marchés publics durabl
 Il est possible de faire le lien entre politiques et marchés publics par l’entremise d’une boucle de collaboration permettant d’évaluer la réalisation des objectifs des politiques.
 {% endcallout %}
 
-## **Pour commencer** 
+## **Pour commencer**
 
 L’évaluation de la progression des marchés publics durables suppose généralement de déterminer si un marché ou un appel d’offres vise à atteindre un objectif de politiques établi. Ainsi, l’évaluation prend souvent la forme d’une étiquette binaire « oui » ou « non » enregistrée dans le cadre du processus de passation de marchés.
 
@@ -66,7 +66,7 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 {% endgallery %}
 {% enddatabase %}
 
-## **Exemples d’indicateurs** 
+## **Exemples d’indicateurs**
 
 Il existe différentes façons d’évaluer la mise en œuvre de politiques sur les marchés publics durables. Précédemment dans ce guide pratique, nous [avons présenté un cadre de suivi et d’évaluation](/suivi-et-valuation) visant à évaluer les progrès concernant la réalisation des objectifs de durabilité en définissant des objectifs, des résultats et des indicateurs. Ce cadre contenait des exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant l’objectif de promotion de l’adoption de pratiques durables de passation de marchés.
 

@@ -8,7 +8,7 @@ full_width: true
 notion_id: "670fc05032a7418a831ebc67e797371b"
 sidebar: true
 ---
-# **Traducir la sostenibilidad en obligaciones contractuales** 
+# **Traducir la sostenibilidad en obligaciones contractuales**
 
 Una vez se hayan establecido claramente los criterios de sostenibilidad, deben traducirse en obligaciones contractuales. Esto incluye establecer cómo se monitoreará la implementación y cuáles son las consecuencias en caso de incumplimiento. Para redactar cláusulas contractuales efectivas, estas decisiones deben ser discutidas abiertamente y acordadas por la autoridad de contratación y los proveedores relevantes. Esta sección presenta algunas de las características clave de las cláusulas contractuales exitosas.
 

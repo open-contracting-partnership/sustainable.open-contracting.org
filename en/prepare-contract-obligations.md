@@ -8,7 +8,7 @@ full_width: true
 notion_id: "36ddabe9fe9743c7ac9d2229b48487e4"
 sidebar: true
 ---
-# Translating sustainability into contract obligations 
+# Translating sustainability into contract obligations
 
 Once sustainability criteria have been clearly established, it should be translated into contract obligations. This includes establishing how implementation will be monitored, and what are the consequences in case of non-compliance. In order to draft effective contract clauses, these decisions should be openly discussed and agreed upon by the procurement authority and the relevant suppliers. This section introduces some of the key features of successful contract clauses.
 
@@ -66,9 +66,9 @@ Sustainability clauses are often considered as separate to business demands, whi
 
 ## **Have clear continuous improvement standards**
 
-As it has been introduced in the [previous section](/set-sustainability-criteria), what sustainability criteria to introduce in public procurement contracts should be decided according to different factors, including existing market capability. However, market capability against sustainability standards can increase over the course of a contract. To ensure that contracted suppliers keep progressing against sustainability standards, you can include clear continuous improvement standards in contract clauses. This can include, for example, establishing progressive CO2 minimisation targets throughout the duration of the contract, or progressive fuel saving standards. 
+As it has been introduced in the [previous section](/set-sustainability-criteria), what sustainability criteria to introduce in public procurement contracts should be decided according to different factors, including existing market capability. However, market capability against sustainability standards can increase over the course of a contract. To ensure that contracted suppliers keep progressing against sustainability standards, you can include clear continuous improvement standards in contract clauses. This can include, for example, establishing progressive CO2 minimisation targets throughout the duration of the contract, or progressive fuel saving standards.
 
-Including these clauses can be crucial for ensuring good quality and value for money throughout the lifecycle of a contract. It can also be useful to establish continuous improvement as a condition of contract extension or re-procurement. Finally, you can consider introducing additional financial incentives to reward this behavior. 
+Including these clauses can be crucial for ensuring good quality and value for money throughout the lifecycle of a contract. It can also be useful to establish continuous improvement as a condition of contract extension or re-procurement. Finally, you can consider introducing additional financial incentives to reward this behavior.
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**

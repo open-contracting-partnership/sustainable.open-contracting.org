@@ -25,7 +25,7 @@ Les marchés axés sur les résultats peuvent constituer un bon point de départ
 Ce type d’approche peut vous procurer deux grands avantages :
 
 - **Concentrer l’attention sur les besoins réels.** En présentant les besoins sous la forme de résultats (par exemple, le besoin d’un système de divertissement dans un centre de santé) au lieu de formuler des besoins plus spécifiques (par exemple des téléviseurs), les acheteurs publics donnent la possibilité de soumettre des propositions plus variées pour répondre aux besoins recensés. Certaines solutions proposées par les fournisseurs peuvent répondre plus efficacement aux besoins recensés que les solutions spécifiques définies par l’acheteur.
-- **Promouvoir l’innovation.** Le fait de formuler les besoins sous la forme de résultats incite les acteurs du marché à concevoir et proposer des solutions novatrices. 
+- **Promouvoir l’innovation.** Le fait de formuler les besoins sous la forme de résultats incite les acteurs du marché à concevoir et proposer des solutions novatrices.
 
 {% endtoggle %}
 
@@ -93,7 +93,7 @@ Les processus d’appel d’offres en deux temps sont particulièrement utiles d
 
 ## **Marché groupé**
 
-Afin de mettre en place des marchés publics durables, vous pouvez également opter pour des marchés groupés. Cette approche désigne la collaboration entre plusieurs organismes publics dans le cadre de certains marchés. Cette collaboration peut porter sur des essais conjoints ou certaines interactions avec les acteurs du marché au début du processus, ou encore le lancement d’un appel d’offres commun ou la signature conjointe d’un contrat avec un fournisseur dans le cadre d’un processus de passation de marchés. 
+Afin de mettre en place des marchés publics durables, vous pouvez également opter pour des marchés groupés. Cette approche désigne la collaboration entre plusieurs organismes publics dans le cadre de certains marchés. Cette collaboration peut porter sur des essais conjoints ou certaines interactions avec les acteurs du marché au début du processus, ou encore le lancement d’un appel d’offres commun ou la signature conjointe d’un contrat avec un fournisseur dans le cadre d’un processus de passation de marchés.
 
 {% toggle **Avantages des marchés groupés**  %}
 
@@ -128,7 +128,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur* [*la construction*](/la-construction-en-anglais) *et les* [*technologies de l’information et des communications*](/le-secteur-tic-en-anglais). 
+*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur* [*la construction*](/la-construction-en-anglais) *et les* [*technologies de l’information et des communications*](/le-secteur-tic-en-anglais).
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
@@ -138,7 +138,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-**Étude de cas** 
+**Étude de cas**
 
 En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.
 

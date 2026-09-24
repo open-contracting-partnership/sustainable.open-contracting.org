@@ -7,7 +7,7 @@ notion_id: f2ee0ed81aa542a4866bf2566cf0d2ca
 ---
 # Analysing and reporting data
 
-When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed. 
+When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed.
 
 In order to make this reporting transferable and therefore comparable with other departments and even other countries, it is essential to be clear and open about methodologies around recording and calculating reporting metrics and and to make the underlying data available for analysis by others.
 
@@ -27,7 +27,7 @@ As Covid-19 showed, public facing toolsets and dashboards are of immense value. 
 
 ### Whether or not to publish openly
 
-Internal publishing such as for policy outcome measurement can rely on sensitive datasets that might be confidential, for instance codes around taxation. These concerns are typically related to edge cases which can be redacted (e.g. personal identifiers such as social security numbers) or overestimated. By way of example, whether or not spend data was published openly would have little effect on invoicing fraud, especially as fraudsters have other ways of obtaining this information. However, the benefits of publishing spend data outweigh these risks. 
+Internal publishing such as for policy outcome measurement can rely on sensitive datasets that might be confidential, for instance codes around taxation. These concerns are typically related to edge cases which can be redacted (e.g. personal identifiers such as social security numbers) or overestimated. By way of example, whether or not spend data was published openly would have little effect on invoicing fraud, especially as fraudsters have other ways of obtaining this information. However, the benefits of publishing spend data outweigh these risks.
 
 This is because open publishing demonstrates to citizens, funders such as international banks and development banks where the problems lie to better target funding and investment for SPP and wider development beyond. Without licensing or usage constraints, the public and private sector can also take, use, and adapt the data to better suit their needs. Civil society can use the data to hold buyers to account, to ensure that these buyers are living up to their promises and targets around sustainable procurement.
 

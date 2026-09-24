@@ -7,11 +7,11 @@ notion_id: "8b7e17ab773f4d8fbea877a029bae3c1"
 ---
 # How to gather the data you need?
 
-There are three elements to gathering the necessary data. The first is creating the data in the first place. Then comes the need to access the data which might be stored across other governmental departments and private sector suppliers. Finally there is the need to collect the data, which is the act of gathering, storing and using the data. 
+There are three elements to gathering the necessary data. The first is creating the data in the first place. Then comes the need to access the data which might be stored across other governmental departments and private sector suppliers. Finally there is the need to collect the data, which is the act of gathering, storing and using the data.
 
 ### Creating the data
 
-Governments like the private sector, are increasingly becoming aware of the value of data and the accumulation, linking and usage of datasets from across the public and private sector. Unlike the private sector, however, public procurement is in an advantageous position to influence their datasets through the levers of law and mandate. 
+Governments like the private sector, are increasingly becoming aware of the value of data and the accumulation, linking and usage of datasets from across the public and private sector. Unlike the private sector, however, public procurement is in an advantageous position to influence their datasets through the levers of law and mandate.
 
 Ways to create the data include mandates for companies to submit their CO2 emissions as part of the procurement process and to release this information. Governments can be more ambitious still and mandate yearly publication by companies as part of those companies’ other returns such as tax returns and financial account submissions.
 
@@ -23,7 +23,7 @@ Where the same financial data is required by multiple agencies, but no central r
 
 Data should flow between governmental departments to allow all parties the information they need to better serve their public. The way this is typically achieved is through data sharing agreements between departments, where both departments agree to share defined data.
 
-One example of this is a registry of public bodies held by a Ministry of Finance or Ministry of Public Administration that is shared between other governmental departments or even openly published. Such a list would make inter-departmental spending and communications easier because there is a canonical reference to a body certified by that Ministry. Such a registry would also make data sharing agreements between departments easier to achieve. This is because there are two defined bodies making a commitment to share data with each other. 
+One example of this is a registry of public bodies held by a Ministry of Finance or Ministry of Public Administration that is shared between other governmental departments or even openly published. Such a list would make inter-departmental spending and communications easier because there is a canonical reference to a body certified by that Ministry. Such a registry would also make data sharing agreements between departments easier to achieve. This is because there are two defined bodies making a commitment to share data with each other.
 
 A data sharing agreement in place would reduce the need for administration and negotiation around sharing data between parties for each and every instance of data transfer. At the most optimal form, a cross department data sharing agreement organised by a Ministry of Public Administration reduces the need for multiple data sharing agreements and the administration around this.
 
@@ -35,6 +35,6 @@ It is not uncommon for a Government to hold their data on private sector hosted 
 
 ### Extracting the data for use
 
-Public sector organisations around the world all create rich datasets whether its data on cities, taxation, companies or procurement. This can take many forms, whether from excel spreadsheets to servers hosted on site to cloud storage. 
+Public sector organisations around the world all create rich datasets whether its data on cities, taxation, companies or procurement. This can take many forms, whether from excel spreadsheets to servers hosted on site to cloud storage.
 
 Access cases can depend from department to department and even country to country, ranging from a SQL analyst make queries from across datasets to APIs feeding into a central data repository to a mixture of these. Regardless, the important point is for the data cleaned and standardised in one place to allow meaningful analysis of the data and create evidence based policy and action.

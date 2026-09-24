@@ -9,7 +9,7 @@ notion_id: "9b1ba841e1704c8cb6efae99779a3582"
 sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
-En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques. 
+En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques.
 
 Deux indicateurs essentiels font l’objet d’un suivi : le nombre d’organisations qui présentent un plan sur les marchés publics écologiques et un rapport d’évaluation dans ce domaine ; et les acquisitions de produits écologiques (en particulier le nombre d’unités, les dépenses concernant des produits assortis d’une éco-étiquette achetés et la proportion par rapport au total des dépenses). L’acquisition de produits écologiques est liée aux produits certifiés par [l’éco-étiquette coréenne](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp) et est évaluée pour mesurer les progrès concernant les objectifs de réduction des émissions de CO2 du plan.
 

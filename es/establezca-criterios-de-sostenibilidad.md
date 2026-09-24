@@ -90,7 +90,7 @@ Las especificaciones técnicas constituyen el cumplimiento mínimo contra el cua
 La introducción de criterios de sostenibilidad como especificaciones técnicas es la forma más eficaz de garantizar que los proveedores cumplirán los criterios. Sin embargo, las autoridades públicas deben asegurarse de que la mayoría de los proveedores puedan cumplir las especificaciones técnicas incluidas, para asegurarse de que reciben suficientes ofertas y no comprometer la selección de una solución que represente la mejor relación calidad-precio.
 
 {% callout red /assets/images/Icons_Red8.png %}
-Recuerde que cuando su entorno propicio solo permite adjudicar contratos en función del precio, la introducción de criterios de sostenibilidad como requisitos esenciales es una de las formas clave de implementar APP. Consulte la sección sobre Establecer un entorno habilitante para obtener más información. 
+Recuerde que cuando su entorno propicio solo permite adjudicar contratos en función del precio, la introducción de criterios de sostenibilidad como requisitos esenciales es una de las formas clave de implementar APP. Consulte la sección sobre Establecer un entorno habilitante para obtener más información.
 {% endcallout %}
 
 {% endtoggle %}

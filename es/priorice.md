@@ -138,7 +138,7 @@ Tal como explicamos al principio de esta sección, una vez haya decidido enfocar
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-**Estudio de caso** 
+**Estudio de caso**
 
 Tras la aprobación de su Estrategia Nacional de Crecimiento Verde en 2012 Vietnam aplicó un una herramienta para [la determinación de prioridades](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) para su contratación pública de 2015, **con el fin de seleccionar categorías de producto en que se debía enfocar los esfuerzos** en CPS con la las ayuda de PNUMA.
 

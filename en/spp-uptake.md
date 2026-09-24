@@ -36,7 +36,7 @@ Clearly shows suppliers that sustainable procurement is a long-term commitment t
 Links policy to procurement through a feedback loop allowing measurement of policy objectives to take place.
 {% endcallout %}
 
-## Getting started 
+## Getting started
 
 Measuring the progress of sustainable procurement is usually about recording whether a contract or tender has been set out to meet a stated policy goal. As a result, measuring progress often takes the form of a binary “yes” or “no” tag that is recorded as part of the procurement process.
 
@@ -44,7 +44,7 @@ The challenge for governments is not how to measure the resulting data, that is 
 
 As such, it is vital for governments to be clear about the policies that they wish to implement, for instance if there is a policy to award contracts to female owned businesses then there needs to be good guidance on what constitutes a female owned business and under what circumstances the policy can be applied.
 
-Once this has been clearly established, you can measure and record uptake of SPP policies. 
+Once this has been clearly established, you can measure and record uptake of SPP policies.
 
 {% database Click through to the following sections to find out more about how to get started: %}
 {% gallery medium %}
@@ -64,7 +64,7 @@ Once this has been clearly established, you can measure and record uptake of SPP
 {% endgallery %}
 {% enddatabase %}
 
-## Sample indicators 
+## Sample indicators
 
 There are different ways to measure progress against the adoption of SPP policies. Earlier in the toolkit, we [introduced an M&E framework](/monitoring-evaluation) for measuring progress against sustainability goals by setting Goals, Outcomes and Indicators. This framework included sample Outcomes with associated Indicators that you can use to measure progress against the Goal of “Promoting SPP uptake”.
 

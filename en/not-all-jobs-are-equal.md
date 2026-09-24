@@ -11,7 +11,7 @@ properties:
 
 # Not all jobs are equal
 
-When looking for economic development from procurement it is common to want to record the nature of the job that is being created. Governments may, for instance, wish to prioritise the creation of apprenticeships, or permanent, skilled work over and above the creation of a non-skilled or temporary work. 
+When looking for economic development from procurement it is common to want to record the nature of the job that is being created. Governments may, for instance, wish to prioritise the creation of apprenticeships, or permanent, skilled work over and above the creation of a non-skilled or temporary work.
 
 In this scenario, data on profits and revenues won’t be enough, instead firms will need to provide details of the jobs they plan to create and when they will be created. Where a buyer has a clear sense of the value of different types of job, a weighting can be applied to your analysis in order to afford more credit to companies that will create the desired jobs. Weightings can work as a mechanism for discounting activity that is of a lower priority.
 

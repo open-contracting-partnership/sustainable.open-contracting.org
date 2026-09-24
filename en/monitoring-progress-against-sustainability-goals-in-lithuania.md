@@ -21,7 +21,7 @@ In Lithuania, the Ministry of Environment is in charge of the implementation of 
 
 In Lithuania, procurement is green if: (i) it uses criteria established by the Ministry; (ii) includes supplier certificates such as eco-labels or environmental management systems; (iii) the purchasing authority can define its own green criteria based on principles established by the Ministry; or (iv) it comes from pre-selected product groups that have been defined as green.
 
-- **Setting targets** 
+- **Setting targets**
 
 Lithuania set milestone goals of 10% GPP in 2021, 50% GPP in 2022, and 100% Green procurement by 2023.
 

@@ -27,7 +27,7 @@ For a deeper breakdown of both SPP and and open contracting (both open governmen
 
 # How openness helps SPP
 
-At its simplest level, it is hard to argue procurement will encourage sustainable development if it is *not* open and transparent. But, more strategically, our governments are going to have to buy things in a fundamentally different way if they are to tackle the many environmental challenges that we face, so they will have to engage new stakeholders and scale innovations. 
+At its simplest level, it is hard to argue procurement will encourage sustainable development if it is *not* open and transparent. But, more strategically, our governments are going to have to buy things in a fundamentally different way if they are to tackle the many environmental challenges that we face, so they will have to engage new stakeholders and scale innovations.
 
 We are all still learning how to do this, so we will also need better data on who is buying what from whom, when, for how much, and what the associated environmental and other sustainable development impacts are. This will require collecting new forms of data and analysis.
 
@@ -41,7 +41,7 @@ Throughout this guide, we will refer to these different types of openness as key
 **Communicating your SPP policies and approach**
 {% endcallout %}
 
-Open SPP means clearly disclosing your policies and approach to drive sustainability and how it complies with any international, national or local legal frameworks and policies that govern your procurement rules. 
+Open SPP means clearly disclosing your policies and approach to drive sustainability and how it complies with any international, national or local legal frameworks and policies that govern your procurement rules.
 
 {% callout default /assets/images/7_areas_open_SPP2.png %}
 **Communicating why you have prioritized certain categories of spending**
@@ -81,7 +81,7 @@ Open SPP involves shaping, testing, and scaling SPP practices, based on reportin
 
 # The importance of good data as a foundation
 
-To deliver on these seven dimensions of openness high-quality data is crucial. This means [standardized data](https://opengovdata.org/) in open, machine-readable formats. 
+To deliver on these seven dimensions of openness high-quality data is crucial. This means [standardized data](https://opengovdata.org/) in open, machine-readable formats.
 
 We have already compiled a piece of guidance that explores how open data can help you to drive SPP, and recommends the first steps in your open data journey. This guide can be found [here](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 

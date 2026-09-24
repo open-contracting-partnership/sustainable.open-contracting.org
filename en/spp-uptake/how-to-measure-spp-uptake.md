@@ -73,9 +73,9 @@ SPP procurements in 2021 = 350
 %age change 2020 to 2021 = 150/200 = 75%
 ```
 
-Using raw contract values is the simplest option but not always the best option. The reason is, these values can be skewed by high value contracts. For instance, a single large contract like infrastructure building can be worth billions and uplift the entire procurement for the year. In this instance, the values need to be looked at alongside the contract counts. 
+Using raw contract values is the simplest option but not always the best option. The reason is, these values can be skewed by high value contracts. For instance, a single large contract like infrastructure building can be worth billions and uplift the entire procurement for the year. In this instance, the values need to be looked at alongside the contract counts.
 
-The measurement of targets over time, allows buyers and policymakers alike to better know actual performance versus targets set by policy and legislation. This can lead to powerful evidence showing that work towards policy and legislative objectives is quantifiably being done. 
+The measurement of targets over time, allows buyers and policymakers alike to better know actual performance versus targets set by policy and legislation. This can lead to powerful evidence showing that work towards policy and legislative objectives is quantifiably being done.
 
 For instance collecting data on SPPs such as this:
 
@@ -102,7 +102,7 @@ Target against actual = 63-70% = -7% against target
 Ministry of Infrastructure is underperforming by 7%
 ```
 
-From a high level ranking view, data can be further broken down on spreadsheets and dashboards. From the above illustrative list, taking the poorest performing Ministry of Infrastructure at 63%: 
+From a high level ranking view, data can be further broken down on spreadsheets and dashboards. From the above illustrative list, taking the poorest performing Ministry of Infrastructure at 63%:
 
 ```r
 Year    | SPP count*   | SPP count* |

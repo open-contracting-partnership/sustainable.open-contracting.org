@@ -13,7 +13,7 @@ sidebar: true
 After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the [previous section](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.  
 
 {% callout red /assets/images/Pin_Red.png %}
-In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the** [**broader goals**](/monitoring-evaluation) that have been set as part of the Open SPP strategy. 
+In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the** [**broader goals**](/monitoring-evaluation) that have been set as part of the Open SPP strategy.
 {% endcallout %}
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
@@ -37,10 +37,10 @@ One way to monitor implementation of SPP benchmarks during a contract is by dist
 
 There are different ways by which suppliers can verify performance against sustainability requirements. These include:
 
-- **Accreditation certificates** against the standards of a specific accreditation scheme, which can include, for example, an environmental label. As explained throughout this toolkit, most enabling frameworks do not allow to reference specific ecolabel schemes without accepting means of verification other than the ecolabel certificate. This includes means of verification such as laboratory reports, testing, or technical documentation. 
-- **Laboratory reports** can be presented by suppliers to verify, for example, the composition of certain products, and **testing reports** can be used to verify factors such as noise emissions, or energy use. 
-- **Technical documentation** includes, for example, manufacturer reports which might include relevant data regarding the performance of certain products. 
-- **Company documentation** to verify criteria such as MSMEs status, or supplier codes of conduct. 
+- **Accreditation certificates** against the standards of a specific accreditation scheme, which can include, for example, an environmental label. As explained throughout this toolkit, most enabling frameworks do not allow to reference specific ecolabel schemes without accepting means of verification other than the ecolabel certificate. This includes means of verification such as laboratory reports, testing, or technical documentation.
+- **Laboratory reports** can be presented by suppliers to verify, for example, the composition of certain products, and **testing reports** can be used to verify factors such as noise emissions, or energy use.
+- **Technical documentation** includes, for example, manufacturer reports which might include relevant data regarding the performance of certain products.
+- **Company documentation** to verify criteria such as MSMEs status, or supplier codes of conduct.
 
 Depending on the contract type, it can be difficult to gather all the relevant documentation (e.g. gathering verification documentation for all the materials used throughout a construction project, or the waste generated throughout the duration of the contract). In order to facilitate this process, an option could be to set material or waste management registries, where suppliers can import relevant data at agreed stages throughout the contract.
 
@@ -65,7 +65,7 @@ Another important way to gather needed data to monitor performance could be by e
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement. 
+For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement.
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}
@@ -81,7 +81,7 @@ For more examples of how to monitor implementation in specific procurement categ
 
 **With the establishment of the ProZorro e-procurement system in Ukraine in 2016, Transparency International Ukraine established a network of civil society procurement monitors, called [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/).** Within three years this had swelled to two dozen organizations, and over 2 million people had visited the website.
 
-What’s more, in that time frame the DoZorro community uncovered violations in over 30,000 tenders with an estimated value of $4 billion. **More than 100,000 people use their procurement monitoring system each month, and violations have been fixed in 14% of cases.** 
+What’s more, in that time frame the DoZorro community uncovered violations in over 30,000 tenders with an estimated value of $4 billion. **More than 100,000 people use their procurement monitoring system each month, and violations have been fixed in 14% of cases.**
 
 This monitoring is officially embedded in the government e-procurement system, and the inspiring results have inspired similar networks in other countries in the region and beyond.
 {% endcallout %}

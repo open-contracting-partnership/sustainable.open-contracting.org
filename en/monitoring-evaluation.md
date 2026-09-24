@@ -82,9 +82,9 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Case Study** 
+**Case Study**
 
-**In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.” 
+**In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.”
 
 **Two key indicators are monitored: the number of public organizations that submit a GPP plan and performance report, and the purchase of green products (specifically the units and expenditure on ecolabelled products purchased and the proportion of that to total expenditure).** The purchase of green products is linked to the products certified by the [Korean ecolabel](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp), and it is measured to monitor progress against the plan’s objective of minimizing CO2 emissions.
 

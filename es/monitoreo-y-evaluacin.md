@@ -13,7 +13,7 @@ sidebar: true
 En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). [Este marco](/monitoreo-y-evaluacin/ejemplo-de-marco-me) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
 
 {% callout green /assets/images/icons_D_Green8.png %}
-Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una [plantilla editable del marco muestra](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) en la sección de recursos descargables. 
+Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una [plantilla editable del marco muestra](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) en la sección de recursos descargables.
 {% endcallout %}
 
 ## **¿Qué son las Metas, Resultados e Indicadores?**
@@ -86,7 +86,7 @@ El desarrollo de metas, resultados e indicadores exige un entendimiento integral
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Estudio de caso** 
+**Estudio de caso**
 
 **En 2005 el Ministerio de Entorno de la** [República de Corea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
 

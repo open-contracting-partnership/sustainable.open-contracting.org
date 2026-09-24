@@ -145,7 +145,7 @@ Para obtener más orientación sobre los enfoques de contratación que pueden se
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}
-**Estudio de caso** 
+**Estudio de caso**
 
 **En 2015, Wichita, la ciudad más grande del estado de Kansas, EE. UU.,** [se propuso mejorar la calidad de los parques de la ciudad y reducir los costos](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). En ese momento, los montos de las ofertas de mantenimiento de los terrenos aumentaron un 30 por ciento con respecto al año anterior, los contratistas no cumplían con los estándares de calidad y los funcionarios de la ciudad recibían quejas sobre la altura del césped en los parques infantiles y campos de juego.
 

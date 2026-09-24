@@ -10,7 +10,7 @@ sidebar: true
 ---
 # An introduction to the toolkit
 
-Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains. 
+Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains.
 
 A key route to deliver on those commitments is how governments make their purchases. Public procurement represents around 15% of global GDP, one in every 3 dollars that they spend, adding up to an enormous $13 trillion of spending every year. Procurement also accounts for [15% of all greenhouse gas emissions](https://www.bcg.com/press/13january2022-green-government-procurement-practices-cut-global-emissions) each year: that is seven times as much as the entire aviation industry.
 
@@ -27,7 +27,7 @@ Practitioners realize that they need to buy things in a fundamentally different 
 **Fortunately we can help.**
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
-As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource. 
+As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource.
 {% endcallout %}
 
 {% image /assets/images/Group_2Introduction_%282%29.png 701.98 288.8 align-start %}

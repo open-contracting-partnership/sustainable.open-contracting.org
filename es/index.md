@@ -14,13 +14,13 @@ sidebar: true
 **Contratación sostenible requiere que los gobiernos compren de una forma fundamentalmente diferente. Esperamos que esta caja de herramientas le ayude a comenzar.**
 
 {% callout gray /assets/images/Icons_Grey3.png %}
-*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible ha sido co-diseñada por* [*Open Contracting Partnership (OCP)*](https://www.open-contracting.org/)*, una entidad sin ánimo de lucro que trabaja en más de 50 países para abrir y transformar todo el proceso de contratación pública haciéndolo más fácil de usar, inclusivo y basado en datos;* [*Spend Network*](https://spendnetwork.com/)*, líder mundial en análisis de datos de adquisiciones y contrataciones abiertas; y* [*PUBLIC*](http://public.io)*, una empresa de tecnología líder enfocada en el gobierno. El desarrollo de la caja de herramientas cuenta con el apoyo de la Cooperación Alemana para el Desarrollo implementada por* [*Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH*](https://www.giz.de/en/html/about_giz.html)*. Esta traducción ha sido posible gracias al apoyo del Banco Interamericano de Desarrollo (BID).* 
+*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible ha sido co-diseñada por* [*Open Contracting Partnership (OCP)*](https://www.open-contracting.org/)*, una entidad sin ánimo de lucro que trabaja en más de 50 países para abrir y transformar todo el proceso de contratación pública haciéndolo más fácil de usar, inclusivo y basado en datos;* [*Spend Network*](https://spendnetwork.com/)*, líder mundial en análisis de datos de adquisiciones y contrataciones abiertas; y* [*PUBLIC*](http://public.io)*, una empresa de tecnología líder enfocada en el gobierno. El desarrollo de la caja de herramientas cuenta con el apoyo de la Cooperación Alemana para el Desarrollo implementada por* [*Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH*](https://www.giz.de/en/html/about_giz.html)*. Esta traducción ha sido posible gracias al apoyo del Banco Interamericano de Desarrollo (BID).*
 
 *A lo largo del conjunto de herramientas brindamos orientación sobre cómo aplicar enfoques de datos abiertos y gobierno abierto para respaldar la implementación exitosa de las contrataciones abiertas en las contrataciones públicas sostenibles e impulsar el impacto.*
 {% endcallout %}
 
 {% callout yellow /assets/images/Icons_Grey3.png %}
-*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés.* 
+*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés.*
 <br>[Access the toolkit in English](https://sustainable.open-contracting.org/)<br>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
 {% endcallout %}
 

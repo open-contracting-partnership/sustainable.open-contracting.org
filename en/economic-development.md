@@ -48,7 +48,7 @@ The more and better data that exists around supplier and contracting and spend, 
 
 ### Option 3: Look for local firms used by other parts of government
 
-Buyers can search for local firms who have performed similar contracts based on category, specification, and value. A register of contracts with clean and complete OCDS data will enable this. 
+Buyers can search for local firms who have performed similar contracts based on category, specification, and value. A register of contracts with clean and complete OCDS data will enable this.
 
 ### Option 4: Measure contracts to high growth industries
 

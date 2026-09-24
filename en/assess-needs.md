@@ -13,7 +13,7 @@ sidebar: true
 When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender.
 
 {% callout red /assets/images/Pin_Red.png %}
-In this section, we present some of the key information that should be gathered in order to **successfully identify real needs, and ensure a more open and sustainable procurement process.** 
+In this section, we present some of the key information that should be gathered in order to **successfully identify real needs, and ensure a more open and sustainable procurement process.**
 {% endcallout %}
 
 ## Identify user needs
@@ -35,7 +35,7 @@ Once users are identified, different methods can be used to gather the needed da
 - Carrying out observation and analysis to understand the ways current services are used.
 - Conducting interviews or organising focus groups with different users.
 
-Depending on the size of the contract being considered, this research can also be commissioned to a third party. 
+Depending on the size of the contract being considered, this research can also be commissioned to a third party.
 
 {% endtoggle %}
 
@@ -44,29 +44,29 @@ Depending on the size of the contract being considered, this research can also b
 **Some of the outputs from the user research will include:**
 
 - A profile of different types of users.
-- Information on the needs for different types of users. 
+- Information on the needs for different types of users.
 - Experience and issues found using current available services.
 - A projection of how these needs might grow and evolve.  
 
 **This information will inform:**
 
 - The type of resources that are needed, or the outcome that is expected from these resources (i.e. a 300W radiator vs. an office heated to 20 - 22 degrees).
-- The quantity of resources needed, or the frequency in which specific services are needed. 
-- Any technical requirements that should be included in the contract regarding user needs. For example, when considering procuring new office IT, this process should inform any needed accessibility requirements for users. 
+- The quantity of resources needed, or the frequency in which specific services are needed.
+- Any technical requirements that should be included in the contract regarding user needs. For example, when considering procuring new office IT, this process should inform any needed accessibility requirements for users.
 
 {% endtoggle %}
 
 {% toggle **Step 4:** Share process and findings   %}
 
-Sharing the needs assessment process is an essential part of Open SPP. Public authorities should openly share how user research has informed decisions regarding new contracts. Being transparent about this process will help to gain the stakeholder’s trust, and minimise corruption risks. 
+Sharing the needs assessment process is an essential part of Open SPP. Public authorities should openly share how user research has informed decisions regarding new contracts. Being transparent about this process will help to gain the stakeholder’s trust, and minimise corruption risks.
 
 {% endtoggle %}
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
-<br>Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,</strong> working directly with medical staff to shape tender documents for use across the country. 
+<br>Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,</strong> working directly with medical staff to shape tender documents for use across the country.
 
-**CONSIP agrees the tender specifications in consultations with doctors' groups and scientific associations, while tenders are frequently drafted by medical professionals themselves.** This prioritizes product quality which is vital for medical use. Devices that meet the contract’s financial requirements and specifications are tested by doctors and nurses in their hospitals, which then award the final contract on the basis of the product’s performance. 
+**CONSIP agrees the tender specifications in consultations with doctors' groups and scientific associations, while tenders are frequently drafted by medical professionals themselves.** This prioritizes product quality which is vital for medical use. Devices that meet the contract’s financial requirements and specifications are tested by doctors and nurses in their hospitals, which then award the final contract on the basis of the product’s performance.
 
 **The system has been widely praised by both medical professionals and suppliers, leading to its implementation on a regional as well as national level.**
 {% endcallout %}
@@ -99,9 +99,9 @@ Framing user needs in terms of outcomes can help to encourage innovative sustain
 
 {% endtoggle %}
 
-## Formulate a needs statement 
+## Formulate a needs statement
 
-Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered. 
+Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered.
 
 {% callout red /assets/images/Pin_Red.png %}
 <strong>For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:
@@ -114,7 +114,7 @@ The existing projectors consume a large amount of energy and often break down.
 The Department will consider proposals for leasing the screens under a service contract.”
 {% endcallout %}
 
-The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process. 
+The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process.
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**

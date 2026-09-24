@@ -18,7 +18,7 @@ En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar p
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
 <strong>Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.
-<br></strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción. 
+<br></strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción.
 {% endcallout %}
 
 ## **¿Cómo se puede monitorear el desempeño durante la implementación del contrato?**
@@ -65,7 +65,7 @@ Otra forma importante de recopilar los datos necesarios para monitorear el desem
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-Para obtener más ejemplos de cómo monitorear la implementación en contratos de categorías de contrataciones específicas, consulte las secciones sobre construcción y contrataciones de ICT. 
+Para obtener más ejemplos de cómo monitorear la implementación en contratos de categorías de contrataciones específicas, consulte las secciones sobre construcción y contrataciones de ICT.
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

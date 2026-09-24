@@ -22,12 +22,12 @@ Implementing Open SPP ultimately means purchasing goods, services and works in t
 
 - **How the criteria are related to the subject-matter of the contract.**
 - **How suppliers will be evaluated against the criteria.**
-- **How the use of the criteria complies with the existing policy and regulatory frameworks.** 
+- **How the use of the criteria complies with the existing policy and regulatory frameworks.**
 {% endcallout %}
 
 ## What you should consider before introducing the criteria
 
-Before deciding what sustainability criteria will be introduced in the procurement process, and how, there are certain factors that you should consider. 
+Before deciding what sustainability criteria will be introduced in the procurement process, and how, there are certain factors that you should consider.
 
 {% toggle **Step 1:** What is the subject matter of the contract? %}
 
@@ -56,7 +56,7 @@ When considering how to introduce sustainability criteria in a procurement proce
 
 {% toggle **Step 3:** Have any standardized sustainability criteria been created? %}
 
-As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations](/build-support-and-capabilities) as to what criteria should be included when purchasing specific procurement categories. 
+As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations](/build-support-and-capabilities) as to what criteria should be included when purchasing specific procurement categories.
 
 {% callout red /assets/images/Icons_Red8.png %}
 Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition. See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.
@@ -76,9 +76,9 @@ It is difficult to advise on the best way to introduce sustainability criteria i
 
 {% toggle **Selection criteria** %}
 
-Selection criteria focus on evaluating potential supplier’s ability to perform the contract for which they are tendering. When assessing this, public authorities can take into account specific experience, for example, they might ask suppliers if they have an [Environmental Management System](<https://www.epa.gov/ems/learn-about-environmental-management-systems#:~:text=An%20Environmental%20Management%20System%20(EMS)%20is%20a%20framework%20that%20helps,improvement%20of%20its%20environmental%20performance.>), or if they have a supplier Code of Conduct in place. 
+Selection criteria focus on evaluating potential supplier’s ability to perform the contract for which they are tendering. When assessing this, public authorities can take into account specific experience, for example, they might ask suppliers if they have an [Environmental Management System](<https://www.epa.gov/ems/learn-about-environmental-management-systems#:~:text=An%20Environmental%20Management%20System%20(EMS)%20is%20a%20framework%20that%20helps,improvement%20of%20its%20environmental%20performance.>), or if they have a supplier Code of Conduct in place.
 
-This information is often gathered through questionnaires, and this system is often used in [two tender stage procurement approaches](/choose-a-procurement-method) to select suppliers during the first stage. Authorities should clearly communicate which of this information will be used to evaluate suppliers, and how it relates to the subject-matter of the contract. 
+This information is often gathered through questionnaires, and this system is often used in [two tender stage procurement approaches](/choose-a-procurement-method) to select suppliers during the first stage. Authorities should clearly communicate which of this information will be used to evaluate suppliers, and how it relates to the subject-matter of the contract.
 
 {% endtoggle %}
 
@@ -86,10 +86,10 @@ This information is often gathered through questionnaires, and this system is of
 
 Technical specifications constitute the minimum compliance against which suppliers will be evaluated. Unlike selection criteria, these need to relate to the specific characteristics of the service, works, or product that will be purchased, not the characteristics of the supplier.
 
-Introducing sustainability criteria as technical specifications is the most effective way to ensure that the criteria will be met by suppliers. However, public authorities should ensure that technical specifications included can be met by a majority of suppliers, to ensure that they receive enough offers, and not compromise the selection of a solution which represents the best value for money. 
+Introducing sustainability criteria as technical specifications is the most effective way to ensure that the criteria will be met by suppliers. However, public authorities should ensure that technical specifications included can be met by a majority of suppliers, to ensure that they receive enough offers, and not compromise the selection of a solution which represents the best value for money.
 
 {% callout red /assets/images/Icons_Red8.png %}
-Remember when your enabling environment only allows to award contracts based on price, introducing sustainability criteria as essential requirements is one of the key ways of implementing SPP. See the section on [Establish an enabling environment](/establish-an-enabling-environment) for more information. 
+Remember when your enabling environment only allows to award contracts based on price, introducing sustainability criteria as essential requirements is one of the key ways of implementing SPP. See the section on [Establish an enabling environment](/establish-an-enabling-environment) for more information.
 {% endcallout %}
 
 {% endtoggle %}
@@ -109,9 +109,9 @@ Once the sustainability criteria have been set, public authorities should openly
 {% callout gray /assets/images/Notion-others2.png %}
 **Case study**  
 
-**The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions. 
+**The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions.
 
-Organizations can obtain a certificate with their level on the Ladder, which they can use to receive an award advantage for their registration on tenders. In this way, **contractors can benefit from a reduction of the submission price by proving and developing their efforts to reduce CO2 emissions.** 
+Organizations can obtain a certificate with their level on the Ladder, which they can use to receive an award advantage for their registration on tenders. In this way, **contractors can benefit from a reduction of the submission price by proving and developing their efforts to reduce CO2 emissions.**
 
 As can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. **By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price.**
 

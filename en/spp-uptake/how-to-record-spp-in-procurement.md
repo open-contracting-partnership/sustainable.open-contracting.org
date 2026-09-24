@@ -9,7 +9,7 @@ notion_id: e2fbfc0689da49e89e89c59cec1d7536
 
 ## Buyer reported
 
-In many cases, it is acceptable for a buyer to simply report that a contract is meeting the established social procurement policy, for instance if a buyer will afford more weighting to a female owned business, then it is appropriate for the buyer to record that this procurement meets a threshold for encouraging female entrepreneurs. 
+In many cases, it is acceptable for a buyer to simply report that a contract is meeting the established social procurement policy, for instance if a buyer will afford more weighting to a female owned business, then it is appropriate for the buyer to record that this procurement meets a threshold for encouraging female entrepreneurs.
 
 In this situation the buyer should be able to record this status within the process of publishing data about the contract and buyers will have access to a publishing system with features that record social procurement activity.
 
