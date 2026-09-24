@@ -139,15 +139,16 @@ Databases' table views are `{% database_table %}` tags, containing YAML with the
 {% database_table %}
 columns:
 
-  - name: Name
-    type: title
-    width: 278
-  - name: Sectors
-    type: multi_select
-    width: 202
+- name: Name
+  type: title
+  width: 278
+- name: Sectors
+  type: multi_select
+  width: 202
 items:
-  - /tco-certified
-  - /the-blue-angel-eco-label
+
+- /tco-certified
+- /the-blue-angel-eco-label
 {% enddatabase_table %}
 ```
 
