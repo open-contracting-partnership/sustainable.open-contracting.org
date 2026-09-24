@@ -79,7 +79,7 @@ La medición de los objetivos a lo largo del tiempo permite tanto a los comprado
 Por ejemplo, recopilar datos sobre CPS como este:
 
 ```sql
-Número de 	CPS = Total de todas las CPS realizadas dividido por todas las contrataciones
+Número de CPS = Total de todas las CPS realizadas dividido por todas las contrataciones
 ```
 
 Significa que se pueden crear clasificaciones de organizaciones gubernamentales que muestren los buenos y los malos resultados. Por ejemplo, esta lista es ilustrativa de los 5 mejores para 2021:
