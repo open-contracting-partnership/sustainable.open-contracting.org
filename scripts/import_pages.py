@@ -6,6 +6,7 @@ import html
 import json
 import re
 import shutil
+import sys
 import urllib.parse
 from pathlib import Path
 
@@ -1103,4 +1104,9 @@ def main():
 
 
 if __name__ == "__main__":
+    if "--overwrite" not in sys.argv:
+        sys.exit(
+            "The content is edited by hand, and this script deletes and rewrites en/, es/ and fr/ (and the sidebars and "
+            "redirects). Run it with --overwrite to do so anyway."
+        )
     main()

@@ -141,13 +141,25 @@ On the Spanish and French sites, the `notion.hide_properties` setting hides the 
 
 The few remaining blocks (lists with callouts in them) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
-## How the content was produced
+## Editing
+
+The content is edited by hand:
+
+- Pages are `<lang>/<path>.md` (see [Pages](#pages)).
+- Sidebars are `_includes/sidebar-<lang>.html`, whose links to pages are `{% page PATH html %}` tags.
+- Redirects are `<lang>/_redirects`, one `SOURCE TARGET 301` rule per line, after the front matter. A target is a path on the same site, or a URL.
+
+To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. `scripts/translations.py` matches each page to its versions in the other languages.
+
+## How the content was imported
+
+The importer is retired: the scripts below are kept for reference. `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/` (and the sidebars and redirects), so running it would lose any edits since, and it refuses to run without `--overwrite`.
 
 The pages are the server-rendered HTML of the live sites, not the Notion export, because the export loses toggles, columns, gallery views, icons and covers.
 
 1. `python3 scripts/crawl.py` crawls each site's sitemap (and any linked page not in it) into `.crawl/`, recording each URL's status and Notion page ID in `.crawl/results.json`.
 1. `python3 scripts/download_assets.py` downloads the images and files the pages reference into `assets/`.
-1. `python3 scripts/import_pages.py` writes each page's article to `<lang>/<path>.md`, with its metadata, header, properties and sidebar as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard. Pages that duplicate other pages also redirect to them (see below), as do the broken links in `link-fixes.csv` that have a target (for links from their own site). Pages' paths lose the numbers that Super.so added to their segments (like `/construction-sector-1`), unless another page has the path without the number, or the number is a year. The old paths redirect to the new ones. Finally, links to another site's page link to its version on the linking page's own site, if it has one, as matched by `scripts/translations.py` (listed in `.crawl/versions-relinked.json`). Links to another site's homepage are kept, since they switch languages.
+1. `python3 scripts/import_pages.py --overwrite` writes each page's article to `<lang>/<path>.md`, with its metadata, header, properties and sidebar as front matter, and writes each site's `_redirects` and `assets/css/theme-<lang>.css`. The redirects are for URLs that Super.so redirected (Notion page IDs and other capitalizations), and for URLs of pages that Super.so lists but no longer renders, if a live page has the same final path segment. The latter are read from `.crawl/super-so-pages.csv`, exported from the Super.so dashboard. Pages that duplicate other pages also redirect to them (see below), as do the broken links in `link-fixes.csv` that have a target (for links from their own site). Pages' paths lose the numbers that Super.so added to their segments (like `/construction-sector-1`), unless another page has the path without the number, or the number is a year. The old paths redirect to the new ones. Finally, links to another site's page link to its version on the linking page's own site, if it has one, as matched by `scripts/translations.py` (listed in `.crawl/versions-relinked.json`). Links to another site's homepage are kept, since they switch languages.
 
 Some pages that Super.so published duplicate others (listed in `.crawl/duplicates.json`), and redirect to them:
 
@@ -156,7 +168,7 @@ Some pages that Super.so published duplicate others (listed in `.crawl/duplicate
 
 `link-fixes.csv` maps broken links' paths to their targets, for the links from each site (the `from` column), so that a Spanish page's link can have a Spanish target. A target is a path on the `from` site, or a URL. For links from the broken path's own site, the fix is a redirect (which also serves visitors from elsewhere). For links from another site, the fix changes the links, and until then those links stay broken, even if the path has a fix for its own site. Only the `target` column needs editing. The file has a UTF-8 byte order mark, so that Excel reads it as UTF-8.
 
-`uv run scripts/propose_link_fixes.py` (after building the sites) adds each broken link, with a proposed target if the links' text is the title of exactly one non-empty page on the `from` site, or else if the linking pages' versions in other languages link to a page at the same place (the `proposed because` column says which, with how confidently the versions were matched by `scripts/translations.py`). Review the proposals, fill in or clear the targets, and rerun `import_pages.py`. Rows keep their targets when the script is rerun, and rows without a proposal get one when there is one. `uv run scripts/check_links.py` lists the links that are still broken.
+`uv run scripts/propose_link_fixes.py` (after building the sites) adds each broken link, with a proposed target if the links' text is the title of exactly one non-empty page on the `from` site, or else if the linking pages' versions in other languages link to a page at the same place (the `proposed because` column says which, with how confidently the versions were matched by `scripts/translations.py`). Review the proposals, fill in or clear the targets, and rerun `import_pages.py --overwrite`. Rows keep their targets when the script is rerun, and rows without a proposal get one when there is one. `uv run scripts/check_links.py` lists the links that are still broken.
 
 `import_pages.py` deletes and rewrites `en/`, `es/` and `fr/`. It converts HTML to Markdown with `scripts/markdown.py`, which keeps HTML wherever the Markdown wouldn't render the same HTML, as rendered by `scripts/render_markdown.rb`, and writes a report to `.crawl/markdown-report.json`.
 
