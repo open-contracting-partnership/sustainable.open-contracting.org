@@ -4,7 +4,7 @@ title: A guide to environmental labels - for procurement practitioners of the Un
 notion_id: "1d2b37c53ac14fa2a3bf3ed071bb7476"
 properties:
   Attachment:
-    - "https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf": "https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf"
+    - "https://web.archive.org/web/20230309065958/https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf": "https://web.archive.org/web/20230309065958/https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf"
   Type of guidance:
     Ecolabels: purple
   Geographic area:

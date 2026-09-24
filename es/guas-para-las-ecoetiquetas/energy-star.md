@@ -19,6 +19,6 @@ properties:
   Incluye criterios sociales:
     "No": brown
   Enlace a criterios:
-    - Products list: "https://www.energystar.gov/products/products_list"
+    - Products list: "https://www.energystar.gov/products/products-list"
 ---
 

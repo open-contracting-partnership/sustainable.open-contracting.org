@@ -22,7 +22,7 @@ The International Standards Organization (ISO) currently classifies labels into 
 
 {% toggle **Type I (ISO 14024)** %}
 
-These labels are voluntary, multiple-criteria based, third-party awarded, and they indicate the environmental preferability of a product based on life cycle considerations. These include labels such as the [Nordic Swan](https://www.nordic-ecolabel.org/), or the [German Blue Angel. It is worth noting that these ](https://www.blauer-engel.de/en)types of ecolabels usually include different application and license fees for MSMEs. Examples of this are the [Nordic Ecolabel](https://www.nordic-ecolabel.org/product-groups/group/?productGroupCode=104), which provides a reduction of 50% for micro enterprises and bases license fees on turnover; and the [EU-Ecolabel cost structure.](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel)
+These labels are voluntary, multiple-criteria based, third-party awarded, and they indicate the environmental preferability of a product based on life cycle considerations. These include labels such as the [Nordic Swan](https://www.nordic-swan-ecolabel.org/), or the [German Blue Angel. It is worth noting that these ](https://www.blauer-engel.de/en)types of ecolabels usually include different application and license fees for MSMEs. Examples of this are the [Nordic Ecolabel](https://www.nordic-swan-ecolabel.org/how-to-apply/costs/), which provides a reduction of 50% for micro enterprises and bases license fees on turnover; and the [EU-Ecolabel cost structure.](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel)
 
 {% endtoggle %}
 

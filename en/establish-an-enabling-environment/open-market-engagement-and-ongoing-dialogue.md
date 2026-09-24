@@ -10,7 +10,7 @@ sidebar: true
 ---
 ## **What are they?**
 
-Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in [Peru](https://busquedas.elperuano.pe/normaslegales/decreto-legislativo-que-regula-la-promocion-de-la-inversion-decreto-legislativo-n-1362-1672838-2/), and has been proposed in [Chile](https://www.chilecompra.cl/2021/03/hacienda-envia-proyecto-de-ley-de-compras-publicas-para-generar-mas-transparencia-y-competencia-en-las-transacciones-que-realiza-el-estado/)).
+Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in [Peru](https://www.gob.pe/institucion/mef/normas-legales/226844-1362), and has been proposed in [Chile](https://www.chilecompra.cl/2021/03/hacienda-envia-proyecto-de-ley-de-compras-publicas-para-generar-mas-transparencia-y-competencia-en-las-transacciones-que-realiza-el-estado/)).
 
 ## **How do they relate to SPP?**
 

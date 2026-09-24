@@ -90,12 +90,12 @@ Data about all aspects of the project will have to be openly shared with all sta
 **Guidance on using two-stage procurement processes in construction projects:** 
 
 - [User Guide for Procurement of Plant Design, Supply, and Installation. 2021. Asian Development Bank (ADB)](https://www.adb.org/documents/procurement-plant-guide)
-- [Procurement of Works: Two-Stage Open Tendering Procedure. 2019. European Bank for Reconstruction and Development (EBRD)](https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true)
+- [Procurement of Works: Two-Stage Open Tendering Procedure. 2019. European Bank for Reconstruction and Development (EBRD)](https://web.archive.org/web/20220621190204/https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true)
 - [User’s Guide for the SBD for Procurement of Plant Design, Supply, and Installation. 2018. African Development Bank (AfDB)](https://www.afdb.org/fileadmin/uploads/afdb/Documents/Procurement/Project-related-Procurement/User_s_Guide_for_the_SBD_for_Procurement_of_Plant_Design_Supply_and_Installation_-February_2018.doc)
 
 **Guidance on including early supply integration in construction projects at the design stage:**
 
-- [Integrative Design Process. U.S. General Services Administration ](https://sftool.gov/plan/261/integrative-design-process)
+- [Integrative Design Process. U.S. General Services Administration ](https://www.gsa.gov/governmentwide-initiatives/federal-highperformance-buildings/highperformance-building-clearinghouse/integrative-design-strategies)
 
   Step-by-step guidance on how to carry out an Integrative Design Process (IDP), with links to relevant guidance and tools at each step. 
 {% endcallout %}

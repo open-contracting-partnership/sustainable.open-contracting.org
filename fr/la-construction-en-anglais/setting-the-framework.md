@@ -27,7 +27,7 @@ For example, certain areas might be especially concerned with pollution levels, 
 Many countries have specific design codes for infrastructure projects, some have started to introduce specific “green” standards. Identifying these standards will help guide tender specifications regarding aspects such as energy efficiency. 
 
 {% callout gray /assets/images/Icons_Grey9.png %}
-In 2019, **Rwanda created a [minimum compliance system](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf) for the construction of new buildings to promote energy and water efficiency, environmental protection, better Indoor Environmental Quality and green innovation.** These type of systems can help to guide decisions on what criteria should be introduced in construction projects. 
+In 2019, **Rwanda created a [minimum compliance system](https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf) for the construction of new buildings to promote energy and water efficiency, environmental protection, better Indoor Environmental Quality and green innovation.** These type of systems can help to guide decisions on what criteria should be introduced in construction projects. 
 {% endcallout %}
 
 {% endtoggle %}
@@ -56,7 +56,7 @@ These accreditations can help you identify environmentally preferable suppliers.
 
 {% toggle **Product accreditations** %}
 
-Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products_list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory.](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) 
+Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products-list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory.](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) 
 
 {% endtoggle %}
 
@@ -65,7 +65,7 @@ Identifying sustainability accreditations for construction products can help gui
 The following accreditations are given to a construction project once it has been completed. However, the sustainability assessment methods they apply are often publicly accessible, and can be used to guide specifications for sustainable construction projects. 
 
 - **[BREEAM](https://www.breeam.com/)** 
-- **[LEED](https://www.usgbc.org/help/what-leed)** 
+- **[LEED](https://www.usgbc.org/leed)** 
 - **[EDGE](https://www.edgebuildings.com/)** 
 - **[HQE](https://www.behqe.com/)** 
 - [**Casa Colombia**](https://www.cccs.org.co/wp/casa-colombia/)
@@ -80,13 +80,13 @@ Green construction accreditations cover many aspects of construction projects, *
 **Resources**
 <br>**Master planning guidance:**
 
-- [Master Planning. 2015. The World Bank](https://urban-regeneration.worldbank.org/node/51#:~:text=Master%20planning%20is%20about%20making,community%20facilities%2C%20and%20land%20use). 
+- [Master Planning. 2015. The World Bank](https://web.archive.org/web/20230127212452/https://urban-regeneration.worldbank.org/node/51). 
 - [Master Planning and statutory planning process table (Community Gardens). GOV.UK](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)
 
 **Sustainable building construction in Africa:**
 
 - [Sustainable Buildings and Construction in Africa. Federal Ministry of the Environment, Nature Conservation and Nuclear Safety](https://www.cscp.org/wp-content/uploads/2016/05/28_Tessema_Taipale_Bethge__2009__Sustainable_Building_and_Construction_in_Africa_en.pdf)
-- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System. ](https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)
+- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System. ](https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)
 
 **Finding relevant ecolabels in the construction sector:**
 

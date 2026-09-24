@@ -8,7 +8,7 @@ properties:
   Includes social criteria:
     "No": brown
   Link to criteria:
-    - Products list: "https://www.energystar.gov/products/products_list"
+    - Products list: "https://www.energystar.gov/products/products-list"
   Sectors:
     Appliances: brown
     Heating and cooling: pink

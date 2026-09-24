@@ -4,7 +4,7 @@ title: Best Practice Report - Market Engagement
 notion_id: "95cca459756949c8bdb0cea421e2c4fd"
 properties:
   Attachment:
-    - "https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf": "https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf"
+    - "https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf": "https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf"
   Geographic area:
     Europe: yellow
   Language:

@@ -75,5 +75,5 @@ L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [EcoVadis et Affectio Mutandi, ](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[*Le contrat et les clauses RSE, leviers incontournables de vigilance*](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)[, 2018.](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf)
+- [EcoVadis et Affectio Mutandi, ](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)[*Le contrat et les clauses RSE, leviers incontournables de vigilance*](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)[, 2018.](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)
 {% endcallout %}

@@ -4,7 +4,7 @@ title: "The Procura + Manual: A Guide to Implementing Sustainable Procurement"
 notion_id: "7f9a58c9f66b4eeba6fee17563ce9734"
 properties:
   Attachment:
-    - "https://procuraplus.org/manual/": "https://procuraplus.org/manual/"
+    - "https://procuraplus.org/fileadmin/user_upload/ManualProcura_online_version_new_logo.pdf": "https://procuraplus.org/fileadmin/user_upload/ManualProcura_online_version_new_logo.pdf"
   Type of guidance:
     Overall Implementation: green
   Geographic area:

@@ -4,7 +4,7 @@ title: Bill of Quantities (BOQ) Template - European Bank for Reconstruction and 
 notion_id: e7524aacfe0d49a2bfaecd4ebcb77aed
 properties:
   Attachment:
-    - "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls": "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls"
+    - "https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls": "https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls"
   Geographic area:
     Europe: yellow
     Asia: pink

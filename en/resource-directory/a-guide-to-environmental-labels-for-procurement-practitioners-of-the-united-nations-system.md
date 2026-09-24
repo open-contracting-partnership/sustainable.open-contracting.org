@@ -4,7 +4,7 @@ title: A guide to environmental labels - for procurement practitioners of the Un
 notion_id: a20bd4e43ec54f7ebf667bbc8b9da13a
 properties:
   Attachment:
-    - "https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf": "https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf"
+    - "https://web.archive.org/web/20230309065958/https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf": "https://web.archive.org/web/20230309065958/https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf"
   Geographic area:
     Europe: yellow
     Latin America and the Caribbean: default

@@ -4,7 +4,7 @@ title: Rwanda Green Building Minimum Compliance System
 notion_id: "7bca439dc06343a49a85d89dd0deb331"
 properties:
   Attachment:
-    - "https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf": "https://gggi.org/site/assets/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf"
+    - "https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf": "https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf"
   Geographic area:
     Rwanda: blue
     Africa: orange

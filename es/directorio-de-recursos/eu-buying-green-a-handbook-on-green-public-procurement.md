@@ -4,7 +4,7 @@ title: "EU Buying Green! - A Handbook on Green Public Procurement"
 notion_id: "1f8b9e12eafb46e596a2319b3ae5fdc4"
 properties:
   Attachment:
-    - "https://ec.europa.eu/environment/gpp/pdf/Buying-Green-Handbook-3rd-Edition.pdf": "https://ec.europa.eu/environment/gpp/pdf/Buying-Green-Handbook-3rd-Edition.pdf"
+    - "https://op.europa.eu/es/publication-detail/-/publication/8c2da441-f63c-11e5-8529-01aa75ed71a1/language-es": "https://op.europa.eu/es/publication-detail/-/publication/8c2da441-f63c-11e5-8529-01aa75ed71a1/language-es"
   Type of guidance:
     Overall Implementation: green
   Geographic area:

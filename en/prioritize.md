@@ -31,7 +31,7 @@ Although there are many ways to prioritize, is it really important both to engag
 The first step to carry out a prioritization exercise is to work with stakeholders to establish the list of categories that are going to be analyzed. These categories should be taken from the official standardized vocabulary that procurement practitioners use in the country to consistently classify contracts. When implementing Open SPP, using a standardized way to classify procurement categories is not only important to find and analyze procurement notices for suppliers and contracting authorities, it is also essential to ensure that the implementation of sustainability policies and practices, as well as the gathering of data for monitoring purposes, is consistent.
 
 {% callout green /assets/images/Globe_green.png %}
-There is no globally adopted system to classify procurement categories, different systems are used around the world. For example, in Europe[ CPV](https://simap.ted.europa.eu/cpv) codes are used, whereas some countries use the United Nations Standard Products and Services Code ([UNSPSC](https://www.unspsc.org/)). Identifying the classification system in place, and ensuring that Open SPP practices align with existing categories is essential.
+There is no globally adopted system to classify procurement categories, different systems are used around the world. For example, in Europe[ CPV](https://ted.europa.eu/en/simap/cpv) codes are used, whereas some countries use the United Nations Standard Products and Services Code ([UNSPSC](https://www.unspsc.org/)). Identifying the classification system in place, and ensuring that Open SPP practices align with existing categories is essential.
 {% endcallout %}
 
 ## Identifying high-impact categories 

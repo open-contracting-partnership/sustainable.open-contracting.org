@@ -4,7 +4,7 @@ title: "Procurement of Works: Two-Stage Open Tendering Procedure"
 notion_id: b9c4138bb7894f0492e14d9a74395f2a
 properties:
   Attachment:
-    - "https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true": "https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true"
+    - "https://web.archive.org/web/20220621190204/https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true": "https://web.archive.org/web/20220621190204/https://www.ebrd.com/documents/procurement/dpdf-std-two-stage-works-2019.pdf?blobnocache=true"
   Geographic area:
     Europe: yellow
     Asia: pink

@@ -80,7 +80,7 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 **Resources**
 <br>**Templates for BOQs and SWMPs:**
 
-- [BOQ Template - European Bank for Reconstruction and Development (EBRD)](https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls)
+- [BOQ Template - European Bank for Reconstruction and Development (EBRD)](https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls)
 
   The EBRD has developed a BOQ template for “fit-out” project, which is a construction stage where a built space is prepared for occupation. This template can help as guidance to understand what type of data is gathered in BOQs in construction projects. 
 - [Site Waste Management Plan Data Form. Netregs](https://www.netregs.org.uk/media/1128/swmp_waste_data_form.pdf).
@@ -88,7 +88,7 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case study
-<br></strong>[Copenhagen has established a task force](https://ec.europa.eu/docsroom/documents/45767) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
+<br></strong>[Copenhagen has established a task force](https://op.europa.eu/fr/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-fr) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
 <br>The task force consists of nine people, and is entitled to visit all types of workplaces in Denmark at all times, monitoring pay and working conditions. They combine on-the-spot inspection with investigations into the conditions of specific employees based on documentation of pay, working hours, tax, etc.
 {% endcallout %}
 

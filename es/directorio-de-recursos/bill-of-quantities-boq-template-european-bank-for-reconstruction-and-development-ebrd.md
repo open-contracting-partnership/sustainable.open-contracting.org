@@ -4,7 +4,7 @@ title: Bill of Quantities (BOQ) Template - European Bank for Reconstruction and 
 notion_id: c9c008f369bb4c34bd4b0cb1c0b0cbfc
 properties:
   Attachment:
-    - "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls": "https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls"
+    - "https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls": "https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls"
   Type of guidance:
     Implementing SPP in Specific Sectors: blue
   Geographic area:

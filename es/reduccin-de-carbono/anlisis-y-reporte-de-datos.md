@@ -37,7 +37,7 @@ For governments too, there are benefits. Publishing the data openly allows gover
 
 {% image /assets/images/Screenshot_2022-06-24_at_11.52.38.png 2554 1220 %}
 
-Source: [https://vpt.lrv.lt/lt/svieslente](https://vpt.lrv.lt/lt/svieslente)
+Source: [https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)
 
 {% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png 1942 1448 %}
 

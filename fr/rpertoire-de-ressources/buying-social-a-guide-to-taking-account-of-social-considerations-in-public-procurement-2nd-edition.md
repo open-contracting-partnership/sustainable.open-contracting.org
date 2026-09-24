@@ -4,7 +4,7 @@ title: Buying Social - a guide to taking account of social considerations in pub
 notion_id: "1673f00a3e7e40c79041824eaccaf1bb"
 properties:
   Attachment:
-    - "https://ec.europa.eu/docsroom/documents/45767": "https://ec.europa.eu/docsroom/documents/45767"
+    - "https://op.europa.eu/fr/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-fr": "https://op.europa.eu/fr/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-fr"
   Type of guidance:
     Overall Implementation: green
   Geographic area:
