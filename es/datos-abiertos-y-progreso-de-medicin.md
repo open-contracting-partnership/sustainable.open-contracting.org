@@ -29,13 +29,13 @@ Agreeing how the many different stakeholders involved in public procurement will
 
 {% toggle **Paso 2**: Evalúe sus plataformas de adquisición %}
 
-In many countries, different platforms are used to carry out public procurement activities. To ensure that all relevant data is collected, a system should be established to gather data from the different platforms and channels. For example, Korea gathers data from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform” (GPIP), created for procurement authorities to upload required data from de-centralized procurement processes (for more information on this see pages 60 to 63 of[ this UNEP report](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Understanding where your data is collected is critical to developing a system to publish information publicly.
+In many countries, different platforms are used to carry out public procurement activities. To ensure that all relevant data is collected, a system should be established to gather data from the different platforms and channels. For example, Korea gathers data from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform” (GPIP), created for procurement authorities to upload required data from de-centralized procurement processes (for more information on this see pages 60 to 63 of [this UNEP report](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Understanding where your data is collected is critical to developing a system to publish information publicly.
 
 {% endtoggle %}
 
 {% toggle **Paso 3**: Establecer un año de referencia y una frecuencia de informes públicos %}
 
-The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the[ Action Plan](/cree-un-plan-de-accin), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
+The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the [Action Plan](/cree-un-plan-de-accin), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
 
 {% endtoggle %}
 

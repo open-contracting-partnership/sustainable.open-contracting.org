@@ -78,15 +78,15 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 - [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 - [Government of Ireland. 2021. Green Tenders: Action Plan on Green Public Procurement](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).
-- [European Commission. 2022. EU GPP Criteria. ](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
+- [European Commission. 2022. EU GPP Criteria.](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Case Study** 
 
-**In 2005, the Ministry of Environment in the[ Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.” 
+**In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.” 
 
-**Two key indicators are monitored: the number of public organizations that submit a GPP plan and performance report, and the purchase of green products (specifically the units and expenditure on ecolabelled products purchased and the proportion of that to total expenditure).** The purchase of green products is linked to the products certified by the[ Korean ecolabel](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp), and it is measured to monitor progress against the plan’s objective of minimizing CO2 emissions.
+**Two key indicators are monitored: the number of public organizations that submit a GPP plan and performance report, and the purchase of green products (specifically the units and expenditure on ecolabelled products purchased and the proportion of that to total expenditure).** The purchase of green products is linked to the products certified by the [Korean ecolabel](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp), and it is measured to monitor progress against the plan’s objective of minimizing CO2 emissions.
 
 The Korea Environmental Industry and Technology Institute (KEITI) has been appointed the responsible authority for managing the reporting and monitoring system. In order to do this, **data is gathered from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform'' (GPIP), created for procurement authorities to upload required data from de-centralised procurement processes.** To incentivize performance, Korea provides an annual performance bonus to local governments, public organizations and local public organizations based on their GPP ratio to local spending, and GPP growth rate.
 {% endcallout %}

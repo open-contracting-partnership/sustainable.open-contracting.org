@@ -73,7 +73,7 @@ Para obtener más ejemplos de cómo monitorear la implementación en contratos d
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
 - [OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/)
-- [Integrity Action. 2022. Development check. ](https://integrityaction.org/devcheck/)
+- [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

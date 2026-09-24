@@ -30,13 +30,13 @@ This will be a huge shift in the traditional box ticking, compliance-based appro
 Engagement is not a one-off, you should plan the appropriate and best moments to engage civic and business actors across the entire cycle of planning, tendering, awarding and delivering public contracts. **The golden rule: engage early, engage often. If you don’t design for inclusion and engagement right at the start, it won’t happen.**
 {% endcallout %}
 
-Below we include some of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system ](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city)renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
+Below we include some of the main ways that this can be done; the key is repeated and sustained engagement. A great example of this is our case study on [Mexico City’s Ecobici bike share system](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city) renewal process. It shows how by rethinking the process and relying on sustained engagement with vendors and communities, the city was able to extend its bike share scheme to poorer and more underserved parts of the city, resulting in radically better results than previous tenders.
 
 Beyond individual tenders, open and sustainable public procurement will need smart, data-driven policy changes. This will include sustained leadership and buy-in from the marketplace and communities, so again, engagement and feedback will be crucial to driving change and delivering results. There are some great examples of how civil society organizations are monitoring the outcomes of public procurement and tracking the results for citizens in [Ukraine,](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/) [Nigeria](https://medium.com/open-contracting-stories/open-it-to-fix-it-fb4e8fd616fc) and [India](https://www.open-contracting.org/2022/04/06/using-data-analysis-to-spot-gaps-in-access-to-maternal-and-child-health-services/).
 
 {% toggle **Capacity-building workshops with procurement practitioners** %}
 
-Organizing workshops with procurement professionals to inform, contribute to and celebrate share the final[ Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
+Organizing workshops with procurement professionals to inform, contribute to and celebrate share the final [Action Plan](/create-an-action-plan) will be essential to shape it and maximize its benefits and buy-in.
 
 Similarly, you should plan for sustained engagement with the vendor community to plan, and to explain how procurement practices in prioritized categories will change and to stimulate investments in the marketplace. It is essential to communicate the benefits of the plan and increase application confidence.
 
@@ -46,7 +46,7 @@ SPP training sessions can be organized throughout the year to build capabilities
 
 {% toggle **Sustainability workshops with suppliers** %}
 
-Public authorities should collaborate with suppliers and sector-specific organizations to determine[ what sustainability standards should be recommended for procurement processes.](/set-sustainability-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
+Public authorities should collaborate with suppliers and sector-specific organizations to determine [what sustainability standards should be recommended for procurement processes.](/set-sustainability-criteria) Workshops and events can be organized to assess market capability, and work with suppliers to create a roadmap for continuous improvement regarding sustainable practices. These events can help public authorities to work with local suppliers, especially SMEs, to ensure that they are not left out from the introduction of sustainability requirements in procurement processes.
 
 {% endtoggle %}
 
@@ -56,7 +56,7 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 
 - Depending on the area of focus, these organizations can provide guidance regarding the best targets to pursue or how to best design the procurement process to, for example, buy green, promote SMEs, or gender equality. In this way CSOs can help to design SPP policies, as well as to prepare and deliver capacity-building workshops with practitioners.
 - These organizations can also provide additional subject matter knowledge and analysis, linking different data across disciplines to provide new insights. In India, the research lab CivicDataLab built a data model combining three larger datasets to track the investments made on flood relief, response and preparedness and to assess the extent to which this builds climate resilience or meets the most urgent humanitarian needs. The data they looked at included satellite and meteorological data to assess the exposure to floods in a particular area, socio-economic data to understand the degree of vulnerability for the population residing in flood risk areas and fiscal data such as past contracts to see how the government has been responding to floods historically and where urgent interventions are needed in time to come.
-- Importantly, as well as action planning, CSOs can assist with[ monitoring the outcomes of policies or specific procurement processes activities](/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
+- Importantly, as well as action planning, CSOs can assist with [monitoring the outcomes of policies or specific procurement processes activities](/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
 
 {% callout green /assets/images/icons_D_Green6.png %}
 More examples and resources for stakeholder engagement can be found on [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage).
@@ -66,10 +66,10 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 ## **Standardize sustainability criteria**
 
-Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the[ prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be[ included in procurement processes](/set-sustainability-criteria).
+Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the [prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be [included in procurement processes](/set-sustainability-criteria).
 
 {% callout green /assets/images/icons_D_Green6.png %}
-A good example of this guidance is the U.S. General Service Administration’s[ Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
+A good example of this guidance is the U.S. General Service Administration’s [Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
 {% endcallout %}
 
 ## **Create and share sustainability registries and catalogs**
@@ -81,7 +81,7 @@ The suppliers included in these can be chosen according to the certain sustainab
 For more guidance on how to use procurement data to create SPP supplier registries see Option 9 in section three.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-An example of a catalog for environmental purchases is Thailand’s[ Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the[ National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way[ to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
+An example of a catalog for environmental purchases is Thailand’s [Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the [National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way [to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
 {% endcallout %}
 
 ## **Set up a Help Desk and central information point**
@@ -89,7 +89,7 @@ An example of a catalog for environmental purchases is Thailand’s[ Green Cart]
 Changing public procurement processes to allow for the introduction of sustainability considerations can be challenging for procurement practitioners. As well as trying to facilitate the process by standardizing sustainability criteria, or creating registries and catalogs, a Help Desk should be set up to provide practical hands-on support or advice to practitioners. For example, providing a service to look over SPP tender documents can help to tackle procurement practitioner’s concerns that they are framing the award criteria correctly.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German[ Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html), which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.
+The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German [Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html), which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}

@@ -31,4 +31,4 @@ A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herr
 
 **Para cuando esté considerando sus opciones para el seguimiento de la sostenibilidad en su contratación:**
 
-- [Table of options for data use ](/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos)
+- [Table of options for data use](/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos)

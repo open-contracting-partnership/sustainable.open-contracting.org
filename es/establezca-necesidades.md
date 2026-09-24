@@ -121,8 +121,8 @@ La declaración de necesidades debe compartirse abiertamente con las partes inte
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**
 
-- [European Commission. 2019. GPP Training Toolkit. ](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [European Commission. 2019. GPP Training Toolkit.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

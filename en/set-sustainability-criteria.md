@@ -14,7 +14,7 @@ sidebar: true
 In this section, we provide guidance on different options for introducing sustainability criteria in a procurement process, and what they each mean for suppliers.
 {% endcallout %}
 
-Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real[ needs](/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
+Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real [needs](/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
 
 {% callout default /assets/images/7_areas_open_SPP3.png %}
 <strong>Clear use and justification of sustainability criteria.
@@ -33,16 +33,16 @@ Before deciding what sustainability criteria will be introduced in the procureme
 
 The subject matter of the contract refers to the product, service or work that you want to procure. When defining your subject matter, you should ensure that it aligns with:
 
-- The[ needs](/assess-needs) that have been identified.
+- The [needs](/assess-needs) that have been identified.
 - Fairness and non-discrimination in procurement. Remember that some of the common key principles of procurement regulation are related to fairness and non-discrimination. This is something that should be embedded into your procurement, and will inform the different steps you take, including defining your subject matter.
 
 {% callout red /assets/images/Icons_Red8.png %}
 Defining a fair and non-discriminatory subject matter means ensuring that no reference is made, for example, to products with specific certifications, or specific types of suppliers. **An example of a discriminatory subject matter would be: “Tender for Energy Star certified laptops”, as it restricts participation by requiring compliance with a specific ecolabel. To ensure equal treatment, the subject matter should instead be: “Tender for energy efficient laptops”.**
 {% endcallout %}
 
-The definition of your subject matter is an essential step when implementing SPP. As we introduced in[ this section](/establish-an-enabling-environment), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned. This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
+The definition of your subject matter is an essential step when implementing SPP. As we introduced in [this section](/establish-an-enabling-environment), the policy and regulatory frameworks in most countries allow the consideration of sustainability criteria as long as they are relevant to the subject matter of the contract concerned. This means that the criteria must relate to the works, goods or services to be provided, and not on the characteristics of the individual suppliers. For example, if you are procuring a laptop, you can’t include within the specifications that the supplier must be a local company, as this does not relate to the goods that you are procuring.
 
-As we explain in the [previous section](/engage-with-the-market), the best way to promote local suppliers is by engaging with the market during the planning stage of your procurement and designing your specifications based on local market capability. There might also be some cases where[ a target related to local suppliers has been set, or certain contracts have been reserved ](/establish-an-enabling-environment/targets-and-reserved-contracts)for local suppliers or smaller businesses. In this case, the supplier’s location would be included as part of the criteria. However, this does not apply to most procurements, so you should always ensure that the sustainability criteria included is relevant to the subject matter (or specific pre-agreed policies like good tax conduct or past performance) to avoid unfair competition.
+As we explain in the [previous section](/engage-with-the-market), the best way to promote local suppliers is by engaging with the market during the planning stage of your procurement and designing your specifications based on local market capability. There might also be some cases where [a target related to local suppliers has been set, or certain contracts have been reserved](/establish-an-enabling-environment/targets-and-reserved-contracts) for local suppliers or smaller businesses. In this case, the supplier’s location would be included as part of the criteria. However, this does not apply to most procurements, so you should always ensure that the sustainability criteria included is relevant to the subject matter (or specific pre-agreed policies like good tax conduct or past performance) to avoid unfair competition.
 
 To this effect, some public authorities decide to explicitly include reference to sustainability in the subject matter. This would be the case in the example of “Tender for energy efficient laptops”, or in this [tender](https://ec.europa.eu/environment/gpp/pdf/news_alert/Issue32_Case_Study68_Malta_Green_finishings.pdf) from the University of Malta for which the subject matter was “*Internal finishing works, using environmentally friendly construction materials and products”.*
 
@@ -50,13 +50,13 @@ To this effect, some public authorities decide to explicitly include reference t
 
 {% toggle **Step 2:** What does my enabling environment allow me to do? %}
 
-When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in[ this section. ](/establish-an-enabling-environment)
+When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in [this section.](/establish-an-enabling-environment)
 
 {% endtoggle %}
 
 {% toggle **Step 3:** Have any standardized sustainability criteria been created? %}
 
-As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations ](/build-support-and-capabilities)as to what criteria should be included when purchasing specific procurement categories. 
+As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations](/build-support-and-capabilities) as to what criteria should be included when purchasing specific procurement categories. 
 
 {% callout red /assets/images/Icons_Red8.png %}
 Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition. See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.
@@ -104,7 +104,7 @@ As previously introduced, some enabling frameworks will only allow you to consid
 
 {% endtoggle %}
 
-Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored,](/monitor-implementation) and clearly [translate sustainability requirements into contract obligations. ](/prepare-contract-obligations)
+Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored,](/monitor-implementation) and clearly [translate sustainability requirements into contract obligations.](/prepare-contract-obligations)
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Case study**  

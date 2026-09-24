@@ -6,7 +6,7 @@ icon: /assets/images/Tick_green_2.png
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
 ---
 {% callout green /assets/images/Pin_green.png %}
-The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment ](/establezca-un-entorno-habilitante)in the [Open SPP toolkit](/). 
+The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit](/). 
 {% endcallout %}
 
 ### Quick c**hecklist**

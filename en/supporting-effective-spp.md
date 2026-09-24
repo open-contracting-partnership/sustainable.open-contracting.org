@@ -47,7 +47,7 @@ Engaging with the market is essential to evaluate its capability to meet the sus
 
 Market engagement can help to define what current practices are regarding this area, for example, supply chain activities are currently being carried out by more than 50% of the potential suppliers, this can be set as a technical specification or award criteria. 
 
-However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See[ this section](/engage-with-the-market) for more information about different market engagement methods. 
+However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See [this section](/engage-with-the-market) for more information about different market engagement methods. 
 
 {% endtoggle %}
 

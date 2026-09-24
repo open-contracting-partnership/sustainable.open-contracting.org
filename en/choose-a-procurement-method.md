@@ -37,7 +37,7 @@ When you decide to use outcome-based procurement approaches, this can result in 
 
 To apply and outcome-based procurement approach, you need to:
 
-- Frame your **needs in terms of outcomes** (see [section on needs assessment ](/assess-needs)for more information on this). 
+- Frame your **needs in terms of outcomes** (see [section on needs assessment](/assess-needs) for more information on this). 
 - Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below). 
 - Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations)).
 
@@ -128,17 +128,17 @@ There are different benefits of using joint procurement when implementing Open S
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-Throughout this toolkit, we have provided guidance on the use of[ frameworks](/establish-an-enabling-environment/framework-agreements)[ catalogs](/build-support-and-capabilities), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
+Throughout this toolkit, we have provided guidance on the use of [frameworks](/establish-an-enabling-environment/framework-agreements) [catalogs](/build-support-and-capabilities), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction ](/construction-sector)and [ICT](/ict-sector). 
+For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector). 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
 
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

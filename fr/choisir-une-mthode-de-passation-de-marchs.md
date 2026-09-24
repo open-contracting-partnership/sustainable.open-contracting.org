@@ -124,17 +124,17 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-**Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements)[ catalogues](/des-mcanismes-dassistance) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
+**Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements) [catalogues](/des-mcanismes-dassistance) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
-*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur*[ *la construction*](/la-construction-en-anglais) *et les* [*technologies de l’information et des communications*](/le-secteur-tic-en-anglais)*.* 
+*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur* [*la construction*](/la-construction-en-anglais) *et les* [*technologies de l’information et des communications*](/le-secteur-tic-en-anglais)*.* 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

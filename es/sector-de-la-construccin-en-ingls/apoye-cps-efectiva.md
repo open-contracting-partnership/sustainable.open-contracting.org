@@ -42,7 +42,7 @@ The following procedures can constitute the characteristics of a single procurem
 
 {% toggle **Outcomes-based approaches** %}
 
-Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section ](/elija-un-mtodo-de-contratacin)for more information. 
+Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section](/elija-un-mtodo-de-contratacin) for more information. 
 
 {% endtoggle %}
 
@@ -95,7 +95,7 @@ Data about all aspects of the project will have to be openly shared with all sta
 
 **Guidance on including early supply integration in construction projects at the design stage:**
 
-- [Integrative Design Process. U.S. General Services Administration ](https://www.gsa.gov/governmentwide-initiatives/federal-highperformance-buildings/highperformance-building-clearinghouse/integrative-design-strategies)
+- [Integrative Design Process. U.S. General Services Administration](https://www.gsa.gov/governmentwide-initiatives/federal-highperformance-buildings/highperformance-building-clearinghouse/integrative-design-strategies)
 
   Step-by-step guidance on how to carry out an Integrative Design Process (IDP), with links to relevant guidance and tools at each step. 
 {% endcallout %}

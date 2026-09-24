@@ -84,7 +84,7 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report. ](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
+- [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 

@@ -22,7 +22,7 @@ The International Standards Organization (ISO) currently classifies labels into 
 
 {% toggle **Type I (ISO 14024)** %}
 
-These labels are voluntary, multiple-criteria based, third-party awarded, and they indicate the environmental preferability of a product based on life cycle considerations. These include labels such as the [Nordic Swan](https://www.nordic-swan-ecolabel.org/), or the [German Blue Angel. It is worth noting that these ](https://www.blauer-engel.de/en)types of ecolabels usually include different application and license fees for MSMEs. Examples of this are the [Nordic Ecolabel](https://www.nordic-swan-ecolabel.org/how-to-apply/costs/), which provides a reduction of 50% for micro enterprises and bases license fees on turnover; and the [EU-Ecolabel cost structure.](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel)
+These labels are voluntary, multiple-criteria based, third-party awarded, and they indicate the environmental preferability of a product based on life cycle considerations. These include labels such as the [Nordic Swan](https://www.nordic-swan-ecolabel.org/), or the [German Blue Angel. It is worth noting that these](https://www.blauer-engel.de/en) types of ecolabels usually include different application and license fees for MSMEs. Examples of this are the [Nordic Ecolabel](https://www.nordic-swan-ecolabel.org/how-to-apply/costs/), which provides a reduction of 50% for micro enterprises and bases license fees on turnover; and the [EU-Ecolabel cost structure.](https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel)
 
 {% endtoggle %}
 
@@ -70,7 +70,7 @@ Finally, Type III EPDs can be very useful to compare amongst different products,
 
 ## **How can you find relevant ecolabels?**
 
-As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction. ](/construction-sector)
+As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction.](/construction-sector)
 
 {% database Ecolabels  %}
 {% database_table %}

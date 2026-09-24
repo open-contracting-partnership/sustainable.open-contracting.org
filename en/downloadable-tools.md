@@ -31,7 +31,7 @@ Throughout the toolkit, we have referenced different practical tools that you ca
 
 **For when you are considering your options for tracking sustainability in your procurement:**
 
-- [Table of options for data use ](/options-for-data-use/table-of-options-for-data-use)
+- [Table of options for data use](/options-for-data-use/table-of-options-for-data-use)
 
 **For when you need a quick summary**
 

@@ -34,7 +34,7 @@ TCO is an international Type I ecolabel that provides standards for sustainable 
 
 {% endtoggle %}
 
-{% toggle **[Energy Star ](https://www.energystar.gov/products/computers#bg)** %}
+{% toggle **[Energy Star](https://www.energystar.gov/products/computers#bg)** %}
 
 Energy Star is a Type I-like ecolabel which sets a maximum level of energy consumption for electric appliances. The Energy Star rating or certification can help you identify products which are held to a higher energy use and emissions standard.
 

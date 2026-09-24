@@ -45,7 +45,7 @@ There are certain environmental regulations which can serve to underpin the intr
 
 ## Look for existing sustainability standards
 
-When considering the implementation of SPP for procuring a construction project, it can be helpful to identify current sustainability standards. These will inform [what requirements you set for selecting suppliers. ](/set-sustainability-criteria)For the construction sector, we have identified three key types of standards and accreditations:
+When considering the implementation of SPP for procuring a construction project, it can be helpful to identify current sustainability standards. These will inform [what requirements you set for selecting suppliers.](/set-sustainability-criteria) For the construction sector, we have identified three key types of standards and accreditations:
 
 {% toggle **Company accreditations**  %}
 
@@ -88,11 +88,11 @@ Green construction accreditations cover many aspects of construction projects, *
 **Sustainable building construction in Africa:**
 
 - [Sustainable Buildings and Construction in Africa. Federal Ministry of the Environment, Nature Conservation and Nuclear Safety](https://www.cscp.org/wp-content/uploads/2016/05/28_Tessema_Taipale_Bethge__2009__Sustainable_Building_and_Construction_in_Africa_en.pdf)
-- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System. ](https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)
+- [Republic of Rwanda. 2019. Rwanda Green Building Minimum Compliance System.](https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf)
 
 **Finding relevant ecolabels in the construction sector:**
 
-- [Construction Materials. SF Tool ](https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
+- [Construction Materials. SF Tool](https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
 
   S.F. Tool is a tool for procurers provided by the U.S. General Service Administration (GSA) that includes information on product sustainability specifications, and relevant certifications, in the construction sector.
 - [Ecolabelling Standards by Product Category. Global Ecolabelling Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/)
@@ -102,6 +102,6 @@ Green construction accreditations cover many aspects of construction projects, *
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
-<br>Completed in 2017, the </strong>[**design of the Ghana Ridge Hospital** ](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/)<strong>was the first project in Africa to receive LEED accreditation.
+<br>Completed in 2017, the </strong>[**design of the Ghana Ridge Hospital**](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) <strong>was the first project in Africa to receive LEED accreditation.
 <br></strong>The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.** The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. It is the first project in Africa to receive LEED accreditation. 
 {% endcallout %}

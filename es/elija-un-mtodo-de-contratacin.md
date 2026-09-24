@@ -141,7 +141,7 @@ Para obtener más orientación sobre los enfoques de contratación que pueden se
 {% callout gray /assets/images/Notion-others.png %}
 **Recursos**
 
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

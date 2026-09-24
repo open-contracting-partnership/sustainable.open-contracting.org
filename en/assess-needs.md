@@ -89,13 +89,13 @@ Instead of purchasing new goods, sometimes leasing can be a good alternative. Le
 
 {% toggle **Joint procurement**  %}
 
-Joint procurement can help to create stronger demand for green products and services, which can consequently encourage the supplier market to invest in sustainable alternatives. By aggregating their needs through joint procurement, public authorities essentially offer suppliers the opportunity to win more than one contract through one single tender submission. Minimizing the resources needed to access this revenue can encourage more suppliers to invest in sustainable alternatives. For more information on joint procurement see[ this section.](/choose-a-procurement-method)
+Joint procurement can help to create stronger demand for green products and services, which can consequently encourage the supplier market to invest in sustainable alternatives. By aggregating their needs through joint procurement, public authorities essentially offer suppliers the opportunity to win more than one contract through one single tender submission. Minimizing the resources needed to access this revenue can encourage more suppliers to invest in sustainable alternatives. For more information on joint procurement see [this section.](/choose-a-procurement-method)
 
 {% endtoggle %}
 
 {% toggle **Outcomes-based procurement** %}
 
-Framing user needs in terms of outcomes can help to encourage innovative sustainable suggestions from suppliers (i.e. asking for an office to be heated to 20-22 degrees vs asking for a 300W radiator.). For more information on outcomes-based procurement see the [Harvard Kennedy School’s Government Performance Lab](https://govlab.hks.harvard.edu/results-driven-contracting) and[ this section.](/choose-a-procurement-method)
+Framing user needs in terms of outcomes can help to encourage innovative sustainable suggestions from suppliers (i.e. asking for an office to be heated to 20-22 degrees vs asking for a 300W radiator.). For more information on outcomes-based procurement see the [Harvard Kennedy School’s Government Performance Lab](https://govlab.hks.harvard.edu/results-driven-contracting) and [this section.](/choose-a-procurement-method)
 
 {% endtoggle %}
 
@@ -119,8 +119,8 @@ The needs statement should be openly shared with the relevant stakeholders, and 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
 
-- [European Commission. 2019. GPP Training Toolkit. ](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [European Commission. 2019. GPP Training Toolkit.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

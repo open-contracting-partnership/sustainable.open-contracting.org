@@ -12,7 +12,7 @@ sidebar: true
 
 There are many ways to prioritize how to start implementing Open SPP. This may include responding to high-profile environmental issues, market sectors or product groups where green goods and services are readily available, public sector programs where procurers and citizens can see a rationale for the use of green products, or high-profile projects or events where SPP can be piloted to raise awareness and interest, such as sporting events, conferences, and retrofits of prominent government buildings.
 
-Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) provide a good overview of different approaches to prioritizing product categories. The [prioritization tool ](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)developed by the United Nations Environmental Programme (UNEP) is a useful resource to carry out this exercise. 
+Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) provide a good overview of different approaches to prioritizing product categories. The [prioritization tool](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) developed by the United Nations Environmental Programme (UNEP) is a useful resource to carry out this exercise. 
 
 {% callout green /assets/images/Pin_green.png %}
 In this section we **present the different factors that can be considered when prioritizing procurement categories** when implementing SPP.
@@ -31,7 +31,7 @@ Although there are many ways to prioritize, is it really important both to engag
 The first step to carry out a prioritization exercise is to work with stakeholders to establish the list of categories that are going to be analyzed. These categories should be taken from the official standardized vocabulary that procurement practitioners use in the country to consistently classify contracts. When implementing Open SPP, using a standardized way to classify procurement categories is not only important to find and analyze procurement notices for suppliers and contracting authorities, it is also essential to ensure that the implementation of sustainability policies and practices, as well as the gathering of data for monitoring purposes, is consistent.
 
 {% callout green /assets/images/Globe_green.png %}
-There is no globally adopted system to classify procurement categories, different systems are used around the world. For example, in Europe[ CPV](https://ted.europa.eu/en/simap/cpv) codes are used, whereas some countries use the United Nations Standard Products and Services Code ([UNSPSC](https://www.unspsc.org/)). Identifying the classification system in place, and ensuring that Open SPP practices align with existing categories is essential.
+There is no globally adopted system to classify procurement categories, different systems are used around the world. For example, in Europe [CPV](https://ted.europa.eu/en/simap/cpv) codes are used, whereas some countries use the United Nations Standard Products and Services Code ([UNSPSC](https://www.unspsc.org/)). Identifying the classification system in place, and ensuring that Open SPP practices align with existing categories is essential.
 {% endcallout %}
 
 ## Identifying high-impact categories 
@@ -120,7 +120,7 @@ The existence of sustainability initiatives in the local market should also be c
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see[ this section.](/engage-with-the-market)
+**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section.](/engage-with-the-market)
 {% endcallout %}
 
 **Evaluate options to build on sustainability policy work to-date** 
@@ -145,9 +145,9 @@ As it has been explained at the start of this section, once it has been decided 
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Case study** 
 
-After the approval of its National Green Growth Strategy in 2012, **Vietnam[ applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.
+After the approval of its National Green Growth Strategy in 2012, **Vietnam [applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.
 
-As the first step of the prioritizing exercise, a list of preliminary procurement categories was created. This list included all the products for which the[ European Union’s (EU)](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm) has developed GPP criteria. **A series of factors were taken into account in order to prioritize procurement categories, including the availability of Vietnam’s own national ecolabel[ Green Label](https://www.env.go.jp/policy/hozen/green/kokusai_platform/2016symposium/03_Vietnam.pdf).** Then a scoring methodology was defined: products with no ecolabel were excluded; those which had a national ecolabel were scored with 2 points; and those with an equivalent international ecolabel 1 point.
+As the first step of the prioritizing exercise, a list of preliminary procurement categories was created. This list included all the products for which the [European Union’s (EU)](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm) has developed GPP criteria. **A series of factors were taken into account in order to prioritize procurement categories, including the availability of Vietnam’s own national ecolabel [Green Label](https://www.env.go.jp/policy/hozen/green/kokusai_platform/2016symposium/03_Vietnam.pdf).** Then a scoring methodology was defined: products with no ecolabel were excluded; those which had a national ecolabel were scored with 2 points; and those with an equivalent international ecolabel 1 point.
 
 **Using this scoring methodology, four products were selected as focus categories for SPP efforts: office paper, laptops, fluorescent lamps, and LEDs lights.**
 {% endcallout %}

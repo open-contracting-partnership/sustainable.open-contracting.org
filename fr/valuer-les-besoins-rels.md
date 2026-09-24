@@ -97,7 +97,7 @@ Les marchés groupés peuvent aider à gonfler la demande de produits et service
 
 {% toggle **Marchés axés sur les résultats** %}
 
-Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting)[ et ](/choisir-une-mthode-de-passation-de-marchs)[**cette section**](/choisir-une-mthode-de-passation-de-marchs).
+Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting) [et](/choisir-une-mthode-de-passation-de-marchs) [**cette section**](/choisir-une-mthode-de-passation-de-marchs).
 
 {% endtoggle %}
 
@@ -118,8 +118,8 @@ L’exposé des besoins doit être diffusé de façon ouverte avec les parties p
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [Commission européenne, ](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)[*GPP Training Toolkit*](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)[, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
-- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting. ](https://govlab.hks.harvard.edu/results-driven-contracting)
+- [Commission européenne,](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) [*GPP Training Toolkit*](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)[, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
+- [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

@@ -8,7 +8,7 @@ full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
 sidebar: true
 ---
-Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea [at the start of the toolkit](/what-is-open-spp), and develop it further in the following sections, particularly when introducing a sample [Measuring and evaluation (M&E) framework ](/monitoring-evaluation)in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
+Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea [at the start of the toolkit](/what-is-open-spp), and develop it further in the following sections, particularly when introducing a sample [Measuring and evaluation (M&E) framework](/monitoring-evaluation) in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
 {% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
 **In this section, we provide a deeper dive into the options available to collect the data you need to measure progress against your goals.** As you can see on the diagram below, first, we introduce a set of general data collection considerations and options on how to use data to measure progress across different goals. Then, we turn the five goals from the M&E framework into five worked examples of how to use open data to measure progress in: (1) SPP uptake, (2) carbon reduction, (3) gender inclusion, (4) economic development, and (5) promoting life cycle costing.
@@ -30,13 +30,13 @@ Agreeing how the many different stakeholders involved in public procurement will
 
 {% toggle **Step 2:** Assess your procurement platforms %}
 
-In many countries, different platforms are used to carry out public procurement activities. To ensure that all relevant data is collected, a system should be established to gather data from the different platforms and channels. For example, Korea gathers data from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform” (GPIP), created for procurement authorities to upload required data from de-centralized procurement processes (for more information on this see pages 60 to 63 of[ this UNEP report](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Understanding where your data is collected is critical to developing a system to publish information publicly.
+In many countries, different platforms are used to carry out public procurement activities. To ensure that all relevant data is collected, a system should be established to gather data from the different platforms and channels. For example, Korea gathers data from three different platforms: the centralized e-procurement platform KONEPS; the de-centralised online purchase platform Green Market; and the e-monitoring platform “Green Products Information Platform” (GPIP), created for procurement authorities to upload required data from de-centralized procurement processes (for more information on this see pages 60 to 63 of [this UNEP report](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y)). Understanding where your data is collected is critical to developing a system to publish information publicly.
 
 {% endtoggle %}
 
 {% toggle **Step 3:** Establish a baseline year and public reporting frequency %}
 
-The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the[ Action Plan](/create-an-action-plan), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
+The baseline year is the moment when the data will begin to be collected and key indicators reported publicly. This normally coincides with the publication of the [Action Plan](/create-an-action-plan), which should determine when data will start to be collected. From an operational level, it is also important to establish with public authorities the frequency for collecting and reporting data relating to their contracts, for example, whether this will be monthly, quarterly, or annually.
 
 {% endtoggle %}
 

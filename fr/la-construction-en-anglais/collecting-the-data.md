@@ -73,7 +73,7 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 **The methods that will be used during the project to collect the data should not only be contractually agreed between the main contractor and the procuring authority, but also between the contractor and its subcontractors and suppliers**.
-<br>All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance ](/obligations-contractuelles)should also be included. 
+<br>All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance](/obligations-contractuelles) should also be included. 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
