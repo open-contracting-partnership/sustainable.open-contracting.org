@@ -8,7 +8,7 @@
     {%- assign paths = paths | push: path -%}
   {%- endif -%}
 {%- endfor -%}
-<nav class="notion-navbar">
+<nav class="notion-navbar" data-pagefind-ignore="all">
   <div class="notion-navbar__content">
     <div class="notion-breadcrumb">
       {%- for path in paths -%}

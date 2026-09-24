@@ -17,6 +17,20 @@ bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.ym
 
 Each build writes to `_site/<lang>/`, which is the output directory for that site's Cloudflare Pages project. Google Analytics is included only when `JEKYLL_ENV=production`.
 
+The English and French sites have search (the `search` setting), whose index [Pagefind](https://pagefind.app) builds from a site's build. To build a site with its index, as its Cloudflare Pages project should:
+
+```bash
+JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config.en.yml && npx -y pagefind --site _site/en
+```
+
+To try search locally, build the index and serve `_site/<lang>/`, since `jekyll serve` rebuilds the site without it:
+
+```bash
+bundle exec jekyll build --config _config.yml,_config.en.yml && npx -y pagefind --site _site/en && python3 -m http.server -d _site/en
+```
+
+Pagefind indexes each page's `<main>`, except the navbar, sidebar, cover and icon, and skips pages without content or properties (placeholders for database items).
+
 ## Pages
 
 Each page is `<lang>/<path>.md`, with front matter:
@@ -153,4 +167,4 @@ uv run scripts/screenshots.py take after
 uv run scripts/screenshots.py compare before after
 ```
 
-The stylesheets in `assets/css/` (except `fonts.css`, `site.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles and code block copy buttons. `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
+The stylesheets in `assets/css/` (except `fonts.css`, `site.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.

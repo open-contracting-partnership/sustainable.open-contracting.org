@@ -1,7 +1,7 @@
 {%- comment -%} The sidebar and the page's content, in columns. site.sidebar_width is the sidebar's fraction of the width. {%- endcomment -%}
 {%- assign content_width = 1 | minus: site.sidebar_width -%}
 <div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ site.sidebar_width }})">{% include sidebar-{{ site.lang }}.html %}</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ site.sidebar_width }})" data-pagefind-ignore="all">{% include sidebar-{{ site.lang }}.html %}</div>
 <div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ content_width }});margin-inline-start:var(--column-spacing)">
 {{ include.content }}
 </div>

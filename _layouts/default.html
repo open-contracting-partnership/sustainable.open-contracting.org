@@ -49,13 +49,19 @@
 {%- endif %}
 </head>
 <body>
-<div class="super-root"><div class="super-content-wrapper"><main class="super-content">
+{%- comment -%} Pagefind indexes pages with content or properties, not placeholders' empty pages. {%- endcomment -%}
+{%- assign text = content | strip_html | strip -%}
+<div class="super-root"><div class="super-content-wrapper"><main class="super-content"{% if text != "" or page.properties %} data-pagefind-body{% endif %}>
+{%- if page.icon %}<span hidden data-pagefind-meta="icon[data-icon]" data-icon="{{ page.icon }}"></span>{% endif %}
 {% include navbar.html %}
 {% include header.html %}
 <article class="notion-root {% if page.full_width %}full-width{% else %}max-width{% endif %}{% if page.collection %} notion-collection notion-collection-page{% endif %}">
 {% properties %}{% if page.sidebar %}{% include with-sidebar.html content=content %}{% else %}{{ content }}{% endif %}
 </article>
 </main></div></div>
+{%- if site.search %}
+{% include search.html %}
+{%- endif %}
 <script src="/assets/js/site.js"></script>
 </body>
 </html>
