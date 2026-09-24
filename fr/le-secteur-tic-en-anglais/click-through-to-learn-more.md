@@ -6,6 +6,7 @@ collection: true
 notion_id: f1cf075948e442fea3f54af9195214de
 ---
 {% gallery medium %}
+
 - title: Setting the framework
   link: /le-secteur-tic-en-anglais/setting-the-framework
   icon: /assets/images/Icons_Grey6.png

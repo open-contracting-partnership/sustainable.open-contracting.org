@@ -6,6 +6,7 @@ collection: true
 notion_id: a01b1dbe4b2b4ee5b93d51e55eed3134
 ---
 {% gallery large %}
+
 - title: Cómo puede usar este conjunto de herramientas
   link: /cmo-usar-la-herramienta
   icon: /assets/images/Icons_Blue_Intro2.png

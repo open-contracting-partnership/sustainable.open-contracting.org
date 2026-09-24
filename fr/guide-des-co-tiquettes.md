@@ -75,6 +75,7 @@ Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type 
 {% database **Éco-étiquettes**  %}
 {% database_table no-click %}
 columns:
+
   - name: Norm
     type: title
     width: 278

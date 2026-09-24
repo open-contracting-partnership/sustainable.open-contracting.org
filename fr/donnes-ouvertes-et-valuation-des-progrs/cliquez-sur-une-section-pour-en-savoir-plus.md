@@ -6,6 +6,7 @@ collection: true
 notion_id: "1a144e82589b4729b2107b7d87bc276c"
 ---
 {% gallery medium %}
+
 - title: D’utilisation des données
   link: /possibilits-dutilisation-des-donnes
   icon: /assets/images/Icons_Light_Green2.png

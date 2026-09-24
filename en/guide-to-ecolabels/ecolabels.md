@@ -7,6 +7,7 @@ notion_id: a8a53644ce6e4394b52d81b610ae5801
 ---
 {% database_table %}
 columns:
+
   - name: Name
     type: title
     width: 278

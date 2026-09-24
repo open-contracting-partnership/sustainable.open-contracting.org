@@ -6,6 +6,7 @@ collection: true
 notion_id: "4cc790fb3b3942358a4c99b7e06e8bf7"
 ---
 {% gallery medium %}
+
 - title: Setting the framework
   link: /la-construction-en-anglais/setting-the-framework
   icon: /assets/images/Icons_Grey6.png

@@ -70,6 +70,7 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 
 {% database **Principaux mécanismes de promotion des marchés publics durables** %}
 {% gallery medium %}
+
 - title: Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution
   link: /mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution
   icon: /assets/images/icons_D_Green3.png

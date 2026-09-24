@@ -6,6 +6,7 @@ collection: true
 notion_id: "0309ad36f9024ebf9fce043815e223e9"
 ---
 {% gallery medium %}
+
 - title: How to record SPP in procurement
   link: /spp-uptake/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png

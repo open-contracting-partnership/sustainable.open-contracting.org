@@ -6,6 +6,7 @@ collection: true
 notion_id: "01d2a94f5d2f431faca4a486c1f88a57"
 ---
 {% gallery medium %}
+
 - title: Cómo valorar un ciclo de vida
   link: /costeo-del-ciclo-de-vida/cmo-valorar-un-ciclo-de-vida
   icon: /assets/images/Icons_Light_Green3.png

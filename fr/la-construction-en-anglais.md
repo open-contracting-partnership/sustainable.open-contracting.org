@@ -24,6 +24,7 @@ It is important to note that **within the construction sector, there are differe
 
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Setting the framework
   link: /la-construction-en-anglais/setting-the-framework
   icon: /assets/images/Icons_Grey6.png

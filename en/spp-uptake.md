@@ -48,6 +48,7 @@ Once this has been clearly established, you can measure and record uptake of SPP
 
 {% database Click through to the following sections to find out more about how to get started: %}
 {% gallery medium %}
+
 - title: How to record SPP in procurement
   link: /spp-uptake/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png

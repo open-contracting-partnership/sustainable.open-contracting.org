@@ -58,6 +58,7 @@ As we explain in the introduction to this toolkit, high-quality open data is cru
 
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Options for data use
   link: /options-for-data-use
   icon: /assets/images/Icons_Light_Green2.png

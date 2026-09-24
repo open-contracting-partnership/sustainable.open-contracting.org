@@ -6,6 +6,7 @@ collection: true
 notion_id: "754144edc7db4f8aa37d61c887387598"
 ---
 {% gallery medium %}
+
 - title: How to value a life cycle
   link: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
   icon: /assets/images/Icons_Light_Green3.png

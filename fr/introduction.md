@@ -34,6 +34,7 @@ Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'intr
 
 {% database Click through to learn more %}
 {% gallery large %}
+
 - title: Comment utiliser ce guide pratique?
   link: /comment-utiliser
   icon: /assets/images/Icons_Blue_Intro2.png

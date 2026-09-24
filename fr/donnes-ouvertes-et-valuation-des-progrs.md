@@ -55,6 +55,7 @@ Nous avons recensé trois types d’environnements :
 
 {% database **Cliquez sur une section pour en savoir plus.** %}
 {% gallery medium %}
+
 - title: D’utilisation des données
   link: /possibilits-dutilisation-des-donnes
   icon: /assets/images/Icons_Light_Green2.png

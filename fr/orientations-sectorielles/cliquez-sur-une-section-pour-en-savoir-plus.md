@@ -6,6 +6,7 @@ collection: true
 notion_id: "46e89ab961784061b5a205df42a87c66"
 ---
 {% gallery medium %}
+
 - title: La construction (en anglais)
   link: "/la-construction-en-anglais"
   icon: /assets/images/Icons_Grey5.png

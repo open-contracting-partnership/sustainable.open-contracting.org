@@ -6,6 +6,7 @@ collection: true
 notion_id: "8ffca3499a5048268ad8275f6562c40f"
 ---
 {% gallery medium %}
+
 - title: How to estimate carbon values?
   link: /carbon-reduction/how-to-estimate-carbon-values
   icon: /assets/images/Icons_Light_Green3.png

@@ -46,6 +46,7 @@ The immediate priorities for carbon reduction include carbon outputs and other g
 
 {% database Click through to the following sections to find out more about how to get started: %}
 {% gallery medium %}
+
 - title: How to estimate carbon values?
   link: /carbon-reduction/how-to-estimate-carbon-values
   icon: /assets/images/Icons_Light_Green3.png

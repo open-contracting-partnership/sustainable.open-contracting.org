@@ -16,6 +16,7 @@ sidebar: true
 
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Construction sector
   link: /construction-sector
   icon: /assets/images/Icons_Grey5.png

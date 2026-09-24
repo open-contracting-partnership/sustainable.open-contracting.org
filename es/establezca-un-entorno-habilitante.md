@@ -72,6 +72,7 @@ Dentro de su régimen de contratación Debe haber algunos vehículos de polític
 
 {% database **Habilitantes clave de CPS Abierta** %}
 {% gallery medium %}
+
 - title: Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación
   link: /establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin
   icon: /assets/images/icons_D_Green3.png

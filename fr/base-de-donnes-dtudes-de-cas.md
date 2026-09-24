@@ -61,6 +61,7 @@ sidebar: true
 
 {% database Amérique du Nord %}
 {% gallery large %}
+
 - title: Collecte des données de performance des fournisseurs à Wichita
   link: /base-de-donnes-dtudes-de-cas/collecte-des-donnes-de-performance-des-fournisseurs-wichita
   cover: /assets/images/NorthAmerica-Wichita.png

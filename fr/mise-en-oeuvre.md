@@ -16,6 +16,7 @@ sidebar: true
 
 {% database **Cliquez sur une section pour en savoir plus.** %}
 {% gallery medium %}
+
 - title: Évaluer les besoins réels
   link: /valuer-les-besoins-rels
   icon: /assets/images/Icons_Red2.png

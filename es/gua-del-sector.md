@@ -16,6 +16,7 @@ sidebar: true
 
 {% database Haga clíc para más información %}
 {% gallery medium %}
+
 - title: Sector de la construcción
   link: "/sector-de-la-construccin-en-ingls"
   icon: /assets/images/Icons_Grey5.png

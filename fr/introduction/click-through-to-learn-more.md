@@ -6,6 +6,7 @@ collection: true
 notion_id: "9aea3c2393744a4cb3094e897e675a58"
 ---
 {% gallery large %}
+
 - title: Comment utiliser ce guide pratique?
   link: /comment-utiliser
   icon: /assets/images/Icons_Blue_Intro2.png

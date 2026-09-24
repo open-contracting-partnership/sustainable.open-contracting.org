@@ -6,6 +6,7 @@ collection: true
 notion_id: fb8a5242429d4c17bdd1f6e07e1f79b4
 ---
 {% gallery medium %}
+
 - title: How to analyze the gender pay gap
   link: /linclusion-des-genres/how-to-analyze-the-gender-pay-gap
   icon: /assets/images/Icons_Light_Green3.png

@@ -64,6 +64,7 @@ There are a wide range of analysis options in this area. Governments have very b
 
 {% database Click through to the following sections to find out more about the process and data needed to calculate life cycle costs: %}
 {% gallery medium %}
+
 - title: How to value a life cycle
   link: /life-cycle-costing/how-to-value-a-life-cycle
   icon: /assets/images/Icons_Light_Green3.png

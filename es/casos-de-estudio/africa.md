@@ -6,6 +6,7 @@ collection: true
 notion_id: "85fcbe0dada44d5ab8c79f892697c577"
 ---
 {% gallery large %}
+
 - title: Promoting equal access to government opportunities in Kenya
   link: /casos-de-estudio/promoting-equal-access-to-government-opportunities-in-kenya
   cover: /assets/images/Africa_-_Kenya.png

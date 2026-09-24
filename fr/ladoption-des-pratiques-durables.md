@@ -50,6 +50,7 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 
 {% database Cliquez sur les sections ci-dessous pour en savoir plus: %}
 {% gallery medium %}
+
 - title: How to record SPP in procurement
   link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png

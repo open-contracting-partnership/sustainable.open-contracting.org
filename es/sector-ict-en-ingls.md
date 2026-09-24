@@ -24,6 +24,7 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
 
 {% database **Haga clic para mayor información** %}
 {% gallery medium %}
+
 - title: Establezca el marco de trabajo
   link: /sector-ict-en-ingls/establezca-el-marco-de-trabajo
   icon: /assets/images/Icons_Grey6.png

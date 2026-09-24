@@ -31,6 +31,7 @@ sidebar: true
 
 {% database Votre trajet de la mise en place %}
 {% gallery medium %}
+
 - title: Introduction
   link: /introduction
   icon: /assets/images/Icons_Blue_Intro.png

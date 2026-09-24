@@ -60,6 +60,7 @@ Buyers can identify categories of interest and measure the growth based on contr
 
 {% database Getting started %}
 {% gallery medium %}
+
 - title: What to measure?
   link: /what-to-measure
   cover: /assets/images/Asset_11b.jpg

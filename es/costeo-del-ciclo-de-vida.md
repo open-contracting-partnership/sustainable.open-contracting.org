@@ -64,6 +64,7 @@ Hay una amplia gama de opciones de análisis en esta área. Los gobiernos tienen
 
 {% database **Haga clic en las siguientes secciones para obtener más información sobre el proceso y los datos necesarios para calcular los costos del ciclo de vida**: %}
 {% gallery medium %}
+
 - title: Cómo valorar un ciclo de vida
   link: /costeo-del-ciclo-de-vida/cmo-valorar-un-ciclo-de-vida
   icon: /assets/images/Icons_Light_Green3.png

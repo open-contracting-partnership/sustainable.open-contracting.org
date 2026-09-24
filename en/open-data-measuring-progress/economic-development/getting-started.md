@@ -6,6 +6,7 @@ collection: true
 notion_id: "1454abcc35ce4c4e9e89158b2ecd8def"
 ---
 {% gallery medium %}
+
 - title: What to measure?
   link: /what-to-measure
   cover: /assets/images/Asset_11b.jpg

@@ -6,6 +6,7 @@ collection: true
 notion_id: "9c163ecbb0d540cfae796f11074f5c07"
 ---
 {% gallery medium %}
+
 - title: Introduction
   link: /introduccin
   icon: /assets/images/Icons_Blue_Intro.png

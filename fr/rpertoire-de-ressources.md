@@ -15,6 +15,7 @@ sidebar: true
 {% database **Répertoire de ressources** %}
 {% database_table no-click %}
 columns:
+
   - name: Title
     type: title
     width: 278

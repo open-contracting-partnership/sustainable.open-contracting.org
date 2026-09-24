@@ -16,6 +16,7 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
 
 {% database **Para más información, debe consultar estas subsecciones** %}
 {% gallery medium %}
+
 - title: Establezca un entorno habilitante
   link: /establezca-un-entorno-habilitante
   icon: /assets/images/icons_D_Green2.png

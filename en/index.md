@@ -29,6 +29,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 
 {% database Your Open SPP journey %}
 {% gallery medium %}
+
 - title: Introduction
   link: /introduction
   icon: /assets/images/Icons_Blue_Intro.png

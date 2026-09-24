@@ -72,6 +72,7 @@ Within your procurement regime, there will be certain policy vehicles, such as f
 
 {% database Key SPP enablers %}
 {% gallery medium %}
+
 - title: Explicit provisions to include sustainability as award criteria
   link: /establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria
   icon: /assets/images/icons_D_Green3.png

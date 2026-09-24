@@ -6,6 +6,7 @@ collection: true
 notion_id: "37f87b7f84ce4be7b2ccb4445d2efed2"
 ---
 {% gallery large %}
+
 - title: Promoting gender inclusion through procurement in Chile
   link: /casos-de-estudio/promoting-gender-inclusion-through-procurement-in-chile
   cover: /assets/images/LAC_-_Chile.png

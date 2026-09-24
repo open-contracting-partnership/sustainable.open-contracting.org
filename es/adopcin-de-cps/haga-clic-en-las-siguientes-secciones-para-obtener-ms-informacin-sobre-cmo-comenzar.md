@@ -6,6 +6,7 @@ collection: true
 notion_id: "7ca2fb0638404bae83ecc23035cf0805"
 ---
 {% gallery medium %}
+
 - title: Cómo registrar CPS en contratación pública
   link: /adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica
   icon: /assets/images/Icons_Light_Green3.png

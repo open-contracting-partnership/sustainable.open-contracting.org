@@ -14,6 +14,7 @@ sidebar: true
 
 {% database Africa %}
 {% gallery large %}
+
 - title: Promoting equal access to government opportunities in Kenya
   link: /promoting-equal-access-to-government-opportunities-in-kenya
   cover: /assets/images/Africa_-_Kenya.png
@@ -38,6 +39,7 @@ sidebar: true
 
 {% database Latin America and the Caribbean %}
 {% gallery large %}
+
 - title: Promoting gender inclusion through procurement in Chile
   link: /promoting-gender-inclusion-through-procurement-in-chile
   cover: /assets/images/LAC_-_Chile.png
@@ -79,6 +81,7 @@ sidebar: true
 
 {% database Europe %}
 {% gallery large %}
+
 - title: Standardizing sustainability requirements according to market capability in the Basque Country
   link: /standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
   cover: /assets/images/Europe_-_Basque_Country.png
@@ -136,6 +139,7 @@ sidebar: true
 
 {% database East and Southeast Asia %}
 {% gallery large %}
+
 - title: Prioritizing procurement categories in Vietnam
   link: /prioritizing-procurement-categories-in-vietnam
   cover: /assets/images/Asia_-_Vietnam-2.png
@@ -154,6 +158,7 @@ sidebar: true
 
 {% database North America %}
 {% gallery large %}
+
 - title: Gathering supplier performance data in Wichita
   link: /gathering-supplier-performance-data-in-wichita
   cover: /assets/images/USA_-_Wichita.png

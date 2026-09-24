@@ -6,6 +6,7 @@ collection: true
 notion_id: "1bf2fbacd9fe42699eac2d92e9ede9bb"
 ---
 {% gallery large %}
+
 - title: Standardizing sustainability requirements according to market capability in the Basque Country
   link: /standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
   cover: /assets/images/Europe_-_Basque_Country.png

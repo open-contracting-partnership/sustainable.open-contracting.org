@@ -48,6 +48,7 @@ Una vez que esto se ha establecido claramente, puede medir y registrar la acepta
 
 {% database **Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:** %}
 {% gallery medium %}
+
 - title: Cómo registrar CPS en contratación pública
   link: /adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica
   icon: /assets/images/Icons_Light_Green3.png

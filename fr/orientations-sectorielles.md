@@ -16,6 +16,7 @@ Dans cette section, nous fournissons des conseils spécifiques sur la manière d
 
 {% database Cliquez sur une section pour en savoir plus %}
 {% gallery medium %}
+
 - title: La construction (en anglais)
   link: "/la-construction-en-anglais"
   icon: /assets/images/Icons_Grey5.png

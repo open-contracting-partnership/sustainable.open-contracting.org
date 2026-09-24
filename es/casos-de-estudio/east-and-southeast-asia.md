@@ -6,6 +6,7 @@ collection: true
 notion_id: da62832db8564a9186ceaf6592ab4ef3
 ---
 {% gallery large %}
+
 - title: Prioritizing procurement categories in Vietnam
   link: /casos-de-estudio/prioritizing-procurement-categories-in-vietnam
   cover: /assets/images/Asia_-_Vietnam-2.png

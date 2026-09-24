@@ -6,6 +6,7 @@ collection: true
 notion_id: "4aca3f62338a4c689885e6b964f0d2ac"
 ---
 {% gallery medium %}
+
 - title: Establezca el marco de trabajo
   link: /sector-de-la-construccin-en-ingls/establezca-el-marco-de-trabajo
   icon: /assets/images/Icons_Grey6.png

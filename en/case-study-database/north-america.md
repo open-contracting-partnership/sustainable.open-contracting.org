@@ -8,6 +8,7 @@ notion_id: "0acfba9b2cd3472bbfb96f24644ba84c"
 <div class="notion-collection__header-wrapper"></div>
 
 {% gallery large %}
+
 - title: Gathering supplier performance data in Wichita
   link: /gathering-supplier-performance-data-in-wichita
   cover: /assets/images/USA_-_Wichita.png

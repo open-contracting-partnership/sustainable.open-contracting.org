@@ -57,6 +57,7 @@ Tal como explicamos en la introducción de este conjunto de herramientas, los da
 
 {% database **Haga clic aquí para más información** %}
 {% gallery medium %}
+
 - title: Opciones para el uso de datos
   link: /opciones-para-el-uso-de-datos
   icon: /assets/images/Icons_Light_Green2.png

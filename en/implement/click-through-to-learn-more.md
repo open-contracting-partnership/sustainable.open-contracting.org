@@ -6,6 +6,7 @@ collection: true
 notion_id: "9a064272103346c0a1724b96f1225146"
 ---
 {% gallery medium %}
+
 - title: Assess needs
   link: /assess-needs
   icon: /assets/images/Icons_Red2.png

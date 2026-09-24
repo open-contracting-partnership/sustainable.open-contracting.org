@@ -28,6 +28,7 @@ sidebar: true
 
 {% database El proceso de implementación Open SPP %}
 {% gallery medium %}
+
 - title: Introduction
   link: /introduccin
   icon: /assets/images/Icons_Blue_Intro.png

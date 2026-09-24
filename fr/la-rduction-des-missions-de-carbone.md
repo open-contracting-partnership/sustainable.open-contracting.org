@@ -46,6 +46,7 @@ Les priorités immédiates concernant la réduction des émissions de carbone co
 
 {% database Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics : %}
 {% gallery medium %}
+
 - title: How to estimate carbon values?
   link: /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values
   icon: /assets/images/Icons_Light_Green3.png

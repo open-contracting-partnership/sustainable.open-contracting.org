@@ -8,6 +8,7 @@ notion_id: "971ad56d5be048babd648bdc0977f5fe"
 <div class="notion-collection__header-wrapper"></div>
 
 {% gallery large %}
+
 - title: Prioritizing procurement categories in Vietnam
   link: /prioritizing-procurement-categories-in-vietnam
   cover: /assets/images/Asia_-_Vietnam-2.png

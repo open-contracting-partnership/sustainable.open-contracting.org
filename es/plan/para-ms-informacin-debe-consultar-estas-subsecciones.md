@@ -6,6 +6,7 @@ collection: true
 notion_id: f0048abe2b0b4cb4acc440586fa3179a
 ---
 {% gallery medium %}
+
 - title: Establezca un entorno habilitante
   link: /establezca-un-entorno-habilitante
   icon: /assets/images/icons_D_Green2.png

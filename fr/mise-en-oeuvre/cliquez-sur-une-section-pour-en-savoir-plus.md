@@ -6,6 +6,7 @@ collection: true
 notion_id: "80bcf685e25a4f4885da4a02517ee34b"
 ---
 {% gallery medium %}
+
 - title: Évaluer les besoins réels
   link: /valuer-les-besoins-rels
   icon: /assets/images/Icons_Red2.png

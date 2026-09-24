@@ -6,6 +6,7 @@ collection: true
 notion_id: "3fcf9e55cc214a889ce7a0579e410269"
 ---
 {% gallery medium %}
+
 - title: Setting the framework
   link: /setting-the-framework
   icon: /assets/images/Icons_Grey6.png

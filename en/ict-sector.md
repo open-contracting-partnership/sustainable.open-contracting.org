@@ -24,6 +24,7 @@ This section focuses on the purchase of hardware equipment, which mainly include
 
 {% database **Click through to learn more** %}
 {% gallery medium %}
+
 - title: Setting the framework
   link: /setting-the-framework
   icon: /assets/images/Icons_Grey6.png

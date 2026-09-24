@@ -16,6 +16,7 @@ sidebar: true
 
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Assess needs
   link: /assess-needs
   icon: /assets/images/Icons_Red2.png

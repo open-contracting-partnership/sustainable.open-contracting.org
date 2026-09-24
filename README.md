@@ -118,6 +118,7 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 ```liquid
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Prioritize
   link: /plan/prioritize
   icon: /assets/images/icons_D_Green2.png
@@ -137,6 +138,7 @@ Databases' table views are `{% database_table %}` tags, containing YAML with the
 ```liquid
 {% database_table %}
 columns:
+
   - name: Name
     type: title
     width: 278

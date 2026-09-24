@@ -75,6 +75,7 @@ Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen s
 {% database **Ecoetiquetas**  %}
 {% database_table no-click %}
 columns:
+
   - name: Nombre
     type: title
     width: 278

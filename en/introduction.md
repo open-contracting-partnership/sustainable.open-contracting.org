@@ -34,6 +34,7 @@ As you can see on the diagram below, **in this introductory section we provide y
 
 {% database Click through to learn more %}
 {% gallery large %}
+
 - title: How to use this toolkit
   link: /how-to-use-this-toolkit
   icon: /assets/images/Icons_Blue_Intro2.png

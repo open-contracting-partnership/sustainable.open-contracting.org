@@ -6,6 +6,7 @@ collection: true
 notion_id: "2e3e75057d52453eb2393054f364246c"
 ---
 {% gallery medium %}
+
 - title: "¿Cómo analizar la brecha salarial por género?"
   link: /inclusin-de-gnero/cmo-analizar-la-brecha-salarial-por-gnero
   icon: /assets/images/Icons_Light_Green3.png

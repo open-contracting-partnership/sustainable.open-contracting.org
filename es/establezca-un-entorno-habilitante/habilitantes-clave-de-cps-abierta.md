@@ -6,6 +6,7 @@ collection: true
 notion_id: "44c2a782c0b8496ca72e7edf39cf2a01"
 ---
 {% gallery medium %}
+
 - title: Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación
   link: /establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin
   icon: /assets/images/icons_D_Green3.png

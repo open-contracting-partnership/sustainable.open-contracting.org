@@ -32,6 +32,7 @@ Como podrá ver en el diagrama a continuación, **en esta sección introductoria
 
 {% database Haga clíc para más información %}
 {% gallery large %}
+
 - title: Cómo puede usar este conjunto de herramientas
   link: /cmo-usar-la-herramienta
   icon: /assets/images/Icons_Blue_Intro2.png

@@ -6,6 +6,7 @@ collection: true
 notion_id: "7209956ba1a3466583b4922dbdc8a0dc"
 ---
 {% gallery medium %}
+
 - title: Sector de la construcción
   link: "/sector-de-la-construccin-en-ingls"
   icon: /assets/images/Icons_Grey5.png

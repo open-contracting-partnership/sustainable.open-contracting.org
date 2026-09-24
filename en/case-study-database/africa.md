@@ -6,6 +6,7 @@ collection: true
 notion_id: d1540eb07fda4dac836ffa8c346591a0
 ---
 {% gallery large %}
+
 - title: Promoting equal access to government opportunities in Kenya
   link: /promoting-equal-access-to-government-opportunities-in-kenya
   cover: /assets/images/Africa_-_Kenya.png

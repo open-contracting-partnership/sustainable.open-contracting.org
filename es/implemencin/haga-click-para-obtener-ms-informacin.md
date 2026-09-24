@@ -6,6 +6,7 @@ collection: true
 notion_id: e0822986525a4845b8892f7f57ae55f6
 ---
 {% gallery medium %}
+
 - title: Establezca necesidades
   link: /establezca-necesidades
   icon: /assets/images/Icons_Red2.png

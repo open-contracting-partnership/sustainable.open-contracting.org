@@ -6,6 +6,7 @@ collection: true
 notion_id: d7927c8ac8094938a033b66caa06ca2c
 ---
 {% gallery medium %}
+
 - title: Establezca el marco de trabajo
   link: /sector-ict-en-ingls/establezca-el-marco-de-trabajo
   icon: /assets/images/Icons_Grey6.png

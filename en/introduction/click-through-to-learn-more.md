@@ -6,6 +6,7 @@ collection: true
 notion_id: f265124af758420fbc2b12d60058ea64
 ---
 {% gallery large %}
+
 - title: How to use this toolkit
   link: /how-to-use-this-toolkit
   icon: /assets/images/Icons_Blue_Intro2.png

@@ -15,6 +15,7 @@ En esta sección, incluimos **información sobre las guías y referencias práct
 {% database Directorio de recursos %}
 {% database_table no-click %}
 columns:
+
   - name: Title
     type: title
     width: 278

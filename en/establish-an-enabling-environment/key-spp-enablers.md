@@ -6,6 +6,7 @@ collection: true
 notion_id: "36e041d26513471e9d053b66f33a9d8d"
 ---
 {% gallery medium %}
+
 - title: Explicit provisions to include sustainability as award criteria
   link: /establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria
   icon: /assets/images/icons_D_Green3.png

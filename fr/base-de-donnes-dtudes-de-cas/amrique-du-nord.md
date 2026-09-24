@@ -8,6 +8,7 @@ notion_id: "01c627ebff6942c6ac69bb92e50db2a3"
 <div class="notion-collection__header-wrapper"></div>
 
 {% gallery large %}
+
 - title: Collecte des données de performance des fournisseurs à Wichita
   link: /base-de-donnes-dtudes-de-cas/collecte-des-donnes-de-performance-des-fournisseurs-wichita
   cover: /assets/images/NorthAmerica-Wichita.png

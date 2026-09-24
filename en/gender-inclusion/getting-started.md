@@ -6,6 +6,7 @@ collection: true
 notion_id: "680a29531e33415288c700657b4c8e93"
 ---
 {% gallery medium %}
+
 - title: How to analyze the gender pay gap
   link: /gender-inclusion/how-to-analyze-the-gender-pay-gap
   icon: /assets/images/Icons_Light_Green3.png

@@ -66,6 +66,7 @@ Cliquez sur les sous-sections suivantes pour en savoir plus concernant le proces
 
 {% database Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie: %}
 {% gallery medium %}
+
 - title: How to value a life cycle
   link: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
   icon: /assets/images/Icons_Light_Green3.png

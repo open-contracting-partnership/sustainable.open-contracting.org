@@ -48,6 +48,7 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 
 {% database Getting started %}
 {% gallery medium %}
+
 - title: How to analyze the gender pay gap
   link: /linclusion-des-genres/how-to-analyze-the-gender-pay-gap
   icon: /assets/images/Icons_Light_Green3.png

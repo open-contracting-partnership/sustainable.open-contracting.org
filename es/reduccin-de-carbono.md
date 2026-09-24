@@ -46,6 +46,7 @@ Las prioridades inmediatas para la reducción de carbono incluyen emisiones de c
 
 {% database Haga clic en las siguientes secciones para conocer más acerca de cómo empezar: %}
 {% gallery medium %}
+
 - title: "¿Cómo estimar los valores de carbono?"
   link: /reduccin-de-carbono/cmo-estimar-los-valores-de-carbono
   icon: /assets/images/Icons_Light_Green3.png

@@ -6,6 +6,7 @@ collection: true
 notion_id: "4c33d7fd78b54214a8dcf08a0063929e"
 ---
 {% gallery medium %}
+
 - title: Establish an enabling environment
   link: /establish-an-enabling-environment
   icon: /assets/images/icons_D_Green2.png

@@ -6,6 +6,7 @@ collection: true
 notion_id: a08fcfdc88344818a66667e68174b97e
 ---
 {% gallery medium %}
+
 - title: Opciones para el uso de datos
   link: /opciones-para-el-uso-de-datos
   icon: /assets/images/Icons_Light_Green2.png

@@ -6,6 +6,7 @@ collection: true
 notion_id: "56a67f7e4e114f4f88e0b397b0340c4f"
 ---
 {% gallery medium %}
+
 - title: How to record SPP in procurement
   link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
   icon: /assets/images/Icons_Light_Green3.png

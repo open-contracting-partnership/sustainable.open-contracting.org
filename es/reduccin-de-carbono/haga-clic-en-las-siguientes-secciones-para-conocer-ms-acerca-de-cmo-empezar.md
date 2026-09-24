@@ -6,6 +6,7 @@ collection: true
 notion_id: f325664dacee4ac9bcb1f83c2c70736a
 ---
 {% gallery medium %}
+
 - title: "¿Cómo estimar los valores de carbono?"
   link: /reduccin-de-carbono/cmo-estimar-los-valores-de-carbono
   icon: /assets/images/Icons_Light_Green3.png

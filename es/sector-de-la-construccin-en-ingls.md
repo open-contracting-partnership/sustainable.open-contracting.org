@@ -25,6 +25,7 @@ Es importante tener en cuenta que, **dentro del sector de la construcción, exis
 
 {% database **Haga clic para mayor información** %}
 {% gallery medium %}
+
 - title: Establezca el marco de trabajo
   link: /sector-de-la-construccin-en-ingls/establezca-el-marco-de-trabajo
   icon: /assets/images/Icons_Grey6.png

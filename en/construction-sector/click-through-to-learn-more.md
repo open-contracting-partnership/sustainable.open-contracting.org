@@ -6,6 +6,7 @@ collection: true
 notion_id: "3913e5ce553b456ba62e368e77fe1f44"
 ---
 {% gallery medium %}
+
 - title: Setting the framework
   link: /construction-sector/setting-the-framework
   icon: /assets/images/Icons_Grey6.png

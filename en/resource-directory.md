@@ -15,6 +15,7 @@ In this section, we include **information on existing Sustainable Public Procure
 {% database Resource Directory %}
 {% database_table %}
 columns:
+
   - name: Title
     type: title
     width: 278

@@ -14,6 +14,7 @@ sidebar: true
 
 {% database **Haga click para obtener más información** %}
 {% gallery medium %}
+
 - title: Establezca necesidades
   link: /establezca-necesidades
   icon: /assets/images/Icons_Red2.png

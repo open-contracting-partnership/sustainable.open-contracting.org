@@ -75,6 +75,7 @@ As explained in this section, Type I ecolabels are often the most commonly used 
 {% database Ecolabels  %}
 {% database_table %}
 columns:
+
   - name: Name
     type: title
     width: 278

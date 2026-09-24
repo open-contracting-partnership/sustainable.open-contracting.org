@@ -17,6 +17,7 @@ In this section, **we provide you with all the information you need to get start
 
 {% database Click through to learn more %}
 {% gallery medium %}
+
 - title: Establish an enabling environment
   link: /establish-an-enabling-environment
   icon: /assets/images/icons_D_Green2.png
