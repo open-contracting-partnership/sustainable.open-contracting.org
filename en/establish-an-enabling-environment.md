@@ -1,6 +1,6 @@
 ---
 permalink: /establish-an-enabling-environment
-title: "Establish an enabling environment "
+title: Establish an enabling environment
 description: "Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png

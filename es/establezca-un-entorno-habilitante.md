@@ -1,6 +1,6 @@
 ---
 permalink: /establezca-un-entorno-habilitante
-title: "Establezca un entorno habilitante "
+title: Establezca un entorno habilitante
 description: "Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green2.png

@@ -1,6 +1,6 @@
 ---
 permalink: /resource-directory/going-green-best-practices-for-sustainable-procurement
-title: "Going Green: Best Practices for Sustainable Procurement "
+title: "Going Green: Best Practices for Sustainable Procurement"
 notion_id: "77d3a9c831014262be17b26a476c4705"
 properties:
   Attachment:

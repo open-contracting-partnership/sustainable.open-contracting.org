@@ -1,6 +1,6 @@
 ---
 permalink: /resource-directory/site-waste-management-plan-data-form
-title: "Site Waste Management Plan Data Form "
+title: Site Waste Management Plan Data Form
 notion_id: "6193de3156ae420d821961ee386652e4"
 properties:
   Attachment:

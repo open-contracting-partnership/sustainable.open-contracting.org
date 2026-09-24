@@ -1,6 +1,6 @@
 ---
 permalink: /establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation
-title: "Thresholds and sectors with distinct regulation "
+title: Thresholds and sectors with distinct regulation
 description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/icons_D_Green3.png

@@ -1,6 +1,6 @@
 ---
 permalink: /guide-to-ecolabels/ecolabels
-title: "Ecolabels "
+title: Ecolabels
 full_width: true
 collection: true
 notion_id: a8a53644ce6e4394b52d81b610ae5801

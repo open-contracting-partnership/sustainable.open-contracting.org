@@ -1,6 +1,6 @@
 ---
 permalink: /resource-directory/green-tenders-action-plan-on-green-public-procurement
-title: "Green Tenders: Action Plan on Green Public Procurement "
+title: "Green Tenders: Action Plan on Green Public Procurement"
 notion_id: "270ff57b91ad462a87f53885a74685ed"
 properties:
   Attachment:

@@ -1,6 +1,6 @@
 ---
 permalink: /abnt-environmental-quality
-title: "ABNT - Environmental Quality "
+title: ABNT - Environmental Quality
 notion_id: "948d5c0121554e5baed66c0bcf7ab4d1"
 properties:
   Criteria available:

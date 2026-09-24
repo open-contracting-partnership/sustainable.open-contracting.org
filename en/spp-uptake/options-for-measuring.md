@@ -1,6 +1,6 @@
 ---
 permalink: /spp-uptake/options-for-measuring
-title: "Options for measuring "
+title: Options for measuring
 description: "Once you have been able to link policy and action and then record it in data, it is possible to start to measure SPP procurement. In most cases the measurement you will use is simply counting the number of times procurements are meeting an agreed SPP threshold."
 icon: /assets/images/Icons_Light_Green3.png
 notion_id: a4d02687108d43bb93134822ee7c2c09

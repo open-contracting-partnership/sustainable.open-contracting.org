@@ -117,6 +117,16 @@ def clean(text):
         r"\1",
         text,
     )
+    # Remove whitespace at the end of pages' titles (in page links, their icons' alt text and table views), as in
+    # their front matter.
+    text = re.sub(
+        r'(class="notion-(?:page__title|property notion-property__title) notion-semantic-string">[^<]*?)\s+(?=</)',
+        r"\1",
+        text,
+    )
+    text = re.sub(
+        r'(<span class="notion-page__icon"><img alt="[^"]*?)\s+"', r'\1"', text
+    )
     inline_end = r"(?:</(?:strong|em|a|span)>)*"
     text = re.sub(rf"\n+({inline_end}</(?:p|li|h[1-6])>)", r"\1", text)
     text = re.sub(
@@ -573,7 +583,15 @@ def link_versions():
                 found = version(lang, other, path)
                 if found is None or found[1] < VERSION_SCORE:
                     return match.group(0)
-                changed.append((lang, str(file.relative_to(ROOT)), match.group(0), found[0], found[1]))
+                changed.append(
+                    (
+                        lang,
+                        str(file.relative_to(ROOT)),
+                        match.group(0),
+                        found[0],
+                        found[1],
+                    )
+                )
                 return urllib.parse.quote(found[0]) + (match.group(3) or "")
 
             new = CROSS_SITE.sub(replace, text)
@@ -878,7 +896,7 @@ def main():
             "permalink": path,
             "title": fix_spaces(
                 html.unescape(re.search(r"<title>([^<]*)</title>", head).group(1)), lang
-            ),
+            ).strip(),
             "description": fix_spaces(meta(head, "name", "description") or "", lang)
             or None,
             **data,
@@ -1056,7 +1074,9 @@ def main():
     print("links:", dict(links))
 
     changed = link_versions()
-    (CRAWL / "versions-relinked.json").write_text(json.dumps(changed, indent=1, ensure_ascii=False) + "\n")
+    (CRAWL / "versions-relinked.json").write_text(
+        json.dumps(changed, indent=1, ensure_ascii=False) + "\n"
+    )
     print(len(changed), "links to other sites linked to their pages' versions")
 
     for lang in SITES.values():
