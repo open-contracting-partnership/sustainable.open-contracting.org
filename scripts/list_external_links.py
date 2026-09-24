@@ -140,6 +140,7 @@ def main():
                 ]
             )
 
+    OUT.parent.mkdir(exist_ok=True)
     with OUT.open("w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f, lineterminator="\n")
         writer.writerow(HEADER)
