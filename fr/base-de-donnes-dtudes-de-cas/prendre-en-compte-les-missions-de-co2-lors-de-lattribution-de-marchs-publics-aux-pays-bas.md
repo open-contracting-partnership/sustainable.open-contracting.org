@@ -9,7 +9,7 @@ notion_id: "9735999e9ee84e01a5bf6d465480d88f"
 sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
-Les Pays-Bas ont mis en place un système appelé [« ](https://www.co2-prestatieladder.nl/en/what-is-the-ladder)[*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder)[ »](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
+Les Pays-Bas ont mis en place un système appelé [« *CO2 Performance Ladder* »](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
 
 Les organisations peuvent obtenir un certificat correspondant à leur échelon qu’elles peuvent ensuite utiliser lors d’appels d’offres pour bénéficier d’un avantage en vue de l’attribution de marchés publics. Ainsi, une réduction peut être appliquée au prix proposé par les entreprises si ces dernières montrent et renforcent leurs efforts en faveur de la réduction des émissions de CO2.
 

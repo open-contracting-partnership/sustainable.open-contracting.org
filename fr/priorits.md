@@ -143,7 +143,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 **Ressources**
 
 - [Programme des Nations Unies sur l’environnement,](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) [*Instructions for the Prioritisation Exercise.*](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
-- [Groupe de la Banque mondiale,](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) [*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)[, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
+- [Groupe de la Banque mondiale,](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) [*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

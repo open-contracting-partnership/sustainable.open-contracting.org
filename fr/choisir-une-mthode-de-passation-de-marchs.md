@@ -51,7 +51,7 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (](https://govlab.hks.harvard.edu/results-driven-contracting)[*« Results-Driven Contracting »*](https://govlab.hks.harvard.edu/results-driven-contracting)[) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
+Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (*« Results-Driven Contracting »*) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
 {% endcallout %}
 
 ## **Processus d’appel d’offres en deux temps**

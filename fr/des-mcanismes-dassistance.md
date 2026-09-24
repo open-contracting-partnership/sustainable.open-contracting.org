@@ -96,9 +96,9 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
 
-- [Administration des services généraux des États-Unis,](https://sftool.gov/greenprocurement) [*Sustainable Facilities Tool*](https://sftool.gov/greenprocurement)[, 2022.](https://sftool.gov/greenprocurement)
-- [Département de contrôle de la pollution de la Thaïlande,](http://gp.pcd.go.th/cat-1-ssl) [*Panier vert*](http://gp.pcd.go.th/cat-1-ssl)[, 2020.](http://gp.pcd.go.th/cat-1-ssl)
-- [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html). [IHOBE,](https://www.ihobe.eus/criterios-ambientales) [*Criterios ambientales*](https://www.ihobe.eus/criterios-ambientales)[, 2022](https://www.ihobe.eus/criterios-ambientales).
+- [Administration des services généraux des États-Unis,](https://sftool.gov/greenprocurement) [*Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
+- [Département de contrôle de la pollution de la Thaïlande,](http://gp.pcd.go.th/cat-1-ssl) [*Panier vert*, 2020.](http://gp.pcd.go.th/cat-1-ssl)
+- [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html). [IHOBE,](https://www.ihobe.eus/criterios-ambientales) [*Criterios ambientales*, 2022](https://www.ihobe.eus/criterios-ambientales).
 - [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
 - [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).

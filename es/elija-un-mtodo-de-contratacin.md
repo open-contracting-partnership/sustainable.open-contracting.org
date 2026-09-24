@@ -53,7 +53,7 @@ Los enfoques de contratación basados en resultados pueden ser más útiles cuan
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-Para mayor orientación y ejemplos de cómo dar forma a los enfoques de contratación para alcanzar resultados de sostenibilidad, recommendamos hacer referencia a [*Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting*](https://govlab.hks.harvard.edu/results-driven-contracting)[”](https://govlab.hks.harvard.edu/results-driven-contracting). Para un estudio de caso de cómo diseñar un proceso de contratación basado en alcanzar los resltados deseados, ver el ejemplo de Wichita Ground Maintenance al final de esta sección
+Para mayor orientación y ejemplos de cómo dar forma a los enfoques de contratación para alcanzar resultados de sostenibilidad, recommendamos hacer referencia a [*Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting*”](https://govlab.hks.harvard.edu/results-driven-contracting). Para un estudio de caso de cómo diseñar un proceso de contratación basado en alcanzar los resltados deseados, ver el ejemplo de Wichita Ground Maintenance al final de esta sección
 {% endcallout %}
 
 ## **Procesos de licitación en dos etapas**
