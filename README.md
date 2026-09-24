@@ -166,6 +166,22 @@ The content is edited by hand:
 
 To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. `scripts/translations.py` matches each page to its versions in the other languages.
 
+### Checks
+
+On each push, CI (`.github/workflows/ci.yml`) lints the Markdown, builds the sites, and runs `scripts/check_links.py` and `scripts/check_markup.py`, which fail if they find a problem. To run the checks locally, after building the sites:
+
+```bash
+uvx pre-commit run --all-files
+uv run scripts/check_links.py
+uv run scripts/check_markup.py
+```
+
+To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The callout on `en/carbon-reduction.md` whose text is empty has comments that disable the rule against consecutive blank lines, since the first blank line is its text.
+
+`scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), and bold or italics without words.
+
+### Screenshots
+
 To check that a change doesn't change how pages look, build the sites and compare screenshots before and after:
 
 ```bash
@@ -174,6 +190,8 @@ uv run scripts/screenshots.py take before
 uv run scripts/screenshots.py take after
 uv run scripts/screenshots.py compare before after
 ```
+
+### Stylesheets and scripts
 
 The stylesheets in `assets/css/` (except `fonts.css`, `site.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
 

@@ -1,5 +1,5 @@
 """
-List links in the built sites to pages that don't exist, as CSV on standard output.
+List links in the built sites to pages that don't exist, as CSV on standard output, and exit with 1 if any.
 
     python3 scripts/check_links.py > broken-links.csv
 
@@ -68,11 +68,13 @@ def broken_links():
 
 
 def main():
+    links = broken_links()
     writer = csv.writer(sys.stdout)
     writer.writerow(["site", "path", "linked from"])
-    for (lang, path), pages in sorted(broken_links().items()):
+    for (lang, path), pages in sorted(links.items()):
         writer.writerow([lang, path, " ".join(sorted(pages))])
+    return 1 if links else 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

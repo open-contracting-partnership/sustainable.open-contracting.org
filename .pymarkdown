@@ -1,0 +1,23 @@
+// pymarkdownlnt's configuration (JSON5), for the pages and the README.
+{
+  extensions: {
+    // Otherwise, the front matter reads as headings.
+    "front-matter": { enabled: true },
+  },
+  plugins: {
+    // A paragraph is one line.
+    md013: { enabled: false },
+    // The page's title is in its front matter.
+    md041: { enabled: false },
+    // Notion's bold paragraphs.
+    md036: { enabled: false },
+    // <br> is an empty line in Notion's text. <strong> and <div> remain until #14.
+    md033: { allowed_elements: "br,strong,div" },
+    // Awaiting decisions in #15.
+    md001: { enabled: false },
+    md024: { enabled: false },
+    md025: { enabled: false },
+    md049: { enabled: false },
+    md059: { enabled: false },
+  },
+}

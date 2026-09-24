@@ -1,0 +1,18 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .node-version
+      - uses: astral-sh/setup-uv@v10
+      - run: uvx pre-commit run --all-files --show-diff-on-failure
+      - run: for lang in en es fr; do scripts/build.sh "$lang"; done
+      - run: uv run scripts/check_links.py
+      - run: uv run scripts/check_markup.py

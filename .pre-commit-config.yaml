@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/jackdewinter/pymarkdown
+    rev: v0.9.40
+    hooks:
+      - id: pymarkdown
+        files: ^((en|es|fr)/.*\.md|README\.md)$
