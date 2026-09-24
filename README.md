@@ -151,7 +151,7 @@ items:
 
 On the Spanish and French sites, the `notion.hide_properties` setting hides the properties on the items' own pages, as on Super.so.
 
-The few remaining blocks (the French case study database's large galleries) are HTML. `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
+`_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
 ## Editing
 
