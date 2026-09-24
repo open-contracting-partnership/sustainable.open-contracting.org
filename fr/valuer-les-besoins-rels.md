@@ -118,7 +118,7 @@ L’exposé des besoins doit être diffusé de façon ouverte avec les parties p
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [Commission européenne,](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) [*GPP Training Toolkit*, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
+- [Commission européenne, *GPP Training Toolkit*, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 

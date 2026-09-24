@@ -29,5 +29,5 @@ Ensuring that there are provisions that allow for the implementation of Market E
 Ensuring that there are provisions that include open disclosure of information or ongoing dialogue during the procurement process can be especially useful for outcome-based and performance-based procurement. These types of procurement allow practitioners to set environmental and social desired outcomes and establish a dialogue with suppliers to discuss and negotiate possible solutions.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-For **more information on market engagement practices** see section [Engage with the supplier market](/relacinese-con-el-mercado). To learn **more about procurement approaches that include ongoing consultation practices**, see section on [Choose a procurement method.](/elija-un-mtodo-de-contratacin)
+For **more information on market engagement practices** see section [Engage with the supplier market](/relacinese-con-el-mercado). To learn **more about procurement approaches that include ongoing consultation practices**, see section on [Choose a procurement method](/elija-un-mtodo-de-contratacin).
 {% endcallout %}

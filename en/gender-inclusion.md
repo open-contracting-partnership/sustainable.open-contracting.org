@@ -114,7 +114,7 @@ This is particularly important for groups of women who may have less access to i
 
 - **Develop guidance and change management strategies for buyers to reduce bias in the evaluation process.**
 
-Unfortunately, bias and discrimination can still affect the evaluation process (whether conscious or unconscious). Creating guidance and training for public buyers can help. See this [example from Colombia.](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit)
+Unfortunately, bias and discrimination can still affect the evaluation process (whether conscious or unconscious). Creating guidance and training for public buyers can help. See this [example from Colombia](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit).
 
 - **Simplify contracting processes & build capacity to navigate the process.**
 
@@ -128,4 +128,4 @@ Bidding on public contracts can be expensive. Eliminating or reducing fees for a
 
 Seeing is believing. If women-led businesses are able to see that small businesses like theirs are bidding on and winning contracts, it will give them more confidence that there is a level playing field and they will be treated fairly.
 
-You can read more about policy measures to improve gender inclusion and case studies from around the world in this [Policy Note by UN Women and OCP.](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf)
+You can read more about policy measures to improve gender inclusion and case studies from around the world in this [Policy Note by UN Women and OCP](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf).

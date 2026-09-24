@@ -109,7 +109,7 @@ El [Estándar de Datos para las Contrataciones Abiertas](https://standard.open-c
 
 También en el esquema OCDS hay más orientación sobre los identificadores que se pueden usar para ayudarlo a unir y hacer referencia cruzada de datos de contratación, incluidas las identificaciones corporativas para contratistas e identificadores organizacionales para rastrear quién está involucrado en la formación y gestión de contratos.
 
-La falta de identificadores coherentes en los sistemas de información del gobierno daña estructuralmente la calidad de los datos y puede dificultar seriamente la recopilación y el análisis de datos, pero [existen algunas estrategias simples que pueden ayudar a cualquier persona a progresar.](https://standard.open-contracting.org/latest/en/schema/identifiers/)
+La falta de identificadores coherentes en los sistemas de información del gobierno daña estructuralmente la calidad de los datos y puede dificultar seriamente la recopilación y el análisis de datos, pero [existen algunas estrategias simples que pueden ayudar a cualquier persona a progresar](https://standard.open-contracting.org/latest/en/schema/identifiers/).
 
 Nuestra [guía](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) "Banderas verdes" describe cómo "etiquetar" contrataciones específicas como ecológicas como un primer paso clave para medir los resultados de CPS. Esto solo es posible si tiene datos de contrato de buena calidad, con identificadores contractuales claros. En la sección tres de este conjunto de herramientas, le mostramos cómo aprovechar este enfoque para generar evidencia detallada y granular de SPP.
 

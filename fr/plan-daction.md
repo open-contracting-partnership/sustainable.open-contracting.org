@@ -38,7 +38,7 @@ Nous avons recensé les principales mesures que vous pouvez prendre pour commenc
 
 {% toggle **L’environnement habilitant** %}
 
-Dans chaque pays, les marchés publics sont régis par des lois, règles et cadres de travail. L’une des mesures essentielles pour entamer la transition vers des marchés publics durables et ouverts consiste à délimiter ces cadres de travail et à évaluer la marge d’action qu’ils offrent pour adopter des pratiques durables de passation de marchés. Nous montrons comment vous y prendre dans la section [« Mise en place de l’environnement habilitant »](/mise-en-place).
+Dans chaque pays, les marchés publics sont régis par des lois, règles et cadres de travail. L’une des mesures essentielles pour entamer la transition vers des marchés publics durables et ouverts consiste à délimiter ces cadres de travail et à évaluer la marge d’action qu’ils offrent pour adopter des pratiques durables de passation de marchés. Nous montrons comment vous y prendre dans la section « [Mise en place de l’environnement habilitant](/mise-en-place) ».
 
 La présentation du résultat de cette démarche dans votre plan d’action permet d’établir un rapport de confiance en indiquant clairement comment les propositions d’approches des marchés publics durables et ouverts sont axées sur les règles en vigueur. De façon particulière, le plan d’action doit aborder les éléments suivants :
 
@@ -159,9 +159,9 @@ La portée et la complexité des critères environnementaux recommandés pour le
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources** 
 
-- [Groupe de la Banque mondiale,](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) [*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
-- [PNUE,](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines) [*Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*, 2021.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)
-- [PNUE,](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf) [*Terms of Reference for the SPP Policy and Action Plan Expert*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf)
+- [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
+- [PNUE, *Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*, 2021.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)
+- [PNUE, *Terms of Reference for the SPP Policy and Action Plan Expert*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf)
 {% endcallout %}
 
 Dans la [première partie de ce guide pratique](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.

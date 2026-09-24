@@ -97,7 +97,7 @@ There are different ways to engage with the market throughout the procurement pr
 - **During the procurement planning phase:** organizing events with suppliers to present sustainability objectives, and conducting market research to assess availability of sustainable options. 
 - **During procurement:** notifying the market of the intention to award a contract, developing channels to engage with priority supplier groups (e.g. SMEs), giving channels for feedback, and facilitating supplier consortia. 
 
-For more information see [this section.](/engage-with-the-market)
+For more information see [this section](/engage-with-the-market).
 
 {% endtoggle %}
 

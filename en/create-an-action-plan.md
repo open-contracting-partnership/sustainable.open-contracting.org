@@ -32,12 +32,12 @@ We have identified the key steps that you can take when getting started with Ope
 
 {% toggle **Enabling environment**  %}
 
-In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section [**Establish an enabling environment**](/establish-an-enabling-environment)**.**
+In every country, public procurement is regulated by different laws, rules, and frameworks. One of the key steps when getting started with Open SPP, is identifying these frameworks, and assessing the scope they leave for the implementation of SPP practices. We explain how you can do this in the section [**Establish an enabling environment**](/establish-an-enabling-environment).
 
 Communicating the result of this exercise in your Action Plan is an opportunity to establish trust by clearly defining how suggested Open SPP approaches fit into the current rules. In particular, the Action Plan should focus on communicating:
 
 - **Relevant laws, policies, and plans**, and how they can be interpreted for SPP implementation. This includes referencing current regulation regarding evaluation criteria, and any existing SPP regulatory enablers. 
-- **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets,](/establish-an-enabling-environment/targets-and-reserved-contracts) for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) to facilitate Open SPP implementation. 
+- **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets](/establish-an-enabling-environment/targets-and-reserved-contracts), for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) to facilitate Open SPP implementation. 
 
 {% callout gray /assets/images/Notion-others2.png %}
 <strong>Case Study
@@ -132,13 +132,13 @@ Many countries start by working on the implementation of Open SPP in specific in
 
 {% toggle **Procurement categories**  %}
 
-Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section.](/prioritize)
+Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section](/prioritize).
 
 {% endtoggle %}
 
 {% toggle **Environmental criteria**  %}
 
-Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section.](/build-support-and-capabilities)
+Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section](/build-support-and-capabilities).
 
 {% endtoggle %}
 

@@ -32,7 +32,7 @@ Ecolabels, such as TCO, measure, specifically, the use of post-consumer recycled
 
 {% toggle **Recycled packaging materials** %}
 
-Recycled content in packaging materials should also be monitored. This can include for example ensuring that paper-based packaging is 100% recycled, and complies with the standards set by ecolabels such as [Forest Stewardship Council (FSC).](https://fsc.org/en/fsc-labels)
+Recycled content in packaging materials should also be monitored. This can include for example ensuring that paper-based packaging is 100% recycled, and complies with the standards set by ecolabels such as [Forest Stewardship Council (FSC)](https://fsc.org/en/fsc-labels).
 
 {% endtoggle %}
 

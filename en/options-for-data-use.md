@@ -13,7 +13,7 @@ sidebar: true
 There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement. 
 
 {% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
-The options presented on this section can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section.](/open-data-measuring-progress) For each option, we have included guidance on how it can be applied depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). You can access and download the table with the whole set of data use options here:
+The options presented on this section can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section](/open-data-measuring-progress). For each option, we have included guidance on how it can be applied depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). You can access and download the table with the whole set of data use options here:
 
 {% page /options-for-data-use/table-of-options-for-data-use %}
 {% endcallout %}
@@ -34,7 +34,7 @@ Doing this will require establishing a clear definition of which contracts fall 
 
 ### **Option 2: Boost policy performance through alerts and notifications**
 
-Through manual or programmatic analysis of data, alerts can be created and used by contracting authorities to encourage uptake of SPP initiatives and performance. Analysis can be compiled into dashboards to show data on sectors, buyers, suppliers and categories, including top and bottom 10 rankings, as in [this example from Lithuania.](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)
+Through manual or programmatic analysis of data, alerts can be created and used by contracting authorities to encourage uptake of SPP initiatives and performance. Analysis can be compiled into dashboards to show data on sectors, buyers, suppliers and categories, including top and bottom 10 rankings, as in [this example from Lithuania](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/).
 
 **Data use options depending on your capacity:**
 

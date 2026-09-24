@@ -24,7 +24,7 @@ En otras palabras, CPS es la consideración de los tres pilares del desarrollo s
 
 La contratación pública abierta y sostenible (CPS Abierta) se refiere a la aplicación de prácticas de contratación abierta y gobierno abierto para respaldar la implementación exitosa de CPS e impulsar mejores resultados sostenibles.
 
-Según [Open Contracting Partnership (OCP),](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
+Según [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf), “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
 
 En la [primera sección](/qu-es) de este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
 
@@ -48,7 +48,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 - Factores que lo ayudarán a determinar el **impacto de sostenibilidad** de implementar CPS en una categoría específica (como las emisiones de CO2 atribuidas).
 - Factores que le ayudarán a evaluar la **facilidad de implementación** (como la disponibilidad de etiquetas ambientales).
 
-Para obtener más información sobre estos factores, consulte [esta sección](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+Para obtener más información sobre estos factores, consulte [esta sección](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
 
 Este estudio de caso demuestra cómo se puede utilizar una técnica de medición simple para evaluar las categorías de productos según su valor de contratación; la disponibilidad y costo de alternativas sostenibles; y su impacto ambiental, económico y social, para priorizar categorías de productos.
 

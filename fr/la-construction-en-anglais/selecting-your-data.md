@@ -51,7 +51,7 @@ The total vehicle use can be captured during the project. This data will normall
 
 {% toggle **Vehicle emission standards**  %}
 
-The emission standards of the vehicles used during the project should be captured. The European Emission Standards can help as guidance. Despite being European, these standards have been used by UNEP to evaluate vehicle emissions in [LAC](https://www.unep.org/resources/report/latin-america-and-carribbean-vehicle-emission-standards) and [Africa](https://www.unep.org/resources/report/africa-vehicle-emission-standards), and West Africa has used these standards to develop their [new vehicle emissions regulation.](https://www.unep.org/news-and-stories/story/west-african-ministers-adopt-cleaner-fuels-and-vehicles-standards) 
+The emission standards of the vehicles used during the project should be captured. The European Emission Standards can help as guidance. Despite being European, these standards have been used by UNEP to evaluate vehicle emissions in [LAC](https://www.unep.org/resources/report/latin-america-and-carribbean-vehicle-emission-standards) and [Africa](https://www.unep.org/resources/report/africa-vehicle-emission-standards), and West Africa has used these standards to develop their [new vehicle emissions regulation](https://www.unep.org/news-and-stories/story/west-african-ministers-adopt-cleaner-fuels-and-vehicles-standards). 
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 The following emission standards are those established by Euro 3, the most widely used in LAC and Africa:

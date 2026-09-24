@@ -13,7 +13,7 @@ sidebar: true
 In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. [This framework](/monitoring-evaluation/sample-me-framework) includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
 {% callout green /assets/images/icons_D_Green8.png %}
-It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section.](/downloadable-tools)
+It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section](/downloadable-tools).
 {% endcallout %}
 
 ## What are Goals, Outcomes, and Indicators?
@@ -45,7 +45,7 @@ As you can see in the sample [M&E framework](/monitoring-evaluation/sample-me-fr
 Indicators are the metrics needed to measure progress against outcomes. Each indicator has different units of measurement, such as number of contracts, hours of training, quantities of products purchased, or value of contracts. For each indicator, you should collect data to determine current baselines, set a target to be achieved within a specific period, and track your progress along the way.
 
 {% callout green /assets/images/icons_D_Green6.png %}
-If a public authority decides to select “Reducing carbon value associated with public contracts” as an outcome, they might decide to measure this by capturing the “Tonnes of CO2 associated with public contracts”. This will be calculated by multiplying the CO2 estimates of the goods purchased, by the amount of units purchased. For additional guidance for measuring progress, see the [full worked example in section three.](/carbon-reduction)
+If a public authority decides to select “Reducing carbon value associated with public contracts” as an outcome, they might decide to measure this by capturing the “Tonnes of CO2 associated with public contracts”. This will be calculated by multiplying the CO2 estimates of the goods purchased, by the amount of units purchased. For additional guidance for measuring progress, see the [full worked example in section three](/carbon-reduction).
 {% endcallout %}
 
 {% endtoggle %}

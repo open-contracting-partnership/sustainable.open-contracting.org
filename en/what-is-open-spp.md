@@ -21,7 +21,7 @@ Sustainable Public Procurement (SPP) relates to how organizations buy goods and 
 {% callout blue /assets/images/Icons_Blue_Intro6.png %}
 For a deeper breakdown of both SPP and and open contracting (both open government and open data), please look at the following resources:
 
-- The most common definition of **Sustainable Public Procurement** comes from [UNEP:](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
+- The most common definition of **Sustainable Public Procurement** comes from [UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
 - You can see the Open Contracting Partnership’s approach to open contracting [here](https://www.open-contracting.org/implement/) and how it helps reforms scale and stick [here](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
@@ -83,7 +83,7 @@ Open SPP involves shaping, testing, and scaling SPP practices, based on reportin
 
 To deliver on these seven dimensions of openness high-quality data is crucial. This means [standardized data](https://opengovdata.org/) in open, machine-readable formats. 
 
-We have already compiled a piece of guidance that explores how open data can help you to drive SPP, and recommends the first steps in your open data journey. This guide can be found [here.](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/)
+We have already compiled a piece of guidance that explores how open data can help you to drive SPP, and recommends the first steps in your open data journey. This guide can be found [here](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
 <strong>Using ‘green flags’ in government procurement data

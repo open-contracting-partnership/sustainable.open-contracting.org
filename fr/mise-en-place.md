@@ -40,7 +40,7 @@ Beaucoup de méthodes de passation de marchés permettent seulement d’attribue
 
 Tout marché public comporte des critères que les soumissionnaires doivent satisfaire pour être pris en considération. On parle souvent de critères essentiels ou de spécifications techniques. Le fait d’intégrer la durabilité à ces critères est une des principales façons d’acheter de façon plus responsable malgré la contrainte de choisir l’offre qui propose le prix le plus bas.
 
-Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections [« Définir des critères de durabilité](/des-critres-de-durabilit) » et [« Interagir avec les acteurs du marché](/interagir-avec-le-march) ».
+Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections « [Définir des critères de durabilité](/des-critres-de-durabilit) » et « [Interagir avec les acteurs du marché](/interagir-avec-le-march) ».
 
 - **Prendre en compte le coût du cycle de vie**
 
@@ -56,7 +56,7 @@ Enfin, il existe de nombreuses réglementations sur la durabilité à l’échel
 
 Certaines méthodes de passation de marchés vous autorisent à prendre en compte d’autres critères que le prix pour évaluer les offres. Par exemple, en Europe, on retrouve le principe de l’offre économiquement la plus avantageuse ([présenté dans ce document](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex%3A32014L0024)).
 
-Dans ce cas, vous pouvez également concevoir des processus d’évaluation de façon à intégrer la durabilité aux critères d’attribution (et adopter les pratiques durables de passation de marchés mentionnées pour les contextes où seul le prix le plus bas peut être pris en considération). Au moment de définir vos critères, il peut être utile de se conformer aux priorités exprimées dans les plans et politiques de durabilité en vigueur à l’échelle nationale et locale (par exemple les objectifs d’élimination des émissions). Pour en savoir plus sur la définition de ces critères, consultez la section [« Définir des critères de durabilité](/des-critres-de-durabilit) ».
+Dans ce cas, vous pouvez également concevoir des processus d’évaluation de façon à intégrer la durabilité aux critères d’attribution (et adopter les pratiques durables de passation de marchés mentionnées pour les contextes où seul le prix le plus bas peut être pris en considération). Au moment de définir vos critères, il peut être utile de se conformer aux priorités exprimées dans les plans et politiques de durabilité en vigueur à l’échelle nationale et locale (par exemple les objectifs d’élimination des émissions). Pour en savoir plus sur la définition de ces critères, consultez la section « [Définir des critères de durabilité](/des-critres-de-durabilit) ».
 
 {% endtoggle %}
 
@@ -90,7 +90,7 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 Après avoir évalué votre environnement habilitant, vous devez indiquer clairement comment celui-ci soutient votre approche des marchés publics durables. Cela peut se traduire par deux actions essentielles.
 
 - Les pouvoirs publics doivent clairement décrire l’environnement habilitant du point de vue de la mise en place de marchés publics durables dans leurs [plans d’action sur les marchés publics durables](/plan-daction) et tout plan concernant l’élaboration d’une nouvelle politique ou réglementation de facilitation.
-- Les fonctionnaires responsables de la passation de marchés doivent montrer clairement que leur approche des marchés publics durables est conforme à l’environnement habilitant en place, et ce pour chaque marché. Pour cela, il est possible de renvoyer à la section pertinente du plan d’action sur les marchés publics durables ou [aux documents qui ont été examinés lors de l’évaluation.](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit)
+- Les fonctionnaires responsables de la passation de marchés doivent montrer clairement que leur approche des marchés publics durables est conforme à l’environnement habilitant en place, et ce pour chaque marché. Pour cela, il est possible de renvoyer à la section pertinente du plan d’action sur les marchés publics durables ou [aux documents qui ont été examinés lors de l’évaluation](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit).
 
 Afin de pouvoir passer en revue les différents documents de réglementation et de politiques auxquels vous devez vous conformer, nous avons élaboré cette liste de vérification :
 

@@ -120,12 +120,12 @@ The existence of sustainability initiatives in the local market should also be c
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section.](/engage-with-the-market)
+**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section](/engage-with-the-market).
 {% endcallout %}
 
 **Evaluate options to build on sustainability policy work to-date** 
 
-Existing sustainability policies and regulations should be used as a variable to prioritize procurement areas, favoring those where there is already a framework that enables SPP implementation. These will have been identified as part of the process of analyzing the [enabling environment,](/establish-an-enabling-environment) and can include, for example, regulations regarding the management of toxic waste, or the ratification of some of the core ILO Conventions. 
+Existing sustainability policies and regulations should be used as a variable to prioritize procurement areas, favoring those where there is already a framework that enables SPP implementation. These will have been identified as part of the process of analyzing the [enabling environment](/establish-an-enabling-environment), and can include, for example, regulations regarding the management of toxic waste, or the ratification of some of the core ILO Conventions. 
 
 ## Share and communicate the results of your prioritization exercise
 

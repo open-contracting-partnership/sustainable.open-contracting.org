@@ -123,7 +123,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](/interagir-avec-le-march)*.*
+*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](/interagir-avec-le-march).
 {% endcallout %}
 
 **Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité** 
@@ -142,8 +142,8 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**
 
-- [Programme des Nations Unies sur l’environnement,](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) [*Instructions for the Prioritisation Exercise.*](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
-- [Groupe de la Banque mondiale,](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) [*Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
+- [Programme des Nations Unies sur l’environnement, *Instructions for the Prioritisation Exercise*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+- [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

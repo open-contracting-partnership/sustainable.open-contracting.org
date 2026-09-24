@@ -45,7 +45,7 @@ There are certain environmental regulations which can serve to underpin the intr
 
 ## Look for existing sustainability standards
 
-When considering the implementation of SPP for procuring a construction project, it can be helpful to identify current sustainability standards. These will inform [what requirements you set for selecting suppliers.](/set-sustainability-criteria) For the construction sector, we have identified three key types of standards and accreditations:
+When considering the implementation of SPP for procuring a construction project, it can be helpful to identify current sustainability standards. These will inform [what requirements you set for selecting suppliers](/set-sustainability-criteria). For the construction sector, we have identified three key types of standards and accreditations:
 
 {% toggle **Company accreditations**  %}
 
@@ -58,7 +58,7 @@ These accreditations can help you identify environmentally preferable suppliers.
 
 {% toggle **Product accreditations** %}
 
-Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products-list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory.](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) 
+Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products-list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory](https://globalecolabelling.net/eco/eco-friendly-products-by-category/). 
 
 {% endtoggle %}
 

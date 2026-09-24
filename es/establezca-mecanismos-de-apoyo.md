@@ -110,7 +110,7 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 
 En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.
 
-Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y [una herramienta de criterios.](https://www.mvicriteria.nl/nl)
+Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y [una herramienta de criterios](https://www.mvicriteria.nl/nl).
 
 **para las que las autoridades públicas pueden identificar los requisitos ambientales eventuales para ser incluidos el en los procesos de licitación**. El centro de experticio además incluye información sobre las reuniones de intercambio de mejores prácticas entre los responsables de contratación.
 {% endcallout %}

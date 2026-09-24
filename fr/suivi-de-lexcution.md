@@ -66,7 +66,7 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.png %}
-Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](/la-construction-en-anglais) et des [**technologies de l’information et des communications**](/le-secteur-tic-en-anglais)**.**
+Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](/la-construction-en-anglais) et des [**technologies de l’information et des communications**](/le-secteur-tic-en-anglais).
 {% endcallout %}
 
 {% callout gray /assets/images/Icons_Grey4.png %}

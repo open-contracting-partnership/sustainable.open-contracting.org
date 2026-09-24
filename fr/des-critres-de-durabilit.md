@@ -100,17 +100,17 @@ Gardez à l’esprit que si votre environnement habilitant permet seulement d’
 Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normalement la qualité des offres des soumissionnaires et comparera leur coût. Alors que les spécifications techniques devraient inclure des critères de durabilité minimum, la prise en compte de critères de durabilité lors de la phase de l’attribution permet de favoriser les fournisseurs qui soumettent les offres les plus durables. Des critères de durabilité peuvent être pris en compte dans la pondération attribuée à la qualité, ou, en fonction de [l’environnement habilitant](/mise-en-place), il peut être possible d’allouer un pourcentage de la pondération aux critères de durabilité.
 
 {% callout red /assets/images/Idea_Red.png %}
-*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de* [*prendre en compte le coût du cycle de vie*](/le-cot-du-cycle-de-vie)*.*
+*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de* [*prendre en compte le coût du cycle de vie*](/le-cot-du-cycle-de-vie).
 {% endcallout %}
 
 {% endtoggle %}
 
-Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi,](/suivi-de-lexcution) et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
+Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi](/suivi-de-lexcution), et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Études de cas**  
 
-Les Pays-Bas ont mis en place un système appelé [« *CO2 Performance Ladder* »](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
+Les Pays-Bas ont mis en place un système appelé « [*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
 
 Les organisations peuvent obtenir un certificat correspondant à leur échelon qu’elles peuvent ensuite utiliser lors d’appels d’offres pour bénéficier d’un avantage en vue de l’attribution de marchés publics. Ainsi, une réduction peut être appliquée au prix proposé par les entreprises si ces dernières montrent et renforcent leurs efforts en faveur de la réduction des émissions de CO2.
 

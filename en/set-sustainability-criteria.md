@@ -50,7 +50,7 @@ To this effect, some public authorities decide to explicitly include reference t
 
 {% toggle **Step 2:** What does my enabling environment allow me to do? %}
 
-When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in [this section.](/establish-an-enabling-environment)
+When considering how to introduce sustainability criteria in a procurement process, it is essential to assess what your regulatory and policy framework allows you to do. Can award criteria include any weighting based on sustainability considerations? Can only price be considered? Does it depend on the value of the contract? See how to interpret the enabling environment in [this section](/establish-an-enabling-environment).
 
 {% endtoggle %}
 
@@ -104,7 +104,7 @@ As previously introduced, some enabling frameworks will only allow you to consid
 
 {% endtoggle %}
 
-Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored,](/monitor-implementation) and clearly [translate sustainability requirements into contract obligations.](/prepare-contract-obligations)
+Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored](/monitor-implementation), and clearly [translate sustainability requirements into contract obligations](/prepare-contract-obligations).
 
 {% callout gray /assets/images/Notion-others2.png %}
 **Case study**  

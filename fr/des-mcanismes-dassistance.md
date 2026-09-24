@@ -57,7 +57,7 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 
 - En fonction de votre domaine d’action prioritaire, les OSC peuvent vous orienter concernant les cibles les plus pertinentes ou la meilleure façon de concevoir le processus de passation de marchés, par exemple concernant l’achat de produits écologiques, la promotion des PME ou le renforcement de l’égalité entre les genres. Ainsi, les OSC peuvent aider à concevoir les politiques relatives aux marchés publics durables et à préparer et organiser des ateliers de renforcement des capacités à l’intention des services de passation de marchés.
 - Ces organisations peuvent également apporter des connaissances et analyses supplémentaires et ainsi aider à relier des données provenant de plusieurs disciplines pour produire de nouvelles connaissances. En Inde, le laboratoire de recherche CivicDataLab a conçu un modèle de données combinant trois jeux de données volumineux afin de suivre les investissements réalisés en faveur de l’assistance, de l’intervention d’urgence et de la préparation concernant les inondations dans le but d’évaluer dans quelle mesure ces investissements contribuent à la résilience climatique ou répondent aux besoins humanitaires les plus urgents. Ce laboratoire a exploité des données satellitaires et météorologiques pour évaluer l’exposition aux inondations d’une zone spécifique, des données socio-économiques pour comprendre le degré de vulnérabilité de la population résidant dans les zones à risque d’inondation et des données budgétaires concernant par exemple des marchés antérieurs pour analyser l’action des gouvernements à la suite d’inondations par le passé et les régions où des interventions urgentes seront nécessaires à l’avenir.
-- De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés.](/suivi-de-lexcution) Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
+- De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés](/suivi-de-lexcution). Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
 
 {% callout green /assets/images/icons_D_Green6.png %}
 D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles sur le [site d’Open Contracting Partnership](https://www.open-contracting.org/implement/#engage)
@@ -70,7 +70,7 @@ D’autres exemples et ressources traitant de l’interaction avec les parties p
 Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](/priorits), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](/guide-des-co-tiquettes) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](/des-critres-de-durabilit).
 
 {% callout green /assets/images/icons_D_Green6.png %}
-L’[outil](https://sftool.gov/greenprocurement) [« Green Procurement Compilation »](https://sftool.gov/greenprocurement) de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
+L’[outil](https://sftool.gov/greenprocurement) « [Green Procurement Compilation](https://sftool.gov/greenprocurement) » de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
 {% endcallout %}
 
 ## **Créer et diffuser des registres et catalogues axés sur la durabilité**
@@ -96,12 +96,10 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
 
-- [Administration des services généraux des États-Unis,](https://sftool.gov/greenprocurement) [*Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
-- [Département de contrôle de la pollution de la Thaïlande,](http://gp.pcd.go.th/cat-1-ssl) [*Panier vert*, 2020.](http://gp.pcd.go.th/cat-1-ssl)
-- [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html). [IHOBE,](https://www.ihobe.eus/criterios-ambientales) [*Criterios ambientales*, 2022](https://www.ihobe.eus/criterios-ambientales).
-- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
-- [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
-- [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
+- [Administration des services généraux des États-Unis, *Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
+- [Département de contrôle de la pollution de la Thaïlande, *Panier vert*, 2020.](http://gp.pcd.go.th/cat-1-ssl)
+- [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne.](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)
+- [IHOBE, *Criterios ambientales*, 2022.](https://www.ihobe.eus/criterios-ambientales)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

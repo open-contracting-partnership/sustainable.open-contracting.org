@@ -10,7 +10,7 @@ sidebar: true
 ---
 # **Seleccione el enfoque de contratación adecuado**
 
-El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta)*.* En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
+El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta). En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
 
 {% callout red /assets/images/Idea_Red.png %}
 Un enfoque de contratación que puede ser muy útil al comenzar a implementar prácticas sostenibles en la contratación pública es dividir los proyectos en **fases piloto y de escala.** Esto puede ser especialmente útil para probar suposiciones arriesgadas e inciertas. Durante la fase piloto, los datos se deben capturar claramente y se deben alimentar en la fase de escalera.
@@ -131,7 +131,7 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS*.* Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la selección de proveedores más sostenibles.
+A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS. Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la selección de proveedores más sostenibles.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
