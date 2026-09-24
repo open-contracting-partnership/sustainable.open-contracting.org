@@ -7,7 +7,7 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
 ---
 {% gallery medium %}
 - title: Introduction
-  link: /introduccion
+  link: /introduccin
   icon: /assets/images/Icons_Blue_Intro.png
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Plan
@@ -19,7 +19,7 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
   icon: /assets/images/Icons_Red.png
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: "Open data & measuring progress"
-  link: /use-cases
+  link: /datos-abiertos-y-progreso-de-medicin
   icon: /assets/images/Icons_Light_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
   cover_position: 6.48

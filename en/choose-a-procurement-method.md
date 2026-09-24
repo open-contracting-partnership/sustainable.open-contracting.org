@@ -130,7 +130,7 @@ There are different benefits of using joint procurement when implementing Open S
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-Throughout this toolkit, we have provided guidance on the use of[ frameworks](/establish-an-enabling-environment/framework-agreements)[ catalogs](/get-started/build-support-and-capacity), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
+Throughout this toolkit, we have provided guidance on the use of[ frameworks](/establish-an-enabling-environment/framework-agreements)[ catalogs](/build-support-and-capabilities), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}

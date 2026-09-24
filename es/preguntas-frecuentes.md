@@ -16,7 +16,7 @@ En esta sección, incluimos **preguntas clave que pueden surgir al considerar la
 
 El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
 
-En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [esta sección](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
+En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [esta sección](/qu-es).
 
 {% endtoggle %}
 
@@ -26,7 +26,7 @@ La contratación pública abierta y sostenible (CPS Abierta) se refiere a la apl
 
 Según [Open Contracting Partnership (OCP),](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
 
-En la [primera sección](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) de este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
+En la [primera sección](/qu-es) de este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
 
 {% endtoggle %}
 
@@ -37,7 +37,7 @@ Existe la creencia común de que, cuando el marco habilitante, es decir, las nor
 - **Cuando el marco habilitante solo permite que el precio se considere como criterio de evaluación,** hay tres enfoques principales que puede tomar: introducir criterios de sostenibilidad como requisitos esenciales, usar cálculos de [costos del ciclo de vida](https://sustainable.open-contracting.org/life-cycle-costing) y garantizar el cumplimiento de las regulaciones de sostenibilidad existentes.
 - **Cuando el marco habilitante deja espacio para considerar criterios de evaluación distintos al precio,** puede utilizar los planes y políticas de sostenibilidad existentes para guiar el diseño de los criterios de evaluación de la sostenibilidad.
 
-Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
+Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
 
 {% endtoggle %}
 

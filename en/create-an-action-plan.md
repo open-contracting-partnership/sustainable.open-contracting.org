@@ -138,7 +138,7 @@ Although countries start by selecting specific procurement categories to focus S
 
 {% toggle **Environmental criteria**  %}
 
-Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section.](/get-started/build-support-and-capacity)
+Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section.](/build-support-and-capabilities)
 
 {% endtoggle %}
 

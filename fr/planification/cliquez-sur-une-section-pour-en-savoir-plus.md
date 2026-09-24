@@ -7,7 +7,7 @@ notion_id: ffa8969118b14288b12ab4bb6cbcad61
 ---
 {% gallery medium %}
 - title: Mise en place
-  link: /establish-an-enabling-environment
+  link: /mise-en-place
   icon: /assets/images/icons_D_Green2.png
 - title: Priorités
   link: /priorits

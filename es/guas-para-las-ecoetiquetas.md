@@ -50,7 +50,7 @@ Las etiquetas ecológicas se pueden aplicar en diferentes etapas y de diferentes
 
 {% toggle **Utilice los estándares de la etiqueta ecológica como guía para redactar los requisitos ambientales.** %}
 
-La mayoría de las ecoetiquetas Tipo I y Tipo I publican abiertamente los estándares ambientales que un producto debe cumplir para ser certificado. Puede utilizar estos estándares como guía para redactar los requisitos ambientales al adquirir productos específicos. Por ejemplo, si está adquiriendo nuevas pantallas, puede utilizar [los estándares publicados por el TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) de la etiqueta ecológica para redactar las especificaciones del producto o los criterios de adjudicación. Para obtener más información sobre cómo establecer criterios de sostenibilidad, consulte [esta sección](https://sustainable.open-contracting.org/implement/set-sustainable-criteria) del conjunto de herramientas.
+La mayoría de las ecoetiquetas Tipo I y Tipo I publican abiertamente los estándares ambientales que un producto debe cumplir para ser certificado. Puede utilizar estos estándares como guía para redactar los requisitos ambientales al adquirir productos específicos. Por ejemplo, si está adquiriendo nuevas pantallas, puede utilizar [los estándares publicados por el TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) de la etiqueta ecológica para redactar las especificaciones del producto o los criterios de adjudicación. Para obtener más información sobre cómo establecer criterios de sostenibilidad, consulte [esta sección](/establezca-criterios-de-sostenibilidad) del conjunto de herramientas.
 
 {% endtoggle %}
 

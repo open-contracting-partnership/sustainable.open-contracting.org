@@ -113,7 +113,7 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 <br>Le Département étudiera les propositions concernant la location d’écrans dans le cadre d’un contrat de prestation de services. » \[traduction\]
 {% endcallout %}
 
-L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize) et s’il existe des [objectifs et cibles pertinents](https://sustainable.open-contracting.org/get-started/identify-your-goals) que vous devez prendre en compte durant le processus de passation des marchés publics. 
+L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](https://sustainable.open-contracting.org/engage-with-the-market). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize) et s’il existe des [objectifs et cibles pertinents](/suivi-et-valuation) que vous devez prendre en compte durant le processus de passation des marchés publics. 
 
 {% callout gray /assets/images/Notion-others.png %}
 **Ressources**

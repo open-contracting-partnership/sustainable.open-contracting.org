@@ -86,7 +86,7 @@ Pour en savoir plus, consultez la section relative au suivi et à l’évaluatio
 
 {% toggle **Plan de renforcement des capacités** %}
 
-Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](https://sustainable.open-contracting.org/get-started/build-support-and-capacity), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
+Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](/des-mcanismes-dassistance), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
 
 {% callout green /assets/images/Warn_green_2.png %}
 **Votre plan d’action doit inclure les mécanismes déjà en place et prévoir les activités qui seront mises en œuvre pour améliorer ces mécanismes.** 
@@ -148,7 +148,7 @@ Bien que des pays concentrent d’abord leurs efforts sur des catégories de mar
 
 {% toggle **Critères environnementaux**  %}
 
-La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
+La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](/des-mcanismes-dassistance) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
 
 {% endtoggle %}
 

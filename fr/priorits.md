@@ -84,7 +84,7 @@ L’incidence économique d’une catégorie de marchés dépendra largement de 
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-Afin d’évaluer l’incidence de ces catégories, **vous devez également réfléchir quant à leur pertinence du point de vue stratégique.** Cela signifie, par exemple, que si un pays ou une organisation décide que les marchés publics durables et ouverts ont pour [objectif](https://sustainable.open-contracting.org/get-started/identify-your-goals) de l’aider à atteindre zéro émission nette, les catégories de marchés susceptibles d’entraîner une réduction des émissions de CO2 si elles font l’objet de marchés publics durables et ouverts doivent être définies comme prioritaires. **La mise en place de marchés publics durables et ouverts dans les catégories ayant une plus grande importance stratégique peut recevoir davantage d’appui de la part des parties prenantes, ce qui peut produire de meilleurs résultats.**
+Afin d’évaluer l’incidence de ces catégories, **vous devez également réfléchir quant à leur pertinence du point de vue stratégique.** Cela signifie, par exemple, que si un pays ou une organisation décide que les marchés publics durables et ouverts ont pour [objectif](/suivi-et-valuation) de l’aider à atteindre zéro émission nette, les catégories de marchés susceptibles d’entraîner une réduction des émissions de CO2 si elles font l’objet de marchés publics durables et ouverts doivent être définies comme prioritaires. **La mise en place de marchés publics durables et ouverts dans les catégories ayant une plus grande importance stratégique peut recevoir davantage d’appui de la part des parties prenantes, ce qui peut produire de meilleurs résultats.**
 {% endcallout %}
 
 ## **Évaluer la facilité de mise en place** 
@@ -97,12 +97,12 @@ Les programmes de certification peuvent faciliter la mise en place de marchés p
 
 {% toggle **Disponibilité de normes de durabilité** %}
 
-La mise en place de marchés publics plus durables suppose de connaître les normes que des produits, services ou travaux doivent respecter pour être considérés comme durables. Cela guidera [les exigences que vous établirez](https://sustainable.open-contracting.org/implement/set-sustainable-criteria) pour comparer des offres durant le processus de passation de marchés. Les normes de durabilité existantes peuvent faciliter ce processus en faisant office de référence durant l’élaboration de vos exigences.
+La mise en place de marchés publics plus durables suppose de connaître les normes que des produits, services ou travaux doivent respecter pour être considérés comme durables. Cela guidera [les exigences que vous établirez](/des-critres-de-durabilit) pour comparer des offres durant le processus de passation de marchés. Les normes de durabilité existantes peuvent faciliter ce processus en faisant office de référence durant l’élaboration de vos exigences.
 
 - **Certifications environnementales, ou « éco-étiquettes », existantes.** 
   Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez [ce guide](https://sustainable.open-contracting.org/guide-to-ecolabels) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
 - **Critères élaborés par d’autres pays.** 
-  Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.<strong></strong>
+  Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](/mise-en-place) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.<strong></strong>
 
 {% endtoggle %}
 
@@ -128,7 +128,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 
 **Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité** 
 
-Les politiques et réglementations sur la durabilité en vigueur doivent être considérées comme des variables pour définir des catégories de marchés prioritaires et il est nécessaire de privilégier celles qui possèdent déjà un cadre propice à la mise en place de marchés publics durables. La législation a été examinée durant le processus d’analyse de [l’environnement habilitant](https://sustainable.open-contracting.org/get-started/establish-a-framework) et peut inclure, par exemple, des règlements sur la gestion des déchets toxiques ou des conventions fondamentales de l’Organisation internationale du Travail.
+Les politiques et réglementations sur la durabilité en vigueur doivent être considérées comme des variables pour définir des catégories de marchés prioritaires et il est nécessaire de privilégier celles qui possèdent déjà un cadre propice à la mise en place de marchés publics durables. La législation a été examinée durant le processus d’analyse de [l’environnement habilitant](/mise-en-place) et peut inclure, par exemple, des règlements sur la gestion des déchets toxiques ou des conventions fondamentales de l’Organisation internationale du Travail.
 
 ## **Diffusion et présentation de votre démarche et vos catégories de marchés prioritaires**
 
@@ -136,7 +136,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
  et devez rappeler ces raisons dans les contrats relevant des catégories de marchés prioritaires.
 
 {% callout green /assets/images/Warn_green_2.png %}
-**Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](https://sustainable.open-contracting.org/get-started/identify-your-goals) relatifs aux catégories prioritaires et de réexaminer vos priorités.
+**Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](https://sustainable.open-contracting.org/create-an-action-plan) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](/suivi-et-valuation) relatifs aux catégories prioritaires et de réexaminer vos priorités.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}

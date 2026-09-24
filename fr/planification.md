@@ -19,7 +19,7 @@ Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte ci
 {% database **Cliquez sur une section pour en savoir plus** %}
 {% gallery medium %}
 - title: Mise en place
-  link: /establish-an-enabling-environment
+  link: /mise-en-place
   icon: /assets/images/icons_D_Green2.png
 - title: Priorités
   link: /priorits

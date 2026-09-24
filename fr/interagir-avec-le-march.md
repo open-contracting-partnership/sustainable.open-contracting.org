@@ -39,7 +39,7 @@ Les méthodes d’interaction peuvent varier en fonction de l’état d’avance
 
 {% toggle **Interagir durant l’élaboration de votre plan d’action sur les marchés publics durables** %}
 
-Il est possible d’interagir avec les acteurs du marché à chaque étape de la conception de votre premier plan d’action sur les marchés publics durables et ouverts. Par exemple, l’interaction est essentielle pour collecter les données nécessaires à [la définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize) ainsi que pour définir [des critères de durabilité normalisés](https://sustainable.open-contracting.org/get-started/build-support-and-capacity). Les méthodes d’interaction avec les acteurs du marché durant ce processus peuvent prendre plusieurs formes telles que :
+Il est possible d’interagir avec les acteurs du marché à chaque étape de la conception de votre premier plan d’action sur les marchés publics durables et ouverts. Par exemple, l’interaction est essentielle pour collecter les données nécessaires à [la définition des catégories de marchés prioritaires](https://sustainable.open-contracting.org/prioritize) ainsi que pour définir [des critères de durabilité normalisés](/des-mcanismes-dassistance). Les méthodes d’interaction avec les acteurs du marché durant ce processus peuvent prendre plusieurs formes telles que :
 
 - Des ateliers avec les fournisseurs pour présenter des objectifs de durabilité et collecter les données nécessaires à l’évaluation des capacités du marché ;
 - Des consultations en ligne pour permettre aux fournisseurs de donner leur avis sur les décisions stratégiques relatives aux marchés publics durables et ouverts ou le choix des catégories de marchés prioritaires ;
@@ -65,7 +65,7 @@ Les interactions avec les acteurs du marché durant la phase de planification d�
 {% callout red /assets/images/Idea_Red.png %}
 Afin d’interagir avec les acteurs du marché durant la phase de planification, vous pouvez organiser des événements avec les fournisseurs visant à présenter vos objectifs en matière de durabilité. On parle parfois de journées consacrées aux questions environnementales, sociales et de gouvernance (ESG), qui sont l’occasion de discuter de la façon dont les fournisseurs peuvent répondre aux priorités en matière de durabilité. Les renseignements collectés lors de ces événements guident ensuite les processus de passation de marchés.
 
-Notez que le travail du secteur privé en matière de durabilité est souvent divisé entre les trois domaines ESG au lieu de mettre l’accent sur les [trois piliers du développement durable](https://sustainable.open-contracting.org/what-is-spp-and-open-spp) (économie, société et environnement).
+Notez que le travail du secteur privé en matière de durabilité est souvent divisé entre les trois domaines ESG au lieu de mettre l’accent sur les [trois piliers du développement durable](/definition) (économie, société et environnement).
 {% endcallout %}
 
 {% endtoggle %}

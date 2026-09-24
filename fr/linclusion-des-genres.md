@@ -179,7 +179,7 @@ D’autres politiques de recrutement axées sur l’égalité femmes-hommes peuv
 
 Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans
 
-[cette section](https://sustainable.open-contracting.org/use-cases/gender-equality)
+[cette section](/possibilits-dutilisation-des-donnes)
 
 et des conseils pratiques
 
@@ -205,7 +205,7 @@ Suppliers can include in their tender submission what actions they take to promo
 
 À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](https://sustainable.open-contracting.org/get-started/identify-your-goals/goals-outcomes-and-indicators-gois) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 
-Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans [cette section](https://sustainable.open-contracting.org/use-cases/gender-equality) et des conseils pratiques
+Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans [cette section](/possibilits-dutilisation-des-donnes) et des conseils pratiques
 
 ← Scroll to see more                                                                                                                                                           Scroll to see more →
 

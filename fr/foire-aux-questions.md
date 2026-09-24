@@ -18,7 +18,7 @@ sidebar: true
 
 Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » [traduction].
 
-En d’autres mots, les marchés publics durables désignent la prise en compte des trois piliers du développement durable (économique, social et environnemental) dans le cadre de la commande publique. Cela peut supposer, par exemple, de concevoir une procédure de passation de marchés visant à favoriser les entreprises locales (économique), assurer que les fournisseurs veillent au respect des droits du travail dans leur chaîne d’approvisionnement (social) ou acquérir des produits fabriqués à partir de matériaux recyclés (environnemental). Pour une vue d’ensemble d’autres facteurs pouvant être pris en considération concernant chaque pilier, consultez [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp).
+En d’autres mots, les marchés publics durables désignent la prise en compte des trois piliers du développement durable (économique, social et environnemental) dans le cadre de la commande publique. Cela peut supposer, par exemple, de concevoir une procédure de passation de marchés visant à favoriser les entreprises locales (économique), assurer que les fournisseurs veillent au respect des droits du travail dans leur chaîne d’approvisionnement (social) ou acquérir des produits fabriqués à partir de matériaux recyclés (environnemental). Pour une vue d’ensemble d’autres facteurs pouvant être pris en considération concernant chaque pilier, consultez [cette section](/definition).
 
 {% endtoggle %}
 
@@ -28,7 +28,7 @@ Les marchés publics durables et ouverts désignent l’adoption de pratiques re
 
 Selon [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf), la commande publique ouverte suppose la publication et l’exploitation de données ouvertes, faciles d’accès et à jour concernant la commande publique afin de faire participer la population et les entreprises dans le repérage et la résolution de problèmes. La commande publique ouverte englobe la transparence et la participation des parties prenantes tout au long du processus de passation de marchés, de la planification à l’exécution.
 
-Dans [cette section](https://sustainable.open-contracting.org/what-is-spp-and-open-spp), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
+Dans [cette section](/definition), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
 
 {% endtoggle %}
 
@@ -39,7 +39,7 @@ Il existe une croyance répandue selon laquelle, lorsque l’environnement habil
 - Lorsque l’environnement habilitant permet seulement de prendre en compte le prix parmi les critères d’évaluation, trois grandes approches sont possibles : intégrer des critères de durabilité aux exigences essentielles des marchés ; prendre en compte le [coût du cycle de vie](https://sustainable.open-contracting.org/life-cycle-costing) ; et assurer le respect de la réglementation en vigueur en matière de durabilité.
 - Lorsque l’environnement habilitant permet de prendre en compte d’autres éléments que le prix parmi les critères d’évaluation, vous pouvez utiliser les plans et politiques de durabilité en vigueur pour guider la conception de critères d’évaluation de la durabilité.
 
-Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](https://sustainable.open-contracting.org/get-started/establish-a-framework/quick-checklist-evaluate-your-enabling-framework) pour évaluer rapidement votre environnement habilitant et consulter [cette section](https://sustainable.open-contracting.org/get-started/establish-a-framework) pour approfondir les concepts de la liste.
+Une fois que vous avez analysé la réglementation relative aux critères d’évaluation, nous conseillons de recenser les autres mécanismes de réglementation en vigueur, comme les seuils ou objectifs applicables aux marchés publics, qui peuvent faciliter l’adoption de pratiques durables de passation de marchés. Vous pouvez utiliser [cette liste de vérification](/mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant) pour évaluer rapidement votre environnement habilitant et consulter [cette section](/mise-en-place) pour approfondir les concepts de la liste.
 
 {% endtoggle %}
 
@@ -65,7 +65,7 @@ Les administrations nationales, locales ou régionales peuvent faciliter la mise
 - Interagir avec les parties prenantes. Cela suppose d’organiser des ateliers de renforcement des capacités avec les membres de services de passation de marchés, d’interagir avec les fournisseurs pour les faire participer aux processus des marchés publics durables et de consulter des organisations de la société civile sur les meilleures approches en matière de durabilité ;
 - Créer un service d’assistance et un centre d’information. Il est important de fournir aux services de passation de marchés un moyen simple d’obtenir des orientations sur les pratiques relatives aux marchés publics durables, notamment sur la réglementation en vigueur, les critères normalisés et des exemples de bonnes pratiques. Il peut également être utile de mettre en place un service d’assistance afin de répondre aux questions concernant la mise en place de marchés publics durables.
 
-Consultez [cette section](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) pour en savoir plus. 
+Consultez [cette section](/des-mcanismes-dassistance) pour en savoir plus. 
 
 {% endtoggle %}
 

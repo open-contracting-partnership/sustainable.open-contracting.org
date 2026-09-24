@@ -40,11 +40,11 @@ sidebar: true
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
 - title: Mise en place
-  link: /implement
+  link: /mise-en-place-1
   icon: /assets/images/Icons_Red.png
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: Données ouvertes et évaluation
-  link: /use-cases
+  link: /donnes-ouvertes-et-valuation-des-progrs
   icon: /assets/images/Icons_Light_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
   cover_position: 6.48

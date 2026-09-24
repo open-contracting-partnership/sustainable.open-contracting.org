@@ -124,7 +124,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endtoggle %}
 
 {% callout red /assets/images/Pin_Red.png %}
-**Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements)[ catalogues](https://sustainable.open-contracting.org/get-started/build-support-and-capacity) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
+**Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements)[ catalogues](/des-mcanismes-dassistance) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.png %}
