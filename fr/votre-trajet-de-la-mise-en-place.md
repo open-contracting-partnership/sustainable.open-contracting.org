@@ -14,8 +14,8 @@ notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
   link: /planification
   icon: /assets/images/icons_D_Green.png
   cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
-- title: Mise en place
-  link: /mise-en-place-1
+- title: Mise en œuvre
+  link: /mise-en-oeuvre
   icon: /assets/images/Icons_Red.png
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: Données ouvertes et évaluation

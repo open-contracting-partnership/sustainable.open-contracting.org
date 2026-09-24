@@ -1,6 +1,6 @@
 ---
-permalink: /mise-en-place-1
-title: Mise en place
+permalink: /mise-en-oeuvre
+title: Mise en œuvre
 description: "Dans cette deuxième partie, nous mettons à votre disposition toutes les informations dont vous aurez besoin pour intégrer la durabilité au cœur du processus de passation de marchés. Comme vous pouvez le constater dans le diagramme ci-dessous, chacune des six sections répond à une question essentielle concernant la durabilité au sein du cycle de vie d’un marché public."
 cover: /assets/images/PUBLIC_SPP_background.jpg
 icon: /assets/images/Notion-Imp_2.png

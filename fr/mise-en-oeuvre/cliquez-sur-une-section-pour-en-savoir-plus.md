@@ -1,5 +1,5 @@
 ---
-permalink: /mise-en-place-1/cliquez-sur-une-section-pour-en-savoir-plus
+permalink: /mise-en-oeuvre/cliquez-sur-une-section-pour-en-savoir-plus
 title: Cliquez sur une section pour en savoir plus.
 full_width: true
 collection: true
