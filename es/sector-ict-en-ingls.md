@@ -12,7 +12,7 @@ sidebar: true
 
 La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas.
 
-La extracción y disposición de minerales utilizados en el sector de las TIC están asociadas con la toxicidad de los materiales y el agotamiento de los recursos. Se estima que, aunque los residuos electrónicos generados en el sector de las TIC representan solo el 2 % de los flujos de residuos sólidos, ellos representan el 70 %<strong> </strong>de los residuos peligrosos que terminan en vertederos.
+La extracción y disposición de minerales utilizados en el sector de las TIC están asociadas con la [toxicidad de los materiales y el agotamiento de los recursos](https://www.ericsson.com/48d8c2/assets/local/reports-papers/research-papers/research-brief-material-footprints-ict-entertainment-media.pdf). Se estima que, aunque los residuos electrónicos generados en el sector de las TIC representan solo el 2 % de los flujos de residuos sólidos, ellos representan el 70 %<strong> </strong>de los residuos peligrosos que terminan en vertederos.
 
 Los impactos ambientales asociados con el sector de las TIC también tienen un fuerte impacto en los pilares económico y social de la sostenibilidad. La toxicidad de los materiales, por ejemplo, puede tener impactos negativos en la salud de los trabajadores a lo largo de la cadena de suministro, principalmente aquellos involucrados en la minería, la fundición, la fabricación y el manejo de desechos electrónicos. Debido a la falta de transparencia en la cadena de suministro de las TIC, es difícil monitorear estas actividades, que a menudo también están asociadas con violaciones de los derechos laborales.
 

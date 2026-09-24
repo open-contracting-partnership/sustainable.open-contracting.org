@@ -52,7 +52,7 @@ Click through to learn more about these three environments:
 {% endtoggle %}
 
 {% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
-Tal como explicamos en la introducción de este conjunto de herramientas, los datos abiertos de alta calidad son cruciales para impulsar y medir el progreso al implementar SPP. Para abordar las bases de datos clave, recomendamos consultar nuestra guía Banderas Verdes (*Green Flags)* y el Open Contracting Playbook.
+Tal como explicamos en la introducción de este conjunto de herramientas, los datos abiertos de alta calidad son cruciales para impulsar y medir el progreso al implementar SPP. Para abordar las bases de datos clave, recomendamos consultar nuestra [guía Banderas Verdes (*Green Flags*)](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) y el [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).
 {% endcallout %}
 
 {% database **Haga clic aquí para más información** %}

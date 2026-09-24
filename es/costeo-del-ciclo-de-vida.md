@@ -26,7 +26,7 @@ El costeo del ciclo de vida tiene un papel que desempeñar para asegurar el valo
 
 Hoy en día, los gobiernos pueden obtener información más fácilmente sobre el costo total de los activos a lo largo del tiempo. Esto, a su vez, permite a los compradores comprar no solo un artículo, sino también un servicio que respalda el uso de un artículo. Por ejemplo, un proyecto de construcción podría incluir la construcción y gestión del activo.
 
-El uso de buenas contrataciones y su combinación con datos de gastos puede brindar a los compradores una visión aún mayor del costo del ciclo de vida completo de sus activos. El Estándar de Datos de Contrataciones Abiertas puede ayudar a impulsar dicho análisis al vincular las diversas etapas del proceso de contratación.
+El uso de buenas contrataciones y su combinación con datos de gastos puede brindar a los compradores una visión aún mayor del costo del ciclo de vida completo de sus activos. El [Estándar de Datos de Contrataciones Abiertas](https://standard.open-contracting.org/latest/es/) puede ayudar a impulsar dicho análisis al vincular las diversas etapas del proceso de contratación.
 
 ## **Beneficios**
 

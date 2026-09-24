@@ -20,7 +20,7 @@ Las opciones presentadas en esta sección se pueden utilizar para recopilar dato
 
 ### **Opción 1: Asigne etiquetas a la contratación**
 
-A medida que presentamos en nuestra guía Banderas Ecológicas, una de las formas clave en las que puede utilizar los datos para medir los esfuerzos de CPS es etiquetando todos los procesos de adquisición que se clasifican como CPS. En el nivel más simple, esto se puede lograr a través de una etiqueta para adquisiciones que señale CPS. Esto se puede ampliar, por ejemplo, con etiquetas específicas para contratos de carbono, de propiedad de mujeres o de pymes. Esto también se puede aplicar retrospectivamente a través del análisis de aprendizaje automático de los documentos de especificación.
+A medida que presentamos en nuestra [guía Banderas Ecológicas](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP2021-Green-Flags_-How-open-data-can-throw-light-on-sustainable-procurement-.pdf), una de las formas clave en las que puede utilizar los datos para medir los esfuerzos de CPS es etiquetando todos los procesos de adquisición que se clasifican como CPS. En el nivel más simple, esto se puede lograr a través de una etiqueta para adquisiciones que señale CPS. Esto se puede ampliar, por ejemplo, con etiquetas específicas para contratos de carbono, de propiedad de mujeres o de pymes. Esto también se puede aplicar retrospectivamente a través del análisis de aprendizaje automático de los documentos de especificación.
 
 Hacer esto requerirá establecer una definición clara de qué contratos caen dentro de cada una de estas categorías. Por ejemplo, si ha creado especificaciones estándar de sostenibilidad para la adquisición de papel, puede establecer que todos los contratos que incluyan estas especificaciones deben etiquetarse como "CPS".
 
@@ -34,14 +34,14 @@ Hacer esto requerirá establecer una definición clara de qué contratos caen de
 
 ### **Opción 2: Impulse el rendimiento de las políticas a través de alertas y notificaciones**
 
-A través del análisis manual o programático de los datos, las autoridades contratantes pueden crear y utilizar alertas para fomentar la adopción de iniciativas y el desempeño de CPS. El análisis se puede compilar en tableros para mostrar datos sobre sectores, compradores, proveedores y categorías, incluidas las 10 clasificaciones superiores e inferiores, como en este ejemplo de Lituania.
+A través del análisis manual o programático de los datos, las autoridades contratantes pueden crear y utilizar alertas para fomentar la adopción de iniciativas y el desempeño de CPS. El análisis se puede compilar en tableros para mostrar datos sobre sectores, compradores, proveedores y categorías, incluidas las 10 clasificaciones superiores e inferiores, como en [este ejemplo de Lituania](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/).
 
 **Opciones de uso de datos según su capacidad:**
 
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **Sin código** | {yellow} **Código bajo** | {green} **Código** |
 |---|---|---|---|
-| **Opción 2: Impulse el rendimiento de las políticas a través de alertas** | {orange} Analice manualmente la contratación CPS identificada en la Opción 1 y comuníquese con los compradores y pregúnteles por qué no han cumplido. | {yellow} Utilice las herramientas de análisis para identificar la contratación CPS y comuníquese con los compradores, tales como el Panel de Contratación Verde del gobierno lituano.<br><br>Ver también caso de estudio. | {green} Utilice el aprendizaje automático para ingerir y analizar automáticamente los datos y las especificaciones de contrataciones en función de los parámetros (si una organización está dentro del alcance, si un aviso está duplicado) y para enviar alertas de recordatorio a los compradores que se desempeñan menos. |
+| **Opción 2: Impulse el rendimiento de las políticas a través de alertas** | {orange} Analice manualmente la contratación CPS identificada en la Opción 1 y comuníquese con los compradores y pregúnteles por qué no han cumplido. | {yellow} Utilice las herramientas de análisis para identificar la contratación CPS y comuníquese con los compradores, tales como el [Panel de Contratación Verde del gobierno lituano](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/).<br><br>Ver también caso de estudio. | {green} Utilice el aprendizaje automático para ingerir y analizar automáticamente los datos y las especificaciones de contrataciones en función de los parámetros (si una organización está dentro del alcance, si un aviso está duplicado) y para enviar alertas de recordatorio a los compradores que se desempeñan menos. |
 {% endtable %}
 
 ### **Opción 3: Analice los contratos adjudicados**

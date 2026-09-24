@@ -13,7 +13,7 @@ sidebar: true
 En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). [Este marco](/monitoreo-y-evaluacin/ejemplo-de-marco-me) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
 
 {% callout green /assets/images/icons_D_Green8.png %}
-Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una plantilla editable del marco muestra (LINK 45)\] en la sección de recursos descargables. 
+Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una [plantilla editable del marco muestra](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) en la sección de recursos descargables. 
 {% endcallout %}
 
 ## **¿Qué son las Metas, Resultados e Indicadores?**
@@ -88,9 +88,9 @@ El desarrollo de metas, resultados e indicadores exige un entendimiento integral
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso** 
 
-**En 2005 el Ministerio de Entorno de la** República de Corea<strong> </strong>(LINK 58) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
+**En 2005 el Ministerio de Entorno de la** [República de Corea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
 
-**Se crearon dos indicadores clave para hacer monitoreo: el número de entidades públicas que presentan un plan de CPS y un informe de logros; y la adquisición de productos verdes (específicamente las unidades y el gasto registrado para la compra de productos eco etiquetadas, y la proporción de ellas entre el gasto total.** La compra de productos verdes está ligada los certificados por la eco etiqueta coreana (LINK 59) y esta medida para hacer monitoreo de los avances logrados con referencia al objetivo de minimizar las emisiones de CO2.
+**Se crearon dos indicadores clave para hacer monitoreo: el número de entidades públicas que presentan un plan de CPS y un informe de logros; y la adquisición de productos verdes (específicamente las unidades y el gasto registrado para la compra de productos eco etiquetadas, y la proporción de ellas entre el gasto total.** La compra de productos verdes está ligada los certificados por la [eco etiqueta coreana](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp) y esta medida para hacer monitoreo de los avances logrados con referencia al objetivo de minimizar las emisiones de CO2.
 
 El Instituto Coreano de Industria y Tecnología Ambientales (KEITI) ha sido designado no como autoridad responsable de la gestión del sistema de información y monitoreo.
 

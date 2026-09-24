@@ -81,7 +81,7 @@ Estimar los valores de carbono para los contratos es una buena manera de proyect
 
 ### **Monitoree el desempeño del contrato (Opción 7)**
 
-Los compradores públicos pueden proporcionar información sobre las emisiones de carbono durante o al finalizar un contrato. Varias industrias, como la de viajes y la de la construcción, tienen medidas estandarizadas para sus emisiones y estas pueden incluirse en cualquier actualización de desempeño del contrato. Dado que se está trabajando para crear un tratado vinculante sobre desechos plásticos, estos enfoques también se pueden tomar para medir el uso de plástico, especialmente en sectores que están sesgados hacia un uso intensivo, como la construcción y los medicamentos/equipos médicos.
+Los compradores públicos pueden proporcionar información sobre las emisiones de carbono durante o al finalizar un contrato. Varias industrias, como la de viajes y la de la construcción, tienen medidas estandarizadas para sus emisiones y estas pueden incluirse en cualquier actualización de desempeño del contrato. Dado que se está trabajando para crear un [tratado vinculante](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sobre desechos plásticos, estos enfoques también se pueden tomar para medir el uso de plástico, especialmente en sectores que están sesgados hacia un uso intensivo, como la construcción y los medicamentos/equipos médicos.
 
 ### **Mida el uso de certificaciones (Opción 6)**
 

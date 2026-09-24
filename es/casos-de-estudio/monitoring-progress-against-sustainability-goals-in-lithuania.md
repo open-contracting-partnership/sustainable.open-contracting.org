@@ -25,5 +25,5 @@ Understanding the challenges authorities face in pivoting to GPP is an important
 
 - **Public reporting: GPP scoreboard**
 
-In May, 2021, the Public Procurement Office (PPO) launched a procurement scoreboard for public authorities, capturing all 30 product groups and including procurement information. The PPO collects data on technical specifications, award criteria, and clauses. Using digital forms to capture structured machine-readable data before and after the procurement process, they ask buyers (on a central e-procurement system) if GPP criteria were applied. If yes, procurers submit declaration reports on green criteria used, and this data is added to the scoreboard.
+In May, 2021, the Public Procurement Office (PPO) launched a [procurement scoreboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/) for public authorities, capturing all 30 product groups and including procurement information. The PPO collects data on technical specifications, award criteria, and clauses. Using digital forms to capture structured machine-readable data before and after the procurement process, they ask buyers (on a central e-procurement system) if GPP criteria were applied. If yes, procurers submit declaration reports on green criteria used, and this data is added to the scoreboard.
 {% endcallout %}

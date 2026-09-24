@@ -48,7 +48,7 @@ Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’
 
 - **Veiller au respect de la réglementation en vigueur en matière de durabilité**
 
-Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de l’Organisation internationale du Travail.
+Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de [l’Organisation internationale du Travail](https://www.ilo.org/fr/normes-internationales-du-travail/conventions-protocoles-et-recommandations).
 
 {% endtoggle %}
 

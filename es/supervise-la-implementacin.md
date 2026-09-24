@@ -79,7 +79,7 @@ Para obtener más ejemplos de cómo monitorear la implementación en contratos d
 {% callout gray /assets/images/Icons_Grey4.png %}
 **Estudio de caso**
 
-**Con el establecimiento del sistema de contrataciones electrónicas ProZorro en Ucrania en 2016,** ***Transparency International*** **Ucrania estableció una red de monitores de adquisiciones de la sociedad civil, llamada DoZorro**. En tres años, esto había aumentado a dos docenas de organizaciones, y más de 2 millones de personas habían visitado el sitio web.
+**Con el establecimiento del sistema de contrataciones electrónicas ProZorro en Ucrania en 2016,** ***Transparency International*** **Ucrania estableció una red de monitores de adquisiciones de la sociedad civil, llamada [DoZorro](https://www.open-contracting.org/es/2020/10/20/como-se-crea-una-red-ciudadana-para-combatir-la-corrupcion-preguntale-a-un-equipo-revolucionario-en-ucrania/)**. En tres años, esto había aumentado a dos docenas de organizaciones, y más de 2 millones de personas habían visitado el sitio web.
 
 Además, en ese período de tiempo, la comunidad de DoZorro descubrió infracciones en más de 30 000 licitaciones con un valor estimado de $4 mil millones. **Más de 100 000 personas utilizan cada mes su sistema de seguimiento de contraciones y se han corregido infracciones en el 14 % de los casos.**
 

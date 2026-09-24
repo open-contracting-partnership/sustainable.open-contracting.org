@@ -271,7 +271,7 @@ Análisis de bandera roja.</p>
 
 Los identificadores le permiten a usted vincular datos de diferentes sistemas. Un elemento central del Estándar de datos de contrataciones abiertas es una identificación única y no patentada para cada contrato público que permite realizar un seguimiento a lo largo de su ciclo de vida comercial.
 
-El [Estándar de Datos para las Contrataciones Abiertas](http://standard.open-contracting.org)<strong> </strong>brinda orientación sobre los identificadores que se pueden usar para ayudarlo a unirse y hacer referencia cruzada de datos de contratación.
+El [Estándar de Datos para las Contrataciones Abiertas](https://standard.open-contracting.org/latest/es/schema/identifiers/)<strong> </strong>brinda orientación sobre los identificadores que se pueden usar para ayudarlo a unirse y hacer referencia cruzada de datos de contratación.
 
 {% image /assets/images/OCDS_model.png 2179 1000 align-start %}
 

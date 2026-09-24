@@ -25,7 +25,7 @@ Los gobiernos gastan la asombrosa cantidad de US$ 13 billones por año en contra
 A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres luchan por prosperar en los mercados de contratación pública. Trabajamos con *Value for Women* para investigar las barreras que enfrentan las empresas dirigidas por mujeres en la contratación pública y las prácticas emergentes para la equidad y la inclusión de socios que implementan reformas de contratación abierta en América Latina, con ejemplos de Chile, República Dominicana y Buenos Aires, Argentina.
 
 {% callout yellow /assets/images/Icons_Light_Green6.png %}
-Usted podrá leer el informe completo, una versión de información o un blog de resumen**.** Luego trabajamos con ONU Mujeres para elaborar una nota de política que incluye más ejemplos y recomendaciones de todo el mundo.
+Usted podrá leer el [informe completo](https://www.open-contracting.org/es/resources/promover-el-equilibrio-de-genero-en-las-adquisiciones-publicas/), una [versión de información](https://www.open-contracting.org/es/resources/empresas-lideradas-por-mujeres-contratacion-publica/) o un [blog de resumen](https://www.open-contracting.org/es/2020/07/21/perforar-el-techo-de-cristal-para-las-empresas-lideradas-por-mujeres-imparcialidad-e-inclusion-a-traves-de-las-contrataciones-abiertas/)**.** Luego trabajamos con ONU Mujeres para elaborar una [nota de política](https://www.open-contracting.org/resources/empowering-women/) que incluye más ejemplos y recomendaciones de todo el mundo.
 {% endcallout %}
 
 ## **Beneficios**
@@ -61,7 +61,7 @@ Al comienzo de esta sección, presentamos diez formas diferentes en las que pued
 
 - **Registre los datos del proveedor en la presentación de la oferta (Opción 8)**
 
-  OCDS recomienda<strong> </strong>publicar la información sobre si una organización está dirigida por mujeres con la extensión de clasificación de organizaciones.<strong> </strong>Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
+  OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/)<strong> </strong>publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/).<strong> </strong>Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
 
 {% indent %}
 
@@ -114,7 +114,7 @@ A través de los conocimientos obtenidos de los datos, los compradores pueden us
   Esto es particularmente importante para los grupos de mujeres que pueden tener menos acceso a la información y las redes formales, como las que viven en zonas rurales o las que pertenecen a un grupo subrepresentado.
 - **Desarrolle estrategias de orientación y gestión de cambios para que los compradores reduzcan el sesgo en el proceso de evaluación.**
 
-  Desafortunadamente, el sesgo y la discriminación aún pueden afectar el proceso de evaluación (ya sea consciente o inconsciente). Crear orientación y capacitación para compradores públicos puede ayudar. Vea este ejemplo de Colombia.
+  Desafortunadamente, el sesgo y la discriminación aún pueden afectar el proceso de evaluación (ya sea consciente o inconsciente). Crear orientación y capacitación para compradores públicos puede ayudar. [Vea este ejemplo de Colombia](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit).
 - **Simplifique los procesos de contratación y desarrolle la capacidad para navegar el proceso.**
 
   Simplificar los procedimientos de solicitud y los requisitos de licitación agilizando y estandarizando la documentación de licitación y los procedimientos de precalificación, priorizando solo aquellos que son esenciales para el trabajo. Reduzca el tamaño de los contratos en partes manejables para que las pequeñas empresas las entreguen. Capacite a las empresas dirigidas por mujeres en el proceso y ofrezca un servicio de asistencia para ayudarlas.
@@ -125,4 +125,4 @@ A través de los conocimientos obtenidos de los datos, los compradores pueden us
 
   Ver es creer. Si las empresas dirigidas por mujeres pueden ver que las pequeñas empresas como la suya están haciendo ofertas y ganando contratos, ello les dará más confianza en que hay igualdad de condiciones y serán tratadas de manera justa.
 
-Puede leer más sobre medidas políticas para mejorar la inclusión de género y estudios de casos de todo el mundo en esta nota de política de ONU Mujeres y OCP.
+Puede leer más sobre medidas políticas para mejorar la inclusión de género y estudios de casos de todo el mundo en [esta nota de política de ONU Mujeres y OCP](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf).
