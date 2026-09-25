@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version-file: .node-version
-      - uses: astral-sh/setup-uv@v10
+      - uses: astral-sh/setup-uv@v10.2.0
       - run: uvx pre-commit run --all-files --show-diff-on-failure
       - run: python3 scripts/check_redirects.py
       - run: for lang in en es fr; do scripts/build.sh "$lang"; done
