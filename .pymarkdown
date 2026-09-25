@@ -15,11 +15,10 @@
     md009: { br_spaces: 0 },
     // <br> is an empty line in Notion's text. <strong> and <div> remain until #14.
     md033: { allowed_elements: "br,strong,div" },
-    // Awaiting decisions in #15.
+    // Headings are at Notion's levels: the title and "#" headings are <h1>, and some levels are skipped (see #17).
     md001: { enabled: false },
-    md024: { enabled: false },
     md025: { enabled: false },
+    // Awaiting a decision in #15.
     md049: { enabled: false },
-    md059: { enabled: false },
   },
 }
