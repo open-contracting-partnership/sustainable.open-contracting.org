@@ -69,7 +69,7 @@ La estructura presentada en la tabla anterior se puede utilizar dentro de su org
 
 El desarrollo de metas, resultados e indicadores exige un entendimiento integral de lo que usted está tratando de lograr, y la manera de hacerlo. Nuestro ejemplo de Marco M&E le ayudará a pensar cómo se pueden fijar y hacer monitoreo de metas, resultados e indicadores prácticos específicos y medibles
 
-{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+{% callout yellow /assets/images/Icons_yellow3-1.png %}
 <strong>Láncese a profundidad en estos cinco ejemplos específicos para CPS:
 </strong>
 

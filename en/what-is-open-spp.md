@@ -12,7 +12,7 @@ sidebar: true
 
 Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: **economic**, **social**, and **environmental** benefits.
 
-{% image /assets/images/D1_-_What_is_SPP-Tri_%283%29.jpg 1920 1080 align-start %}
+{% image /assets/images/D1_-_What_is_SPP-Tri-3.jpg 1920 1080 align-start %}
 
 [We heard from users](/what-our-users-told-us) that, often, assessing and delivering better environmental impacts is the most challenging of these three objectives. So whilst we are keeping the wider ‘sustainable procurement’ framing, this guide will focus on approaches to improve environmental sustainability (also known as “green procurement”) without compromising goals related to economic or social sustainability.
 

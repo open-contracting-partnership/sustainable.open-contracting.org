@@ -18,7 +18,6 @@
     // Headings are at Notion's levels: the title and "#" headings are <h1>, and some levels are skipped (see #17).
     md001: { enabled: false },
     md025: { enabled: false },
-    // Awaiting a decision in #15.
-    md049: { enabled: false },
+    md049: { style: "asterisk" },
   },
 }

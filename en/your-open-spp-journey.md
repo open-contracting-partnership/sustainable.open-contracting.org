@@ -14,7 +14,7 @@ notion_id: d2744c10971b4e42bea4a89e7b644750
 - title: Plan
   link: /plan
   icon: /assets/images/icons_D_Green.png
-  cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
+  cover: "/assets/images/PUBLIC_SPP_covers2-1.png"
 - title: Implement
   link: /implement
   icon: /assets/images/Icons_Red.png
@@ -22,7 +22,7 @@ notion_id: d2744c10971b4e42bea4a89e7b644750
 - title: "Open data & measuring progress"
   link: /open-data-measuring-progress
   icon: /assets/images/Icons_Light_Green.png
-  cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
+  cover: "/assets/images/PUBLIC_SPP_covers4-1.png"
   cover_position: 6.48
 - title: Sector guidance
   link: /sector-guidance

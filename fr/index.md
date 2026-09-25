@@ -39,7 +39,7 @@ sidebar: true
 - title: Planification
   link: /planification
   icon: /assets/images/icons_D_Green.png
-  cover: "/assets/images/PUBLIC_SPP_covers2_%281%29.png"
+  cover: "/assets/images/PUBLIC_SPP_covers2-1.png"
 - title: Mise en œuvre
   link: /mise-en-oeuvre
   icon: /assets/images/Icons_Red.png
@@ -47,7 +47,7 @@ sidebar: true
 - title: Données ouvertes et évaluation
   link: /donnes-ouvertes-et-valuation-des-progrs
   icon: /assets/images/Icons_Light_Green.png
-  cover: "/assets/images/PUBLIC_SPP_covers4_%281%29.png"
+  cover: "/assets/images/PUBLIC_SPP_covers4-1.png"
   cover_position: 6.48
 - title: Orientations sectorielles
   link: /orientations-sectorielles

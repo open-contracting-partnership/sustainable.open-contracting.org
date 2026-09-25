@@ -53,7 +53,7 @@ Si une administration choisit le résultat « Réduction du niveau d’émission
 
 Le [modèle de cadre de suivi et d’évaluation](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) fournit des orientations sur les informations nécessaires pour évaluer chaque indicateur, une méthode de calcul et des possibilités pour collecter les données requises. Voici un extrait de ce cadre.
 
-{% image /assets/images/GOIS_%282%29.png 1370 566 align-start %}
+{% image /assets/images/GOIS-2.png 1370 566 align-start %}
 
 Votre organisation peut reprendre la structure du tableau ci-dessus pour définir ses propres objectifs, résultats et indicateurs concernant ses domaines d’achat prioritaires. Pour voir d’autres exemples, vous trouverez notre modèle de cadre de suivi et d’évaluation complet en cliquant sur le lien ci-dessous.
 
@@ -65,7 +65,7 @@ Votre organisation peut reprendre la structure du tableau ci-dessus pour défini
 
 La définition des objectifs, des résultats et des indicateurs nécessite une bonne compréhension de ce que vous souhaitez accomplir et de la façon dont vous allez procéder. Notre modèle de cadre de suivi et d’évaluation vous aide à définir et évaluer des objectifs, résultats et indicateurs pratiques, spécifiques et évaluables.
 
-{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+{% callout yellow /assets/images/Icons_yellow3-1.png %}
 **Pour approfondir les cinq exemples de marchés publics durables et ouverts :**
 
 {% page /donnes-ouvertes-et-valuation-des-progrs %}

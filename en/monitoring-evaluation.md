@@ -52,7 +52,7 @@ If a public authority decides to select “Reducing carbon value associated with
 
 The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides guidance on information needed to measure each indicator, a proposed method for measuring it, and options to record the needed data. Below you can see an example from the table.
 
-{% image /assets/images/GOIS_%282%29.png 701.98 290.01 align-start %}
+{% image /assets/images/GOIS-2.png 701.98 290.01 align-start %}
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
@@ -65,7 +65,7 @@ The structure presented on the table above can be used within your organization 
 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 
-{% callout yellow /assets/images/Icons_yellow3_%281%29.png %}
+{% callout yellow /assets/images/Icons_yellow3-1.png %}
 <strong>Deep dive into five specific Open SPP worked examples:
 </strong>
 
