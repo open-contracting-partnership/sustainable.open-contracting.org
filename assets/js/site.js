@@ -142,3 +142,59 @@ if (search) {
     if (event.key === "Escape") close();
   });
 }
+
+// Breadcrumbs that don't fit, from the second, in a dropdown menu after the first, as on Super.so.
+const breadcrumb = document.querySelector(".notion-breadcrumb");
+if (breadcrumb) {
+  const crumbs = [...breadcrumb.children];
+  const item = document.createElement("li");
+  item.innerHTML = `<span class="notion-breadcrumb__divider" aria-hidden="true">/</span><div class="notion-dropdown">
+    <button type="button" class="notion-breadcrumb__item notion-breadcrumb__ellipsis" aria-expanded="false">...</button>
+    <div class="notion-dropdown__menu-wrapper"><div class="notion-dropdown__menu initial-state">
+      <div class="notion-breadcrumb__dropdown"><ul class="notion-dropdown__option-list"></ul></div>
+    </div></div>
+  </div>`;
+  const button = item.querySelector("button");
+  const menu = item.querySelector(".notion-dropdown__menu");
+  const list = item.querySelector("ul");
+  button.setAttribute("aria-label", breadcrumb.dataset.label);
+
+  const toggle = (open) => {
+    if (open === (button.getAttribute("aria-expanded") === "true")) return;
+    button.setAttribute("aria-expanded", open);
+    menu.classList.remove("initial-state", "animate-in", "animate-out");
+    menu.classList.add(open ? "animate-in" : "animate-out");
+  };
+
+  const fit = () => {
+    toggle(false);
+    item.remove();
+    list.replaceChildren();
+    crumbs.forEach((crumb) => {
+      crumb.hidden = false;
+    });
+    for (const crumb of crumbs.slice(1, -1)) {
+      if (breadcrumb.scrollWidth <= breadcrumb.clientWidth) break;
+      if (!item.isConnected) crumbs[0].after(item);
+      crumb.hidden = true;
+      const link = crumb.querySelector("a");
+      const option = document.createElement("li");
+      option.innerHTML = `<a class="notion-link"><div class="notion-dropdown__option"><p class="notion-breadcrumb__dropdown-option-title"></p></div></a>`;
+      option.querySelector("a").href = link.href;
+      option.querySelector("p").textContent = link.textContent.trim();
+      const icon = link.querySelector("img");
+      if (icon) option.querySelector("p").before(icon.cloneNode());
+      list.append(option);
+    }
+  };
+
+  button.addEventListener("click", () => toggle(button.getAttribute("aria-expanded") !== "true"));
+  document.addEventListener("click", (event) => {
+    if (!item.contains(event.target)) toggle(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") toggle(false);
+  });
+  new ResizeObserver(fit).observe(breadcrumb);
+  document.fonts.ready.then(fit);
+}

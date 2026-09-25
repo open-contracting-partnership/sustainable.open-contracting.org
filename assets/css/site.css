@@ -81,3 +81,19 @@ ol.notion-breadcrumb {
 .notion-breadcrumb > li > a.has-icon {
   padding: 2px 6px;
 }
+
+.notion-breadcrumb > li[hidden] {
+  display: none;
+}
+
+.notion-breadcrumb .notion-breadcrumb__ellipsis {
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+}
+
+.notion-breadcrumb .notion-dropdown__option-list {
+  margin: 0;
+  list-style: none;
+}

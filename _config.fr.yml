@@ -3,6 +3,7 @@ locale: fr_FR
 url: https://achatdurable.open-contracting.org
 google_analytics: G-GFLEM9K3JF
 search: true
+breadcrumb_label: Plus de pages
 search_labels:
   search: Rechercher
   no_results: Aucun résultat

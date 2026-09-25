@@ -3,6 +3,7 @@ locale: en_US
 url: https://sustainable.open-contracting.org
 google_analytics: G-L1NXBGRV3Q
 search: true
+breadcrumb_label: More pages
 search_labels:
   search: Search
   no_results: No results found
