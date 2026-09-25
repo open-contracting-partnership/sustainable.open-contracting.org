@@ -29,7 +29,7 @@ Doing this will require establishing a clear definition of which contracts fall 
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
-| **Option 1: Assign tags to procurements** | {orange} Manually sift through procurement notices and make a judgement call on whether or not its SPP.<br><br>Mandate authorities release a flag highlighting that a procurement is SPP. | {yellow} Release a flag for SPP procurement on contract registers | {green} Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |
+| **Option 1: Assign tags to procurements** | {orange} Manually sift through procurement notices and make a judgement call on whether or not its SPP.\n\nMandate authorities release a flag highlighting that a procurement is SPP. | {yellow} Release a flag for SPP procurement on contract registers | {green} Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |
 {% endtable %}
 
 ### Option 2: Boost policy performance through alerts and notifications
@@ -41,7 +41,7 @@ Through manual or programmatic analysis of data, alerts can be created and used 
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
-| **Option 2: Boost performance to policy through alerts** | {orange} Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | {yellow} Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)<br>(see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | {green} Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
+| **Option 2: Boost performance to policy through alerts** | {orange} Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | {yellow} Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)\n(see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | {green} Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
 {% endtable %}
 
 ### Option 3: Analyze contracts awarded
@@ -53,7 +53,7 @@ Buyers can measure the value and number of SPP related contracts awarded to supp
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
-| **Option 3: Analyze contracts awarded** | {orange} Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).<br><br>Use tools such as Silver Eye to turn this data into OCDS. | {yellow} Create dashboards that allow analysis of buyers, suppliers, categories., etc.<br><br>Create flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | {green} Link to contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
+| **Option 3: Analyze contracts awarded** | {orange} Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse tools such as Silver Eye to turn this data into OCDS. | {yellow} Create dashboards that allow analysis of buyers, suppliers, categories., etc.\n\nCreate flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | {green} Link to contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
 {% endtable %}
 
 ### Option 4: Forecast contract impact
@@ -139,5 +139,5 @@ One way to gather the data needed to measure the sustainability impact of your c
 {% table 197.86 198.87 185.86 183.87 col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
-| **Option 10: Use national or statewide data** | {orange} Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | {yellow} Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | {green} Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.<br><br>Work with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
+| **Option 10: Use national or statewide data** | {orange} Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | {yellow} Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | {green} Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.\n\nWork with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
 {% endtable %}
