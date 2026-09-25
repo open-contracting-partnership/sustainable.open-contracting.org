@@ -168,11 +168,12 @@ To fix a broken link, change the link in the linking page's Markdown, or (for a 
 
 ### Checks
 
-On each push, CI (`.github/workflows/ci.yml`) lints the Markdown, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem. To run the checks locally, after building the sites:
+On each push, CI (`.github/workflows/ci.yml`) lints the Markdown, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
 
 ```bash
 uvx pre-commit run --all-files
 uv run scripts/check_redirects.py
+uv run scripts/check_pages.py
 uv run scripts/check_links.py
 uv run scripts/check_markup.py
 ```
@@ -180,6 +181,8 @@ uv run scripts/check_markup.py
 To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented.
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
+
+`scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, and that its cover and icon are files. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that the sitemap's URLs are pages, and that the search index has every page with content.
 
 `scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, and non-breaking spaces at the end of a line or block.
 
