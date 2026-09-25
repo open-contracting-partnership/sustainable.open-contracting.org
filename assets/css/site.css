@@ -124,9 +124,15 @@ ol.notion-breadcrumb {
   padding-bottom: 0;
 }
 
-/* A page link's image icon is square, like the image, so that no browser crops it. */
+/* A page link's image icon is square, like the image, even beside a long title, so that no browser crops it. */
 .notion-page__icon:has(> img) {
   min-width: 0;
+  flex-shrink: 0;
+}
+
+/* Super.so clips lazy images by 0.6px in Safari, to hide a white edge on photos, which flattens icons' edges. */
+img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
+  clip-path: none;
 }
 
 /* The sidebar's sections, as lists, separated as Notion's empty paragraphs separated them. */
