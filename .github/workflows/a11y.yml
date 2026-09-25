@@ -1,0 +1,63 @@
+name: Accessibility
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  build:
+    if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - lang: en
+            domain: sustainable.open-contracting.org
+          - lang: es
+            domain: sostenibilidad.open-contracting.org
+          - lang: fr
+            domain: achatdurable.open-contracting.org
+    env:
+      SITEMAP: http://127.0.0.1:8000/sitemap.xml
+      FROM: https://${{ matrix.domain }}
+      TO: http://127.0.0.1:8000
+    steps:
+      - name: Disable AppArmor  # https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+        run: echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - uses: astral-sh/setup-uv@v10.2.0
+      - run: pnpm install --frozen-lockfile --ignore-scripts
+      - run: pnpm exec puppeteer browsers install chrome
+      - run: scripts/build.sh ${{ matrix.lang }}
+      - name: Serve
+        run: |
+          uv run scripts/serve.py _site/${{ matrix.lang }} 8000 &
+          sleep 5
+      - env:
+          PA11Y_STRATEGY: ignore
+        run: pnpm exec pa11y-ci -c pa11y.default.js -s "$SITEMAP" -f "$FROM" -r "$TO"
+      - env:
+          PA11Y_STRATEGY: ignore
+        run: pnpm exec pa11y-ci -c pa11y.mobile.js -s "$SITEMAP" -f "$FROM" -r "$TO"
+      - env:
+          PA11Y_INCLUDE_WARNINGS: 1
+          PA11Y_SUPPRESS_KNOWN_WARNINGS: 1
+          PA11Y_STRATEGY: ignore
+        run: pnpm exec pa11y-ci -c pa11y.default.js -s "$SITEMAP" -f "$FROM" -r "$TO"
+      - env:
+          PA11Y_INCLUDE_WARNINGS: 1
+          PA11Y_SUPPRESS_KNOWN_WARNINGS: 1
+          PA11Y_STRATEGY: hideElements
+        run: pnpm exec pa11y-ci -c pa11y.default.js -s "$SITEMAP" -f "$FROM" -r "$TO"
+      - env:
+          PA11Y_INCLUDE_WARNINGS: 1
+          PA11Y_SUPPRESS_KNOWN_WARNINGS: 1
+          PA11Y_STRATEGY: ignore
+        run: pnpm exec pa11y-ci -c pa11y.mobile.js -s "$SITEMAP" -f "$FROM" -r "$TO"

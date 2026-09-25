@@ -23,10 +23,10 @@ Each site has search (the `search` setting, with its labels in `search_labels`),
 scripts/build.sh en  # or es, fr
 ```
 
-To try search locally, serve the build, since `jekyll serve` rebuilds the site without the index:
+To try search locally, serve the build, since `jekyll serve` rebuilds the site without the index. `scripts/serve.py` serves it as Cloudflare Pages does, with a page at its path without `.html`:
 
 ```bash
-scripts/build.sh en && python3 -m http.server -d _site/en
+scripts/build.sh en && uv run scripts/serve.py _site/en  # port 8000, or pass a port after the directory
 ```
 
 Pagefind indexes each page's `<main>`, except the navbar, sidebar, cover and icon, and skips pages without content or properties (placeholders for database items).
@@ -41,7 +41,7 @@ Each site is a Cloudflare Pages project, connected to this repository:
 | sostenibilidad.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh es` | `_site/es` |
 | achatdurable.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh fr` | `_site/fr` |
 
-`.ruby-version` and `.node-version` set the versions that the build uses, and Cloudflare runs `bundle install` before the build command.
+`.ruby-version` and `.node-version` set the versions that the build uses, and Cloudflare runs `bundle install` before the build command. Each project sets `SKIP_DEPENDENCY_INSTALL=1`, so that Cloudflare doesn't install `package.json`'s packages, which only the accessibility checks use.
 
 ## Pages
 
@@ -181,6 +181,16 @@ uv run scripts/check_markup.py
 To lint on each commit, run `uvx pre-commit install`. The Python linter and formatter is [Ruff](https://docs.astral.sh/ruff/), configured in `pyproject.toml` as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/python/linting.html). Each script has inline metadata (`# /// script`), so that `uv run` runs it as a script, not in a project environment. The Markdown linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The JavaScript and CSS linter and formatter is [Biome](https://biomejs.dev), configured in `biome.json`. It skips the HTML (Jekyll templates, which it can't parse), and Super.so's stylesheets (all but `fonts.css` and `site.css`).
 
 The `lint.yml` workflow runs [standard-maintenance-scripts](https://github.com/open-contracting/standard-maintenance-scripts)' linters: files' permissions, Ruff (with its own settings, which `pyproject.toml` extends), and the JSON, CSV and README tests. The `shell.yml` workflow checks `scripts/build.sh` with checkbashisms, shellcheck and shfmt. The `spellcheck.yml` workflow runs [codespell](https://github.com/codespell-project/codespell) on the repository, except the Spanish and French pages and sidebars, which it would read as misspelled English. To accept a word, add it to the workflow's `ignore` input. Dependabot (`.github/dependabot.yml`) updates the workflows' actions, and the `automerge.yml` workflow merges its non-major updates and pre-commit.ci's updates to the hooks.
+
+The `a11y.yml` workflow checks each site's pages for accessibility issues (WCAG 2.1 AA) with [pa11y-ci](https://github.com/pa11y/pa11y-ci), on a desktop and a mobile viewport, as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/python/a11y.html). The errors checks fail on any issue. The warnings checks fail on any issue that isn't a known warning, which `pa11y.default.js` lists with its reason. To run a check locally, after building and serving a site:
+
+```bash
+pnpm install
+pnpm exec puppeteer browsers install chrome
+PA11Y_STRATEGY=ignore pnpm exec pa11y-ci -c pa11y.default.js -s http://127.0.0.1:8000/sitemap.xml -f https://sustainable.open-contracting.org -r http://127.0.0.1:8000
+```
+
+Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1 PA11Y_SUPPRESS_KNOWN_WARNINGS=1` for the warnings.
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
 

@@ -1,0 +1,5 @@
+minimumReleaseAge: 10080
+trustPolicy: no-downgrade
+allowBuilds:
+  # Chrome is installed with: pnpm exec puppeteer browsers install chrome
+  puppeteer: false

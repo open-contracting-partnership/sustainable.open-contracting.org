@@ -6,3 +6,4 @@ vendor/
 .DS_Store
 Export-*/
 .venv/
+node_modules/
