@@ -98,10 +98,10 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 {% page /plan/prioritize %}
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
 {% image /assets/images/Untitled.jpg 672 420 align-start normal %}
-{% pdf /assets/files/compliance-trail-checklist.pdf %}
+{% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
 ```
 
-A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source and its width and height in Notion, then `align-start` to align it left, and `normal` to not make it as wide as the page.
+A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source and its width and height in Notion, then `align-start` to align it left, and `normal` to not make it as wide as the page. A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
 
 Tables are `{% table %}` tags, whose arguments are the columns' widths in pixels (or `MIN-MAX`) and Notion's `col-header` and `row-header` options. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). A row or cell that starts with `{color}` has that background color, and `<br>` is a line break in a cell:
 

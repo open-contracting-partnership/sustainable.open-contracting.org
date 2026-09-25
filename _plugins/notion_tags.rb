@@ -190,7 +190,7 @@ module NotionTags
         end
         "<tr>#{cells.join}</tr>"
       end
-      %(<div class="notion-collection-table__wrapper"><table class="notion-collection-table">) +
+      %(<div class="notion-collection-table__wrapper" tabindex="0"><table class="notion-collection-table">) +
         %(<thead class="notion-collection-table__head"><tr>#{head.join}</tr></thead>) +
         %(<tbody class="notion-collection-table__body">#{rows.join}</tbody></table></div>)
     end
@@ -228,7 +228,7 @@ module NotionTags
         cells = line.delete_prefix("|").delete_suffix("|").split(/(?<!\\)\|/, -1)
         %(<tr style="#{style}">#{cells.each_with_index.map { |cell, i| cell(context, cell.strip, @widths[i]) }.join}</tr>)
       end
-      %(<div class="notion-table__wrapper"><table class="#{@classes}"><tbody>#{html.join}</tbody></table></div>)
+      %(<div class="notion-table__wrapper" tabindex="0"><table class="#{@classes}"><tbody>#{html.join}</tbody></table></div>)
     end
 
     private
@@ -360,11 +360,14 @@ module NotionTags
 end
 
 module NotionTags
-  # {% pdf SRC %} renders an embedded PDF.
+  # {% pdf SRC [TITLE] %} renders an embedded PDF, whose frame's title is TITLE (by default, the file's name).
   class Pdf < Liquid::Tag
     def render(_context)
-      src = CGI.escapeHTML(@markup.strip)
-      %(<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="320" src="#{src}"></iframe></div></div>)
+      src, title = @markup.strip.split(/\s+/, 2)
+      title = CGI.escapeHTML(title || File.basename(src))
+      src = CGI.escapeHTML(src)
+      %(<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="320" src="#{src}" ) +
+        %(title="#{title}"></iframe></div></div>)
     end
   end
 

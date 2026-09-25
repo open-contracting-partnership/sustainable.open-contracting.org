@@ -31,3 +31,30 @@
   color: inherit;
   font-weight: 600;
 }
+
+/* Contrast of at least 4.5:1 (WCAG 2.1 AA), on white and on Notion's background colours. */
+:root {
+  --color-text-default-light: rgba(55, 53, 47, 0.7);
+}
+
+.notion-semantic-string .link {
+  opacity: 0.75;
+}
+
+/* A list item's white-space is pre-wrap, which its nested lists would inherit for the whitespace between their items. */
+.notion-list-item > :is(.notion-bulleted-list, .notion-numbered-list) {
+  white-space: normal;
+}
+
+/* A list item's blocks after its text: close to the text, and separated from the next item as blocks are. */
+.notion-list-item > :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list) {
+  margin-block-start: 0.25rem;
+}
+
+.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)) {
+  padding-block-end: 0;
+}
+
+.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)):not(:last-child) {
+  margin-block-end: 1rem;
+}

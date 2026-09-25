@@ -47,16 +47,15 @@ module NotionMarkdown
     @ol_depth -= 1
   end
 
-  # Render a list item's other blocks (paragraphs and nested lists) after it, not in it, as Notion does.
+  # Render a list item's text without a paragraph, followed by its other blocks (paragraphs and nested lists).
   def convert_li(el, indent)
     first, *rest = el.children.reject { |child| child.type == :blank }
     el.attr["class"] ||= CLASSES[:li]
     return super unless first&.type == :p
 
-    # Before a nested list, the text ends with a newline.
-    text = rest.empty? ? inner(first, indent) : inner(first, indent).sub(/\n+\z/, "")
-    item = %(#{" " * indent}<li#{html_attributes(el.attr)}>#{text}</li>\n)
-    item + rest.map { |child| convert(child, indent) }.join
+    # A list item's white-space is pre-wrap, so that newlines are line breaks, so no whitespace separates its blocks.
+    text = rest.empty? ? inner(first, indent) : inner(first, indent).sub(/\s+\z/, "")
+    %(#{" " * indent}<li#{html_attributes(el.attr)}>#{text}#{rest.map { |child| convert(child, indent).strip }.join}</li>\n)
   end
 
   # The GFM parser replaces "[ ]" with a checkbox.
@@ -87,7 +86,7 @@ module NotionMarkdown
     language = el.options[:lang] || el.attr["class"].to_s[/language-(\S+)/, 1]
     code = %(<code class="language-#{language}">#{escape_html(el.value.chomp)}</code>)
     %(<div class="notion-code no-wrap"><button class="notion-code__copy-button">#{COPY_ICON}Copy</button>) +
-      %(<pre class="language-#{language}">#{code}</pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>\n)
+      %(<pre class="language-#{language}" tabindex="0">#{code}</pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>\n)
   end
 end
 
