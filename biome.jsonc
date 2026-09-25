@@ -8,8 +8,9 @@
   "files": {
     "includes": [
       "**",
+      // Jekyll's templates and includes, whose Liquid Biome can't parse.
       "!**/*.html",
-      "!**/*.svg",
+      // Super.so's stylesheets, which are copied as is.
       "!assets/css/next.css",
       "!assets/css/notion.css",
       "!assets/css/static.css",
