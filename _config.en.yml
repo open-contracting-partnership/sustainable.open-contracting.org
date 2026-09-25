@@ -12,4 +12,4 @@ search_labels:
   open: Open
   open_in_new_tab: Open in a new tab
 destination: _site/en
-exclude: [es, fr, scripts, "Export-*", README.md]
+exclude: [es, fr, scripts, "Export-*", README.md, biome.json, "pa11y.*.js", package.json, "pnpm-*.yaml", pyproject.toml, uv.lock]

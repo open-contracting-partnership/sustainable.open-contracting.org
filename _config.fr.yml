@@ -12,6 +12,6 @@ search_labels:
   open: Ouvrir
   open_in_new_tab: Ouvrir dans un nouvel onglet
 destination: _site/fr
-exclude: [en, es, scripts, "Export-*", README.md]
+exclude: [en, es, scripts, "Export-*", README.md, biome.json, "pa11y.*.js", package.json, "pnpm-*.yaml", pyproject.toml, uv.lock]
 notion:
   hide_properties: true
