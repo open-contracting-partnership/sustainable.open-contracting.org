@@ -22,7 +22,7 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
 Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:
 
 - La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
-- Usted podrá ver el enfoque de Asociación de Contratación Abierta [aquí](https://www.open-contracting.org/implement/) y cómo ayuda a que las reformas se amplíen y se mantengan [aquí](https://www.open-contracting.org/impact/).
+- Usted podrá ver [el enfoque de Asociación de Contratación Abierta](https://www.open-contracting.org/implement/) y [cómo ayuda a que las reformas se amplíen y se mantengan](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
 # **Cómo la apertura puede ayudar a la contratación pública sostenible**
@@ -81,7 +81,7 @@ CPS Abierta implica dar forma, probar y escalar las prácticas de SPP, en funci�
 
 Para cumplir con estas siete dimensiones de la apertura, los datos de alta calidad son cruciales. Esto significa [datos estandarizados](https://opengovdata.org/) en formatos abiertos y legibles por máquina.
 
-Ya hemos compilado una guía que explora cómo los datos abiertos sobre adquisiciones pueden ayudarlo a impulsar CPS y recomienda los primeros pasos en su travesía de datos abiertos. Esta guía se puede encontrar [aquí](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
+Ya hemos compilado [una guía](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) que explora cómo los datos abiertos sobre adquisiciones pueden ayudarlo a impulsar CPS y recomienda los primeros pasos en su travesía de datos abiertos.
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
 <strong>Uso de “banderas ecológicas” en datos de contratación pública

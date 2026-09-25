@@ -23,21 +23,21 @@ The following checklist is designed to help you assess the different ways in whi
 
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
 
-- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [here](/establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin) for more information).
+- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación](/establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin)).
 
-- [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [here](/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo) for more information).
+- [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [Relacionamiento directo con el mercado y diálogo continuo](/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo)).
 
-- [ ] Check that current regulation allows for procedures that include open disclosure of information or **ongoing dialogue during the procurement phase** (such as Competitive Dialogue) (see [here](/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo) for more information).
+- [ ] Check that current regulation allows for procedures that include open disclosure of information or **ongoing dialogue during the procurement phase** (such as Competitive Dialogue) (see [Relacionamiento directo con el mercado y diálogo continuo](/establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo)).
 
-- [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [here](/establezca-un-entorno-habilitante/acuerdo-marco) for more information).
+- [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [Acuerdo marco](/establezca-un-entorno-habilitante/acuerdo-marco)).
 
-- [ ] Check whether there are any **procurement thresholds or distinct regulations** whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see [here](/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes) for more information).
+- [ ] Check whether there are any **procurement thresholds or distinct regulations** whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see [Umbrales y sectores con reglamentos diferentes](/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes)).
 
-- [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [here](/establezca-un-entorno-habilitante/metas-y-contratos-reservados) for more information).
+- [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [Metas y contratos reservados](/establezca-un-entorno-habilitante/metas-y-contratos-reservados)).
 
 **Finally:**
 
-- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [here](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento) for more information).
+- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Lista de chequeo rápido-comparte su sendero hacia el cumplimiento](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento)).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**

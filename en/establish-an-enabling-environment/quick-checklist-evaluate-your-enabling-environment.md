@@ -23,21 +23,21 @@ The following checklist is designed to help you assess the different ways in whi
 
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
 
-- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [here](/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria) for more information).
+- [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [Explicit provisions to include sustainability as award criteria](/establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria)).
 
-- [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [here](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) for more information).
+- [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [Open market engagement and ongoing dialogue](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue)).
 
-- [ ] Check that current regulation allows for procedures that include open disclosure of information or **ongoing dialogue during the procurement phase** (such as Competitive Dialogue) (see [here](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue) for more information).
+- [ ] Check that current regulation allows for procedures that include open disclosure of information or **ongoing dialogue during the procurement phase** (such as Competitive Dialogue) (see [Open market engagement and ongoing dialogue](/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue)).
 
-- [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [here](/establish-an-enabling-environment/framework-agreements) for more information).
+- [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [Framework agreements](/establish-an-enabling-environment/framework-agreements)).
 
-- [ ] Check whether there are any **procurement thresholds or distinct regulations** whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see [here](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) for more information).
+- [ ] Check whether there are any **procurement thresholds or distinct regulations** whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see [Thresholds and sectors with distinct regulation](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation)).
 
-- [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [here](/establish-an-enabling-environment/targets-and-reserved-contracts) for more information).
+- [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [Targets and reserved contracts](/establish-an-enabling-environment/targets-and-reserved-contracts)).
 
 **Finally:**
 
-- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [here](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail) for more information).
+- [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Quick checklist - Share your compliance trail](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail)).
 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**

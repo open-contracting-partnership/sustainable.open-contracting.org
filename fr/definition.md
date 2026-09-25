@@ -22,7 +22,7 @@ Les marchés publics durables renvoient à la façon dont les organisations acqu
 Pour approfondir l’analyse des marchés publics durables et de la commande publique ouverte (concernant des gouvernements ouverts et des données ouvertes), nous vous invitons à consulter les ressources suivantes :
 
 - La définition la plus courante des **marchés publics durables** est donnée par le [Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), qui parle d’un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement »
-- [Cliquez ici](https://www.open-contracting.org/implement/) pour découvrir l’approche Open Contracting Partnership de la **commande publique ouverte** et [cliquez sur ce lien](https://www.open-contracting.org/impact/) pour savoir comment elle peut contribuer à mettre en place des réformes efficaces et à grande échelle.
+- Découvrez [l’approche Open Contracting Partnership de la **commande publique ouverte**](https://www.open-contracting.org/implement/) et [comment elle peut contribuer à mettre en place des réformes efficaces et à grande échelle](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
 # **Comment l’ouverture favorise-t-elle les marchés publics durables ?**
@@ -81,7 +81,7 @@ Les marchés publics durables et ouverts supposent de mettre au point, tester et
 
 Pour pouvoir exploiter ces sept dimensions de l’ouverture, il est essentiel de pouvoir s’appuyer sur des données de qualité élevée. Par données de qualité élevée, nous entendons des [données normalisées](https://opengovdata.org/) dans un format ouvert et lisible par une machine.
 
-Nous avons déjà compilé des orientations montrant comment les données ouvertes relatives aux marchés publics peuvent vous aider à renforcer les marchés publics durables dans lesquelles vous trouverez des conseils pour les premières étapes de votre démarche d’ouverture des données. [Cliquez ici](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) pour consulter ce guide.
+Nous avons déjà compilé [des orientations](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) montrant comment les données ouvertes relatives aux marchés publics peuvent vous aider à renforcer les marchés publics durables dans lesquelles vous trouverez des conseils pour les premières étapes de votre démarche d’ouverture des données.
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
 <strong>Des « signaux écologiques » dans les données relatives aux marchés publics
