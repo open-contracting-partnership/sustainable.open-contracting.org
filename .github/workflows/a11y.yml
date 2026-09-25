@@ -3,7 +3,7 @@ on: [push, pull_request]
 permissions:
   contents: read
 jobs:
-  build:
+  test:
     if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name != github.repository
     runs-on: ubuntu-latest
     strategy:
@@ -62,3 +62,11 @@ jobs:
           PA11Y_SUPPRESS_KNOWN_WARNINGS: 1
           PA11Y_STRATEGY: ignore
         run: pnpm exec pa11y-ci -c pa11y.mobile.js -s "$SITEMAP" -f "$FROM" -r "$TO"
+  # Without `if: always()`, a failed dependency would skip `a11y`, and a skipped job satisfies a required status check.
+  a11y:
+    needs: test
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - if: ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}
+        run: exit 1
