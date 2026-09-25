@@ -98,10 +98,6 @@ sidebar: true
   link: /casos-de-estudio/promoting-circularity-through-furniture-procurement-in-wales
   cover: /assets/images/Europe_-_Wales.png
   cover_only: true
-- title: "Communicating sustainability on a the contract's subject matter in Malta"
-  link: /casos-de-estudio/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta
-  cover: /assets/images/Europe_-_Malta.png
-  cover_only: true
 - title: Creating a task force to monitor supplier working conditions in the City of Copenhagen
   link: /casos-de-estudio/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen
   cover: /assets/images/Europe_-_Copenhagen.png

@@ -13,7 +13,7 @@ layout: null
 /0c14bbcbe3a84c2b8dcfa48ced98e465 /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values 301
 /0df2837888c2449db90abd53c74bfc4d /le-secteur-tic-en-anglais/collecting-the-data 301
 /0ffc0e6f0bc047659a3f52cc9bc87bad /rpertoire-de-ressources/gpp-training-toolkit 301
-/0fffaad87dd7428e8bb8c6d16e16c575 /base-de-donnes-dtudes-de-cas/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta 301
+/0fffaad87dd7428e8bb8c6d16e16c575 /base-de-donnes-dtudes-de-cas/europe 301
 /12b1fcd5fea44bf89173b9816e07018b /base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania 301
 /149ab2d38e6b430eada9e1cb977fb06a /possibilits-dutilisation-des-donnes 301
 /14ba6145184340de97316d10fed4b422 /base-de-donnes-dtudes-de-cas/un-rseau-de-connaissances-destin-aux-fonctionnaires-des-services-de-passation-de-marchs-aux-pays-bas 301
@@ -146,6 +146,7 @@ layout: null
 /b5a480a43f87452792022d719809c748 /planification 301
 /b664687537c848f49e05424b0b84a875 /rpertoire-de-ressources/purchasing-the-future-you-want-a-sustainable-it-purchasing-guide 301
 /b8477f5c4266465eaea24d9f6a19ad9f /base-de-donnes-dtudes-de-cas/europe 301
+/base-de-donnes-dtudes-de-cas/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas/europe 301
 /bfc97268fdf1415c949503763359884f /base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-cologiques-en-irelande 301
 /build-support-and-capabilities /des-mcanismes-dassistance 301
 /c16aff787f6e41cbb968badc22c98432 /introduction 301
@@ -157,7 +158,7 @@ layout: null
 /carbon-reduction /la-rduction-des-missions-de-carbone 301
 /carbon-reduction/benchmarking-carbon-procurements /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements 301
 /carbon-reduction/how-to-estimate-carbon-values /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values 301
-/case-study-database/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta 301
+/case-study-database/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas/europe 301
 /case-study-database/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen /base-de-donnes-dtudes-de-cas/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen 301
 /case-study-database/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia 301
 /case-study-database/engaging-citizens-to-monitor-public-projects-in-peru /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru 301
@@ -189,6 +190,7 @@ layout: null
 /da5ec1e812174f038de8b1e23ab7764a /base-de-donnes-dtudes-de-cas/travailler-avec-le-personnel-mdical-pour-laborer-des-dossiers-dappel-doffres-en-italie 301
 /dc8de2659f5b44b0b56e67ef5994d611 /ce-que-vous-avez-demandes 301
 /dc9490aecb04490c9d4f8247243248df /ladoption-des-pratiques-durables/options-for-measuring 301
+/donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plusvaluer-les-besoins-rels /donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plus 301
 /donnes-ouvertes-et-valuation-des-progrs/la-rduction-des-missions-de-carbone /la-rduction-des-missions-de-carbone 301
 /donnes-ouvertes-et-valuation-des-progrs/ladoption-des-pratiques-durables /ladoption-des-pratiques-durables 301
 /donnes-ouvertes-et-valuation-des-progrs/le-cot-du-cycle-de-vie /le-cot-du-cycle-de-vie 301
@@ -251,7 +253,9 @@ layout: null
 /life-cycle-costing/actuals-and-projections /le-cot-du-cycle-de-vie/actuals-and-projections 301
 /life-cycle-costing/how-to-value-a-life-cycle /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle 301
 /life-cycle-costing/life-cycle-costing-and-spp /le-cot-du-cycle-de-vie/life-cycle-costing-and-spp 301
+/mise-en-place-1 /mise-en-oeuvre 301
 /mise-en-place-1/choisir-une-mthode-de-passation-de-marchs /choisir-une-mthode-de-passation-de-marchs 301
+/mise-en-place-1/cliquez-sur-une-section-pour-en-savoir-plus /mise-en-oeuvre/cliquez-sur-une-section-pour-en-savoir-plus 301
 /mise-en-place-1/des-critres-de-durabilit /des-critres-de-durabilit 301
 /mise-en-place-1/interagir-avec-le-march /interagir-avec-le-march 301
 /mise-en-place-1/obligations-contractuelles /obligations-contractuelles 301
@@ -321,6 +325,3 @@ layout: null
 /votre-trajet-de-la-mise-en-place/orientations-sectorielles /orientations-sectorielles 301
 /votre-trajet-de-la-mise-en-place/planification /planification 301
 /your-open-spp-journey/introduction /introduction 301
-/donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plusvaluer-les-besoins-rels /donnes-ouvertes-et-valuation-des-progrs/cliquez-sur-une-section-pour-en-savoir-plus 301
-/mise-en-place-1 /mise-en-oeuvre 301
-/mise-en-place-1/cliquez-sur-une-section-pour-en-savoir-plus /mise-en-oeuvre/cliquez-sur-une-section-pour-en-savoir-plus 301
