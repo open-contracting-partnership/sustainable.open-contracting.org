@@ -8,7 +8,7 @@ full_width: true
 notion_id: "670fc05032a7418a831ebc67e797371b"
 sidebar: true
 ---
-# **Traducir la sostenibilidad en obligaciones contractuales**
+# Traducir la sostenibilidad en obligaciones contractuales
 
 Una vez se hayan establecido claramente los criterios de sostenibilidad, deben traducirse en obligaciones contractuales. Esto incluye establecer cómo se monitoreará la implementación y cuáles son las consecuencias en caso de incumplimiento. Para redactar cláusulas contractuales efectivas, estas decisiones deben ser discutidas abiertamente y acordadas por la autoridad de contratación y los proveedores relevantes. Esta sección presenta algunas de las características clave de las cláusulas contractuales exitosas.
 
@@ -16,7 +16,7 @@ Una vez se hayan establecido claramente los criterios de sostenibilidad, deben t
 **Relacionarse con los proveedores** y discutir abiertamente las obligaciones de sostenibilidad **conducirá a cláusulas contractuales más efectivas, aumentando el impacto positivo del contrato y minimizando los riesgos de incumplimiento**. Sin embargo, **este proceso también debe usarse para garantizar que el contrato general sea fácil de usar y que todas las partes interesadas comprendan las responsabilidades clave.**
 {% endcallout %}
 
-## **Características clave de las cláusulas del contrato**
+## Características clave de las cláusulas del contrato
 
 A menudo, las cláusulas contractuales que hacen referencia a las obligaciones de sostenibilidad no son efectivas o se consideran menos importantes que otras cláusulas comerciales. Un [análisis](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf) realizado por dos consultoras, EcoVadis y Affectio Mutandi, muestra que esto se debe en muchas ocasiones a factores como las expectativas de seguimiento poco realistas que se establecen en los proveedores, o incluso las contradicciones que a veces surgen entre las cláusulas de sostenibilidad y las comerciales. Sugieren seis características con las que se puede medir la eficacia de las cláusulas contractuales. Incluimos una explicación de estos a continuación.
 
@@ -64,7 +64,7 @@ Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las 
 
 {% image /assets/images/SPP-Contract-Diagram-es.png 1276 950 align-start %}
 
-## **Tenga claros los estándares de mejoramiento continuo**
+## Tenga claros los estándares de mejoramiento continuo
 
 Como se ha presentado en la sección anterior, qué criterios de sostenibilidad introducir en los contratos de contratación pública deben decidirse en función de diferentes factores, incluida la capacidad de mercado existente. Sin embargo, la capacidad del Estabalecer mercado frente a los estándares de sostenibilidad puede aumentar durante el transcurso de un contrato. Para asegurarse de que los proveedores contratados sigan progresando en relación con los estándares de sostenibilidad, puede incluir estándares claros de mejora continua en las cláusulas del contrato. Esto puede incluir, por ejemplo, establecer objetivos progresivos de minimización de CO2 a lo largo de la duración del contrato, o estándares progresivos de ahorro de combustible.
 

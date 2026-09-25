@@ -80,15 +80,15 @@ There are a wide range of analysis options in this area. Governments have very b
 {% endgallery %}
 {% enddatabase %}
 
-## **Options for data use**
+## Options for data use
 
 At the beginning of this section, we introduced ten different ways in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected four which can be especially useful for life cycle costing approaches:
 
-### **Forecast contract impact (Option 4)**
+### Forecast contract impact (Option 4)
 
 In its simplest form a life cycle cost can be derived from historic data on contracts associated with an asset and use this to form an estimate of life cycle costing. For instance, the life cycle cost of a computer server should also include electricity as well as staff time to maintain it. Using the information on contracts can be enough to establish a benchmark for further analysis.
 
-### **Monitor contract performance (Option 7)**
+### Monitor contract performance (Option 7)
 
 When life cycle costing is established as the method for determining the value of an SPP contract, combining accounts payable data with contracting data is the most accurate way to monitor costs throughout the contract. By linking actual payments, or a share of payments to an asset, it is possible to derive detailed costs for an asset. One way to do this is by tagging payable data with a specific accounting code that ties expenditure to an asset or assets.
 

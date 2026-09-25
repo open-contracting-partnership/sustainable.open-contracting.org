@@ -8,7 +8,7 @@ full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
 sidebar: true
 ---
-# **Establezca mecanismos de apoyo y fortalecimiento de capacidades**
+# Establezca mecanismos de apoyo y fortalecimiento de capacidades
 
 En esta etapa de planeación de su estrategia para la implementación de CPS, usted ya habrá evaluado lo que puede hacer dentro de su entorno habilitante para contrataciones, y habrá decidido el enfoque de sus esfuerzos, y fijado sus objetivos. Sin embargo, como mencionamos en la introducción, la implementación de CPS significa una modalidad de contratación distinta.
 
@@ -18,7 +18,7 @@ Como esto puede ser representar un reto para los responsables de la contratació
 En esta sección proponemos algunos mecanismos de esta naturaleza, junto con ejemplos de cómo se están utilizando en diferentes partes del mundo.
 {% endcallout %}
 
-## **Relaciónese con las partes interesadas**
+## Relaciónese con las partes interesadas
 
 Una de las maneras principales en que las autoridades públicas pueden fortalecer sus capacidades de contratación en relación con CPS es el fomento de relaciones y vínculos con las partes interesadas.
 
@@ -68,7 +68,7 @@ Se puede ver más ejemplos y recursos para la vinculación de partes interesadas
 
 {% endtoggle %}
 
-## **Estandarice sus criterios de sostenibilidad**
+## Estandarice sus criterios de sostenibilidad
 
 Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 
@@ -76,7 +76,7 @@ Los gobiernos compran una inmensa variedad de materiales y la mayoría de los re
 Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
 {% endcallout %}
 
-# **Cree y comparta registros y catálogos de sostenibilidad**
+# Cree y comparta registros y catálogos de sostenibilidad
 
 En la sección de Marco Habilitante vimos cómo la integración de criterios de sostenibilidad en los [acuerdos marco](/establezca-un-entorno-habilitante/acuerdo-marco) puede constituir un elemento habilitador de CPS. Otra manera de crear una lista preseleccionada de proveedores más sostenibles sería a través de los catálogos y registros públicos disponibles,
 
@@ -88,7 +88,7 @@ Para más orientación sobre el uso de datos de contratación para la creación 
 Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de [Tailandia](http://gp.pcd.go.th/cat-1-ssl), que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el [Registro Nacional de Agricultura Familiar (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) actúa como facilitador y promotor de [la contratación de alimentos y servicios de abastecimientos](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) a este grupo económico. Otro ejemplo viene de Chile con [su acuerdo marco para bienes y servicios en caso de emergencias](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.
 {% endcallout %}
 
-## **Instale una Mesa de Asistencia Técnica y punto de información centralizado**
+## Instale una Mesa de Asistencia Técnica y punto de información centralizado
 
 El cambio de los procesos de contratación pública que se debe gestionar para permitir la integración de elementos de sostenibilidad puede representar un reto para los responsables de contratación. Una Mesa de Asistencia Técnica, además de su misión de facilitar el proceso mediante la estandarización de criterios de sostenibilidad o la creación de registros y catálogos, deberá ser instalado con el fin de prestar apoyo práctico o consejos a los responsables de contratación. Por ejemplo, la prestación de un servicio para revisar los documentos de licitación CPS puede ayudar resolver las preocupaciones de los responsables de contratación acerca de la redacción correcta de los criterios de adjudicación.
 

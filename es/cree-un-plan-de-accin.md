@@ -8,7 +8,7 @@ full_width: true
 notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
 sidebar: true
 ---
-# **La comunicación de sus primeros pasos en un Plan de Acción de CPS**
+# La comunicación de sus primeros pasos en un Plan de Acción de CPS
 
 A lo largo del conjunto de herramientas hemos examinado algunos de los enfoques clave que usted puede adoptar al considerar la implementación de CPS Abierta. Hemos demostrado cómo se puede evaluar el entorno actual habilitante, como asignar prioridades en contratación, y cómo fijar las metas específicas de CPS eficazmente, con el fin de poder hacer monitoreo del progreso logrado, y lo que usted puede hacer para fortalecer capacidades e incrementar y facilitar su implementación.
 
@@ -20,13 +20,13 @@ Al tener un plan de acción CPS usted va a poder comunicar el marco actual para 
 En esta sección ofrecemos unos ejemplos de cómo se puede utilizar su plan de acción CPS para **comunicar los pasos que ha tomado para la evaluación y establecimiento de un exitoso marco para la implementación de CPS**. Esto puede servir de referencia para que los responsables de la contratación entiendan qué cumple y qué no cumple y al mismo tiempo **garantizar la estandarización, rendimiento de cuentas, y continuidad si miras a los cambios eventuales en el liderazgo institucional.**
 {% endcallout %}
 
-## **Lo que usted puede incluir en un Plan de Acción CPS**
+## Lo que usted puede incluir en un Plan de Acción CPS
 
 si usted necesita orientación en relación con la manera de estructurar un Plan, puede ser útil hacer referencia al Plan de Acción Modelo creado por el PNUMAUM, que usted puede consultar aquí:
 
 {% page /cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps %}
 
-## **Elementos clave de CPS Abierta a ser incluidos en su Plan de Acción**
+## Elementos clave de CPS Abierta a ser incluidos en su Plan de Acción
 
 Hemos identificado los pasos clave que usted puede tomar al comenzar su ejercicio de CPS Abierta. A continuación le explicamos cómo puede comunicarlos en su Plan de Acción, y ofrecemos unos ejemplos de cómo ésto se ha manejado en las autoridades públicas en otras partes del mundo.
 
@@ -125,7 +125,7 @@ Muchas de las actividades asociadas con la implementación de CPS Abierta necesi
 
 {% endtoggle %}
 
-## **Considere cómo será la evolución de su Plan de Acción**
+## Considere cómo será la evolución de su Plan de Acción
 
 Muchos de los Planes de Acción se publican cada tres o cada cinco años, aunque pueden ser revisados y actualizados ario a año, si se requiere medir los avances logrados contra los objetivos y metas. Es importante para el diseño de su primer Plan de Acción de CPS Abierta considerar el alcance actual y ambiciones para las prácticas de CPS Abierta, y como estas evolucionarán en el futuro. Los aspectos extraídos de la página 87 del [Manual de Compras Públicas Verdes (GPP) del Banco Mundial](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) puede ser de utilidad para las consideraciones del alcance y ambición de su Plan de Acción para CPS Abierta.
 

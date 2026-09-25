@@ -24,7 +24,7 @@ Pour atténuer cette difficulté, nous proposons un aperçu global des approches
 
 Les membres des services de passation de marchés savent désormais qu’il est nécessaire de transformer en profondeur les pratiques d’achat actuelles. Pour cela, les personnes que nous avons interrogées ont déclaré avoir besoin d’interagir davantage avec le secteur privé et la société civile afin de connaître les solutions existantes. Elles ont également souligné le manque d’informations et de données de qualité concernant les marchés publics, car elles ont besoin de savoir ce que les gouvernements achètent et de déterminer les effets en matière environnementale et sociale de ces dépenses. Telles sont les lacunes des orientations existantes sur ce sujet, qui sont autant d’aspects ignorés par les approches traditionnelles, principalement axées sur des questions de légalité et de conformité.
 
-### **Heureusement, nous sommes là pour vous aider.**
+### Heureusement, nous sommes là pour vous aider
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
 Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'introduction, nous vous fournissons des informations sur ce qui sont **les marchés publics durables et ouverts**, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.

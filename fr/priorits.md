@@ -8,7 +8,7 @@ full_width: true
 notion_id: ac0ea2f84d304498b926d5045858734f
 sidebar: true
 ---
-# **Définir les priorités**
+# Définir les priorités
 
 Il existe de nombreuses façons de définir des priorités en ce qui concerne la mise en place de marchés publics durables et ouverts. Par exemple, il peut s’agir de traiter les enjeux environnementaux de première importance, d’axer le travail sur les secteurs ou catégories dans lesquels des biens et services écologiques sont immédiatement disponibles, de programmes publics dans lesquels les acheteurs et la société civile comprennent pourquoi l’utilisation de produits écologiques est nécessaire, ou encore de projets ou d’événements de premier plan où les marchés publics durables peuvent être utilisés pour sensibiliser et susciter l’intérêt du public, comme des événements sportifs, des conférences et la modernisation de bâtiments gouvernementaux importants.
 
@@ -27,7 +27,7 @@ Bien qu’il existe de nombreuses façons de définir des catégories prioritair
 
 {% image /assets/images/Prioritisation-Diagram-fr.png 1920 1080 align-start %}
 
-## **Examiner une liste préliminaire de catégories de marchés**
+## Examiner une liste préliminaire de catégories de marchés
 
 La première étape consiste à définir les priorités en collaboration avec les parties prenantes afin de dresser une liste des catégories qui seront analysées. Ces catégories doivent provenir du vocabulaire officiel normalisé que les fonctionnaires utilisent dans le pays pour classer les marchés de façon cohérente. Lors de la mise en place de marchés publics durables et ouverts, il est important d’utiliser une classification normalisée des catégories de marchés pour que les entreprises et les acheteurs puissent trouver et analyser les avis de marchés, mais également pour garantir que la mise en œuvre des politiques de durabilité, les pratiques et la collecte des données pour le suivi soient cohérentes.
 
@@ -35,7 +35,7 @@ La première étape consiste à définir les priorités en collaboration avec le
 Aucun système de classification des catégories de marchés n’a été adopté à l’échelle mondiale, on trouve donc des systèmes de classification différents à travers le monde. Par exemple, en Europe, les codes du [Vocabulaire commun pour les marchés publics](https://simap.ted.europa.eu/web/simap/cpv) sont utilisés, tandis que certains pays utilisent la [Classification normalisée des produits et services des Nations Unies](https://www.unspsc.org/). Il est essentiel de repérer le système de classification utilisé et de veiller à ce que les pratiques de passation des marchés publics durables et ouverts correspondent aux catégories existantes.
 {% endcallout %}
 
-## **Repérer les catégories de marchés à fort potentiel**
+## Repérer les catégories de marchés à fort potentiel
 
 Une façon logique de définir les catégories de marchés prioritaires est de repérer celles pour lesquelles l’adoption de pratiques durables peut avoir les retombées les plus significatives. Pour cela, vous devez analyser les objets de vos acquisitions et leurs effets.
 
@@ -87,7 +87,7 @@ L’incidence économique d’une catégorie de marchés dépendra largement de 
 Afin d’évaluer l’incidence de ces catégories, **vous devez également réfléchir quant à leur pertinence du point de vue stratégique.** Cela signifie, par exemple, que si un pays ou une organisation décide que les marchés publics durables et ouverts ont pour [objectif](/suivi-et-valuation) de l’aider à atteindre zéro émission nette, les catégories de marchés susceptibles d’entraîner une réduction des émissions de CO2 si elles font l’objet de marchés publics durables et ouverts doivent être définies comme prioritaires. **La mise en place de marchés publics durables et ouverts dans les catégories ayant une plus grande importance stratégique peut recevoir davantage d’appui de la part des parties prenantes, ce qui peut produire de meilleurs résultats.**
 {% endcallout %}
 
-## **Évaluer la facilité de mise en place**
+## Évaluer la facilité de mise en place
 
 En plus de repérer les catégories dans lesquelles des marchés publics durables et ouverts auraient un fort potentiel, vous devez également prendre en compte les ressources existantes qui peuvent faciliter leur mise en place.
 
@@ -130,7 +130,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 
 Les politiques et réglementations sur la durabilité en vigueur doivent être considérées comme des variables pour définir des catégories de marchés prioritaires et il est nécessaire de privilégier celles qui possèdent déjà un cadre propice à la mise en place de marchés publics durables. La législation a été examinée durant le processus d’analyse de [l’environnement habilitant](/mise-en-place) et peut inclure, par exemple, des règlements sur la gestion des déchets toxiques ou des conventions fondamentales de l’Organisation internationale du Travail.
 
-## **Diffusion et présentation de votre démarche et vos catégories de marchés prioritaires**
+## Diffusion et présentation de votre démarche et vos catégories de marchés prioritaires
 
 Comme expliqué au début de cette section, une fois que vous avez décidé de concentrer vos efforts en matière de marchés publics durables ouverts sur certaines catégories, vous avez intérêt à communiquer de façon ouverte les raisons qui ont guidé vos choix. Pour cela, vous pouvez élaborer un [plan d’action](/plan-daction)
  et devez rappeler ces raisons dans les contrats relevant des catégories de marchés prioritaires.

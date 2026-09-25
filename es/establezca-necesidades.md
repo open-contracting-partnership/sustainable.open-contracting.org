@@ -8,7 +8,7 @@ full_width: true
 notion_id: "52be44d8f3944dc8ab5157ae95f44202"
 sidebar: true
 ---
-# **Recopile información para evaluar las necesidades reales**
+# Recopile información para evaluar las necesidades reales
 
 Cuando decida implementar CPS, no sólo debe considerar cómo seleccionará la opción más sostenible, sino también asegurarse de que existe una necesidad real de los bienes, servicios u obras que va a comprar. A veces, puede encontrar que la opción más sostenible es evitar comprar cualquier cosa. Para evitar compras innecesarias y asegurarse de adquirir lo correcto, es fundamental realizar una evaluación de las necesidades antes de lanzar una licitación.
 
@@ -16,7 +16,7 @@ Cuando decida implementar CPS, no sólo debe considerar cómo seleccionará la o
 En esta sección, presentamos parte de la información clave que debe recopilarse para **identificar con éxito las necesidades reales y garantizar un proceso de contratación más abierto y sostenible.**
 {% endcallout %}
 
-## **Identifique las necesidades del usuario**
+## Identifique las necesidades del usuario
 
 Para hacer una evaluación de necesidades exitosa, es importante tener una comprensión clara de quiénes son los usuarios y recopilar la información necesaria para identificar sus necesidades. **Piense en cómo diseñar la contratación con ellos, no solo para ellos.**
 
@@ -73,7 +73,7 @@ Compartir el proceso de evaluación de necesidades es una parte esencial de una 
 **El sistema ha sido ampliamente elogiado tanto por profesionales médicos como por proveedores, lo que llevó a su implementación a nivel regional y nacional.**
 {% endcallout %}
 
-## **Considere opciones alternativas de contratación**
+## Considere opciones alternativas de contratación
 
 Una vez que se han identificado las necesidades de los usuarios, es importante evaluar diferentes opciones de contratación pública para encontrar una que satisfaga las necesidades de los usuarios de la manera más sostenible posible.
 
@@ -102,7 +102,7 @@ Enmarcar las necesidades de los usuarios en términos de resultados puede ayudar
 
 {% endtoggle %}
 
-## **Formule una declaración de necesidades**
+## Formule una declaración de necesidades
 
 Una vez haya identificado las necesidades usted las deberá traducir en una declaración de necesidades. La declaración debe incluir información sobre las necesidades identificadas y las alternativas de contratación que se han considerado.
 

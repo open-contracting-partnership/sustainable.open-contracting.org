@@ -8,7 +8,7 @@ full_width: true
 notion_id: "44ff818246af419b977484dca4f33a4e"
 sidebar: true
 ---
-# **Que désignent les marchés publics durables et ouverts ?**
+# Que désignent les marchés publics durables et ouverts ?
 
 Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : *les avantages économiques, sociaux et environnementaux.*
 
@@ -25,7 +25,7 @@ Pour approfondir l’analyse des marchés publics durables et de la commande pub
 - Découvrez [l’approche Open Contracting Partnership de la **commande publique ouverte**](https://www.open-contracting.org/implement/) et [comment elle peut contribuer à mettre en place des réformes efficaces et à grande échelle](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
-# **Comment l’ouverture favorise-t-elle les marchés publics durables ?**
+# Comment l’ouverture favorise-t-elle les marchés publics durables ?
 
 Dans leur version la plus élémentaire, on peut difficilement affirmer que les marchés publics favorisent le développement durable s’ils *ne sont pas* ouverts et transparents. Toutefois, depuis une perspective plus stratégique, nos gouvernements vont devoir changer fondamentalement leurs pratiques s’ils souhaitent s’attaquer aux nombreux défis environnementaux, ils devront donc faire participer de nouvelles parties prenantes et mettre l’accent sur l’innovation. Nous apprenons encore dans ce domaine, nous aurons donc aussi besoin de données de meilleure qualité concernant les acheteurs, les vendeurs, la période d’achat, les montants et les effets sur l’environnement et le développement durable qui y sont associés. Il faudra pour cela collecter de nouvelles formes de données et des analyses.
 
@@ -77,7 +77,7 @@ Les marchés publics durables et ouverts supposent d’évaluer et de divulguer 
 
 Les marchés publics durables et ouverts supposent de mettre au point, tester et reproduire à grande échelle les pratiques durables de passation de marchés à partir des données provenant des rapports et des avis recueillis. Il s’agit donc d’exploiter les données concernant les résultats des approches des marchés publics durables pour évaluer et reproduire à grande échelle les pratiques fructueuses.
 
-# **L’importance fondamentale des données de qualité**
+# L’importance fondamentale des données de qualité
 
 Pour pouvoir exploiter ces sept dimensions de l’ouverture, il est essentiel de pouvoir s’appuyer sur des données de qualité élevée. Par données de qualité élevée, nous entendons des [données normalisées](https://opengovdata.org/) dans un format ouvert et lisible par une machine.
 
@@ -92,7 +92,7 @@ Les signaux écologiques peuvent aider à déterminer les principales catégorie
 
 {% image /assets/images/tableau-openspp.jpg 1241 1754 align-start %}
 
-## **Le rôle primordial des identifiants dans le suivi des résultats des marchés publics durables**
+## Le rôle primordial des identifiants dans le suivi des résultats des marchés publics durables
 
 Les identifiants vous permettent de relier des données provenant de plusieurs systèmes. Le Standard de données sur la commande publique ouverte (OCDS) est notamment fondé sur l’attribution d’un identifiant unique public à chaque marché de façon à le suivre tout au long de son cycle de vie commercial.
 

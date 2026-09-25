@@ -8,17 +8,17 @@ full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 sidebar: true
 ---
-# **Exemple : évaluer l’inclusion des genres**
+# Exemple : évaluer l’inclusion des genres
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer la participation des entreprises dirigées par des femmes aux processus de passation de marchés.
 {% endcallout %}
 
-## **De quoi s’agit-il ?**
+## De quoi s’agit-il ?
 
 Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps.
 
-## **Quel est l’objectif ?**
+## Quel est l’objectif ?
 
 Les gouvernements dépensent chaque année la somme colossale de 13 000 milliards de dollars dans les marchés publics. Malheureusement, les petites entreprises et les entreprises dirigées par des femmes y sont largement sous-représentées. Par exemple, les entreprises dirigées par des femmes n’obtiennent que 5 % des marchés publics aux États-Unis et 17 % en Ukraine. À travers le prisme de l’intersectionnalité, des facteurs tels que la couleur de peau, le handicap et la localisation géographique limitent encore davantage l’accès des entreprises dirigées par des femmes aux marchés publics.
 
@@ -28,13 +28,13 @@ En 2020, nous avons commencé à approfondir ce sujet afin de déterminer *pourq
 Vous pouvez lire le [rapport complet](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), un [résumé](https://www.open-contracting.org/resources/empower-women-led-business-procurement/) ou un [article récapitulatif sur notre blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). Nous avons travaillé avec ONU-Femmes pour préparer une [note de synthèse](https://www.open-contracting.org/resources/empowering-women/) comprenant davantage d’exemples et des recommandations provenant du monde entier.
 {% endcallout %}
 
-## **Avantages**
+## Avantages
 
 Les données concernant les partenaires des gouvernements peuvent aider à repérer des biais systémiques pouvant être corrigés par l’amélioration des politiques et pratiques de passation de marchés.
 
 Dans la plupart des pays, la participation d’entreprises dirigées par des femmes aux marchés publics ne peut pas être évaluée parce que les données requises n’existent pas. En Colombie, l’agence nationale de passation des marchés publics, Colombia Compra Eficiente, a commencé à évaluer l’inclusion en publiant des données ventilées par sexe concernant l’ensemble des marchés attribués à l’aide du Standard de données sur la commande publique ouverte. Le sexe de la personne représentant le fournisseur a été utilisé pour déterminer si l’entreprise était dirigée par une femme ou non. Cette agence œuvre désormais pour la prise en compte de nouveaux critères afin d’analyser les différences en matière de participation des entreprises dirigées par des femmes à l’aide d’un tableau de bord public qui utilise divers indicateurs, comme le secteur, la région et la valeur des marchés.
 
-## **Pour commencer**
+## Pour commencer
 
 La définition du concept et le recensement des entreprises dirigées par des femmes sont la première étape pour renforcer l’égalité entre les genres dans la commande publique.
 
@@ -64,9 +64,9 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 {% endgallery %}
 {% enddatabase %}
 
-## **Possibilités de collecte des données**
+## Possibilités de collecte des données
 
-### **Déterminer le sexe de la personne qui détient le capital d’une entreprise lors de la soumission des offres**
+### Déterminer le sexe de la personne qui détient le capital d’une entreprise lors de la soumission des offres
 
 Le Standard de données sur la commande publique ouverte [recommande](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) de mettre en évidence les organisations dirigées par des femmes à l’aide de [l’extension concernant la classification des organisations](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Cette approche encourage les producteurs de données à élaborer leur définition du concept d’entreprise dirigée par une femme.
 
@@ -202,7 +202,7 @@ A legally mandated national or statewide reporting on company ownership or gende
 
 Suppliers can include in their tender submission what actions they take to promote gender equality. This can include commitments to recognised public schemes (e.g. grants for women in tech, back to work schemes for mothers).
 
-## **Exemples d’indicateurs**
+## Exemples d’indicateurs
 
 À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](/suivi-et-valuation) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 

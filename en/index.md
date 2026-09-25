@@ -9,7 +9,7 @@ full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
 sidebar: true
 ---
-# **This toolkit will help you to rethink sustainable public procurement driving better adoption and measurement through an open, data-driven and inclusive approach.**
+# This toolkit will help you to rethink sustainable public procurement driving better adoption and measurement through an open, data-driven and inclusive approach
 
 **Sustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started.**
 

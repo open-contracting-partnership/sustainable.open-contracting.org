@@ -8,23 +8,23 @@ full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
 sidebar: true
 ---
-# **Ejemplo resuelto: Medición de la reducción de carbono**
+# Ejemplo resuelto: Medición de la reducción de carbono
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 En esta sección le explicaremos cómo puede usar datos para medir y monitorear el progreso contra el objetivo de promover reducción de carbono mediante contratación.
 {% endcallout %}
 
-## **¿Qué es?**
+## ¿Qué es?
 
 Los gobiernos y las empresas están fijando plazos para lograr cero emisiones. La contratación pública se puede utilizar como palanca para impulsar el cambio mediante la promoción de alternativas bajas en carbono en las cadenas de suministro del gobierno.
 
 Este ejemplo describe cómo al usar buenos datos de contratación y combinarlos con datos de emisiones, es posible ayudar a comunicar no solo las emisiones probables de las actividades de contratación, sino también los ahorros potenciales que se pueden esperar al exigir alternativas más bajas en carbono.
 
-## **¿Por qué hacerlo?**
+## ¿Por qué hacerlo?
 
 La reducción de las emisiones de carbono está en el centro de la lucha contra el cambio climático. Este ejemplo proporciona una metodología para estimar la intensidad de carbono de los contratos públicos, lo que le permite adoptar enfoques para reducir las emisiones de CO2 de la contratación.
 
-## **Beneficios**
+## Beneficios
 
 La publicación de buenos datos sobre las emisiones de carbono tiene múltiples efectos positivos para aquellos que buscan abordar sus emisiones de carbono:
 
@@ -40,7 +40,7 @@ Premia a los proveedores que se comprometan a reducir la intensidad de carbono e
 La publicación y el análisis de buenos datos desbloquearán el aprendizaje y la iteración sobre qué políticas y procesos funcionan para reducir la intensidad de carbono. No puedes administrar lo que no puedes medir.
 {% endcallout %}
 
-## **Para empezar**
+## Para empezar
 
 Las prioridades inmediatas para la reducción de carbono incluyen emisiones de carbono y otras emisiones de gases de efecto invernadero como el metano y emisiones peligrosas como los óxidos de nitrógeno. Más allá de esto, otras métricas en torno a la reducción de carbono incluyen el cumplimiento de la certificación y la medición de los desechos plásticos.
 
@@ -62,7 +62,7 @@ Las prioridades inmediatas para la reducción de carbono incluyen emisiones de c
 {% endgallery %}
 {% enddatabase %}
 
-## **Opciones para el uso de datos**
+## Opciones para el uso de datos
 
 Existe una serie de opciones diferentes disponibles para aquellos que buscan vincular los datos de adquisiciones con el carbono. Estos pueden variar desde simplemente identificar una oportunidad de contrato como "adecuada para alternativas bajas en carbono" hasta requerir información detallada sobre la cantidad de carbono ahorrado durante un contrato.
 
@@ -72,23 +72,23 @@ Existe una serie de opciones diferentes disponibles para aquellos que buscan vin
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado cuatro que pueden ser especialmente útiles para medir la reducción de carbono:
 
-### **Solicite sugerencias sostenibles (Opción 5)**
+### Solicite sugerencias sostenibles (Opción 5)
 
 Anime a los proveedores a que describan cómo reducirán las emisiones de carbono asociadas a su contrato.
 
-### **Prevea el impacto del contrato (Opción 4)**
+### Prevea el impacto del contrato (Opción 4)
 
 Estimar los valores de carbono para los contratos es una buena manera de proyectar las emisiones acumulativas y el posible efecto de cambiar las estrategias de adquisición. Puede ayudar a los compradores a centrar sus esfuerzos en las categorías con mayor impacto. Esto también puede ayudar a los compradores a establecer “presupuestos” de carbono, asegurando que los proveedores deben cumplir con una cantidad específica de emisiones durante el contrato. Los datos se pueden utilizar para informar a los proveedores sobre este requisito, pero también para realizar un análisis acumulativo de las iniciativas de contratación en todo el gobierno. Este enfoque se utiliza mejor en una sola categoría bien medida, como la energía.
 
-### **Monitoree el desempeño del contrato (Opción 7)**
+### Monitoree el desempeño del contrato (Opción 7)
 
 Los compradores públicos pueden proporcionar información sobre las emisiones de carbono durante o al finalizar un contrato. Varias industrias, como la de viajes y la de la construcción, tienen medidas estandarizadas para sus emisiones y estas pueden incluirse en cualquier actualización de desempeño del contrato. Dado que se está trabajando para crear un [tratado vinculante](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sobre desechos plásticos, estos enfoques también se pueden tomar para medir el uso de plástico, especialmente en sectores que están sesgados hacia un uso intensivo, como la construcción y los medicamentos/equipos médicos.
 
-### **Mida el uso de certificaciones (Opción 6)**
+### Mida el uso de certificaciones (Opción 6)
 
 Usted podrá utilizar certificaciones como las Declaraciones Ambientales de Producto (EPD) para recopilar información sobre las emisiones de carbono asociadas con un producto. También puede solicitar el uso de otras certificaciones ambientales (por ejemplo, ecoetiquetas tipo I) y evaluar su impacto contrastando datos de previsión y ejecución de contratos.
 
-## **Indicadores de muestra**
+## Indicadores de muestra
 
 A continuación se presentan algunas opciones simples de código bajo y sin código que pueden ayudar a los gobiernos a medir la aceptación de las políticas y las reducciones probables que se estén asegurando mediante la especificación de productos y servicios bajos en carbono. También es una excelente manera de comunicar que usted está tomando medidas sobre el clima de manera más general.
 

@@ -14,7 +14,7 @@ When implementing SPP in specific procurement categories, it is important to und
 In this section, we identify which are the **key sustainability variables in ICT procurement.** Each factor is presented as a data group, highlighting which is the most relevant information that should be captured to determine the impact that each group will have on the sustainability of the procurement.
 {% endcallout %}
 
-## **Recycled content**
+## Recycled content
 
 The use of recycled materials in ICT equipment can contribute to lower its environmental impact. Some of the variables that can be considered are:
 
@@ -46,7 +46,7 @@ Another variable that can be considered when procuring ICT equipment, particular
 
 Energy efficiency is the main variable that will determine the environmental impact of an ICT product during its use life. To measure energy efficiency, Typical Energy Consumption (ETEC) per year should be captured (calculated in kWh). Compliance with [Energy Star](https://www.energystar.gov/products/computers#bg) can be set as technical specification to ensure better energy efficiency, this indicates that the product uses less energy than at least 75% of available products in the market.
 
-## **Hazardous substances**
+## Hazardous substances
 
 The use of hazardous substances in ICT equipment can be dangerous for those handling the materials throughout the life-cycle of the product, from manufacturing to waste management. Information can be required from the supplier regarding the efforts to reduce or eliminate the use of these substances.
 
@@ -55,7 +55,7 @@ For displays, for example, [on pages 124 to 134](https://tcocertified.com/files/
 <br>Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://tcocertified.com/industry/accepted-substance-list/) that can be used as guidance.
 {% endcallout %}
 
-## **Repairability, upgradeability and recyclability**
+## Repairability, upgradeability and recyclability
 
 Sustainable practices in the ICT sector aim to promote circularity and prolong the use life of existing equipment in order to minimize the environmental impact associated with the manufacturing of new equipment. Repairing, upgrading and recycling existing equipment is one of the main ways to achieve this goal. To measure the repairability, upgradeability and recyclability of ICT equipment, the following variables can be considered:
 
@@ -81,11 +81,11 @@ Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/file
 
 {% endtoggle %}
 
-## **Data security**
+## Data security
 
 Data security information is a variable that should be captured to ensure that privacy and security have been built into the procured ICT hardware. [Page 15 of HP’s sustainable IT purchasing guide](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf) provides guidance on data security information that procurers can require of potential vendors and the technology purchased.
 
-## **End-of-life management**
+## End-of-life management
 
 In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. For example, this can be clearly captured whether the supplier can provide a take-back, re-use or recycling service, and whether this service is also available for individual components, such as batteries.
 

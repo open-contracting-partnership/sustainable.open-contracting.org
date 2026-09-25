@@ -19,6 +19,6 @@ One of the challenges of this approach lies in different organizations within a 
 
 Categories such as UNSPSC or CPV that are published or assigned through machine learning can be used for sector analysis. This means aggregating the contract value calculated by start date and end date for each sector, such as Information Technology, and then comparing this to gender pay metrics.
 
-### **Measuring over time**
+### Measuring over time
 
 With good, consistent publishing, analysis can be carried out over time to identify trends, specifically the delta of gender metric between one year and another.

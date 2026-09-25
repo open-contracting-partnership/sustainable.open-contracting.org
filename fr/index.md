@@ -9,7 +9,7 @@ full_width: true
 notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 sidebar: true
 ---
-# **Ce guide pratique vous aidera à repenser les marchés publics durables afin qu’ils soient mis en place et évalués plus efficacement par l’entremise d’une approche ouverte, axée sur les données et inclusive.**
+# Ce guide pratique vous aidera à repenser les marchés publics durables afin qu’ils soient mis en place et évalués plus efficacement par l’entremise d’une approche ouverte, axée sur les données et inclusive
 
 **La mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.**
 

@@ -12,7 +12,7 @@ sidebar: true
 In this section, we identify which are the **key sustainability variables that can be captured in a construction project.** For each variable, we also provide guidance on **how you can use these variables to introduce sustainability criteria in the procurement process.** As we introduced earlier in the toolkit, this will mainly depend on market capability.
 {% endcallout %}
 
-### **Material use**
+### Material use
 
 It is estimated that around 40-50% of natural resources are transformed into construction material, and that as much as 30% of all building materials delivered to a construction site end up in waste. To minimize this, it is important to ensure that the procurement process allows for careful and detailed planning of resource use during the project. In order to promote this, and encourage the use of sustainable materials, the following data should be captured during the project:
 

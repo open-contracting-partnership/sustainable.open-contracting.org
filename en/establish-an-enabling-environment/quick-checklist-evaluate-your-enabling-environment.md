@@ -9,7 +9,7 @@ notion_id: "6a6a2d45158d4269aec4e02ab7172371"
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit](/).
 {% endcallout %}
 
-### Quick c**hecklist**
+### Quick checklist
 
 **First, check the regulation regarding evaluation or award criteria (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):**
 

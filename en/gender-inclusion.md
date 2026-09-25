@@ -54,7 +54,7 @@ In most countries, the participation of women businesses in public procurement c
 {% endgallery %}
 {% enddatabase %}
 
-## **Options for data use**
+## Options for data use
 
 Gender data is typically more limited than other types of SPP data, this is usually down to the difficulty of collecting and processing good data. Centralizing data on suppliers will be an important step forward when considering gender analysis, as this will allow a supplier to report once and have multiple buyers share and evaluate that data.
 
@@ -102,7 +102,7 @@ We have included these outcomes below, together with the corresponding indicator
 
 Through insights gained from the data, buyers can use this to direct more spending in public procurement to deliver meaningful change, particularly in industries where the government is an important buyer. If data on gender disparity is published openly, others can monitor the activities of suppliers and the data can be used to make positive changes to their own organizations and to deliver improved bids for future contracts.
 
-## **Policy measures to improve gender equity**
+## Policy measures to improve gender equity
 
 - **Increase access to finance and/or ensure prompt payment of government suppliers.**
 

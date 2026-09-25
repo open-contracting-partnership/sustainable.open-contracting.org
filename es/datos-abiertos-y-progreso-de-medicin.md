@@ -15,7 +15,7 @@ A lo largo del conjunto de herramientas, hemos explicado la importancia de los d
 Como se puede ver en el diagrama a continuación, primero presentamos un conjunto de consideraciones y opciones generales de recopilación de datos sobre cómo usar los datos para medir el progreso en diferentes objetivos. Luego, convertimos los cinco objetivos del marco de M&E en cinco ejemplos prácticos de cómo usar datos abiertos para medir el progreso en: (1) adopción de CPS, (2) reducción de carbono, (3) inclusión de género, (4) desarrollo económico, y (5) promover el costeo del ciclo de vida.
 {% endcallout %}
 
-## **Pasos para recopilar y publicar datos**
+## Pasos para recopilar y publicar datos
 
 Antes de presentar las diferentes opciones para el uso de datos, queremos llamar su atención sobre los diferentes factores que afectarán y darán forma al enfoque que puede adoptar para la recopilación de datos. Evaluarlos es el primer paso hacia el diseño de un proceso claro para que los profesionales de adquisiciones compartan los datos requeridos. A continuación, incluimos algunos factores clave que debe considerar como parte de esta evaluación:
 

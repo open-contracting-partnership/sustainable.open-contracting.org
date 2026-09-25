@@ -8,7 +8,7 @@ full_width: true
 notion_id: "2462de71d6934cb485309c397db0d90b"
 sidebar: true
 ---
-# **What is SPP important in the Information and Communications Technology (ICT) sector?**
+# What is SPP important in the Information and Communications Technology (ICT) sector?
 
 The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities.
 

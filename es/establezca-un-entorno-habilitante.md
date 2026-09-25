@@ -8,7 +8,7 @@ full_width: true
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
 sidebar: true
 ---
-# **Establezca un entorno habilitante**
+# Establezca un entorno habilitante
 
 Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país.
 
@@ -18,13 +18,13 @@ Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaci
 Esto resulta esencial en la generación de confianza, y la consolidación de la implementación efectiva de CPS Abierta. Además, al final de la sección encontrará orientaciones sobre la manera de traducir la comunicación en acciones específicas.
 {% endcallout %}
 
-## **Evalúe su entorno habilitante rápidamente**
+## Evalúe su entorno habilitante rápidamente
 
 {% page /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante %}
 
 Para mayores detalles sobre el proceso y sus conceptos, como aparecen en la lista de chequeo, debe seguir leyendo esta sección.
 
-## **Verifique los criterios de evaluación o adjudicación**
+## Verifique los criterios de evaluación o adjudicación
 
 En la mayoría de los países las normas y políticas no incluyen disposiciones explícitas para las consideraciones de sostenibilidad dentro del proceso de contratación. Sin embargo, siempre incluyen algunos principios, expresados como “justo”, “equitativo”, “económico”, “valor por el dinero (VfM)”, “eficiente”, “eficaz” como guías para los hacer decisiones en procesos de contratación.
 
@@ -66,7 +66,7 @@ En tal caso, igualmente se puede diseñar un proceso de evaluación para que la 
 **En América Latina y África en especial los principios de contratación muchas veces quedan consagrados en la constitución política**, y en algunas ocasiones se mencionan como principios que rigen las actividades de agencias públicas" o el "gasto de fondos públicos". La identificación de estos principios y de manera que fidedignos puede ser de ayuda en orientable sus decisiones sobre lo que usted puede considerar al comparar las ofertas en el proceso de contratación.
 {% endcallout %}
 
-## **Identifique habilitantes clave para CPS**
+## Identifique habilitantes clave para CPS
 
 Dentro de su régimen de contratación Debe haber algunos vehículos de política, tales como Acuerdos Marco, o protocolos para diálogo competitivo, que al mismo tiempo juegan un papel importante en la habilitación de la entrega de una contratación sostenible. En esta sección incluimos información sobre algunos de estos mecanismos, y el rol que ponen jugar en el contexto de CPS.
 
@@ -91,7 +91,9 @@ Dentro de su régimen de contratación Debe haber algunos vehículos de polític
 {% endgallery %}
 {% enddatabase %}
 
-## **Comparta su sendero de cumplimientoUna vez haya evaluado su entorno habilitante, usted deberá efectuar una comunicación clara de cómo consolida su enfoque sobre CPS. Esto se puede traducir en dos actividades clave:**
+## Comparta su sendero de cumplimiento
+
+Una vez haya evaluado su entorno habilitante, usted deberá efectuar una comunicación clara de cómo consolida su enfoque sobre CPS. Esto se puede traducir en dos actividades clave:
 
 Una vez haya evaluado su entorno habilitante, usted deberá efectuar una comunicación clara de cómo consolida su enfoque sobre CPS. Esto se puede traducir en dos actividades clave:
 
@@ -104,7 +106,7 @@ Para una revisión rápida de los documentos de reglamentos y de políticas que 
 
 Este proceso le ayudará a establecer confianza en el mercado de proveedores y entre los responsables de contratación, que los enfoques a la CPS Abierta han sido bien diseñados, y se compaginan bien con todas las normas vigentes.
 
-## **Ponga las redes de apoyo a su alcance**
+## Ponga las redes de apoyo a su alcance
 
 Al contemplar la implementación de prácticas de CPS Abierta por primera vez, podría ser útil aprender de otros equipos que están trabajando también en iniciativas de CPS. Esas redes ofrecen una oportunidad de compartir opiniones y mejores prácticas abiertamente, y de aprender una de otra.
 

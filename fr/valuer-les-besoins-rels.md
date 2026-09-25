@@ -8,7 +8,7 @@ full_width: true
 notion_id: e5cfb6fe384a4c9ea8e7bea503cb65d4
 sidebar: true
 ---
-# **Recueillir des informations pour évaluer les besoins réels**
+# Recueillir des informations pour évaluer les besoins réels
 
 Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pas de trouver le moyen d’opter pour la solution la plus durable, vous devrez également vous assurer qu’un besoin réel existe concernant les biens, services ou travaux que vous prévoyez d’acquérir. Parfois, il se peut que l’option la plus durable soit de ne rien acheter. Afin d’éviter les achats superflus et d’assurer l’adéquation de l’objet du marché, il est essentiel d’évaluer les besoins avant de lancer un appel d’offres.
 
@@ -16,7 +16,7 @@ Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pa
 *Dans cette section, nous présentons les principales informations que vous devez réunir pour recenser fidèlement les besoins réels et garantir la mise en place de marchés plus ouverts et durables.*
 {% endcallout %}
 
-## **Recenser les besoins des bénéficiaires cibles**
+## Recenser les besoins des bénéficiaires cibles
 
 Afin d’évaluer efficacement les besoins, il est important d’acquérir une bonne compréhension du profil des bénéficiaires que vous ciblez et de collecter des informations qui permettront de recenser leurs besoins. Envisagez les différentes possibilités qui vous permettront de concevoir des marchés publics avec les bénéficiaires, et pas seulement pour les bénéficiaires.
 
@@ -73,7 +73,7 @@ Le CONSIP convient des spécifications de l’appel d’offres avec des groupes 
 Ce système a été plébiscité par la profession et les fournisseurs, ce qui a entraîné sa mise en place à l’échelle régionale et nationale.
 {% endcallout %}
 
-## **Étudiez toutes les possibilités**
+## Étudiez toutes les possibilités
 
 Après avoir recensé les besoins des bénéficiaires, il est important d’évaluer les différentes possibilités d’achat afin de choisir celle qui répond aux besoins des bénéficiaires de la façon la plus responsable possible.
 
@@ -101,7 +101,7 @@ Le fait de formuler les besoins des bénéficiaires sous la forme de résultats 
 
 {% endtoggle %}
 
-## **Dresser un exposé des besoins**
+## Dresser un exposé des besoins
 
 Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dresser un exposé des besoins. Cet exposé doit inclure des informations concernant les besoins recensés et les possibilités d’achat envisagées.
 

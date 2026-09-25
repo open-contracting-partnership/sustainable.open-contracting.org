@@ -8,7 +8,7 @@ full_width: true
 notion_id: e04c4d5f89b14bf0b064b4893eb79e82
 sidebar: true
 ---
-# **Mise en place de l’environnement habilitant**
+# Mise en place de l’environnement habilitant
 
 Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
 
@@ -16,13 +16,13 @@ Vous voulez certainement vous assurer que les pratiques durables de passation de
 *Dans cette section, nous expliquons comment les acheteurs publics peuvent mettre en place des marchés publics durables dans différents contextes. Vous trouverez une liste de vérification permettant d’analyser la législation et les politiques relatifs aux critères applicables aux marchés publics durables. Nous abordons également la divulgation de ces éléments aux parties prenantes concernées, une étape essentielle pour créer un rapport de confiance et favoriser la bonne mise en place de marchés publics durables. Vous trouverez également des conseils sur la traduction de ces aspects en actions concrètes à la fin de cette section.*
 {% endcallout %}
 
-# **Évaluation rapide de votre environnement habilitant**
+# Évaluation rapide de votre environnement habilitant
 
 {% page /mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant %}
 
 Pour une présentation plus détaillée du processus et des concepts abordés dans la liste de vérification, poursuivez la lecture de cette section.
 
-# **Vérification ou critères d’attribution**
+# Vérification ou critères d’attribution
 
 Dans la plupart des pays, la législation et les politiques en vigueur ne possèdent pas de dispositions explicites sur la prise en compte de la durabilité dans les processus de passation de marchés. Toutefois, elles incluent toujours certains principes, comme la « justice », « l’équité », « l’économie », « le rapport qualité-prix », « l’efficience » ou « l’efficacité » pour guider les processus de prise de décisions en matière d’achat.
 
@@ -64,7 +64,7 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
 *En Amérique latine et en Afrique en particulier, les principes de passation des marchés publics figurent souvent dans la constitution et sont parfois décrits comme des principes qui « régissent les activités des organismes publics » ou « l’utilisation des fonds publics ». Le recensement de ces principes et l’étude des conditions dans lesquels ils ont été définis peuvent guider vos décisions concernant les éléments que vous prendrez en compte au moment de comparer les offres durant le processus de passation de marchés.*
 {% endcallout %}
 
-# **Repérer les mécanismes essentiels de promotion des marchés publics durables**
+# Repérer les mécanismes essentiels de promotion des marchés publics durables
 
 Parmi vos règles de passation de marchés, vous trouverez des instruments de politiques, comme des accords-cadres ou des procédures de dialogue compétitif, qui peuvent également jouer un rôle essentiel de facilitation de la mise en place de marchés publics durables. Dans cette section, vous trouverez une description de certains de ces mécanismes et du rôle qu’ils peuvent jouer en ce qui concerne les marchés publics durables.
 
@@ -85,7 +85,7 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 {% endgallery %}
 {% enddatabase %}
 
-## **Fournir des preuves de conformité**
+## Fournir des preuves de conformité
 
 Après avoir évalué votre environnement habilitant, vous devez indiquer clairement comment celui-ci soutient votre approche des marchés publics durables. Cela peut se traduire par deux actions essentielles.
 
@@ -98,7 +98,7 @@ Afin de pouvoir passer en revue les différents documents de réglementation et 
 
 Ce processus vous permettra d’obtenir la confiance des acteurs du marché et des fonctionnaires responsables de la passation de marchés concernant le fait que les approches des marchés publics durables ont été bien conçues et suivent les règles en vigueur.
 
-# **Se rapprocher des réseaux d’accompagnement**
+# Se rapprocher des réseaux d’accompagnement
 
 Lorsque vous envisagez d’adopter des pratiques durables de passation de marchés pour la première fois, il peut être utile d’apprendre d’autres équipes travaillant également sur des initiatives axées sur les marchés publics durables. Ces réseaux permettent aux participants de partager de façon ouverte des connaissances et les meilleures pratiques ainsi que d’apprendre les uns des autres.
 

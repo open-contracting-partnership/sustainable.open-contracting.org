@@ -12,11 +12,11 @@ sidebar: true
 En esta sección incluimos información clave para **entender las ecoetiquetas y la función que cumplen para facilitar la implementación de CPS.**
 {% endcallout %}
 
-## **¿Qué son las ecoetiquetas?**
+## ¿Qué son las ecoetiquetas?
 
 La Red Global de Ecoetiquetado  *(Global Ecolabelling Network* (GEN) [define ecoetiquetado](https://globalecolabelling.net/what-is-eco-labelling/) como “un método voluntario de certificación del desempeño y ecoletiquetado ambiental que se practica alrededor del mundo”. De este modo, una “ecoetiqueta identifica productos o servicios que comprueben ser ambientalmente preferibles dentro de una categoría específica”. Para tener una ecoetiqueta, los productos deben cumplir con una serie de criterios. Aunque la mayoría de las ecoetiquetas se enfocan en criterios ambientales, algunas han comenzado a incluir algunos criterios sociales, tales como si se han respetado los derechos ambientales durante el proceso de fabricación del producto.
 
-## **¿Qué tipo de ecoetiquetas hay?**
+## ¿Qué tipo de ecoetiquetas hay?
 
 La Organización de Normas Internacionales (ISO) actualmente clasifica las etiquetas en tres tipos:
 
@@ -44,7 +44,7 @@ Estas etiquetas tienen las mismas características que las ecoetiquetas Tipo I, 
 
 {% endtoggle %}
 
-### **Cómo puede usted aplicar ecoetiquetas en todo el proceso de implementación CPS**
+### Cómo puede usted aplicar ecoetiquetas en todo el proceso de implementación CPS
 
 Las etiquetas ecológicas se pueden aplicar en diferentes etapas y de diferentes maneras a lo largo de la implementación de CPS, que incluyen:
 
@@ -68,7 +68,7 @@ When considering SPP implementation, it can be useful to focus efforts on specif
 
 Finalmente, las EPD de Tipo III pueden ser muy útiles para comparar entre diferentes productos y recopilar datos ambientales relevantes, como las emisiones de CO2. Sin embargo, estas no son tan comunes como otras etiquetas, como las ecoetiquetas Tipo I y Tipo I.
 
-## **¿Cómo puede encontrar etiquetas ecológicas relevantes?**
+## ¿Cómo puede encontrar etiquetas ecológicas relevantes?
 
 Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según las categorías de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](/sector-ict-en-ingls) y [construcción](/sector-de-la-construccin-en-ingls).
 

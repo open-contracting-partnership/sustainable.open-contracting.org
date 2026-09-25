@@ -12,11 +12,11 @@ sidebar: true
 *Dans cette section, vous trouverez des renseignements essentiels qui vous aideront à comprendre les éco-étiquettes et le rôle qu’elles peuvent jouer dans la mise en place de marchés publics durables.*
 {% endcallout %}
 
-## ***Que sont les éco-étiquettes ?***
+## Que sont les éco-étiquettes ?
 
 Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globalecolabelling.net/what-is-eco-labelling/) comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. Pour posséder une éco-étiquette, les produits doivent respecter certains critères. Bien que la plupart des éco-étiquettes soient axées sur des critères environnementaux, certains programmes de certification ont commencé à inclure des critères sociaux, par exemple concernant le respect des droits du travail durant le processus de fabrication du produit.
 
-## **Quels sont les différents types d’éco-étiquettes ?**
+## Quels sont les différents types d’éco-étiquettes ?
 
 L’Organisation internationale de normalisation (ISO) distingue actuellement trois types d’éco-étiquettes :
 
@@ -44,7 +44,7 @@ Ces étiquettes possèdent les mêmes caractéristiques que les éco-étiquettes
 
 {% endtoggle %}
 
-### **Comment utiliser des éco-étiquettes dans le cadre de la mise en place de marchés publics durables ?**
+### Comment utiliser des éco-étiquettes dans le cadre de la mise en place de marchés publics durables ?
 
 Les éco-étiquettes peuvent être utilisées à différentes étapes et de différentes façons pour mettre en place des marchés publics durables. Voici quelques possibilités :
 
@@ -68,7 +68,7 @@ En ce qui concerne la mise en place de marchés publics durables, il peut être 
 
 Enfin, les déclarations environnementales de produit correspondant aux éco-étiquettes de type III peuvent être particulièrement utiles pour comparer différents produits et réunir des données environnementales pertinentes, par exemple concernant les émissions de CO2. Toutefois, elles ne sont pas aussi courantes que les autres étiquettes, notamment de type I ou apparentées au type I.
 
-## **Comment repérer les éco-étiquettes pertinentes ?**
+## Comment repérer les éco-étiquettes pertinentes ?
 
 Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
 

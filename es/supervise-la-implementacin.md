@@ -8,7 +8,7 @@ full_width: true
 notion_id: a50801a104c9467c965b7bf99b78334f
 sidebar: true
 ---
-# **Gestión de la sostenibilidad a lo largo del contrato**
+# Gestión de la sostenibilidad a lo largo del contrato
 
 Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.
 
@@ -21,7 +21,7 @@ En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar p
 <br></strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción.
 {% endcallout %}
 
-## **¿Cómo se puede monitorear el desempeño durante la implementación del contrato?**
+## ¿Cómo se puede monitorear el desempeño durante la implementación del contrato?
 
 Existen diferentes mecanismos que pueden usarse para monitorear el desempeño frente a los criterios de sostenibilidad acordados en su contrato. A continuación, hemos incluido algunos de los pasos que se pueden seguir para recopilar los datos de rendimiento necesarios, enmarcados en torno al rendimiento frente al cumplimiento.
 

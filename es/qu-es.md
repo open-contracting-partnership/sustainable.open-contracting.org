@@ -25,7 +25,7 @@ Para obtener un desglose más profundo tanto de CPS como de contratación abiert
 - Usted podrá ver [el enfoque de Asociación de Contratación Abierta](https://www.open-contracting.org/implement/) y [cómo ayuda a que las reformas se amplíen y se mantengan](https://www.open-contracting.org/impact/).
 {% endcallout %}
 
-# **Cómo la apertura puede ayudar a la contratación pública sostenible**
+# Cómo la apertura puede ayudar a la contratación pública sostenible
 
 A su nivel más simple, es difícil argumentar que la contratación fomentará el desarrollo sostenible si no es abierta y transparente. Pero, de manera más estratégica, nuestros gobiernos tendrán que hacer compras de una manera fundamentalmente diferente si quieren abordar los muchos desafíos ambientales que enfrentamos, por lo que tendrán que involucrar a nuevas partes interesadas y escalar las innovaciones.
 
@@ -77,7 +77,7 @@ CPS Abierta se basa en medir y comunicar claramente el impacto de las prácticas
 
 CPS Abierta implica dar forma, probar y escalar las prácticas de SPP, en función de los datos de informes y los comentarios recopilados. Esto implica el uso de datos sobre los resultados de sus enfoques SPP para evaluar y escalar lo que ha funcionado.
 
-# **La importancia de datos buenos como base**
+# La importancia de datos buenos como base
 
 Para cumplir con estas siete dimensiones de la apertura, los datos de alta calidad son cruciales. Esto significa [datos estandarizados](https://opengovdata.org/) en formatos abiertos y legibles por máquina.
 
@@ -90,7 +90,7 @@ Ya hemos compilado [una guía](https://www.open-contracting.org/resources/green-
 
 Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos clave que necesita para poder planificar e implementar contrataciones públicas ecológicas. El siguiente gráfico ilustra algunos de los puntos de datos clave que usted puede capturar en las etapas de planificación, licitación, adjudicación y entrega de contratos públicos y cómo ayudan a rastrear, informar y analizar la contratación pública.
 
-### **Datos de contratación unidos: ¿Qué publicar y por qué?**
+### Datos de contratación unidos: ¿Qué publicar y por qué?
 
 {% table 180 180 180 180 180 col-header %}
 | **Planeación** | **Licitación** | **Adjudicación** | **Contrato** | **Ejecución** |
@@ -99,7 +99,7 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 | *Que permita:*<br>Análisis de inversiones verdes planeadas y prioridades.<br>Informar a los proveedores acerca de oportunidades GPP venideras.<br>Identificar si un procedimiento específico tiene criterios verdes.<br>Planeación estratégica alrededor de la transición verde.<br>Investigación del mercado.<br>Fijar y articular prioridades verdes. | *Que permita:*<br>Filtrar y hacer seguimiento a procedimientos GPP para supervisión de políticas.<br>Comparaciones de análisis/precio específicos por categoría.<br>Que los proveedores encuentren oportunidades de negocio verde.<br>Análisis de resultados GPP previstos.<br>Compromiso/consultas<br>/retroalimentación informados del proveedor<br>Desempeño /análisis del mercado del proveedor.<br>Oferta competitiva.<br>Análisis de bandera roja. | *Que permita:*<br>Identificar adjudicaciones relacionadas con GPP – claves para análisis de la supervisión<br>Análisis específico del mercado verde.<br>Análisis de resultados verdes previstos.<br>Que los proveedores identifiquen futuras oportunidades de negocio.<br>Un mecanismo eficiente de quejas<br>Vínculos a datos de propiedad<br>Análisis de bandera roja | *Que permita:*<br>Identificar cuáles contratos se refieren a GPP.<br>Análisis de resultados / impactos potenciales verdes.<br>Análisis de costos y rubros | *Que permita:*<br>Resultados basados en contratación.<br>Implementación de supervisión, en particular si se alcanzaron os objetivos GPP.<br>Eficiencia de la ejecución del contrato en cuanto a objetivos verdes.<br>Análisis de planeación GPP futura.<br>Análisis de costos final.<br>Análisis de bandera roja. |
 {% endtable %}
 
-## **El papel esencial de los identificadores para rastrear el desempeño de CPS**
+## El papel esencial de los identificadores para rastrear el desempeño de CPS
 
 Los identificadores le permiten a usted vincular datos de diferentes sistemas. Un elemento central del Estándar de datos de contrataciones abiertas es una identificación única y no patentada para cada contrato público que permite realizar un seguimiento a lo largo de su ciclo de vida comercial.
 

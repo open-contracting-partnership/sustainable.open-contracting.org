@@ -37,7 +37,7 @@ Market engagement practices in the context of Open SPP implementation are normal
 **A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is [Mexico’s City Ecobici bike sharing system](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city).** For more information on how open market engagement approaches can help drive SPP **see [this report](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) published by The Chicago Council on Global Affairs.**
 {% endcallout %}
 
-## **How can you most effectively engage with the market?**
+## How can you most effectively engage with the market?
 
 Market engagement practices can vary depending on the different stages of the Open SPP process.
 

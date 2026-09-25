@@ -64,7 +64,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 {% endtoggle %}
 
-## **Standardize sustainability criteria**
+## Standardize sustainability criteria
 
 Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the [prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be [included in procurement processes](/set-sustainability-criteria).
 
@@ -72,7 +72,7 @@ Governments buy a huge range of materials and most procurement practitioners don
 A good example of this guidance is the U.S. General Service Administration’s [Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
 {% endcallout %}
 
-## **Create and share sustainability registries and catalogs**
+## Create and share sustainability registries and catalogs
 
 In the enabling framework section, we introduced how introducing sustainability criteria in [framework agreements](/establish-an-enabling-environment/framework-agreements) can constitute an SPP enabler. Another way to create a pre-selected list of more sustainable suppliers is through public and accessible catalogs and registries.
 
@@ -84,7 +84,7 @@ For more guidance on how to use procurement data to create SPP supplier registri
 An example of a catalog for environmental purchases is Thailand’s [Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the [National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way [to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
 {% endcallout %}
 
-## **Set up a Help Desk and central information point**
+## Set up a Help Desk and central information point
 
 Changing public procurement processes to allow for the introduction of sustainability considerations can be challenging for procurement practitioners. As well as trying to facilitate the process by standardizing sustainability criteria, or creating registries and catalogs, a Help Desk should be set up to provide practical hands-on support or advice to practitioners. For example, providing a service to look over SPP tender documents can help to tackle procurement practitioner’s concerns that they are framing the award criteria correctly.
 

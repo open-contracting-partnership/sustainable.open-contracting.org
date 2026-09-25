@@ -8,7 +8,7 @@ full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
 sidebar: true
 ---
-# **Traduire les exigences de durabilité en obligations contractuelles**
+# Traduire les exigences de durabilité en obligations contractuelles
 
 Une fois que des critères de durabilité ont été clairement établis, il convient de les traduire en obligations contractuelles. Cela suppose de définir les modalités de suivi de l’exécution des marchés et les conséquences en cas de manquement à ces obligations. Afin d’élaborer des clauses contractuelles pertinentes, ces décisions doivent faire l’objet de discussions ouvertes et d’une concertation entre l’entité adjudicatrice et les fournisseurs concernés. Cette section présente plusieurs aspects essentiels concernant l’élaboration de clauses contractuelles efficaces.
 
@@ -16,7 +16,7 @@ Une fois que des critères de durabilité ont été clairement établis, il conv
 L’interaction avec les fournisseurs et la discussion ouverte concernant les obligations et matière de durabilité déboucheront sur des clauses contractuelles plus efficaces qui amélioreront les effets positifs du marché et réduiront au maximum les risques de manquement. Toutefois, ce processus doit également être utilisé pour assurer que les conditions du marché dans son ensemble sont facilement compréhensibles et que les responsabilités essentielles sont comprises par toutes les parties prenantes.
 {% endcallout %}
 
-## **Caractéristiques essentielles des clauses contractuelles**
+## Caractéristiques essentielles des clauses contractuelles
 
 Souvent, les clauses contractuelles qui renvoient aux obligations de durabilité ne sont pas efficaces ou considérées comme moins importantes que d’autres clauses commerciales. Une [analyse](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)
  provenant de deux sociétés de conseil, EcoVadis et Affectio Mutandi, montre que cela est souvent dû à des facteurs tels que les attentes irréalistes en matière de suivi imposées aux fournisseurs ou encore aux contradictions parfois constatées entre les clauses de durabilité et les clauses commerciales. Cette analyse propose six caractéristiques à partir desquelles il est possible d’évaluer l’efficacité d’une clause contractuelle. Nous présentons ces caractéristiques ci-dessous.
@@ -66,7 +66,7 @@ Les clauses de durabilité sont souvent perçues comme distinctes des exigences 
 
 {% image /assets/images/SPP-Contract-Diagram-fr.png 1920 1080 align-start %}
 
-## **Se doter de normes d’amélioration continue claires**
+## Se doter de normes d’amélioration continue claires
 
 Comme présenté dans la [section précédente](/des-critres-de-durabilit), le choix des critères de durabilité qui doivent être intégrés aux marchés publics dépend de plusieurs facteurs, notamment des capacités du marché. Toutefois, les capacités du marché peuvent évoluer durant l’exécution d’un marché. Afin d’assurer que les fournisseurs retenus continuent d’améliorer leur performance du point de vue des normes de durabilité, vous pouvez intégrer des normes d’amélioration continue aux clauses contractuelles. Par exemple, il est possible de définir des objectifs de réduction progressive des émissions de CO2 au fil de l’exécution du marché ou des normes de réduction progressive de la consommation de combustibles.
 

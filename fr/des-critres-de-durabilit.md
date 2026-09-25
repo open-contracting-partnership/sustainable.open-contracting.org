@@ -8,7 +8,7 @@ full_width: true
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
 sidebar: true
 ---
-# **Définir des critères de durabilité**
+# Définir des critères de durabilité
 
 {% callout red /assets/images/Pin_Red.png %}
 *Dans cette section, nous fournissons des orientations concernant les différentes possibilités pour intégrer des critères de durabilité à un processus de passation de marchés et ce que ces critères impliquent pour les fournisseurs.*
@@ -25,7 +25,7 @@ La mise en place de marchés publics durables et ouverts vise à acquérir des b
 - **La correspondance des critères avec les politiques et les cadres réglementaires en vigueur.**
 {% endcallout %}
 
-## **Que prendre en compte avant d’intégrer ces critères au processus de passation de marchés ?**
+## Que prendre en compte avant d’intégrer ces critères au processus de passation de marchés ?
 
 Avant de choisir les critères de durabilité que vous allez intégrer au processus de passation de marchés et de définir les modalités d’intégration, un certain nombre de facteurs doivent être pris en compte.
 
@@ -70,7 +70,7 @@ Comme expliqué dans la section concernant [l’interaction avec les acteurs du 
 
 {% endtoggle %}
 
-## **Définir les modalités de prise en compte des critères de durabilité**
+## Définir les modalités de prise en compte des critères de durabilité
 
 Il est difficile de fournir des conseils sur la meilleure façon d’intégrer des critères de durabilité à un processus de passation de marchés, étant donné que la méthode employée dépendra largement des capacités du marché et des possibilités qu’offre l’environnement habilitant. Vous trouverez ci-dessous plusieurs possibilités permettant d’intégrer des critères de durabilité à un processus de passation de marchés :
 

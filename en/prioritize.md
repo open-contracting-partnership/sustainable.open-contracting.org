@@ -8,7 +8,7 @@ full_width: true
 notion_id: cf3a3b670b7c487bada7d824fd5415ac
 sidebar: true
 ---
-# **Prioritizing procurement categories**
+# Prioritizing procurement categories
 
 There are many ways to prioritize how to start implementing Open SPP. This may include responding to high-profile environmental issues, market sectors or product groups where green goods and services are readily available, public sector programs where procurers and citizens can see a rationale for the use of green products, or high-profile projects or events where SPP can be piloted to raise awareness and interest, such as sporting events, conferences, and retrofits of prominent government buildings.
 

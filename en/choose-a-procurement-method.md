@@ -16,7 +16,7 @@ The design of a public procurement process can limit or facilitate the applicati
 One procurement approach that can be very helpful when starting to implement sustainable practices in public procurement is to divide projects into **pilot and scale phases.** This can be especially useful for testing risky and uncertain assumptions. During the pilot phase, data should be clearly captured and should feed into the scaling phase.
 {% endcallout %}
 
-## **Outcome-based procurement**
+## Outcome-based procurement
 
 Outcome-based procurement can be another way to start implementing SPP. Applying an outcome-based procurement approach consists in framing purchasing needs in terms of the outcome that should be achieved, rather than how to achieve that outcome, allowing the supplier market to offer different solutions.
 
@@ -58,7 +58,7 @@ Outcome-based procurement approaches can be most useful when:
 For more guidance and examples of how to shape procurement approaches to achieve sustainability outcomes, we recommend referring to the [Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting”](https://govlab.hks.harvard.edu/results-driven-contracting). For a case study on how to design a procurement process based on achieving desired outcomes see the Wichita Ground Maintenance Contracts example developed at the end of this section.
 {% endcallout %}
 
-## **Two-stage tender processes**
+## Two-stage tender processes
 
 Using two-stage procurement procedures, entails the possibility of establishing an ongoing dialogue, and openly disclosing information, between suppliers and procurement practitioners.
 
@@ -95,7 +95,7 @@ Using two-stage tender processes can be especially useful in complex projects su
 
 {% endtoggle %}
 
-## J**oint procurement**
+## Joint procurement
 
 One of the procurement approaches that you can take within SPP implementation is joint procurement. This approach refers to the collaboration of multiple public authorities on a specific procurement. This collaboration can include jointly conducting early-stage market testing and engagement at the beginning of a procurement, or jointly tendering or contracting with a supplier, during the execution of a procurement.
 

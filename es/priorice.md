@@ -8,7 +8,7 @@ full_width: true
 notion_id: "09f22c6be859431e9ee40568a321f67c"
 sidebar: true
 ---
-# **Priorice las categorías de contratación**
+# Priorice las categorías de contratación
 
 Hay muchas maneras de determinar prioridades de cómo empezar la implementación de CPS Abierta. Una de ellas podría ser incluir respuestas a cuestiones ambientales de alto perfil, sectores del mercado o grupos de productos donde los productos y servicios verdes están fácilmente disponibles, programas del sector público donde los contratantes y la ciudadanía pueden ver razones por favorecer el uso de productos verdes, o proyectos o eventos de alto perfil donde CPS se puede introducir en forma piloto con el fin de aumentar la conciencia e interés, tales como eventos deportivos, conferencias, y remodelaciones de edificios gubernamentales importantes.
 
@@ -26,7 +26,7 @@ Aunque hay muchas maneras de determinar prioridades, es realmente importante tan
 
 {% image /assets/images/Prioritisation-Diagram-es.png 1920 1080 align-start %}
 
-## **Considere una lista preliminar de categorías para contratación**
+## Considere una lista preliminar de categorías para contratación
 
 El primer paso en el ejercicio de determinación de prioridades es el trabajo con las partes interesadas con el fin de establecer una lista de categorías a ser analizadas. Estas categorías se deben tomar del vocabulario oficial utilizado por los responsables de la contratación en el país, con el objeto de tener una clasificación coherente de los contratos. Al implementar CPS Abierta, y utilizando una manera estandarizada para la clasificación de categorías de contratación, no sólo es importante para buscar y analizar avisos de contratación para los proveedores y autoridades de contratación; sino también es esencial asegurar la coherencia de la implementación de las políticas y prácticas de sostenibilidad, lo mismo que la recolección de datos para propósitos de monitoreo.
 
@@ -34,7 +34,7 @@ El primer paso en el ejercicio de determinación de prioridades es el trabajo co
 No existe un sistema global que se haya adoptado para clasificar los categorías de contratación; y se están utilizando varios sistemas diferentes alrededor del mundo. Por ejemplo, en Europa, los [códigos CPV](https://ted.europa.eu/es/simap/cpv) están vigentes, mientras algunos países utilizan el [Código de Productos de Servicios de Naciones Unidas (UNSPSC)](https://www.unspsc.org/). Es esencial identificar el sistema de clasificación vigente, y asegurar que las prácticas de CPS Abierta estén alineadas con las categorías existentes.
 {% endcallout %}
 
-## **Identifique las categorías de alto impacto**
+## Identifique las categorías de alto impacto
 
 Una manera lógica de determinar prioridades de contratación es la identificación de aquellas cuya implementación con prácticas sostenibles por pudieran tener el impacto más alto. Para lograr esto, usted debe saber qué es lo que se va a comprar, y cuál es su impacto.
 
@@ -58,7 +58,7 @@ Se debe establecer la frecuencia de contratos para cada categoría, es decir, la
 El proceso de **recolección de datos dependerá de la estructura organizacional de la contratación**, ya sea centralizada, descentralizada o si obedece a un enfoque de gestión por categorías. La presencia de un sistema de e-contratación ayudaría a facilitar el proceso; en su ausencia, las encuestas y cuestionarios se pueden ser distribuidos con el fin de recoger la información necesaria.
 {% endcallout %}
 
-## **Evalúe el impacto social, ambiental y ecológico de cada categoría**
+## Evalúe el impacto social, ambiental y ecológico de cada categoría
 
 Uno de los factores clave que usted debe considerar al determinar las prioridades en las categorías de contratación es el impacto transversal que tendrían sobre los pilares de sostenibilidad ambiental, social y económica.
 
@@ -85,11 +85,11 @@ El impacto económico de una categoría dependerá en gran medida de la oferta d
 Al evaluar el impacto de estas categorías también debe tener en cuenta su importancia estratégica. Esto quiere decir, por ejemplo, que si un país o una organización ha decidido establecer la promoción de "cero neto" como una [meta](/monitoreo-y-evaluacin) de CPS Abierta, luego los categorías en las cuales la implementación del CPS Abierta serían conducente a la reducción de emisiones de CO2 deben ser tratadas como prioridad. La implementación de **CPS Abierta en categorías como con una importancia estratégica más alta podría recibir más apoyo por parte de las partes interesadas, con un impacto más alto resultante.**
 {% endcallout %}
 
-## **Considere la facilidad de implementación**
+## Considere la facilidad de implementación
 
 Además de identificar las categorías que puedan tener un impacto con la implementación de CPS Abierta, usted también deberá tener en cuenta los recursos que existen para facilitarla.
 
-### **Identifique las normas de sostenibilidad vigentes y ecoetiquetas**
+### Identifique las normas de sostenibilidad vigentes y ecoetiquetas
 
 Los esquemas de certificación pueden facilitar la implementación de CPS Abierta. Por ejemplo, se puede hacer uso de [eco etiquetas creíbles](/guas-para-las-ecoetiquetas) para identificar opciones sostenibles ya disponibles que se pueden adquirir dentro de las categorías de contratación identificadas. Usted puede juzgar la credibilidad del esquema por sus mecanismos de adopción, gobierno, auditoría, y supervisión.
 
@@ -102,7 +102,7 @@ Las prácticas de compras más sostenibles implican conocimientos de las normas 
 
 {% endindent %}
 
-### **Requisitos de referencia en sostenibilidad vs. capacidad actual del mercado.**
+### Requisitos de referencia en sostenibilidad vs. capacidad actual del mercado
 
 Una variable importante al priorizarlas las categorías de contratación es la evaluación de la capacidad actual del mercado de cumplir con las normas de sostenibilidad. Para poder evaluar este factor, se podría recoger datos en relación con:
 
@@ -122,11 +122,11 @@ La existencia de iniciativas de sostenibilidad en el mercado local es otro dato 
 Hay varias maneras de recoger información del mercado con el fin de evaluar su capacidad de cumplir las normas de sostenibilidad existentes. Los métodos son similares a los que se implementarán al relacionarse con el mercado durante procesos específicos de contratación; para mayores detalles, consulta esta sección.
 {% endcallout %}
 
-### **Evalúa opciones para construir sobre lo ya construido en la política de sostenibilidad**
+### Evalúa opciones para construir sobre lo ya construido en la política de sostenibilidad
 
 Las políticas y normas de sostenibilidad vigentes deben ser utilizados como una variable para la determinación de prioridades en áreas de contratación, a favor de las que ya tienen un marco que permita la implementación de CPS. Usted ya habrá identificado estas áreas como parte del proceso de análisis del entorno habilitante y podría incluir por ejemplo, las normas en relación con la el manejo de residuos tóxicos o la ratificación de algunos Convenciones centrales de la OIT.
 
-## **Comparta y comunique los resultados de su ejercicio de priorización**
+## Comparta y comunique los resultados de su ejercicio de priorización
 
 Tal como explicamos al principio de esta sección, una vez haya decidido enfocar sus esfuerzos de CPS Abierta en categorías específicas de contratación, deberá comunicar abiertamente las razones que le llevó a esa decisión. Esta decisión puede ser divulgada por medio de un Plan de Acción, y se debe ser mencionada en los contratos dentro de las categorías de prioridad en contratación.
 

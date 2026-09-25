@@ -8,7 +8,7 @@ full_width: true
 notion_id: f12fda4ffb024871bc2f86bd7b237b97
 sidebar: true
 ---
-# **Suivi et évaluation**
+# Suivi et évaluation
 
 Dans cette section, nous expliquons comment définir les objectifs de durabilité de votre organisation et suivre leur réalisation à l’aide d’indicateurs par l’entremise d’un modèle de cadre de suivi et d’évaluation. [Ce cadre](/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation) contient des exemples d’indicateurs visant à faciliter le suivi et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
@@ -16,7 +16,7 @@ Dans cette section, nous expliquons comment définir les objectifs de durabilit�
 Il est important de garder à l’esprit que les éléments de ce cadre ne sont pas pertinents pour tous les projets de marchés publics durables et ouverts, vous devrez donc choisir les objectifs, résultats et indicateurs qui s’adaptent le plus à votre contexte. Nous mettons à disposition un modèle de cadre dans la section des ressources.
 {% endcallout %}
 
-## **Que désignent les objectifs, les résultats et les indicateurs ?**
+## Que désignent les objectifs, les résultats et les indicateurs ?
 
 Le modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation) est structuré autour d’objectifs, de résultats et d’indicateurs. Il peut vous aider à élaborer votre propre cadre de suivi et d’évaluation et doit être adapté en fonction de vos besoins.
 

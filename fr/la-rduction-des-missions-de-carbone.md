@@ -8,23 +8,23 @@ full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
 sidebar: true
 ---
-# **Exemple : évaluer la réduction des émissions de carbone**
+# Exemple : évaluer la réduction des émissions de carbone
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la réduction des émissions de carbone par l’entremise des marchés publics.
 {% endcallout %}
 
-## **De quoi s’agit-il ?**
+## De quoi s’agit-il ?
 
 Les gouvernements et les entreprises définissent des échéances pour atteindre un niveau d’émission neutre. Les marchés publics peuvent servir de levier pour accélérer cette transition en promouvant des solutions émettant peu de carbone dans les chaînes d’approvisionnement des gouvernements.
 
 Cet exemple montre comment en exploitant des données de qualité relatives aux marchés publics et en les reliant aux données relatives aux émissions, il est possible de présenter non seulement les émissions potentielles des activités relatives aux marchés publics, mais également la réduction d’émission potentielle si des solutions plus sobres en carbone sont exigées dans le cadre des marchés publics.
 
-## **Quel est l’objectif ?**
+## Quel est l’objectif ?
 
 La réduction des émissions de carbone est au cœur de la lutte contre les changements climatiques. Cet exemple fournit une méthodologie pour estimer l’intensité en carbone de certains marchés publics et vous aider à adopter des approches pour réduire les émissions de CO2 attribuables aux marchés publics.
 
-## **Avantages**
+## Avantages
 
 La publication de données de qualité relatives aux émissions de carbone a de multiples effets positifs en vue de la réduction des émissions de carbone :
 
@@ -40,7 +40,7 @@ Il est possible de récompenser les fournisseurs qui s’engagent à réduire l�
 La publication et l’analyse de données de qualité permettront d’apprendre et de regrouper des connaissances sur les politiques et processus qui contribuent à la réduction de l’intensité en carbone des marchés publics. Vous ne pouvez pas gérer ce que vous ne pouvez pas mesurer.
 {% endcallout %}
 
-## **Pour commencer**
+## Pour commencer
 
 Les priorités immédiates concernant la réduction des émissions de carbone concernent les rejets de carbone, les gaz à effet de serre, tels que le méthane, et les émissions de substances dangereuses, comme l’oxyde d’azote. Par ailleurs, d’autres indicateurs concernant la réduction des émissions de carbone peuvent porter sur le respect de certaines normes et la production de déchets plastiques.
 
@@ -62,7 +62,7 @@ Les priorités immédiates concernant la réduction des émissions de carbone co
 {% endgallery %}
 {% enddatabase %}
 
-## **Possibilités d’utilisation des données**
+## Possibilités d’utilisation des données
 
 Il existe plusieurs possibilités pour relier les données relatives aux marchés publics aux émissions de carbone. Vous pouvez par exemple recenser simplement les appels d’offres « adaptés aux solutions émettant peu de carbone » ou encore exiger des informations détaillées sur la quantité de carbone économisée durant l’exécution d’un marché.
 
@@ -72,23 +72,23 @@ Il existe plusieurs possibilités pour relier les données relatives aux marché
 
 Il existe plusieurs possibilités pour relier les données relatives aux marchés publics aux émissions de carbone. Vous pouvez par exemple recenser simplement les appels d’offres « adaptés aux solutions émettant peu de carbone » ou encore exiger des informations détaillées sur la quantité de carbone économisée durant l’exécution d’un marché.
 
-### **Demander des propositions pour renforcer la durabilité (Possibilité 5)**
+### Demander des propositions pour renforcer la durabilité (Possibilité 5)
 
 Encouragez les fournisseurs à préciser ce qu’ils comptent faire pour réduire les émissions de carbone associées à leur marché.
 
-### **Anticiper les effets des marchés (Possibilité 4)**
+### Anticiper les effets des marchés (Possibilité 4)
 
 [L’évaluation du niveau d’émission de carbone des marchés](/la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values) est un bon moyen de planifier les émissions cumulées et l’effet potentiel de la modification des stratégies de passation de marchés. Cela peut aider les acheteurs à concentrer leurs efforts sur les catégories qui auront le plus d’effet. Cela peut également aider les acheteurs à définir des « budgets » carbone afin d’assurer que les fournisseurs respectent le niveau d’émission spécifié au cours de l’exécution du marché. Les données peuvent servir à informer les fournisseurs de cette obligation, mais également à effectuer des analyses groupées des initiatives de la commande publique dans toutes les divisions du gouvernement. Cette approche est plus efficace si elle est employée à l’échelle d’une catégorie unique faisant l’objet de nombreuses évaluations, comme l’énergie.
 
-### **Suivre l’exécution des marchés (Possibilité 7)**
+### Suivre l’exécution des marchés (Possibilité 7)
 
 Les acheteurs publics peuvent fournir des informations concernant les émissions de carbone durant ou après l’exécution du marché. Un certain nombre de secteurs, tels que le voyage et la construction, possèdent des indicateurs normalisés concernant les émissions pouvant être intégrés à tout rapport relatif à l’exécution. Étant donné qu’un [traité contraignant](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sur les déchets plastiques est en cours d’élaboration, ces approches peuvent également être reprises pour évaluer l’utilisation de plastique, en particulier dans les secteurs tendant vers une utilisation accrue, comme la construction, les médicaments ou les équipements médicaux.
 
-### **Évaluer l’emploi des certifications (Possibilité 6)**
+### Évaluer l’emploi des certifications (Possibilité 6)
 
 Vous pouvez utiliser des [certifications](/guide-des-co-tiquettes), comme les déclarations environnementales de produit, pour collecter des informations relatives aux émissions de carbone d’un produit. Vous pouvez également exiger le recours à d’autres certifications environnementales (par exemple des éco-étiquettes de type I) et évaluer leur incidence en comparant les données concernant les prévisions et l’exécution d’un marché.
 
-### **Exemples d’indicateurs**
+### Exemples d’indicateurs
 
 Vous trouvez ci-dessous des possibilités exploitables par les organisations n’utilisant aucun code ou utilisant un code restreint qui peuvent aider les gouvernements à évaluer la mise en œuvre des politiques et les réductions d’émissions pouvant être obtenues en exigeant des produits ou services émettant peu de carbone.
 

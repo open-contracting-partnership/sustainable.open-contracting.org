@@ -8,7 +8,7 @@ full_width: true
 notion_id: d8c00bb67a29407c8354c3d1b9cbcd58
 sidebar: true
 ---
-# **Seleccione el enfoque de contratación adecuado**
+# Seleccione el enfoque de contratación adecuado
 
 El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta). En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
 
@@ -16,7 +16,7 @@ El diseño de un proceso de contratación pública puede limitar o facilitar la 
 Un enfoque de contratación que puede ser muy útil al comenzar a implementar prácticas sostenibles en la contratación pública es dividir los proyectos en **fases piloto y de escala.** Esto puede ser especialmente útil para probar suposiciones arriesgadas e inciertas. Durante la fase piloto, los datos se deben capturar claramente y se deben alimentar en la fase de escalera.
 {% endcallout %}
 
-## **Contratación basada en resultados**
+## Contratación basada en resultados
 
 La contratación basada en resultados puede ser otra forma de comenzar a implementar una CPS. La aplicación de un enfoque de contratación basado en resultados consiste en enmarcar las necesidades de compra en términos del resultado que se debe lograr, en lugar de cómo lograr ese resultado, lo que permite que el mercado de proveedores ofrezca diferentes soluciones.
 
@@ -56,7 +56,7 @@ Los enfoques de contratación basados en resultados pueden ser más útiles cuan
 Para mayor orientación y ejemplos de cómo dar forma a los enfoques de contratación para alcanzar resultados de sostenibilidad, recommendamos hacer referencia a [*Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting*”](https://govlab.hks.harvard.edu/results-driven-contracting). Para un estudio de caso de cómo diseñar un proceso de contratación basado en alcanzar los resltados deseados, ver el ejemplo de Wichita Ground Maintenance al final de esta sección
 {% endcallout %}
 
-## **Procesos de licitación en dos etapas**
+## Procesos de licitación en dos etapas
 
 El uso de procedimientos de contratación en dos etapas implica la posibilidad de establecer un diálogo continuo y divulgar información abiertamente entre proveedores y profesionales de la contratación.
 
@@ -93,7 +93,7 @@ El uso de procesos de licitación de dos etapas puede ser especialmente útil en
 
 {% endtoggle %}
 
-## **Contratación conjunta**
+## Contratación conjunta
 
 Uno de los enfoques de contratación que usted puede adoptar dentro de la implementación del CPS
  es la contratación conjunta. Este enfoque se refiere a la colaboración de múltiples autoridades públicas en una contratación específica. Esta colaboración puede incluir hacer pruebas conjuntas del mercado en las etapas iniciales y vincularse al comienzo de un proceso de contratación, o licitar o contratar conjuntamente con un proveedor durante el proceso.

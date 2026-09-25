@@ -8,7 +8,7 @@ full_width: true
 notion_id: fa393ae5a1e3497d89aadb46b3a35f43
 sidebar: true
 ---
-# **Relaciónese con el mercado de provedores**
+# Relaciónese con el mercado de provedores
 
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
 
@@ -16,7 +16,7 @@ Relacionarse con el mercado de proveedores es importante para todos los procesos
 **En esta sección brindamos** información sobre la importancia de comprometerse con el mercado **y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta**.
 {% endcallout %}
 
-## **¿Por qué relacionarse con el mercado?**
+## ¿Por qué relacionarse con el mercado?
 
 Las prácticas de relación con el mercado en el contexto de la implementación de una CPS Abierta normalmente se llevan a cabo con el propósito de:
 
@@ -38,7 +38,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
  Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales*.(The Chicago Council on Global Affairs.)*
 {% endcallout %}
 
-## **¿Cómo puede relacionarse con el mercado de una manera más efectiva?**
+## ¿Cómo puede relacionarse con el mercado de una manera más efectiva?
 
 Las prácticas de participación en el mercado pueden variar según las diferentes etapas del proceso de una CPS Abierta.
 

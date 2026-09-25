@@ -8,17 +8,17 @@ full_width: true
 notion_id: "41b3faf621a347b38e3cd21970bcc188"
 sidebar: true
 ---
-# **Ejemplo resuelto: Medir la inclusión de género**
+# Ejemplo resuelto: Medir la inclusión de género
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 En esta sección le explicamos cómo puede usar los datos para medir la participación de empresas dirigidas por mujeres en la contratación pública.
 {% endcallout %}
 
-## **¿Qué es?**
+## ¿Qué es?
 
 Para reducir las barreras a las que se enfrentan las empresas dirigidas por mujeres en los mercados de contratación pública, debemos ser capaces de identificar las empresas dirigidas por mujeres y comprender en qué medida están participando y ganando contratos gubernamentales. Esto incluye una comprensión tanto del número como del valor de los contratos, así como de su sector. Podemos tomar estas medidas como referencia y luego implementar medidas con el objetivo de mejorar estas métricas con el tiempo.
 
-### **¿Por qué hacerlo?**
+### ¿Por qué hacerlo?
 
 Los gobiernos gastan la asombrosa cantidad de US$ 13 billones por año en contratación pública. Desafortunadamente, las pequeñas empresas y las empresas dirigidas por mujeres están muy poco representadas en este mercado. Por ejemplo, las empresas dirigidas por mujeres obtienen solo el 5 % de los contratos federales en EE. UU. y el 17 % en Ucrania. Cuando se aplica una lente interseccional, factores como la raza, la discapacidad y la geografía limitan aún más el acceso a la contratación pública por parte de las empresas dirigidas por mujeres.
 
@@ -28,13 +28,13 @@ A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres l
 Usted podrá leer el [informe completo](https://www.open-contracting.org/es/resources/promover-el-equilibrio-de-genero-en-las-adquisiciones-publicas/), una [versión de información](https://www.open-contracting.org/es/resources/empresas-lideradas-por-mujeres-contratacion-publica/) o un [blog de resumen](https://www.open-contracting.org/es/2020/07/21/perforar-el-techo-de-cristal-para-las-empresas-lideradas-por-mujeres-imparcialidad-e-inclusion-a-traves-de-las-contrataciones-abiertas/). Luego trabajamos con ONU Mujeres para elaborar una [nota de política](https://www.open-contracting.org/resources/empowering-women/) que incluye más ejemplos y recomendaciones de todo el mundo.
 {% endcallout %}
 
-## **Beneficios**
+## Beneficios
 
 Los datos sobre con quiénes contratan los gobiernos pueden ayudarle a identificar el sesgo sistémico que se puede abordar a través de mejores políticas y prácticas de contratación.
 
 En la mayoría de los países, la participación de las empresas de mujeres en la contratación pública no se puede medir porque los datos simplemente no existen. En Colombia, la agencia de contrataciones del país, Colombia Compra Eficiente, comenzó a revisar su inclusión de género mediante la publicación de datos desglosados por sexo sobre todas sus adjudicaciones de contratos utilizando el Estándar de Datos de Contrataciones Abiertas. Se utilizó el sexo del representante legal del proveedor para determinar si la empresa estaba dirigida por mujeres. La agencia ahora está trabajando para integrar los nuevos criterios para analizar las diferencias en la participación empresarial de las mujeres a través de un tablero público que utiliza varios indicadores, como el sector, la región y el valor de las contrataciones.
 
-## **Para empezar**
+## Para empezar
 
 {% database **Para empezar** %}
 {% gallery medium %}
@@ -54,7 +54,7 @@ En la mayoría de los países, la participación de las empresas de mujeres en l
 {% endgallery %}
 {% enddatabase %}
 
-## **Opciones para uso de datos**
+## Opciones para uso de datos
 
 Los datos de género suelen ser más limitados que otros tipos de datos de CPS; esto suele deberse a la dificultad de recopilar y procesar datos buenos. Centralizar los datos sobre los proveedores será un importante paso adelante al considerar el análisis de género, ya que esto permitirá que un proveedor informe una vez y que varios compradores compartan y evalúen esos datos.
 
@@ -73,7 +73,7 @@ Al comienzo de esta sección, presentamos diez formas diferentes en las que pued
 
   Los proveedores pueden incluir en su presentación de ofertas qué acciones toman para promover la igualdad de género. Esto puede incluir compromisos con esquemas públicos reconocidos (por ejemplo, subvenciones para mujeres en tecnología, esquemas de regreso al trabajo para madres).
 
-## **Indicadores de muestra**
+## Indicadores de muestra
 
 Con base en estos datos, puede comenzar a medir el progreso con respecto al objetivo de lograr la igualdad de género a través de las contrataciones. Para obtener orientación sobre cómo hacer esto, anteriormente en el conjunto de herramientas, introdujimos un marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. Este marco incluía tres Resultados de muestra con Indicadores asociados que puede usar para medir el progreso en relación con el Objetivo de "Promover la igualdad de género".
 
@@ -101,7 +101,7 @@ Hemos incluido estos resultados a continuación, junto con los indicadores corre
 
 A través de los conocimientos obtenidos de los datos, los compradores pueden usar esto para dirigir más gastos en contrataciones públicas para generar un cambio significativo, particularmente en industrias donde el gobierno es un comprador importante. Si los datos sobre la disparidad de género se publican abiertamente, otros pueden monitorear las actividades de los proveedores y los datos se pueden usar para realizar cambios positivos en sus propias organizaciones y presentar ofertas mejoradas para futuros contratos.
 
-## **Medidas de política para mejorar la equidad de género**
+## Medidas de política para mejorar la equidad de género
 
 - **Aumente el acceso a la financiación y/o asegurar el pago puntual de los proveedores del gobierno.**
 

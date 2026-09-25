@@ -14,15 +14,15 @@ sidebar: true
 En esta sección, explicamos cómo usted puede usar los datos para medir y monitorear el progreso con respecto al objetivo de promover la adopción de CPS.
 {% endcallout %}
 
-## **¿Qué es?**
+## ¿Qué es?
 
 Medir los niveles de adopción de CPS consiste en saber en qué medida los compradores públicos confían en la contratación pública sostenible, ya sea durante el proceso de contratación o después del hecho para permitir la identificación clara de la contratación social, ambiental o económica dentro de la licitación y la contratación.
 
-## **¿Por qué hacerlo?**
+## ¿Por qué hacerlo?
 
 Los departamentos gubernamentales de todo el mundo están iniciando políticas y objetivos que requieren directamente que los compradores consideren el valor social o tienen políticas sistémicas (por ejemplo, objetivos netos cero) que requieren que los compradores adapten sus prácticas de compra para considerar más que los ahorros. Medir la aceptación y el progreso de estas nuevas iniciativas puede ser difícil, ya que los datos necesarios para registrar los cambios en el comportamiento pueden ser difíciles de encontrar. Medir la adopción de SPP permite a los compradores públicos demostrar que están incorporando adquisiciones sostenibles y, por lo tanto, cumplen con los requisitos de las políticas.
 
-## **Beneficios**
+## Beneficios
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Permite a los gobiernos demostrar que las nuevas políticas tienen un efecto significativo en las compras.
@@ -36,7 +36,7 @@ Muestra claramente a los proveedores que la compra sostenible es un compromiso a
 Vincula la política con la contratación a través de un ciclo de retroalimentación que permite medir los objetivos de la política.
 {% endcallout %}
 
-## **Para empezar**
+## Para empezar
 
 Medir el progreso de las contrataciones sostenibles generalmente consiste en registrar si se ha establecido un contrato o una licitación para cumplir con un objetivo de política establecido. Como resultado, medir el progreso a menudo toma la forma de una etiqueta binaria de "sí" o "no" que se registra como parte del proceso de adquisición.
 
@@ -64,7 +64,7 @@ Una vez que esto se ha establecido claramente, puede medir y registrar la acepta
 {% endgallery %}
 {% enddatabase %}
 
-## **Indicadores de muestra**
+## Indicadores de muestra
 
 Hay diferentes formas de medir el progreso en la adopción de políticas CPS. Anteriormente en el conjunto de herramientas, presentamos un marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad mediante el establecimiento de objetivos, resultados e indicadores. Este marco incluía resultados de muestra con indicadores asociados que puede usar para medir el progreso en relación con el objetivo de "Promover la adopción de CPS".
 

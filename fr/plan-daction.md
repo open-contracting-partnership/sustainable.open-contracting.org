@@ -8,7 +8,7 @@ full_width: true
 notion_id: "1f53708050f744299ed811a68005427d"
 sidebar: true
 ---
-# **Présenter vos premières mesures dans un plan d’action sur les marchés publics durables**
+# Présenter vos premières mesures dans un plan d’action sur les marchés publics durables
 
 Dans la [première partie de ce guide pratique](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.
 
@@ -26,13 +26,13 @@ En vous dotant d’un plan d’action sur les marchés publics durables, vous po
 *Dans cette section, vous verrez dans des exemples comment votre plan d’action sur les marchés publics durables peut vous permettre de présenter les mesures que vous avez prises pour évaluer votre environnement et établir un cadre propice à la mise en place de marchés publics durables. Ce plan d’action peut servir de référence aux membres des services de passation de marchés pour tout ce qui a trait à la conformité ainsi que pour garantir la normalisation, la redevabilité et la continuité des activités indépendamment des changements de direction au sein d’une institution.*
 {% endcallout %}
 
-## **Que peut contenir un plan d’action sur les marchés publics durables ?**
+## Que peut contenir un plan d’action sur les marchés publics durables ?
 
 Pour obtenir des orientations concernant la structuration de votre plan d’action, il peut être utile de se reporter au modèle du Programme des Nations Unies pour l’environnement (PNUE) en cliquant sur le lien suivant :
 
 {% page /plan-daction/modle-de-plan-daction-sur-les-marchs-publics-durables %}
 
-## **Éléments essentiels du plan d’action sur les marchés publics durables et ouverts**
+## Éléments essentiels du plan d’action sur les marchés publics durables et ouverts
 
 Nous avons recensé les principales mesures que vous pouvez prendre pour commencer la transition vers des marchés publics durables et ouverts. Ci-dessous, nous expliquons comment présenter ces mesures dans votre plan d’action et nous fournissons des exemples provenant d’administrations du monde entier.
 
@@ -130,7 +130,7 @@ Beaucoup d’activités concernant la mise en place de marchés publics durables
 
 {% endtoggle %}
 
-## **Anticipez l’évolution de votre plan d’action**
+## Anticipez l’évolution de votre plan d’action
 
 Les plans d’action sont souvent publiés tous les 3 à 5 ans, bien qu’ils puissent être révisés et mis à jour de façon annuelle au besoin afin d’évaluer les progrès concernant les objectifs et cibles. Lorsque vous élaborez votre premier plan d’action sur les marchés publics durables, il est important de prendre également en considération la portée et l’ambition actuelles des pratiques relatives aux marchés publics durables et ouverts ainsi que leur évolution possible. Les éléments suivants sont extraits de la page 87 du [manuel de la Banque mondiale sur les marchés publics écologiques](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) et peuvent vous aider à examiner la portée et l’ambition de votre plan d’action :
 

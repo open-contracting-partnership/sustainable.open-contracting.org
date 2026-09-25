@@ -8,7 +8,7 @@ full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
 sidebar: true
 ---
-# **Introducción al conjunto de herramientas**
+# Introducción al conjunto de herramientas
 
 Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles.
 

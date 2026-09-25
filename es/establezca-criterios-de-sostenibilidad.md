@@ -8,7 +8,7 @@ full_width: true
 notion_id: "3c8f1b66434741efb79e0d7f506194f1"
 sidebar: true
 ---
-# **Establezca criterios de sostenibilidad**
+# Establezca criterios de sostenibilidad
 
 {% callout red /assets/images/Pin_Red.png %}
 En esta sección, brindamos orientación sobre diferentes opciones para introducir criterios de sostenibilidad en un proceso de contratación y lo que significa cada uno de ellos para los proveedores.
@@ -26,7 +26,7 @@ Uno de los elementos clave de una APP Abierta *(Open SPP)* es revelar cómo y po
 - **Cómo el uso de los criterios cumple con los marcos regulatorios y de políticas existentes.**
 {% endcallout %}
 
-## **Lo que usted debe considerar antes de introducir los criterios**
+## Lo que usted debe considerar antes de introducir los criterios
 
 Antes de decidir qué criterios de sostenibilidad se introducirán en el proceso de contratación y cómo, hay ciertos factores que debe tener en cuenta.
 
@@ -71,7 +71,7 @@ Como se explica en la sección sobre compromiso con el mercado, la información 
 
 {% endtoggle %}
 
-## **Decida cómo se introducirán los criterios de sostenibilidad**
+## Decida cómo se introducirán los criterios de sostenibilidad
 
 Es difícil asesorar sobre la mejor manera de introducir criterios de sostenibilidad en un proceso de contratación, ya que el método utilizado dependerá en gran medida de la capacidad del mercado y de lo que esté permitido dentro del marco propicio. A continuación se incluyen algunas de las formas que puede considerar para introducir criterios de sostenibilidad en un proceso de contratación:
 

@@ -8,7 +8,7 @@ full_width: true
 notion_id: "212ead56cde64a16a9538d12bae5dfaf"
 sidebar: true
 ---
-# **Les ressources que vous avez demandées**
+# Les ressources que vous avez demandées
 
 Nous avons pris contact avec plus de 30 professionnels, professionnelles et spécialistes des marchés publics durables du monde entier pour nous aider à concevoir ces orientations. Nous avons notamment discuté avec des personnes représentant des administrations nationales et des organismes de surveillance à différentes étapes du processus de passation de marchés publics durables ainsi que des personnes issues de la société civile et du secteur privé. Nous avons tenté de définir les principaux obstacles que rencontrent les gouvernements concernant l’adoption de pratiques durables de passation de marchés et de repérer et analyser les lacunes éventuelles des ressources et approches existantes. Voici un récapitulatif des témoignages que nous avons recueillis et de ce que nous avons fait pour y répondre.
 

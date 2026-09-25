@@ -8,7 +8,7 @@ full_width: true
 notion_id: "7f0e4773d6354fa680272a6066201c35"
 sidebar: true
 ---
-# **Mettre en place des mécanismes d’assistance et de renforcement des capacités**
+# Mettre en place des mécanismes d’assistance et de renforcement des capacités
 
 À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs.
 
@@ -18,7 +18,7 @@ Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place
 **Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**
 {% endcallout %}
 
-## **Interagir avec les parties prenantes**
+## Interagir avec les parties prenantes
 
 L’une des principales façons pour les pouvoirs publics de renforcer leurs capacités en matière de marchés publics écologiques est de prendre contact et d’interagir avec les parties prenantes.
 
@@ -65,7 +65,7 @@ D’autres exemples et ressources traitant de l’interaction avec les parties p
 
 {% endtoggle %}
 
-## **Établir des critères de durabilité normalisés**
+## Établir des critères de durabilité normalisés
 
 Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](/priorits), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](/guide-des-co-tiquettes) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](/des-critres-de-durabilit).
 
@@ -73,7 +73,7 @@ Les gouvernements acquièrent une grande variété de produits et la plupart des
 L’[outil](https://sftool.gov/greenprocurement) « [Green Procurement Compilation](https://sftool.gov/greenprocurement) » de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
 {% endcallout %}
 
-## **Créer et diffuser des registres et catalogues axés sur la durabilité**
+## Créer et diffuser des registres et catalogues axés sur la durabilité
 
 Dans la section portant sur l’environnement habilitant, nous avons montré en quoi l’intégration de critères de durabilité à des [accords-cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements) peut favoriser les marchés publics durables. Une autre façon de créer une liste de présélection des fournisseurs les plus responsables consiste à créer des catalogues ou registres publics et faciles d’accès.
 
@@ -85,7 +85,7 @@ Pour en savoir plus sur la création de registres de fournisseurs responsables �
 Le [panier vert](http://gp.pcd.go.th/cat-1-ssl) de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le [registre national de l’agriculture familiale](https://faolex.fao.org/docs/pdf/par178418.pdf) a contribué à [faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) auprès d’entreprises familiales. Nous pouvons également citer l’exemple de [l’accord-cadre sur les biens et services nécessaires en situation de crise](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==) du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.
 {% endcallout %}
 
-## **Mettre en place un service d’assistance et un centre d’information**
+## Mettre en place un service d’assistance et un centre d’information
 
 La transformation des processus de la commande publique afin de prendre en compte des considérations sur la durabilité peut être difficile pour les membres des services de passation de marchés. Au même titre que l’établissement de critères de durabilité normalisés ou la création de registres ou catalogues de fournisseurs, un service d’assistance doit être mis en place afin de fournir une aide pratique et concrète ou des conseils aux professionnels et professionnelles, ce dans l’objectif de faciliter le processus de passation de marchés. Par exemple, la fourniture d’un service de révision du dossier d’appels d’offres peut rassurer le personnel des services de passation de marchés sur le fait que les critères d’attribution sont formulés de façon adéquate.
 

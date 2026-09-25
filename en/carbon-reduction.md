@@ -68,19 +68,19 @@ There are a number of different options available to those looking to link procu
 
 At the beginning of this section, we introduced [ten different ways](/options-for-data-use) in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected four which can be especially useful for measuring carbon reduction:
 
-### **Request sustainable suggestions (Option 5)**
+### Request sustainable suggestions (Option 5)
 
 Encouraging suppliers to detail how they will reduce the carbon emissions associated with their contract.
 
-### **Forecast contract impact (Option 4)**
+### Forecast contract impact (Option 4)
 
 [Estimating carbon values for contracts](/carbon-reduction/how-to-estimate-carbon-values) is a good way to project cumulative emissions and the possible effect of changing procurement strategies. It can help buyers to focus their efforts on the categories with the highest impact. This can also help buyers to set carbon “budgets”, ensuring that suppliers must adhere to a specified amount of emissions during the contract. The data can be used to inform suppliers of this requirement, but also to undertake cumulative analysis of contracting initiatives across government. This approach is best used in a single, well measured category such as energy.
 
-### **Monitor contract performance (Option 7)**
+### Monitor contract performance (Option 7)
 
 Public buyers can provide information on carbon emissions during, or at the conclusion of a contract. A number of industries such as travel and construction have standardized measures for their emissions and these can be included in any contract performance update. As work is underway to create a [binding treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) on plastic waste, these approaches can also be taken to measure use of plastic, specially in sectors that are skewed towards heavy usage such as construction and medicines/medical equipment.
 
-### **Measure use of certifications (Option 6)**
+### Measure use of certifications (Option 6)
 
 You can use [certifications](/guide-to-ecolabels) such as Environmental Product Declarations (EPD) to gather information on carbon emissions associated with a product. You can also request the use of other environmental certifications (e.g. Type I ecolabels) and assess their impact by contrasting forecasting and contract implementation data.
 

@@ -94,7 +94,7 @@ Green Flags can help you think about the key data categories you need to be able
 
 {% image /assets/images/OCP2021-Green-Flags_-How-open-data-can-throw-light-on-sustainable-procurement-.jpg 2325 2646 align-start %}
 
-## **The critical role of identifiers in tracking SPP performance**
+## The critical role of identifiers in tracking SPP performance
 
 Identifiers enable you to link data together from different systems. Central to the Open Contracting Data Standard is a unique, non-proprietary ID for every public contract that allows it to be tracked across its commercial life cycle.
 

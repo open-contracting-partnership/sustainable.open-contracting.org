@@ -8,7 +8,7 @@ full_width: true
 notion_id: "3578aad1ed6c48608e9804192cadf910"
 sidebar: true
 ---
-# **Interagir avec les acteurs du marché**
+# Interagir avec les acteurs du marché
 
 Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels.
 
@@ -16,7 +16,7 @@ Il est important d’interagir avec les acteurs du marché lors de chaque proces
 Dans cette section, nous fournissons des informations concernant l’importance d’interagir avec les acteurs du marché ainsi que des orientations concernant les différentes possibilités d’interaction lors des différentes étapes du processus de passation des marchés publics durables et ouverts.
 {% endcallout %}
 
-## **Pourquoi interagir avec les acteurs du marché ?**
+## Pourquoi interagir avec les acteurs du marché ?
 
 L’interaction avec les acteurs du marché lors de la mise en place de marchés publics durables et ouverts vise généralement à :
 
@@ -33,7 +33,7 @@ L’interaction avec les acteurs du marché lors de la mise en place de marchés
 L’exemple du [système « *Ecobici* » de la ville de Mexico](/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico) montre bien comment les interactions avec les acteurs du marché peuvent aider à définir votre approche des marchés publics et améliorer leurs résultats. Consultez [ce rapport](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) du Chicago Council on Global Affairs pour en savoir plus sur la façon dont l’interaction ouverte avec les acteurs du marché peut favoriser les marchés publics durables.
 {% endcallout %}
 
-## **Quelle est la meilleure façon d’interagir avec les acteurs du marché ?**
+## Quelle est la meilleure façon d’interagir avec les acteurs du marché ?
 
 Les méthodes d’interaction peuvent varier en fonction de l’état d’avancement du processus de passation des marchés publics durables et ouverts.
 

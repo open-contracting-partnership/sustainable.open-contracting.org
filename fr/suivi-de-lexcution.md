@@ -8,7 +8,7 @@ full_width: true
 notion_id: e10550c9408d4537a5b0065517aea46a
 sidebar: true
 ---
-# **Gérer la durabilité durant l’exécution du marché**
+# Gérer la durabilité durant l’exécution du marché
 
 Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](/obligations-contractuelles), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat.
 
@@ -22,7 +22,7 @@ Dans cette section, nous présentons plusieurs mécanismes pouvant être utilis�
 <br>L’un des aspects essentiels des </strong>[marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et de la [construction](/la-construction-en-anglais).
 {% endcallout %}
 
-## **Comment suivre les résultats durant l’exécution du marché ?**
+## Comment suivre les résultats durant l’exécution du marché ?
 
 Différents mécanismes permettent de suivre les résultats relatifs aux critères de durabilité de votre contrat. Ci-dessous, nous présentons plusieurs actions axées sur la distinction entre performance et conformité qui vous aideront à collecter les données nécessaires concernant les résultats.
 

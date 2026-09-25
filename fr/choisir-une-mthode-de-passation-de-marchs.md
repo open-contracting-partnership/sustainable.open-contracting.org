@@ -8,7 +8,7 @@ full_width: true
 notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
 sidebar: true
 ---
-# **Choisir la bonne méthode de passation de marchés**
+# Choisir la bonne méthode de passation de marchés
 
 La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts.
 
@@ -16,7 +16,7 @@ La conception d’un processus de passation de marchés peut limiter ou facilite
 *Pour adopter des pratiques durables de passation de marchés, il est intéressant de diviser les projets dans des phases d’essai et de reproduction à grande échelle. Cela peut être particulièrement utile pour tester des hypothèses risquées et incertaines. Durant la phase d’essai, une stratégie claire de collecte de données doit être mise en œuvre et les données collectées guideront la phase de reproduction à grande échelle.*
 {% endcallout %}
 
-## **Marchés axés sur les résultats**
+## Marchés axés sur les résultats
 
 Les marchés axés sur les résultats peuvent constituer un bon point de départ en ce qui concerne les marchés publics durables. Cette approche consiste à définir les besoins en matière d’achat du point de vue des résultats souhaités plutôt que de définir une méthode pour obtenir ces résultats, ce qui permet aux acteurs du marché de proposer des solutions diversifiées.
 
@@ -54,7 +54,7 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (*« Results-Driven Contracting »*) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
 {% endcallout %}
 
-## **Processus d’appel d’offres en deux temps**
+## Processus d’appel d’offres en deux temps
 
 Les processus de passation de marchés en deux temps permettent d’établir un dialogue constant entre les fournisseurs et les services de passation de marchés et de divulguer les informations pertinentes de façon ouverte.
 
@@ -91,7 +91,7 @@ Les processus d’appel d’offres en deux temps sont particulièrement utiles d
 
 {% endtoggle %}
 
-## **Marché groupé**
+## Marché groupé
 
 Afin de mettre en place des marchés publics durables, vous pouvez également opter pour des marchés groupés. Cette approche désigne la collaboration entre plusieurs organismes publics dans le cadre de certains marchés. Cette collaboration peut porter sur des essais conjoints ou certaines interactions avec les acteurs du marché au début du processus, ou encore le lancement d’un appel d’offres commun ou la signature conjointe d’un contrat avec un fournisseur dans le cadre d’un processus de passation de marchés.
 

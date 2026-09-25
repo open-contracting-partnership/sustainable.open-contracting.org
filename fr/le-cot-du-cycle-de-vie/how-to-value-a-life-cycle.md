@@ -59,7 +59,7 @@ Estimated year two costs including inflation = €16,060
 
 Note that we have estimated an increase in servicing costs and parts that is over and above the cost of inflation. This is because we anticipate that the cost of servicing and parts will increase as the vehicle gets older and more work is required to maintain it.
 
-### **Measuring over time**
+### Measuring over time
 
 Finally we consider the combined yearly costs to establish a full life cycle cost. So if we estimate that the car will cost a further €16,580 to run in the third year we can quickly establish a life cycle cost for the vehicle if we were to own it for three years.
 

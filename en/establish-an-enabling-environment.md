@@ -16,7 +16,7 @@ Clearly, you want to make sure that buying sustainably and making contract award
 **In this section we explain how there is room for procurement practitioners to implement SPP in different contexts.** We provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.
 {% endcallout %}
 
-## **Quickly evaluate your enabling environment**
+## Quickly evaluate your enabling environment
 
 For a simple and quick way to carry out an overview of your enabling environment, we have created the following checklist:
 
@@ -24,7 +24,7 @@ For a simple and quick way to carry out an overview of your enabling environment
 
 For a more detailed account of the process, and concepts, introduced on the checklist, keep reading this section.
 
-## C**heck evaluation or award criteria**
+## Check evaluation or award criteria
 
 In most countries, the existing laws and policies do not establish explicit provisions for considering sustainability in the procurement process. However, they always include certain principles, such as “fairness”, “equity”, “economy”, “value for money (VfM)”, “efficiency”, “effectiveness” to guide procurement decision-making processes.
 
@@ -104,7 +104,7 @@ As a quick way to go over the different regulatory and policy documents you migh
 
 This process will help to establish trust across the supplier market, as well as procurement practitioners, that SPP approaches have been well-designed and fit well into the current rules.
 
-## **Reach out to support networks**
+## Reach out to support networks
 
 When you are thinking about implementing SPP practices for the first time, it can be useful to learn from other teams who are also working on SPP initiatives. These networks provide an opportunity to openly share insights and best practices and learn from each other.
 

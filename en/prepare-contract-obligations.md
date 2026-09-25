@@ -64,7 +64,7 @@ Sustainability clauses are often considered as separate to business demands, whi
 
 {% image /assets/images/Untitled.jpg 672 420 align-start normal %}
 
-## **Have clear continuous improvement standards**
+## Have clear continuous improvement standards
 
 As it has been introduced in the [previous section](/set-sustainability-criteria), what sustainability criteria to introduce in public procurement contracts should be decided according to different factors, including existing market capability. However, market capability against sustainability standards can increase over the course of a contract. To ensure that contracted suppliers keep progressing against sustainability standards, you can include clear continuous improvement standards in contract clauses. This can include, for example, establishing progressive CO2 minimisation targets throughout the duration of the contract, or progressive fuel saving standards.
 

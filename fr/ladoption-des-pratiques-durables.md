@@ -8,23 +8,23 @@ full_width: true
 notion_id: "3e5f6ebbb44544b993d1f2aa2e381fd1"
 sidebar: true
 ---
-# **Exemple : évaluer l’adoption des pratiques durables de passation de marchés**
+# Exemple : évaluer l’adoption des pratiques durables de passation de marchés
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès en ce qui concerne votre objectif de promotion des marchés publics durables.
 {% endcallout %}
 
-## **De quoi s’agit-il ?**
+## De quoi s’agit-il ?
 
 L’évaluation du degré d’adoption des pratiques durables de passation de marchés suppose de déterminer dans quelle mesure les acheteurs publics ont recours aux marchés publics durables, durant les processus de passation de marchés ou ultérieurement, afin de pouvoir repérer clairement les marchés produisant des effets en matière sociale, environnementale et économique lors des appels d’offres et de l’engagement de fournisseurs.
 
 Measuring SPP uptake levels is about knowing how much sustainable public procurement is being relied on by public buyers, either during the procurement process or after the fact to allow the clear identification of social, environmental, or economic procurement within tendering and contracting.
 
-## **Quel est l’objectif ?**
+## Quel est l’objectif ?
 
 Les départements gouvernementaux du monde entier mettent en place des politiques et des objectifs qui exigent parfois directement des acheteurs qu’ils prennent en compte la valeur sociale de leurs acquisitions ou qu’ils possèdent des politiques systématiques (par exemple des objectifs d’atteindre « zéro émission nette ») et les obligent à adapter leurs pratiques de passation de marchés pour prendre en compte d’autres facteurs que le seul aspect financier. L’évaluation de l’adoption et des progrès de ces nouvelles initiatives peut être difficile, car les données nécessaires pour constater les changements de comportements peuvent être difficiles à trouver. Cette évaluation permet aux acheteurs publics de montrer qu’ils intègrent la durabilité aux marchés publics et respectent par conséquent les exigences des politiques.
 
-## **Avantages**
+## Avantages
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
 Les gouvernements peuvent montrer que les nouvelles politiques ont des effets concrets sur les marchés publics.
@@ -38,7 +38,7 @@ Vous pouvez indiquer clairement aux fournisseurs que les marchés publics durabl
 Il est possible de faire le lien entre politiques et marchés publics par l’entremise d’une boucle de collaboration permettant d’évaluer la réalisation des objectifs des politiques.
 {% endcallout %}
 
-## **Pour commencer**
+## Pour commencer
 
 L’évaluation de la progression des marchés publics durables suppose généralement de déterminer si un marché ou un appel d’offres vise à atteindre un objectif de politiques établi. Ainsi, l’évaluation prend souvent la forme d’une étiquette binaire « oui » ou « non » enregistrée dans le cadre du processus de passation de marchés.
 
@@ -66,7 +66,7 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 {% endgallery %}
 {% enddatabase %}
 
-## **Exemples d’indicateurs**
+## Exemples d’indicateurs
 
 Il existe différentes façons d’évaluer la mise en œuvre de politiques sur les marchés publics durables. Précédemment dans ce guide pratique, nous [avons présenté un cadre de suivi et d’évaluation](/suivi-et-valuation) visant à évaluer les progrès concernant la réalisation des objectifs de durabilité en définissant des objectifs, des résultats et des indicateurs. Ce cadre contenait des exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant l’objectif de promotion de l’adoption de pratiques durables de passation de marchés.
 

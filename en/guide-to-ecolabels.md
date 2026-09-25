@@ -12,11 +12,11 @@ sidebar: true
 In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.**
 {% endcallout %}
 
-## **What are ecolabels?**
+## What are ecolabels?
 
 The Global Ecolabelling Network (GEN) [defines ecolabelling](https://globalecolabelling.net/what-is-eco-labelling/) as “a voluntary method of environmental performance certification and labeling that is practiced around the world”. In this way, an “ecolabel identifies products or services proven to be environmentally preferable within a specific category”. To possess an ecolabel, products must comply with a series of criteria. Although most ecolabels focus on environmental criteria, some have started to include certain social criteria, such as whether labor rights have been upheld during the product's manufacturing process.
 
-## **What type of ecolabels exist?**
+## What type of ecolabels exist?
 
 The International Standards Organization (ISO) currently classifies labels into three types:
 
@@ -44,7 +44,7 @@ These labels have the same characteristics as Type I ecolabels, but focus on a s
 
 {% endtoggle %}
 
-### **How can you apply ecolabels throughout SPP implementation**
+### How can you apply ecolabels throughout SPP implementation
 
 Ecolabels can be applied at different stages, and in different ways, throughout SPP implementation, including:
 
@@ -68,7 +68,7 @@ When considering SPP implementation, it can be useful to focus efforts on specif
 
 Finally, Type III EPDs can be very useful to compare amongst different products, and gather relevant environmental data, such as CO2 emissions. However, these are not as common as other labels, such as Type I and Type-I ecolabels.
 
-## **How can you find relevant ecolabels?**
+## How can you find relevant ecolabels?
 
 As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction](/construction-sector).
 

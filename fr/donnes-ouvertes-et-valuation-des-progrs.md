@@ -8,7 +8,7 @@ full_width: true
 notion_id: "35dc615b39b84af793a9430029ef8567"
 sidebar: true
 ---
-# **Données ouvertes et évaluation des progrès**
+# Données ouvertes et évaluation des progrès
 
 Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](/definition) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
@@ -16,7 +16,7 @@ Tout au long de ce guide pratique, nous avons parlé de l’importance des donn�
 **Dans cette partie, nous approfondissons les possibilités de collecte des données nécessaires pour évaluer les progrès par rapport à vos objectifs.** Nous présenterons d’abord des considérations générales sur la collecte de données et des possibilités d’utilisation de ces données en vue de l’évaluation des progrès concernant différents objectifs. Ensuite, nous transformerons les cinq objectifs du cadre de suivi et d’évaluation en exemples pratiques afin de vous montrer comment utiliser les données ouvertes pour évaluer les progrès concernant : (1) l’adoption de pratiques durables de passation de marchés, (2) la réduction des émissions de carbone, (3) l’inclusion des genres, (4) le développement économique, et (5) la prise en compte du coût du cycle de vie.
 {% endcallout %}
 
-## **Pour préparer la collecte et la publication de données**
+## Pour préparer la collecte et la publication de données
 
 Plusieurs facteurs influenceront et détermineront votre approche de collecte de données. L’évaluation de ces facteurs est la première étape menant à la conception d’un processus clair de transmission des données requises aux services de passation de marchés. Ci-dessous, nous présentons plusieurs facteurs essentiels que vous devrez prendre en compte dans le cadre de cette évaluation.
 

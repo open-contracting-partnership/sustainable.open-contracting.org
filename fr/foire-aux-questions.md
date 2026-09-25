@@ -8,7 +8,7 @@ full_width: true
 notion_id: "6acdc6a4546941279d00b2aa846b58b9"
 sidebar: true
 ---
-# **Foire aux questions**
+# Foire aux questions
 
 {% callout gray /assets/images/Icons_Grey3.png %}
 *Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.*

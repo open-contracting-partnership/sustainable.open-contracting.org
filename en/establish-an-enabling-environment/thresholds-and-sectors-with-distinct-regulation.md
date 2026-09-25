@@ -8,11 +8,11 @@ full_width: true
 notion_id: "5d5f781a16dc429cb50810f1e14636ea"
 sidebar: true
 ---
-## **What are they?**
+## What are they?
 
 Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies.
 
-## **How do they relate to SPP?**
+## How do they relate to SPP?
 
 **Procurement Thresholds**
 
