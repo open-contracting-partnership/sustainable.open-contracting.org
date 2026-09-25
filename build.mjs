@@ -9,13 +9,12 @@ import postcss from "postcss";
 
 const production = process.env.NODE_ENV === "production";
 
-// The site whose built stylesheets to bundle: en, es or fr.
+// The site's language: en, es or fr.
 const site = join("_site", process.argv[2]);
 const directory = join(site, "assets", "css");
 
 const processor = postcss([
   purgecss({
-    // site.js's class names are in its source, like those in the pages' HTML.
     content: [join(site, "**", "*.html"), join(site, "assets", "js", "*.js")],
   }),
   autoprefixer,
@@ -29,7 +28,7 @@ const options = {
   sourcemap: !production,
   legalComments: "linked",
   logLevel: "info",
-  // The layout preloads the fonts, at their paths.
+  // default.html preloads fonts.
   external: ["*.woff2"],
   // main.css is overwritten.
   allowOverwrite: true,
@@ -49,7 +48,7 @@ const options = {
 
 await esbuild.build(options);
 
-// The stylesheets that main.css imports.
+// Remove the stylesheets that main.css imports.
 for (const name of await readdir(directory)) {
   if (name.endsWith(".css") && name !== "main.css") await rm(join(directory, name));
 }
