@@ -8,7 +8,7 @@ full_width: true
 notion_id: "09f22c6be859431e9ee40568a321f67c"
 sidebar: true
 ---
-# **Comparta y comunique los resultados de su ejercicio de priorización**
+# **Priorice las categorías de contratación**
 
 Hay muchas maneras de determinar prioridades de cómo empezar la implementación de CPS Abierta. Una de ellas podría ser incluir respuestas a cuestiones ambientales de alto perfil, sectores del mercado o grupos de productos donde los productos y servicios verdes están fácilmente disponibles, programas del sector público donde los contratantes y la ciudadanía pueden ver razones por favorecer el uso de productos verdes, o proyectos o eventos de alto perfil donde CPS se puede introducir en forma piloto con el fin de aumentar la conciencia e interés, tales como eventos deportivos, conferencias, y remodelaciones de edificios gubernamentales importantes.
 
@@ -42,11 +42,15 @@ Una manera lógica de determinar prioridades de contratación es la identificaci
 
 En primer lugar, es importante para la determinación de prioridades de categorías de contratación el tener una visión clara de las categorías actuales, y de los presupuestos para los contratos asociadas con ellas. Las categorías preliminares de contratación deben de estar filtradas, según:
 
-{% toggle <strong>Valor<br></strong>El valor hace referencia al presupuesto total asociado con la categoría de contratación, si miras al número de contratos asociados con ella. %}
+{% toggle **Valor** %}
+
+El valor hace referencia al presupuesto total asociado con la categoría de contratación, si miras al número de contratos asociados con ella.
 
 {% endtoggle %}
 
-{% toggle <strong>Frecuencia de contratación<br></strong>Se debe establecer la frecuencia de contratos para cada categoría, es decir, la cantidad de contratos asociada con una categoría de contratación durante un periodo determinado. %}
+{% toggle **Frecuencia de contratación** %}
+
+Se debe establecer la frecuencia de contratos para cada categoría, es decir, la cantidad de contratos asociada con una categoría de contratación durante un periodo determinado.
 
 {% endtoggle %}
 
