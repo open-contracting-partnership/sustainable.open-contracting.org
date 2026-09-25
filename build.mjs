@@ -17,8 +17,6 @@ const processor = postcss([
   purgecss({
     // site.js's class names are in its source, like those in the pages' HTML.
     content: [join(site, "**", "*.html"), join(site, "assets", "js", "*.js")],
-    // Keyframes and fonts can be used in other stylesheets, and fonts are set with variables, which PurgeCSS
-    // doesn't follow, so all are kept.
   }),
   autoprefixer,
 ]);
@@ -27,6 +25,7 @@ const options = {
   entryPoints: { main: join(directory, "main.css") },
   bundle: true,
   outdir: directory,
+  // main.css is overwritten.
   allowOverwrite: true,
   minify: production,
   sourcemap: !production,
