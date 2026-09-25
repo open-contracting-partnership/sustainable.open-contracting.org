@@ -5,7 +5,6 @@ full_width: true
 collection: true
 notion_id: "01c627ebff6942c6ac69bb92e50db2a3"
 ---
-<div class="notion-collection__header-wrapper"></div>
 
 {% gallery large %}
 

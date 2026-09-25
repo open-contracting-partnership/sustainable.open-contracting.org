@@ -5,13 +5,42 @@ full_width: true
 collection: true
 notion_id: "78732b3bc4ad4e839b58712a3b56f757"
 ---
-<div class="notion-collection-gallery large">
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/promouvoir-linclusion-des-entreprises-diriges-par-des-femmes-au-chili" class="notion-link notion-collection-card__anchor">Promouvoir l&#x27;inclusion des entreprises dirigées par des femmes au Chili</a><img alt="Promouvoir l&#x27;inclusion des entreprises dirigées par des femmes au Chili" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 49.5%" src="/assets/images/LAC_-_Chile-2.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/promoting-family-agriculture-through-procurement-in-paraguay" class="notion-link notion-collection-card__anchor">Promoting family agriculture through procurement in Paraguay</a><img alt="Promoting family agriculture through procurement in Paraguay" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.879999999999995%" src="/assets/images/LAC_-_Paraguay.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/un-plan-national-sur-les-marchs-publics-durables-en-argentine" class="notion-link notion-collection-card__anchor">Un plan national sur les marchés publics durables en Argentine</a><img alt="Un " loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 54.48%" src="/assets/images/LAC_-_Argentine-1.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru" class="notion-link notion-collection-card__anchor">Engaging citizens to monitor public projects in Peru</a><img alt="Engaging citizens to monitor public projects in Peru" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 53.12%" src="/assets/images/LAC_-_Peru.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia" class="notion-link notion-collection-card__anchor">Engaging citizens to monitor corruption in public construction projects in Colombia</a><img alt="Engaging citizens to monitor corruption in public construction projects in Colombia" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Colombia.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/promoting-smes-by-reserving-public-contracts-in-the-dominican-republic" class="notion-link notion-collection-card__anchor">Promoting SMEs by reserving public contracts in the Dominican Republic</a><img alt="Promoting SMEs by reserving public contracts in the Dominican Republic" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Dominican_Republic.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-durables-en-quateur" class="notion-link notion-collection-card__anchor">Plan d’action sur les marchés publics durables en Équateur</a><img alt="P" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_Equateur.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico" class="notion-link notion-collection-card__anchor">Utilisation de contrats ouverts pour acquérir un système de vélos à Mexico</a><img alt="Utilisation de contrats ouverts pour acquérir un système de vélos à Mexico" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/LAC_-_CDMX.png"/></div>
-</div>
+{% gallery large %}
+
+- title: "Promouvoir l'inclusion des entreprises dirigées par des femmes au Chili"
+  link: /base-de-donnes-dtudes-de-cas/promouvoir-linclusion-des-entreprises-diriges-par-des-femmes-au-chili
+  cover: /assets/images/LAC_-_Chile-2.png
+  cover_position: 49.5
+  cover_only: true
+- title: Promoting family agriculture through procurement in Paraguay
+  link: /base-de-donnes-dtudes-de-cas/promoting-family-agriculture-through-procurement-in-paraguay
+  cover: /assets/images/LAC_-_Paraguay.png
+  cover_position: 53.88
+  cover_only: true
+- title: Un plan national sur les marchés publics durables en Argentine
+  link: /base-de-donnes-dtudes-de-cas/un-plan-national-sur-les-marchs-publics-durables-en-argentine
+  cover: /assets/images/LAC_-_Argentine-1.png
+  cover_position: 54.48
+  cover_only: true
+- title: Engaging citizens to monitor public projects in Peru
+  link: /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru
+  cover: /assets/images/LAC_-_Peru.png
+  cover_position: 53.12
+  cover_only: true
+- title: Engaging citizens to monitor corruption in public construction projects in Colombia
+  link: /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia
+  cover: /assets/images/LAC_-_Colombia.png
+  cover_only: true
+- title: Promoting SMEs by reserving public contracts in the Dominican Republic
+  link: /base-de-donnes-dtudes-de-cas/promoting-smes-by-reserving-public-contracts-in-the-dominican-republic
+  cover: /assets/images/LAC_-_Dominican_Republic.png
+  cover_only: true
+- title: Plan d’action sur les marchés publics durables en Équateur
+  link: /base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-durables-en-quateur
+  cover: /assets/images/LAC_-_Equateur.png
+  cover_only: true
+- title: Utilisation de contrats ouverts pour acquérir un système de vélos à Mexico
+  link: /base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico
+  cover: /assets/images/LAC_-_CDMX.png
+  cover_only: true
+{% endgallery %}

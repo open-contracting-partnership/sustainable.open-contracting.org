@@ -5,16 +5,50 @@ full_width: true
 collection: true
 notion_id: b8477f5c4266465eaea24d9f6a19ad9f
 ---
-<div class="notion-collection-gallery large">
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country" class="notion-link notion-collection-card__anchor">Standardizing sustainability requirements according to market capability in the Basque Country</a><img alt="Standardizing sustainability requirements according to market capability in the Basque Country" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Basque_Country.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/un-rseau-de-connaissances-destin-aux-fonctionnaires-des-services-de-passation-de-marchs-aux-pays-bas" class="notion-link notion-collection-card__anchor">Un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés aux Pays-Bas</a><img alt="U" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Pays-Bas.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-cologiques-en-irelande" class="notion-link notion-collection-card__anchor">Plan d’action sur les marchés publics écologiques en Irelande</a><img alt="P" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Irelande.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/promoting-circularity-through-furniture-procurement-in-wales" class="notion-link notion-collection-card__anchor">Promoting circularity through furniture procurement in Wales</a><img alt="Promoting circularity through furniture procurement in Wales" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Wales.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen" class="notion-link notion-collection-card__anchor">Creating a task force to monitor supplier working conditions in the City of Copenhagen</a><img alt="Creating a task force to monitor supplier working conditions in the City of Copenhagen" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Copenhagen.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland" class="notion-link notion-collection-card__anchor">Engaging with the market to facilitate supplier collaboration in Scotland</a><img alt="Engaging with the market to facilitate supplier collaboration in Scotland" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Scotland.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm" class="notion-link notion-collection-card__anchor">Engaging with the market to procure socially responsible ICT in Stockholm</a><img alt="Engaging with the market to procure socially responsible ICT in Stockholm" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Stockholm.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/prendre-en-compte-les-missions-de-co2-lors-de-lattribution-de-marchs-publics-aux-pays-bas" class="notion-link notion-collection-card__anchor">Prendre en compte les émissions de CO2 lors de l’attribution de marchés publics aux Pays-Bas</a><img alt="Prendre en compte les émissions de CO2 lors de l’attribution de marchés publics aux Pays-Bas" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Neth2.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania" class="notion-link notion-collection-card__anchor">Monitoring progress against sustainability goals in Lithuania</a><img alt="Monitoring progress against sustainability goals in Lithuania" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Lithuania.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/travailler-avec-le-personnel-mdical-pour-laborer-des-dossiers-dappel-doffres-en-italie" class="notion-link notion-collection-card__anchor">Travailler avec le personnel médical pour élaborer des dossiers d’appel d’offres en Italie</a><img alt="Travailler avec le personnel médical pour élaborer des dossiers d’appel d’offres en Italie" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Italie.png"/></div>
-  <div class="notion-collection-card gallery"><a href="/base-de-donnes-dtudes-de-cas/un-rseau-de-surveillance-citoyenne-des-marchs-publics-en-ukraine" class="notion-link notion-collection-card__anchor">Un réseau de surveillance citoyenne des marchés publics en Ukraine</a><img alt="Un réseau de surveillance citoyenne des marchés publics en Ukraine" loading="lazy" width="960" height="200" class="notion-collection-card__cover large only-cover" style="object-fit:cover;object-position:center 50%" src="/assets/images/Europe_-_Ukraine-1.png"/></div>
-</div>
+{% gallery large %}
+
+- title: Standardizing sustainability requirements according to market capability in the Basque Country
+  link: /base-de-donnes-dtudes-de-cas/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
+  cover: /assets/images/Europe_-_Basque_Country.png
+  cover_only: true
+- title: Un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés aux Pays-Bas
+  link: /base-de-donnes-dtudes-de-cas/un-rseau-de-connaissances-destin-aux-fonctionnaires-des-services-de-passation-de-marchs-aux-pays-bas
+  cover: /assets/images/Europe_-_Pays-Bas.png
+  cover_only: true
+- title: Plan d’action sur les marchés publics écologiques en Irelande
+  link: /base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-cologiques-en-irelande
+  cover: /assets/images/Europe_-_Irelande.png
+  cover_only: true
+- title: Promoting circularity through furniture procurement in Wales
+  link: /base-de-donnes-dtudes-de-cas/promoting-circularity-through-furniture-procurement-in-wales
+  cover: /assets/images/Europe_-_Wales.png
+  cover_only: true
+- title: Creating a task force to monitor supplier working conditions in the City of Copenhagen
+  link: /base-de-donnes-dtudes-de-cas/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen
+  cover: /assets/images/Europe_-_Copenhagen.png
+  cover_only: true
+- title: Engaging with the market to facilitate supplier collaboration in Scotland
+  link: /base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland
+  cover: /assets/images/Europe_-_Scotland.png
+  cover_only: true
+- title: Engaging with the market to procure socially responsible ICT in Stockholm
+  link: /base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm
+  cover: /assets/images/Europe_-_Stockholm.png
+  cover_only: true
+- title: Prendre en compte les émissions de CO2 lors de l’attribution de marchés publics aux Pays-Bas
+  link: /base-de-donnes-dtudes-de-cas/prendre-en-compte-les-missions-de-co2-lors-de-lattribution-de-marchs-publics-aux-pays-bas
+  cover: /assets/images/Europe_-_Neth2.png
+  cover_only: true
+- title: Monitoring progress against sustainability goals in Lithuania
+  link: /base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania
+  cover: /assets/images/Europe_-_Lithuania.png
+  cover_only: true
+- title: Travailler avec le personnel médical pour élaborer des dossiers d’appel d’offres en Italie
+  link: /base-de-donnes-dtudes-de-cas/travailler-avec-le-personnel-mdical-pour-laborer-des-dossiers-dappel-doffres-en-italie
+  cover: /assets/images/Europe_-_Italie.png
+  cover_only: true
+- title: Un réseau de surveillance citoyenne des marchés publics en Ukraine
+  link: /base-de-donnes-dtudes-de-cas/un-rseau-de-surveillance-citoyenne-des-marchs-publics-en-ukraine
+  cover: /assets/images/Europe_-_Ukraine-1.png
+  cover_only: true
+{% endgallery %}
