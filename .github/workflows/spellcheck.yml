@@ -8,4 +8,4 @@ jobs:
     with:
       ignore: sme
       # codespell checks English, not the Spanish and French sites.
-      skip: es,fr,sidebar-es.html,sidebar-fr.html,Gemfile.lock
+      skip: es,fr,sidebar-es.html,sidebar-fr.html,Gemfile.lock,pnpm-lock.yaml
