@@ -13,6 +13,7 @@ jobs:
           node-version-file: .node-version
       - uses: astral-sh/setup-uv@v10
       - run: uvx pre-commit run --all-files --show-diff-on-failure
+      - run: python3 scripts/check_redirects.py
       - run: for lang in en es fr; do scripts/build.sh "$lang"; done
       - run: uv run scripts/check_links.py
       - run: uv run scripts/check_markup.py
