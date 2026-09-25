@@ -44,7 +44,7 @@ notion_id: "1bf2fbacd9fe42699eac2d92e9ede9bb"
   cover_only: true
 - title: Monitoring progress against sustainability goals in Lithuania
   link: /monitoring-progress-against-sustainability-goals-in-lithuania
-  cover: "/assets/images/Europe_-_Italy-1.png"
+  cover: /assets/images/Europe_-_Lithuania.png
   cover_only: true
 - title: Engaging with users to assess procurement needs in Italy
   link: /engaging-with-users-to-assess-procurement-needs-in-italy
