@@ -331,7 +331,7 @@ module NotionTags
   # {% page PATH [bg-COLOR] [html] %} renders a link to a page, with its icon and title, and optionally a background
   # color. Without "html", it is wrapped for use as a block in Markdown.
   class Page < Liquid::Tag
-    STYLE = "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;".freeze
+    STYLE = "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:center;".freeze
 
     def initialize(tag_name, markup, options)
       super
