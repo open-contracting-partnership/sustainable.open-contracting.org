@@ -3,7 +3,7 @@ permalink: /establish-an-enabling-environment
 title: Establish an enabling environment
 description: "Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **In this section we explain how there is room for procurement practitioners to implement SPP in different contexts.** We provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.
 {% endcallout %}
 
@@ -62,7 +62,7 @@ In this case, you can also design the evaluation process so that sustainability 
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **In Latin America and Africa in particular, procurement principles are often included in the constitution**, and are sometimes referred to as principles that “govern the activities of public agencies” or the “expenditure of public funds”. Identifying these principles, and how they are defined, can help guide your decisions over what you can consider during the procurement process when comparing offers.
 {% endcallout %}
 
@@ -75,19 +75,19 @@ Within your procurement regime, there will be certain policy vehicles, such as f
 
 - title: Explicit provisions to include sustainability as award criteria
   link: /establish-an-enabling-environment/explicit-provisions-to-include-sustainability-as-award-criteria
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Open market engagement and ongoing dialogue
   link: /establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Framework agreements
   link: /establish-an-enabling-environment/framework-agreements
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: "Thresholds and sectors with distinct regulation"
   link: /establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Targets and reserved contracts
   link: /establish-an-enabling-environment/targets-and-reserved-contracts
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

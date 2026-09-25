@@ -3,7 +3,7 @@ permalink: /establish-an-enabling-environment/thresholds-and-sectors-with-distin
 title: Thresholds and sectors with distinct regulation
 description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green3.png
+icon: /assets/images/icons_D_Green3.svg
 full_width: true
 notion_id: "5d5f781a16dc429cb50810f1e14636ea"
 sidebar: true
@@ -22,7 +22,7 @@ Procurement frameworks often establish financial thresholds where tenders that f
 
 Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 When looking at thresholds and sectors with distinct regulation it is **important to check the following:**
 
 - Whether there is **special guidance for conducting below threshold procurement** and how much autonomy is given to individual authorities to conduct this type of procurement.

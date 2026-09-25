@@ -3,7 +3,7 @@ permalink: /options-for-data-use
 title: Options for data use
 description: "There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "01b28c8f7f334cbe9e429d08f3658195"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 The options presented on this section can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section](/open-data-measuring-progress). For each option, we have included guidance on how it can be applied depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). You can access and download the table with the whole set of data use options here:
 
 {% page /options-for-data-use/table-of-options-for-data-use %}

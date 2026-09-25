@@ -3,7 +3,7 @@ permalink: /establezca-necesidades
 title: Establezca necesidades
 description: "Cuando decida implementar CPS, no sólo debe considerar cómo seleccionará la opción más sostenible, sino también asegurarse de que existe una necesidad real de los bienes, servicios u obras que va a comprar. A veces, puede encontrar que la opción más sostenible es evitar comprar cualquier cosa. Para evitar compras innecesarias y asegurarse de adquirir lo correcto, es fundamental realizar una evaluación de las necesidades antes de lanzar una licitación."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "52be44d8f3944dc8ab5157ae95f44202"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Cuando decida implementar CPS, no sólo debe considerar cómo seleccionará la opción más sostenible, sino también asegurarse de que existe una necesidad real de los bienes, servicios u obras que va a comprar. A veces, puede encontrar que la opción más sostenible es evitar comprar cualquier cosa. Para evitar compras innecesarias y asegurarse de adquirir lo correcto, es fundamental realizar una evaluación de las necesidades antes de lanzar una licitación.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 En esta sección, presentamos parte de la información clave que debe recopilarse para **identificar con éxito las necesidades reales y garantizar un proceso de contratación más abierto y sostenible.**
 {% endcallout %}
 
@@ -62,7 +62,7 @@ Compartir el proceso de evaluación de necesidades es una parte esencial de una 
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **El organismo central de compras de Italia, [CONSIP](https://www.consip.it/), ha utilizado este enfoque centrado en el usuario de manera efectiva en el sector médico**, trabajando directamente con el personal médico para dar forma a los documentos de licitación para su uso en todo el país.
@@ -105,7 +105,7 @@ Enmarcar las necesidades de los usuarios en términos de resultados puede ayudar
 
 Una vez haya identificado las necesidades usted las deberá traducir en una declaración de necesidades. La declaración debe incluir información sobre las necesidades identificadas y las alternativas de contratación que se han considerado.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **Para ver un ejemplo de una declaración de necesidades, la página 2 del Módulo 4 de la Comisión Europea proporciona lo siguiente:**
 
 ”El Departamento ha identificado la necesidad de 6 pantallas inteligentes para usar en sus 12 salas de reuniones. Las pantallas facilitarán las conferencias web y reducirán la necesidad de imprimir documentos.
@@ -117,14 +117,14 @@ Los proyectores existentes consumen una gran cantidad de energía ya menudo se e
 
 La declaración de necesidades debe compartirse abiertamente con las partes interesadas relevantes y utilizarse para informar las actividades de participación en el mercado. Es importante identificar si la evaluación de necesidades cae dentro de una de las categorías de contratación prioritarias, y si hay objetivos y metas relevantes establecidas que debe considerar durante el proceso de contratación.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [European Commission. 2019. GPP Training Toolkit.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 Public Health Wales (PHW) – (*Salud Pública de Gales)* es la agencia nacional de salud pública de Gales. En 2016, decidieron trasladar nueve oficinas satélite más pequeñas a una nueva oficina grande de planta abierta de 4700 m2 en el centro de Cardiff. Para ello, PHW lanzó una licitación para el diseño de espacios de oficinas y suministro de mobiliario.

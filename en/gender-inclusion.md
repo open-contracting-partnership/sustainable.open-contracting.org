@@ -3,14 +3,14 @@ permalink: /gender-inclusion
 title: Gender inclusion
 description: "To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector. We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "62de91131c48424bad09f737eac35e8c"
 sidebar: true
 ---
 # Worked example: Measuring gender inclusion
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 In this section we explain how you can use data to measure the participation of women-led businesses in public procurement.
 {% endcallout %}
 
@@ -24,7 +24,7 @@ Governments spend a staggering US$ 13 trillion per year on public contracts. Unf
 
 Starting in 2020, we dug deeper into *why* women-led businesses struggle to thrive in public procurement markets. We worked with *Value for Women* to research the barriers facing women-led businesses in public procurement and emerging practices for fairness and inclusion from partners implementing open contracting reforms in Latin America, with examples from Chile, the Dominican Republic and Buenos Aires, Argentina.
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 You can read the [full report](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), an [insights version](https://www.open-contracting.org/resources/empower-women-led-business-procurement/), or a [summary blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). We then worked with UNWomen to prepare a [policy note](https://www.open-contracting.org/resources/empowering-women/) including more examples and recommendations from around the world.
 {% endcallout %}
 
@@ -41,16 +41,16 @@ In most countries, the participation of women businesses in public procurement c
 
 - title: How to analyze the gender pay gap
   link: /gender-inclusion/how-to-analyze-the-gender-pay-gap
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Women in boardrooms / female owned businesses
   link: /gender-inclusion/women-in-boardrooms-female-owned-businesses
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to gather the data you need?
   link: /gender-inclusion/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /gender-inclusion/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

@@ -3,7 +3,7 @@ permalink: /monitor-implementation
 title: Monitor implementation
 description: "After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the previous section, details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.  "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "80efa4eb1154401ca159ff7d6af15a15"
 sidebar: true
@@ -12,11 +12,11 @@ sidebar: true
 
 After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the [previous section](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the [broader goals](/monitoring-evaluation)** that have been set as part of the Open SPP strategy.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Providing clear channels for user and citizen feedback**
 
 **One of the key elements of [Open SPP](/what-is-open-spp)** is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/build-support-and-capabilities), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the [ICT](/ict-sector) and [construction](/construction-sector) sectors.
@@ -65,11 +65,11 @@ Another important way to gather needed data to monitor performance could be by e
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Resources**
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
@@ -77,7 +77,7 @@ For more examples of how to monitor implementation in specific procurement categ
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 **With the establishment of the ProZorro e-procurement system in Ukraine in 2016, Transparency International Ukraine established a network of civil society procurement monitors, called [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/).** Within three years this had swelled to two dozen organizations, and over 2 million people had visited the website.

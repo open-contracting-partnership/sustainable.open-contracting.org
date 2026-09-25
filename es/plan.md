@@ -3,12 +3,12 @@ permalink: /plan
 title: Plan
 description: "En esta sección le proporcionamos toda la información necesaria para empezar. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación. Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green.png
+icon: /assets/images/icons_D_Green.svg
 full_width: true
 notion_id: a2895d9856264842a71877737c547f3c
 sidebar: true
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 En esta sección **le proporcionamos toda la información necesaria para empezar**. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación.
 
 Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos.
@@ -19,18 +19,18 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
 
 - title: Establezca un entorno habilitante
   link: /establezca-un-entorno-habilitante
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Priorice
   link: /priorice
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: "Monitoreo y evaluación"
   link: /monitoreo-y-evaluacin
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Construya soporte y capacidades
   link: /establezca-mecanismos-de-apoyo
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Cree un Plan de Acción
   link: /cree-un-plan-de-accin
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 {% endgallery %}
 {% enddatabase %}

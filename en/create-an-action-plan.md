@@ -3,7 +3,7 @@ permalink: /create-an-action-plan
 title: Create an Action Plan
 description: "Throughout this first section of the toolkit, we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: d035741343454fe485c05b64b7bbb745
 sidebar: true
@@ -16,7 +16,7 @@ In each of these sections, we have explained the importance of openly communicat
 
 Having an SPP Action Plan will allow you to communicate to procurement practitioners what the current framework for implementing SPP is, what this means for them, and what actions will be taken to further adapt this framework.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 In this section we provide **examples of how you can use your SPP Action Plan to communicate the steps you have taken to assess and establish a successful framework for SPP implementation.** It can serve as reference for procurement practitioners to understand what is compliant, and what is not, as well as to **ensure standardization, accountability, and continuity regardless of institutional leadership changes.**
 {% endcallout %}
 
@@ -39,7 +39,7 @@ Communicating the result of this exercise in your Action Plan is an opportunity 
 - **Relevant laws, policies, and plans**, and how they can be interpreted for SPP implementation. This includes referencing current regulation regarding evaluation criteria, and any existing SPP regulatory enablers.
 - **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets](/establish-an-enabling-environment/targets-and-reserved-contracts), for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) to facilitate Open SPP implementation.
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 In 2017, **Argentina developed their [National Sustainable Public Procurement Plan](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf) (in Spanish), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.** The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP.
@@ -56,7 +56,7 @@ In the section [Prioritize](/prioritize), we have explained how this can be also
 - **Procurement categories which have been prioritized,** as well as transparently sharing the reasons that have led to this decision.
 - **Guidance regarding sustainability criteria that can be used for each of the prioritized areas.** This can include guidance regarding which regulations, ecolabels, or sustainability requirements, such as energy efficiency, should be included in tender documents. You can also include information regarding where to access this information, as well as including any plans for developing standardized criteria at the national, regional, or local level.
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **In 2021 Ireland published its [Green Public Procurement Action Plan](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/). The Action Plan prioritizes eight procurement product/service categories,** which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT.
@@ -80,11 +80,11 @@ For more guidance see section on [monitoring & evaluation](/monitoring-evaluatio
 
 In the section [Build support and capabilities](/build-support-and-capabilities), we have introduced some of the operational mechanisms that can be established to facilitate and enable implementation. These can include, for example, creating specific sustainable supplier catalogs, and activities designed to build capabilities amongst public procurement practitioners, and local suppliers.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 **The Action Plan should include which mechanisms have already been established, and establish a plan with activities that will be carried out to develop them further.**
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **In 2021, the City of Cape Town published its [Green Procurement Action Plan](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). The Plan includes seven operational objectives**, including “Ensure that the City has in place appropriate policies to support green procurement, including associated administrative tools”, and “Monitor and evaluate the City’s performance in terms of green procurement”.
@@ -102,7 +102,7 @@ As well as presenting chosen SPP approaches, it is important to clearly communic
 
 The implementation of Open SPP is normally carried out by different institutional bodies, at the national level this often includes the Ministry of the Environment, and any relevant National Public Procurement authorities. **The Action Plan should clearly allocate responsibilities and accountability between government agencies (and any other relevant stakeholders).**
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **In 2016, Ecuador published its first [Sustainable Procurement Action Plan](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf) (ES). The Plan includes on pages 20 to 22 information regarding the governance structure that has been put in place to assign responsibilities regarding SPP.**
@@ -118,7 +118,7 @@ The leading public authority is the National Public Procurement Agency (SERCOP) 
 
 Many of the activities associated with the implementation of Open SPP practices will need government funding. **The Action Plan should openly share the financial estimated costs associated with the implementation of the activities that will be carried out in order to develop the needed supporting and capability-building mechanisms, as well as to monitor and communicate results.**
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **In 2021, the Basque Country published the [Green Procurement and Contracting Programme of the Basque Country](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years).** This programme follows the previous Action Plans published in 2011 and 2016, this time establishing a roadmap for 2030. The Plan presents 10 lines of action that will be carried out between 2021 and 2030. **Page 36 provides a clear overview of the budget allocated to each line of action, which adds to a total of 1.590.000 euros over the ten years.**
@@ -148,11 +148,11 @@ Environmental criteria recommended for inclusion in public procurement processes
 
 {% endtoggle %}
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Remember, the **ultimate goal is for sustainable procurement practices to be mainstreamed in public procurement**. This means that, eventually, an SPP Action Plan will not be needed because sustainability will be automatically embedded in any plan regarding public procurement.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).

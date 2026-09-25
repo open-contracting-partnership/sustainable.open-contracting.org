@@ -3,7 +3,7 @@ permalink: /assess-needs
 title: Assess needs
 description: "When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: e26d206901154c1f94196272eefda571
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 In this section, we present some of the key information that should be gathered in order to **successfully identify real needs, and ensure a more open and sustainable procurement process.**
 {% endcallout %}
 
@@ -62,7 +62,7 @@ Sharing the needs assessment process is an essential part of Open SPP. Public au
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country.
@@ -104,7 +104,7 @@ Framing user needs in terms of outcomes can help to encourage innovative sustain
 
 Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:**
 
 ”The Department has identified a need for 6 smart screens for use in its 12 meeting rooms. The screens will facilitate web-conferencing and reduce the need for document printing.
@@ -118,14 +118,14 @@ The Department will consider proposals for leasing the screens under a service c
 
 The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [European Commission. 2019. GPP Training Toolkit.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.

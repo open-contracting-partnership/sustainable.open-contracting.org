@@ -3,12 +3,12 @@ permalink: /casos-de-estudio
 title: Casos de estudio
 description: "En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-others2.png
+icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: "1dbcfe1960f3498abe0bdca18d981c41"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 **En esta sección hemos incluido ejemplos de mejor práctica de implementación APP alrededor del mundo.**
 {% endcallout %}
 

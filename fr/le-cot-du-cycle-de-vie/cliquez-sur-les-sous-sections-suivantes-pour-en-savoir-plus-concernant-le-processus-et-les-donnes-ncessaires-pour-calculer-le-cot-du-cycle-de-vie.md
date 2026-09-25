@@ -9,14 +9,14 @@ notion_id: "754144edc7db4f8aa37d61c887387598"
 
 - title: How to value a life cycle
   link: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Actuals and projections
   link: /le-cot-du-cycle-de-vie/actuals-and-projections
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "How to gather the data you need?"
   link: /le-cot-du-cycle-de-vie/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Life cycle costing and SPP
   link: /le-cot-du-cycle-de-vie/life-cycle-costing-and-spp
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}

@@ -3,7 +3,7 @@ permalink: /le-secteur-tic-en-anglais/collecting-the-data
 title: Collecting the data
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "0df2837888c2449db90abd53c74bfc4d"
 sidebar: true
@@ -32,12 +32,12 @@ Questionnaires can be useful to monitor the compliance with supply chain conditi
 
 One way to monitor supply-chain activities is by conducting desktop audits and factory visits. Conducting factory audits can be resource intensive, which is why it can be helpful to collaborate with a third party, such as and NGO.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf) hires external contractors to conduct check compliance with social criteria** in contract clauses once for each supplier during the entire contract period. **They have affiliated with [Electronics Watch](https://electronicswatch.org/en/)** to access their support in local worker-driven monitoring.
 {% endcallout %}
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 The methods that will be used throughout the duration of the contract to collect the data should be clearly stated on the contract. Consequences and responsibilities in case of non-compliance should also be included.
 {% endcallout %}

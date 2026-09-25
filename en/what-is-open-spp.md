@@ -3,7 +3,7 @@ permalink: /what-is-open-spp
 title: What is Open SPP?
 description: "Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: economic, social, and environmental benefits."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro2.png
+icon: /assets/images/Icons_Blue_Intro2.svg
 full_width: true
 notion_id: "66d1d89be9f24a1580aaa1d2aaf5f615"
 sidebar: true
@@ -18,7 +18,7 @@ Sustainable Public Procurement (SPP) relates to how organizations buy goods and 
 
 **Open SPP is adding an open government and an open data approach to SPP to improve its adoption and impact.** This includes an **open government** approach to include stakeholders in planning and delivering better purchasing, and using **open data** to unlock, share and analyze what is being brought, for whom, and with what SPP outcomes and impacts. Both of these approaches were clear topics that government stakeholders wanted help with.
 
-{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+{% callout blue /assets/images/Icons_Blue_Intro6.svg %}
 For a deeper breakdown of both SPP and and open contracting (both open government and open data), please look at the following resources:
 
 - The most common definition of **Sustainable Public Procurement** comes from [UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
@@ -37,43 +37,43 @@ Throughout this guide, we will refer to these different types of openness as key
 
 {% image /assets/images/7_Open_SPP.png 5754 3241 align-start %}
 
-{% callout default /assets/images/7_areas_open_SPP.png %}
+{% callout default /assets/images/7_areas_open_SPP.svg %}
 **Communicating your SPP policies and approach**
 {% endcallout %}
 
 Open SPP means clearly disclosing your policies and approach to drive sustainability and how it complies with any international, national or local legal frameworks and policies that govern your procurement rules.
 
-{% callout default /assets/images/7_areas_open_SPP2.png %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
 **Communicating why you have prioritized certain categories of spending**
 {% endcallout %}
 
 Open SPP means sharing the process that has led you to prioritize certain procurement categories or projects as you focus your SPP efforts.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Clearly using and justifying sustainability criteria**
 {% endcallout %}
 
 Open SPP entails clearly communicating what sustainability criteria will be used to select suppliers, how they will be evaluated against these criteria, and the reasons behind these decisions.
 
-{% callout default /assets/images/7_areas_open_SPP4.png %}
+{% callout default /assets/images/7_areas_open_SPP4.svg %}
 **Maintaining effective registers of suppliers, contract databases, and reporting mechanisms**
 {% endcallout %}
 
 Open SPP includes the creation of effective supplier registers, contract databases, and reporting mechanisms that track implementation of SPP objectives and support proactive monitoring and feedback on purchases
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Providing clear channels for user and citizen feedback**
 {% endcallout %}
 
 Open SPP is characterized by establishing clear channels for engagement and receiving feedback from suppliers, civil society organizations, and citizens. This is especially valuable in planning what to buy, especially if it involves innovative technology or will involve impacts of specific communities as well as in monitoring implementation of contracts to check they have delivered on their environmental and social outcomes.
 
-{% callout default /assets/images/7_areas_open_SPP6.png %}
+{% callout default /assets/images/7_areas_open_SPP6.svg %}
 **Openly reporting on impact on a contract-by-contract basis**
 {% endcallout %}
 
 Open SPP relies on measuring, and clearly communicating, the impact of SPP practices on a contract-by-contract basis, using appropriate metrics.
 
-{% callout default /assets/images/7_areas_open_SPP7.png %}
+{% callout default /assets/images/7_areas_open_SPP7.svg %}
 **Using reporting data to improve and scale SPP**
 {% endcallout %}
 
@@ -85,7 +85,7 @@ To deliver on these seven dimensions of openness high-quality data is crucial. T
 
 We have already compiled [a piece of guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) that explores how open data can help you to drive SPP, and recommends the first steps in your open data journey.
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 **Using ‘green flags’ in government procurement data**
 
 [Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) - this guide provides a first introduction into the open data that can be used to track and measure the adoption and progress in implementing sustainable public procurement.

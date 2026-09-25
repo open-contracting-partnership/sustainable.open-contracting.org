@@ -3,14 +3,14 @@ permalink: /costeo-del-ciclo-de-vida
 title: Costeo del ciclo de vida
 description: "El costeo del ciclo de vida, o costo total de propiedad, se refiere a la práctica contable de determinar el costo compuesto de un activo. En el contexto de la contratación, los compradores utilizan el costeo del ciclo de vida para evaluar el coste total de poseer algo, normalmente una máquina de algún tipo. Por lo tanto, el costo del ciclo de vida asociado con un equipo puede incluir la compra original, los costos operativos, los costos de licencia, los costos de mantenimiento y los costos de eliminación. Otros elementos que se pueden considerar son los costos de fallas y el costo de reemplazar partes."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "5cac060e34a845439fd16e421bb2e206"
 sidebar: true
 ---
 # Ejemplo resuelto: Medición del costeo del ciclo de vida
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 En esta sección explicamos cómo se pueden usar datos para medir y monitorear el progreso contra el objetivo de promover enfoques en el costeo del ciclo de vida en la contratación pública.
 {% endcallout %}
 
@@ -32,15 +32,15 @@ El uso de buenas contrataciones y su combinación con datos de gastos puede brin
 
 Comprender el costo del ciclo de vida tiene múltiples efectos positivos para aquellos que buscan obtener mejores resultados sociales y ambientales:
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Uso de los datos para demostrar cómo se toma en serio la relación calidad-precio, considerando el largo plazo.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Recompensa a los proveedores y equipos que se comprometen a entregar un producto de alta calidad en lugar de asegurar una venta rápida.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Una buena información sobre el coste del ciclo de vida significa utilizar menos recursos durante más tiempo y reducir los residuos.
 {% endcallout %}
 
@@ -67,16 +67,16 @@ Hay una amplia gama de opciones de análisis en esta área. Los gobiernos tienen
 
 - title: Cómo valorar un ciclo de vida
   link: /costeo-del-ciclo-de-vida/cmo-valorar-un-ciclo-de-vida
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Cifras reales y proyecciones
   link: /costeo-del-ciclo-de-vida/cifras-reales-y-proyecciones
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "¿Cómo recopilar los datos que necesita?"
   link: /costeo-del-ciclo-de-vida/cmo-recopilar-los-datos-que-necesita
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Costeo del ciclo de vida y CPS
   link: /costeo-del-ciclo-de-vida/costeo-del-ciclo-de-vida-y-cps
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

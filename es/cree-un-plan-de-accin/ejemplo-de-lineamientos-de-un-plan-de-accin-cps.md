@@ -2,10 +2,10 @@
 permalink: /cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps
 title: Ejemplo de Lineamientos de un Plan de Acción CPS
 description: "The outline presented has been adapted from: UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach (page 94)."
-icon: /assets/images/Tick_green_2.png
+icon: /assets/images/Tick_green_2.svg
 notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **You can use the following outline as the basis for developing your SPP Action Plan Index.** We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in [this section](/cree-un-plan-de-accin).
 {% endcallout %}
 
@@ -70,7 +70,7 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 
 10.1 Fundraising and other strategies to ensure SPP annual funding
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 **Download this outline:**
 
 {% pdf /assets/files/spp-action-plan-outline.pdf SPP action plan outline %}

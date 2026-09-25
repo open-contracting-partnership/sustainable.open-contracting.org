@@ -8,7 +8,7 @@ full_width: true
 notion_id: "7972c3259dfd4017bdeefe743f324c0f"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herramientas prácticas que usted puede usar para ayudarlo a planear APP. En esta sección incluimos una selección de algunos de los más útiles, en formatos descargables y editables.
 {% endcallout %}
 

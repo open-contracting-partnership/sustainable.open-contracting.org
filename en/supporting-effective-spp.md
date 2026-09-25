@@ -3,7 +3,7 @@ permalink: /supporting-effective-spp
 title: Supporting effective SPP
 description: "One of the key challenges of sustainably procuring ICT lies in the lack of transparency in supply chains. To overcome this challenge, an open dialogue has to be established with suppliers, forging a relationship to encourage and promote sharing and monitoring of supply-chain activities. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "28ced3ec4127422aafc70cc99dc45471"
 sidebar: true
@@ -14,7 +14,7 @@ In relation to the environmental challenges of the ICT sector, procurement appro
 
 This information should be disclosed and easily accessible to avoid unnecessary and inadequate disposal of equipment, ensuring that those having to make decisions regarding the equipment are aware of the options available.
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, **we introduce some of the procurement approaches and procedures that can be applied to facilitate open sharing of information between suppliers and procurers, and tackle the sustainability challenges of the ICT sector.**
 {% endcallout %}
 
@@ -29,7 +29,7 @@ Conducting a needs assessment process before procurement processes is essential 
 - **Assess the option of repairing available equipment:** for example, if a public authority is considering buying new printers, they should analyse the state of current equipment, identifying which are the performance issues and whether these can be fixed. This can be done by gathering contract information and contacting the supplier of the equipment and/or maintenance services.
 - **Map out current and future needs:** if the decision to procure new equipment has been taken, public authorities should gather the necessary information to understand their real needs and how these will inform the drafting of procurement documents. This can include having a clear idea of the staff that will be using the equipment, and any foreseeable staffing decisions that might alter this number. This process can also include gathering information regarding any accessibility adjustments that should be integrated in the equipment to ensure adaptation to users with different abilities.
 
-  {% callout gray /assets/images/Icons_Grey9.png %}
+  {% callout gray /assets/images/Icons_Grey9.svg %}
   **Some ICT companies provide needs assessments as a service that is attached to the procuring of equipment, it is sometimes known as Device as a Service (DaaS).** This can be useful for public authorities which are thinking of procuring a large quantity of equipment but do not have the skills or resources to conduct this analysis themselves.
   {% endcallout %}
 

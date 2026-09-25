@@ -3,7 +3,7 @@ permalink: /introduccin
 title: Introducción
 description: "Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro.png
+icon: /assets/images/Icons_Blue_Intro.svg
 full_width: true
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
 sidebar: true
@@ -26,7 +26,7 @@ Los profesionales se dan cuenta de que necesitan comprar cosas de una manera fun
 
 **Afortunadamente podemos ayudar.**
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 Como podrá ver en el diagrama a continuación, **en esta sección introductoria le brindamos información sobre qué es la contratación pública abierta y sonstenible, cómo funciona y cómo navegar por este conjunto de herramientas**. También presentamos los conocimientos clave recopilados a partir de la investigación con los usuarios y cómo han dado forma al diseño de este nuevo recurso..
 {% endcallout %}
 
@@ -35,12 +35,12 @@ Como podrá ver en el diagrama a continuación, **en esta sección introductoria
 
 - title: Cómo puede usar este conjunto de herramientas
   link: /cmo-usar-la-herramienta
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: "¿Qué es la contratación pública abierta y sostenible?"
   link: /qu-es
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: Lo que nos dijeron los usuarios
   link: /lo-que-nos-dijeron-los-usuarios
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}
 {% enddatabase %}

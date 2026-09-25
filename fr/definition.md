@@ -3,7 +3,7 @@ permalink: /definition
 title: Definition
 description: "Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : les avantages économiques, sociaux et environnementaux."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro2.png
+icon: /assets/images/Icons_Blue_Intro2.svg
 full_width: true
 notion_id: "44ff818246af419b977484dca4f33a4e"
 sidebar: true
@@ -18,7 +18,7 @@ Les marchés publics durables renvoient à la façon dont les organisations acqu
 
 **Les marchés publics durables et *ouverts*** ajoutent une approche axée sur des gouvernements ouverts et des données ouvertes visant à renforcer l’adoption de pratiques durables de passation de marchés et d’améliorer leurs effets. L’approche axée sur des **gouvernements ouverts** vise à inclure les parties prenantes dans la planification et l’amélioration des marchés publics, tandis que le recours aux **données ouvertes** vise à divulguer, communiquer et analyser l’objet de l’acquisition, les bénéficiaires cibles et les résultats et effets des marchés publics durables. Chacune de ces approches est clairement apparue comme un sujet sur lequel les parties prenantes gouvernementales souhaitaient obtenir de l’aide.
 
-{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+{% callout blue /assets/images/Icons_Blue_Intro6.svg %}
 Pour approfondir l’analyse des marchés publics durables et de la commande publique ouverte (concernant des gouvernements ouverts et des données ouvertes), nous vous invitons à consulter les ressources suivantes :
 
 - La définition la plus courante des **marchés publics durables** est donnée par le [Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf), qui parle d’un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement »
@@ -35,43 +35,43 @@ Tout au long de ce guide, nous parlerons de ces différentes modalités d’ouve
 
 {% image /assets/images/7-Open-SPP-Steps-Diagram-_fr.png 1920 1080 align-start %}
 
-{% callout default /assets/images/7_areas_open_SPP.png %}
+{% callout default /assets/images/7_areas_open_SPP.svg %}
 **Divulguer vos politiques et votre approche des marchés publics durables.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement vos politiques et votre approche en faveur de la durabilité et de montrer qu’elles sont alignées sur l’ensemble des cadres juridiques et politiques internationaux, nationaux ou locaux qui régissent vos règles de passation de marchés.
 
-{% callout default /assets/images/7_areas_open_SPP2.png %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
 **Justifier vos choix de catégories de marchés prioritaires.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer le processus qui vous a conduit à définir certaines catégories de marchés ou projets comme prioritaires afin de cibler votre travail sur les marchés publics durables.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Utiliser des critères de durabilité et justifier leur utilisation de façon claire.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement les critères de durabilité qui seront utilisés pour évaluer les soumissionnaires, les modalités d’évaluation sur la base de ces critères et la justification du choix des critères.
 
-{% callout default /assets/images/7_areas_open_SPP4.png %}
+{% callout default /assets/images/7_areas_open_SPP4.svg %}
 **Gérer des registres de fournisseurs, des bases de données de marchés et des mécanismes d’élaboration de rapports efficaces.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de créer des registres de fournisseurs, des bases de données concernant les marchés et des mécanismes d’élaboration de rapports efficaces permettant de suivre la réalisation des objectifs des marchés publics durables et de favoriser un suivi et une évaluation proactifs des acquisitions.
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Mettre en place des canaux de communication clairs pour sonder l’opinion des bénéficiaires et de la population.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts se caractérisent par l’établissement de canaux de communication clairs qui permettent de faire participer les fournisseurs, les organisations de la société civile et les citoyens et citoyennes dans le but de recueillir leurs opinions. Cela est particulièrement important pour la planification des achats, en particulier s’ils concernent des technologies innovantes ou auront des effets sur certaines communautés, ainsi que pour le suivi de l’exécution des marchés publics afin de vérifier qu’ils ont produit les résultats escomptés en matière environnementale et sociale.
 
-{% callout default /assets/images/7_areas_open_SPP6.png %}
+{% callout default /assets/images/7_areas_open_SPP6.svg %}
 **Publier des rapports sur les effets de chaque marché.**
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent d’évaluer et de divulguer de façon claire les effets des pratiques durables de passation de marchés à l’aide d’indicateurs appropriés pour chaque marché.
 
-{% callout default /assets/images/7_areas_open_SPP7.png %}
+{% callout default /assets/images/7_areas_open_SPP7.svg %}
 **Exploiter les données issues de rapports pour améliorer et déployer à grande échelle les marchés publics durables.**
 {% endcallout %}
 
@@ -83,7 +83,7 @@ Pour pouvoir exploiter ces sept dimensions de l’ouverture, il est essentiel de
 
 Nous avons déjà compilé [des orientations](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) montrant comment les données ouvertes relatives aux marchés publics peuvent vous aider à renforcer les marchés publics durables dans lesquelles vous trouverez des conseils pour les premières étapes de votre démarche d’ouverture des données.
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 **Des « signaux écologiques » dans les données relatives aux marchés publics**
 
 « [Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) »: ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.

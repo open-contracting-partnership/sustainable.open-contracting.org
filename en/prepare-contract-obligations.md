@@ -3,7 +3,7 @@ permalink: /prepare-contract-obligations
 title: Prepare contract obligations
 description: "Once sustainability criteria have been clearly established, it should be translated into contract obligations. This includes establishing how implementation will be monitored, and what are the consequences in case of non-compliance. In order to draft effective contract clauses, these decisions should be openly discussed and agreed upon by the procurement authority and the relevant suppliers. This section introduces some of the key features of successful contract clauses."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "36ddabe9fe9743c7ac9d2229b48487e4"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Once sustainability criteria have been clearly established, it should be translated into contract obligations. This includes establishing how implementation will be monitored, and what are the consequences in case of non-compliance. In order to draft effective contract clauses, these decisions should be openly discussed and agreed upon by the procurement authority and the relevant suppliers. This section introduces some of the key features of successful contract clauses.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 **Engaging with suppliers**, and openly discussing sustainability obligations, **will lead to more effective contract clauses, increasing the positive impact of the contract, and minimizing non-compliance risks.** However, **this process should also be used to ensure that the overall contract is user friendly, and that key responsibilities are understood by all relevant stakeholders.**
 {% endcallout %}
 
@@ -50,7 +50,7 @@ It can be complicated to enforce clauses beyond those with whom a supplier has d
 
 One of the key challenges with sustainability clauses in contracts is that they are often used in a standardized way, and are not adapted to the subject-matter of the contract, the local context, or the supplier’s capacity. For example, some SMEs might not have the resources to conduct certain monitoring activities or take part in cross industry dialogues. Un-contextualised contract clauses can lead to over-limiting suppliers, leaving out smaller companies, and creating difficulties to enforce obligations.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Although standardizing sustainability clauses can facilitate SPP implementation, **you should ensure that these clauses take into account factors such as the size of the supplier, and the most relevant sustainability risks for each sector.** It is also important to ensure a fair allocation of responsibilities, such as the cost of monitoring activities, so that not all the pressure is set on suppliers, especially if you want sustainable changes in behavior.
 {% endcallout %}
 
@@ -70,7 +70,7 @@ As it has been introduced in the [previous section](/set-sustainability-criteria
 
 Including these clauses can be crucial for ensuring good quality and value for money throughout the lifecycle of a contract. It can also be useful to establish continuous improvement as a condition of contract extension or re-procurement. Finally, you can consider introducing additional financial incentives to reward this behavior.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).

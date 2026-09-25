@@ -9,11 +9,11 @@ notion_id: f265124af758420fbc2b12d60058ea64
 
 - title: How to use this toolkit
   link: /how-to-use-this-toolkit
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: What is Open SPP?
   link: /what-is-open-spp
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: What our users told us
   link: /what-our-users-told-us
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}

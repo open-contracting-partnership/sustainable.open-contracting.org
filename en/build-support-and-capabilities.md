@@ -3,7 +3,7 @@ permalink: /build-support-and-capabilities
 title: Build support and capabilities
 description: "At this stage of planning your SPP implementation strategy, you have already assessed what you can do within your procurement enabling environment, decided where to focus your efforts, and established your goals. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: d901ea3ee0b64273af4f99da32652260
 sidebar: true
@@ -14,7 +14,7 @@ At this stage of planning your SPP implementation strategy, you have already ass
 
 However, as we mention in the introduction, implementing SPP means procuring in a different way. As this can be challenging for procurement officials, public authorities should consider what they can do to build capabilities.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **In this section we introduce some of the mechanisms public authorities can put in place to support procurement officials effectively implement SPP**, together with examples of how they are used across the world.
 {% endcallout %}
 
@@ -26,7 +26,7 @@ As we highlighted [at the beginning of this guide](/introduction), governments w
 
 This will be a huge shift in the traditional box ticking, compliance-based approach to procurement and may feel uncomfortable, but it takes two to make a market. Opening up your contracting process and seeking out a wide range of stakeholders to inform your procurement strategies will improve competition and improve your chances of reaching vendors with the best solutions for your needs. It will also give you insights into the market, what is working and what isn’t.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Engagement is not a one-off, you should plan the appropriate and best moments to engage civic and business actors across the entire cycle of planning, tendering, awarding and delivering public contracts. **The golden rule: engage early, engage often. If you don’t design for inclusion and engagement right at the start, it won’t happen.**
 {% endcallout %}
 
@@ -58,7 +58,7 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 - These organizations can also provide additional subject matter knowledge and analysis, linking different data across disciplines to provide new insights. In India, the research lab CivicDataLab built a data model combining three larger datasets to track the investments made on flood relief, response and preparedness and to assess the extent to which this builds climate resilience or meets the most urgent humanitarian needs. The data they looked at included satellite and meteorological data to assess the exposure to floods in a particular area, socio-economic data to understand the degree of vulnerability for the population residing in flood risk areas and fiscal data such as past contracts to see how the government has been responding to floods historically and where urgent interventions are needed in time to come.
 - Importantly, as well as action planning, CSOs can assist with [monitoring the outcomes of policies or specific procurement processes activities](/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 More examples and resources for stakeholder engagement can be found on [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage).
 {% endcallout %}
 
@@ -68,7 +68,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the [prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be [included in procurement processes](/set-sustainability-criteria).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 A good example of this guidance is the U.S. General Service Administration’s [Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
 {% endcallout %}
 
@@ -80,7 +80,7 @@ The suppliers included in these can be chosen according to the certain sustainab
 
 For more guidance on how to use procurement data to create SPP supplier registries see Option 9 in section three.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 An example of a catalog for environmental purchases is Thailand’s [Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the [National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way [to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
 {% endcallout %}
 
@@ -88,11 +88,11 @@ An example of a catalog for environmental purchases is Thailand’s [Green Cart]
 
 Changing public procurement processes to allow for the introduction of sustainability considerations can be challenging for procurement practitioners. As well as trying to facilitate the process by standardizing sustainability criteria, or creating registries and catalogs, a Help Desk should be set up to provide practical hands-on support or advice to practitioners. For example, providing a service to look over SPP tender documents can help to tackle procurement practitioner’s concerns that they are framing the award criteria correctly.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German [Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html), which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
@@ -101,7 +101,7 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.

@@ -3,7 +3,7 @@ permalink: /sector-ict-en-ingls
 title: Sector ICT (en inglés)
 description: "La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey5.png
+icon: /assets/images/Icons_Grey5.svg
 full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
 sidebar: true
@@ -16,7 +16,7 @@ La extracción y disposición de minerales utilizados en el sector de las TIC es
 
 Los impactos ambientales asociados con el sector de las TIC también tienen un fuerte impacto en los pilares económico y social de la sostenibilidad. La toxicidad de los materiales, por ejemplo, puede tener impactos negativos en la salud de los trabajadores a lo largo de la cadena de suministro, principalmente aquellos involucrados en la minería, la fundición, la fabricación y el manejo de desechos electrónicos. Debido a la falta de transparencia en la cadena de suministro de las TIC, es difícil monitorear estas actividades, que a menudo también están asociadas con violaciones de los derechos laborales.
 
-{% callout gray /assets/images/Icons_Grey8.png %}
+{% callout gray /assets/images/Icons_Grey8.svg %}
 Esta sección se enfoca en la compra de equipo de hardware, que incluye principalmente **pantallas, notebooks, computadoras de escritorio, PC todo en uno, proyectores, auriculares, equipo de red, dispositivos de almacenamiento de datos, servidores, impresoras y escáneres.**
 {% endcallout %}
 
@@ -27,15 +27,15 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
 
 - title: Establezca el marco de trabajo
   link: /sector-ict-en-ingls/establezca-el-marco-de-trabajo
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Seleccione sus datos
   link: /sector-ict-en-ingls/seleccione-sus-datos
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Recopile los datos
   link: /sector-ict-en-ingls/recopile-los-datos
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Apoye CPS efectiva
   link: /sector-ict-en-ingls/apoye-cps-efectiva
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 {% endgallery %}
 {% enddatabase %}

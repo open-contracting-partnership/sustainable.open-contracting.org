@@ -2,10 +2,10 @@
 permalink: /establish-an-enabling-environment/quick-checklist-share-your-compliance-trail
 title: Quick checklist - Share your compliance trail
 description: "\nCompliance Trail Checklist"
-icon: /assets/images/Tick_green_2.png
+icon: /assets/images/Tick_green_2.svg
 notion_id: "1bbc02f2300b4632bf35eae8e5e1c3d4"
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit](/).
 {% endcallout %}
 
@@ -33,11 +33,11 @@ The following checklist has been created for national authorities to easily iden
 
 - [ ] Relevant environmental and social policies and plans that underpin the inclusion of specific sustainability criteria.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local level**, and any international frameworks that might have served as guidance.
 {% endcallout %}
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 **Download this checklist:**
 
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}

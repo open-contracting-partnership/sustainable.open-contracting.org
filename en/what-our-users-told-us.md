@@ -3,7 +3,7 @@ permalink: /what-our-users-told-us
 title: What our users told us
 description: "We reached out to over 30 sustainable procurement practitioners and experts across the world to help shape this guidance. This included representatives from national authorities and oversight bodies at different stages of the SPP journey, as well as representatives from civil society and the private sector. We wanted to understand the key barriers to governments in adopting SPP, and whether and where there were gaps in the existing resources and approaches. Here is what you said to us and what we did about it:"
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro2.png
+icon: /assets/images/Icons_Blue_Intro2.svg
 full_width: true
 notion_id: af80fc51fe894f599879a1eb11c17ec6
 sidebar: true

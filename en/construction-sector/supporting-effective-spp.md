@@ -3,7 +3,7 @@ permalink: /construction-sector/supporting-effective-spp
 title: Supporting effective SPP
 description: "Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of relevant data variables throughout the procurement process."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: a41af2a0778e4d15a0a8e8bd7a2530a0
 properties:
@@ -12,7 +12,7 @@ sidebar: true
 ---
 Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of [relevant data variables](/construction-sector/selecting-your-data) [throughout the procurement process](/construction-sector/collecting-the-data).
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, **we introduce certain procurement approaches and procedures that support open collaboration amongst stakeholders**, facilitating the collection and sharing of data during the process.
 {% endcallout %}
 
@@ -86,7 +86,7 @@ Data about all aspects of the project will have to be openly shared with all sta
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 **Guidance on using two-stage procurement processes in construction projects:**
@@ -102,7 +102,7 @@ Data about all aspects of the project will have to be openly shared with all sta
   Step-by-step guidance on how to carry out an Integrative Design Process (IDP), with links to relevant guidance and tools at each step.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 [The construction of The Habitat Research and Development Centre (HRDC) in Namibia](https://www.irbnet.de/daten/iconda/CIB_DC23125.pdf) was procured using a two-stage tender. The two bidders chosen after the first stage, and their Quantity Surveyors, drafted the Bill of Quantities (BOQ) that would be included in the second stage.
@@ -110,7 +110,7 @@ Data about all aspects of the project will have to be openly shared with all sta
 **Openly sharing information during the time between the two stages of the tender allowed the experienced team to come up with sustainable materials and methods to include in the BOQ, all of which they based on available local resources.**
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 In 2006, [Scotland’s Forth Road Bridge](https://www.gov.scot/binaries/content/documents/govscot/publications/advice-and-guidance/2018/12/construction-procurement-handbook/documents/chapter-4/chapter-4/govscot%3Adocument/chapter-4.pdf) showed in signs of significant deterioration. After a review, it was decided that a new bridge would be built next to the existing one. Due to the complexity of the project, **Transport Scotland decided to engage with the market in order to gain knowledge and assess the procurement plan.** This was done by organizing an Industry Day with top contractors, where a Questionnaire was distributed.

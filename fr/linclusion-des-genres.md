@@ -3,14 +3,14 @@ permalink: /linclusion-des-genres
 title: L’inclusion des genres
 description: "Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 sidebar: true
 ---
 # Exemple : évaluer l’inclusion des genres
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer la participation des entreprises dirigées par des femmes aux processus de passation de marchés.
 {% endcallout %}
 
@@ -24,7 +24,7 @@ Les gouvernements dépensent chaque année la somme colossale de 13 000 millia
 
 En 2020, nous avons commencé à approfondir ce sujet afin de déterminer *pourquoi* les entreprises dirigées par des femmes avaient du mal à remporter des marchés publics. Nous avons travaillé avec Value for Women pour examiner les obstacles que rencontrent les entreprises dirigées par des femmes dans les marchés publics et les pratiques émergentes d’équité et d’inclusion adoptées par des partenaires mettant en œuvre des réformes de la commande publique ouverte en Amérique latine, avec des exemples du Chili, de la République dominicaine et de Buenos Aires, en Argentine.
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 Vous pouvez lire le [rapport complet](https://www.open-contracting.org/resources/towards-gender-balance-in-public-procurement/), un [résumé](https://www.open-contracting.org/resources/empower-women-led-business-procurement/) ou un [article récapitulatif sur notre blog](https://www.open-contracting.org/2020/07/21/breaking-the-glass-ceiling-for-women-led-businesses-in-public-procurement/). Nous avons travaillé avec ONU-Femmes pour préparer une [note de synthèse](https://www.open-contracting.org/resources/empowering-women/) comprenant davantage d’exemples et des recommandations provenant du monde entier.
 {% endcallout %}
 
@@ -51,16 +51,16 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 
 - title: How to analyze the gender pay gap
   link: /linclusion-des-genres/how-to-analyze-the-gender-pay-gap
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Women in boardrooms / female owned businesses
   link: /linclusion-des-genres/women-in-boardrooms-female-owned-businesses
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to gather the data you need?
   link: /linclusion-des-genres/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /linclusion-des-genres/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

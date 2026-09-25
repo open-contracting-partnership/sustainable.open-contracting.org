@@ -3,7 +3,7 @@ permalink: /sector-de-la-construccin-en-ingls
 title: Sector de la construcción (en inglés)
 description: "La industria de la construcción es una de gran relevancia económica ya que se estima que representa el 6% del PIB mundial, con el mercado de la construcción de África valorado en alrededor de USD 5,4 mil millones en 2020 y el de ALC en USD 829,3 mil millones en 2018. Esto se traduce en más de 100 millones de puestos de trabajo en todo el mundo. Sin embargo, este sector también representó la mayor parte del uso global de energía final (36 %) y las emisiones de CO2 relacionadas con la energía (39 %) en 2018. También está clasificado como uno de los sectores con mayor proporción de corrupción, así como un sector de alto riesgo para el trabajo forzado."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey5.png
+icon: /assets/images/Icons_Grey5.svg
 full_width: true
 notion_id: "2a371746efb64420ac108034a8585636"
 sidebar: true
@@ -14,7 +14,7 @@ La industria de la construcción es una de gran relevancia económica ya que se 
 
 Como el método por el cual se entregan muchos proyectos de construcción, la contratación pública constituye una oportunidad para incluir prácticas sostenibles y abiertas que pueden contribuir a minimizar y mejorar los impactos económicos, sociales y ambientales de este sector.
 
-{% callout gray /assets/images/Icons_Grey8.png %}
+{% callout gray /assets/images/Icons_Grey8.svg %}
 Es importante tener en cuenta que, **dentro del sector de la construcción, existen diferentes tipos de bienes de construcción**, incluidos edificios residenciales y comerciales, infraestructura económica (por ejemplo, transporte) e infraestructura social (por ejemplo, educación).
 
 Los proyectos relacionados con cada uno de **estos tipos de bienes normalmente se dividen en cuatro etapas**: diseño, construcción, uso y deconstrucción. Además de representar el ciclo de vida de un proyecto de construcción, **estas etapas también pueden representar diferentes tipos de procesos de contratación**
@@ -30,15 +30,15 @@ Los proyectos relacionados con cada uno de **estos tipos de bienes normalmente s
 
 - title: Establezca el marco de trabajo
   link: /sector-de-la-construccin-en-ingls/establezca-el-marco-de-trabajo
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Seleccione sus datos
   link: /sector-de-la-construccin-en-ingls/seleccione-sus-datos
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Recopile los datos
   link: /sector-de-la-construccin-en-ingls/recopile-los-datos
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 - title: Apoye CPS efectiva
   link: /sector-de-la-construccin-en-ingls/apoye-cps-efectiva
-  icon: /assets/images/Icons_Grey6.png
+  icon: /assets/images/Icons_Grey6.svg
 {% endgallery %}
 {% enddatabase %}

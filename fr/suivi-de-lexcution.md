@@ -3,7 +3,7 @@ permalink: /suivi-de-lexcution
 title: Suivi de l’exécution
 description: "Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la section précédente, vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: e10550c9408d4537a5b0065517aea46a
 sidebar: true
@@ -12,12 +12,12 @@ sidebar: true
 
 Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](/obligations-contractuelles), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les [objectifs globaux](/suivi-et-valuation)
  définis dans votre stratégie sur les marchés publics durables et ouverts.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.**
 
 **L’un des aspects essentiels des** [marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et de la [construction](/la-construction-en-anglais).
@@ -66,11 +66,11 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](/la-construction-en-anglais) et des [**technologies de l’information et des communications**](/le-secteur-tic-en-anglais).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Ressources**
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
@@ -78,7 +78,7 @@ Pour d’autres exemples concernant les modalités de suivi de l’exécution de
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 En plus de la mise en place du système de passation électronique de marchés publics ProZorro en Ukraine en 2016, l’organisation Transparency International Ukraine a créé un réseau de surveillance citoyenne des marchés publics appelé [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/). En trois ans, ce réseau s’est étendu à 24 organisations et plus de deux millions de personnes ont visité le site Web.

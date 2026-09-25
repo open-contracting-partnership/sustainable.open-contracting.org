@@ -3,7 +3,7 @@ permalink: /introduction
 title: Introduction
 description: "Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro.png
+icon: /assets/images/Icons_Blue_Intro.svg
 full_width: true
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
 sidebar: true
@@ -26,7 +26,7 @@ Practitioners realize that they need to buy things in a fundamentally different 
 
 **Fortunately we can help.**
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource.
 {% endcallout %}
 
@@ -37,12 +37,12 @@ As you can see on the diagram below, **in this introductory section we provide y
 
 - title: How to use this toolkit
   link: /how-to-use-this-toolkit
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: What is Open SPP?
   link: /what-is-open-spp
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: What our users told us
   link: /what-our-users-told-us
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}
 {% enddatabase %}

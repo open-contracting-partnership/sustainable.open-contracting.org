@@ -3,7 +3,7 @@ permalink: /establezca-mecanismos-de-apoyo
 title: Establezca mecanismos de apoyo
 description: "En esta etapa de planeación de su estrategia para la implementación de CPS, usted ya habrá evaluado lo que puede hacer dentro de su entorno habilitante para contrataciones, y habrá decidido el enfoque de sus esfuerzos, y fijado sus objetivos. Sin embargo, como mencionamos en la introducción, la implementación de CPS significa una modalidad de contratación distinta. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
 sidebar: true
@@ -14,7 +14,7 @@ En esta etapa de planeación de su estrategia para la implementación de CPS, us
 
 Como esto puede ser representar un reto para los responsables de la contratación, las autoridades públicas deben considerar qué pueden hacer para fortalecer capacidades.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 En esta sección proponemos algunos mecanismos de esta naturaleza, junto con ejemplos de cómo se están utilizando en diferentes partes del mundo.
 {% endcallout %}
 
@@ -26,7 +26,7 @@ Tal como enfatizamos al comienzo de esta guía, los gobiernos tendrán que adqui
 
 Esto representa un cambio radical desde las prácticas tradicionales de cumplir requisitos fijos y reglas rígidas de contratación, y puede dar lugar a sensaciones de incomodidad: pero un mercado siempre tiene dos partes. La apertura de su proceso de contratación y la búsqueda de una amplia gama de partes interesadas para informarle sobre las estrategias de contratación constituyen una mejora de la posición competitiva, y de sus oportunidades de llegar a los vendedores que ofrezcan las mejores soluciones para sus necesidades. Además, le traerá otra visión del mercado, y de qué está funcionando y qué no.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.
 
 **La regla de oro es: vincular temprano, vincular con frecuencia. Si usted no tiene designios para la vinculación e inclusión desde el inicio, nunca la logrará**.
@@ -62,7 +62,7 @@ El relacionamiento con las organizaciones de sociedad civil transversal a l cicl
 
 Estas organizaciones pueden monitorear la transparencia e impacto, o la implementación de CPS.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 Se puede ver más ejemplos y recursos para la vinculación de partes interesadas en [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage)
 {% endcallout %}
 
@@ -72,7 +72,7 @@ Se puede ver más ejemplos y recursos para la vinculación de partes interesadas
 
 Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
 {% endcallout %}
 
@@ -84,7 +84,7 @@ Los proveedores incluidos en estas listas pueden ser seleccionados de acuerdo co
 
 Para más orientación sobre el uso de datos de contratación para la creación de registros de proveedores de CPS, ver opción 9 en la sección 3.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de [Tailandia](http://gp.pcd.go.th/cat-1-ssl), que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el [Registro Nacional de Agricultura Familiar (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) actúa como facilitador y promotor de [la contratación de alimentos y servicios de abastecimientos](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) a este grupo económico. Otro ejemplo viene de Chile con [su acuerdo marco para bienes y servicios en caso de emergencias](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.
 {% endcallout %}
 
@@ -92,11 +92,11 @@ Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Gre
 
 El cambio de los procesos de contratación pública que se debe gestionar para permitir la integración de elementos de sostenibilidad puede representar un reto para los responsables de contratación. Una Mesa de Asistencia Técnica, además de su misión de facilitar el proceso mediante la estandarización de criterios de sostenibilidad o la creación de registros y catálogos, deberá ser instalado con el fin de prestar apoyo práctico o consejos a los responsables de contratación. Por ejemplo, la prestación de un servicio para revisar los documentos de licitación CPS puede ayudar resolver las preocupaciones de los responsables de contratación acerca de la redacción correcta de los criterios de adjudicación.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo desarrollados por la implementación de CPS Abierta, puede ser fácilmente asequible mediante la creación de un punto de información central con todos los recursos disponibles. Un ejemplo de esto es el Centro de Competencia para Contratación Sostenible ([Kompetenzstelle fur nachhaltige Beschaffung, KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) de Alemania, que ofrece información en relación con leyes, reglamentos, orientaciones, y ejemplos de las autoridades federales, estatales y locales. Además, el KBN tiene una Mesa de Asistencia Técnica, desde la cual desde ofrece apoyo individualizado por teléfono y correo electrónico.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
@@ -105,7 +105,7 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.

@@ -3,7 +3,7 @@ permalink: /construction-sector/collecting-the-data
 title: Collecting the data
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the project. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: dc343c6995f04698a91cc4b4f3789d4f
 properties:
@@ -14,7 +14,7 @@ Once the key sustainability variables [have been identified](/construction-secto
 
 The procurement authority can prescribe a specific process on the tendering documents, or it can set certain guidelines that will serve as the basis to negotiate the process with the selected supplier. This process will be part of what is known as the “project’s methodology” and, in any case, it should be clearly defined and signed off by both parties.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In this section, we introduce **some of the methods that can be used to collect relevant sustainability data during the procurement process.**
 {% endcallout %}
 
@@ -22,7 +22,7 @@ In this section, we introduce **some of the methods that can be used to collect 
 
 The first source of data in a procurement process will be the documents which include project specifications regarding resource use. These can normally include detailed information on material use, vehicle and machinery use, and itemized labor units. They are normally used as the basis to determine the cost of the project, and contain most of the project’s relevant data. These documents can be sometimes referred to as **Cost Reports, Bills of Quantities (BOQ), or Schedule of Works.**
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 How the data is collected will be determined by whether, before the start of the project, the procurement authority establishes a detailed plan of all the resources that should be used during the project (including quantities, and qualities), or it specifies what targets the project should meet, and requires the bidder to provide specific data on all the resources they will use in order to meet the targets.
 {% endcallout %}
 
@@ -73,13 +73,13 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 **The methods that will be used during the project to collect the data should not only be contractually agreed between the main contractor and the procuring authority, but also between the contractor and its subcontractors and suppliers**.
 
 All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance](/prepare-contract-obligations) should also be included.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 **Templates for BOQs and SWMPs:**
@@ -90,7 +90,7 @@ All contracts should include a clear description of the data that will be collec
 - [Site Waste Management Plan Data Form. Netregs](https://www.netregs.org.uk/media/1128/swmp_waste_data_form.pdf).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 [Copenhagen has established a task force](https://op.europa.eu/en/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-en) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
@@ -98,7 +98,7 @@ All contracts should include a clear description of the data that will be collec
 The task force consists of nine people, and is entitled to visit all types of workplaces in Denmark at all times, monitoring pay and working conditions. They combine on-the-spot inspection with investigations into the conditions of specific employees based on documentation of pay, working hours, tax, etc.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 **Engaging civil society in monitoring activities:**

@@ -3,7 +3,7 @@ permalink: /establezca-un-entorno-habilitante
 title: Establezca un entorno habilitante
 description: "Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **En esta sección explicamos cómo los responsables de la contratación pueden implementar la CPS Abierta en diferentes contextos.** Suministramos una lista de chequeo con la cual se puede evaluar las normas y políticas actuales sobre contratación frente a los criterios del CPS Abierta. Asimismo, planteamos posibles maneras de comunicarlos a las partes interesadas del caso.
 
 Esto resulta esencial en la generación de confianza, y la consolidación de la implementación efectiva de CPS Abierta. Además, al final de la sección encontrará orientaciones sobre la manera de traducir la comunicación en acciones específicas.
@@ -62,7 +62,7 @@ En tal caso, igualmente se puede diseñar un proceso de evaluación para que la 
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **En América Latina y África en especial los principios de contratación muchas veces quedan consagrados en la constitución política**, y en algunas ocasiones se mencionan como principios que rigen las actividades de agencias públicas" o el "gasto de fondos públicos". La identificación de estos principios y de manera que fidedignos puede ser de ayuda en orientable sus decisiones sobre lo que usted puede considerar al comparar las ofertas en el proceso de contratación.
 {% endcallout %}
 
@@ -75,19 +75,19 @@ Dentro de su régimen de contratación Debe haber algunos vehículos de polític
 
 - title: Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación
   link: /establezca-un-entorno-habilitante/disposiciones-explcitas-que-incluyan-las-sostenibilidad-como-criterio-de-adjudicacin
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Metas y contratos reservados
   link: /establezca-un-entorno-habilitante/metas-y-contratos-reservados
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Acuerdo marco
   link: /establezca-un-entorno-habilitante/acuerdo-marco
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Relacionamiento directo con el mercado y diálogo continuo
   link: /establezca-un-entorno-habilitante/relacionamiento-directo-con-el-mercado-y-dilogo-continuo
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Umbrales y sectores con reglamentos diferentes
   link: /establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

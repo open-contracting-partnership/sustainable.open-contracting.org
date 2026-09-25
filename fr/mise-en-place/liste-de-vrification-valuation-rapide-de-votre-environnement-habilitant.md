@@ -2,10 +2,10 @@
 permalink: /mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant
 title: "Liste de vérification : évaluation rapide de votre environnement habilitant"
 description: Quick checklist
-icon: /assets/images/Tick_green_2.png
+icon: /assets/images/Tick_green_2.svg
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/mise-en-place) in the [Open SPP toolkit](/).
 {% endcallout %}
 
@@ -41,7 +41,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 - [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Liste de vérification rapide : fournir des preuves de conformité](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit)).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 **Download this checklist:**
 
 {% pdf /assets/files/enabling-environment-checklist.pdf Enabling environment checklist %}

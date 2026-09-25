@@ -3,7 +3,7 @@ permalink: /introduction
 title: Introduction
 description: "Les préoccupations croissantes concernant les changements climatiques et la durabilité ont incité les gouvernements du monde entier à s’engager à supprimer leurs émissions de carbone, réduire la déforestation et promouvoir des chaînes d’approvisionnement respectueuses de l’environnement."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro.png
+icon: /assets/images/Icons_Blue_Intro.svg
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
 sidebar: true
@@ -26,7 +26,7 @@ Les membres des services de passation de marchés savent désormais qu’il est 
 
 **Heureusement, nous sommes là pour vous aider.**
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'introduction, nous vous fournissons des informations sur ce qui sont **les marchés publics durables et ouverts**, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.
 {% endcallout %}
 
@@ -37,12 +37,12 @@ Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'intr
 
 - title: Comment utiliser ce guide pratique?
   link: /comment-utiliser
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: Definition
   link: /definition
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 - title: Ce que vous avez demandées
   link: /vous-avez-demandes
-  icon: /assets/images/Icons_Blue_Intro2.png
+  icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}
 {% enddatabase %}

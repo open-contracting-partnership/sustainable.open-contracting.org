@@ -3,7 +3,7 @@ permalink: /donnes-ouvertes-et-valuation-des-progrs
 title: Données ouvertes et évaluation des progrès
 description: "Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée au début de notre guide pratique et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de cadre de suivi et d’évaluation dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green.png
+icon: /assets/images/Icons_Light_Green.svg
 full_width: true
 notion_id: "35dc615b39b84af793a9430029ef8567"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](/definition) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 **Dans cette partie, nous approfondissons les possibilités de collecte des données nécessaires pour évaluer les progrès par rapport à vos objectifs.** Nous présenterons d’abord des considérations générales sur la collecte de données et des possibilités d’utilisation de ces données en vue de l’évaluation des progrès concernant différents objectifs. Ensuite, nous transformerons les cinq objectifs du cadre de suivi et d’évaluation en exemples pratiques afin de vous montrer comment utiliser les données ouvertes pour évaluer les progrès concernant : (1) l’adoption de pratiques durables de passation de marchés, (2) la réduction des émissions de carbone, (3) l’inclusion des genres, (4) le développement économique, et (5) la prise en compte du coût du cycle de vie.
 {% endcallout %}
 
@@ -45,7 +45,7 @@ L’année de référence est le moment où vous commencerez à collecter des do
 
 Il existe plusieurs méthodes de collecte et d’analyse de données variant en fonction des objectifs de durabilité dont vous souhaitez connaître la progression. La méthode dépendra également des ressources et capacités techniques exploitables.
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 Nous avons recensé trois types d’environnements :
 
 {% page /donnes-ouvertes-et-valuation-des-progrs/aucun-code-code-restreint-et-code %}
@@ -58,18 +58,18 @@ Nous avons recensé trois types d’environnements :
 
 - title: D’utilisation des données
   link: /possibilits-dutilisation-des-donnes
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: L’adoption des pratiques durables
   link: /ladoption-des-pratiques-durables
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: La réduction des émissions de carbone
   link: /la-rduction-des-missions-de-carbone
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: L’inclusion des genres
   link: /linclusion-des-genres
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Le coût du cycle de vie
   link: /le-cot-du-cycle-de-vie
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
 {% enddatabase %}

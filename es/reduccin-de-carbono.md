@@ -3,14 +3,14 @@ permalink: /reduccin-de-carbono
 title: Reducción de carbono
 description: Los gobiernos y las empresas están fijando plazos para lograr cero emisiones. La contratación pública se puede utilizar como palanca para impulsar el cambio mediante la promoción de alternativas bajas en carbono en las cadenas de suministro del gobierno.
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "1e4da0ff8676427999458462848b5fc1"
 sidebar: true
 ---
 # Ejemplo resuelto: Medición de la reducción de carbono
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 En esta sección le explicaremos cómo puede usar datos para medir y monitorear el progreso contra el objetivo de promover reducción de carbono mediante contratación.
 {% endcallout %}
 
@@ -28,15 +28,15 @@ La reducción de las emisiones de carbono está en el centro de la lucha contra 
 
 La publicación de buenos datos sobre las emisiones de carbono tiene múltiples efectos positivos para aquellos que buscan abordar sus emisiones de carbono:
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Utiliza los datos para planificar e implementar acciones inmediatas y directas para reducir las emisiones de carbono de las contrataciones.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Premia a los proveedores que se comprometan a reducir la intensidad de carbono en sus bienes, obras, servicios y cadena de suministro.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 La publicación y el análisis de buenos datos desbloquearán el aprendizaje y la iteración sobre qué políticas y procesos funcionan para reducir la intensidad de carbono. No puedes administrar lo que no puedes medir.
 {% endcallout %}
 
@@ -49,16 +49,16 @@ Las prioridades inmediatas para la reducción de carbono incluyen emisiones de c
 
 - title: "¿Cómo estimar los valores de carbono?"
   link: /reduccin-de-carbono/cmo-estimar-los-valores-de-carbono
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Evaluación comparativa de contrataciones de carbono
   link: /reduccin-de-carbono/evaluacin-comparativa-de-contrataciones-de-carbono
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "¿Cómo recopilar los datos que requiere?"
   link: /reduccin-de-carbono/cmo-recopilar-los-datos-que-requiere
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Análisis y reporte de datos
   link: /reduccin-de-carbono/anlisis-y-reporte-de-datos
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

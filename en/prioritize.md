@@ -3,7 +3,7 @@ permalink: /prioritize
 title: Prioritize
 description: "There are many ways to prioritize how to start implementing Open SPP. This may include responding to high-profile environmental issues, market sectors or product groups where green goods and services are readily available, public sector programs where procurers and citizens can see a rationale for the use of green products, or high-profile projects or events where SPP can be piloted to raise awareness and interest, such as sporting events, conferences, and retrofits of prominent government buildings."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: cf3a3b670b7c487bada7d824fd5415ac
 sidebar: true
@@ -14,11 +14,11 @@ There are many ways to prioritize how to start implementing Open SPP. This may i
 
 Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) provide a good overview of different approaches to prioritizing product categories. The [prioritization tool](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) developed by the United Nations Environmental Programme (UNEP) is a useful resource to carry out this exercise.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 In this section we **present the different factors that can be considered when prioritizing procurement categories** when implementing SPP.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP2.png %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
 **Communicating why you have prioritized certain categories.**
 
 Although there are many ways to prioritize, is it really important both to engage stakeholders in the prioritization to learn their perspectives and to communicate any decisions made so they can be implemented including through the clear [Action Plan](/create-an-action-plan) that we recommend at the end of the section.
@@ -30,7 +30,7 @@ Although there are many ways to prioritize, is it really important both to engag
 
 The first step to carry out a prioritization exercise is to work with stakeholders to establish the list of categories that are going to be analyzed. These categories should be taken from the official standardized vocabulary that procurement practitioners use in the country to consistently classify contracts. When implementing Open SPP, using a standardized way to classify procurement categories is not only important to find and analyze procurement notices for suppliers and contracting authorities, it is also essential to ensure that the implementation of sustainability policies and practices, as well as the gathering of data for monitoring purposes, is consistent.
 
-{% callout green /assets/images/Globe_green.png %}
+{% callout green /assets/images/Globe_green.svg %}
 There is no globally adopted system to classify procurement categories, different systems are used around the world. For example, in Europe [CPV](https://ted.europa.eu/en/simap/cpv) codes are used, whereas some countries use the United Nations Standard Products and Services Code ([UNSPSC](https://www.unspsc.org/)). Identifying the classification system in place, and ensuring that Open SPP practices align with existing categories is essential.
 {% endcallout %}
 
@@ -54,7 +54,7 @@ For each procurement category contract frequency should be captured, that is to 
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 The process of **gathering this data will depend on the organizational set-up of procurement**, whether it is centralized, decentralized, or follows a category-managed approach. Having e-procurement in place will help to facilitate the process; if this is not the case, surveys and questionnaires can be distributed to collect the necessary information.
 {% endcallout %}
 
@@ -82,7 +82,7 @@ The economic impact of a category will largely depend on the local market offer.
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 When assessing the impact of these categories, **you should also think about their strategic relevance.** This means, for example, that if a country or organization has decided to establish promoting net zero goals as an Open SPP [goal](/monitoring-evaluation), then the categories where the implementation of Open SPP will lead to the reduction of CO2 emissions should be prioritized. **Implementing Open SPP in categories with a higher strategic relevance might receive more support from stakeholders, which can result in higher impact.**
 {% endcallout %}
 
@@ -119,7 +119,7 @@ The existence of sustainability initiatives in the local market should also be c
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section](/engage-with-the-market).
 {% endcallout %}
 
@@ -131,18 +131,18 @@ Existing sustainability policies and regulations should be used as a variable to
 
 As it has been explained at the start of this section, once it has been decided to focus Open SPP efforts in specific procurement categories, you should openly communicate the reasons that have guided the decision. This can be communicated through an [Action Plan](/create-an-action-plan), and should be referred to in contracts within the prioritized procurement categories.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 **A period for reviewing prioritized procurement categories should be established.** For example, if your [Action Plan](/create-an-action-plan) is set to be reviewed on a yearly basis, this would be a good time to assess progress made against [goals and targets](/monitoring-evaluation) in selected categories, and reconsider your priority categories.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 After the approval of its National Green Growth Strategy in 2012, **Vietnam [applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.

@@ -3,14 +3,14 @@ permalink: /life-cycle-costing
 title: Life cycle costing
 description: "Life-cycle costing, or total cost of ownership refers to the accounting practice of determining the compound cost of an asset. In the context of procurement, buyers use life-cycle costing to evaluate the entire cost of owning something, typically a machine of some kind. So the life cycle costing associated with a piece of equipment might include the original purchase, operating costs, any licensing costs, maintenance costs and disposal costs. Other elements that can be considered are failure costs and the cost of replacing parts."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: fdc60ea0ebd048f4b5603e4aec22360d
 sidebar: true
 ---
 # Worked example: Measuring life cycle costing
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 In this section we explain how you can use data to measure and monitor progress against the goal of promoting life cycle costing approaches in procurement.
 {% endcallout %}
 
@@ -32,15 +32,15 @@ Using good procurement and combining it with spending data can give buyers even 
 
 Understanding life cycle costing has multiple positive effects for those seeking to procure for better social and environmental outcomes:
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Use the data to demonstrate how you taking value for money seriously, by considering the long term.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Rewards suppliers and teams that are committed to delivering a high quality product instead of securing a quick sale.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Good information on life cycle costing means using fewer resources for longer, reducing waste.
 {% endcallout %}
 
@@ -67,16 +67,16 @@ There are a wide range of analysis options in this area. Governments have very b
 
 - title: How to value a life cycle
   link: /life-cycle-costing/how-to-value-a-life-cycle
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Actuals and projections
   link: /life-cycle-costing/actuals-and-projections
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "How to gather the data you need?"
   link: /life-cycle-costing/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Life cycle costing and SPP
   link: /life-cycle-costing/life-cycle-costing-and-spp
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

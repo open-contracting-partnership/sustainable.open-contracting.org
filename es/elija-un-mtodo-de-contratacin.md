@@ -3,7 +3,7 @@ permalink: /elija-un-mtodo-de-contratacin
 title: Elija un método de contratación
 description: "El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta). En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: d8c00bb67a29407c8354c3d1b9cbcd58
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 El diseño de un proceso de contratación pública puede limitar o facilitar la aplicación de prácticas de una contratación pública sostenible y Abierta (CPS Abierta). En esta sección incluimos enfoques de contrataciones que pueden ser útiles para introducir prácticas de una CPS Abierta. Las agencias de contratación deben comunicar abiertamente, para cada proceso de contratación, cuáles de estos enfoques se adoptarán y cómo se sustentan en el marco habilitador.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Un enfoque de contratación que puede ser muy útil al comenzar a implementar prácticas sostenibles en la contratación pública es dividir los proyectos en **fases piloto y de escala.** Esto puede ser especialmente útil para probar suposiciones arriesgadas e inciertas. Durante la fase piloto, los datos se deben capturar claramente y se deben alimentar en la fase de escalera.
 {% endcallout %}
 
@@ -52,7 +52,7 @@ Los enfoques de contratación basados en resultados pueden ser más útiles cuan
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Para mayor orientación y ejemplos de cómo dar forma a los enfoques de contratación para alcanzar resultados de sostenibilidad, recommendamos hacer referencia a [*Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting*”](https://govlab.hks.harvard.edu/results-driven-contracting). Para un estudio de caso de cómo diseñar un proceso de contratación basado en alcanzar los resltados deseados, ver el ejemplo de Wichita Ground Maintenance al final de esta sección
 {% endcallout %}
 
@@ -81,7 +81,7 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - **Paso 5:** Los candidatos presentan sus ofertas finales.
 - **Paso 6:** Evalúe las ofertas y adjudique el contrato al proveedor seleccionado
 
-  {% callout red /assets/images/Idea_Red.png %}
+  {% callout red /assets/images/Idea_Red.svg %}
   Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.
   {% endcallout %}
 
@@ -126,21 +126,21 @@ Exiten diferentes beneficios de usar la contratación conjunta al implementar un
 
 {% endtoggle %}
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 A lo largo de este conjunto de herramientas, hemos brindado orientación sobre el uso de catálogos de marcos de trabajo y registros para implementar una CPS. Al seleccionar su enfoque de contratación, considere la disponibilidad de estos mecanismos (por ejemplo, catálogos de proveedores que cumplen con ciertos estándares ambientales) que pueden facilitar la selección de proveedores más sostenibles.
 {% endcallout %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Para obtener más orientación sobre los enfoques de contratación que pueden ser útiles al implementar CPS Abierta en categorías de contratación específicas, consulte las secciones sobre Construcción y TIC.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2015, Wichita, la ciudad más grande del estado de Kansas, EE. UU.,** [se propuso mejorar la calidad de los parques de la ciudad y reducir los costos](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). En ese momento, los montos de las ofertas de mantenimiento de los terrenos aumentaron un 30 por ciento con respecto al año anterior, los contratistas no cumplían con los estándares de calidad y los funcionarios de la ciudad recibían quejas sobre la altura del césped en los parques infantiles y campos de juego.

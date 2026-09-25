@@ -3,14 +3,14 @@ permalink: /open-data-measuring-progress
 title: "Open data & measuring progress"
 description: "Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea at the start of the toolkit, and develop it further in the following sections, particularly when introducing a sample Measuring and evaluation (M&E) framework in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green.png
+icon: /assets/images/Icons_Light_Green.svg
 full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
 sidebar: true
 ---
 Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea [at the start of the toolkit](/what-is-open-spp), and develop it further in the following sections, particularly when introducing a sample [Measuring and evaluation (M&E) framework](/monitoring-evaluation) in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 **In this section, we provide a deeper dive into the options available to collect the data you need to measure progress against your goals.** As you can see on the diagram below, first, we introduce a set of general data collection considerations and options on how to use data to measure progress across different goals. Then, we turn the five goals from the M&E framework into five worked examples of how to use open data to measure progress in: (1) SPP uptake, (2) carbon reduction, (3) gender inclusion, (4) economic development, and (5) promoting life cycle costing.
 {% endcallout %}
 
@@ -44,7 +44,7 @@ The baseline year is the moment when the data will begin to be collected and key
 
 There are different methods to collecting and analyzing data and these will vary depending on the sustainability goals you are trying to measure progress against. It will also depend on accessible technical resources and capabilities. We have identified three different types of environments: no code, low code, and code. Click through to learn more:
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 Click through to learn more about these three environments:
 
 {% page /open-data-measuring-progress/no-code-low-code-code %}
@@ -52,7 +52,7 @@ Click through to learn more about these three environments:
 
 {% endtoggle %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 As we explain in the introduction to this toolkit, high-quality open data is crucial for driving and measuring progress when implementing SPP. **To tackle key data foundations, we recommend consulting our [Green Flags guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/), and the [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).**
 {% endcallout %}
 
@@ -61,21 +61,21 @@ As we explain in the introduction to this toolkit, high-quality open data is cru
 
 - title: Options for data use
   link: /options-for-data-use
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: SPP uptake
   link: /spp-uptake
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Carbon reduction
   link: /carbon-reduction
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Gender inclusion
   link: /gender-inclusion
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Life cycle costing
   link: /life-cycle-costing
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Economic Development
   link: /economic-development
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
 {% enddatabase %}

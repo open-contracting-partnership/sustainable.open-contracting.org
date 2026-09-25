@@ -3,20 +3,20 @@ permalink: /establezca-criterios-de-sostenibilidad
 title: Establezca criterios de sostenibilidad
 description: "En última instancia, implementar una CPS Abierta significa comprar bienes, servicios y obras de la manera más sostenible, es decir, minimizar las externalidades negativas, como las emisiones de CO2, y maximizar el impacto social y económico positivo. Además de definir claramente cuáles son las necesidades reales y evitar compras innecesarias, esto también significa seleccionar la opción más sostenible una vez que se publique la licitación. Para hacer esto, las autoridades públicas deben introducir criterios de sostenibilidad en el proceso de contratación y comunicar abiertamente cómo se evaluará a los proveedores en relación con él."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "3c8f1b66434741efb79e0d7f506194f1"
 sidebar: true
 ---
 # Establezca criterios de sostenibilidad
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 En esta sección, brindamos orientación sobre diferentes opciones para introducir criterios de sostenibilidad en un proceso de contratación y lo que significa cada uno de ellos para los proveedores.
 {% endcallout %}
 
 En última instancia, implementar una CPS Abierta significa comprar bienes, servicios y obras de la manera más sostenible, es decir, minimizar las externalidades negativas, como las emisiones de CO2, y maximizar el impacto social y económico positivo. Además de definir claramente cuáles son las necesidades reales y evitar compras innecesarias, esto también significa seleccionar la opción más sostenible una vez que se publique la licitación. Para hacer esto, las autoridades públicas deben introducir criterios de sostenibilidad en el proceso de contratación y comunicar abiertamente cómo se evaluará a los proveedores en relación con él.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Uso claro y justificación de los criterios de sostenibilidad.**
 
 Uno de los elementos clave de una APP Abierta *(Open SPP)* es revelar cómo y por qué se han introducido criterios de sostenibilidad en un proceso de contratación. Como se explica en esta sección, al introducir criterios de sostenibilidad, debe divulgar de manera transparente en la oportunidad de licitación:
@@ -37,7 +37,7 @@ El objeto del contrato se refiere al producto, servicio u obra que se quiere con
 - Las necesidades que se han identificado.
 - Equidad y no discriminación en la contratación. Recuerde que algunos de los principios clave comunes de la regulación de contrataciones están relacionados con la equidad y la no discriminación. Esto es algo que debe integrarse en su contratación y le informará los diferentes pasos que tome, incluida la definición de su tema.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Definir un tema justo y no discriminatorio significa garantizar que no se haga referencia, **por ejemplo, a productos con certificaciones específicas o tipos específicos de proveedores. Un ejemplo de materia discriminatoria sería: “Licitación de portátiles con certificación Energy Star”, ya que restringe la participación al exigir el cumplimiento de una ecoetiqueta específica. Para garantizar la igualdad de trato, el tema debería ser: "Licitación para portátiles energéticamente eficientes".**
 {% endcallout %}
 
@@ -59,7 +59,7 @@ Al considerar cómo introducir criterios de sostenibilidad en un proceso de cont
 
 Como hemos presentado anteriormente en este conjunto de herramientas, los compradores públicos no necesitan crear criterios de sostenibilidad desde cero. La identificación de criterios de sostenibilidad y ecoetiquetas puede servir como guía. También es importante verificar si las autoridades públicas han dado recomendaciones sobre qué criterios deben incluirse al comprar categorías de contratación específicas.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Recuerde que **cuando solicite que los proveedores cumplan con los requisitos de una etiqueta ecológica específica, debe comunicar claramente que el cumplimiento se puede demostrar a través de medios de verificación distintos al certificado oficial de la etiqueta ecológica** (por ejemplo, a través de informes de laboratorio o documentación técnica) para respaldar la equivalencia y promover la equidad. competencia. Consulte la sección supervisar la implementación para obtener más información sobre los medios de verificación.
 {% endcallout %}
 
@@ -89,7 +89,7 @@ Las especificaciones técnicas constituyen el cumplimiento mínimo contra el cua
 
 La introducción de criterios de sostenibilidad como especificaciones técnicas es la forma más eficaz de garantizar que los proveedores cumplirán los criterios. Sin embargo, las autoridades públicas deben asegurarse de que la mayoría de los proveedores puedan cumplir las especificaciones técnicas incluidas, para asegurarse de que reciben suficientes ofertas y no comprometer la selección de una solución que represente la mejor relación calidad-precio.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Recuerde que cuando su entorno propicio solo permite adjudicar contratos en función del precio, la introducción de criterios de sostenibilidad como requisitos esenciales es una de las formas clave de implementar APP. Consulte la sección sobre Establecer un entorno habilitante para obtener más información.
 {% endcallout %}
 
@@ -99,7 +99,7 @@ Recuerde que cuando su entorno propicio solo permite adjudicar contratos en func
 
 En la etapa de adjudicación, la autoridad pública normalmente evaluará la calidad de las diferentes ofertas realizadas por los proveedores y comparará los costos. Mientras que las especificaciones técnicas deben incluir criterios mínimos de sostenibilidad, la introducción de criterios de sostenibilidad en la etapa de comntratación es una forma de promover a los proveedores que presentan ofertas más sostenibles. Los criterios de sostenibilidad pueden considerarse dentro de la ponderación asignada a la calidad o, según el entorno propicio, podría ser posible asignar un porcentaje de las puntuaciones disponibles a los criterios de sostenibilidad.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Como se presentó anteriormente, algunos marcos habilitadores solo le permitirán considerar el precio como criterio de adjudicación. En estos casos, puede considerar el uso de cálculos de costeo del ciclo de vida (LCC).
 {% endcallout %}
 
@@ -107,7 +107,7 @@ Como se presentó anteriormente, algunos marcos habilitadores solo le permitirá
 
 Una vez se hayan establecido los criterios de sostenibilidad, las autoridades públicas deben divulgar abiertamente cómo se verificará y controlará el cumplimiento de los mismos, y traducir claramente los requisitos de sostenibilidad en obligaciones contractuales.
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **Países Bajos implementa un sistema llamado [Escalera de Desempeño de CO2](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública**. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.
@@ -127,7 +127,7 @@ Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor 
 {% endtable %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2014, Chile realizó un estudio de investigación para evaluar cuántos contratos públicos eran empresas propiedad de hombres, versus contratos otorgados a empresas propiedad de mujeres.** Este estudio mostró que solo el 36% de los contratos públicos fueron otorgados a mujeres, y que estos representaron el 26% del valor total.

@@ -3,12 +3,12 @@ permalink: /guide-to-ecolabels
 title: Guide to ecolabels
 description: "The Global Ecolabelling Network (GEN) defines ecolabelling as “a voluntary method of environmental performance certification and labeling that is practiced around the world”. In this way, an “ecolabel identifies products or services proven to be environmentally preferable within a specific category”. To possess an ecolabel, products must comply with a series of criteria. Although most ecolabels focus on environmental criteria, some have started to include certain social criteria, such as whether labor rights have been upheld during the product's manufacturing process.\n"
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey2.png
+icon: /assets/images/Icons_Grey2.svg
 full_width: true
 notion_id: "72beba9e9d394c5b80e1392e38aad24d"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, we include key information for **understanding ecolabels, and the role they can play in facilitating SPP implementation.**
 {% endcallout %}
 

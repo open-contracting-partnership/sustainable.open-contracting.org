@@ -3,7 +3,7 @@ permalink: /relacinese-con-el-mercado
 title: Relaciónese con el mercado
 description: "Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: fa393ae5a1e3497d89aadb46b3a35f43
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **En esta sección brindamos** información sobre la importancia de comprometerse con el mercado **y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta**.
 {% endcallout %}
 
@@ -33,7 +33,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
   En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 **Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.**
  Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales*.(The Chicago Council on Global Affairs.)*
 {% endcallout %}
@@ -53,7 +53,7 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 - **Involucrarse con grupos prioritarios de CPS Abiertas**, como PYME, empresas propiedad de mujeres o propiedad de minorías, para comprender las barreras que podrían enfrentar al acceder a oportunidades de contratación pública. Para comprender estas barreras, también puede ser útil comprometerse con la sociedad civil y las organizaciones sin fines de lucro. Los conocimientos recopilados se pueden utilizar para diseñar enfoques de CPS más accesibles.
 - **Comunicar su cartera de proyectos** permitirá a los diferentes proveedores comprender mejor sus necesidades a largo plazo y los posibles requisitos de sostenibilidad. Esto les permitirá prepararse mejor para responder a las oportunidades de contrato a medida que surjan. Hacer esto puede ser particularmente útil para ampliar la participación entre las PYME, que tienden a tener menos recursos de contratación.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 **Relacionarse con el mercado de proveedores** al diseñar su primer Plan de Acción de APP **es esencial para compartir y comunicar un cambio de estrategia importante, llevar a los proveedores en el viaje con usted y comprender qué es factible**.
 {% endcallout %}
 
@@ -67,7 +67,7 @@ Las actividades de participación en el mercado realizadas durante la fase de pl
 - **Evaluación de las opciones de entrega del modelo de servicio**.
 - **Comenzar a involucrarse en torno a los criterios de selección**, reuniendo una comprensión de qué criterios podrían introducirse durante la contratación para garantizar la selección de la mejor solución posible. Una forma de hacerlo es mediante la publicación de una Solicitud de información (RFI) para recopilar información de proveedores potenciales.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Una forma de relacionarse con el mercado durante la fase de planificación es **organizando eventos con los proveedores para presentar sus objetivos de sostenibilidad**. Estos a veces se denominan días ambientales, sociales y de gestión (ESG) y se consideran una oportunidad para **discutir cómo los proveedores podrían abordar las prioridades de sostenibilidad. Los conocimientos recopilados de estos eventos se utilizan para informar los procesos de contratacións.**
 
 {% indent Tenga en cuenta que el trabajo de sostenibilidad en el sector privado a menudo se divide en estas tres áreas ESG, en lugar de los tres pilares del desarrollo sostenible (económico, social y ambiental).**Conectarse durante la contratación** %}
@@ -111,14 +111,14 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 Luego de diez años de operación, **la Ciudad de México buscó expandir su servicio de bicicletas públicas asequible y amigable con el medio ambiente a más vecindarios, actualizar el diseño y la tecnología, y todo a un costo razonable**. La ciudad necesitaba promover la competencia en un mercado concentrado, aprender más sobre las últimas innovaciones y tecnología de bicicletas compartidas y brindar un servicio mejor y más amplio con el mismo presupuesto o menos.

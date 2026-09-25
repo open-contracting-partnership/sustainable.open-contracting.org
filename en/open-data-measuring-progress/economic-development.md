@@ -3,7 +3,7 @@ permalink: /open-data-measuring-progress/economic-development
 title: Economic Development
 description: "For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 notion_id: e8d474b11ace4fda98aec534bc89791f
 properties:
   Created: "Feb 9, 2023 7:39 PM"

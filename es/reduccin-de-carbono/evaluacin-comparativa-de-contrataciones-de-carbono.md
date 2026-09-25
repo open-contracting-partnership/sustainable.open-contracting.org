@@ -2,7 +2,7 @@
 permalink: /reduccin-de-carbono/evaluacin-comparativa-de-contrataciones-de-carbono
 title: Evaluación comparativa de contrataciones de carbono
 description: "Measures that track carbon can be improved through better reporting: for example, self reporting by companies, better reporting within procurement itself. This includes carbon calculation as part of tender scoring during the procurement process."
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "5fd591591b6b492fa2c9660dd8303210"
 ---
 Measures that track carbon can be improved through better reporting: for example, self reporting by companies, better reporting within procurement itself. This includes carbon calculation as part of tender scoring during the procurement process.

@@ -3,14 +3,14 @@ permalink: /ladoption-des-pratiques-durables
 title: L’adoption des pratiques durables
 description: "L’évaluation du degré d’adoption des pratiques durables de passation de marchés suppose de déterminer dans quelle mesure les acheteurs publics ont recours aux marchés publics durables, durant les processus de passation de marchés ou ultérieurement, afin de pouvoir repérer clairement les marchés produisant des effets en matière sociale, environnementale et économique lors des appels d’offres et de l’engagement de fournisseurs."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "3e5f6ebbb44544b993d1f2aa2e381fd1"
 sidebar: true
 ---
 # Exemple : évaluer l’adoption des pratiques durables de passation de marchés
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès en ce qui concerne votre objectif de promotion des marchés publics durables.
 {% endcallout %}
 
@@ -26,15 +26,15 @@ Les départements gouvernementaux du monde entier mettent en place des politique
 
 ## Avantages
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Les gouvernements peuvent montrer que les nouvelles politiques ont des effets concrets sur les marchés publics.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Vous pouvez indiquer clairement aux fournisseurs que les marchés publics durables sont un engagement à long terme dont ils doivent prendre acte (et qu’ils doivent mettre à niveau leurs propres résultats).
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Il est possible de faire le lien entre politiques et marchés publics par l’entremise d’une boucle de collaboration permettant d’évaluer la réalisation des objectifs des politiques.
 {% endcallout %}
 
@@ -53,16 +53,16 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
 
 - title: How to record SPP in procurement
   link: /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "Options for measuring"
   link: /ladoption-des-pratiques-durables/options-for-measuring
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to measure SPP uptake
   link: /ladoption-des-pratiques-durables/how-to-measure-spp-uptake
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /ladoption-des-pratiques-durables/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

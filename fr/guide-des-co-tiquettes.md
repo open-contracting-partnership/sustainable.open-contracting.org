@@ -3,12 +3,12 @@ permalink: /guide-des-co-tiquettes
 title: Guide des éco-étiquettes
 description: "Le Global Ecolabelling Network définit l’éco-étiquetage comme « une méthode volontaire de certification environnementale et d’étiquetage pratiquée dans le monde entier » [traduction]. Ainsi, une « éco-étiquette signale les produits ou services préférables pour l’environnement au sein d’une catégorie spécifique » [traduction]. Pour posséder une éco-étiquette, les produits doivent respecter certains critères. Bien que la plupart des éco-étiquettes soient axées sur des critères environnementaux, certains programmes de certification ont commencé à inclure des critères sociaux, par exemple concernant le respect des droits du travail durant le processus de fabrication du produit.\n"
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey2.png
+icon: /assets/images/Icons_Grey2.svg
 full_width: true
 notion_id: fdd9aae286ba4fd39e4c1b62c1154426
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 *Dans cette section, vous trouverez des renseignements essentiels qui vous aideront à comprendre les éco-étiquettes et le rôle qu’elles peuvent jouer dans la mise en place de marchés publics durables.*
 {% endcallout %}
 

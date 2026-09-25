@@ -4,7 +4,7 @@ title: Home
 description: "\nSustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started."
 cover: /assets/images/Open-SPP-main.png
 cover_position: 83.26
-icon: /assets/images/Open_SPP_home_1.png
+icon: /assets/images/Open_SPP_home_1.svg
 full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
 sidebar: true
@@ -13,13 +13,13 @@ sidebar: true
 
 **Sustainable procurement will require governments to purchase things in a fundamentally different way. We hope that this toolkit will help you get started.**
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 This Open and Sustainable Public Procurement toolkit has been co-designed by the [Open Contracting Partnership (OCP)](https://www.open-contracting.org/), an independent non-profit working in over 50 countries to open up and transform the whole process of public procurement by making it more user-friendly, data-driven and inclusive; [Spend Network](https://spendnetwork.com/), a global leader in open contracting and procurement data analysis; and [PUBLIC](https://www.public.io/), a leading government-focused technology company. The toolkit development is supported by the German Development Cooperation implemented by [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/about_giz.html) (GIZ) GmbH.
 
 Throughout the toolkit, we provide guidance on how to apply open data and open government approaches to underpin successful sustainable public procurement SPP implementation and drive impact.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Grey3.png %}
+{% callout yellow /assets/images/Icons_Grey3.svg %}
 This Open and Sustainable Public Procurement toolkit is also available in French and Spanish.
 
 [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/)<br>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
@@ -33,24 +33,24 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 
 - title: Introduction
   link: /introduction
-  icon: /assets/images/Icons_Blue_Intro.png
+  icon: /assets/images/Icons_Blue_Intro.svg
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Plan
   link: /plan
-  icon: /assets/images/icons_D_Green.png
+  icon: /assets/images/icons_D_Green.svg
   cover: "/assets/images/PUBLIC_SPP_covers2-1.png"
 - title: Implement
   link: /implement
-  icon: /assets/images/Icons_Red.png
+  icon: /assets/images/Icons_Red.svg
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: "Open data & measuring progress"
   link: /open-data-measuring-progress
-  icon: /assets/images/Icons_Light_Green.png
+  icon: /assets/images/Icons_Light_Green.svg
   cover: "/assets/images/PUBLIC_SPP_covers4-1.png"
   cover_position: 6.48
 - title: Sector guidance
   link: /sector-guidance
-  icon: /assets/images/Icons_Grey.png
+  icon: /assets/images/Icons_Grey.svg
   cover: /assets/images/PUBLIC_SPP_covers6.png
   cover_position: 89.84
 {% endgallery %}

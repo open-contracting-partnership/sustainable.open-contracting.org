@@ -9,17 +9,17 @@ notion_id: f0048abe2b0b4cb4acc440586fa3179a
 
 - title: Establezca un entorno habilitante
   link: /establezca-un-entorno-habilitante
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Priorice
   link: /priorice
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: "Monitoreo y evaluación"
   link: /monitoreo-y-evaluacin
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Construya soporte y capacidades
   link: /establezca-mecanismos-de-apoyo
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Cree un Plan de Acción
   link: /cree-un-plan-de-accin
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 {% endgallery %}

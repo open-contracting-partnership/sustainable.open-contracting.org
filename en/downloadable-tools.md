@@ -8,7 +8,7 @@ full_width: true
 notion_id: b2008e60931f4cb987bfa2533c6ecfde
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 Throughout the toolkit, we have referenced different practical tools that you can use to help you plan SPP. In this section we include a selection of some of the most useful ones, in downloadable and editable formats.
 {% endcallout %}
 

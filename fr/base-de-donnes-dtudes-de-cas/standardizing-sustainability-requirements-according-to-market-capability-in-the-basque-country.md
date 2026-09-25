@@ -2,12 +2,12 @@
 permalink: /base-de-donnes-dtudes-de-cas/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
 title: Standardizing sustainability requirements according to market capability in the Basque Country
 cover: /assets/images/Europe_-_Basque_Country.png
-icon: /assets/images/Notion-others2.png
+icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: "6aa11ed462b2418b96f669c6bc56eb2e"
 sidebar: true
 ---
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 In the Spanish Region of the Basque Country, publicly-owned company Ihobe has been in charge of the region’s Green Public Procurement Strategy since 2009.
 
 As part of their strategy, **they prioritized procurement categories, and developed standardized [green criteria for 30 product categories](https://www.ihobe.eus/criterios-ambientales).** To decide what criteria to include, they organized thematic discussion forums with industry organizations, and potential regional suppliers, and assessed the current level of compliance with the proposed criteria (the [European Union’s GPP criteria](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)).

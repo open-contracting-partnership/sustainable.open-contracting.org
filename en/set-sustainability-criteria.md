@@ -3,20 +3,20 @@ permalink: /set-sustainability-criteria
 title: Set sustainability criteria
 description: "Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real needs are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: f718c6ce9ad84de0b86181491ddda103
 sidebar: true
 ---
 # Setting sustainability criteria
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 In this section, we provide guidance on different options for introducing sustainability criteria in a procurement process, and what they each mean for suppliers.
 {% endcallout %}
 
 Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real [needs](/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Clear use and justification of sustainability criteria.**
 
 One of the key elements of [Open SPP](/what-is-open-spp) is disclosing how and why sustainability criteria have been introduced in a procurement process. As explained in this section, when introducing sustainability criteria, you must transparently disclose on the tender opportunity:
@@ -37,7 +37,7 @@ The subject matter of the contract refers to the product, service or work that y
 - The [needs](/assess-needs) that have been identified.
 - Fairness and non-discrimination in procurement. Remember that some of the common key principles of procurement regulation are related to fairness and non-discrimination. This is something that should be embedded into your procurement, and will inform the different steps you take, including defining your subject matter.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Defining a fair and non-discriminatory subject matter means ensuring that no reference is made, for example, to products with specific certifications, or specific types of suppliers. **An example of a discriminatory subject matter would be: “Tender for Energy Star certified laptops”, as it restricts participation by requiring compliance with a specific ecolabel. To ensure equal treatment, the subject matter should instead be: “Tender for energy efficient laptops”.**
 {% endcallout %}
 
@@ -59,7 +59,7 @@ When considering how to introduce sustainability criteria in a procurement proce
 
 As we have previously introduced in this toolkit, public procurers do not need to create sustainability criteria from scratch. Identifying sustainability criteria, and [ecolabels](/guide-to-ecolabels) can serve as guidance. It is also important to check whether public authorities have [given recommendations](/build-support-and-capabilities) as to what criteria should be included when purchasing specific procurement categories.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Remember that **when you ask that suppliers comply with the requirements of a specific ecolabel, you should clearly communicate that compliance can be demonstrated through means of verification other than the ecolabel’s official certificate** (e.g. through laboratory reports or technical documentation) to support equivalence and promote fair competition. See the [Monitor implementation](/monitor-implementation) section for more information regarding means of verification.
 {% endcallout %}
 
@@ -89,7 +89,7 @@ Technical specifications constitute the minimum compliance against which supplie
 
 Introducing sustainability criteria as technical specifications is the most effective way to ensure that the criteria will be met by suppliers. However, public authorities should ensure that technical specifications included can be met by a majority of suppliers, to ensure that they receive enough offers, and not compromise the selection of a solution which represents the best value for money.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Remember when your enabling environment only allows to award contracts based on price, introducing sustainability criteria as essential requirements is one of the key ways of implementing SPP. See the section on [Establish an enabling environment](/establish-an-enabling-environment) for more information.
 {% endcallout %}
 
@@ -99,7 +99,7 @@ Remember when your enabling environment only allows to award contracts based on 
 
 At the award stage, the public authority will normally evaluate the quality of the different offers made by suppliers, and compare costs. Whereas technical specifications should include minimum sustainability criteria, introducing sustainability criteria at the award stage is a way to promote suppliers who present more sustainable offers. Sustainability criteria can be considered within the weighting allocated to quality, or, depending on the [enabling environment](/establish-an-enabling-environment), it might be possible to allocate a percentage of the available marks to sustainability criteria.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 As previously introduced, some enabling frameworks will only allow you to consider price as award criteria. In these cases, you can consider using [Life-Cycle Costing (LCC) calculations](/life-cycle-costing).
 {% endcallout %}
 
@@ -107,7 +107,7 @@ As previously introduced, some enabling frameworks will only allow you to consid
 
 Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored](/monitor-implementation), and clearly [translate sustainability requirements into contract obligations](/prepare-contract-obligations).
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 **The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions.
@@ -125,7 +125,7 @@ As can be seen in the example on the following table, although supplier C had a 
 {% endtable %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 **In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women.** This study showed that only 36% of public contracts were awarded to women, and that these represented 26% of total value.

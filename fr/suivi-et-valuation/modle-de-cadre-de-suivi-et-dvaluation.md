@@ -2,10 +2,10 @@
 permalink: /suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation
 title: Modèle de cadre de suivi et d’évaluation
 description: "The M&E framework includes the following section:"
-icon: /assets/images/icons_D_Green3.png
+icon: /assets/images/icons_D_Green3.svg
 notion_id: "78211b5af9254502aa43120eee8c658d"
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<br>
 **This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP.**
 

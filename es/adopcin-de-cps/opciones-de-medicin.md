@@ -2,7 +2,7 @@
 permalink: /adopcin-de-cps/opciones-de-medicin
 title: Opciones de medición
 description: "Una vez usted haya podido vincular la política y la acción y luego registrarlo en datos, es posible comenzar a medir la adquisición de CPS. En la mayoría de los casos, la medida que usará es simplemente contar la cantidad de veces que las adquisiciones alcanzan un umbral de CPS acordado."
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "65f77799b4194d45bfb637a64aabfcfa"
 ---
 Una vez usted haya podido vincular la política y la acción y luego registrarlo en datos, es posible comenzar a medir la adquisición de CPS. En la mayoría de los casos, la medida que usará es simplemente contar la cantidad de veces que las adquisiciones alcanzan un umbral de CPS acordado.

@@ -4,7 +4,7 @@ title: Promoting equal access to government opportunities in Kenya
 description: "In 2013, Kenya officially launched The Access to Government Procurement Opportunities (AGPO) program. The aim of the program was to facilitate the participation in Government opportunities to enterprises owned by women, youth, and people with disabilities.\n\nThis program establishes that procuring entities should allocate at least 30% of its procurement spend for contracts to micro and small enterprises owned by women, youth and persons with disabilities. \n\nResearch regarding the impact of Kenya’s AGPO programme between 2013 and 2016 shows that only 7,71% out of the 30% of available tenders worth 5M and above were awarded to AGPO firms (procuring entities were not reporting on contracts below 5M until 2017). Among some of the programme’s achievements is an 82% increase in number of youth owned enterprises. \n\nSensitization, public engagement, and promoting transparency in public procurement, are some of key approaches that are being taken to drive the benefits of AGPO. Progress on this can be seen through their public procurement information portal. \n"
 cover: /assets/images/Africa_-_Kenya.png
 cover_position: 53.72
-icon: /assets/images/Notion-others2.png
+icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: "7c77bc1174ed44029d9f475faf22951d"
 properties:
@@ -15,7 +15,7 @@ properties:
     National: gray
 sidebar: true
 ---
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **In 2013, Kenya officially launched [The Access to Government Procurement Opportunities (AGPO)](https://agpo.go.ke/pages/about-agpo) program.** The aim of the program was to facilitate the participation in Government opportunities to enterprises owned by women, youth, and people with disabilities.
 
 This program establishes that procuring entities should allocate **at least 30% of its procurement spend for contracts to micro and small enterprises owned by women, youth and persons with disabilities.**

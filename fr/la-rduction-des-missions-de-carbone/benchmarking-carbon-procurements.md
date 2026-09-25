@@ -2,7 +2,7 @@
 permalink: /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements
 title: Benchmarking carbon procurements
 description: "Measures that track carbon can be improved through better reporting: for example, self reporting by companies, better reporting within procurement itself. This includes carbon calculation as part of tender scoring during the procurement process."
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "6bfa7825bdb04fd29e71b18432aee27a"
 ---
 Measures that track carbon can be improved through better reporting: for example, self reporting by companies, better reporting within procurement itself. This includes carbon calculation as part of tender scoring during the procurement process.

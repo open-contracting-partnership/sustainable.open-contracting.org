@@ -3,7 +3,7 @@ permalink: /interagir-avec-le-march
 title: Interagir avec le marché
 description: "Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "3578aad1ed6c48608e9804192cadf910"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 Dans cette section, nous fournissons des informations concernant l’importance d’interagir avec les acteurs du marché ainsi que des orientations concernant les différentes possibilités d’interaction lors des différentes étapes du processus de passation des marchés publics durables et ouverts.
 {% endcallout %}
 
@@ -29,7 +29,7 @@ L’interaction avec les acteurs du marché lors de la mise en place de marchés
 - **Collecter des avis des acteurs du marché concernant votre approche**
   Parfois, des décisions concernant la structure de certains processus de passation de marchés ou l’intégration de certains critères de durabilité peuvent entraver la participation de fournisseurs potentiels ou aller à l’encontre des pratiques du marché. Le fait de sonder l’opinion des fournisseurs peut aider à rectifier cela en assurant que des processus de passation de marchés sont planifiés de façon à maximiser les probabilités de choisir la meilleure solution possible.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 L’exemple du [système « *Ecobici* » de la ville de Mexico](/base-de-donnes-dtudes-de-cas/utilisation-de-contrats-ouverts-pour-acqurir-un-systme-de-vlos-mexico) montre bien comment les interactions avec les acteurs du marché peuvent aider à définir votre approche des marchés publics et améliorer leurs résultats. Consultez [ce rapport](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) du Chicago Council on Global Affairs pour en savoir plus sur la façon dont l’interaction ouverte avec les acteurs du marché peut favoriser les marchés publics durables.
 {% endcallout %}
 
@@ -48,7 +48,7 @@ Il est possible d’interagir avec les acteurs du marché à chaque étape de la
 - Des interactions avec les groupes prioritaires des marchés publics durables et ouverts, comme les petites et moyennes entreprises (PME), les entreprises dirigées par des femmes ou des membres de minorités, visant à définir les obstacles qu’ils peuvent rencontrer pour accéder aux marchés publics. Pour définir ces obstacles, il peut aussi être utile d’interagir avec la société civile et des organisations à but non lucratif. Les connaissances ainsi collectées peuvent guider la conception d’approches des marchés publics durables plus accessibles ;
 - Des communications de vos projets à venir qui permettront aux fournisseurs d’analyser vos besoins à long terme et les exigences éventuelles en matière de durabilité. Ils pourront ainsi mieux se préparer afin de répondre aux appels d’offres après leur publication. Cela peut être particulièrement utile pour renforcer la participation des PME, qui tendent à avoir moins de ressources pour accéder aux marchés publics.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 *L’interaction avec les acteurs du marché lors de l’élaboration de votre premier plan d’action sur les marchés publics durables est essentielle pour diffuser et communiquer tout changement stratégique majeur, inclure les fournisseurs dans votre démarche et prendre conscience des possibilités.*
 {% endcallout %}
 
@@ -62,7 +62,7 @@ Les interactions avec les acteurs du marché durant la phase de planification d�
 - Évaluer les possibilités pour répondre aux besoins ;
 - Commencer à interagir concernant les critères de sélection et acquérir une bonne compréhension des critères pouvant être intégrés au processus de passation de marchés afin de choisir la meilleure solution. Pour cela, il est possible de publier une demande d’information afin de collecter des renseignements auprès des fournisseurs potentiels.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Afin d’interagir avec les acteurs du marché durant la phase de planification, vous pouvez organiser des événements avec les fournisseurs visant à présenter vos objectifs en matière de durabilité. On parle parfois de journées consacrées aux questions environnementales, sociales et de gouvernance (ESG), qui sont l’occasion de discuter de la façon dont les fournisseurs peuvent répondre aux priorités en matière de durabilité. Les renseignements collectés lors de ces événements guident ensuite les processus de passation de marchés.
 
 Notez que le travail du secteur privé en matière de durabilité est souvent divisé entre les trois domaines ESG au lieu de mettre l’accent sur les [trois piliers du développement durable](/definition) (économie, société et environnement).
@@ -81,14 +81,14 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Ressources**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Études de cas**
 
 Après dix ans d’exploitation, **la ville de Mexico a décidé d’étendre son réseau écologique et abordable de vélos en libre-service à de nouveaux quartiers et d’améliorer la conception et la technologie utilisée moyennant un coût raisonnable.** La ville avait besoin de promouvoir la compétitivité d’un marché concentré, de se renseigner sur les dernières technologies et innovations concernant les vélos en libre-service et de fournir un service de meilleure qualité sur une zone plus vaste pour un budget identique, voire inférieur.

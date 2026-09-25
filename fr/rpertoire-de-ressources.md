@@ -3,12 +3,12 @@ permalink: /rpertoire-de-ressources
 title: Répertoire de ressources
 description: "Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-others.png
+icon: /assets/images/Notion-others.svg
 full_width: true
 notion_id: "523c6afd5cae4a12b4ddce3f06263499"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
 

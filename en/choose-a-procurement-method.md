@@ -3,7 +3,7 @@ permalink: /choose-a-procurement-method
 title: Choose a procurement method
 description: "The design of a public procurement process can limit or facilitate the application of Open SPP practices. In this section we include approaches to procurement that can be useful to introduce Open SPP practices. Procuring agencies should openly communicate, for each procurement process, which of these approaches will be taken, and how they are underpinned by the Open SPP enabling framework."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: fa649a8ba1c343baa82ee941abf95579
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 The design of a public procurement process can limit or facilitate the application of Open SPP practices. In this section we include approaches to procurement that can be useful to introduce Open SPP practices. Procuring agencies should openly communicate, for each procurement process, which of these approaches will be taken, and how they are underpinned by the Open SPP enabling framework.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 One procurement approach that can be very helpful when starting to implement sustainable practices in public procurement is to divide projects into **pilot and scale phases.** This can be especially useful for testing risky and uncertain assumptions. During the pilot phase, data should be clearly captured and should feed into the scaling phase.
 {% endcallout %}
 
@@ -54,7 +54,7 @@ Outcome-based procurement approaches can be most useful when:
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 For more guidance and examples of how to shape procurement approaches to achieve sustainability outcomes, we recommend referring to the [Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting”](https://govlab.hks.harvard.edu/results-driven-contracting). For a case study on how to design a procurement process based on achieving desired outcomes see the Wichita Ground Maintenance Contracts example developed at the end of this section.
 {% endcallout %}
 
@@ -83,7 +83,7 @@ There are different benefits of using two-stage tender processes when implementi
 - **Step 5:** Candidates submit their final tenders.
 - **Step 6:** Evaluate tenders and award the contract to the selected supplier.
 
-  {% callout red /assets/images/Idea_Red.png %}
+  {% callout red /assets/images/Idea_Red.svg %}
   A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract.
   {% endcallout %}
 
@@ -127,21 +127,21 @@ There are different benefits of using joint procurement when implementing Open S
 
 {% endtoggle %}
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 Throughout this toolkit, we have provided guidance on the use of [frameworks](/establish-an-enabling-environment/framework-agreements) [catalogs](/build-support-and-capabilities), and registries to implement SPP. When selecting your procurement approach, consider the availability of these mechanisms (e.g. catalogs of suppliers that meet certain environmental standards) that can facilitate the selection of more sustainable suppliers.
 {% endcallout %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case study**
 
 **In 2015, Wichita, the largest city in the U.S. state of Kansas, [aimed to improve the quality of the city’s parks while reducing costs](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.

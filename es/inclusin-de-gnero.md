@@ -3,14 +3,14 @@ permalink: /inclusin-de-gnero
 title: Inclusión de género
 description: "Para reducir las barreras a las que se enfrentan las empresas dirigidas por mujeres en los mercados de contratación pública, debemos ser capaces de identificar las empresas dirigidas por mujeres y comprender en qué medida están participando y ganando contratos gubernamentales. Esto incluye una comprensión tanto del número como del valor de los contratos, así como de su sector. Podemos tomar estas medidas como referencia y luego implementar medidas con el objetivo de mejorar estas métricas con el tiempo."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "41b3faf621a347b38e3cd21970bcc188"
 sidebar: true
 ---
 # Ejemplo resuelto: Medir la inclusión de género
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 En esta sección le explicamos cómo puede usar los datos para medir la participación de empresas dirigidas por mujeres en la contratación pública.
 {% endcallout %}
 
@@ -24,7 +24,7 @@ Los gobiernos gastan la asombrosa cantidad de US$ 13 billones por año en contra
 
 A partir de 2020, profundizamos en por qué las empresas dirigidas por mujeres luchan por prosperar en los mercados de contratación pública. Trabajamos con *Value for Women* para investigar las barreras que enfrentan las empresas dirigidas por mujeres en la contratación pública y las prácticas emergentes para la equidad y la inclusión de socios que implementan reformas de contratación abierta en América Latina, con ejemplos de Chile, República Dominicana y Buenos Aires, Argentina.
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 Usted podrá leer el [informe completo](https://www.open-contracting.org/es/resources/promover-el-equilibrio-de-genero-en-las-adquisiciones-publicas/), una [versión de información](https://www.open-contracting.org/es/resources/empresas-lideradas-por-mujeres-contratacion-publica/) o un [blog de resumen](https://www.open-contracting.org/es/2020/07/21/perforar-el-techo-de-cristal-para-las-empresas-lideradas-por-mujeres-imparcialidad-e-inclusion-a-traves-de-las-contrataciones-abiertas/). Luego trabajamos con ONU Mujeres para elaborar una [nota de política](https://www.open-contracting.org/resources/empowering-women/) que incluye más ejemplos y recomendaciones de todo el mundo.
 {% endcallout %}
 
@@ -41,16 +41,16 @@ En la mayoría de los países, la participación de las empresas de mujeres en l
 
 - title: "¿Cómo analizar la brecha salarial por género?"
   link: /inclusin-de-gnero/cmo-analizar-la-brecha-salarial-por-gnero
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Mujeres en internados/ empresas dirigidas por mujeres
   link: /inclusin-de-gnero/mujeres-en-internados-empresas-dirigidas-por-mujeres
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "¿Cómo recopilar los datos que necesita?"
   link: /inclusin-de-gnero/cmo-recopilar-los-datos-que-necesita
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Análisis e informe de datos
   link: /inclusin-de-gnero/anlisis-e-informe-de-datos
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

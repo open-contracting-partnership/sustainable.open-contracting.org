@@ -3,14 +3,14 @@ permalink: /le-cot-du-cycle-de-vie
 title: Le coût du cycle de vie
 description: "La prise en compte du coût du cycle de vie, ou du coût total de possession, désigne une pratique comptable consistant à déterminer le coût composé d’un actif. Dans le cadre des marchés publics, les acheteurs calculent le coût du cycle de vie pour évaluer le coût complet de possession d’un actif, typiquement d’une machine. Le coût du cycle de vie d’un équipement doit inclure le prix d’achat initial, le coût d’exploitation, tous les coûts liés à la mise en conformité, le coût d’entretien et le coût de mise hors service ou de sortie du capital. Il est également possible d’y intégrer le coût des défaillances et le coût de remplacement."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "1d8fd281d39d498ba986659dddc89537"
 sidebar: true
 ---
 # Exemple : calculer le coût du cycle de vie
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Dans cette section, nous expliquons comment vous pouvez exploiter les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la prise en compte du coût du cycle de vie dans les marchés publics.
 {% endcallout %}
 
@@ -32,15 +32,15 @@ La combinaison de bonnes pratiques de passation de marchés et des données rela
 
 Le calcul du coût du cycle de vie a plusieurs effets positifs pour les entités qui souhaitent que leurs marchés publics produisent de meilleurs résultats en matière sociale et environnementale :
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Vous pouvez exploiter les données pour montrer l’importance du rapport qualité-prix dans la commande publique, en adoptant une vision à long terme.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Il est possible de récompenser les fournisseurs et équipes qui s’engagent à fournir des produits de qualité élevée au lieu de rechercher une vente rapide.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Les informations de qualité concernant le coût du cycle de vie permettent d’utiliser moins de ressources sur une plus longue période et de limiter les déchets.
 {% endcallout %}
 
@@ -69,16 +69,16 @@ Cliquez sur les sous-sections suivantes pour en savoir plus concernant le proces
 
 - title: How to value a life cycle
   link: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Actuals and projections
   link: /le-cot-du-cycle-de-vie/actuals-and-projections
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "How to gather the data you need?"
   link: /le-cot-du-cycle-de-vie/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Life cycle costing and SPP
   link: /le-cot-du-cycle-de-vie/life-cycle-costing-and-spp
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

@@ -2,7 +2,7 @@
 permalink: /le-cot-du-cycle-de-vie/actuals-and-projections
 title: Actuals and projections
 description: "We have just looked at the role of estimates in determining a life cycle cost, now we are going to look at the role of actuals, in other words the actual payments that are being made and how they can be used to establish a life cycle cost."
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "08996e5a003d4a3e90fd86d04574618a"
 ---
 We have just looked at the role of estimates in determining a life cycle cost, now we are going to look at the role of actuals, in other words the actual payments that are being made and how they can be used to establish a life cycle cost.

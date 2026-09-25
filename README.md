@@ -67,7 +67,7 @@ The layout renders the breadcrumbs (from the pages at each prefix of the path) a
 Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 The callout's **text**.
 
 Other blocks in the callout.
@@ -122,7 +122,7 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 
 - title: Prioritize
   link: /plan/prioritize
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Promoting circularity through furniture procurement in Wales
   link: /promoting-circularity-through-furniture-procurement-in-wales
   cover: /assets/images/Europe_-_Wales.png

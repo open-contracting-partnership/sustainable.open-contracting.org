@@ -3,20 +3,20 @@ permalink: /des-critres-de-durabilit
 title: Des critères de durabilité
 description: "La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les besoins réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
 sidebar: true
 ---
 # Définir des critères de durabilité
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 *Dans cette section, nous fournissons des orientations concernant les différentes possibilités pour intégrer des critères de durabilité à un processus de passation de marchés et ce que ces critères impliquent pour les fournisseurs.*
 {% endcallout %}
 
 La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les [besoins](/valuer-les-besoins-rels) réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Utiliser et justifier de façon claire les critères de durabilité**
 
 L’un des éléments essentiels des [marchés publics durables et ouverts](/definition) consiste à décrire en toute transparence le rôle des critères de durabilité dans le processus et à justifier leur utilisation. Comme expliqué dans cette section, lorsque vous prenez en compte des critères de durabilité, vous devez divulguer de façon transparente un certain nombre d’éléments dans l’avis d’appel d’offres, à savoir :
@@ -37,7 +37,7 @@ L’objet du marché désigne les produits, les services ou les travaux que vous
 - Les [besoins](/valuer-les-besoins-rels) identifiés ;
 - Les principes d’équité et de non-discrimination dans la commande publique. N’oubliez pas que certains principes communs essentiels de la réglementation des marchés publics sont liés à l’équité et à l’absence de discrimination. Ces principes doivent faire partie intégrante de vos marchés publics et guider les différentes mesures que vous prendrez, y compris lors de la définition de l’objet de votre marché.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Pour formuler un objet de marché équitable et non discriminatoire, vous devez par exemple vous assurer qu’il ne mentionne pas de certification particulière ou de types de fournisseurs particuliers. Par exemple, l’objet « Appel d’offres pour l’achat d’ordinateurs portables certifiés Energy Star » est discriminatoire, car l’intitulé restreint la participation en exigeant l’attribution d’une éco-étiquette particulière. Pour garantir un accès équitable à ce marché public, l’objet pourrait devenir « Appel d’offres pour l’achat d’ordinateurs portables économes en énergie ».
 {% endcallout %}
 
@@ -59,7 +59,7 @@ Lorsque vous réfléchissez à l’intégration de critères de durabilité à u
 
 Comme nous l’avons déjà évoqué dans ce guide pratique, les acheteurs publics n’ont pas besoin de partir de zéro pour élaborer des critères de durabilité. Le recensement des critères de durabilité et des [éco-étiquettes](/guide-des-co-tiquettes) existants peut fournir un certain nombre de points de repère. Il est également important de contrôler si les pouvoirs publics ont [publié des recommandations](/des-mcanismes-dassistance) sur les critères à prendre en compte concernant certaines catégories de marchés.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 N’oubliez pas que lorsque vous demandez aux fournisseurs de respecter les exigences d’une éco-étiquette particulière, vous devez clairement indiquer qu’ils ne sont pas obligés d’obtenir la certification officielle de cette éco-étiquette pour montrer qu’ils respectent ces exigences (par exemple, des rapports d’expertise ou une documentation technique peuvent remplir cette fonction) afin de permettre les équivalences et de promouvoir une concurrence équitable. Consultez la section relative au [suivi de l’exécution](/suivi-de-lexcution) pour en savoir plus sur les moyens de vérification.
 {% endcallout %}
 
@@ -89,7 +89,7 @@ Les spécifications techniques sont les exigences minimales par rapport auxquell
 
 L’intégration de critères de durabilité aux spécifications techniques est le meilleur moyen d’assurer que les fournisseurs respecteront ces critères. Toutefois, les acheteurs publics doivent veiller à ce que leurs spécifications techniques puissent être respectées par la majorité des fournisseurs afin de recevoir suffisamment d’offres et de ne pas passer à côté des solutions qui présentent le meilleur rapport qualité-prix.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 Gardez à l’esprit que si votre environnement habilitant permet seulement d’attribuer des marchés en fonction du prix, l’intégration de critères de durabilité aux exigences essentielles est un des meilleurs moyens de mettre en place des marchés publics durables. Consultez la section sur [l’analyse de l’environnement habilitant](/mise-en-place)
  pour en savoir plus.
 {% endcallout %}
@@ -100,7 +100,7 @@ Gardez à l’esprit que si votre environnement habilitant permet seulement d’
 
 Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normalement la qualité des offres des soumissionnaires et comparera leur coût. Alors que les spécifications techniques devraient inclure des critères de durabilité minimum, la prise en compte de critères de durabilité lors de la phase de l’attribution permet de favoriser les fournisseurs qui soumettent les offres les plus durables. Des critères de durabilité peuvent être pris en compte dans la pondération attribuée à la qualité, ou, en fonction de [l’environnement habilitant](/mise-en-place), il peut être possible d’allouer un pourcentage de la pondération aux critères de durabilité.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 *Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de [prendre en compte le coût du cycle de vie](/le-cot-du-cycle-de-vie)*.
 {% endcallout %}
 
@@ -108,7 +108,7 @@ Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normale
 
 Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi](/suivi-de-lexcution), et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Études de cas**
 
 Les Pays-Bas ont mis en place un système appelé « [*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
@@ -126,7 +126,7 @@ Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C 
 {% endtable %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés publics attribués à des entreprises dirigées par des hommes par rapport au nombre de marchés attribués à des entreprises dirigées par des femmes. L’étude a montré que seuls 36 % des marchés publics avaient été attribués à des femmes, pour seulement 26 % de la valeur totale des marchés publics.

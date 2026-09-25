@@ -3,14 +3,14 @@ permalink: /spp-uptake
 title: SPP uptake
 description: "Measuring SPP uptake levels is about knowing how much sustainable public procurement is being relied on by public buyers, either during the procurement process or after the fact to allow the clear identification of social, environmental, or economic procurement within tendering and contracting."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: f6b9fea7045d4268b6a35725f949a001
 sidebar: true
 ---
 # Worked example: Measuring SPP uptake
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 In this section we explain how you can use data to measure and monitor progress against the goal of promoting SPP uptake.
 {% endcallout %}
 
@@ -24,15 +24,15 @@ Government departments around the world are initiating policies and targets that
 
 ## Benefits
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Allows governments to demonstrate that new policies are having a meaningful effect on purchasing.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Clearly shows suppliers that sustainable procurement is a long-term commitment that they need to recognise (and benchmark their own performance).
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Links policy to procurement through a feedback loop allowing measurement of policy objectives to take place.
 {% endcallout %}
 
@@ -51,16 +51,16 @@ Once this has been clearly established, you can measure and record uptake of SPP
 
 - title: How to record SPP in procurement
   link: /spp-uptake/how-to-record-spp-in-procurement
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: "Options for measuring"
   link: /spp-uptake/options-for-measuring
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to measure SPP uptake
   link: /spp-uptake/how-to-measure-spp-uptake
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /spp-uptake/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

@@ -3,12 +3,12 @@ permalink: /base-de-donnes-dtudes-de-cas/prendre-en-compte-les-missions-de-co2-l
 title: Prendre en compte les émissions de CO2 lors de l’attribution de marchés publics aux Pays-Bas
 description: "Les Pays-Bas ont mis en place un système appelé « CO2 Performance Ladder » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2. Les organisations peuvent obtenir un certificat correspondant à leur échelon qu’elles peuvent ensuite utiliser lors d’appels d’offres pour bénéficier d’un avantage en vue de l’attribution de marchés publics. Ainsi, une réduction peut être appliquée au prix proposé par les entreprises si ces dernières montrent et renforcent leurs efforts en faveur de la réduction des émissions de CO2. Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C propose un prix initial plus élevé, l’application de la réduction liée à ses émissions de CO2 (échelon 4) lui fait remporter le marché. En adoptant cette approche pour prendre en compte les émissions de carbone lors de la passation de marchés, il est possible de sélectionner des fournisseurs responsables même si le marché peut uniquement être attribué en fonction du prix."
 cover: /assets/images/Europe_-_Neth2.png
-icon: /assets/images/Notion-others2.png
+icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: "9735999e9ee84e01a5bf6d465480d88f"
 sidebar: true
 ---
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 Les Pays-Bas ont mis en place un système appelé « [*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
 
 Les organisations peuvent obtenir un certificat correspondant à leur échelon qu’elles peuvent ensuite utiliser lors d’appels d’offres pour bénéficier d’un avantage en vue de l’attribution de marchés publics. Ainsi, une réduction peut être appliquée au prix proposé par les entreprises si ces dernières montrent et renforcent leurs efforts en faveur de la réduction des émissions de CO2.

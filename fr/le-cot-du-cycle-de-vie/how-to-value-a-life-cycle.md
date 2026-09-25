@@ -2,7 +2,7 @@
 permalink: /le-cot-du-cycle-de-vie/how-to-value-a-life-cycle
 title: How to value a life cycle
 description: In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "8048b69c03e84e2383c0ccf8532d1f76"
 ---
 In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.

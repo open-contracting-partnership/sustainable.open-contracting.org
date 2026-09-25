@@ -3,7 +3,7 @@ permalink: /elabore-obligaciones-del-contrato
 title: Elabore obligaciones del contrato
 description: "Una vez se hayan establecido claramente los criterios de sostenibilidad, deben traducirse en obligaciones contractuales. Esto incluye establecer cómo se monitoreará la implementación y cuáles son las consecuencias en caso de incumplimiento. Para redactar cláusulas contractuales efectivas, estas decisiones deben ser discutidas abiertamente y acordadas por la autoridad de contratación y los proveedores relevantes. Esta sección presenta algunas de las características clave de las cláusulas contractuales exitosas."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "670fc05032a7418a831ebc67e797371b"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Una vez se hayan establecido claramente los criterios de sostenibilidad, deben traducirse en obligaciones contractuales. Esto incluye establecer cómo se monitoreará la implementación y cuáles son las consecuencias en caso de incumplimiento. Para redactar cláusulas contractuales efectivas, estas decisiones deben ser discutidas abiertamente y acordadas por la autoridad de contratación y los proveedores relevantes. Esta sección presenta algunas de las características clave de las cláusulas contractuales exitosas.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 **Relacionarse con los proveedores** y discutir abiertamente las obligaciones de sostenibilidad **conducirá a cláusulas contractuales más efectivas, aumentando el impacto positivo del contrato y minimizando los riesgos de incumplimiento**. Sin embargo, **este proceso también debe usarse para garantizar que el contrato general sea fácil de usar y que todas las partes interesadas comprendan las responsabilidades clave.**
 {% endcallout %}
 
@@ -50,7 +50,7 @@ Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que
 
 Uno de los desafíos clave con las cláusulas de sostenibilidad en los contratos es que a menudo se usan de manera estandarizada y no se adaptan al objeto del contrato, el contexto local o la capacidad del proveedor. Por ejemplo, es posible que algunas PYME no tengan los recursos para realizar ciertas actividades de monitoreo o participar en diálogos entre industrias. Las cláusulas contractuales no contextualizadas pueden dar lugar a una limitación excesiva de los proveedores, dejando fuera a las empresas más pequeñas y creando dificultades para hacer cumplir las obligaciones.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Si bien la estandarización de las cláusulas de sostenibilidad puede facilitar la implementación de APP, debe asegurarse de que estas cláusulas tengan en cuenta factores como el tamaño del proveedor y los riesgos de sostenibilidad más relevantes para cada sector. También es importante garantizar una asignación justa de responsabilidades, como el costo de las actividades de monitoreo, para que no toda la presión recaiga sobre los proveedores, especialmente si desea cambios de comportamiento sostenibles.
 {% endcallout %}
 
@@ -70,7 +70,7 @@ Como se ha presentado en la sección anterior, qué criterios de sostenibilidad 
 
 Incluir estas cláusulas puede ser crucial para garantizar una buena calidad y una buena relación calidad-precio durante todo el ciclo de vida de un contrato. También puede ser útil establecer la mejora continua como condición para la prórroga del contrato o la recontratación. Finalmente, puede considerar la introducción de incentivos financieros adicionales para recompensar este comportamiento.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).

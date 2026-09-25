@@ -9,8 +9,8 @@ notion_id: "5e901733fa4845328ba7638bd9c36b6d"
 
 - title: Construction sector
   link: /construction-sector
-  icon: /assets/images/Icons_Grey5.png
+  icon: /assets/images/Icons_Grey5.svg
 - title: ICT sector
   link: /ict-sector
-  icon: /assets/images/Icons_Grey5.png
+  icon: /assets/images/Icons_Grey5.svg
 {% endgallery %}

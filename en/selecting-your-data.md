@@ -3,14 +3,14 @@ permalink: /selecting-your-data
 title: Selecting your data
 description: "When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: b7d9cf52b2b84f8981500504f507d144
 sidebar: true
 ---
 When implementing SPP in specific procurement categories, it is important to understand what factors should be monitored to measure the impact of the contract across the three sustainability pillars.
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, we identify which are the **key sustainability variables in ICT procurement.** Each factor is presented as a data group, highlighting which is the most relevant information that should be captured to determine the impact that each group will have on the sustainability of the procurement.
 {% endcallout %}
 
@@ -50,7 +50,7 @@ Energy efficiency is the main variable that will determine the environmental imp
 
 The use of hazardous substances in ICT equipment can be dangerous for those handling the materials throughout the life-cycle of the product, from manufacturing to waste management. Information can be required from the supplier regarding the efforts to reduce or eliminate the use of these substances.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 For displays, for example, [on pages 124 to 134](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) **TCO includes guidelines on the maximum concentration of hazardous substances that these products should contain.**
 
 Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://tcocertified.com/industry/accepted-substance-list/) that can be used as guidance.
@@ -76,7 +76,7 @@ If the manufacturer, brand, or reseller, offers a repair service as part of the 
 
 To promote the repairability of ICT equipment, sellers should include a Service Manual with instructions on how to repair the equipment. The TCO Ecolabel includes standards of what information should be included on these manuals. If ICT equipment is designed in a way that facilitates the replaceability of its components, it will not only help to extend use life, but it will also increase the equipment’s recyclability.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) include a **list of the components that should be replaceable in different types of ICT equipment,** what criteria can be used to evaluate their replaceability, and the instructions given to do so.
 {% endcallout %}
 
@@ -104,7 +104,7 @@ One of the variables that can be captured from a supplier, is whether there is p
 
 Suppliers should monitor labor rights through a publicly accessible Code of Conduct or Supplier Policy.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 **According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
 
 - [ ] ILO’s eight core conventions: 29, 87, 98, 100, 105, 111, 138 and 182.
@@ -118,7 +118,7 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 **Introducing responsible supply-chain criteria in the procurement process:**

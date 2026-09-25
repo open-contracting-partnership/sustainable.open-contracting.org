@@ -2,10 +2,10 @@
 permalink: /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante
 title: Lista de chequeo rápido – Evalúe su entorno habilitante
 description: Quick checklist
-icon: /assets/images/Tick_green_2.png
+icon: /assets/images/Tick_green_2.svg
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit](/).
 {% endcallout %}
 
@@ -39,7 +39,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 - [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Lista de chequeo rápido-comparte su sendero hacia el cumplimiento](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento)).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 **Download this checklist:**
 
 {% pdf /assets/files/enabling-environment-checklist.pdf Enabling environment checklist %}

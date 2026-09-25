@@ -3,14 +3,14 @@ permalink: /datos-abiertos-y-progreso-de-medicin
 title: Datos abiertos y progreso de medición
 description: "A lo largo del conjunto de herramientas, hemos explicado la importancia de los datos abiertos y de alta calidad para impulsar la implementación de SPP y medir los resultados de sostenibilidad. Primero presentamos esta idea al comienzo del conjunto de herramientas y la desarrollamos más en las siguientes secciones, particularmente cuando presentamos un Marco de Medición y Evaluación (M&E) de muestra en la sección uno. Este marco de M&E propuesto está estructurado en torno a cinco objetivos y proporciona indicadores de seguimiento de muestra para facilitar la presentación de informes y la medición del progreso con respecto a los objetivos de sostenibilidad."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green.png
+icon: /assets/images/Icons_Light_Green.svg
 full_width: true
 notion_id: "986379e92481403ea249850f4438d6bd"
 sidebar: true
 ---
 A lo largo del conjunto de herramientas, hemos explicado la importancia de los datos abiertos y de alta calidad para impulsar la implementación de SPP y medir los resultados de sostenibilidad. Primero presentamos esta idea al comienzo del conjunto de herramientas y la desarrollamos más en las siguientes secciones, particularmente cuando presentamos un Marco de Medición y Evaluación (M&E) de muestra en la sección uno. Este marco de M&E propuesto está estructurado en torno a cinco objetivos y proporciona indicadores de seguimiento de muestra para facilitar la presentación de informes y la medición del progreso con respecto a los objetivos de sostenibilidad.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 **En esta sección, presentamos una inmersión más profunda en las opciones disponibles para recopilar los datos que necesita para medir el progreso en relación con sus objetivos.**
 Como se puede ver en el diagrama a continuación, primero presentamos un conjunto de consideraciones y opciones generales de recopilación de datos sobre cómo usar los datos para medir el progreso en diferentes objetivos. Luego, convertimos los cinco objetivos del marco de M&E en cinco ejemplos prácticos de cómo usar datos abiertos para medir el progreso en: (1) adopción de CPS, (2) reducción de carbono, (3) inclusión de género, (4) desarrollo económico, y (5) promover el costeo del ciclo de vida.
 {% endcallout %}
@@ -43,7 +43,7 @@ The baseline year is the moment when the data will begin to be collected and key
 
 There are different methods to collecting and analyzing data and these will vary depending on the sustainability goals you are trying to measure progress against. It will also depend on accessible technical resources and capabilities. We have identified three different types of environments: no code, low code, and code. Click through to learn more:
 
-{% callout yellow /assets/images/Icons_Light_Green6.png %}
+{% callout yellow /assets/images/Icons_Light_Green6.svg %}
 Click through to learn more about these three environments:
 
 {% page /datos-abiertos-y-progreso-de-medicin/no-code-low-code-code %}
@@ -51,7 +51,7 @@ Click through to learn more about these three environments:
 
 {% endtoggle %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Tal como explicamos en la introducción de este conjunto de herramientas, los datos abiertos de alta calidad son cruciales para impulsar y medir el progreso al implementar SPP. Para abordar las bases de datos clave, recomendamos consultar nuestra [guía Banderas Verdes (*Green Flags*)](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) y el [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).
 {% endcallout %}
 
@@ -60,18 +60,18 @@ Tal como explicamos en la introducción de este conjunto de herramientas, los da
 
 - title: Opciones para el uso de datos
   link: /opciones-para-el-uso-de-datos
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Adopción de CPS
   link: /adopcin-de-cps
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Reducción de carbono
   link: /reduccin-de-carbono
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Gender inclusion
   link: /inclusin-de-gnero
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 - title: Life cycle costing
   link: /costeo-del-ciclo-de-vida
-  icon: /assets/images/Icons_Light_Green2.png
+  icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
 {% enddatabase %}

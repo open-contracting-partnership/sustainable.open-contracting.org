@@ -3,14 +3,14 @@ permalink: /la-rduction-des-missions-de-carbone
 title: La réduction des émissions de carbone
 description: Les gouvernements et les entreprises définissent des échéances pour atteindre un niveau d’émission neutre. Les marchés publics peuvent servir de levier pour accélérer cette transition en promouvant des solutions émettant peu de carbone dans les chaînes d’approvisionnement des gouvernements.
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"
 sidebar: true
 ---
 # Exemple : évaluer la réduction des émissions de carbone
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Dans cette section, nous expliquons comment utiliser les données pour évaluer et suivre les progrès concernant la réalisation de l’objectif de promotion de la réduction des émissions de carbone par l’entremise des marchés publics.
 {% endcallout %}
 
@@ -28,15 +28,15 @@ La réduction des émissions de carbone est au cœur de la lutte contre les chan
 
 La publication de données de qualité relatives aux émissions de carbone a de multiples effets positifs en vue de la réduction des émissions de carbone :
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Les données peuvent être utilisées pour planifier et mettre en place une action immédiate et directe visant à réduire les émissions de carbone attribuables aux marchés publics.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Il est possible de récompenser les fournisseurs qui s’engagent à réduire l’intensité en carbone de leurs biens, travaux, services et chaînes d’approvisionnement.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 La publication et l’analyse de données de qualité permettront d’apprendre et de regrouper des connaissances sur les politiques et processus qui contribuent à la réduction de l’intensité en carbone des marchés publics. Vous ne pouvez pas gérer ce que vous ne pouvez pas mesurer.
 {% endcallout %}
 
@@ -49,16 +49,16 @@ Les priorités immédiates concernant la réduction des émissions de carbone co
 
 - title: How to estimate carbon values?
   link: /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Benchmarking carbon procurements
   link: /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to gather the data you need?
   link: /la-rduction-des-missions-de-carbone/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /la-rduction-des-missions-de-carbone/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

@@ -3,7 +3,7 @@ permalink: /supervise-la-implementacin
 title: Supervise la implementación
 description: "Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.  "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: a50801a104c9467c965b7bf99b78334f
 sidebar: true
@@ -12,11 +12,11 @@ sidebar: true
 
 Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar para monitorear el cumplimiento de los criterios de sostenibilidad durante la implementación del contrato**. El establecimiento de estos mecanismos **es esencial para garantizar que se cumpla el propósito de introducir criterios de sostenibilidad y recopilar los datos necesarios para medir el progreso en relación con los** objetivos más amplios que se han establecido como parte de la estrategia de CPS Abierta.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.**
 
 Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción.
@@ -65,11 +65,11 @@ Otra forma importante de recopilar los datos necesarios para monitorear el desem
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Para obtener más ejemplos de cómo monitorear la implementación en contratos de categorías de contrataciones específicas, consulte las secciones sobre construcción y contrataciones de ICT.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Recursos**
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
@@ -77,7 +77,7 @@ Para obtener más ejemplos de cómo monitorear la implementación en contratos d
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **Con el establecimiento del sistema de contrataciones electrónicas ProZorro en Ucrania en 2016, *Transparency International* Ucrania estableció una red de monitores de adquisiciones de la sociedad civil, llamada [DoZorro](https://www.open-contracting.org/es/2020/10/20/como-se-crea-una-red-ciudadana-para-combatir-la-corrupcion-preguntale-a-un-equipo-revolucionario-en-ucrania/)**. En tres años, esto había aumentado a dos docenas de organizaciones, y más de 2 millones de personas habían visitado el sitio web.

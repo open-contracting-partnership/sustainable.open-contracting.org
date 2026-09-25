@@ -3,14 +3,14 @@ permalink: /carbon-reduction
 title: Carbon reduction
 description: Governments and companies are setting deadlines for achieving zero emissions. Public procurement can be used as a lever to drive change by promoting lower carbon alternatives into government supply chains.
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
 sidebar: true
 ---
 # Worked example: Measuring carbon reduction
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 In this section we explain how you can use data to measure and monitor progress against the goal of promoting carbon reduction through procurement.
 {% endcallout %}
 
@@ -28,11 +28,11 @@ Carbon emissions reduction is at the center of the fight against climate change.
 
 Publishing good data on carbon emissions has multiple positive effects for those seeking to address their carbon emissions:
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Use the data to plan and implement immediate, direct action to reduce carbon emissions from procurement.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Publication and analysis of good data will unlock learning and iteration on what policies and processes work to reduce carbon intensity. You can’t manage what you can’t measure.
 {% endcallout %}
 
@@ -45,16 +45,16 @@ The immediate priorities for carbon reduction include carbon outputs and other g
 
 - title: How to estimate carbon values?
   link: /carbon-reduction/how-to-estimate-carbon-values
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Benchmarking carbon procurements
   link: /carbon-reduction/benchmarking-carbon-procurements
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to gather the data you need?
   link: /carbon-reduction/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /carbon-reduction/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 
@@ -120,6 +120,6 @@ Some of these are more complicated than others. Even if you don’t have a relia
 
 Through insights gained from the data, buyers can use this to mandate carbon reductions in procurement, while suppliers can use the data to improve their own supply chains and working practices in an effort to reduce emissions.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Reward suppliers that are committed to reducing carbon intensity in their goods, works, services and supply chain.
 {% endcallout %}

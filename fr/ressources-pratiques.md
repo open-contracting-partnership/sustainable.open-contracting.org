@@ -8,7 +8,7 @@ full_width: true
 notion_id: "4c20445a515f4093b87882059e6d89b0"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
 

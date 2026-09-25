@@ -3,7 +3,7 @@ permalink: /choisir-une-mthode-de-passation-de-marchs
 title: Choisir une méthode de passation de marchés
 description: "La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 *Pour adopter des pratiques durables de passation de marchés, il est intéressant de diviser les projets dans des phases d’essai et de reproduction à grande échelle. Cela peut être particulièrement utile pour tester des hypothèses risquées et incertaines. Durant la phase d’essai, une stratégie claire de collecte de données doit être mise en œuvre et les données collectées guideront la phase de reproduction à grande échelle.*
 {% endcallout %}
 
@@ -50,7 +50,7 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (*« Results-Driven Contracting »*) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
 {% endcallout %}
 
@@ -81,7 +81,7 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 
 {% endtoggle %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 *Un questionnaire de présélection est une liste de questions visant à évaluer la capacité d’une entreprise à répondre aux exigences d’un marché.*
 {% endcallout %}
 
@@ -123,21 +123,21 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 
 {% endtoggle %}
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **Dans ce guide pratique, nous fournissons des orientations concernant l’utilisation de** [cadres](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements) [catalogues](/des-mcanismes-dassistance) et registres pour mettre en place des marchés publics durables. Au moment de choisir votre approche des marchés publics, vous devez déterminer si des outils de ce type existent (par exemple des catalogues de fournisseurs respectant certaines normes environnementales) et peuvent être exploités pour faciliter la sélection de fournisseurs plus responsables.
 {% endcallout %}
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 *Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur [la construction](/la-construction-en-anglais) et les [technologies de l’information et des communications](/le-secteur-tic-en-anglais)*.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Ressources**
 
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.

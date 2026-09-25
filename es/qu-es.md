@@ -3,7 +3,7 @@ permalink: /qu-es
 title: "¿Qué es?"
 description: "La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: beneficios económicos, sociales y ambientales."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Blue_Intro2.png
+icon: /assets/images/Icons_Blue_Intro2.svg
 full_width: true
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
 sidebar: true
@@ -18,7 +18,7 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
 
 **CPS Abierta** agrega un enfoque de gobierno abierto y de datos abiertos a CPS para mejorar su adopción e impacto. Esto incluye un enfoque de **gobierno abierto** para incluir a las partes interesadas en la planificación y entrega de mejores compras, y el uso de **datos abiertos** para desbloquear, compartir y analizar qué se compra, para quién y con qué resultados e impactos de CPS. Ambos enfoques fueron temas claros con los que las partes interesadas del gobierno querían ayudar.
 
-{% callout blue /assets/images/Icons_Blue_Intro6.png %}
+{% callout blue /assets/images/Icons_Blue_Intro6.svg %}
 Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:
 
 - La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
@@ -35,43 +35,43 @@ La apertura es un cambio de mentalidad, que abarca datos de contratación abiert
 
 {% image /assets/images/7_Open_SPP_fr.png 5753 3240 align-start %}
 
-{% callout default /assets/images/7_areas_open_SPP.png %}
+{% callout default /assets/images/7_areas_open_SPP.svg %}
 **Comunicando sus políticas y enfoques CPS**
 {% endcallout %}
 
 CPS Abierta significa divulgar claramente sus políticas y su enfoque para impulsar la sostenibilidad y cómo cumple con los marcos y políticas legales internacionales, nacionales o locales que rigen sus reglas de contratación.
 
-{% callout default /assets/images/7_areas_open_SPP2.png %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
 **Comunicando por qué ha priorizado ciertas categorías de gastos**
 {% endcallout %}
 
 CPS Abierta significa compartir el proceso que lo ha llevado a usted a priorizar ciertas categorías de contrataciones o proyectos a medida que enfoca sus esfuerzos de CPS.
 
-{% callout default /assets/images/7_areas_open_SPP3.png %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
 **Usando y justificando claramente criterios de sostenibilidad**
 {% endcallout %}
 
 CPS Abierta implica comunicar claramente qué criterios de sostenibilidad se utilizarán para seleccionar a los proveedores, cómo se evaluarán frente a estos criterios y las razones detrás de estas decisiones.
 
-{% callout default /assets/images/7_areas_open_SPP4.png %}
+{% callout default /assets/images/7_areas_open_SPP4.svg %}
 **Manteniendo registros efectivos de proveedores bases de datos de contratos y reportando mecanismos.**
 {% endcallout %}
 
 CPS Abierta incluye la creación de registros de proveedores efectivos, bases de datos de contratos y mecanismos de informes que rastrean la implementación de los objetivos de CPS y respaldan el monitoreo proactivo y la retroalimentación sobre las contrataciones.
 
-{% callout default /assets/images/7_areas_open_SPP5.png %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
 **Proporcionando canales claros para retroalimentación del usuario y del ciudadano**
 {% endcallout %}
 
 CPS Abierta se caracteriza por establecer canales claros de participación y retroalimentación de proveedores, organizaciones de la sociedad civil y ciudadanos. Esto es especialmente valioso en la planificación de qué comprar, especialmente si se trata de tecnología innovadora o implicará impactos de comunidades específicas, así como en el seguimiento de la ejecución de contratos para verificar que hayan cumplido con sus resultados ambientales y sociales.
 
-{% callout default /assets/images/7_areas_open_SPP6.png %}
+{% callout default /assets/images/7_areas_open_SPP6.svg %}
 **Reportando abiertamente el impacto contrato por contrato**
 {% endcallout %}
 
 CPS Abierta se basa en medir y comunicar claramente el impacto de las prácticas de SPP contrato por contrato, utilizando métricas adecuadas.
 
-{% callout default /assets/images/7_areas_open_SPP7.png %}
+{% callout default /assets/images/7_areas_open_SPP7.svg %}
 **Usando datos de reporte para mejorar y escalar CPS**
 {% endcallout %}
 
@@ -83,7 +83,7 @@ Para cumplir con estas siete dimensiones de la apertura, los datos de alta calid
 
 Ya hemos compilado [una guía](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) que explora cómo los datos abiertos sobre adquisiciones pueden ayudarlo a impulsar CPS y recomienda los primeros pasos en su travesía de datos abiertos.
 
-{% callout blue /assets/images/Icons_Blue_Intro5.png %}
+{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
 **Uso de “banderas ecológicas” en datos de contratación pública**
 
 [Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/). Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible

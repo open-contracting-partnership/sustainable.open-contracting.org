@@ -2,10 +2,10 @@
 permalink: /monitoreo-y-evaluacin/ejemplo-de-marco-me
 title: "Ejemplo de Marco M&E"
 description: "The M&E framework includes the following section:"
-icon: /assets/images/icons_D_Green3.png
+icon: /assets/images/icons_D_Green3.svg
 notion_id: "0847a7f0e8ed4d8faa83afee27b6f438"
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<br>
 **This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP.**
 

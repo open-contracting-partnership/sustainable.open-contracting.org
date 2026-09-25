@@ -3,7 +3,7 @@ permalink: /sector-de-la-construccin-en-ingls/establezca-el-marco-de-trabajo
 title: Establezca el marco de trabajo
 description: "When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the enabling framework, it can be useful to identify, or consider establishing, the following compliance sources:"
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "9a8add811fd54a6ab147060d7c8ac03e"
 sidebar: true
@@ -26,7 +26,7 @@ For example, certain areas might be especially concerned with pollution levels, 
 
 Many countries have specific design codes for infrastructure projects, some have started to introduce specific “green” standards. Identifying these standards will help guide tender specifications regarding aspects such as energy efficiency.
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In 2019, **Rwanda created a [minimum compliance system](https://gggi.org/wp-content/uploads/2019/07/Annex-3-Rwanda-Green-Building-Minimum-Compliance-System-REVISED.pdf) for the construction of new buildings to promote energy and water efficiency, environmental protection, better Indoor Environmental Quality and green innovation.** These type of systems can help to guide decisions on what criteria should be introduced in construction projects.
 {% endcallout %}
 
@@ -72,11 +72,11 @@ The following accreditations are given to a construction project once it has bee
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 Green construction accreditations cover many aspects of construction projects, **for an overview of some of the key sustainability factors, and how they can be measured during a construction project**, see [the next section](/sector-de-la-construccin-en-ingls/seleccione-sus-datos).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 **Master planning guidance:**
@@ -99,7 +99,7 @@ Green construction accreditations cover many aspects of construction projects, *
   The Global Ecolabelling Network provides information on what Type I ecolabels include standards for products in the construction sector.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **Completed in 2017, the [design of the Ghana Ridge Hospital](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) was the first project in Africa to receive LEED accreditation.**

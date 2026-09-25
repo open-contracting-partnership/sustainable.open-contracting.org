@@ -3,7 +3,7 @@ permalink: /valuer-les-besoins-rels
 title: Évaluer les besoins réels
 description: "Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pas de trouver le moyen d’opter pour la solution la plus durable, vous devrez également vous assurer qu’un besoin réel existe concernant les biens, services ou travaux que vous prévoyez d’acquérir. Parfois, il se peut que l’option la plus durable soit de ne rien acheter. Afin d’éviter les achats superflus et d’assurer l’adéquation de l’objet du marché, il est essentiel d’évaluer les besoins avant de lancer un appel d’offres."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: e5cfb6fe384a4c9ea8e7bea503cb65d4
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pas de trouver le moyen d’opter pour la solution la plus durable, vous devrez également vous assurer qu’un besoin réel existe concernant les biens, services ou travaux que vous prévoyez d’acquérir. Parfois, il se peut que l’option la plus durable soit de ne rien acheter. Afin d’éviter les achats superflus et d’assurer l’adéquation de l’objet du marché, il est essentiel d’évaluer les besoins avant de lancer un appel d’offres.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 *Dans cette section, nous présentons les principales informations que vous devez réunir pour recenser fidèlement les besoins réels et garantir la mise en place de marchés plus ouverts et durables.*
 {% endcallout %}
 
@@ -63,7 +63,7 @@ Communiquer le processus d’évaluation des besoins est un aspect essentiel des
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 L’organisme central de passation de marchés de l’Italie, [CONSIP](http://www.consip.it/), a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.
@@ -105,7 +105,7 @@ Le fait de formuler les besoins des bénéficiaires sous la forme de résultats 
 
 Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dresser un exposé des besoins. Cet exposé doit inclure des informations concernant les besoins recensés et les possibilités d’achat envisagées.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le** [module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) de la Commission européenne fournit les informations suivantes :
 
 « Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
@@ -119,14 +119,14 @@ Le Département étudiera les propositions concernant la location d’écrans da
 
 L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](/interagir-avec-le-march). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](/priorits) et s’il existe des [objectifs et cibles pertinents](/suivi-et-valuation) que vous devez prendre en compte durant le processus de passation des marchés publics.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Ressources**
 
 - [Commission européenne, *GPP Training Toolkit*, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.

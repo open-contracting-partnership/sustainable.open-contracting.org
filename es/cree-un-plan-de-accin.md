@@ -3,7 +3,7 @@ permalink: /cree-un-plan-de-accin
 title: Cree un plan de acción
 description: "A lo largo del conjunto de herramientas hemos examinado algunos de los enfoques clave que usted puede adoptar al considerar la implementación de CPS Abierta. Hemos demostrado cómo se puede evaluar el entorno actual habilitante, como asignar prioridades en contratación, y cómo fijar las metas específicas de CPS eficazmente, con el fin de poder hacer monitoreo del progreso logrado, y lo que usted puede hacer para fortalecer capacidades e incrementar y facilitar su implementación."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "06ed7cdc0c4d4698a5d97b7ce4ebd964"
 sidebar: true
@@ -16,7 +16,7 @@ En cada una de estas sesiones hemos explicado la importancia de una comunicació
 
 Al tener un plan de acción CPS usted va a poder comunicar el marco actual para la implementación de CPS a los responsables de contratación, qué es lo que significa para ellos, y qué acciones se tomarán para la adaptación posterior de este marco.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 En esta sección ofrecemos unos ejemplos de cómo se puede utilizar su plan de acción CPS para **comunicar los pasos que ha tomado para la evaluación y establecimiento de un exitoso marco para la implementación de CPS**. Esto puede servir de referencia para que los responsables de la contratación entiendan qué cumple y qué no cumple y al mismo tiempo **garantizar la estandarización, rendimiento de cuentas, y continuidad si miras a los cambios eventuales en el liderazgo institucional.**
 {% endcallout %}
 
@@ -39,7 +39,7 @@ La comunicación del resultado de este ejercicio en su Plan de Acción es una op
 - **Leyes, políticas y planes pertinentes**, y la manera en que pueden ser interpretados para la implementación de CPS. Esto incluye la referenciación de las normas actuales en relación con los criterios de evaluación, y cualesquiera reglamentos habilitadores de CPS existentes.
 - **Cambios o ajustes que habría que adoptar con el fin de aumentar el alcance de implementación.** Esto puede incluir, por ejemplo, la figura de [contratos reservados o metas](/establezca-un-entorno-habilitante/metas-y-contratos-reservados) para ciertos tipos de empresas como PyMES; o la definición de un [umbral de contratación](/establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes) para facilitar la implementación de CPS Abierta.
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 En 2017 Argentina **desarrolló su [Plan de Acción Nacional de Compras Públicas Sustentables](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf), el cual incluye en sus páginas 7 a 12 una visión general del subyacente contexto internacional y nacional de su habilitación**. En primer lugar, el Plan introduce el contexto internacional, enfatizando el compromiso de Argentina con las Metas de Desarrollo Sostenible de Naciones Unidas, y las colaboraciones entre el gobierno de Argentina y el PNUMA en relación con la implementación de CPS.
@@ -56,7 +56,7 @@ En la sección Priorice, explicamos cómo dicha determinación puede ser útil t
 - **Categorías de contratación que han sido calificadas como o prioritarias,** lo mismo que la divulgación transparente de las razones que condujeron a esa calificación.
 - **Orientación en relación con criterios de sostenibilidad que pueden ser utilizados para cada una de las áreas prioritarias**. Este elemento puede incluir orientación en relación con las normas, eco etiquetas o requisitos de sostenibilidad - tales como eficiencia energética – y puede ser incluido en los documentos de licitación. Además podría incluir información en relación con la ubicación de esta información, y la inclusión de cualquier plan que tenga de desarrollo de criterios estandarizados a nivel nacional, regional o local.
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2021, Irlanda publicó su Plan [de Acción de Contratación Pública Verde](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/). El Plan asigna prioridad a ocho categorías de contratación de productos o servicios**, e incluye la construcción, energía, transporte, alimentos, y servicios de abastecimiento, productos y servicios de aseo , papel, uniformes y otros textiles y TIC.
@@ -82,11 +82,11 @@ Para una orientación más detallado, ver la sección sobre monitoreo y evaluaci
 
 En la sección. Cree apoyo y capacidades propusimos algunos mecanismos operacionales que se pueden adoptar para facilitar y habilitar la implementación. Estos elementos podrán contemplar, por ejemplo, la creación de catálogos específicos de proveedores sostenibles, y actividades diseñadas para fortalecer capacidades entre los responsables de contratación pública, y los proveedores locales.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 **Su Plan de Acción debe incluir los mecanismos ya establecidos, y plantear un plan con actividades que se realizarán para seguir desarrollándolos en el futuro**.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2021 la Ciudad del Cabo, Sudáfrica, publicó su** [Plan de Acción de Contratación Ecológica](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan)
@@ -106,7 +106,7 @@ Al tiempo que usted presenta los enfoques seleccionados para CPS, es importante 
 
 La implementación de CPS Abierta normalmente involucra a varias entidades institucionales a nivel nacional, que frecuentemente incluye el Ministerio de Medio Entorno, y cualesquiera Autoridades Nacionales de Contratación Pública pertinentes. El Plan de Acción debe hace claridad en la asignación de **responsabilidades y rendición de cuentas entre las agencias del gobierno (de demás partes interesadas del caso**).
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2016 Ecuador público su primer** [Plan de Acción Nacional para la implementación de Compras Públicas Sostenibles](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). En las páginas 20 a 22 el Plan incluyó información en relación con una estructura de gobernanza que ha sido implementada para asignar responsabilidades en relación con CPS. La autoridad máxima es el Servicio Nacional de Contratación Pública (SERCOP), con el apoyo del Ministerio de Entorno. Estos de las entidades recibirían además el apoyo de un grupo de trabajo que incluye otros ministerios, tales como el Ministerio de Inclusión Económica y Social (MIES) y el Ministerio de Agricultura, Ganadería, Acuacultura y Pesca (MAGAP).
@@ -120,7 +120,7 @@ La implementación de CPS Abierta normalmente involucra a varias entidades insti
 
 Muchas de las actividades asociadas con la implementación de CPS Abierta necesitarán la financiación del gobierno para ponerlos en práctica. El Plan de Acción debe compartir abiertamente los costos **financieros estimados asociados con la implementación de las actividades que se requieren para desarrollar los mecanismos de apoyo y fortalecimiento de capacidades, lo mismo que para el monitoreo y comunicación de resultados.**
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Estudio de caso**
 
 **En 2021, el País Vasco en España publicó el** [Programa De Compra Y Contratación Verde De Euskadi](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years). El programa es una continuación de los planes de acción anteriores publicadas entre 2011 y 2016, y en esta ocasión incluyó una hoja de ruta para 20:30. El plan presenta 10 líneas de acción que se implementarán entre 2021 y 2030. **La página 36 ofrece una visión clara del presupuesto asignado a cada línea de acción, cuyo valor total es de €1.590.000 en los próximos 10 años.**
@@ -150,11 +150,11 @@ Asimismo, los criterios ambientales recomendados para su inclusión en procesos 
 
 {% endtoggle %}
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Recuerde siempre que la **meta final es tener prácticas de contratación sostenibles** que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Recursos**
 
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).

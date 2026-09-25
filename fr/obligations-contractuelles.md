@@ -3,7 +3,7 @@ permalink: /obligations-contractuelles
 title: Obligations contractuelles
 description: "Une fois que des critères de durabilité ont été clairement établis, il convient de les traduire en obligations contractuelles. Cela suppose de définir les modalités de suivi de l’exécution des marchés et les conséquences en cas de manquement à ces obligations. Afin d’élaborer des clauses contractuelles pertinentes, ces décisions doivent faire l’objet de discussions ouvertes et d’une concertation entre l’entité adjudicatrice et les fournisseurs concernés. Cette section présente plusieurs aspects essentiels concernant l’élaboration de clauses contractuelles efficaces."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Une fois que des critères de durabilité ont été clairement établis, il convient de les traduire en obligations contractuelles. Cela suppose de définir les modalités de suivi de l’exécution des marchés et les conséquences en cas de manquement à ces obligations. Afin d’élaborer des clauses contractuelles pertinentes, ces décisions doivent faire l’objet de discussions ouvertes et d’une concertation entre l’entité adjudicatrice et les fournisseurs concernés. Cette section présente plusieurs aspects essentiels concernant l’élaboration de clauses contractuelles efficaces.
 
-{% callout red /assets/images/Icons_Red8.png %}
+{% callout red /assets/images/Icons_Red8.svg %}
 L’interaction avec les fournisseurs et la discussion ouverte concernant les obligations et matière de durabilité déboucheront sur des clauses contractuelles plus efficaces qui amélioreront les effets positifs du marché et réduiront au maximum les risques de manquement. Toutefois, ce processus doit également être utilisé pour assurer que les conditions du marché dans son ensemble sont facilement compréhensibles et que les responsabilités essentielles sont comprises par toutes les parties prenantes.
 {% endcallout %}
 
@@ -52,7 +52,7 @@ Il peut être difficile d’appliquer certaines clauses au-delà des entités av
 
 L’un des principaux défis concernant les clauses de durabilité intégrées aux marchés publics est qu’elles sont souvent employées d’une façon normalisée et ne sont pas adaptées à l’objet du marché, au contexte local ou aux capacités du fournisseur. Par exemple, certaines petites et moyennes entreprises n’ont pas toujours les ressources pour réaliser certaines activités de suivi ou participer à des discussions intersectorielles. Les clauses contractuelles faisant abstraction du contexte peuvent créer des contraintes excessives pour les fournisseurs, excluant les plus petites entreprises et générant des difficultés à respecter les obligations.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 Bien que la normalisation des clauses de durabilité puisse faciliter la mise en place de marchés publics durables, vous avez intérêt à assurer que ces clauses prennent en compte des facteurs tels que la taille du fournisseur et les risques en matière de durabilité les plus pertinents dans chaque secteur. Il est important d’assurer une répartition équitable des responsabilités, comme le coût des activités de suivi, afin que la pression ne pèse pas exclusivement sur les fournisseurs, en particulier si vous recherchez des changements durables de comportement.
 {% endcallout %}
 
@@ -72,7 +72,7 @@ Comme présenté dans la [section précédente](/des-critres-de-durabilit), le c
 
 L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité de prestation et un bon rapport qualité-prix tout au long du cycle de vie d’un marché. Il peut être utile de définir l’amélioration continue comme une condition pour la reconduction d’un contrat ou le renouvellement de l’achat. Enfin, vous pouvez étudier la possibilité de prévoir des incitations financières supplémentaires pour récompenser ce comportement.
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Ressources**
 
 - [EcoVadis et Affectio Mutandi, *Le contrat et les clauses RSE, leviers incontournables de vigilance*, 2018.](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)

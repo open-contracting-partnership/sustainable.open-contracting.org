@@ -3,7 +3,7 @@ permalink: /mise-en-place
 title: Mise en place
 description: Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: e04c4d5f89b14bf0b064b4893eb79e82
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 *Dans cette section, nous expliquons comment les acheteurs publics peuvent mettre en place des marchés publics durables dans différents contextes. Vous trouverez une liste de vérification permettant d’analyser la législation et les politiques relatifs aux critères applicables aux marchés publics durables. Nous abordons également la divulgation de ces éléments aux parties prenantes concernées, une étape essentielle pour créer un rapport de confiance et favoriser la bonne mise en place de marchés publics durables. Vous trouverez également des conseils sur la traduction de ces aspects en actions concrètes à la fin de cette section.*
 {% endcallout %}
 
@@ -60,7 +60,7 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 *En Amérique latine et en Afrique en particulier, les principes de passation des marchés publics figurent souvent dans la constitution et sont parfois décrits comme des principes qui « régissent les activités des organismes publics » ou « l’utilisation des fonds publics ». Le recensement de ces principes et l’étude des conditions dans lesquels ils ont été définis peuvent guider vos décisions concernant les éléments que vous prendrez en compte au moment de comparer les offres durant le processus de passation de marchés.*
 {% endcallout %}
 
@@ -73,15 +73,15 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 
 - title: Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution
   link: /mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Accords-cadres
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Objectifs spécifiques et marchés réservés
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Seuils et secteurs soumis à une réglementation distincte
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 - title: Interaction ouverte avec les acteurs du marché et dialogue compétitif
-  icon: /assets/images/icons_D_Green3.png
+  icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

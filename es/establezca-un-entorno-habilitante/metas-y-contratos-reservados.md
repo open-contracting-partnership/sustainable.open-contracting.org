@@ -3,7 +3,7 @@ permalink: /establezca-un-entorno-habilitante/metas-y-contratos-reservados
 title: Metas y contratos reservados
 description: "Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green3.png
+icon: /assets/images/icons_D_Green3.svg
 full_width: true
 notion_id: "4b9d33e0df7d4788ac18b1190380efba"
 sidebar: true
@@ -32,11 +32,11 @@ However, if done in a compliant way, reserving contracts can be extremely powerf
 
 As above, it is key to openly communicate any reserving policy as widely as possible, including why an authority has adopted this policy. It is then also important to publish data about these initiatives, including any ‘spill-over’ effects on contracts that have not been reserved (for instance, how reserving some below threshold contracts for minority-owned businesses may have an impact for procurement outcomes more generally).
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 Despite the establishing reserved contracts and targets, these opportunities  When reserving contracts or establishing targets, it is important to develop a strategy to **effectively promote the uptake of this opportunity.** This can include sharing the information through relevant communication channels, and collaborating with Civil Society Organisations (CSOs) that can support with outreach and capacity building activities.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **In the Dominican Republic Micro, Small and Medium-sized enterprises (MSMEs) represent 38.6% of the GDP and 54.5% of the overall employment.** In 2012, a national policy was launched to support MSMEs, and the promotion of these companies was one of the three main objectives of the 2013, and 2016 National Multi-annual Public Sector Plans.
 
 As part of this policy, a series of legal instruments were created. This includes [Law No. 488-08](https://www.dgcp.gob.do/new_dgcp/documentos/fomen/Ley-488-08%20-%20MIPYMEs.pdf), which establishes that 1**5% of all goods and services must be procured from MSMEs, and obliges 20% of this percentage to be from women-led MSMEs**. [Decree 543-12](https://www.dgcp.gob.do/new_dgcp/documentos/politicas_normas_y_procedimientos/leyes_y_decretos/reglamento_no_543_12_de_aplicacion_de_la_ley_no_340_06.pdf) establishes that procuring agencies **set aside 20% of procurement budget for procurement from MSMEs.** This Decree also establishes that these institutions are allowed to receive partial offers from MSMEs through the remaining 80%.

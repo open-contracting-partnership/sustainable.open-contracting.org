@@ -3,12 +3,12 @@ permalink: /plan
 title: Plan
 description: "In this section, we provide you with all the information you need to get started. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy. \n\nAs you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green.png
+icon: /assets/images/icons_D_Green.svg
 full_width: true
 notion_id: c4a7ba01568045ab92402b9b0b5d6dfa
 sidebar: true
 ---
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 In this section, **we provide you with all the information you need to get started**. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy.
 
 As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started.
@@ -21,18 +21,18 @@ As you can see on the diagram below, we have created five subsections to meet th
 
 - title: Establish an enabling environment
   link: /establish-an-enabling-environment
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Prioritize
   link: /prioritize
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: "Monitoring & evaluation"
   link: /monitoring-evaluation
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Build support and capabilities
   link: /build-support-and-capabilities
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 - title: Create an Action Plan
   link: /create-an-action-plan
-  icon: /assets/images/icons_D_Green2.png
+  icon: /assets/images/icons_D_Green2.svg
 {% endgallery %}
 {% enddatabase %}

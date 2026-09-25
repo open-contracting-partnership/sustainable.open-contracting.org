@@ -3,7 +3,7 @@ permalink: /engage-with-the-market
 title: Engage with the market
 description: "Engaging with the supplier market is important for all procurement processes. However, it becomes especially relevant in the context of SPP. Engagement practices can be simple, such as communicating the intention of launching a tender through an advert, or more complex, such as organizing supplier workshops and events."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Red2.png
+icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: da6e7862daf74f5ab2c320d4ac476574
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 Engaging with the supplier market is important for all procurement processes. However, it becomes especially relevant in the context of SPP. Engagement practices can be simple, such as communicating the intention of launching a tender through an advert, or more complex, such as organizing supplier workshops and events.
 
-{% callout red /assets/images/Pin_Red.png %}
+{% callout red /assets/images/Pin_Red.svg %}
 **In this section, we provide** information regarding the importance of engaging with the market, **and guidance on the different ways market engagement can be carried out at the different stages of the Open SPP process.**
 {% endcallout %}
 
@@ -33,7 +33,7 @@ Market engagement practices in the context of Open SPP implementation are normal
 
   Sometimes, decisions regarding the structure of certain procurement processes, or the inclusion of specific sustainability criteria, may make it difficult for certain suppliers to participate, or contradict existing market practices. Gathering feedback from suppliers can help to correct this, ensuring that procurement processes are planned in a way to maximize the chances of selecting the best available solution.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 **A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is [Mexico’s City Ecobici bike sharing system](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city).** For more information on how open market engagement approaches can help drive SPP **see [this report](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) published by The Chicago Council on Global Affairs.**
 {% endcallout %}
 
@@ -52,7 +52,7 @@ Market engagement activities can be applied throughout the different steps of de
 - **Engaging with priority Open SPP groups,** such as SMEs, women-owned, or minority-owned businesses, to understand the barriers that they might face when accessing public procurement opportunities. To understand these barriers, it can also be useful to engage with civil society and nonprofit organizations. Insights gathered can be used to design more accessible SPP approaches.
 - **Communicating your pipeline of projects** will allow different suppliers to better understand your long-term needs, and potential sustainability requirements. This will allow them to better prepare to respond to contract opportunities as they emerge. Doing this can be particularly helpful to widen participation amongst SMEs, who tend to have fewer procurement resources.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 **Engaging with the supplier market** when designing your first SPP Action Plan is **essential to share and communicate a major strategy change, take suppliers on the journey with you, and understand what is feasible.**
 {% endcallout %}
 
@@ -66,7 +66,7 @@ Market engagement activities carried out during the planning phase of a procurem
 - **Assessing service model delivery options.**
 - **Beginning to engage around selection criteria,** gathering an understanding of what criteria could be introduced during procurement to ensure the selection of the best possible solution. One way to do this is by publishing a Request for Information (RFI) to gather insights from potential suppliers.
 
-{% callout red /assets/images/Idea_Red.png %}
+{% callout red /assets/images/Idea_Red.svg %}
 One way in which you can engage with the market during the planning phase is by **organizing events with suppliers to present their sustainability objectives.** These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to **discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.**
 
 Note that sustainability work in the private sector is often divided in these three ESG areas, instead of the [three pillars of sustainable development](/what-is-open-spp) (economic, social, and environmental).
@@ -93,14 +93,14 @@ Once it has been decided to issue a tender, there are different methods that can
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 After ten years of operation, **Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.** The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.

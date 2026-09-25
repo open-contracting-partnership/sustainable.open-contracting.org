@@ -3,14 +3,14 @@ permalink: /adopcin-de-cps
 title: Adopción de CPS
 description: "Medir los niveles de adopción de CPS consiste en saber en qué medida los compradores públicos confían en la contratación pública sostenible, ya sea durante el proceso de contratación o después del hecho para permitir la identificación clara de la contratación social, ambiental o económica dentro de la licitación y la contratación."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Light_Green2.png
+icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "639b93b8abde4b02b97b87d03f26947b"
 sidebar: true
 ---
 # Ejemplo resuelto: Medición de adopción de CPS
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 En esta sección, explicamos cómo usted puede usar los datos para medir y monitorear el progreso con respecto al objetivo de promover la adopción de CPS.
 {% endcallout %}
 
@@ -24,15 +24,15 @@ Los departamentos gubernamentales de todo el mundo están iniciando políticas y
 
 ## Beneficios
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Permite a los gobiernos demostrar que las nuevas políticas tienen un efecto significativo en las compras.
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Muestra claramente a los proveedores que la compra sostenible es un compromiso a largo plazo que deben reconocer (y comparar su propio desempeño).
 {% endcallout %}
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 Vincula la política con la contratación a través de un ciclo de retroalimentación que permite medir los objetivos de la política.
 {% endcallout %}
 
@@ -51,16 +51,16 @@ Una vez que esto se ha establecido claramente, puede medir y registrar la acepta
 
 - title: Cómo registrar CPS en contratación pública
   link: /adopcin-de-cps/cmo-registrar-cps-en-contratacin-pblica
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Opciones de medición
   link: /adopcin-de-cps/opciones-de-medicin
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Cómo medir la aceptación de CPS
   link: /adopcin-de-cps/cmo-medir-la-aceptacin-de-cps
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Análisis e informe de datos
   link: /adopcin-de-cps/anlisis-e-informe-de-datos
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
 {% enddatabase %}
 

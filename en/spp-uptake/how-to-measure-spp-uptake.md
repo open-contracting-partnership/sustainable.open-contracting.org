@@ -2,7 +2,7 @@
 permalink: /spp-uptake/how-to-measure-spp-uptake
 title: How to measure SPP uptake
 description: "With clarity around SPP metrics, a long term view can be adopted to tie into targets set by policy and legislation. This can mean that tags are counted against the body of procurement documents and measured over time. So an example SPP procurement might be:"
-icon: /assets/images/Icons_Light_Green3.png
+icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "967e6acfe65041d3a9080d5ae7a6a6be"
 ---
 With clarity around SPP metrics, a long term view can be adopted to tie into targets set by policy and legislation. This can mean that tags are counted against the body of procurement documents and measured over time. So an example SPP procurement might be:

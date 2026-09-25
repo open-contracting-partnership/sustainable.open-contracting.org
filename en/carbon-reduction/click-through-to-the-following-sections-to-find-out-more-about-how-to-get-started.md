@@ -9,14 +9,14 @@ notion_id: "8ffca3499a5048268ad8275f6562c40f"
 
 - title: How to estimate carbon values?
   link: /carbon-reduction/how-to-estimate-carbon-values
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Benchmarking carbon procurements
   link: /carbon-reduction/benchmarking-carbon-procurements
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: How to gather the data you need?
   link: /carbon-reduction/how-to-gather-the-data-you-need
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 - title: Analyzing and reporting data
   link: /carbon-reduction/analyzing-and-reporting-data
-  icon: /assets/images/Icons_Light_Green3.png
+  icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}

@@ -3,7 +3,7 @@ permalink: /des-mcanismes-dassistance
 title: Des mécanismes d’assistance
 description: "À ce stade de la planification de votre stratégie de mise en place de marchés publics durables, vous connaissez déjà les possibilités offertes par votre environnement habilitant, vous avez choisi les domaines d’action prioritaires et vous avez défini vos objectifs. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "7f0e4773d6354fa680272a6066201c35"
 sidebar: true
@@ -14,7 +14,7 @@ sidebar: true
 
 Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place de marchés publics durables suppose une transformation fondamentale des pratiques d’achat. Étant donné que cette transformation peut générer des difficultés pour les fonctionnaires responsables de la passation de marchés, les pouvoirs publics doivent examiner ce qui est en leur pouvoir pour renforcer les capacités.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**
 {% endcallout %}
 
@@ -26,7 +26,7 @@ Comme souligné au début de ce guide, les gouvernements devront modifier fondam
 
 Le changement sera radical par rapport à l’approche traditionnelle faisant l’objet de moins de réflexions et axée sur la conformité, ce qui être source d’inconfort, mais pour conclure un marché, il faut être deux. L’ouverture de vos processus de la commande publique et la recherche d’un large éventail de parties prenantes pour guider vos stratégies de passation de marchés renforceront la compétitivité et augmenteront vos chances de créer des liens avec les fournisseurs offrant les solutions les plus adaptées à vos besoins. De la même manière, vous collecterez des renseignements sur le marché, les bonnes pratiques et celles à éviter.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 L’interaction ne doit pas être un événement exceptionnel, vous devez planifier les moments adéquats et les plus propices au dialogue avec la société civile et le secteur privé durant tout le cycle de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics. **La règle d’or : interagir tôt et souvent. Si vous ne concevez pas vos marchés pour l’inclusion et l’interaction dès le début du processus, vous ne pourrez plus y revenir.**
 {% endcallout %}
 
@@ -59,7 +59,7 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 - Ces organisations peuvent également apporter des connaissances et analyses supplémentaires et ainsi aider à relier des données provenant de plusieurs disciplines pour produire de nouvelles connaissances. En Inde, le laboratoire de recherche CivicDataLab a conçu un modèle de données combinant trois jeux de données volumineux afin de suivre les investissements réalisés en faveur de l’assistance, de l’intervention d’urgence et de la préparation concernant les inondations dans le but d’évaluer dans quelle mesure ces investissements contribuent à la résilience climatique ou répondent aux besoins humanitaires les plus urgents. Ce laboratoire a exploité des données satellitaires et météorologiques pour évaluer l’exposition aux inondations d’une zone spécifique, des données socio-économiques pour comprendre le degré de vulnérabilité de la population résidant dans les zones à risque d’inondation et des données budgétaires concernant par exemple des marchés antérieurs pour analyser l’action des gouvernements à la suite d’inondations par le passé et les régions où des interventions urgentes seront nécessaires à l’avenir.
 - De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés](/suivi-de-lexcution). Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles sur le [site d’Open Contracting Partnership](https://www.open-contracting.org/implement/#engage)
 {% endcallout %}
 
@@ -69,7 +69,7 @@ D’autres exemples et ressources traitant de l’interaction avec les parties p
 
 Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](/priorits), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](/guide-des-co-tiquettes) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](/des-critres-de-durabilit).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 L’[outil](https://sftool.gov/greenprocurement) « [Green Procurement Compilation](https://sftool.gov/greenprocurement) » de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
 {% endcallout %}
 
@@ -81,7 +81,7 @@ Les fournisseurs présents dans ces catalogues et registres peuvent être sélec
 
 Pour en savoir plus sur la création de registres de fournisseurs responsables à partir des données relatives à la commande publique, consultez [la possibilité 9 dans la troisième partie](/possibilits-dutilisation-des-donnes).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 Le [panier vert](http://gp.pcd.go.th/cat-1-ssl) de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le [registre national de l’agriculture familiale](https://faolex.fao.org/docs/pdf/par178418.pdf) a contribué à [faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) auprès d’entreprises familiales. Nous pouvons également citer l’exemple de [l’accord-cadre sur les biens et services nécessaires en situation de crise](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==) du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.
 {% endcallout %}
 
@@ -89,11 +89,11 @@ Le [panier vert](http://gp.pcd.go.th/cat-1-ssl) de la Thaïlande est un bon exem
 
 La transformation des processus de la commande publique afin de prendre en compte des considérations sur la durabilité peut être difficile pour les membres des services de passation de marchés. Au même titre que l’établissement de critères de durabilité normalisés ou la création de registres ou catalogues de fournisseurs, un service d’assistance doit être mis en place afin de fournir une aide pratique et concrète ou des conseils aux professionnels et professionnelles, ce dans l’objectif de faciliter le processus de passation de marchés. Par exemple, la fourniture d’un service de révision du dossier d’appels d’offres peut rassurer le personnel des services de passation de marchés sur le fait que les critères d’attribution sont formulés de façon adéquate.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 Ce service d’assistance, comme les autres mécanismes d’assistance conçus en vue de la mise en place de marchés publics durables et ouverts, peut être rendu facilement accessible par la création d’un centre d’information regroupant toutes les ressources disponibles. À titre d’exemple, le [Centre de compétences sur les marchés publics durables (KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) met à disposition des informations concernant la législation, la réglementation, les orientations et des exemples provenant des administrations fédérale, étatique et locale. Le KNB possède également un service d’assistance depuis lequel il fournit une aide sur mesure par téléphone et par courriel.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [Administration des services généraux des États-Unis, *Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
@@ -102,7 +102,7 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 - [IHOBE, *Criterios ambientales*, 2022.](https://www.ihobe.eus/criterios-ambientales)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Étude de cas**
 
 En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp), un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.

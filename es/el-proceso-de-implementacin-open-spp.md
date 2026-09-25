@@ -9,24 +9,24 @@ notion_id: "9c163ecbb0d540cfae796f11074f5c07"
 
 - title: Introduction
   link: /introduccin
-  icon: /assets/images/Icons_Blue_Intro.png
+  icon: /assets/images/Icons_Blue_Intro.svg
   cover: /assets/images/PUBLIC_SPP_covers.png
 - title: Plan
   link: /plan
-  icon: /assets/images/icons_D_Green.png
+  icon: /assets/images/icons_D_Green.svg
   cover: "/assets/images/PUBLIC_SPP_covers2-1.png"
 - title: Implement
   link: /implemencin
-  icon: /assets/images/Icons_Red.png
+  icon: /assets/images/Icons_Red.svg
   cover: /assets/images/PUBLIC_SPP_notion_cover.png
 - title: "Open data & measuring progress"
   link: /datos-abiertos-y-progreso-de-medicin
-  icon: /assets/images/Icons_Light_Green.png
+  icon: /assets/images/Icons_Light_Green.svg
   cover: "/assets/images/PUBLIC_SPP_covers4-1.png"
   cover_position: 6.48
 - title: Sector guidance
   link: /gua-del-sector
-  icon: /assets/images/Icons_Grey.png
+  icon: /assets/images/Icons_Grey.svg
   cover: /assets/images/PUBLIC_SPP_covers6.png
   cover_position: 89.84
 {% endgallery %}

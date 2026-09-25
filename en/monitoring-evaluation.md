@@ -3,7 +3,7 @@ permalink: /monitoring-evaluation
 title: "Monitoring & evaluation"
 description: "In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. This framework includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/icons_D_Green2.png
+icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: "210ea7c43360477487736dca15ff5003"
 sidebar: true
@@ -12,7 +12,7 @@ sidebar: true
 
 In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. [This framework](/monitoring-evaluation/sample-me-framework) includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
-{% callout green /assets/images/icons_D_Green8.png %}
+{% callout green /assets/images/icons_D_Green8.svg %}
 It’s important to realize that not everything in this sample framework will be relevant to every Open SPP project, so **you will need to decide which goals, outcomes, and indicators are most relevant to your context.** We provide an [editable template of the sample framework](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) in the [downloadable tools section](/downloadable-tools).
 {% endcallout %}
 
@@ -24,7 +24,7 @@ The sample [M&E framework](/monitoring-evaluation/sample-me-framework) is struct
 
 Goals are high-level sustainability objectives that guide Open SPP implementation. Goals should reflect national, regional, local, or organizational priorities. This toolkit includes a selection of five sample goals: **Reducing carbon emissions**, **Promoting gender inclusion**, **Driving socio-economic development**, **Promoting SPP uptake**, and **Promoting life cycle costing approaches**. Each of these corresponds to one of the worked examples presented in [section three](/open-data-measuring-progress).
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 One of the five goals we have included in our worked examples in section three is **Reducing carbon emissions.** As public procurement is responsible for 15% of the world’s CO2 emissions, and reaching net zero in 2050 has been set as a target by many governments, setting this as a key goal can be an effective way to monitor progress in this area.
 {% endcallout %}
 
@@ -34,7 +34,7 @@ One of the five goals we have included in our worked examples in section three i
 
 Outcomes are the expected intermediate changes from implementing Open SPP practices. Each goal has certain outcomes associated with it, which together contribute to the ultimate sustainability goal.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 As you can see in the sample [M&E framework](/monitoring-evaluation/sample-me-framework), four outcomes have been aligned with the goal of **Reducing carbon emissions**. These outcomes are: **Promoting low carbon practices in public contracts**, **Reducing carbon value associated with public contracts**, **Promoting low carbon suppliers**, and **Reducing the purchase of carbon intensive products**.
 {% endcallout %}
 
@@ -44,7 +44,7 @@ As you can see in the sample [M&E framework](/monitoring-evaluation/sample-me-fr
 
 Indicators are the metrics needed to measure progress against outcomes. Each indicator has different units of measurement, such as number of contracts, hours of training, quantities of products purchased, or value of contracts. For each indicator, you should collect data to determine current baselines, set a target to be achieved within a specific period, and track your progress along the way.
 
-{% callout green /assets/images/icons_D_Green6.png %}
+{% callout green /assets/images/icons_D_Green6.svg %}
 If a public authority decides to select “Reducing carbon value associated with public contracts” as an outcome, they might decide to measure this by capturing the “Tonnes of CO2 associated with public contracts”. This will be calculated by multiplying the CO2 estimates of the goods purchased, by the amount of units purchased. For additional guidance for measuring progress, see the [full worked example in section three](/carbon-reduction).
 {% endcallout %}
 
@@ -56,7 +56,7 @@ The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides 
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
-{% callout green /assets/images/Pin_green.png %}
+{% callout green /assets/images/Pin_green.svg %}
 **More examples of goals, outcomes and indicators; how to create them; and how to measure them:**
 
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
@@ -64,13 +64,13 @@ The structure presented on the table above can be used within your organization 
 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.svg %}
 **Deep dive into five specific Open SPP worked examples:**
 
 {% page /open-data-measuring-progress %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 - [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
@@ -79,7 +79,7 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 - [European Commission. 2022. EU GPP Criteria.](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **Case Study**
 
 **In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.”

@@ -4,12 +4,12 @@ title: Engaging citizens to monitor public projects in Peru
 description: " "
 cover: /assets/images/LAC_-_Peru.png
 cover_position: 53.12
-icon: /assets/images/Notion-others2.png
+icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: "9fcf501ffb744defa2fff84fd0ab9ffe"
 sidebar: true
 ---
-{% callout gray /assets/images/Notion-others2.png %}
+{% callout gray /assets/images/Notion-others2.svg %}
 **In 2018, The Office of the Comptroller General of the Republic of Peru launched a programme to engage citizens in the process of identifying situations of non-compliance in public works.** This program is called [Monitores Ciudadanos de Control (Citizen Oversight Monitors Program)](https://controlsocial.contraloria.gob.pe/monitoresciudadanos/).
 
 **The program offers volunteer citizens a course through which they become accredited to carry out monitoring activities.** Monitoring activities include assessing the [information that the government publishes regarding the procurement of public works](https://appbp.contraloria.gob.pe/BuscadorCGR/Informes/Inicio.html?utm_source=controlsociall&utm_medium=otroservicio&utm_campaign=controlsociall), and visiting building sites to ensure compliance with contract conditions. Volunteers can then report cases of non-compliance through [a government portal](https://denunciaweb.contraloria.gob.pe/SAD_WEB/#/AtencionDenuncias?utm_source=controlsociall&utm_medium=homepestana&utm_campaign=formulariodenuncias). This open government mechanism has made it possible to respond to the population’s key complaints, including: corruption in the execution of works, access to public information, outdated public information systems, and the lack of transparency in relation to the use of public funds.

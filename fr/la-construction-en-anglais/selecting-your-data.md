@@ -3,12 +3,12 @@ permalink: /la-construction-en-anglais/selecting-your-data
 title: Selecting your data
 description: "Material use "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Icons_Grey6.png
+icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "4a543c3e201643e9b8d49438022b5ec1"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, we identify which are the **key sustainability variables that can be captured in a construction project.** For each variable, we also provide guidance on **how you can use these variables to introduce sustainability criteria in the procurement process.** As we introduced earlier in the toolkit, this will mainly depend on market capability.
 {% endcallout %}
 
@@ -34,7 +34,7 @@ The quantity of more sustainable material use should be captured. Sustainable ma
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In a tender process, you can **establish the use of materials with certain sustainability standards essential criteria**.
 
 Another option is to include these variables as part of award criteria, **granting the highest score to those projects which, measured in kilograms (or tonnes) use the least amount of materials, reuse the highest amount of available materials, or use the highest amount of sustainable materials.**
@@ -54,7 +54,7 @@ The total vehicle use can be captured during the project. This data will normall
 
 The emission standards of the vehicles used during the project should be captured. The European Emission Standards can help as guidance. Despite being European, these standards have been used by UNEP to evaluate vehicle emissions in [LAC](https://www.unep.org/resources/report/latin-america-and-carribbean-vehicle-emission-standards) and [Africa](https://www.unep.org/resources/report/africa-vehicle-emission-standards), and West Africa has used these standards to develop their [new vehicle emissions regulation](https://www.unep.org/news-and-stories/story/west-african-ministers-adopt-cleaner-fuels-and-vehicles-standards).
 
-{% callout gray /assets/images/Icons_Grey3.png %}
+{% callout gray /assets/images/Icons_Grey3.svg %}
 The following emission standards are those established by Euro 3, the most widely used in LAC and Africa:
 
 - **Petrol:** CO: 2.3G/km; THC:0.20g/km; NOx: 0.15 g/km/
@@ -71,7 +71,7 @@ Grouping shipments, sourcing local materials, and using more sustainable modes o
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In a tender process, **complying with Euro 3 emission standards can be set as a technical specification** for all vehicles involved in the project. To encourage improvement, using vehicles that comply with Euro 4, or 5, can be set as award criteria.
 {% endcallout %}
 
@@ -93,7 +93,7 @@ Minimizing waste generation will help to lower the environmental impact of the c
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In a tender process, one of the technical specifications set as essential criteria for bidders can be to **divert a specific % of generated waste from landfill.** For further specification, a target % of recycled, or reused, waste can also be set.
 {% endcallout %}
 
@@ -113,11 +113,11 @@ Data regarding the employees that will be involved during the project can be col
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey9.png %}
+{% callout gray /assets/images/Icons_Grey9.svg %}
 In a tender process, the selection of local companies, SMEs, or women-owned companies can be favored if there are certain [targets](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) that underpin this decision.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.png %}
+{% callout gray /assets/images/Notion-others.svg %}
 **Resources**
 
 **Including construction sustainability criteria in tender documents:**
