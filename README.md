@@ -41,7 +41,7 @@ The `deploy.yml` workflow builds the sites with `JEKYLL_ENV=production` and, on 
 | sostenibilidad.open-contracting.org | `publish-es` |
 | achatdurable.open-contracting.org | `publish-fr` |
 
-Each project has no build command or output directory, and no preview deployments (its other branches are this repository's source). The workflows set the Ruby and Node versions.
+Each project has no build command or output directory, and no preview deployments (its other branches are this repository's source). `_headers` sets the Content-Security-Policy and HSTS, as on the organization's other Cloudflare Pages sites. The policy allows Pagefind's WebAssembly and worker, Notion's inline styles, Google Analytics (whose snippet is `assets/js/analytics.js`, not inline), and the PDFs' frames. To try it locally, after a build: `wrangler pages dev _site/en`. The workflows set the Ruby and Node versions.
 
 ## Pages
 
