@@ -273,12 +273,13 @@ module NotionTags
     end
 
     def render(context)
-      title = %(<span class="notion-semantic-string">#{NotionTags.inline(context, @title)}</span>)
-      context.registers[:database_title] = NotionTags.inline(context, @title).gsub(/<[^>]*>/, "")
+      title = NotionTags.inline(context, @title)
+      context.registers[:database_title] = title
       views = super.strip
       context.registers.delete(:database_title)
       %(<div class="notion-collection inline"><div class="notion-collection__header-wrapper">) +
-        %(<h3 class="notion-collection__header">#{title}</h3></div>#{views}</div>)
+        %(<h3 class="notion-collection__header"><span class="notion-semantic-string">#{title}</span></h3></div>) +
+        %(#{views}</div>)
     end
   end
 

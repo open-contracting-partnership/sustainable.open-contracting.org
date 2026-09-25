@@ -13,7 +13,7 @@ from pathlib import Path
 class Handler(http.server.SimpleHTTPRequestHandler):
     def send_head(self):
         path = self.path.split("?", 1)[0].split("#", 1)[0]
-        local = Path(self.directory) / path.strip("/")
+        local = Path(self.translate_path(path))
         # A page with subpages is both path.html and a directory, and the page takes precedence.
         if path != "/" and local.with_name(local.name + ".html").is_file():
             self.path = path.rstrip("/") + ".html"
