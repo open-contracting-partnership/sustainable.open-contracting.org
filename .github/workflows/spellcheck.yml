@@ -1,0 +1,11 @@
+name: Spell-check
+on: [push, pull_request]
+jobs:
+  spellcheck:
+    uses: open-contracting/.github/.github/workflows/spellcheck.yml@main
+    permissions:
+      contents: read
+    with:
+      ignore: sme
+      # codespell checks English, not the Spanish and French sites.
+      skip: es,fr,sidebar-es.html,sidebar-fr.html,Gemfile.lock
