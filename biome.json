@@ -1,0 +1,24 @@
+{
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git",
+    "useIgnoreFile": true,
+    "defaultBranch": "main"
+  },
+  "files": {
+    "includes": [
+      "**",
+      "!**/*.html",
+      "!**/*.svg",
+      "!assets/css/next.css",
+      "!assets/css/notion.css",
+      "!assets/css/static.css",
+      "!assets/css/super.css",
+      "!assets/css/theme-*.css"
+    ]
+  },
+  "formatter": {
+    "indentStyle": "space",
+    "lineWidth": 119
+  }
+}

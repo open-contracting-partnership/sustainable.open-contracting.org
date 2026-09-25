@@ -41,13 +41,21 @@ if (search) {
   const icon = (result) => {
     if (!result.meta.icon) return template(".notion-icon__page");
     const img = document.createElement("img");
-    Object.assign(img, { alt: result.meta.title, width: 20, height: 20, className: "notion-icon", src: result.meta.icon });
+    Object.assign(img, {
+      alt: result.meta.title,
+      width: 20,
+      height: 20,
+      className: "notion-icon",
+      src: result.meta.icon,
+    });
     img.style.cssText = "object-fit:contain;object-position:center";
     return img;
   };
 
   const render = () => {
-    box.querySelectorAll(":scope > :not(.notion-search__input)").forEach((element) => element.remove());
+    box.querySelectorAll(":scope > :not(.notion-search__input)").forEach((element) => {
+      element.remove();
+    });
     if (!input.value.trim()) return;
     if (!results.length) {
       box.append(template(".notion-search__empty-state"));

@@ -1,5 +1,6 @@
 /* Spacing between blocks, in place of Notion's empty paragraphs. */
-.notion-root :is(
+.notion-root
+:is(
   .notion-text__content,
   .notion-bulleted-list,
   .notion-numbered-list,
