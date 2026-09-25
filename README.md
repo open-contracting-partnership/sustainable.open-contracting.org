@@ -90,7 +90,7 @@ Blocks indented under the paragraph, which can be empty.
 {% endindent %}
 ```
 
-A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. If a callout's text is empty, its other blocks follow a blank line. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
+A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
 
 Links to pages (with the page's icon and title), images and PDFs are also tags:
 
@@ -176,7 +176,7 @@ uv run scripts/check_links.py
 uv run scripts/check_markup.py
 ```
 
-To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The callout on `en/carbon-reduction.md` whose text is empty has comments that disable the rule against consecutive blank lines, since the first blank line is its text.
+To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented.
 
 `scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, and non-breaking spaces at the end of a line or block.
 

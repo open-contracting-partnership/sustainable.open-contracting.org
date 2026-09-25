@@ -33,10 +33,6 @@ Use the data to plan and implement immediate, direct action to reduce carbon emi
 {% endcallout %}
 
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
-
-{% endcallout %}
-
-{% callout yellow /assets/images/Icons_Light_Green5.png %}
 Publication and analysis of good data will unlock learning and iteration on what policies and processes work to reduce carbon intensity. You can’t manage what you can’t measure.
 {% endcallout %}
 
@@ -124,10 +120,6 @@ Some of these are more complicated than others. Even if you don’t have a relia
 
 Through insights gained from the data, buyers can use this to mandate carbon reductions in procurement, while suppliers can use the data to improve their own supply chains and working practices in an effort to reduce emissions.
 
-<!-- pyml disable no-multiple-blanks -->
 {% callout yellow /assets/images/Icons_Light_Green5.png %}
-
-
 Reward suppliers that are committed to reducing carbon intensity in their goods, works, services and supply chain.
 {% endcallout %}
-<!-- pyml enable no-multiple-blanks -->
