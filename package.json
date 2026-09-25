@@ -4,6 +4,6 @@
   "packageManager": "pnpm@11.9.0",
   "devDependencies": {
     "pa11y-ci": "^4.1.1",
-    "puppeteer": "^25.11.0"
+    "puppeteer": "^24.43.1"
   }
 }
