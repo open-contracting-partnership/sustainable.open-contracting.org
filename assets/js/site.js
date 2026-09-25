@@ -203,3 +203,17 @@ if (breadcrumb) {
   new ResizeObserver(fit).observe(breadcrumb);
   document.fonts.ready.then(fit);
 }
+
+// The sidebar's menu on phones: close it on Escape or a click outside it.
+const sidebarMenu = document.querySelector(".sidebar-menu");
+if (sidebarMenu) {
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && sidebarMenu.open) {
+      sidebarMenu.open = false;
+      sidebarMenu.querySelector("summary").focus();
+    }
+  });
+  document.addEventListener("click", (event) => {
+    if (sidebarMenu.open && !sidebarMenu.contains(event.target)) sidebarMenu.open = false;
+  });
+}

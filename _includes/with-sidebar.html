@@ -1,7 +1,10 @@
-{%- comment -%} The sidebar and the page's content, in columns. site.sidebar_width is the sidebar's fraction of the width. {%- endcomment -%}
+{%- comment -%} The sidebar and the page's content, in columns. site.sidebar_width is the sidebar's fraction of the width. On phones, the sidebar is a menu, opened by its summary. {%- endcomment -%}
 {%- assign content_width = 1 | minus: site.sidebar_width -%}
 <div class="notion-column-list">
-<div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ site.sidebar_width }})" data-pagefind-ignore="all">{% include sidebar-{{ site.lang }}.html %}</div>
+<div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ site.sidebar_width }})" data-pagefind-ignore="all"><details class="sidebar-menu">
+<summary class="notion-navbar__button sidebar-menu__button"><svg class="sidebar-menu__open" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg><svg class="sidebar-menu__close" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg><span class="sidebar-menu__label">{{ site.sidebar_label | escape }}</span></summary>
+{% include sidebar-{{ site.lang }}.html %}
+</details></div>
 <div class="notion-column" style="width:calc((100% - var(--column-spacing)) * {{ content_width }});margin-inline-start:var(--column-spacing)">
 {{ include.content }}
 </div>
