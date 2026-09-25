@@ -17,9 +17,10 @@ bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.ym
 
 Each build writes to `_site/<lang>/`. Google Analytics is included only when `JEKYLL_ENV=production`.
 
-Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. `scripts/build.sh` builds a site and its index:
+Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. `scripts/build.sh` builds a site, its stylesheet and its index, after installing the Node packages:
 
 ```bash
+pnpm install
 scripts/build.sh en  # or es, fr
 ```
 
@@ -211,7 +212,7 @@ uv run --group screenshots scripts/screenshots.py compare before after
 
 ### Stylesheets and scripts
 
-The stylesheets in `assets/css/` (except `fonts.css`, `site.css` and `theme-*.css`) are Super.so's own. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons, breadcrumbs that collapse into a menu when they don't fit and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
+The stylesheets in `assets/css/` (except `fonts.css`, `main.css`, `site.css` and `theme-*.css`) are Super.so's own. `main.css` imports them all, with the site's theme, so `jekyll serve` works as is. `scripts/build.sh` then bundles it with [esbuild](https://esbuild.github.io) (`build.mjs`, as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/javascript/index.html#build-js)), removing the rules that the built pages and scripts don't use with [PurgeCSS](https://purgecss.com), and adding vendor prefixes with Autoprefixer. With `NODE_ENV=production`, as in CI, it minifies the bundle; otherwise, it writes a sourcemap. A class that only a script adds must appear in the script's source, as the ones in `site.js` do. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons, breadcrumbs that collapse into a menu when they don't fit, and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
 
 ## History
 

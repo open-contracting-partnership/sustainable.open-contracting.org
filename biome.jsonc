@@ -10,8 +10,9 @@
       "**",
       // Jekyll's templates and includes, whose Liquid Biome can't parse.
       "!**/*.html",
+      // Jekyll's front matter, which Biome can't parse.
+      "!assets/css/main.css",
       // Super.so's stylesheets, which are copied as is.
-      "!assets/css/next.css",
       "!assets/css/notion.css",
       "!assets/css/static.css",
       "!assets/css/super.css",

@@ -3,7 +3,13 @@
   "private": true,
   "packageManager": "pnpm@11.9.0",
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^8.0.0",
+    "autoprefixer": "^10.6.1",
+    "browserslist": "^4.29.0",
+    "esbuild": "^0.28.2",
+    "esbuild-plugin-browserslist": "^4.0.0",
     "pa11y-ci": "^4.1.1",
+    "postcss": "^8.5.28",
     "puppeteer": "^24.43.1"
   }
 }
