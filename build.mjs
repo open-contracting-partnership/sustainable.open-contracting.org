@@ -46,13 +46,11 @@ const options = {
   ],
 };
 
-// The stylesheets that main.css imports.
-const imported = (await readdir(directory)).filter((name) => name.endsWith(".css") && name !== "main.css");
-
 await esbuild.build(options);
 
-for (const name of imported) {
-  await rm(join(directory, name));
+// The stylesheets that main.css imports.
+for (const name of await readdir(directory)) {
+  if (name.endsWith(".css") && name !== "main.css") await rm(join(directory, name));
 }
 // esbuild copies the fonts that the stylesheets use, with content hashes.
 await rm(join(site, "assets", "fonts"), { recursive: true });
