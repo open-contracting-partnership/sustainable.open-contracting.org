@@ -178,7 +178,7 @@ uv run scripts/check_markup.py
 
 To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The callout on `en/carbon-reduction.md` whose text is empty has comments that disable the rule against consecutive blank lines, since the first blank line is its text.
 
-`scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), and bold or italics without words.
+`scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, and non-breaking spaces at the end of a line or block.
 
 ### Screenshots
 

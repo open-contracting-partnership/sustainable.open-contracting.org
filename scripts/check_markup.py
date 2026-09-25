@@ -9,6 +9,7 @@ Build the sites first. In each page's <article>, outside code, it reports:
 - links whose text starts or ends with a space or punctuation, which belong outside the link, unless the link is a
   whole block or sentence (like a reference in a list), or ends with an abbreviation
 - bold or italics that are empty or only punctuation
+- non-breaking spaces at the end of a block or line
 """
 
 import re
@@ -90,6 +91,13 @@ class Page(HTMLParser):
             if problem := link_problem(text, before, after):
                 self.problems.append(f"link text with {problem} at an end: {text!r}")
 
+    def end_line(self):
+        line = self.block.rsplit("\n", 1)[-1].rstrip(" \n\t")
+        if line.endswith("\xa0"):
+            self.problems.append(
+                f"non-breaking space at the end of a line: {line[-40:]!r}"
+            )
+
     def handle_starttag(self, tag, attrs):
         if tag == "article":
             self.article += 1
@@ -99,9 +107,11 @@ class Page(HTMLParser):
             return
         elif tag in BLOCKS:
             self.check("")
+            self.end_line()
             self.block = ""
         elif tag == "br":
             self.check("\n")
+            self.end_line()
             self.block += "\n"
         elif tag in {"a", "strong", "em"}:
             self.stack.append([tag, "", self.block])
@@ -113,6 +123,7 @@ class Page(HTMLParser):
             self.skip -= 1
         elif tag in BLOCKS:
             self.check("")
+            self.end_line()
             self.block = ""
         elif self.stack and self.stack[-1][0] == tag:
             tag, text, before = self.stack.pop()

@@ -104,7 +104,7 @@ Lorsque vous envisagez d’adopter des pratiques durables de passation de march�
 
 **Voici quelques exemples de grands réseaux internationaux d’échange des meilleures pratiques :**
 
-- [East African Procurement Forum](http://ppra.go.ke/eapf/) 
+- [East African Procurement Forum](http://ppra.go.ke/eapf/)
 - [ICLEI](https://iclei.org/) et [ICLEI Afrique](https://africa.iclei.org/)
 - [Réseau africain de la commande publique](https://appn-racop.org/)
 - [Inter-American Network on Government Procurement](http://ricg.org/en/home-2/)
