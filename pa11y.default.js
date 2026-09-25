@@ -55,8 +55,8 @@ const knownWarnings = [
     selectors: [".notion-pdf iframe"],
   },
   {
-    // "If this element contains a navigation section, it is recommended that it be marked up as a list." (columns and
-    // paragraphs with several links: see #28)
+    // "If this element contains a navigation section, it is recommended that it be marked up as a list." (prose paragraphs
+    // and columns with several links, which aren't lists: see #28)
     rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H48"],
     selectors: [".notion-column", "p.notion-text"],
   },
