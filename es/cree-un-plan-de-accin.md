@@ -82,7 +82,7 @@ Para una orientación más detallado, ver la sección sobre monitoreo y evaluaci
 
 En la sección. Cree apoyo y capacidades propusimos algunos mecanismos operacionales que se pueden adoptar para facilitar y habilitar la implementación. Estos elementos podrán contemplar, por ejemplo, la creación de catálogos específicos de proveedores sostenibles, y actividades diseñadas para fortalecer capacidades entre los responsables de contratación pública, y los proveedores locales.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **Su Plan de Acción debe incluir los mecanismos ya establecidos, y plantear un plan con actividades que se realizarán para seguir desarrollándolos en el futuro**.
 {% endcallout %}
 
@@ -150,7 +150,7 @@ Asimismo, los criterios ambientales recomendados para su inclusión en procesos 
 
 {% endtoggle %}
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 Recuerde siempre que la **meta final es tener prácticas de contratación sostenibles** que constituyan un elemento central de la contratación pública. Esto implica que eventualmente un Plan de Acción de CPS no será necesaria, ya que la sostenibilidad estará automáticamente integrada a cualquier plan en relación con contratación pública.
 {% endcallout %}
 

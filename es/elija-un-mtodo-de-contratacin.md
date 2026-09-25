@@ -81,7 +81,7 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - **Paso 5:** Los candidatos presentan sus ofertas finales.
 - **Paso 6:** Evalúe las ofertas y adjudique el contrato al proveedor seleccionado
 
-  {% callout red /assets/images/Icons_Red6.png %}
+  {% callout red /assets/images/Idea_Red.png %}
   Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.
   {% endcallout %}
 
@@ -140,7 +140,7 @@ Para obtener más orientación sobre los enfoques de contratación que pueden se
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
 **En 2015, Wichita, la ciudad más grande del estado de Kansas, EE. UU.,** [se propuso mejorar la calidad de los parques de la ciudad y reducir los costos](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). En ese momento, los montos de las ofertas de mantenimiento de los terrenos aumentaron un 30 por ciento con respecto al año anterior, los contratistas no cumplían con los estándares de calidad y los funcionarios de la ciudad recibían quejas sobre la altura del césped en los parques infantiles y campos de juego.

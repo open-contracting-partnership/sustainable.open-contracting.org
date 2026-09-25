@@ -36,7 +36,7 @@ As above, it is key to openly communicate any reserving policy as widely as poss
 Despite the establishing reserved contracts and targets, these opportunities  When reserving contracts or establishing targets, it is important to develop a strategy to **effectively promote the uptake of this opportunity.** This can include sharing the information through relevant communication channels, and collaborating with Civil Society Organisations (CSOs) that can support with outreach and capacity building activities.
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **In the Dominican Republic Micro, Small and Medium-sized enterprises (MSMEs) represent 38.6% of the GDP and 54.5% of the overall employment.** In 2012, a national policy was launched to support MSMEs, and the promotion of these companies was one of the three main objectives of the 2013, and 2016 National Multi-annual Public Sector Plans.
 
 As part of this policy, a series of legal instruments were created. This includes [Law No. 488-08](https://www.dgcp.gob.do/new_dgcp/documentos/fomen/Ley-488-08%20-%20MIPYMEs.pdf), which establishes that 1**5% of all goods and services must be procured from MSMEs, and obliges 20% of this percentage to be from women-led MSMEs**. [Decree 543-12](https://www.dgcp.gob.do/new_dgcp/documentos/politicas_normas_y_procedimientos/leyes_y_decretos/reglamento_no_543_12_de_aplicacion_de_la_ley_no_340_06.pdf) establishes that procuring agencies **set aside 20% of procurement budget for procurement from MSMEs.** This Decree also establishes that these institutions are allowed to receive partial offers from MSMEs through the remaining 80%.

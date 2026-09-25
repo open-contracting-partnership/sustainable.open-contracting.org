@@ -3,7 +3,7 @@ permalink: /introduction
 title: Introduction
 description: "Les préoccupations croissantes concernant les changements climatiques et la durabilité ont incité les gouvernements du monde entier à s’engager à supprimer leurs émissions de carbone, réduire la déforestation et promouvoir des chaînes d’approvisionnement respectueuses de l’environnement."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-Intro_play.png
+icon: /assets/images/Icons_Blue_Intro.png
 full_width: true
 notion_id: "39104cdff42747519f3a905ec93fb949"
 sidebar: true

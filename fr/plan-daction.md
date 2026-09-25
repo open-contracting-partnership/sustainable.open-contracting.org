@@ -90,7 +90,7 @@ Pour en savoir plus, consultez la section relative au suivi et à l’évaluatio
 
 Dans la section concernant [la mise en place de mécanismes d’assistance et de renforcement des capacités](/des-mcanismes-dassistance), nous avons présenté plusieurs mécanismes opérationnels pouvant faciliter la mise en place de marchés publics durables et le déroulement du processus de passation de marchés. Il peut s’agir, par exemple, de catalogues de fournisseurs responsables et d’activités visant à renforcer les capacités des services de passation de marchés et des fournisseurs locaux.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **Votre plan d’action doit inclure les mécanismes déjà en place et prévoir les activités qui seront mises en œuvre pour améliorer ces mécanismes.**
 {% endcallout %}
 
@@ -156,7 +156,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 
 {% endtoggle %}
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 *N’oubliez pas que l’objectif final est d’institutionnaliser les pratiques durables de passation de marchés. Si cet objectif est atteint, cela signifie qu’aucun plan d’action sur les marchés publics durables ne sera nécessaire parce que la durabilité fera alors partie intégrante de tous les plans relatifs aux marchés publics.*
 {% endcallout %}
 

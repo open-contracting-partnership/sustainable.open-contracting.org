@@ -69,7 +69,7 @@ Another important way to gather needed data to monitor performance could be by e
 For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement.
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Resources**
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
@@ -77,7 +77,7 @@ For more examples of how to monitor implementation in specific procurement categ
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Case study**
 
 **With the establishment of the ProZorro e-procurement system in Ukraine in 2016, Transparency International Ukraine established a network of civil society procurement monitors, called [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/).** Within three years this had swelled to two dozen organizations, and over 2 million people had visited the website.

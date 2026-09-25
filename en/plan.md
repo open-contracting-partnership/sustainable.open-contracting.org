@@ -3,7 +3,7 @@ permalink: /plan
 title: Plan
 description: "In this section, we provide you with all the information you need to get started. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy. \n\nAs you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-How_to.png
+icon: /assets/images/icons_D_Green.png
 full_width: true
 notion_id: c4a7ba01568045ab92402b9b0b5d6dfa
 sidebar: true

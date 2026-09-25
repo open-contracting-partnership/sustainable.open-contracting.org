@@ -3,14 +3,14 @@ permalink: /open-data-measuring-progress
 title: "Open data & measuring progress"
 description: "Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea at the start of the toolkit, and develop it further in the following sections, particularly when introducing a sample Measuring and evaluation (M&E) framework in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-Imp_3.png
+icon: /assets/images/Icons_Light_Green.png
 full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
 sidebar: true
 ---
 Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea [at the start of the toolkit](/what-is-open-spp), and develop it further in the following sections, particularly when introducing a sample [Measuring and evaluation (M&E) framework](/monitoring-evaluation) in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals.
 
-{% callout yellow /assets/images/Icons_yellow3-1.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
 **In this section, we provide a deeper dive into the options available to collect the data you need to measure progress against your goals.** As you can see on the diagram below, first, we introduce a set of general data collection considerations and options on how to use data to measure progress across different goals. Then, we turn the five goals from the M&E framework into five worked examples of how to use open data to measure progress in: (1) SPP uptake, (2) carbon reduction, (3) gender inclusion, (4) economic development, and (5) promoting life cycle costing.
 {% endcallout %}
 
@@ -52,7 +52,7 @@ Click through to learn more about these three environments:
 
 {% endtoggle %}
 
-{% callout yellow /assets/images/Icons_yellow3-1.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
 As we explain in the introduction to this toolkit, high-quality open data is crucial for driving and measuring progress when implementing SPP. **To tackle key data foundations, we recommend consulting our [Green Flags guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/), and the [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).**
 {% endcallout %}
 
@@ -76,6 +76,6 @@ As we explain in the introduction to this toolkit, high-quality open data is cru
   icon: /assets/images/Icons_Light_Green2.png
 - title: Economic Development
   link: /economic-development
-  icon: /assets/images/Icons_Light_Green2-2.png
+  icon: /assets/images/Icons_Light_Green2.png
 {% endgallery %}
 {% enddatabase %}

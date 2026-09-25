@@ -131,7 +131,7 @@ Existing sustainability policies and regulations should be used as a variable to
 
 As it has been explained at the start of this section, once it has been decided to focus Open SPP efforts in specific procurement categories, you should openly communicate the reasons that have guided the decision. This can be communicated through an [Action Plan](/create-an-action-plan), and should be referred to in contracts within the prioritized procurement categories.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **A period for reviewing prioritized procurement categories should be established.** For example, if your [Action Plan](/create-an-action-plan) is set to be reviewed on a yearly basis, this would be a good time to assess progress made against [goals and targets](/monitoring-evaluation) in selected categories, and reconsider your priority categories.
 {% endcallout %}
 
@@ -142,7 +142,7 @@ As it has been explained at the start of this section, once it has been decided 
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Case study**
 
 After the approval of its National Green Growth Strategy in 2012, **Vietnam [applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.

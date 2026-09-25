@@ -26,7 +26,7 @@ Tal como enfatizamos al comienzo de esta guía, los gobiernos tendrán que adqui
 
 Esto representa un cambio radical desde las prácticas tradicionales de cumplir requisitos fijos y reglas rígidas de contratación, y puede dar lugar a sensaciones de incomodidad: pero un mercado siempre tiene dos partes. La apertura de su proceso de contratación y la búsqueda de una amplia gama de partes interesadas para informarle sobre las estrategias de contratación constituyen una mejora de la posición competitiva, y de sus oportunidades de llegar a los vendedores que ofrezcan las mejores soluciones para sus necesidades. Además, le traerá otra visión del mercado, y de qué está funcionando y qué no.
 
-{% callout green /assets/images/icon-exclamation.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 Este relacionamiento no es una acción única, y usted debe planear los momentos mejores y más adecuados para vincular a los actores cívicos y empresariales como parte de todo el ciclo de planeación, licitación, adjudicación y entrega de los contratos públicos.
 
 **La regla de oro es: vincular temprano, vincular con frecuencia. Si usted no tiene designios para la vinculación e inclusión desde el inicio, nunca la logrará**.
@@ -62,7 +62,7 @@ El relacionamiento con las organizaciones de sociedad civil transversal a l cicl
 
 Estas organizaciones pueden monitorear la transparencia e impacto, o la implementación de CPS.
 
-{% callout green /assets/images/icon-bulb.png %}
+{% callout green /assets/images/icons_D_Green6.png %}
 Se puede ver más ejemplos y recursos para la vinculación de partes interesadas en [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage)
 {% endcallout %}
 
@@ -72,7 +72,7 @@ Se puede ver más ejemplos y recursos para la vinculación de partes interesadas
 
 Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 
-{% callout green /assets/images/icon-bulb.png %}
+{% callout green /assets/images/icons_D_Green6.png %}
 Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
 {% endcallout %}
 

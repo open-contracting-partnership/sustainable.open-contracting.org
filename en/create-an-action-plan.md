@@ -80,7 +80,7 @@ For more guidance see section on [monitoring & evaluation](/monitoring-evaluatio
 
 In the section [Build support and capabilities](/build-support-and-capabilities), we have introduced some of the operational mechanisms that can be established to facilitate and enable implementation. These can include, for example, creating specific sustainable supplier catalogs, and activities designed to build capabilities amongst public procurement practitioners, and local suppliers.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **The Action Plan should include which mechanisms have already been established, and establish a plan with activities that will be carried out to develop them further.**
 {% endcallout %}
 
@@ -148,7 +148,7 @@ Environmental criteria recommended for inclusion in public procurement processes
 
 {% endtoggle %}
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 Remember, the **ultimate goal is for sustainable procurement practices to be mainstreamed in public procurement**. This means that, eventually, an SPP Action Plan will not be needed because sustainability will be automatically embedded in any plan regarding public procurement.
 {% endcallout %}
 

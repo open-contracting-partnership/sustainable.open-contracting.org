@@ -3,7 +3,7 @@ permalink: /introduction
 title: Introduction
 description: "Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains. "
 cover: /assets/images/PUBLIC_SPP_background.jpg
-icon: /assets/images/Notion-Intro_play.png
+icon: /assets/images/Icons_Blue_Intro.png
 full_width: true
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
 sidebar: true

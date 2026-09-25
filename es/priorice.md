@@ -18,7 +18,7 @@ Las páginas 28 a 32 del [Manual CPS del Banco Mundial](https://openknowledge.wo
 En esta sección presentamos los diferentes factores que puede tener en cuenta al determinar las prioridades de categorías de contratación en la implementación de CPS.
 {% endcallout %}
 
-{% callout default /assets/images/blue-icon.png %}
+{% callout default /assets/images/7_areas_open_SPP2.png %}
 **Comunicar por qué usted ha priorizado ciertas categorías**
 
 Aunque hay muchas maneras de determinar prioridades, es realmente importante tanto vincular a las partes interesadas en el proceso, con el fin de conocer sus puntos de vista y comunicar las decisiones tomadas para que puedan ser implementadas hasta en el Plan de Acción clara que recomendamos el final de esta sección.
@@ -30,7 +30,7 @@ Aunque hay muchas maneras de determinar prioridades, es realmente importante tan
 
 El primer paso en el ejercicio de determinación de prioridades es el trabajo con las partes interesadas con el fin de establecer una lista de categorías a ser analizadas. Estas categorías se deben tomar del vocabulario oficial utilizado por los responsables de la contratación en el país, con el objeto de tener una clasificación coherente de los contratos. Al implementar CPS Abierta, y utilizando una manera estandarizada para la clasificación de categorías de contratación, no sólo es importante para buscar y analizar avisos de contratación para los proveedores y autoridades de contratación; sino también es esencial asegurar la coherencia de la implementación de las políticas y prácticas de sostenibilidad, lo mismo que la recolección de datos para propósitos de monitoreo.
 
-{% callout green /assets/images/world-icon.png %}
+{% callout green /assets/images/Globe_green.png %}
 No existe un sistema global que se haya adoptado para clasificar los categorías de contratación; y se están utilizando varios sistemas diferentes alrededor del mundo. Por ejemplo, en Europa, los [códigos CPV](https://ted.europa.eu/es/simap/cpv) están vigentes, mientras algunos países utilizan el [Código de Productos de Servicios de Naciones Unidas (UNSPSC)](https://www.unspsc.org/). Es esencial identificar el sistema de clasificación vigente, y asegurar que las prácticas de CPS Abierta estén alineadas con las categorías existentes.
 {% endcallout %}
 
@@ -131,7 +131,7 @@ Las políticas y normas de sostenibilidad vigentes deben ser utilizados como una
 
 Tal como explicamos al principio de esta sección, una vez haya decidido enfocar sus esfuerzos de CPS Abierta en categorías específicas de contratación, deberá comunicar abiertamente las razones que le llevó a esa decisión. Esta decisión puede ser divulgada por medio de un Plan de Acción, y se debe ser mencionada en los contratos dentro de las categorías de prioridad en contratación.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **Se debe establecer un plazo para la revisión de las categorías de contratación con prioridad.** Por ejemplo, si su Plan de Acción va a ser revisado anualmente, eso sería la oportunidad para evaluar el progreso logrado con referencia a sus metas y objetivos en las categorías seleccionadas, y debe revisar sus categorías de prioridad.
 {% endcallout %}
 
@@ -142,7 +142,7 @@ Tal como explicamos al principio de esta sección, una vez haya decidido enfocar
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
 Tras la aprobación de su Estrategia Nacional de Crecimiento Verde en 2012 Vietnam aplicó un una herramienta para [la determinación de prioridades](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) para su contratación pública de 2015, **con el fin de seleccionar categorías de producto en que se debía enfocar los esfuerzos** en CPS con la las ayuda de PNUMA.

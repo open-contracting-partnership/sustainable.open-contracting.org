@@ -8,7 +8,7 @@ full_width: true
 notion_id: "12b1fcd5fea44bf89173b9816e07018b"
 sidebar: true
 ---
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 In Lithuania, the Ministry of Environment is in charge of the implementation of the green procurement policy. In July, **Green Public Procurement (GPP) targets were launched, mandating that all public procurement should be green by 2023.** In order to monitor progress against this target the Ministry has taken **four steps:**
 
 - **Defining GPP (through legislation)**

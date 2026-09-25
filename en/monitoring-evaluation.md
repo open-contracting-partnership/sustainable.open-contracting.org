@@ -64,7 +64,7 @@ The structure presented on the table above can be used within your organization 
 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 
-{% callout yellow /assets/images/Icons_yellow3-1.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
 **Deep dive into five specific Open SPP worked examples:**
 
 {% page /open-data-measuring-progress %}

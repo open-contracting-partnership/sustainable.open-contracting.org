@@ -24,5 +24,5 @@ notion_id: bcd7fee021e24e40ba6d27c444f643ef
   icon: /assets/images/Icons_Light_Green2.png
 - title: Economic Development
   link: /economic-development
-  icon: /assets/images/Icons_Light_Green2-2.png
+  icon: /assets/images/Icons_Light_Green2.png
 {% endgallery %}

@@ -33,7 +33,7 @@ The following checklist has been created for national authorities to easily iden
 
 - [ ] Relevant environmental and social policies and plans that underpin the inclusion of specific sustainability criteria.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local level**, and any international frameworks that might have served as guidance.
 {% endcallout %}
 

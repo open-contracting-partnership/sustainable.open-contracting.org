@@ -33,7 +33,7 @@ Market engagement practices in the context of Open SPP implementation are normal
 
   Sometimes, decisions regarding the structure of certain procurement processes, or the inclusion of specific sustainability criteria, may make it difficult for certain suppliers to participate, or contradict existing market practices. Gathering feedback from suppliers can help to correct this, ensuring that procurement processes are planned in a way to maximize the chances of selecting the best available solution.
 
-{% callout red /assets/images/Icons_Red6.png %}
+{% callout red /assets/images/Idea_Red.png %}
 **A great example of how market engagement practices can help you to shape the procurement approach and deliver greater value is [Mexico’s City Ecobici bike sharing system](/using-open-contracting-to-procure-a-sustainable-and-user-friendly-bike-share-system-in-mexico-city).** For more information on how open market engagement approaches can help drive SPP **see [this report](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy) published by The Chicago Council on Global Affairs.**
 {% endcallout %}
 

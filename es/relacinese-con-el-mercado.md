@@ -33,7 +33,7 @@ Las prácticas de relación con el mercado en el contexto de la implementación 
 
   En ocasiones, las decisiones relativas a la estructura de determinados procesos de contratación, o la inclusión de criterios específicos de sostenibilidad, pueden dificultar la participación de determinados proveedores o contradecir las prácticas de mercado existentes. La recopilación de comentarios de los proveedores puede ayudar a corregir esto, asegurando que los procesos de contratación se planifiquen de manera que se maximicen las posibilidades de seleccionar la mejor solución disponible.
 
-{% callout red /assets/images/Icons_Red6.png %}
+{% callout red /assets/images/Idea_Red.png %}
 **Un gran ejemplo de cómo las prácticas de participación en el mercado pueden ayudarlo a dar forma al enfoque de contratación y brindar un mayor valor es el sistema de bicicletas compartidas Ecobici de la Ciudad de México.**
  Para obtener más información sobre cómo los enfoques de compromiso de mercado abierto pueden ayudar a impulsar APP, consulte este informe publicado por El Consejo de Chicago sobre Asuntos Globales*.(The Chicago Council on Global Affairs.)*
 {% endcallout %}

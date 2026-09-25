@@ -135,7 +135,7 @@ Les politiques et réglementations sur la durabilité en vigueur doivent être c
 Comme expliqué au début de cette section, une fois que vous avez décidé de concentrer vos efforts en matière de marchés publics durables ouverts sur certaines catégories, vous avez intérêt à communiquer de façon ouverte les raisons qui ont guidé vos choix. Pour cela, vous pouvez élaborer un [plan d’action](/plan-daction)
  et devez rappeler ces raisons dans les contrats relevant des catégories de marchés prioritaires.
 
-{% callout green /assets/images/Warn_green_2.png %}
+{% callout green /assets/images/icons_D_Green8.png %}
 **Une période d’examen des catégories de marchés prioritaires doit par ailleurs être définie.** Par exemple, si votre [plan d’action](/plan-daction) doit faire l’objet d’une révision annuelle, cette dernière peut être l’occasion d’évaluer les [objectifs et cibles](/suivi-et-valuation) relatifs aux catégories prioritaires et de réexaminer vos priorités.
 {% endcallout %}
 
@@ -146,7 +146,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 - [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Étude de cas**
 
 Après l’approbation de sa stratégie nationale pour une croissance verte en 2012, le **Vietnam** [a utilisé un outil de définition des achats prioritaires](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) dans le cadre des marchés publics en 2015 afin de sélectionner les catégories de produits sur lesquelles concentrer ses efforts en matière de marchés publics durables avec l’aide du PNUE.

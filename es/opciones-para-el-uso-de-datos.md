@@ -12,7 +12,7 @@ sidebar: true
 
 Hay diferentes formas en que los datos abiertos se pueden utilizar para impulsar y medir el progreso en relación con los objetivos de sostenibilidad. A continuación, incluimos diez formas diferentes en las que puede recopilar y utilizar datos para medir y monitorear la sostenibilidad en las compras.
 
-{% callout yellow /assets/images/Icons_yellow3-1.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
 Las opciones presentadas en esta sección se pueden utilizar para recopilar datos y medir el progreso en relación con los objetivos de sostenibilidad incluidos en nuestro Marco M&E de muestra y desarrollados como ejemplos prácticos en esta sección. Para cada opción, hemos incluido una guía sobre cómo se puede aplicar según su capacidad (es decir, sin código, código bajo, código). Puede acceder y descargar la tabla con todo el conjunto de opciones de uso de datos aquí:
 
 {% page /opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos %}

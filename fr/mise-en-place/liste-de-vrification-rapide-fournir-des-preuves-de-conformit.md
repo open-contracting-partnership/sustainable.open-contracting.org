@@ -2,10 +2,10 @@
 permalink: /mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit
 title: "Liste de vérification rapide : fournir des preuves de conformité"
 description: Compliance Trail Checklist
-icon: /assets/images/icons_D_Green5.png
+icon: /assets/images/Tick_green_2.png
 notion_id: d679f51442ce457abbd9dcdc1a3db291
 ---
-{% callout green /assets/images/icons_D_Green4.png %}
+{% callout green /assets/images/Pin_green.png %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/mise-en-place)
  in the [Open SPP toolkit](/).
 {% endcallout %}

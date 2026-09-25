@@ -83,7 +83,7 @@ There are different benefits of using two-stage tender processes when implementi
 - **Step 5:** Candidates submit their final tenders.
 - **Step 6:** Evaluate tenders and award the contract to the selected supplier.
 
-  {% callout red /assets/images/Icons_Red6.png %}
+  {% callout red /assets/images/Idea_Red.png %}
   A pre-qualification questionnaire (PQQ) is a list of questions that are designed to measure the suitability of a supplier to meet the requirements of a contract.
   {% endcallout %}
 
@@ -141,7 +141,7 @@ For more guidance on procurement approaches that can be useful when implementing
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Case study**
 
 **In 2015, Wichita, the largest city in the U.S. state of Kansas, [aimed to improve the quality of the city’s parks while reducing costs](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.

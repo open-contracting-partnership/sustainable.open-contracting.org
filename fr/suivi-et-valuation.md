@@ -65,7 +65,7 @@ Votre organisation peut reprendre la structure du tableau ci-dessus pour défini
 
 La définition des objectifs, des résultats et des indicateurs nécessite une bonne compréhension de ce que vous souhaitez accomplir et de la façon dont vous allez procéder. Notre modèle de cadre de suivi et d’évaluation vous aide à définir et évaluer des objectifs, résultats et indicateurs pratiques, spécifiques et évaluables.
 
-{% callout yellow /assets/images/Icons_yellow3-1.png %}
+{% callout yellow /assets/images/Icons_Light_Green5.png %}
 **Pour approfondir les cinq exemples de marchés publics durables et ouverts :**
 
 {% page /donnes-ouvertes-et-valuation-des-progrs %}

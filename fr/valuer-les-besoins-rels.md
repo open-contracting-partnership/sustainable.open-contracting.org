@@ -63,7 +63,7 @@ Communiquer le processus d’évaluation des besoins est un aspect essentiel des
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Icons_Grey4-2.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Étude de cas**
 
 L’organisme central de passation de marchés de l’Italie, [CONSIP](http://www.consip.it/), a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.

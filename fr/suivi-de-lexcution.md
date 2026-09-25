@@ -70,7 +70,7 @@ Un autre bon moyen de collecter les données nécessaires pour suivre les résul
 Pour d’autres exemples concernant les modalités de suivi de l’exécution de marchés publics spécifiques, consultez les sections relatives aux secteurs de la [**construction**](/la-construction-en-anglais) et des [**technologies de l’information et des communications**](/le-secteur-tic-en-anglais).
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Ressources**
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
@@ -78,7 +78,7 @@ Pour d’autres exemples concernant les modalités de suivi de l’exécution de
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Étude de cas**
 
 En plus de la mise en place du système de passation électronique de marchés publics ProZorro en Ukraine en 2016, l’organisation Transparency International Ukraine a créé un réseau de surveillance citoyenne des marchés publics appelé [DoZorro](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/). En trois ans, ce réseau s’est étendu à 24 organisations et plus de deux millions de personnes ont visité le site Web.

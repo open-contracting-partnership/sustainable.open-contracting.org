@@ -81,7 +81,7 @@ Ce type de processus présente de multiples avantages en ce qui concerne la mise
 
 {% endtoggle %}
 
-{% callout red /assets/images/Icons_Red6.png %}
+{% callout red /assets/images/Idea_Red.png %}
 *Un questionnaire de présélection est une liste de questions visant à évaluer la capacité d’une entreprise à répondre aux exigences d’un marché.*
 {% endcallout %}
 
@@ -137,7 +137,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Icons_Grey4.png %}
+{% callout gray /assets/images/Notion-others2.png %}
 **Étude de cas**
 
 En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.
