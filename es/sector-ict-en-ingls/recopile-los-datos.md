@@ -14,7 +14,7 @@ Once the [key sustainability variables have been identified](/sector-ict-en-ingl
 
 The information from [the previous section](/sector-ict-en-ingls/seleccione-sus-datos) will guide decisions on what criteria should be evaluated during the procurement process. To verify the compliance of suppliers with the established criteria, information gathered will include:
 
-- **Supplier Code of Conducts** or supplier policies.  
+- **Supplier Code of Conducts** or supplier policies.
 - **Service manuals** with maintenance and repairs information.
 - **Accreditation certificates** or awarded ecolabels.
 
@@ -39,5 +39,5 @@ For example, **the region of [Stockholm](https://electronicswatch.org/make-ict-f
 {% endtoggle %}
 
 {% callout gray /assets/images/Icons_Grey3.png %}
-The methods that will be used throughout the duration of the contract to collect the data should be clearly stated on the contract. Consequences and responsibilities in case of non-compliance should also be included.  
+The methods that will be used throughout the duration of the contract to collect the data should be clearly stated on the contract. Consequences and responsibilities in case of non-compliance should also be included.
 {% endcallout %}

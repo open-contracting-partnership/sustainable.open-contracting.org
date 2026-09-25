@@ -46,7 +46,7 @@ Depending on the size of the contract being considered, this research can also b
 - A profile of different types of users.
 - Information on the needs for different types of users.
 - Experience and issues found using current available services.
-- A projection of how these needs might grow and evolve.  
+- A projection of how these needs might grow and evolve.
 
 **This information will inform:**
 

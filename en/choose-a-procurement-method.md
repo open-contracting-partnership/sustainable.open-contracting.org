@@ -104,7 +104,7 @@ One of the procurement approaches that you can take within SPP implementation is
 There are different benefits of using joint procurement when implementing Open SPP, these include:
 
 - **Collectively leveraging purchasing power to achieve economies of scale.**
-- **Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.**  
+- **Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.**
 - **Standardizing and aligning sustainability practices.**
 - **Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.**
 

@@ -11,6 +11,8 @@
     md041: { enabled: false },
     // Notion's bold paragraphs.
     md036: { enabled: false },
+    // A line break is a newline, not two trailing spaces.
+    md009: { br_spaces: 0 },
     // <br> is an empty line in Notion's text. <strong> and <div> remain until #14.
     md033: { allowed_elements: "br,strong,div" },
     // Awaiting decisions in #15.

@@ -28,7 +28,7 @@ Les marchés publics durables et ouverts désignent l’adoption de pratiques re
 
 Selon [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf), la commande publique ouverte suppose la publication et l’exploitation de données ouvertes, faciles d’accès et à jour concernant la commande publique afin de faire participer la population et les entreprises dans le repérage et la résolution de problèmes. La commande publique ouverte englobe la transparence et la participation des parties prenantes tout au long du processus de passation de marchés, de la planification à l’exécution.
 
-Dans [cette section](/definition), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.  
+Dans [cette section](/definition), nous recensons sept pratiques essentielles de la mise en place de marchés publics durables et ouverts qui sont reprises tout au long de notre guide pratique. Nous explorons la façon dont les données relatives à la commande publique ouverte peuvent contribuer à la mise en place de marchés publics durables et favoriser la production de certains avantages, tels que la réduction des émissions de carbone ou le renforcement de l’égalité entre les genres.
 
 {% endtoggle %}
 

@@ -108,7 +108,7 @@ Como se presentó anteriormente, algunos marcos habilitadores solo le permitirá
 Una vez se hayan establecido los criterios de sostenibilidad, las autoridades públicas deben divulgar abiertamente cómo se verificará y controlará el cumplimiento de los mismos, y traducir claramente los requisitos de sostenibilidad en obligaciones contractuales.
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Estudio de caso**  
+**Estudio de caso**
 
 **Países Bajos implementa un sistema llamado** **[Escalera de Desempeño de CO2](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública**. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.
 
@@ -128,7 +128,7 @@ Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Estudio de caso**  
+**Estudio de caso**
 
 **En 2014, Chile realizó un estudio de investigación para evaluar cuántos contratos públicos eran empresas propiedad de hombres, versus contratos otorgados a empresas propiedad de mujeres.** Este estudio mostró que solo el 36% de los contratos públicos fueron otorgados a mujeres, y que estos representaron el 26% del valor total.
 

@@ -10,7 +10,7 @@ sidebar: true
 ---
 # **Gestión de la sostenibilidad a lo largo del contrato**
 
-Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.  
+Una vez usted haya introducido los criterios de sostenibilidad que deben cumplir los proveedores, debe decidir cómo controlará su cumplimiento. Como se presentó en la sección anterior, los detalles relacionados con el proceso deben discutirse abiertamente con el proveedor y acordarse como parte del contrato de contratación.
 
 {% callout red /assets/images/Pin_Red.png %}
 En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar para monitorear el cumplimiento de los criterios de sostenibilidad durante la implementación del contrato**. El establecimiento de estos mecanismos **es esencial para garantizar que se cumpla el propósito de introducir criterios de sostenibilidad y recopilar los datos necesarios para medir el progreso en relación con los** objetivos más amplios que se han establecido como parte de la estrategia de CPS Abierta.

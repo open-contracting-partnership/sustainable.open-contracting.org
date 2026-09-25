@@ -28,7 +28,7 @@ Open and Sustainable Public Procurement (Open SPP) refers to the application of 
 
 According to the [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “open contracting is about publishing and using open, accessible, and timely information on government contracting to engage citizens and businesses in identifying and fixing problems.” Open contracting entails disclosure and engagement throughout the entire procurement process, from planning to implementation.
 
-In [the first section](/what-is-open-spp) of this toolkit, we identify seven key practices that are essential for Open SPP implementation, and that are referred to throughout the toolkit.  
+In [the first section](/what-is-open-spp) of this toolkit, we identify seven key practices that are essential for Open SPP implementation, and that are referred to throughout the toolkit.
 
 {% endtoggle %}
 
@@ -63,7 +63,7 @@ There are different ways in which national, local, or regional authorities can f
 - **Engage with stakeholders.** This includes organizing capacity-building workshops with procurement practitioners, engaging with suppliers to involve them in the SPP journey, and consulting with Civil Society Organizations (CSOs) on best sustainability approaches.
 - **Set up a help desk and central information point.** Provide an easy way for procurement practitioners to access guidance on SPP practices, including existing regulation, standardized criteria, and best practice examples. It can also be useful to set up a help desk for practitioners to ask about any SPP implementation queries.
 
-For more information on this see [this section](/build-support-and-capabilities).  
+For more information on this see [this section](/build-support-and-capabilities).
 
 {% endtoggle %}
 

@@ -107,7 +107,7 @@ As previously introduced, some enabling frameworks will only allow you to consid
 Once the sustainability criteria have been set, public authorities should openly disclose how compliance against it will be [verified and monitored](/monitor-implementation), and clearly [translate sustainability requirements into contract obligations](/prepare-contract-obligations).
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Case study**  
+**Case study**
 
 **The Netherlands implements a system called the [CO2 Performance Ladder](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) in order to consider CO2 emissions when awarding public procurement contracts.**  The Performance Ladder is an instrument that organizations can use to reduce their carbon emissions, both within the business, and in specific projects. There are 5 levels on the Ladder depending on the scope of the organization’s effort to reduce CO2 emissions.
 
@@ -125,7 +125,7 @@ As can be seen in the example on the following table, although supplier C had a 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-**Case study**  
+**Case study**
 
 **In 2014, Chile conducted a research study to evaluate how many public contracts were businesses owned by men, versus contracts awarded to businesses owned by women.** This study showed that only 36% of public contracts were awarded to women, and that these represented 26% of total value.
 
