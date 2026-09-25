@@ -179,11 +179,16 @@ if (breadcrumb) {
       crumb.hidden = true;
       const link = crumb.querySelector("a");
       const option = document.createElement("li");
-      option.innerHTML = `<a class="notion-link"><div class="notion-dropdown__option"><p class="notion-breadcrumb__dropdown-option-title"></p></div></a>`;
+      // Crumbs after the first are its descendants.
+      const arrow = list.children.length
+        ? `<p class="notion-breadcrumb__dropdown-option-arrow" aria-hidden="true">↳</p>`
+        : "";
+      option.innerHTML = `<a class="notion-link"><div class="notion-dropdown__option">${arrow}<p class="notion-breadcrumb__dropdown-option-title"></p></div></a>`;
       option.querySelector("a").href = link.href;
-      option.querySelector("p").textContent = link.textContent.trim();
+      const title = option.querySelector(".notion-breadcrumb__dropdown-option-title");
+      title.textContent = link.textContent.trim();
       const icon = link.querySelector("img");
-      if (icon) option.querySelector("p").before(icon.cloneNode());
+      if (icon) title.before(icon.cloneNode());
       list.append(option);
     }
   };
