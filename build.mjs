@@ -25,13 +25,14 @@ const options = {
   entryPoints: { main: join(directory, "main.css") },
   bundle: true,
   outdir: directory,
-  // main.css is overwritten.
-  allowOverwrite: true,
   minify: production,
   sourcemap: !production,
   legalComments: "linked",
   logLevel: "info",
-  loader: { ".woff2": "file" },
+  // The layout preloads the fonts, at their paths.
+  external: ["*.woff2"],
+  // main.css is overwritten.
+  allowOverwrite: true,
   plugins: [
     esbuildPluginBrowserslist(browserslist(), { printUnknownTargets: false }),
     {
@@ -52,5 +53,3 @@ await esbuild.build(options);
 for (const name of await readdir(directory)) {
   if (name.endsWith(".css") && name !== "main.css") await rm(join(directory, name));
 }
-// esbuild copies the fonts that the stylesheets use, with content hashes.
-await rm(join(site, "assets", "fonts"), { recursive: true });
