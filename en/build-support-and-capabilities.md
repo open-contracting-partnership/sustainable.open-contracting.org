@@ -74,7 +74,7 @@ A good example of this guidance is the U.S. General Service Administration’s [
 
 ## Create and share sustainability registries and catalogs
 
-In the enabling framework section, we introduced how introducing sustainability criteria in [framework agreements](/establish-an-enabling-environment/framework-agreements) can constitute an SPP enabler. Another way to create a pre-selected list of more sustainable suppliers is through public and accessible catalogs and registries.
+In the enabling framework section, we introduced how introducing sustainability criteria in [framework agreements](/establish-an-enabling-environment/framework-agreements) can constitute an SPP enabler. Another way to create a preselected list of more sustainable suppliers is through public and accessible catalogs and registries.
 
 The suppliers included in these can be chosen according to the certain sustainability standards set by existing environmental labels and accreditations, or the standardized criteria developed. The catalog, or registry, would help to tackle legal concerns from procurement practitioners, as it would be understood that purchasing products or services from the catalog is supported by the government, despite prices being higher. It is important to create clear and fair routes, especially for smaller businesses to get onto the registry and to have regular updates.
 
@@ -106,7 +106,7 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
 
-It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, a**nd a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
+It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, **and a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
 
 The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners.
 {% endcallout %}

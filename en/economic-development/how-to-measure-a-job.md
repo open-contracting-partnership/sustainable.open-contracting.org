@@ -37,7 +37,7 @@ employees = 200
 =
 €40,000
 
--- To calcualate the gross profit ratio as a percentage
+-- To calculate the gross profit ratio as a percentage
 (€2,000,000 / €10,000,000) * 100
 = 20%
 ```

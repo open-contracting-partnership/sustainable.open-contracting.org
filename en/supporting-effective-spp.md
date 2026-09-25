@@ -20,7 +20,7 @@ In this section, **we introduce some of the procurement approaches and procedure
 
 ## Define your needs and understand market capability
 
-As previously stated, two of the key challenges of the ICT sector are: gathering supply chain information, and prolonging equipment use. The following approaches can help you to better understand market capability regarding supply chain transparency, and ensure that procured equipments respond to real needs.
+As previously stated, two of the key challenges of the ICT sector are: gathering supply chain information, and prolonging equipment use. The following approaches can help you to better understand market capability regarding supply chain transparency, and ensure that procured equipment responds to real needs.
 
 {% toggle **ICT needs assessment** %}
 

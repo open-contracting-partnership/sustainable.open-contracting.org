@@ -77,7 +77,7 @@ If the manufacturer, brand, or reseller, offers a repair service as part of the 
 To promote the repairability of ICT equipment, sellers should include a Service Manual with instructions on how to repair the equipment. The TCO Ecolabel includes standards of what information should be included on these manuals. If ICT equipment is designed in a way that facilitates the replaceability of its components, it will not only help to extend use life, but it will also increase the equipment’s recyclability.
 
 {% callout gray /assets/images/Icons_Grey9.png %}
-Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) include a l**ist of the components that should be replaceable in different types of ICT equipment,** what criteria can be used to evaluate their replaceability, and the instructions given to do so.
+Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) include a **list of the components that should be replaceable in different types of ICT equipment,** what criteria can be used to evaluate their replaceability, and the instructions given to do so.
 {% endcallout %}
 
 {% endtoggle %}
@@ -88,7 +88,7 @@ Data security information is a variable that should be captured to ensure that p
 
 ## End-of-life management
 
-In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. For example, this can be clearly captured whether the supplier can provide a take-back, re-use or recycling service, and whether this service is also available for individual components, such as batteries.
+In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. For example, this can be clearly captured whether the supplier can provide a take-back, reuse or recycling service, and whether this service is also available for individual components, such as batteries.
 
 ## Supply chain information
 
