@@ -5,6 +5,10 @@
     "useIgnoreFile": true,
     "defaultBranch": "main"
   },
+  "formatter": {
+    "indentStyle": "space",
+    "lineWidth": 119
+  },
   "files": {
     "includes": [
       "**",
@@ -18,9 +22,5 @@
       "!assets/css/super.css",
       "!assets/css/theme-*.css"
     ]
-  },
-  "formatter": {
-    "indentStyle": "space",
-    "lineWidth": 119
   }
 }
