@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 List problems in each site's _redirects, and exit with 1 if any.
 

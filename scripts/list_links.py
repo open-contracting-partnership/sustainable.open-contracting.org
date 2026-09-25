@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 Write .crawl/links.csv: each link between the sites' pages, with its text, its context and its target's text.
 

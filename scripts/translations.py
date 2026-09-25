@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 Match each English page to its likely Spanish and French versions.
 

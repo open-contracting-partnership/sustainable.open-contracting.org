@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 Write .crawl/external-links.csv, with each link to another website.
 

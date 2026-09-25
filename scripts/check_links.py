@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 List links in the built sites to pages that don't exist, as CSV on standard output, and exit with 1 if any.
 

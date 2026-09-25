@@ -178,7 +178,7 @@ uv run scripts/check_links.py
 uv run scripts/check_markup.py
 ```
 
-To lint on each commit, run `uvx pre-commit install`. The Python linter and formatter is [Ruff](https://docs.astral.sh/ruff/), configured in `pyproject.toml` as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/python/linting.html). Each script has inline metadata (`# /// script`), so that `uv run` runs it as a script, not in a project environment. The Markdown linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The JavaScript and CSS linter and formatter is [Biome](https://biomejs.dev), configured in `biome.json`. It skips the HTML (Jekyll templates, which it can't parse), and Super.so's stylesheets (all but `fonts.css` and `site.css`).
+To lint on each commit, run `uvx pre-commit install`. The Python linter and formatter is [Ruff](https://docs.astral.sh/ruff/), configured in `pyproject.toml` as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/python/linting.html). `pyproject.toml` also declares the scripts' project, so that `uv run` runs them in its environment, with `screenshots.py`'s dependencies in the `screenshots` group. The Markdown linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `pyproject.toml`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented. The JavaScript and CSS linter and formatter is [Biome](https://biomejs.dev), configured in `biome.jsonc`. It skips the HTML (Jekyll templates, which it can't parse), and Super.so's stylesheets (all but `fonts.css` and `site.css`).
 
 The `lint.yml` workflow runs [standard-maintenance-scripts](https://github.com/open-contracting/standard-maintenance-scripts)' linters: files' permissions, Ruff (with its own settings, which `pyproject.toml` extends), and the JSON, CSV and README tests. The `shell.yml` workflow checks `scripts/build.sh` with checkbashisms, shellcheck and shfmt. The `spellcheck.yml` workflow runs [codespell](https://github.com/codespell-project/codespell) on the repository, except the Spanish and French pages and sidebars, which it would read as misspelled English. To accept a word, add it to the workflow's `ignore` input. Dependabot (`.github/dependabot.yml`) updates the workflows' actions, and the `automerge.yml` workflow merges its non-major updates and pre-commit.ci's updates to the hooks.
 
@@ -203,10 +203,10 @@ Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1
 To check that a change doesn't change how pages look, build the sites and compare screenshots before and after:
 
 ```bash
-uv run scripts/screenshots.py take before
+uv run --group screenshots scripts/screenshots.py take before
 # make the change and build the sites
-uv run scripts/screenshots.py take after
-uv run scripts/screenshots.py compare before after
+uv run --group screenshots scripts/screenshots.py take after
+uv run --group screenshots scripts/screenshots.py compare before after
 ```
 
 ### Stylesheets and scripts

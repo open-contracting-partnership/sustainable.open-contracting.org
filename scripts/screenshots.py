@@ -1,11 +1,8 @@
-# /// script
-# dependencies = ["playwright", "pillow"]
-# ///
 """
 Screenshot every built page, or compare two sets of screenshots.
 
-    uv run scripts/screenshots.py take NAME [PATH ...]
-    uv run scripts/screenshots.py compare NAME1 NAME2
+    uv run --group screenshots scripts/screenshots.py take NAME [PATH ...]
+    uv run --group screenshots scripts/screenshots.py compare NAME1 NAME2
 
 Screenshots are saved to .crawl/screenshots/NAME/<lang>/<path>.png. Build the sites first.
 """

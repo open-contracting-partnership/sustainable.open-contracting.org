@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 Serve a built site as Cloudflare Pages does, with /path served from path.html.
 

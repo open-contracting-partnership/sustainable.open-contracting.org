@@ -1,6 +1,3 @@
-# /// script
-# dependencies = []
-# ///
 """
 List problems in the text of the built sites' pages, and exit with 1 if any.
 
