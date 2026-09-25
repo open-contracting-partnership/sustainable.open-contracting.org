@@ -2,7 +2,6 @@
 name = "sustainable-open-contracting-org"
 version = "0.0.0"
 requires-python = ">=3.12"
-dependencies = []
 
 [dependency-groups]
 screenshots = ["playwright", "pillow"]
@@ -23,26 +22,26 @@ builtins-ignorelist = ["copyright"]
 [tool.ruff.lint.flake8-unused-arguments]
 ignore-variadic-names = true
 
-# extend-per-file-ignores, since the shared lint workflow sets per-file-ignores on the command line.
+# To override the shared lint workflow.
 [tool.ruff.lint.extend-per-file-ignores]
-# The scripts print their results, and aren't a package.
-"scripts/*" = ["INP001", "T201"]
+"scripts/*" = ["INP001", "T201"]  # implicit-namespace-package, print
 
-# pymarkdownlnt's configuration, for the pages and the README.
 [tool.pymarkdown]
-# Otherwise, the front matter reads as headings.
 extensions.front-matter.enabled = true
-# A paragraph is one line.
+
+# No br-spaces.
+plugins.md009.strict = true
+# Single-line paragraphs.
 plugins.md013.enabled = false
-# The page's title is in its front matter.
-plugins.md041.enabled = false
-# Notion's bold paragraphs.
-plugins.md036.enabled = false
-# A line break is a newline, not two trailing spaces.
-plugins.md009.br_spaces = 0
-# <br> is a line break in a table cell, or an empty line in Notion's text.
-plugins.md033.allowed_elements = "br"
+# Local style.
+plugins.md049.style = "asterisk"
+
 # Headings are at Notion's levels: the title and "#" headings are <h1>, and some levels are skipped (see #17).
 plugins.md001.enabled = false
 plugins.md025.enabled = false
-plugins.md049.style = "asterisk"
+# <br> is a line break in a table cell, or an empty line in Notion's text.
+plugins.md033.allowed_elements = "br"
+# Notion's bold paragraphs.
+plugins.md036.enabled = false
+# The page's title is in its front matter.
+plugins.md041.enabled = false
