@@ -4,7 +4,7 @@
 """
 List links in the built sites to pages that don't exist, as CSV on standard output, and exit with 1 if any.
 
-    python3 scripts/check_links.py > broken-links.csv
+    uv run scripts/check_links.py > broken-links.csv
 
 Build the sites first. Links to the three sites' domains are checked against their builds.
 """

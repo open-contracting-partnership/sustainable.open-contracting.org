@@ -3,8 +3,6 @@ line-length = 119
 
 [tool.ruff.lint]
 select = ["ALL"]
-# Typographic quotes, in patterns for the pages’ text.
-allowed-confusables = ["‘", "’"]
 ignore = [
     "ANN", "C901", "COM812", "CPY001", "D203", "D212", "D415", "EM", "ISC001", "PERF203", "PLR091", "Q000",
     "D1",
@@ -16,6 +14,7 @@ builtins-ignorelist = ["copyright"]
 [tool.ruff.lint.flake8-unused-arguments]
 ignore-variadic-names = true
 
-[tool.ruff.lint.per-file-ignores]
+# extend-per-file-ignores, since the shared lint workflow sets per-file-ignores on the command line.
+[tool.ruff.lint.extend-per-file-ignores]
 # The scripts print their results, and aren't a package.
 "scripts/*" = ["INP001", "T201"]

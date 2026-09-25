@@ -4,7 +4,7 @@
 """
 List problems with the pages and the built sites, and exit with 1 if any.
 
-    python3 scripts/check_pages.py
+    uv run scripts/check_pages.py
 
 Build the sites with scripts/build.sh first. It reports:
 

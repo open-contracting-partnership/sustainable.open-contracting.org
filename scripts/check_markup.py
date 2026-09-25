@@ -4,7 +4,7 @@
 """
 List problems in the text of the built sites' pages, and exit with 1 if any.
 
-    python3 scripts/check_markup.py
+    uv run scripts/check_markup.py
 
 Build the sites first. In each page's <article>, outside code, it reports:
 
@@ -34,7 +34,8 @@ SYNTAX = {
 }
 # Question and exclamation marks are usually part of a title.
 END_PUNCTUATION = ".,;:…"
-PAIRS = {"(": ")", "[": "]", "“": "”", "‘": "’", "«": "»"}
+# Single quotation marks as escapes, since ruff confuses the left one with a grave accent.
+PAIRS = {"(": ")", "[": "]", "“": "”", "\N{LEFT SINGLE QUOTATION MARK}": "\N{RIGHT SINGLE QUOTATION MARK}", "«": "»"}
 CLOSERS = {v: k for k, v in PAIRS.items()}
 SKIP = {"code", "pre", "script", "style"}
 BLOCKS = {

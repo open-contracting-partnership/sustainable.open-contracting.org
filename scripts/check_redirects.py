@@ -4,7 +4,7 @@
 """
 List problems in each site's _redirects, and exit with 1 if any.
 
-    python3 scripts/check_redirects.py
+    uv run scripts/check_redirects.py
 
 It reports lines that aren't "SOURCE TARGET 301", duplicate sources, sources that are pages (which Cloudflare Pages
 serves instead), targets that are redirects (chains and loops) or that aren't pages, and more rules than Cloudflare
