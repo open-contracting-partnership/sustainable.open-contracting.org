@@ -15,7 +15,7 @@ bundle install
 bundle exec jekyll serve --config _config.yml,_config.en.yml  # or _config.es.yml, _config.fr.yml
 ```
 
-Each build writes to `_site/<lang>/`, which is the output directory for that site's Cloudflare Pages project. Google Analytics is included only when `JEKYLL_ENV=production`.
+Each build writes to `_site/<lang>/`. Google Analytics is included only when `JEKYLL_ENV=production`.
 
 Each site has search (the `search` setting, with its labels in `search_labels`), whose index [Pagefind](https://pagefind.app) builds from a site's build. `scripts/build.sh` builds a site and its index:
 
@@ -33,15 +33,15 @@ Pagefind indexes each page's `<main>`, except the navbar, sidebar, cover and ico
 
 ## Deploy
 
-Each site is a Cloudflare Pages project, connected to this repository:
+The `deploy.yml` workflow builds the sites with `JEKYLL_ENV=production` and, on a push to `main` whose checks pass, pushes each build to its branch. Each site is a Cloudflare Pages project, connected to this repository, which serves its branch without building it:
 
-| Site | Build command | Output directory |
-| --- | --- | --- |
-| sustainable.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh en` | `_site/en` |
-| sostenibilidad.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh es` | `_site/es` |
-| achatdurable.open-contracting.org | `JEKYLL_ENV=production scripts/build.sh fr` | `_site/fr` |
+| Site | Production branch |
+| --- | --- |
+| sustainable.open-contracting.org | `publish-en` |
+| sostenibilidad.open-contracting.org | `publish-es` |
+| achatdurable.open-contracting.org | `publish-fr` |
 
-`.ruby-version` and `.node-version` set the versions that the build uses, and Cloudflare runs `bundle install` before the build command. Each project sets `SKIP_DEPENDENCY_INSTALL=1`, so that Cloudflare doesn't install `package.json`'s packages, which only the accessibility checks use.
+Each project has no build command or output directory, and no preview deployments (its other branches are this repository's source). The workflows set the Ruby and Node versions.
 
 ## Pages
 
@@ -168,7 +168,7 @@ To fix a broken link, change the link in the linking page's Markdown, or (for a 
 
 ### Checks
 
-On each push, CI (`.github/workflows/ci.yml`) lints the Python and Markdown, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
+On each push, the `deploy.yml` workflow runs the pre-commit hooks, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
 
 ```bash
 uvx pre-commit run --all-files
