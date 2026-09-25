@@ -211,9 +211,11 @@ module NotionTags
   # or its minimum and maximum widths, as MIN-MAX.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
-  # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text.
+  # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text, and a
+  # cell whose lines (separated by <br>) all start with "\- " is a bulleted list.
   class Table < Liquid::Block
     COLOR = /\A\{(\w+)\}\s*/
+    LIST_ITEM = "\\- "
 
     def initialize(tag_name, markup, options)
       super
@@ -242,8 +244,15 @@ module NotionTags
       min, max = width.split("-")
       style = "min-width:#{min}px;max-width:#{max || min}px"
       style += ";background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})" if color
+      lines = text.split("<br>").map(&:strip).reject(&:empty?)
       content = if text.empty?
                   %(<div class="notion-table__empty-cell"></div>)
+                elsif lines.all? { |line| line.start_with?(LIST_ITEM) }
+                  items = lines.map do |line|
+                    %(<li class="notion-list-item notion-semantic-string">) +
+                      %(#{NotionTags.inline(context, line.delete_prefix(LIST_ITEM))}</li>)
+                  end
+                  %(<div class="notion-table__cell"><ul class="notion-bulleted-list">#{items.join}</ul></div>)
                 else
                   %(<div class="notion-table__cell"><span class="notion-semantic-string">#{NotionTags.inline(context, text)}</span></div>)
                 end

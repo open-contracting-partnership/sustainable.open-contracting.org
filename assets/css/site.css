@@ -109,3 +109,17 @@ ol.notion-breadcrumb {
   clip-path: inset(50%);
   white-space: nowrap;
 }
+
+/* A table cell's list is indented less than a page's, since cells are narrow. */
+.notion-table__cell > .notion-bulleted-list {
+  margin: 0;
+  padding-inline-start: 1rem;
+}
+
+.notion-table__cell .notion-list-item:first-child {
+  padding-top: 0;
+}
+
+.notion-table__cell .notion-list-item:last-child {
+  padding-bottom: 0;
+}

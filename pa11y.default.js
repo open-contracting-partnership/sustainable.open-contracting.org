@@ -45,12 +45,6 @@ const knownWarnings = [
     selectors: [".notion-table tr"],
   },
   {
-    // "This content looks like it is simulating an unordered list using plain text." (a Notion table's cells can't
-    // contain lists, so they have lines that start with "- ")
-    rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H48.1"],
-    selectors: [".notion-table__cell"],
-  },
-  {
     // "Img element is marked so that it is ignored by Assistive Technology." (a page's icon, next to its title)
     rules: ["WCAG2AA.Principle1.Guideline1_1.1_1_1.H67.2"],
     selectors: ["img.notion-icon", "img.notion-breadcrumb__icon"],
