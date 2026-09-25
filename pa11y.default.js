@@ -52,7 +52,7 @@ const knownWarnings = [
   {
     // "Img element is marked so that it is ignored by Assistive Technology." (a page's icon, next to its title)
     rules: ["WCAG2AA.Principle1.Guideline1_1.1_1_1.H67.2"],
-    selectors: ["img.notion-icon"],
+    selectors: ["img.notion-icon", "img.notion-breadcrumb__icon"],
   },
   {
     // "Frames should be tested with axe-core." (a PDF)
@@ -61,9 +61,9 @@ const knownWarnings = [
   },
   {
     // "If this element contains a navigation section, it is recommended that it be marked up as a list." (columns and
-    // paragraphs with several links, and the breadcrumbs, which could be a list: see #17)
+    // paragraphs with several links: see #17)
     rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H48"],
-    selectors: [".notion-breadcrumb", ".notion-column", "p.notion-text"],
+    selectors: [".notion-column", "p.notion-text"],
   },
   {
     // "Heading markup should be used if this content is intended as a heading." (Notion's bold paragraphs: see #17)

@@ -58,3 +58,26 @@
 .notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)):not(:last-child) {
   margin-block-end: 1rem;
 }
+
+/* The breadcrumbs are a list, whose items are Notion's links and dividers. */
+ol.notion-breadcrumb {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.notion-breadcrumb > li {
+  display: flex;
+  align-items: center;
+}
+
+.notion-breadcrumb > li > a {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  height: 24px;
+}
+
+.notion-breadcrumb > li > a.has-icon {
+  padding: 2px 6px;
+}

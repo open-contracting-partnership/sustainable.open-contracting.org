@@ -10,16 +10,18 @@
 {%- endfor -%}
 <nav class="notion-navbar" data-pagefind-ignore="all">
   <div class="notion-navbar__content">
-    <div class="notion-breadcrumb">
+    <ol class="notion-breadcrumb">
       {%- for path in paths -%}
         {%- assign crumb = site.pages | where: "permalink", path | first -%}
-        {%- unless forloop.first %}<span class="notion-breadcrumb__divider">/</span>{% endunless -%}
-        <a href="{{ path }}" class="notion-link notion-breadcrumb__item{% if forloop.length == 1 %} single{% endif %}{% if crumb.icon %} has-icon{% endif %}">
-          {%- if crumb.icon %}<img alt="{{ crumb.title | escape }}" width="16" height="16" class="notion-breadcrumb__icon" src="{{ crumb.icon }}"/>{% endif -%}
-          <div class="notion-navbar__title notion-breadcrumb__title">{{ crumb.title | escape }}</div>
-        </a>
+        <li>
+          {%- unless forloop.first %}<span class="notion-breadcrumb__divider" aria-hidden="true">/</span>{% endunless -%}
+          <a href="{{ path }}" class="notion-link notion-breadcrumb__item{% if forloop.length == 1 %} single{% endif %}{% if crumb.icon %} has-icon{% endif %}"{% if forloop.last %} aria-current="page"{% endif %}>
+            {%- if crumb.icon %}<img alt="" width="16" height="16" class="notion-breadcrumb__icon" src="{{ crumb.icon }}"/>{% endif -%}
+            <div class="notion-navbar__title notion-breadcrumb__title">{{ crumb.title | escape }}</div>
+          </a>
+        </li>
       {%- endfor -%}
-    </div>
+    </ol>
     <div class="notion-navbar__actions">
       {%- if site.search %}
       <div class="notion-navbar__button notion-navbar__search"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search " type="Search"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg></div>
