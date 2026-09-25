@@ -40,11 +40,7 @@ def pages(lang):
     for path in sorted((SITE / lang).rglob("*.html")):
         relative = path.relative_to(SITE / lang).with_suffix("")
         if relative.name != "404":
-            yield (
-                "/"
-                if relative.name == "index" and relative.parent == Path(".")
-                else f"/{relative}"
-            )
+            yield ("/" if relative.name == "index" and relative.parent == Path() else f"/{relative}")
 
 
 def resolve(lang, url_path):
@@ -66,31 +62,17 @@ async def take(name, only):
 
                 async def route(route):
                     url = urllib.parse.urlparse(route.request.url)
-                    file = (
-                        resolve(lang, url.path)
-                        if url.hostname == f"{lang}.test"
-                        else None
-                    )
+                    file = resolve(lang, url.path) if url.hostname == f"{lang}.test" else None
                     if file:
-                        content_type = (
-                            mimetypes.guess_type(file.name)[0]
-                            or "application/octet-stream"
-                        )
-                        await route.fulfill(
-                            body=file.read_bytes(), content_type=content_type
-                        )
+                        content_type = mimetypes.guess_type(file.name)[0] or "application/octet-stream"
+                        await route.fulfill(body=file.read_bytes(), content_type=content_type)
                     else:
                         await route.abort()
 
                 await page.route("**/*", route)
                 await page.goto(f"http://{lang}.test{url_path}", wait_until="load")
                 await page.evaluate(READY)
-                output = (
-                    SCREENSHOTS
-                    / name
-                    / lang
-                    / ((url_path.strip("/") or "index") + ".png")
-                )
+                output = SCREENSHOTS / name / lang / ((url_path.strip("/") or "index") + ".png")
                 output.parent.mkdir(parents=True, exist_ok=True)
                 # Rendering can lag behind the ready checks, so repeat until two screenshots agree.
                 previous = None
@@ -105,12 +87,7 @@ async def take(name, only):
                 await page.close()
 
         await asyncio.gather(
-            *(
-                shoot(lang, url_path)
-                for lang in LANGUAGES
-                for url_path in pages(lang)
-                if not only or url_path in only
-            )
+            *(shoot(lang, url_path) for lang in LANGUAGES for url_path in pages(lang) if not only or url_path in only)
         )
         await browser.close()
 

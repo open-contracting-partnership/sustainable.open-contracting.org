@@ -1,4 +1,11 @@
+ci:
+  autoupdate_schedule: quarterly
 repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.9
+    hooks:
+      - id: ruff-check
+      - id: ruff-format
   - repo: https://github.com/jackdewinter/pymarkdown
     rev: v0.9.40
     hooks:

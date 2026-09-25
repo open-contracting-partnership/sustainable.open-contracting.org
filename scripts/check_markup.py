@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 List problems in the text of the built sites' pages, and exit with 1 if any.
 
@@ -60,14 +63,9 @@ def link_problem(text, before, after):
         whole_block = not after.strip(" \n\xa0”»)")
         whole_sentence = text[-1] in ".…" and re.match(r"[”»)]*(\s|\Z)", after)
         abbreviation = re.search(r"(?:\b\w\.){2,}\Z", text)
-        if (
-            not (STARTS.search(before) and (whole_block or whole_sentence))
-            and not abbreviation
-        ):
+        if not (STARTS.search(before) and (whole_block or whole_sentence)) and not abbreviation:
             return "punctuation"
-    if text[0] in PAIRS and (
-        text.endswith(PAIRS[text[0]]) or PAIRS[text[0]] not in text
-    ):
+    if text[0] in PAIRS and (text.endswith(PAIRS[text[0]]) or PAIRS[text[0]] not in text):
         return "punctuation"
     if text[-1] in CLOSERS and CLOSERS[text[-1]] not in text:
         return "punctuation"
@@ -94,11 +92,9 @@ class Page(HTMLParser):
     def end_line(self):
         line = self.block.rsplit("\n", 1)[-1].rstrip(" \n\t")
         if line.endswith("\xa0"):
-            self.problems.append(
-                f"non-breaking space at the end of a line: {line[-40:]!r}"
-            )
+            self.problems.append(f"non-breaking space at the end of a line: {line[-40:]!r}")
 
-    def handle_starttag(self, tag, attrs):
+    def handle_starttag(self, tag, _attrs):
         if tag == "article":
             self.article += 1
         elif tag in SKIP:

@@ -1,6 +1,11 @@
+# /// script
+# dependencies = []
+# ///
 """
-Write .crawl/external-links.csv: each link to another website, with its context, whether the page's versions in the
-other languages link to it too, and optionally whether it loads.
+Write .crawl/external-links.csv, with each link to another website.
+
+Each link has its context, whether the page's versions in the other languages link to it too, and optionally whether
+it loads.
 
     uv run scripts/list_external_links.py [--check]
 
@@ -35,13 +40,16 @@ HEADER = [
     "status",
     "final url",
 ]
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+)
 
 
 def status(url):
     """Return a URL's final status (or curl's error) and final URL, as a browser would load it."""
-    result = subprocess.run(
-        [
+    # curl's certificate store has what Python's lacks (like ec.europa.eu's chain). The URL is an argument, not shell.
+    result = subprocess.run(  # noqa: S603
+        [  # noqa: S607
             "curl",
             "-s",
             "-o",
@@ -57,6 +65,7 @@ def status(url):
         ],
         capture_output=True,
         text=True,
+        check=False,
     )
     code, _, final = result.stdout.partition(" ")
     if result.returncode:
@@ -84,9 +93,7 @@ def main():
         for file in sorted((SITE / lang).rglob("*.html")):
             if "pagefind" in file.parts or file.name == "404.html":
                 continue
-            page = "/" + str(
-                file.relative_to(SITE / lang).with_suffix("")
-            ).removesuffix("index")
+            page = "/" + str(file.relative_to(SITE / lang).with_suffix("")).removesuffix("index")
             page = page.rstrip("/") or "/"
             parser = Links()
             parser.feed(file.read_text())
@@ -100,7 +107,7 @@ def main():
     if check:
         urls = sorted({url for records in links.values() for _, url in records})
         with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
-            statuses = dict(zip(urls, executor.map(status, urls)))
+            statuses = dict(zip(urls, executor.map(status, urls), strict=True))
 
     rows = []
     for (lang, page), records in sorted(links.items()):
@@ -111,14 +118,8 @@ def main():
         }
         own = {url for _, url in records}
         for record, url in records:
-            linking = [
-                other_lang
-                for other_lang, urls in sorted(version_urls.items())
-                if url in urls
-            ]
-            others = sorted(
-                {other for urls in version_urls.values() for other in urls - own}
-            )
+            linking = [other_lang for other_lang, urls in sorted(version_urls.items()) if url in urls]
+            others = sorted({other for urls in version_urls.values() for other in urls - own})
             rows.append(
                 [
                     lang,
@@ -126,17 +127,12 @@ def main():
                     record["link text"],
                     record["context"],
                     url,
-                    " ".join(
-                        f"{other_lang}:{path}"
-                        for other_lang, path in sorted(page_versions.items())
-                    ),
+                    " ".join(f"{other_lang}:{path}" for other_lang, path in sorted(page_versions.items())),
                     " ".join(linking),
                     " ".join(others),
                     statuses.get(url, ("", ""))[0],
                     # The final URL, if the URL redirects.
-                    ""
-                    if statuses.get(url, ("", url))[1] in ("", url)
-                    else statuses[url][1],
+                    "" if statuses.get(url, ("", url))[1] in ("", url) else statuses[url][1],
                 ]
             )
 

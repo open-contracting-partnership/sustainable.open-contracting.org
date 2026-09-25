@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 Write .crawl/links.csv: each link between the sites' pages, with its text, its context and its target's text.
 
@@ -21,9 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / ".crawl" / "links.csv"
 BLOCKS = {"p", "li", "td", "th", "h1", "h2", "h3", "summary", "figcaption"}
 # Classes of elements whose text is a block's (callouts' and toggles' texts, and cards).
-BLOCK_CLASSES = re.compile(
-    r"\bnotion-(?:callout__content|toggle__summary|collection-card|to-do__title|page)\b"
-)
+BLOCK_CLASSES = re.compile(r"\bnotion-(?:callout__content|toggle__summary|collection-card|to-do__title|page)\b")
 VOID = {
     "br",
     "img",
@@ -131,8 +132,8 @@ def pages():
         for file in (ROOT / lang).rglob("*.md"):
             front_matter, body = file.read_text().split("\n---\n", 1)
 
-            def get(key):
-                match = re.search(rf"^{key}: (.*)$", front_matter, re.M)
+            def get(key, front_matter=front_matter):
+                match = re.search(rf"^{key}: (.*)$", front_matter, re.MULTILINE)
                 return html.unescape(match.group(1).strip('"')) if match else ""
 
             headings = [
@@ -152,9 +153,7 @@ def main():
     redirects = {}
     for lang in DOMAINS.values():
         lines = (SITE / lang / "_redirects").read_text().splitlines()
-        redirects[lang] = dict(
-            line.split()[:2] for line in lines if line.startswith("/")
-        )
+        redirects[lang] = dict(line.split()[:2] for line in lines if line.startswith("/"))
     info = pages()
 
     def resolve(lang, path):
@@ -177,9 +176,7 @@ def main():
         for file in sorted((SITE / lang).rglob("*.html")):
             if "pagefind" in file.parts or file.name == "404.html":
                 continue
-            page = "/" + str(
-                file.relative_to(SITE / lang).with_suffix("")
-            ).removesuffix("index")
+            page = "/" + str(file.relative_to(SITE / lang).with_suffix("")).removesuffix("index")
             page = page.rstrip("/") or "/"
             parser = Links()
             parser.feed(file.read_text())
@@ -187,17 +184,13 @@ def main():
                 url = urllib.parse.urlsplit(html.unescape(record["href"]))
                 if url.scheme in ("http", "https") and url.netloc in DOMAINS:
                     site = DOMAINS[url.netloc]
-                elif record["href"].startswith("/") and not record["href"].startswith(
-                    ("//", "/assets/")
-                ):
+                elif record["href"].startswith("/") and not record["href"].startswith(("//", "/assets/")):
                     site = lang
                 else:
                     continue
                 path = urllib.parse.unquote(url.path).rstrip("/") or "/"
                 target = resolve(site, path)
-                title, description, headings = (
-                    info.get(target, ("", "", "")) if target else ("", "", "")
-                )
+                title, description, headings = info.get(target, ("", "", "")) if target else ("", "", "")
                 rows.append(
                     [
                         lang,

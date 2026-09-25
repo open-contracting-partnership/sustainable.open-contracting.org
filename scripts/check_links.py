@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 List links in the built sites to pages that don't exist, as CSV on standard output, and exit with 1 if any.
 
@@ -41,18 +44,12 @@ def broken_links():
     """Return the paths of broken links, by site and path, mapped to the pages that link to them."""
     redirects = {}
     for lang in DOMAINS.values():
-        redirects[lang] = {
-            line.split()[0]
-            for line in (SITE / lang / "_redirects").read_text().splitlines()
-            if line
-        }
+        redirects[lang] = {line.split()[0] for line in (SITE / lang / "_redirects").read_text().splitlines() if line}
 
     broken = collections.defaultdict(set)
     for lang in DOMAINS.values():
         for file in sorted((SITE / lang).rglob("*.html")):
-            page = "/" + str(
-                file.relative_to(SITE / lang).with_suffix("")
-            ).removesuffix("index")
+            page = "/" + str(file.relative_to(SITE / lang).with_suffix("")).removesuffix("index")
             for href in re.findall(r'href="([^"]*)"', file.read_text()):
                 url = urllib.parse.urlsplit(html.unescape(href))
                 if url.scheme in ("http", "https") and url.netloc in DOMAINS:

@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 List problems in each site's _redirects, and exit with 1 if any.
 
@@ -21,7 +24,7 @@ LIMIT = 2000
 def permalinks(lang):
     paths = set()
     for path in (ROOT / lang).rglob("*.md"):
-        if m := re.search(r"^permalink: (.*)$", path.read_text(), re.M):
+        if m := re.search(r"^permalink: (.*)$", path.read_text(), re.MULTILINE):
             paths.add(m[1])
     return paths
 
@@ -43,11 +46,12 @@ def main():
         for number, line in enumerate(body.splitlines(), offset + 1):
             if not line.strip():
                 continue
-            parts = line.split()
-            if len(parts) != 3 or parts[2] != "301" or not parts[0].startswith("/"):
-                report(lang, number, f"not SOURCE TARGET 301: {line!r}")
-                continue
-            source, target, _ = parts
+            match line.split():
+                case [source, target, "301"] if source.startswith("/"):
+                    pass
+                case _:
+                    report(lang, number, f"not SOURCE TARGET 301: {line!r}")
+                    continue
             if source in rules:
                 report(lang, number, f"duplicate source: {source}")
             if source in pages:

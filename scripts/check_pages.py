@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 List problems with the pages and the built sites, and exit with 1 if any.
 
@@ -28,21 +31,18 @@ ASSET = re.compile(
 
 
 def front_matter(text):
-    m = re.match(r"---\n(.*?)\n---\n", text, re.S)
+    m = re.match(r"---\n(.*?)\n---\n", text, re.DOTALL)
     return m[1] if m else None
 
 
 def value(front, key):
-    m = re.search(rf"^{key}: *(.*)$", front, re.M)
+    m = re.search(rf"^{key}: *(.*)$", front, re.MULTILINE)
     return m[1].strip().strip("\"'") if m else None
 
 
 def built(lang, url_path):
     path = SITE / lang / urllib.parse.unquote(url_path).lstrip("/")
-    return any(
-        p.is_file()
-        for p in (path, path.with_name(path.name + ".html"), path / "index.html")
-    )
+    return any(p.is_file() for p in (path, path.with_name(path.name + ".html"), path / "index.html"))
 
 
 def main():
@@ -61,20 +61,18 @@ def main():
             if permalink != expected:
                 problems.append(f"{relative}: permalink {permalink} isn't {expected}")
             if permalink in permalinks:
-                problems.append(
-                    f"{relative}: permalink {permalink} is also {permalinks[permalink]}'s"
-                )
+                problems.append(f"{relative}: permalink {permalink} is also {permalinks[permalink]}'s")
             permalinks[permalink] = relative
             if not value(front, "title"):
                 problems.append(f"{relative}: no title")
-            for key in ("cover", "icon"):
-                # An icon can also be an emoji.
-                if (
-                    (asset := value(front, key))
-                    and asset.startswith("/")
-                    and not (ROOT / urllib.parse.unquote(asset).lstrip("/")).is_file()
-                ):
-                    problems.append(f"{relative}: {key} {asset} isn't a file")
+            # An icon can also be an emoji.
+            problems.extend(
+                f"{relative}: {key} {asset} isn't a file"
+                for key in ("cover", "icon")
+                if (asset := value(front, key))
+                and asset.startswith("/")
+                and not (ROOT / urllib.parse.unquote(asset).lstrip("/")).is_file()
+            )
 
         site = SITE / lang
         if not site.is_dir():
@@ -90,25 +88,18 @@ def main():
                     missing.add((ref, str(page.relative_to(SITE))))
         for ref, page in sorted(missing):
             problems.append(f"{page}: {ref} isn't a file")
-        for loc in re.findall(
-            r"<loc>([^<]+)</loc>", (site / "sitemap.xml").read_text()
-        ):
-            if not built(lang, urllib.parse.urlparse(loc).path):
-                problems.append(f"_site/{lang}/sitemap.xml: {loc} isn't a page")
+        problems.extend(
+            f"_site/{lang}/sitemap.xml: {loc} isn't a page"
+            for loc in re.findall(r"<loc>([^<]+)</loc>", (site / "sitemap.xml").read_text())
+            if not built(lang, urllib.parse.urlparse(loc).path)
+        )
         entry = site / "pagefind" / "pagefind-entry.json"
         if not entry.is_file():
-            problems.append(
-                f"_site/{lang}: no search index (build with scripts/build.sh)"
-            )
+            problems.append(f"_site/{lang}: no search index (build with scripts/build.sh)")
         else:
-            count = sum(
-                language["page_count"]
-                for language in json.loads(entry.read_text())["languages"].values()
-            )
+            count = sum(language["page_count"] for language in json.loads(entry.read_text())["languages"].values())
             if count != searchable or not count:
-                problems.append(
-                    f"_site/{lang}: the search index has {count} pages, not {searchable}"
-                )
+                problems.append(f"_site/{lang}: the search index has {count} pages, not {searchable}")
 
     for problem in problems:
         print(problem)

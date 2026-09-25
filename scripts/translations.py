@@ -1,3 +1,6 @@
+# /// script
+# dependencies = []
+# ///
 """
 Match each English page to its likely Spanish and French versions.
 
@@ -13,6 +16,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIDENT = 6
+# Pages with lower scores aren't matched.
+MINIMUM = 3
 BLOCKS = (
     "{% toggle",
     "{% callout",
@@ -23,14 +28,12 @@ BLOCKS = (
     "```",
     "{% columns",
 )
-LINK = re.compile(
-    r"https?://(?!(?:sustainable|sostenibilidad|achatdurable)\.open-contracting\.org)[^\s\"')>\]|]+"
-)
+LINK = re.compile(r"https?://(?!(?:sustainable|sostenibilidad|achatdurable)\.open-contracting\.org)[^\s\"')>\]|]+")
 NUMBER = re.compile(r"(?<![\w/.-])\d+(?:[.,]\d+)*(?![\w/-])")
 # Links to pages on the same site: Markdown links, page tags, gallery cards, table views' items and HTML links.
 INTERNAL = re.compile(
     r"\]\((/[^)\s]*)\)|\{% page (/\S*)|^\s*link: \"?(/[^\"\s]*)|^\s+- (/\S*)$|href=\"(/(?!assets/)[^\"#?]*)",
-    re.M,
+    re.MULTILINE,
 )
 
 
@@ -38,8 +41,8 @@ def order(body):
     """Return the kinds of a page's blocks, in order, with consecutive paragraphs and list items as one."""
     kinds = []
     code = False
-    for line in body.splitlines():
-        line = line.strip()
+    for raw in body.splitlines():
+        line = raw.strip()
         if line.startswith("```"):
             code = not code
             if code:
@@ -73,7 +76,7 @@ def features(file):
     front_matter, body = file.read_text().split("\n---\n", 1)
 
     def get(key):
-        match = re.search(rf"^{key}: (.*)$", front_matter, re.M)
+        match = re.search(rf"^{key}: (.*)$", front_matter, re.MULTILINE)
         return match and match.group(1).strip('"')
 
     text = re.sub(r"\{%.*?%\}|\(http[^)]*\)|<[^>]+>", " ", body)
@@ -88,10 +91,7 @@ def features(file):
         "numbers": set(NUMBER.findall(text)),
         "blocks": [body.count(block) for block in BLOCKS],
         "order": order(body),
-        "internal": {
-            (next(group for group in match if group).rstrip("/") or "/")
-            for match in INTERNAL.findall(body)
-        },
+        "internal": {(next(group for group in match if group).rstrip("/") or "/") for match in INTERNAL.findall(body)},
     }
 
 
@@ -110,16 +110,12 @@ def score(a, b, english=None):
         total += 3
     total += 1.5 * (a["icon"] is not None and a["icon"] == b["icon"])
     # Many pages share the default background cover.
-    total += 0.5 * (
-        a["cover"] is not None
-        and a["cover"] == b["cover"]
-        and "background" not in a["cover"]
-    )
+    total += 0.5 * (a["cover"] is not None and a["cover"] == b["cover"] and "background" not in a["cover"])
     total += 3 * jaccard(a["images"], b["images"])
     total += 3 * jaccard(a["links"], b["links"])
     total += 3 * jaccard(a["numbers"], b["numbers"])
     if any(a["blocks"]) or any(b["blocks"]):
-        difference = sum(abs(x - y) for x, y in zip(a["blocks"], b["blocks"]))
+        difference = sum(abs(x - y) for x, y in zip(a["blocks"], b["blocks"], strict=True))
         total += 1 - difference / (sum(a["blocks"]) + sum(b["blocks"]))
     if len(a["order"]) > 1 and len(b["order"]) > 1:
         total += 1.5 * difflib.SequenceMatcher(None, a["order"], b["order"], autojunk=False).ratio()
@@ -130,26 +126,19 @@ def score(a, b, english=None):
 
 def matches():
     """Return each language's versions of English pages, as {lang: {english path: (path, score)}}."""
-    pages = {
-        lang: [features(file) for file in sorted((ROOT / lang).rglob("*.md"))]
-        for lang in ("en", "es", "fr")
-    }
+    pages = {lang: [features(file) for file in sorted((ROOT / lang).rglob("*.md"))] for lang in ("en", "es", "fr")}
     result = {}
     for lang in ("es", "fr"):
         english = None
         # The second pass compares the pages' links, as matched by the first.
         for _ in range(2):
             candidates = sorted(
-                (
-                    (score(a, b, english), a["path"], b["path"])
-                    for a in pages["en"]
-                    for b in pages[lang]
-                ),
+                ((score(a, b, english), a["path"], b["path"]) for a in pages["en"] for b in pages[lang]),
                 reverse=True,
             )
             matched, used = {}, set()
             for value, path, other in candidates:
-                if value >= 3 and path not in matched and other not in used:
+                if value >= MINIMUM and path not in matched and other not in used:
                     matched[path] = (other, round(value, 2))
                     used.add(other)
             english = {other: path for path, (other, _) in matched.items()}

@@ -168,7 +168,7 @@ To fix a broken link, change the link in the linking page's Markdown, or (for a 
 
 ### Checks
 
-On each push, CI (`.github/workflows/ci.yml`) lints the Markdown, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
+On each push, CI (`.github/workflows/ci.yml`) lints the Python and Markdown, runs `scripts/check_redirects.py`, builds the sites, and runs `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
 
 ```bash
 uvx pre-commit run --all-files
@@ -178,7 +178,7 @@ uv run scripts/check_links.py
 uv run scripts/check_markup.py
 ```
 
-To lint the Markdown on each commit, run `uvx pre-commit install`. The linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented.
+To lint on each commit, run `uvx pre-commit install`. The Python linter and formatter is [Ruff](https://docs.astral.sh/ruff/), configured in `pyproject.toml` as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/python/linting.html). Each script has inline metadata (`# /// script`), so that `uv run` runs it as a script, not in a project environment. The Markdown linter is [pymarkdownlnt](https://github.com/jackdewinter/pymarkdown), configured in `.pymarkdown`. It reads the Liquid tags' contents as Markdown, so the YAML lists in gallery and database table tags have a blank line before them, and aren't indented.
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
 
