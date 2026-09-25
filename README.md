@@ -195,7 +195,7 @@ Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
 
-`scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, and that its cover and icon are files. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that the sitemap's URLs are pages, and that the search index has every page with content.
+`scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, and that its cover and icon are files. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that each file in `/assets/` is used by some site's pages, stylesheets or templates, that the sitemap's URLs are pages, and that the search index has every page with content.
 
 `scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, bold or italics that only spaces separate from the next bold or italics (which can be one span), and non-breaking spaces at the end of a line or block.
 
