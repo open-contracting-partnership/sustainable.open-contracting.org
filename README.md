@@ -98,7 +98,7 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 {% page /plan/prioritize %}
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
 {% image /assets/images/Untitled.jpg 672 420 align-start normal %}
-{% pdf /assets/super/.../file.pdf %}
+{% pdf /assets/files/compliance-trail-checklist.pdf %}
 ```
 
 A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source and its width and height in Notion, then `align-start` to align it left, and `normal` to not make it as wide as the page.

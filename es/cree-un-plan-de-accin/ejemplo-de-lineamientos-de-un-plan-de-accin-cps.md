@@ -73,5 +73,5 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this outline:**
 
-{% pdf /assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/3203295d-4605-4a7e-a3e7-9887a3496212.pdf %}
+{% pdf /assets/files/spp-action-plan-outline.pdf %}
 {% endcallout %}

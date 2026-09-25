@@ -40,5 +40,5 @@ Remember that, although you will find most of these regulations at the national 
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
 
-{% pdf /assets/super/dc851ca6-c6bb-4517-b602-65ee02ce7294/files/10dff7fa-0acc-4162-80ee-37e9ea6b4518.pdf %}
+{% pdf /assets/files/compliance-trail-checklist.pdf %}
 {% endcallout %}

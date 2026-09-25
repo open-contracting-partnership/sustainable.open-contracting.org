@@ -42,5 +42,5 @@ The following checklist is designed to help you assess the different ways in whi
 {% callout green /assets/images/icons_D_Green6.png %}
 **Download this checklist:**
 
-{% pdf /assets/super/3673fab3-75dd-4533-8f68-4a5d34c01c9c/files/1f021d6a-e11c-4466-be7f-193dff660b97.pdf %}
+{% pdf /assets/files/enabling-environment-checklist.pdf %}
 {% endcallout %}

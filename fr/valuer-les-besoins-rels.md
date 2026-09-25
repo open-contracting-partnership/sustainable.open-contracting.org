@@ -12,7 +12,7 @@ sidebar: true
 
 Si vous souhaitez mettre en place des marchés publics durables, il ne suffit pas de trouver le moyen d’opter pour la solution la plus durable, vous devrez également vous assurer qu’un besoin réel existe concernant les biens, services ou travaux que vous prévoyez d’acquérir. Parfois, il se peut que l’option la plus durable soit de ne rien acheter. Afin d’éviter les achats superflus et d’assurer l’adéquation de l’objet du marché, il est essentiel d’évaluer les besoins avant de lancer un appel d’offres.
 
-{% callout green /assets/super/af234853-49e0-432a-9a90-4bd385d69bcb/images/64bb50dd-8683-40df-975a-88c6020c9de4/pin-icon.png %}
+{% callout red /assets/images/Pin_Red.png %}
 *Dans cette section, nous présentons les principales informations que vous devez réunir pour recenser fidèlement les besoins réels et garantir la mise en place de marchés plus ouverts et durables.*
 {% endcallout %}
 

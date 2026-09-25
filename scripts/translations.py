@@ -86,7 +86,7 @@ def features(file):
         "icon": get("icon"),
         "cover": get("cover"),
         "empty": not body.strip(),
-        "images": set(re.findall(r"/assets/(?:images|super)/[^\s\"')]+", body)),
+        "images": set(re.findall(r"/assets/(?:images|files)/[^\s\"')]+", body)),
         "links": set(LINK.findall(body)),
         "numbers": set(NUMBER.findall(text)),
         "blocks": [body.count(block) for block in BLOCKS],
