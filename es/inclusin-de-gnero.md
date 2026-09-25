@@ -64,11 +64,7 @@ Al comienzo de esta sección, presentamos diez formas diferentes en las que pued
 
   OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/) publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
 
-{% indent %}
-
-Además de los datos sobre si las empresas están dirigidas por mujeres, puede utilizar conjuntos de datos complementarios sobre la equidad de género de las empresas, si existen, tales como: información sobre la brecha salarial de género (si las mujeres reciben un salario inferior al de los hombres por un trabajo similar), mujeres en puestos de liderazgo y otras políticas de empoderamiento de género (licencia parental, subsidios para el cuidado de los hijos, etc.)
-
-{% endindent %}
+  Además de los datos sobre si las empresas están dirigidas por mujeres, puede utilizar conjuntos de datos complementarios sobre la equidad de género de las empresas, si existen, tales como: información sobre la brecha salarial de género (si las mujeres reciben un salario inferior al de los hombres por un trabajo similar), mujeres en puestos de liderazgo y otras políticas de empoderamiento de género (licencia parental, subsidios para el cuidado de los hijos, etc.)
 
 - **Use datos nacionales o estatales (Opción 10)**
 

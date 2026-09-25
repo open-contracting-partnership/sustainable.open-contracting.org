@@ -63,17 +63,18 @@ module NotionMarkdown
   def todo?(li)
     paragraph = li.children.first
     checkbox = paragraph&.children&.first
-    li.children.count { |child| child.type != :blank } == 1 && paragraph.type == :p && checkbox&.type == :html_element && checkbox.value == "input" &&
-      !checkbox.attr.key?("checked")
+    paragraph&.type == :p && checkbox&.type == :html_element && checkbox.value == "input" && !checkbox.attr.key?("checked")
   end
 
+  # Render a to-do's other blocks (like a nested list) as its children.
   def convert_todo(li, indent)
-    paragraph = li.children.first
+    paragraph, *rest = li.children.reject { |child| child.type == :blank }
     paragraph.children.shift
     text = paragraph.children.first
     text.value = text.value.delete_prefix(" ") if text&.type == :text
+    children = rest.empty? ? "" : %(<div class="notion-to-do__children">#{rest.map { |child| convert(child, indent) }.join}</div>)
     %(<div class="notion-to-do"><div class="notion-to-do__content"><div class="notion-to-do__icon">#{CHECKBOX}</div>) +
-      %(<div class="notion-to-do__title"><span class="notion-semantic-string">#{inner(paragraph, indent)}</span></div></div></div>\n)
+      %(<div class="notion-to-do__title"><span class="notion-semantic-string">#{inner(paragraph, indent).chomp}</span></div></div>#{children}</div>\n)
   end
 
   # Render a thematic break as a Notion divider.

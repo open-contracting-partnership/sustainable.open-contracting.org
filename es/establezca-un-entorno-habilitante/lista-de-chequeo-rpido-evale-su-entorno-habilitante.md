@@ -15,13 +15,9 @@ The following checklist is designed to help you assess the different ways in whi
 
 - [ ] Check whether current regulation **only allows you to award a contract to the lowest price bid.** If so, there is many things that you can do to implement SPP, including the following:
 
-{% indent %}
-
-- Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
-- Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.
-- Consider applying [Life-Cycle Costing (LCC)](/costeo-del-ciclo-de-vida) calculations.
-
-{% endindent %}
+  - Introduce existing environmental and social regulations that all suppliers should comply with (e.g. waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
+  - Establish sustainability criteria as essential requirements for suppliers. Make sure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For funded projects, some funding organisations might set some of these criteria themselves.
+  - Consider applying [Life-Cycle Costing (LCC)](/costeo-del-ciclo-de-vida) calculations.
 
 - [ ] Check whether your enabling framework **allows you to award a contract based on criteria other than just price** (e.g. [M.E.A.T.](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024) in Europe). If so, you can apply the same SPP practices as the ones mentioned above, but also design the evaluation process so that sustainability is part of the award criteria. When deciding what criteria to include, it can be useful to align with priorities expressed on existing national, and local, sustainability plans and policies (e.g. net zero goals).
 

@@ -81,13 +81,9 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 - **Paso 5:** Los candidatos presentan sus ofertas finales.
 - **Paso 6:** Evalúe las ofertas y adjudique el contrato al proveedor seleccionado
 
-{% indent %}
-
-{% callout red /assets/images/Icons_Red6.png %}
-Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.
-{% endcallout %}
-
-{% endindent %}
+  {% callout red /assets/images/Icons_Red6.png %}
+  Un cuestionario de precalificación (PQQ) es una lista de preguntas que están diseñadas para medir la idoneidad de un proveedor para cumplir los requisitos de un contrato.
+  {% endcallout %}
 
 {% endtoggle %}
 
