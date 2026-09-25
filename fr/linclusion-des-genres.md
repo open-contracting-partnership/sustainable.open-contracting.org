@@ -178,11 +178,7 @@ D’autres politiques de recrutement axées sur l’égalité femmes-hommes peuv
 
 À partir de ces données, vous pouvez commencer à évaluer les progrès concernant l’objectif de promotion de l’égalité entre les genres par l’entremise des marchés publics. Pour des orientations pratiques, précédemment dans ce guide, nous [avons présenté le cadre de suivi et d’évaluation](/suivi-et-valuation) permettant d’évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Ce cadre contenait trois exemples de résultats accompagnés d’indicateurs que vous pouvez utiliser pour évaluer la progression concernant la réalisation de l’objectif de promotion de l’inclusion des genres.
 
-Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans
-
-[cette section](/possibilits-dutilisation-des-donnes)
-
-et des conseils pratiques
+Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans [cette section](/possibilits-dutilisation-des-donnes) et des conseils pratiques.
 
 Gender data is typically more limited than other types of SPP data, this is usually down to the difficulty of collecting and processing good data. Centralizing data on suppliers will be an important step forward when considering gender analysis, as this will allow a supplier to report once and have multiple buyers share and evaluate that data.
 

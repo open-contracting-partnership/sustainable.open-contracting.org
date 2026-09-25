@@ -50,9 +50,7 @@ Avant de mettre en place des marchés publics durables, il peut être utile de d
 - Les facteurs qui vous aideront à déterminer les effets en matière de durabilité de la mise en place de marchés publics durables dans une catégorie particulière (comme les émissions de CO2 associées) ;
 - Les facteurs qui vous aideront à évaluer la facilité de mise en place (comme l’existence de certifications environnementales).
 
-Consultez [cette section](/priorits) pour en savoir plus sur ces facteurs. À titre d’exemple, le [Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) a utilisé
-
-[l’outil de définition des achats prioritaires du PNUE](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). Par ailleurs, [cette étude de cas](/base-de-donnes-dtudes-de-cas/slectionner-les-catgories-de-produits-vietnam) montre comment une technique simple permet d’évaluer les catégories de produits en fonction de la valeur des marchés les concernant, de la disponibilité et du coût des solutions alternatives durables, et de leurs effets en matières environnementale, économique et sociale pour définir les catégories prioritaires.
+Consultez [cette section](/priorits) pour en savoir plus sur ces facteurs. À titre d’exemple, le [Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) a utilisé [l’outil de définition des achats prioritaires du PNUE](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). Par ailleurs, [cette étude de cas](/base-de-donnes-dtudes-de-cas/slectionner-les-catgories-de-produits-vietnam) montre comment une technique simple permet d’évaluer les catégories de produits en fonction de la valeur des marchés les concernant, de la disponibilité et du coût des solutions alternatives durables, et de leurs effets en matières environnementale, économique et sociale pour définir les catégories prioritaires.
 
 {% endtoggle %}
 
