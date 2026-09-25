@@ -2,7 +2,7 @@
 permalink: /
 title: Accueil
 description: "\nLa mise en place de marchés publics durables exige des gouvernements qu’ils adoptent des pratiques d’achat fondamentalement différentes. Nous espérons que ce guide pratique vous aidera à entamer cette transition.\n"
-cover: /assets/images/Open_SPP_main_french.png
+cover: /assets/images/Open_SPP_main_french.webp
 cover_position: 81.39
 icon: /assets/images/Open_SPP_home_1.svg
 full_width: true

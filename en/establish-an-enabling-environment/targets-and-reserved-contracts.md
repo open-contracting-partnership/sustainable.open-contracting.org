@@ -2,7 +2,7 @@
 permalink: /establish-an-enabling-environment/targets-and-reserved-contracts
 title: Targets and reserved contracts
 description: "Some authorities set specific targets relating to how public procurement can deliver wider policy outcomes, including SPP. An authority might set a target - for instance - to award a certain number, or value, of contracts to SMEs, or minority-owned businesses. In some cases, an authority might reserve contracts for specific target outcomes or groups. This would involve reserving contracts for SMEs or minority-owned businesses."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green3.svg
 full_width: true
 notion_id: f67eee22c9d14d0287b923ba2eeab45f

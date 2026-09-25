@@ -2,7 +2,7 @@
 permalink: /le-secteur-tic-en-anglais
 title: Le secteur TIC (en anglais)
 description: "The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey5.svg
 full_width: true
 notion_id: "6f197651e77f4ebf9335d79b14b6df4a"

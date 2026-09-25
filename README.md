@@ -53,7 +53,7 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `permalink` | The page's URL path, which is also the path of its file |
 | `title` | The page's title |
 | `description` | The page's meta description |
-| `cover` | The header's cover image, also used as the social media image |
+| `cover` | The header's cover image: a WebP, or an SVG for flat shapes. The social media image is a JPEG with the same name, 1,200px wide, since not all platforms accept WebP |
 | `cover_position` | The cover's vertical position, as a percentage (default 50) |
 | `icon` | The header's icon, also used in breadcrumbs |
 | `full_width` | Whether the page is full width |

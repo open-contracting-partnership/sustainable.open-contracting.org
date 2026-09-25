@@ -2,7 +2,7 @@
 permalink: /implement
 title: Implement
 description: "In this second section, we provide you with the information you need to embed sustainability into a specific procurement process. As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle. "
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red.svg
 full_width: true
 notion_id: "79b865ec9e6f42cc957a713b028303cc"

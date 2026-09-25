@@ -2,7 +2,7 @@
 permalink: /communicating-the-enabling-framework-in-an-spp-action-plan-in-argentina
 title: Communicating the enabling framework in an SPP Action Plan in Argentina
 description: "In 2017, Argentina developed their National Sustainable Public Procurement Plan (ES), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it. The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP. \n\nAt the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. This includes the Decree approved in 2016 which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation. "
-cover: /assets/images/LAC_-_Argentina.png
+cover: /assets/images/LAC_-_Argentina.webp
 cover_position: 54.27
 icon: /assets/images/Notion-others2.svg
 full_width: true

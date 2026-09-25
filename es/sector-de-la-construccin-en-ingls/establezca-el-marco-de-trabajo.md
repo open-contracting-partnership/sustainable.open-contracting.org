@@ -2,7 +2,7 @@
 permalink: /sector-de-la-construccin-en-ingls/establezca-el-marco-de-trabajo
 title: Establezca el marco de trabajo
 description: "When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the enabling framework, it can be useful to identify, or consider establishing, the following compliance sources:"
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "9a8add811fd54a6ab147060d7c8ac03e"

@@ -2,7 +2,7 @@
 permalink: /herramientas-descargables
 title: Herramientas descargables
 description: "\nPara cuando esté estableciendo su marco de trabajo:"
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: "/assets/images/download-circular-button-1.svg"
 full_width: true
 notion_id: "7972c3259dfd4017bdeefe743f324c0f"

@@ -2,7 +2,7 @@
 permalink: /assess-needs
 title: Assess needs
 description: "When you decide to implement SPP, you should not only consider how you will select the most sustainable option, but also ensure that there is a real need for the goods, services, or works that you are going to purchase. Sometimes, you might find that the most sustainable option is to avoid procuring anything at all. To avoid purchasing unnecessarily, and ensure that procuring the right thing, it is essential to conduct a needs assessment before launching a tender."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: e26d206901154c1f94196272eefda571

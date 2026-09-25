@@ -2,7 +2,7 @@
 permalink: /priorits
 title: Priorités
 description: "Il existe de nombreuses façons de définir des priorités en ce qui concerne la mise en place de marchés publics durables et ouverts. Par exemple, il peut s’agir de traiter les enjeux environnementaux de première importance, d’axer le travail sur les secteurs ou catégories dans lesquels des biens et services écologiques sont immédiatement disponibles, de programmes publics dans lesquels les acheteurs et la société civile comprennent pourquoi l’utilisation de produits écologiques est nécessaire, ou encore de projets ou d’événements de premier plan où les marchés publics durables peuvent être utilisés pour sensibiliser et susciter l’intérêt du public, comme des événements sportifs, des conférences et la modernisation de bâtiments gouvernementaux importants."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: ac0ea2f84d304498b926d5045858734f

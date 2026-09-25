@@ -2,7 +2,7 @@
 permalink: /planification
 title: Planification
 description: "Dans cette partie, nous mettons à votre disposition toutes les informations dont vous aurez besoin pour commencer votre démarche. Vous trouverez les pratiques et approches essentielles permettant de placer la durabilité au cœur de votre stratégie de passation de marchés. Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte cinq sections répondant chacune aux besoins essentiels que nous avons recensés auprès des parties prenantes en ce qui concerne le début de la transformation de leurs pratiques d’achat."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green.svg
 full_width: true
 notion_id: b5a480a43f87452792022d719809c748

@@ -2,7 +2,7 @@
 permalink: /la-rduction-des-missions-de-carbone
 title: La réduction des émissions de carbone
 description: Les gouvernements et les entreprises définissent des échéances pour atteindre un niveau d’émission neutre. Les marchés publics peuvent servir de levier pour accélérer cette transition en promouvant des solutions émettant peu de carbone dans les chaînes d’approvisionnement des gouvernements.
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "9ee951c57fde48e59a727d7d76cbe6ff"

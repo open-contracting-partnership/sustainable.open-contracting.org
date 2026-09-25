@@ -2,7 +2,7 @@
 permalink: /establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes
 title: Umbrales y sectores con reglamentos diferentes
 description: "Procurement Thresholds establish different regulations for procurement contracts depending on their monetary value. Aside from thresholds, in some national and regional procurement frameworks there are specific regulations for certain categories of spend or types of public bodies."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green3.svg
 full_width: true
 notion_id: d1080e1a5e3240678b1b65a413cb1110

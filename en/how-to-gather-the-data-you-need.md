@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-{% image /assets/images/Asset_11a.png 742 473 %}
+{% image /assets/images/Asset_11a.webp 742 473 %}
 
 # How to gather the data you need
 

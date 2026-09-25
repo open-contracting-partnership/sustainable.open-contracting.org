@@ -2,7 +2,7 @@
 permalink: /le-secteur-tic-en-anglais/collecting-the-data
 title: Collecting the data
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the procurement process and the duration of the contract. "
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
 full_width: true
 notion_id: "0df2837888c2449db90abd53c74bfc4d"

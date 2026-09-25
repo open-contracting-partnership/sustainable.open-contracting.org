@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-{% image /assets/images/Asset_11d.jpg 2457 1847 %}
+{% image /assets/images/Asset_11d.webp 2457 1847 %}
 
 # Not all jobs are equal
 

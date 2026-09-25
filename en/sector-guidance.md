@@ -2,7 +2,7 @@
 permalink: /sector-guidance
 title: Sector guidance
 description: "In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes. This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process. "
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey.svg
 full_width: true
 notion_id: af0648dd80f4427691c47c7aba1c1342

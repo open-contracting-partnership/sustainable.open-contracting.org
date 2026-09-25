@@ -1,7 +1,7 @@
 ---
 permalink: /standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
 title: Standardizing sustainability requirements according to market capability in the Basque Country
-cover: /assets/images/Europe_-_Basque_Country.png
+cover: /assets/images/Europe_-_Basque_Country.webp
 cover_position: 53.64
 icon: /assets/images/Notion-others2.svg
 full_width: true

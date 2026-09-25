@@ -2,7 +2,7 @@
 permalink: /datos-abiertos-y-progreso-de-medicin/gender-inclusion
 title: Gender inclusion
 description: "Different organisations have different capabilities and resources, throughout this guide we have described implementation options according to the type of technical environment that a publisher might be operating in."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: e784fcd79eaa4e0f8444aa6dd9579f68

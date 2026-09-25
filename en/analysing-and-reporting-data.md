@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-{% image /assets/images/Asset_11e.jpg 1278 1099 %}
+{% image /assets/images/Asset_11e.webp 1278 1099 %}
 
 # Analysing and reporting data
 

@@ -2,7 +2,7 @@
 permalink: /open-data-measuring-progress/no-code-low-code-code
 title: "No code, low code, code"
 description: "Different organisations have different capabilities and resources. We describe these environments as no code, low code or code environments based on the publisher’s access to the resources required to create and use computer code."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green3.svg
 full_width: true
 notion_id: e3283c833b0e4d7e8b01d57d6c6b3e00

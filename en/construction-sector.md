@@ -2,7 +2,7 @@
 permalink: /construction-sector
 title: Construction sector
 description: "The construction industry is one of high economic relevance, as it is estimated to account for 6% of global GDP, with Africa's construction market valued at around USD 5.4 billion in 2020 and LAC’s at USD 829.3 billion in 2018. This translates into more than 100 million jobs worldwide. However, this sector also accounted for the largest share of both global final energy use (36%) and energy-related CO2 emissions (39%) in 2018. It is also classified as one of the sectors with the highest share of corruption, as well as a high-risk sector for forced labor."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey5.svg
 full_width: true
 notion_id: "922396faae2e490e82eb63c21ae7e0cc"

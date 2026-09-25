@@ -2,7 +2,7 @@
 permalink: /costeo-del-ciclo-de-vida
 title: Costeo del ciclo de vida
 description: "El costeo del ciclo de vida, o costo total de propiedad, se refiere a la práctica contable de determinar el costo compuesto de un activo. En el contexto de la contratación, los compradores utilizan el costeo del ciclo de vida para evaluar el coste total de poseer algo, normalmente una máquina de algún tipo. Por lo tanto, el costo del ciclo de vida asociado con un equipo puede incluir la compra original, los costos operativos, los costos de licencia, los costos de mantenimiento y los costos de eliminación. Otros elementos que se pueden considerar son los costos de fallas y el costo de reemplazar partes."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
 full_width: true
 notion_id: "5cac060e34a845439fd16e421bb2e206"

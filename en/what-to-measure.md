@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-{% image /assets/images/Asset_11b.jpg 1056 845 %}
+{% image /assets/images/Asset_11b.webp 1056 845 %}
 
 # What to measure?
 

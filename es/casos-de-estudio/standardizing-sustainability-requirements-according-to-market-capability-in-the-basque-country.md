@@ -1,7 +1,7 @@
 ---
 permalink: /casos-de-estudio/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country
 title: Standardizing sustainability requirements according to market capability in the Basque Country
-cover: /assets/images/Europe_-_Basque_Country.png
+cover: /assets/images/Europe_-_Basque_Country.webp
 icon: /assets/images/Notion-others2.svg
 full_width: true
 notion_id: d0a84c2a4dc24431a8647c1c5f4f9083

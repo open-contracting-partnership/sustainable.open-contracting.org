@@ -7,7 +7,7 @@ properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
 ---
-{% image /assets/images/Asset_11c.jpg 2457 1847 %}
+{% image /assets/images/Asset_11c.webp 2457 1847 %}
 
 # How to measure a job
 

@@ -2,7 +2,7 @@
 permalink: /choose-a-procurement-method
 title: Choose a procurement method
 description: "The design of a public procurement process can limit or facilitate the application of Open SPP practices. In this section we include approaches to procurement that can be useful to introduce Open SPP practices. Procuring agencies should openly communicate, for each procurement process, which of these approaches will be taken, and how they are underpinned by the Open SPP enabling framework."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
 full_width: true
 notion_id: fa649a8ba1c343baa82ee941abf95579

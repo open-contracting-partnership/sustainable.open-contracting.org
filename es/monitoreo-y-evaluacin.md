@@ -2,7 +2,7 @@
 permalink: /monitoreo-y-evaluacin
 title: Monitoreo y evaluación
 description: "En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). Este marco incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas."
-cover: /assets/images/PUBLIC_SPP_background.jpg
+cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
 full_width: true
 notion_id: fe3e0567289c471ab6a3251f5f358d5e
