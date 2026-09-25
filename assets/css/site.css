@@ -97,3 +97,15 @@ ol.notion-breadcrumb {
   margin: 0;
   list-style: none;
 }
+
+/* A database table's caption is its title, for screen readers, which is visible above it. */
+.notion-collection-table > caption {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

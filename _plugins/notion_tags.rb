@@ -157,6 +157,7 @@ module NotionTags
   # {% database_table [no-click] %}YAML{% enddatabase_table %} renders a database's table view, where YAML has
   # "columns" (a list of mappings with "name", "type" and optional "width" in pixels, in which the first column is
   # the title) and "items" (a list of the items' paths). Cells are the items' titles and properties.
+  # Its caption, for screen readers, is the title of the database block that contains it, or else of the page.
   class DatabaseTable < Liquid::Block
     def initialize(tag_name, markup, options)
       super
@@ -190,7 +191,9 @@ module NotionTags
         end
         "<tr>#{cells.join}</tr>"
       end
+      caption = context.registers[:database_title] || h(context["page"]["title"])
       %(<div class="notion-collection-table__wrapper" tabindex="0"><table class="notion-collection-table">) +
+        %(<caption>#{caption}</caption>) +
         %(<thead class="notion-collection-table__head"><tr>#{head.join}</tr></thead>) +
         %(<tbody class="notion-collection-table__body">#{rows.join}</tbody></table></div>)
     end
@@ -261,8 +264,11 @@ module NotionTags
 
     def render(context)
       title = %(<span class="notion-semantic-string">#{NotionTags.inline(context, @title)}</span>)
+      context.registers[:database_title] = NotionTags.inline(context, @title).gsub(/<[^>]*>/, "")
+      views = super.strip
+      context.registers.delete(:database_title)
       %(<div class="notion-collection inline"><div class="notion-collection__header-wrapper">) +
-        %(<h3 class="notion-collection__header">#{title}</h3></div>#{super.strip}</div>)
+        %(<h3 class="notion-collection__header">#{title}</h3></div>#{views}</div>)
     end
   end
 

@@ -16,7 +16,7 @@ const knownWarnings = [
     // "Elements must meet minimum color contrast ratio thresholds." (needs review: a database table view's cells clip
     // their content, and a gallery card's link is over its cover and properties)
     // "This element is absolutely positioned and the background color can not be determined." (a gallery card's link
-    // covers the card, and a code block's copy button is over the code)
+    // covers the card, a code block's copy button is over the code, and a database table's caption is visually hidden)
     rules: ["color-contrast", "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Abs"],
     selectors: [
       ".notion-collection-table .notion-property",
@@ -25,6 +25,7 @@ const knownWarnings = [
       ".notion-collection-card__anchor",
       ".notion-collection-card__property",
       ".notion-code__copy-button",
+      ".notion-collection-table > caption",
     ],
   },
   {
@@ -74,11 +75,6 @@ const knownWarnings = [
     // "The heading structure is not logically nested." (headings are at Notion's levels: see #17)
     rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1_A.G141", "heading-order"],
     selectors: [],
-  },
-  {
-    // "If this table is a data table, consider using a caption element…" (a database's title is its heading: see #17)
-    rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H39.3.NoCaption"],
-    selectors: [".notion-collection-table"],
   },
 ];
 
