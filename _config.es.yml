@@ -13,6 +13,6 @@ search_labels:
   open: Abrir
   open_in_new_tab: Abrir en una pestaña nueva
 destination: _site/es
-exclude: [en, fr, scripts, "Export-*", README.md, LICENSE.md, biome.jsonc, build.mjs, "pa11y.*.js", package.json, "pnpm-*.yaml", pyproject.toml, uv.lock]
+exclude: [en, fr, scripts, "Export-*", README.md, LICENSE.md, biome.jsonc, build.mjs, knip.jsonc, "pa11y.*.js", package.json, "pnpm-*.yaml", pyproject.toml, uv.lock]
 notion:
   hide_properties: true

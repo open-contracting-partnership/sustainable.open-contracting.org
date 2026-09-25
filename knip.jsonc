@@ -1,0 +1,7 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema.json",
+  "entry": ["build.mjs", "assets/js/analytics.js", "assets/js/site.js"],
+  "project": ["assets/js/**"],
+  // Pagefind builds its script into each site, after Jekyll.
+  "ignoreUnresolved": ["/pagefind/pagefind.js"]
+}
