@@ -345,7 +345,7 @@ module NotionTags
       page = NotionTags.pages(context).fetch(@path)
       title = CGI.escapeHTML(page["title"].to_s)
       icon = if page["icon"]
-               %(<img alt="#{title}" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"])}"/>)
+               %(<img alt="" loading="lazy" class="notion-icon" style="#{STYLE}" src="#{CGI.escapeHTML(page["icon"])}"/>)
              else
                NotionTags::PAGE_ICON.gsub("16px", "20px")
              end
