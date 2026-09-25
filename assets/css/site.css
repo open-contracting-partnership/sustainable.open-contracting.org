@@ -128,3 +128,22 @@ ol.notion-breadcrumb {
 .notion-page__icon:has(> img) {
   min-width: 0;
 }
+
+/* The sidebar's sections, as lists, separated as Notion's empty paragraphs separated them. */
+.notion-sidebar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Flex, like the column, so that the links' and paragraph's margins don't collapse. */
+.notion-sidebar,
+.notion-sidebar li {
+  display: flex;
+  flex-direction: column;
+}
+
+.notion-sidebar > ul:first-child > li + li,
+.notion-sidebar > p {
+  margin-top: 2rem;
+}

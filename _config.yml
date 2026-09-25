@@ -29,4 +29,5 @@ kramdown:
     raquo_space: " >>"
 # The sidebar's fraction of the width of pages with "sidebar: true".
 sidebar_width: 0.25
-# Each language's config sets breadcrumb_label, the label of the button that shows the breadcrumbs that don't fit.
+# Each language's config sets breadcrumb_label, the label of the button that shows the breadcrumbs that don't fit,
+# and sidebar_label, the label of the sidebar's navigation.
