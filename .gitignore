@@ -1,9 +1,13 @@
-.crawl/
-.jekyll-cache/
+# Dependencies
 .bundle/
-_site/
-vendor/
-.DS_Store
-Export-*/
 .venv/
 node_modules/
+vendor/
+
+# Builds
+.jekyll-cache/
+_site/
+
+# Notion's exports and the crawl of the Super.so sites, from the import
+.crawl/
+Export-*/
