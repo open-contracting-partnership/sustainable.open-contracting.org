@@ -123,3 +123,8 @@ ol.notion-breadcrumb {
 .notion-table__cell .notion-list-item:last-child {
   padding-bottom: 0;
 }
+
+/* A page link's image icon is square, like the image, so that no browser crops it. */
+.notion-page__icon:has(> img) {
+  min-width: 0;
+}
