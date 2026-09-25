@@ -52,7 +52,8 @@ The use of hazardous substances in ICT equipment can be dangerous for those hand
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 For displays, for example, [on pages 124 to 134](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) **TCO includes guidelines on the maximum concentration of hazardous substances that these products should contain.**
-<br>Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://tcocertified.com/industry/accepted-substance-list/) that can be used as guidance.
+
+Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://tcocertified.com/industry/accepted-substance-list/) that can be used as guidance.
 {% endcallout %}
 
 ## Repairability, upgradeability and recyclability
@@ -119,7 +120,8 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
-<br>**Introducing responsible supply-chain criteria in the procurement process:**
+
+**Introducing responsible supply-chain criteria in the procurement process:**
 
 - [Procura +. 2020. Socially responsible public procurement of ICT equipment in Sweden](https://electronicswatch.org/make-ict-fair-case-study-socially-responsible-public-procurement-of-ict-equipment-in-sweden-december-2020_2584025.pdf)
 

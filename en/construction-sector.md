@@ -16,8 +16,10 @@ As the method by which many construction projects are delivered, public procurem
 
 {% callout gray /assets/images/Icons_Grey8.png %}
 It is important to note that **within the construction sector, there are different built asset** types, including residential and commercial buildings, economic infrastructure (e.g. transport) and social infrastructure (e.g. education).
-<br>Projects related to each of t**hese asset types are normally divided into four stages**: Design, Construction, In-Use and Deconstruction. As well as representing the lifecycle of a construction project, **these stages can also represent different types of construction procurement processes**, depending on the contract signed. In most cases, Design and Construction are procured together (Design and Build contracts), with the inclusion, sometimes, of the In-Use stage (Design-Build-Operate contracts).
-<br>**This section does not go into detail on the different types of construction projects.**
+
+Projects related to each of t**hese asset types are normally divided into four stages**: Design, Construction, In-Use and Deconstruction. As well as representing the lifecycle of a construction project, **these stages can also represent different types of construction procurement processes**, depending on the contract signed. In most cases, Design and Construction are procured together (Design and Build contracts), with the inclusion, sometimes, of the In-Use stage (Design-Build-Operate contracts).
+
+**This section does not go into detail on the different types of construction projects.**
 {% endcallout %}
 
 {% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start %}

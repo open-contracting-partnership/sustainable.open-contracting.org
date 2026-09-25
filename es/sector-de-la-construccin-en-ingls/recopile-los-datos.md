@@ -73,12 +73,14 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 **The methods that will be used during the project to collect the data should not only be contractually agreed between the main contractor and the procuring authority, but also between the contractor and its subcontractors and suppliers**.
-<br>All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance](/elabore-obligaciones-del-contrato) should also be included.
+
+All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance](/elabore-obligaciones-del-contrato) should also be included.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
-<br>**Templates for BOQs and SWMPs:**
+
+**Templates for BOQs and SWMPs:**
 
 - [BOQ Template - European Bank for Reconstruction and Development (EBRD)](https://web.archive.org/web/20220621190157/https://www.ebrd.com/downloads/procurement/cpu/PUR1301_13_New_Cairo_tender/billofquantitiestemplate.xls)
 
@@ -87,9 +89,11 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case study
-<br></strong>[Copenhagen has established a task force](https://op.europa.eu/es/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-es) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
-<br>The task force consists of nine people, and is entitled to visit all types of workplaces in Denmark at all times, monitoring pay and working conditions. They combine on-the-spot inspection with investigations into the conditions of specific employees based on documentation of pay, working hours, tax, etc.
+**Case study**
+
+[Copenhagen has established a task force](https://op.europa.eu/es/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-es) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
+
+The task force consists of nine people, and is entitled to visit all types of workplaces in Denmark at all times, monitoring pay and working conditions. They combine on-the-spot inspection with investigations into the conditions of specific employees based on documentation of pay, working hours, tax, etc.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}

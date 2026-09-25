@@ -86,8 +86,9 @@ To deliver on these seven dimensions of openness high-quality data is crucial. T
 We have already compiled [a piece of guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) that explores how open data can help you to drive SPP, and recommends the first steps in your open data journey.
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
-<strong>Using ‘green flags’ in government procurement data
-<br></strong>[Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) - this guide provides a first introduction into the open data that can be used to track and measure the adoption and progress in implementing sustainable public procurement.
+**Using ‘green flags’ in government procurement data**
+
+[Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) - this guide provides a first introduction into the open data that can be used to track and measure the adoption and progress in implementing sustainable public procurement.
 {% endcallout %}
 
 Green Flags can help you think about the key data categories you need to be able to plan and implement green public procurement. The graphic below illustrates some of the key data points that you can capture across the stages of planning, tendering, awarding and delivering public contracts and how they help tracking, reporting and analysis of procurement.

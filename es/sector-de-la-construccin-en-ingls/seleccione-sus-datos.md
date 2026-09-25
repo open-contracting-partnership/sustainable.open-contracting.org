@@ -36,7 +36,8 @@ The quantity of more sustainable material use should be captured. Sustainable ma
 
 {% callout gray /assets/images/Icons_Grey9.png %}
 In a tender process, you can **establish the use of materials with certain sustainability standards essential criteria**.
-<br>Another option is to include these variables as part of award criteria, **granting the highest score to those projects which, measured in kilograms (or tonnes) use the least amount of materials, reuse the highest amount of available materials, or use the highest amount of sustainable materials.**
+
+Another option is to include these variables as part of award criteria, **granting the highest score to those projects which, measured in kilograms (or tonnes) use the least amount of materials, reuse the highest amount of available materials, or use the highest amount of sustainable materials.**
 {% endcallout %}
 
 ### Vehicle and transport use
@@ -118,7 +119,8 @@ In a tender process, the selection of local companies, SMEs, or women-owned comp
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
-<br>**Including construction sustainability criteria in tender documents:**
+
+**Including construction sustainability criteria in tender documents:**
 
 - [Civil Works Contract Model. IHOBE (ES)](https://www.ihobe.eus/CriteriosAmbientales/Ficha.aspx?IdMenu=244677a9-6fc5-4e48-b375-3283c46421fe&Cod=0e4a8c33-e470-4792-b0f2-58ed3b554490&Idioma=es-ES)
 

@@ -17,8 +17,9 @@ En esta sección, incluimos algunos de **los mecanismos que se pueden utilizar p
 {% endcallout %}
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
-<strong>Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.
-<br></strong>Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción.
+**Proporcionar canales claros para la retroalimentación de usuarios y ciudadanos.**
+
+Uno de los elementos clave de una CPS Abierta es tener canales claros y abiertos para recopilar comentarios de usuarios y ciudadanos. Como se mencionó anteriormente, esto puede referirse al seguimiento general de las prácticas de contratación pública para garantizar la transparencia. Sin embargo, esto también puede referirse a los mecanismos que monitorean el cumplimiento de las cláusulas de sostenibilidad en los contratos públicos; presentamos esta idea aquí y la desarrollamos más con ejemplos en los sectores de las ICT y la construcción.
 {% endcallout %}
 
 ## ¿Cómo se puede monitorear el desempeño durante la implementación del contrato?

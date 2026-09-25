@@ -87,8 +87,9 @@ En la sección. Cree apoyo y capacidades propusimos algunos mecanismos operacion
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Estudio de caso
-<br>En 2021 la Ciudad del Cabo, Sudáfrica, publicó su</strong> [Plan de Acción de Contratación Ecológica](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan)
+**Estudio de caso**
+
+**En 2021 la Ciudad del Cabo, Sudáfrica, publicó su** [Plan de Acción de Contratación Ecológica](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan)
 
 **El Plan incluye siete objetivos operacionales**, que incluyen: "asegurar que la Ciudad tenga disponible políticas adecuadas para apoyar la contratación verde, incluidas la herramientas administrativas asociadas" y "Monitorear y evaluar el desempeño de la Ciudad en términos de contratación ecológica".
 
@@ -106,8 +107,9 @@ Al tiempo que usted presenta los enfoques seleccionados para CPS, es importante 
 La implementación de CPS Abierta normalmente involucra a varias entidades institucionales a nivel nacional, que frecuentemente incluye el Ministerio de Medio Entorno, y cualesquiera Autoridades Nacionales de Contratación Pública pertinentes. El Plan de Acción debe hace claridad en la asignación de **responsabilidades y rendición de cuentas entre las agencias del gobierno (de demás partes interesadas del caso**).
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Estudio de caso
-<br>En 2016 Ecuador público su primer </strong>[Plan de Acción Nacional para la implementación de Compras Públicas Sostenibles](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). En las páginas 20 a 22 el Plan incluyó información en relación con una estructura de gobernanza que ha sido implementada para asignar responsabilidades en relación con CPS. La autoridad máxima es el Servicio Nacional de Contratación Pública (SERCOP), con el apoyo del Ministerio de Entorno. Estos de las entidades recibirían además el apoyo de un grupo de trabajo que incluye otros ministerios, tales como el Ministerio de Inclusión Económica y Social (MIES) y el Ministerio de Agricultura, Ganadería, Acuacultura y Pesca (MAGAP).
+**Estudio de caso**
+
+**En 2016 Ecuador público su primer** [Plan de Acción Nacional para la implementación de Compras Públicas Sostenibles](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). En las páginas 20 a 22 el Plan incluyó información en relación con una estructura de gobernanza que ha sido implementada para asignar responsabilidades en relación con CPS. La autoridad máxima es el Servicio Nacional de Contratación Pública (SERCOP), con el apoyo del Ministerio de Entorno. Estos de las entidades recibirían además el apoyo de un grupo de trabajo que incluye otros ministerios, tales como el Ministerio de Inclusión Económica y Social (MIES) y el Ministerio de Agricultura, Ganadería, Acuacultura y Pesca (MAGAP).
 
 **En la página 28 el Plan propone un cronograma de actividades a realizar durante el primer año, y asigna responsabilidades a las diferentes autoridades públicas.**
 {% endcallout %}
@@ -119,8 +121,9 @@ La implementación de CPS Abierta normalmente involucra a varias entidades insti
 Muchas de las actividades asociadas con la implementación de CPS Abierta necesitarán la financiación del gobierno para ponerlos en práctica. El Plan de Acción debe compartir abiertamente los costos **financieros estimados asociados con la implementación de las actividades que se requieren para desarrollar los mecanismos de apoyo y fortalecimiento de capacidades, lo mismo que para el monitoreo y comunicación de resultados.**
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Estudio de caso
-<br>En 2021, el País Vasco en España publicó el</strong> [Programa De Compra Y Contratación Verde De Euskadi](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years). El programa es una continuación de los planes de acción anteriores publicadas entre 2011 y 2016, y en esta ocasión incluyó una hoja de ruta para 20:30. El plan presenta 10 líneas de acción que se implementarán entre 2021 y 2030. **La página 36 ofrece una visión clara del presupuesto asignado a cada línea de acción, cuyo valor total es de €1.590.000 en los próximos 10 años.**
+**Estudio de caso**
+
+**En 2021, el País Vasco en España publicó el** [Programa De Compra Y Contratación Verde De Euskadi](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years). El programa es una continuación de los planes de acción anteriores publicadas entre 2011 y 2016, y en esta ocasión incluyó una hoja de ruta para 20:30. El plan presenta 10 líneas de acción que se implementarán entre 2021 y 2030. **La página 36 ofrece una visión clara del presupuesto asignado a cada línea de acción, cuyo valor total es de €1.590.000 en los próximos 10 años.**
 {% endcallout %}
 
 {% endtoggle %}

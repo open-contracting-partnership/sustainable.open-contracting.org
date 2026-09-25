@@ -80,7 +80,8 @@ Green construction accreditations cover many aspects of construction projects, *
 
 {% callout gray /assets/images/Notion-others.png %}
 **Resources**
-<br>**Master planning guidance:**
+
+**Master planning guidance:**
 
 - [Master Planning. 2015. The World Bank](https://web.archive.org/web/20230127212452/https://urban-regeneration.worldbank.org/node/51).
 - [Master Planning and statutory planning process table (Community Gardens). GOV.UK](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)
@@ -101,7 +102,9 @@ Green construction accreditations cover many aspects of construction projects, *
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br>Completed in 2017, the </strong>[**design of the Ghana Ridge Hospital**](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) <strong>was the first project in Africa to receive LEED accreditation.
-<br></strong>The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.** The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. It is the first project in Africa to receive LEED accreditation.
+**Case Study**
+
+**Completed in 2017, the** [**design of the Ghana Ridge Hospital**](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) **was the first project in Africa to receive LEED accreditation.**
+
+The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.** The project found ways to overcome the lack of electricity and water available through sustainable and innovative design. It is the first project in Africa to receive LEED accreditation.
 {% endcallout %}

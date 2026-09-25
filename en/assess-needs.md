@@ -63,8 +63,9 @@ Sharing the needs assessment process is an essential part of Open SPP. Public au
 {% endtoggle %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br>Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,</strong> working directly with medical staff to shape tender documents for use across the country.
+**Case Study**
+
+**Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country.
 
 **CONSIP agrees the tender specifications in consultations with doctors' groups and scientific associations, while tenders are frequently drafted by medical professionals themselves.** This prioritizes product quality which is vital for medical use. Devices that meet the contract’s financial requirements and specifications are tested by doctors and nurses in their hospitals, which then award the final contract on the basis of the product’s performance.
 
@@ -104,8 +105,9 @@ Framing user needs in terms of outcomes can help to encourage innovative sustain
 Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered.
 
 {% callout red /assets/images/Pin_Red.png %}
-<strong>For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:
-<br></strong>”The Department has identified a need for 6 smart screens for use in its 12 meeting rooms. The screens will facilitate web-conferencing and reduce the need for document printing.
+**For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:**
+
+”The Department has identified a need for 6 smart screens for use in its 12 meeting rooms. The screens will facilitate web-conferencing and reduce the need for document printing.
 
 Based on user consultation, a maximum of 6 meetings requiring screens are held at any one time.
 
@@ -124,10 +126,13 @@ The needs statement should be openly shared with the relevant stakeholders, and 
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br></strong>Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
-<br>**PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
+**Case Study**
+
+Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
+
+**PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
 
 In the end, out of the 2.563 items used in the new office 45% of items were re-used, 49% were remanufactured, and only 6% of items were sourced from new stock.
-<br>In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
+
+In total, it is estimated that **by re-using available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2.**
 {% endcallout %}

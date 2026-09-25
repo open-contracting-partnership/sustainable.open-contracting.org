@@ -84,8 +84,9 @@ Para cumplir con estas siete dimensiones de la apertura, los datos de alta calid
 Ya hemos compilado [una guía](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) que explora cómo los datos abiertos sobre adquisiciones pueden ayudarlo a impulsar CPS y recomienda los primeros pasos en su travesía de datos abiertos.
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
-<strong>Uso de “banderas ecológicas” en datos de contratación pública
-<br></strong>[Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/). Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible
+**Uso de “banderas ecológicas” en datos de contratación pública**
+
+[Banderas Verdes: Cómo los datos abiertos pueden arrojar luz en contratación pública sostenible](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/). Esta guía ofrece una primera introducción a datos abiertos que pueden ser utilizados para rastrear y medir la adopción y progreso en la implementación de la contratación pública sostenible
 {% endcallout %}
 
 Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos clave que necesita para poder planificar e implementar contrataciones públicas ecológicas. El siguiente gráfico ilustra algunos de los puntos de datos clave que usted puede capturar en las etapas de planificación, licitación, adjudicación y entrega de contratos públicos y cómo ayudan a rastrear, informar y analizar la contratación pública.

@@ -57,8 +57,7 @@ The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
 {% callout green /assets/images/Pin_green.png %}
-<strong>More examples of goals, outcomes and indicators; how to create them; and how to measure them:
-</strong>
+**More examples of goals, outcomes and indicators; how to create them; and how to measure them:**
 
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
 {% endcallout %}
@@ -66,8 +65,7 @@ The structure presented on the table above can be used within your organization 
 Developing goals, outcomes, and indicators requires a proper understanding of what you are trying to achieve, and how. Our sample M&E framework helps you to think through how to set and track practical, specific, and measurable goals, outcomes, and indicators.
 
 {% callout yellow /assets/images/Icons_yellow3-1.png %}
-<strong>Deep dive into five specific Open SPP worked examples:
-</strong>
+**Deep dive into five specific Open SPP worked examples:**
 
 {% page /open-data-measuring-progress %}
 {% endcallout %}

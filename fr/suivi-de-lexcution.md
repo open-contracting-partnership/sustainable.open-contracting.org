@@ -18,8 +18,9 @@ Dans cette section, nous présentons plusieurs mécanismes pouvant être utilis�
 {% endcallout %}
 
 {% callout default /assets/images/7_areas_open_SPP5.png %}
-<strong>Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.
-<br>L’un des aspects essentiels des </strong>[marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et de la [construction](/la-construction-en-anglais).
+**Fournir des canaux de communication clairs pour collecter les avis des bénéficiaires et de la société civile.**
+
+**L’un des aspects essentiels des** [marchés publics durables et ouverts](/definition) est la mise en place de canaux ouverts clairs permettant de collecter les avis des bénéficiaires et de la société civile. Comme [signalé précédemment](/des-mcanismes-dassistance), cela peut contribuer au suivi global des pratiques de passation de marchés afin de garantir la transparence. Toutefois, cela peut également concerner les mécanismes de suivi du respect des clauses de durabilité dans les marchés publics. Nous présentons cette idée dans cette section et l’approfondissons à l’aide d’exemples concernant les secteurs des [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et de la [construction](/la-construction-en-anglais).
 {% endcallout %}
 
 ## Comment suivre les résultats durant l’exécution du marché ?

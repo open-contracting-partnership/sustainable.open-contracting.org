@@ -84,8 +84,9 @@ Pour pouvoir exploiter ces sept dimensions de l’ouverture, il est essentiel de
 Nous avons déjà compilé [des orientations](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) montrant comment les données ouvertes relatives aux marchés publics peuvent vous aider à renforcer les marchés publics durables dans lesquelles vous trouverez des conseils pour les premières étapes de votre démarche d’ouverture des données.
 
 {% callout blue /assets/images/Icons_Blue_Intro5.png %}
-<strong>Des « signaux écologiques » dans les données relatives aux marchés publics
-<br></strong>« [Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) »: ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.
+**Des « signaux écologiques » dans les données relatives aux marchés publics**
+
+« [Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) »: ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.
 {% endcallout %}
 
 Les signaux écologiques peuvent aider à déterminer les principales catégories de données qui devront être mobilisées pour planifier et mettre en place des marchés publics écologiques. Le tableau ci-dessous illustre certaines informations essentielles que vous pouvez collecter durant les phases de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics et indique en quoi elles peuvent aider à observer, évaluer et analyser les marchés publics.

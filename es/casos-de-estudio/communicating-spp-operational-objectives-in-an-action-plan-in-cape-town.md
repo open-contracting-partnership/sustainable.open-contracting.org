@@ -11,6 +11,8 @@ sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
 **In 2021, the City of Cape Town published its [Green Procurement Action Plan](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). The Plan includes seven operational objectives**, including “Ensure that the City has in place appropriate policies to support green procurement, including associated administrative tools”, and “Monitor and evaluate the City’s performance in terms of green procurement”.
-<br>Each objective is associated with certain outcomes, and activities, which mostly refer to the creation of supporting mechanisms. These include for example, “Develop guidelines and specifications for prioritized goods”, or “Develop a variety of communication and training products and interventions aimed at City staff”.
-<br>**The City has given each activity a timeframe for completion, which varies from 1-2 years, 3-5 years, and 6-10 years.**
+
+Each objective is associated with certain outcomes, and activities, which mostly refer to the creation of supporting mechanisms. These include for example, “Develop guidelines and specifications for prioritized goods”, or “Develop a variety of communication and training products and interventions aimed at City staff”.
+
+**The City has given each activity a timeframe for completion, which varies from 1-2 years, 3-5 years, and 6-10 years.**
 {% endcallout %}

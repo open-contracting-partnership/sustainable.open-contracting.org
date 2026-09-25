@@ -24,10 +24,10 @@ La contratación basada en resultados puede ser otra forma de comenzar a impleme
 
 Cuando decida utilizar enfoques de contratación basados en resultados, esto puede generar dos beneficios principales:
 
-- <strong>Enfocándose en las necesidades reales
-  </strong>Al enmarcar las necesidades en términos de resultados (por ejemplo, la necesidad de un sistema de entretenimiento para pacientes en un centro de salud) en lugar de necesidades específicas (por ejemplo, unidades de televisión), las autoridades públicas abren la opción de considerar diferentes formas de satisfacer las necesidades identificadas. Algunas de las soluciones propuestas por los proveedores podrían responder mejor a las necesidades identificadas que las opciones específicas que podrían considerarse.
-- <strong>Impulsando la innovación
-  </strong>Enmarcar las necesidades en términos de resultados anima al  mercado de proveedores a desarrollar y proponer diferentes soluciones.
+- **Enfocándose en las necesidades reales**
+  Al enmarcar las necesidades en términos de resultados (por ejemplo, la necesidad de un sistema de entretenimiento para pacientes en un centro de salud) en lugar de necesidades específicas (por ejemplo, unidades de televisión), las autoridades públicas abren la opción de considerar diferentes formas de satisfacer las necesidades identificadas. Algunas de las soluciones propuestas por los proveedores podrían responder mejor a las necesidades identificadas que las opciones específicas que podrían considerarse.
+- **Impulsando la innovación**
+  Enmarcar las necesidades en términos de resultados anima al  mercado de proveedores a desarrollar y proponer diferentes soluciones.
 
 {% endtoggle %}
 

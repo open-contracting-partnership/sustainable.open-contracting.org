@@ -107,10 +107,14 @@ Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dres
 
 {% callout red /assets/images/Pin_Red.png %}
 **À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le** [module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) de la Commission européenne fournit les informations suivantes :
-<br>« Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
-<br>Basé sur une consultation des utilisateurs et utilisatrices, un maximum de six réunions nécessitant ces écrans ont lieu simultanément.
-<br>Les projecteurs dont nous disposons consomment beaucoup d’énergie et tombent souvent en panne.
-<br>Le Département étudiera les propositions concernant la location d’écrans dans le cadre d’un contrat de prestation de services. » \[traduction\]
+
+« Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
+
+Basé sur une consultation des utilisateurs et utilisatrices, un maximum de six réunions nécessitant ces écrans ont lieu simultanément.
+
+Les projecteurs dont nous disposons consomment beaucoup d’énergie et tombent souvent en panne.
+
+Le Département étudiera les propositions concernant la location d’écrans dans le cadre d’un contrat de prestation de services. » \[traduction\]
 {% endcallout %}
 
 L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](/interagir-avec-le-march). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](/priorits) et s’il existe des [objectifs et cibles pertinents](/suivi-et-valuation) que vous devez prendre en compte durant le processus de passation des marchés publics.
@@ -123,8 +127,9 @@ L’exposé des besoins doit être diffusé de façon ouverte avec les parties p
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Étude de cas
-<br></strong>Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.
+**Étude de cas**
+
+Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.
 
 PHW a décidé d’intégrer des exigences de durabilité à l’appel d’offres et un inventaire complet du mobilier de l’entité. L’offre sélectionnée est celle d’un consortium regroupant un service de conception durable de bureaux et une société d’intérêt communautaire.
 

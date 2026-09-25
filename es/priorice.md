@@ -65,7 +65,8 @@ Uno de los factores clave que usted debe considerar al determinar las prioridade
 {% toggle **Impacto ambiental** %}
 
 Cada categoría puede ser clasificada de acuerdo con su impacto sobre los diferentes factores ambientales, tales como emisiones de CO2, contaminación del aire y agua, rellenos sanitarios, sustancias peligrosas materias primas, consumo de energía, consume de agua e impactos sobre la biodiversidad.
-<br>Por ejemplo, tal como se aprecia en la sección dedicada a sectores específicos, el impacto del entorno del [sector construcción](/sector-de-la-construccin-en-ingls) está asociado principalmente con la emisión de CO2, con un impacto potencial sobre las materias primas, la contaminación, y biodiversidad. Por otro lado, el [sector TIC](/sector-ict-en-ingls) se asocia más con desechos, sustancias peligrosas, y materias primas.
+
+Por ejemplo, tal como se aprecia en la sección dedicada a sectores específicos, el impacto del entorno del [sector construcción](/sector-de-la-construccin-en-ingls) está asociado principalmente con la emisión de CO2, con un impacto potencial sobre las materias primas, la contaminación, y biodiversidad. Por otro lado, el [sector TIC](/sector-ict-en-ingls) se asocia más con desechos, sustancias peligrosas, y materias primas.
 
 {% endtoggle %}
 

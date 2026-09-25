@@ -21,7 +21,8 @@ sidebar: true
 
 {% callout yellow /assets/images/Icons_Grey3.png %}
 *Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés.*
-<br>[Access the toolkit in English](https://sustainable.open-contracting.org/)<br>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
+
+[Access the toolkit in English](https://sustainable.open-contracting.org/)<br>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
 {% endcallout %}
 
 {% image /assets/images/Structure_Diagram_esp.png 5504 5563 align-start %}

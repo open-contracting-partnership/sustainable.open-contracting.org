@@ -10,7 +10,8 @@ sidebar: true
 ---
 {% callout green /assets/images/Pin_green.png %}
 In this section, **we provide you with all the information you need to get started**. This includes the key practices and approaches that you can take to embed sustainability into you procurement strategy.
-<br>As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started.
+
+As you can see on the diagram below, we have created five subsections to meet the key needs that we heard from stakeholders to get them started.
 {% endcallout %}
 
 {% image /assets/images/Group_1Plan-3.png 701.99 300.73 align-start %}

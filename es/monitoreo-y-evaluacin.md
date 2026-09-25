@@ -61,8 +61,7 @@ La muestra Marco M&E ofrece una orientación sobre la información que se requie
 La estructura presentada en la tabla anterior se puede utilizar dentro de su organización para fijar sus propias metas, resultados e indicadores para todas las áreas prioritarias de contratación Para ver más ejemplos, hemos desarrollado un ejemplo marco completo de un Marco M&E. Ver enlace abajo.
 
 {% callout green /assets/images/Pin_green.png %}
-<strong>Más ejemplos de metas resultados e indicadores; como crearlos; y como medirlos:
-</strong>
+**Más ejemplos de metas resultados e indicadores; como crearlos; y como medirlos:**
 
 {% page /monitoreo-y-evaluacin/ejemplo-de-marco-me bg-green %}
 {% endcallout %}
@@ -70,8 +69,7 @@ La estructura presentada en la tabla anterior se puede utilizar dentro de su org
 El desarrollo de metas, resultados e indicadores exige un entendimiento integral de lo que usted está tratando de lograr, y la manera de hacerlo. Nuestro ejemplo de Marco M&E le ayudará a pensar cómo se pueden fijar y hacer monitoreo de metas, resultados e indicadores prácticos específicos y medibles
 
 {% callout yellow /assets/images/Icons_yellow3-1.png %}
-<strong>Láncese a profundidad en estos cinco ejemplos específicos para CPS:
-</strong>
+**Láncese a profundidad en estos cinco ejemplos específicos para CPS:**
 
 {% page /datos-abiertos-y-progreso-de-medicin %}
 {% endcallout %}

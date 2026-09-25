@@ -17,8 +17,9 @@ In this section, we provide guidance on different options for introducing sustai
 Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real [needs](/assess-needs) are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it.
 
 {% callout default /assets/images/7_areas_open_SPP3.png %}
-<strong>Clear use and justification of sustainability criteria.
-<br></strong>One of the key elements of [Open SPP](/what-is-open-spp) is disclosing how and why sustainability criteria have been introduced in a procurement process. As explained in this section, when introducing sustainability criteria, you must transparently disclose on the tender opportunity:
+**Clear use and justification of sustainability criteria.**
+
+One of the key elements of [Open SPP](/what-is-open-spp) is disclosing how and why sustainability criteria have been introduced in a procurement process. As explained in this section, when introducing sustainability criteria, you must transparently disclose on the tender opportunity:
 
 - **How the criteria are related to the subject-matter of the contract.**
 - **How suppliers will be evaluated against the criteria.**

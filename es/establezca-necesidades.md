@@ -63,8 +63,7 @@ Compartir el proceso de evaluación de necesidades es una parte esencial de una 
 {% endtoggle %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Estudio de caso
-</strong>
+**Estudio de caso**
 
 **El organismo central de compras de Italia, [CONSIP](https://www.consip.it/), ha utilizado este enfoque centrado en el usuario de manera efectiva en el sector médico**, trabajando directamente con el personal médico para dar forma a los documentos de licitación para su uso en todo el país.
 
@@ -126,8 +125,9 @@ La declaración de necesidades debe compartirse abiertamente con las partes inte
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Estudio de caso
-<br></strong>Public Health Wales (PHW) – (*Salud Pública de Gales)* es la agencia nacional de salud pública de Gales. En 2016, decidieron trasladar nueve oficinas satélite más pequeñas a una nueva oficina grande de planta abierta de 4700 m2 en el centro de Cardiff. Para ello, PHW lanzó una licitación para el diseño de espacios de oficinas y suministro de mobiliario.
+**Estudio de caso**
+
+Public Health Wales (PHW) – (*Salud Pública de Gales)* es la agencia nacional de salud pública de Gales. En 2016, decidieron trasladar nueve oficinas satélite más pequeñas a una nueva oficina grande de planta abierta de 4700 m2 en el centro de Cardiff. Para ello, PHW lanzó una licitación para el diseño de espacios de oficinas y suministro de mobiliario.
 
 **PHW decidió incluir una serie de requisitos de sostenibilidad como parte de la licitación e incluyó un inventario de todos los muebles que eran propiedad de la organización.** La oferta ganadora provino de un consorcio de un servicio de diseño de oficinas sostenibles y una empresa de interés comunitario.
 

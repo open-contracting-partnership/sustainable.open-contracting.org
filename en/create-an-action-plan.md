@@ -40,9 +40,11 @@ Communicating the result of this exercise in your Action Plan is an opportunity 
 - **Changes or adjustments that will be introduced** in order to increase the implementation scope. This can include, for example, establishing [reserved contracts, or targets](/establish-an-enabling-environment/targets-and-reserved-contracts), for certain types of businesses, such as SMEs; or setting a [procurement threshold](/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) to facilitate Open SPP implementation.
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br></strong>In 2017, **Argentina developed their [National Sustainable Public Procurement Plan](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf) (in Spanish), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.** The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP.
-<br>At the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. This includes the [Decree approved in 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm) which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation.
+**Case Study**
+
+In 2017, **Argentina developed their [National Sustainable Public Procurement Plan](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf) (in Spanish), which includes on pages 7 to 12, an overview of the international and national enabling context that underpins it.** The Plan first introduces the international context, highlighting Argentina’s commitment to the UN’s Sustainable Development Goals, and the collaborations between the Argentinian government and UNEP regarding the implementation of SPP.
+
+At the national level, the Plan includes the different regulations, policies, and plans that have been created within the context of SPP. This includes the [Decree approved in 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm) which allows the National Procurement Office to include sustainability criteria in tender documents, and guidance regarding how the concept of “the most suitable offer” can be interpreted by procurement practitioners to allow for SPP implementation.
 {% endcallout %}
 
 {% endtoggle %}
@@ -55,8 +57,9 @@ In the section [Prioritize](/prioritize), we have explained how this can be also
 - **Guidance regarding sustainability criteria that can be used for each of the prioritized areas.** This can include guidance regarding which regulations, ecolabels, or sustainability requirements, such as energy efficiency, should be included in tender documents. You can also include information regarding where to access this information, as well as including any plans for developing standardized criteria at the national, regional, or local level.
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br>In 2021 Ireland published its [Green Public Procurement Action Plan](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).</strong> **The Action Plan prioritizes eight procurement product/service categories,** which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT.
+**Case Study**
+
+**In 2021 Ireland published its [Green Public Procurement Action Plan](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **The Action Plan prioritizes eight procurement product/service categories,** which include construction, energy, transport, food and catering services, cleaning products and services, paper, uniforms and other textiles, and ICT.
 
 **On pages 21 to 57, the Plan includes specific information for each category.** This includes information regarding specific regulations and policies that should be considered to procure more sustainably in each area, specific accreditations available, green tender examples, and key proposed actions for the implementation of green procurement practices.
 {% endcallout %}
@@ -82,8 +85,9 @@ In the section [Build support and capabilities](/build-support-and-capabilities)
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br>In 2021, the City of Cape Town published its [Green Procurement Action Plan](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). The Plan includes seven operational objectives</strong>, including “Ensure that the City has in place appropriate policies to support green procurement, including associated administrative tools”, and “Monitor and evaluate the City’s performance in terms of green procurement”.
+**Case Study**
+
+**In 2021, the City of Cape Town published its [Green Procurement Action Plan](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). The Plan includes seven operational objectives**, including “Ensure that the City has in place appropriate policies to support green procurement, including associated administrative tools”, and “Monitor and evaluate the City’s performance in terms of green procurement”.
 
 Each objective is associated with certain outcomes, and activities, which mostly refer to the creation of supporting mechanisms. These include for example, “Develop guidelines and specifications for prioritized goods”, or “Develop a variety of communication and training products and interventions aimed at City staff”.
 
@@ -99,8 +103,9 @@ As well as presenting chosen SPP approaches, it is important to clearly communic
 The implementation of Open SPP is normally carried out by different institutional bodies, at the national level this often includes the Ministry of the Environment, and any relevant National Public Procurement authorities. **The Action Plan should clearly allocate responsibilities and accountability between government agencies (and any other relevant stakeholders).**
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br></strong>I**n 2016, Ecuador published its first [Sustainable Procurement Action Plan](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf) (ES). The Plan includes on pages 20 to 22 information regarding the governance structure that has been put in place to assign responsibilities regarding SPP.**
+**Case Study**
+
+I**n 2016, Ecuador published its first [Sustainable Procurement Action Plan](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf) (ES). The Plan includes on pages 20 to 22 information regarding the governance structure that has been put in place to assign responsibilities regarding SPP.**
 
 The leading public authority is the National Public Procurement Agency (SERCOP) with support from the Ministry of the Environment. These two will also receive support from a working group which includes other ministries, such as the Ministry of Economic and Social Inclusion (MIES), and the Ministry of Agriculture (MAGAP).
 
@@ -114,8 +119,9 @@ The leading public authority is the National Public Procurement Agency (SERCOP) 
 Many of the activities associated with the implementation of Open SPP practices will need government funding. **The Action Plan should openly share the financial estimated costs associated with the implementation of the activities that will be carried out in order to develop the needed supporting and capability-building mechanisms, as well as to monitor and communicate results.**
 
 {% callout gray /assets/images/Notion-others2.png %}
-<strong>Case Study
-<br>In 2021, the Basque Country published the [Green Procurement and Contracting Programme of the Basque Country](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years).</strong> This programme follows the previous Action Plans published in 2011 and 2016, this time establishing a roadmap for 2030. The Plan presents 10 lines of action that will be carried out between 2021 and 2030. **Page 36 provides a clear overview of the budget allocated to each line of action, which adds to a total of 1.590.000 euros over the ten years.**
+**Case Study**
+
+**In 2021, the Basque Country published the [Green Procurement and Contracting Programme of the Basque Country](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years).** This programme follows the previous Action Plans published in 2011 and 2016, this time establishing a roadmap for 2030. The Plan presents 10 lines of action that will be carried out between 2021 and 2030. **Page 36 provides a clear overview of the budget allocated to each line of action, which adds to a total of 1.590.000 euros over the ten years.**
 {% endcallout %}
 
 {% endtoggle %}

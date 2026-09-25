@@ -68,7 +68,8 @@ Market engagement activities carried out during the planning phase of a procurem
 
 {% callout red /assets/images/Idea_Red.png %}
 One way in which you can engage with the market during the planning phase is by **organizing events with suppliers to present their sustainability objectives.** These are sometimes referred to as environmental, social, and governance (ESG) days, and are seen as a chance to **discuss how suppliers might address sustainability priorities. The insights gathered from these events are used to inform procurement processes.**
-<br>Note that sustainability work in the private sector is often divided in these three ESG areas, instead of the [three pillars of sustainable development](/what-is-open-spp) (economic, social, and environmental).
+
+Note that sustainability work in the private sector is often divided in these three ESG areas, instead of the [three pillars of sustainable development](/what-is-open-spp) (economic, social, and environmental).
 {% endcallout %}
 
 {% endtoggle %}

@@ -6,8 +6,8 @@ icon: /assets/images/icons_D_Green3.png
 notion_id: "78211b5af9254502aa43120eee8c658d"
 ---
 {% callout gray /assets/images/Icons_Grey3.png %}
-When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<strong><br>
-This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP. </strong>
+When implementing Open SPP, using standardised indicators across public authorities, and procurement categories, can help to ensure that results can be compared and consolidated over time.<br>
+**This measuring and evaluation (M&E) framework provides guidance metrics to facilitate the process of setting goals, measuring progress, and sharing results when implementing Open SPP.**
 
 You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) of the framework in the [downloadable tools section](/ressources-pratiques), which you can duplicate and edit to fit your specific context.
 {% endcallout %}
