@@ -123,7 +123,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.png %}
-*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter* [*cette section*](/interagir-avec-le-march).
+*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter [cette section](/interagir-avec-le-march)*.
 {% endcallout %}
 
 **Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité**

@@ -196,7 +196,7 @@ Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1
 
 `scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, and that its cover and icon are files. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that the sitemap's URLs are pages, and that the search index has every page with content.
 
-`scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, and non-breaking spaces at the end of a line or block.
+`scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, bold or italics that only spaces separate from the next bold or italics (which can be one span), and non-breaking spaces at the end of a line or block.
 
 ### Screenshots
 

@@ -48,7 +48,7 @@ Las actividades de relación con el mercado se pueden aplicar a lo largo de los 
 
 - **Talleres** con proveedores para presentar objetivos de sostenibilidad y recopilar los datos necesarios para evaluar la capacidad del mercado.
 - **Consultas** en línea para permitir que los proveedores brinden retroalimentación sobre decisiones estratégicas con respecto a Open SPP, como la priorización de categorías de contrataciones.
-- **Eventos** **de la industria** para conocer mejor la oferta actual de sostenibilidad en diferentes sectores y recopilar información sobre las diferentes opciones de suministro.
+- **Eventos de la industria** para conocer mejor la oferta actual de sostenibilidad en diferentes sectores y recopilar información sobre las diferentes opciones de suministro.
 - **Encuestas y cuestionarios** distribuidos en línea, o en eventos y talleres organizados, para evaluar la capacidad del mercado o recopilar comentarios sobre el enfoque de CPS.
 - **Involucrarse con grupos prioritarios de CPS Abiertas**, como PYME, empresas propiedad de mujeres o propiedad de minorías, para comprender las barreras que podrían enfrentar al acceder a oportunidades de contratación pública. Para comprender estas barreras, también puede ser útil comprometerse con la sociedad civil y las organizaciones sin fines de lucro. Los conocimientos recopilados se pueden utilizar para diseñar enfoques de CPS más accesibles.
 - **Comunicar su cartera de proyectos** permitirá a los diferentes proveedores comprender mejor sus necesidades a largo plazo y los posibles requisitos de sostenibilidad. Esto les permitirá prepararse mejor para responder a las oportunidades de contrato a medida que surjan. Hacer esto puede ser particularmente útil para ampliar la participación entre las PYME, que tienden a tener menos recursos de contratación.
@@ -96,7 +96,7 @@ Once it has been decided to issue a tender, there are different methods that can
 
 Una vez usted haya decidido emitir una oferta, existen diferentes métodos que se pueden utilizar para relacionarse con el mercado durante el proceso de licitación, algunos de estos incluyen:
 
-- **Utilice un Aviso de Información Previa** ***(Prior Information Notice (PIN))*** **o un aviso de compromiso con el mercado.**
+- **Utilice un Aviso de Información Previa *(Prior Information Notice (PIN))* o un aviso de compromiso con el mercado.**
 
   Los PIN son una herramienta para notificar al mercado su intención de adjudicar un contrato e iniciar conversaciones con posibles proveedores, lo que le permite evaluar la disponibilidad de alternativas sostenibles y recopilar información para el desarrollo de las especificaciones de la licitación.
 - **Encuentre o desarrolle canales para conectarse con grupos de proveedores prioritarios.**

@@ -110,7 +110,7 @@ Una vez se hayan establecido los criterios de sostenibilidad, las autoridades p�
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
-**Países Bajos implementa un sistema llamado** **[Escalera de Desempeño de CO2](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública**. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.
+**Países Bajos implementa un sistema llamado [Escalera de Desempeño de CO2](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) para tener en cuenta las emisiones de CO2 al adjudicar contratos de contratación pública**. La Performance Ladder es un instrumento que las organizaciones pueden utilizar para reducir sus emisiones de carbono, tanto dentro del negocio como en proyectos específicos. Hay 5 niveles en la escalera según el alcance del esfuerzo de la organización para reducir las emisiones de CO2.
 
 Las organizaciones pueden obtener un certificado con su nivel en Escalera, que pueden utilizar para recibir una ventaja de premio por su registro en licitaciones. De esta forma, **los contratistas pueden beneficiarse de una reducción del precio de presentación demostrando y desarrollando sus esfuerzos para reducir las emisiones de CO2.**
 

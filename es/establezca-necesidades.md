@@ -82,7 +82,7 @@ Las autoridades públicas deberían evaluar si en lugar de comprar nuevos produc
 
 {% endtoggle %}
 
-{% toggle **Arrendar con opción de compra** ***(Leasing)*** **en lugar de comprar** %}
+{% toggle **Arrendar con opción de compra *(Leasing)* en lugar de comprar** %}
 
 En lugar de comprar bienes nuevos, a veces el arrendamiento puede ser una buena alternativa. Arrendar nuevos productos puede conducir a la reutilización de productos existentes y minimizar el desperdicio, promoviendo el uso circular de los recursos.
 

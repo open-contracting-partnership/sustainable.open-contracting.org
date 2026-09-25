@@ -11,7 +11,7 @@ sidebar: true
 {% callout gray /assets/images/Notion-others2.png %}
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
 
-It also now incorporates a specific section on Sustainable Public Procurement (SPP), offering learning materials, guidance, **and a** [**criteria tool**](https://www.mvicriteria.nl/nl) **for public authorities to identify possible environmental requirements to include in tendering processes.**
+It also now incorporates a specific section on Sustainable Public Procurement (SPP), offering learning materials, guidance, **and a [criteria tool](https://www.mvicriteria.nl/nl) for public authorities to identify possible environmental requirements to include in tendering processes.**
 
 The expertise center includes information regarding best practice exchange meetings amongst procurement practitioners.
 {% endcallout %}

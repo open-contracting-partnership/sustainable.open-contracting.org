@@ -10,7 +10,7 @@ notion_id: f1ef59bcf86045d0ad0cb340f88d1e08
 sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.png %}
-**Completed in 2017, the** [**design of the Ghana Ridge Hospital**](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) **was the first project in Africa to receive LEED accreditation.**
+**Completed in 2017, the [design of the Ghana Ridge Hospital](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) was the first project in Africa to receive LEED accreditation.**
 
 The design of the Ghanaian hospital is an **example of how to carry out an integrated design process adapted to the needs and available resources of a local area.**
 

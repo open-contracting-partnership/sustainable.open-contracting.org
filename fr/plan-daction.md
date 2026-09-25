@@ -69,7 +69,7 @@ Dans la section sur la [définition des catégories de marchés prioritaires](/p
 {% callout gray /assets/images/Notion-others2.png %}
 **Étude de cas**
 
-En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications.
+En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/). Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications.
 
 **Les pages 21 à 57 de ce plan fournissent des informations spécifiques aux différentes catégories**. Il s’agit notamment de renseignements concernant les réglementations et politiques qui doivent être prises en compte pour mettre en place des marchés publics plus durables dans chaque catégorie, les programmes de certification pertinents, des exemples d’appels d’offres écologiques et des propositions d’actions essentielles concernant la mise en place de marchés publics écologiques.
 {% endcallout %}

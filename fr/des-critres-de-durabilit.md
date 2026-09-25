@@ -101,7 +101,7 @@ Gardez à l’esprit que si votre environnement habilitant permet seulement d’
 Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normalement la qualité des offres des soumissionnaires et comparera leur coût. Alors que les spécifications techniques devraient inclure des critères de durabilité minimum, la prise en compte de critères de durabilité lors de la phase de l’attribution permet de favoriser les fournisseurs qui soumettent les offres les plus durables. Des critères de durabilité peuvent être pris en compte dans la pondération attribuée à la qualité, ou, en fonction de [l’environnement habilitant](/mise-en-place), il peut être possible d’allouer un pourcentage de la pondération aux critères de durabilité.
 
 {% callout red /assets/images/Idea_Red.png %}
-*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de* [*prendre en compte le coût du cycle de vie*](/le-cot-du-cycle-de-vie).
+*Comme précédemment décrit, certains environnements habilitants permettent seulement de prendre en compte le prix lors de l’évaluation des offres. Dans ce cas de figure, vous pouvez envisager de [prendre en compte le coût du cycle de vie](/le-cot-du-cycle-de-vie)*.
 {% endcallout %}
 
 {% endtoggle %}

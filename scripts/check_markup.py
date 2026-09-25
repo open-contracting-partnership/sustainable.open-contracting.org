@@ -9,6 +9,7 @@ Build the sites first. In each page's <article>, outside code, it reports:
 - links whose text starts or ends with a space or punctuation, which belong outside the link, unless the link is a
   whole block or sentence (like a reference in a list), or ends with an abbreviation
 - bold or italics that are empty or only punctuation
+- bold or italics that only spaces (or a link's edges) separate from the next bold or italics, which can be one span
 - non-breaking spaces at the end of a block or line
 """
 
@@ -78,6 +79,7 @@ class Page(HTMLParser):
         self.stack = []  # [tag, text, block text before it] of open a, strong and em elements
         self.block = ""  # the text of the current block so far
         self.pending = None  # a link's text and the block text before it, awaiting the text after it
+        self.closed = {}  # the length of the block text when each of strong and em last closed
         self.problems = []
 
     def check(self, after):
@@ -103,11 +105,14 @@ class Page(HTMLParser):
             self.check("")
             self.end_line()
             self.block = ""
+            self.closed = {}
         elif tag == "br":
             self.check("\n")
             self.end_line()
             self.block += "\n"
         elif tag in {"a", "strong", "em"}:
+            if tag in self.closed and not self.block[self.closed[tag] :].strip(" \xa0"):
+                self.problems.append(f"{tag} split only by spaces: {self.block[-60:]!r}")
             self.stack.append([tag, "", self.block])
 
     def handle_endtag(self, tag):
@@ -119,6 +124,7 @@ class Page(HTMLParser):
             self.check("")
             self.end_line()
             self.block = ""
+            self.closed = {}
         elif self.stack and self.stack[-1][0] == tag:
             tag, text, before = self.stack.pop()
             for parent in self.stack:
@@ -130,6 +136,8 @@ class Page(HTMLParser):
                     self.pending = (text, before)
             elif not text.strip(" \n\xa0.,;:!?()"):
                 self.problems.append(f"{tag} without words: {text!r}")
+            if tag != "a" and not any(parent[0] == tag for parent in self.stack):
+                self.closed[tag] = len(self.block)
 
     def handle_data(self, data):
         if not self.article or self.skip:

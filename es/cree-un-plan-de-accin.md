@@ -42,7 +42,7 @@ La comunicación del resultado de este ejercicio en su Plan de Acción es una op
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
-En 2017 Argentina **desarrolló su** [**Plan de Acción Nacional de Compras Públicas Sustentables**](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf)**, el cual incluye en sus páginas 7 a 12 una visión general del subyacente contexto internacional y nacional de su habilitación**. En primer lugar, el Plan introduce el contexto internacional, enfatizando el compromiso de Argentina con las Metas de Desarrollo Sostenible de Naciones Unidas, y las colaboraciones entre el gobierno de Argentina y el PNUMA en relación con la implementación de CPS.
+En 2017 Argentina **desarrolló su [Plan de Acción Nacional de Compras Públicas Sustentables](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf), el cual incluye en sus páginas 7 a 12 una visión general del subyacente contexto internacional y nacional de su habilitación**. En primer lugar, el Plan introduce el contexto internacional, enfatizando el compromiso de Argentina con las Metas de Desarrollo Sostenible de Naciones Unidas, y las colaboraciones entre el gobierno de Argentina y el PNUMA en relación con la implementación de CPS.
 
 A nivel nacional, el Plan incluye los diferentes reglamentos como políticas y planes que se han creado dentro del contexto de CPS. Aquí se incluye el [decreto aprobado en 2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265506/norma.htm) que permite a la Oficina Nacional de Contratación incluir criterios de sostenibilidad en los documentos de licitación, y lineamientos de cómo el concepto de "la oferta más adecuada" puede ser interpretado por los responsables de contratación, con el fin de permitir la implementación de CPS.
 {% endcallout %}
@@ -59,7 +59,7 @@ En la sección Priorice, explicamos cómo dicha determinación puede ser útil t
 {% callout gray /assets/images/Notion-others2.png %}
 **Estudio de caso**
 
-**En 2021, Irlanda publicó su Plan [de Acción de Contratación Pública Verde](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/).** **El Plan asigna prioridad a ocho categorías de contratación de productos o servicios**, e incluye la construcción, energía, transporte, alimentos, y servicios de abastecimiento, productos y servicios de aseo , papel, uniformes y otros textiles y TIC.
+**En 2021, Irlanda publicó su Plan [de Acción de Contratación Pública Verde](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/). El Plan asigna prioridad a ocho categorías de contratación de productos o servicios**, e incluye la construcción, energía, transporte, alimentos, y servicios de abastecimiento, productos y servicios de aseo , papel, uniformes y otros textiles y TIC.
 
 **En las páginas 21 a 27 el Plan incluye información específica para cada categoría**. Esta información incluye información y datos en relación con las normas y políticas específicas que se deben considerar al hacer con contrataciones más sostenibles en cada área, las acreditaciones específicas disponibles, ejemplos de licitación verde, y las acciones clave propuestas para la implementación de prácticas de contratación verde.
 {% endcallout %}
