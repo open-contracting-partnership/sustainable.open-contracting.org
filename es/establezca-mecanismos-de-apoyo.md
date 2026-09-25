@@ -14,7 +14,7 @@ En esta etapa de planeación de su estrategia para la implementación de CPS, us
 
 Como esto puede ser representar un reto para los responsables de la contratación, las autoridades públicas deben considerar qué pueden hacer para fortalecer capacidades.
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 En esta sección proponemos algunos mecanismos de esta naturaleza, junto con ejemplos de cómo se están utilizando en diferentes partes del mundo.
 {% endcallout %}
 

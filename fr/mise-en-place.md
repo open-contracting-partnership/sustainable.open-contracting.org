@@ -12,7 +12,7 @@ sidebar: true
 
 Vous voulez certainement vous assurer que les pratiques durables de passation de marchés et les attributions en partie fondées sur des critères de durabilité sont conformes à la législation et aux politiques en vigueur dans votre pays.
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 *Dans cette section, nous expliquons comment les acheteurs publics peuvent mettre en place des marchés publics durables dans différents contextes. Vous trouverez une liste de vérification permettant d’analyser la législation et les politiques relatifs aux critères applicables aux marchés publics durables. Nous abordons également la divulgation de ces éléments aux parties prenantes concernées, une étape essentielle pour créer un rapport de confiance et favoriser la bonne mise en place de marchés publics durables. Vous trouverez également des conseils sur la traduction de ces aspects en actions concrètes à la fin de cette section.*
 {% endcallout %}
 
@@ -60,7 +60,7 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 *En Amérique latine et en Afrique en particulier, les principes de passation des marchés publics figurent souvent dans la constitution et sont parfois décrits comme des principes qui « régissent les activités des organismes publics » ou « l’utilisation des fonds publics ». Le recensement de ces principes et l’étude des conditions dans lesquels ils ont été définis peuvent guider vos décisions concernant les éléments que vous prendrez en compte au moment de comparer les offres durant le processus de passation de marchés.*
 {% endcallout %}
 

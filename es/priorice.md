@@ -14,7 +14,7 @@ Hay muchas maneras de determinar prioridades de cómo empezar la implementación
 
 Las páginas 28 a 32 del [Manual CPS del Banco Mundial](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y): ofrece una buena visión general de los diferentes acercamientos a la determinación de prioridades de categorías de producto. [La herramienta de determinación de prioridades](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf): desarrollada por el Programa de Naciones Unidas para el Medio Ambiente es otro recurso útil en este ejercicio.
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 En esta sección presentamos los diferentes factores que puede tener en cuenta al determinar las prioridades de categorías de contratación en la implementación de CPS.
 {% endcallout %}
 
@@ -54,7 +54,7 @@ Se debe establecer la frecuencia de contratos para cada categoría, es decir, la
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 El proceso de **recolección de datos dependerá de la estructura organizacional de la contratación**, ya sea centralizada, descentralizada o si obedece a un enfoque de gestión por categorías. La presencia de un sistema de e-contratación ayudaría a facilitar el proceso; en su ausencia, las encuestas y cuestionarios se pueden ser distribuidos con el fin de recoger la información necesaria.
 {% endcallout %}
 
@@ -82,7 +82,7 @@ El impacto económico de una categoría dependerá en gran medida de la oferta d
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 Al evaluar el impacto de estas categorías también debe tener en cuenta su importancia estratégica. Esto quiere decir, por ejemplo, que si un país o una organización ha decidido establecer la promoción de "cero neto" como una [meta](/monitoreo-y-evaluacin) de CPS Abierta, luego los categorías en las cuales la implementación del CPS Abierta serían conducente a la reducción de emisiones de CO2 deben ser tratadas como prioridad. La implementación de **CPS Abierta en categorías como con una importancia estratégica más alta podría recibir más apoyo por parte de las partes interesadas, con un impacto más alto resultante.**
 {% endcallout %}
 
@@ -119,7 +119,7 @@ La existencia de iniciativas de sostenibilidad en el mercado local es otro dato 
 
 {% endtoggle %}
 
-{% callout green /assets/images/Pin_green-2.png %}
+{% callout green /assets/images/Pin_green.png %}
 Hay varias maneras de recoger información del mercado con el fin de evaluar su capacidad de cumplir las normas de sostenibilidad existentes. Los métodos son similares a los que se implementarán al relacionarse con el mercado durante procesos específicos de contratación; para mayores detalles, consulta esta sección.
 {% endcallout %}
 
