@@ -482,6 +482,54 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   max-width: 708px;
 }
 
+/* Links to the previous and next pages, at the end of the content, as two boxes. */
+.pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  max-width: 708px;
+  margin-top: 3rem;
+}
+
+.pager__link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border-dark);
+  border-radius: 6px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.pager__link:hover {
+  background: var(--color-bg-gray-light, rgba(55, 53, 47, 0.04));
+}
+
+.pager__link.next {
+  grid-column: 2;
+  text-align: end;
+}
+
+.pager__label {
+  color: var(--color-text-default-light);
+  font-size: 0.875rem;
+}
+
+.pager__title {
+  font-weight: 600;
+}
+
+@media (max-width: 546px) {
+  .pager {
+    grid-template-columns: 1fr;
+  }
+
+  .pager__link.next {
+    grid-column: 1;
+  }
+}
+
 /* A database table's title column is wider than its other columns, which are 200px wide (notion.css). */
 .notion-collection-table__head-cell:first-child {
   width: 280px;

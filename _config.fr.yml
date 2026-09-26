@@ -7,6 +7,9 @@ breadcrumb_label: Plus de pages
 language_label: Langue
 sidebar_label: Sommaire
 table_scroll_label: Faites défiler pour en voir plus
+pager_label: Pages précédente et suivante
+previous_label: Précédent
+next_label: Suivant
 search_labels:
   search: Rechercher
   no_results: Aucun résultat

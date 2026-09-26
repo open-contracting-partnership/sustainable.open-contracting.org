@@ -3,5 +3,6 @@
 <div class="notion-column" style="width:var(--sidebar-width)" data-pagefind-ignore="all">{% include sidebar-menu.html %}</div>
 <div class="notion-column" style="width:calc(100% - var(--column-spacing) - var(--sidebar-width));margin-inline-start:var(--column-spacing)">
 {{ include.content }}
+{% include pager.html %}
 </div>
 </div>

@@ -1,0 +1,11 @@
+{%- comment -%} Links to the pages before and after this one, in the site's sequence (_plugins/sequence.rb). {%- endcomment -%}
+{%- if page.previous or page.next %}
+<nav class="pager" aria-label="{{ site.pager_label | escape }}" data-pagefind-ignore="all">
+  {%- if page.previous %}
+  <a class="pager__link previous" href="{{ page.previous.url }}"><span class="pager__label">← {{ site.previous_label | escape }}</span><span class="pager__title">{{ page.previous.title | escape }}</span></a>
+  {%- endif %}
+  {%- if page.next %}
+  <a class="pager__link next" href="{{ page.next.url }}"><span class="pager__label">{{ site.next_label | escape }} →</span><span class="pager__title">{{ page.next.title | escape }}</span></a>
+  {%- endif %}
+</nav>
+{%- endif %}
