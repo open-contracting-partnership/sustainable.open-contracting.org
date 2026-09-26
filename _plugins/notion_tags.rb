@@ -224,6 +224,8 @@ module NotionTags
     COLOR = /\A\{(\w+)\}\s*/
     LINE_BREAK = "\\n"
     LIST_ITEM = "- "
+    # The width of the text column of a page that isn't full width (Notion's 900px, less its 96px margins).
+    TEXT_WIDTH = 708
 
     def initialize(tag_name, markup, options)
       super
@@ -251,7 +253,8 @@ module NotionTags
       end
       caption = @caption ? NotionTags.inline(context, @caption.strip) : nil
       caption &&= %(<caption class="notion-table__caption">#{caption}</caption>)
-      %(<div class="notion-table__wrapper" tabindex="0"><table class="#{@classes}">#{caption}<tbody>#{html.join}</tbody></table></div>)
+      wide = " wide" if @widths.sum { |width| width.split("-").first.to_f } > TEXT_WIDTH
+      %(<div class="notion-table__wrapper#{wide}" tabindex="0"><table class="#{@classes}">#{caption}<tbody>#{html.join}</tbody></table></div>)
     end
 
     private

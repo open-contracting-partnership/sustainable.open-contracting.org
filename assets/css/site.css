@@ -406,3 +406,14 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 .notion-heading[id] {
   scroll-margin-top: calc(var(--navbar-height) + 1rem);
 }
+
+/* A table wider than the text column, on a page that isn't full width, extends past both sides of it, up to the page's
+   margins. */
+@media (min-width: 1000px) {
+  .notion-root.max-width > .notion-table__wrapper.wide {
+    width: max-content;
+    max-width: calc(100vw - 2 * 96px);
+    margin-inline-start: 50%;
+    transform: translateX(-50%);
+  }
+}
