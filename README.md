@@ -62,6 +62,8 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `sidebar` | Whether the page has the sidebar |
 | `properties` | A database item's properties, in order, rendered by the `{% properties %}` tag in the layout: a mapping of pills to their colors, a list of mappings of attachments' names to their URLs, a number, or text. The `notion.date_properties` and `notion.url_properties` settings in `_config.yml` name the properties that are dates and URLs. |
 
+A page's versions in each language are a line of `_data/translations.yml`, like `- {en: /prioritize, es: /priorice, fr: /priorits}`, which all three builds read. The layout and the sitemaps link them as alternates (`hreflang`), with the English version as the default. To add a page's versions, or to change a permalink, edit its line.
+
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar. It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. The `sidebar_width` setting in `_config.yml` is the sidebar's fraction of the width.
 
 Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
@@ -171,7 +173,7 @@ The content is edited by hand:
 - Sidebars are `_includes/sidebar-<lang>.html`, whose links to pages are `{% page PATH html %}` tags.
 - Redirects are `<lang>/_redirects`, one `SOURCE TARGET 301` rule per line, after the front matter. A target is a path on the same site, or a URL.
 
-To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. `scripts/translations.py` matches each page to its versions in the other languages.
+To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. `scripts/translations.py` matches each page to its likely versions in the other languages, for a new line in `_data/translations.yml`.
 
 ### Checks
 
@@ -201,7 +203,7 @@ Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
 
-`scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, and that its cover and icon are files. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that each file in `/assets/` is used by some site's pages, stylesheets or templates, that the sitemap's URLs are pages, and that the search index has every page with content.
+`scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, that its cover and icon are files, and that each path in `_data/translations.yml` is a page, on one line. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that each file in `/assets/` is used by some site's pages, stylesheets or templates, that the sitemap's URLs are pages, and that the search index has every page with content.
 
 `scripts/check_markup.py` checks the built pages' text for Markdown, Liquid and HTML syntax that didn't render, links whose text starts or ends with a space or punctuation (which belongs outside the link, except `?` and `!`, and except at the end of a link that is a whole block or sentence, like a reference in a list, or that ends with an abbreviation), bold or italics without words, bold or italics that only spaces separate from the next bold or italics (which can be one span), and non-breaking spaces at the end of a line or block.
 

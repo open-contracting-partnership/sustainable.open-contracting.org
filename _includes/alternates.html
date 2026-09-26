@@ -1,0 +1,18 @@
+{%- comment -%}
+A page's versions in each language, from _data/translations.yml, and the English version as the default.
+Set include.tag to "xhtml:link" for the sitemap.
+{%- endcomment -%}
+{%- assign versions = site.data.translations | where: site.lang, include.page.url | first %}
+{%- if versions %}
+{%- assign tag = include.tag | default: "link" %}
+{%- for pair in site.urls %}
+{%- assign lang = pair[0] %}
+{%- assign path = versions[lang] %}
+{%- if path %}
+<{{ tag }} rel="alternate" hreflang="{{ lang }}" href="{{ pair[1] }}{{ path | xml_escape }}"/>
+{%- if lang == "en" %}
+<{{ tag }} rel="alternate" hreflang="x-default" href="{{ pair[1] }}{{ path | xml_escape }}"/>
+{%- endif %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}

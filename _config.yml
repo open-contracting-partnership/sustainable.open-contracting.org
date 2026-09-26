@@ -31,3 +31,8 @@ kramdown:
 sidebar_width: 0.25
 # Each language's config sets breadcrumb_label, the label of the button that shows the breadcrumbs that don't fit,
 # and sidebar_label, the label of the sidebar's navigation.
+# Each language's site, for the alternate links between a page's versions, which each page's "translations" lists.
+urls:
+  en: https://sustainable.open-contracting.org
+  es: https://sostenibilidad.open-contracting.org
+  fr: https://achatdurable.open-contracting.org

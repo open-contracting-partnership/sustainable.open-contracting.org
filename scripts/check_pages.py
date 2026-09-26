@@ -6,6 +6,7 @@ List problems with the pages and the built sites, and exit with 1 if any.
 Build the sites with scripts/build.sh first. It reports:
 
 - pages whose permalink isn't their file's path, or isn't unique, or that have no title
+- versions in _data/translations.yml that aren't pages, or that more than one line lists
 - covers and icons in front matter that aren't files
 - references to /assets/ in the built pages that aren't files
 - files in /assets/ that no site's pages, stylesheets or templates refer to
@@ -58,6 +59,7 @@ def main():
     # Templates' references count, like analytics.js, which only production builds use.
     used = {ref for path in ROOT.glob("_[il]*/*.html") for ref in ASSET.findall(path.read_text())}
     assets = set()
+    pages = {}  # {(lang, permalink): file}
     for lang in LANGUAGES:
         permalinks = {}
         for path in sorted((ROOT / lang).rglob("*.md")):
@@ -74,6 +76,7 @@ def main():
             if permalink in permalinks:
                 problems.append(f"{relative}: permalink {permalink} is also {permalinks[permalink]}'s")
             permalinks[permalink] = relative
+            pages[lang, permalink] = relative
             if not value(front, "title"):
                 problems.append(f"{relative}: no title")
             # An icon can also be an emoji.
@@ -116,6 +119,15 @@ def main():
                 problems.append(f"_site/{lang}: the search index has {count} pages, not {searchable}")
 
     problems.extend(f"_site: {asset} isn't used by any site" for asset in sorted(assets - used))
+
+    listed = {}
+    for number, line in enumerate((ROOT / "_data" / "translations.yml").read_text().splitlines(), 1):
+        for lang, path in re.findall(r"(\w+): ([^,}]+)", line):
+            if (lang, path) not in pages:
+                problems.append(f"_data/translations.yml:{number}: {lang} {path} isn't a page")
+            elif (lang, path) in listed:
+                problems.append(f"_data/translations.yml:{number}: {lang} {path} is also on line {listed[lang, path]}")
+            listed[lang, path] = number
 
     for problem in problems:
         print(problem)

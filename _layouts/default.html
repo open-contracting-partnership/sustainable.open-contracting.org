@@ -15,6 +15,7 @@
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:site_name" content="{{ page.title | escape }}">
 <meta property="og:locale" content="{{ site.locale }}">
+{%- include alternates.html page=page %}
 {%- if page.cover %}
 <meta property="og:image" content="{{ page.cover | replace: ".webp", ".jpg" | absolute_url }}">
 <meta property="og:image:alt" content="{{ page.title | escape }}">
