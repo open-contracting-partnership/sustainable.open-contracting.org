@@ -72,7 +72,7 @@ Il existe différentes façons d’évaluer la mise en œuvre de politiques sur 
 
 Dans l’exemple ci-dessous, nous présentons les résultats et les indicateurs correspondants, des solutions utiles pour collecter des données et quelques conseils pratiques. Notez qu’il ne s’agit que de propositions visant à montrer les possibilités d’utilisation de ce guide, vous devrez peut-être les adapter en fonction de vos objectifs, des données à votre disposition, de votre contexte…
 
-{% table 137.5 127.5 143.5 188.5 189.5 189.5 col-header %}
+{% table col-header %}
 | {default} **GOAL** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Share of contracts which are classified as SPP  | - Number of contracts classified as SPP.\n- Total number of contracts.  | Contracts classified as SPP / Total number contracts | [Voir la possibilité 1 : étiqueter les marchés](/possibilits-dutilisation-des-donnes#option-1) |

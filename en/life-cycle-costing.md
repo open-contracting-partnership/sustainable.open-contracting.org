@@ -104,7 +104,7 @@ With robust data in place, it will be possible to identify and work with the mos
 
 Earlier in the toolkit, we [introduced an M&E Framework](/monitoring-evaluation) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track the application of life cycle costing approaches:
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {yellow} | Promoting life cycle costing approaches | Introducing life cycle costing into the procurement process | Share of re-tenders where the value is based on life cycle costing calculations of previous contract | - Number of re-tenders where the value is based on life cycle costing calculations of previous contract\n- Total number of re-tenders | Re-tenders where the value is based on life cycle costing calculations of previous contract / Total number of re-tenders | [Option 4: Forecast contract impact](/options-for-data-use#option-4) |

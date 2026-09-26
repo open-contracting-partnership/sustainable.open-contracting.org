@@ -9,7 +9,7 @@ notion_id: "1708433ec49449dfa1c3213b2d4cd84f"
 The following table provides guidance regarding how to use the different data options presented in [this section](/opciones-para-el-uso-de-datos), depending on your capacity (i.e. [no code, low code, code](/datos-abiertos-y-progreso-de-medicin/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoreo-y-evaluacin/ejemplo-de-marco-me) and developed as worked examples in [this section](/datos-abiertos-y-progreso-de-medicin).
 {% endcallout %}
 
-{% table 174.5 174.5 174.5 174.5 col-header row-header %}
+{% table col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
 | **Option 1: Assign tags to procurements** | {orange} Manually sift through procurement notices and make a judgement call on whether or not its SPP.\n\nMandate authorities release a flag highlighting that a procurement is SPP. | {yellow} Release a flag for SPP procurement on contract registers | {green} Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |

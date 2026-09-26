@@ -407,11 +407,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   scroll-margin-top: calc(var(--navbar-height) + 1rem);
 }
 
-/* A table wider than the text column, on a page that isn't full width, extends past both sides of it, up to the page's
-   margins. */
+/* A wide table, on a page that isn't full width, extends past both sides of the text column, up to the page's margins,
+   like a full-width page's content. */
 @media (min-width: 1000px) {
   .notion-root.max-width > .notion-table__wrapper.wide {
-    width: min(var(--table-width), 100vw - 2 * 96px);
+    width: calc(100vw - 2 * 96px);
     margin-inline-start: 50%;
     transform: translateX(-50%);
   }
@@ -441,7 +441,12 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   mask-image: linear-gradient(to right, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
 }
 
-/* A table's columns are sized by their content, so its words don't break, except a word wider than its column. */
+/* A table fills its column, and its columns are sized by their content, so its words don't break, except a word
+   wider than its column. */
+.notion-table {
+  width: 100%;
+}
+
 .notion-table :is(td, th) {
   word-break: normal;
   overflow-wrap: break-word;

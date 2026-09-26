@@ -109,7 +109,7 @@ Il est important de commencer par les aspects les plus simples et d’assurer qu
 
 Pour des orientations pratiques, plus tôt dans ce guide pratique, nous [avons présenté le cadre de suivi et d’évaluation](/suivi-et-valuation) visant à évaluer les progrès en ce qui concerne la réalisation des objectifs de durabilité. Dans le tableau ci-dessous, vous trouverez des exemples des résultats et d’indicateurs pouvant faire l’objet d’un suivi.
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {green} | Reducing carbon emissions  | Promoting low carbon practices in public contracts | Share of tenders which comply with low carbon SPP policies | - Number of tenders that company with low carbon policy\n- Total number of tenders | Compliant tenders / Total number of tenders | [Voir la possibilité 5 : demander des propositions pour renforcer la durabilité](/possibilits-dutilisation-des-donnes#option-5) |

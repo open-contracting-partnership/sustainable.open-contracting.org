@@ -99,7 +99,7 @@ You can use public reporting to:
 
 Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](/monitoring-evaluation) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {green} | Reducing carbon emissions  | Promoting low carbon practices in public contracts | Share of tenders which comply with low carbon SPP policies | - Number of tenders that company with low carbon policy\n- Total number of tenders | Compliant tenders / Total number of tenders | [See Option 5: Request sustainability suggestions](/options-for-data-use#option-5)  |

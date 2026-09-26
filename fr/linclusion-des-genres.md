@@ -165,7 +165,7 @@ Suppliers can include in their tender submission what actions they take to promo
 
 Dans le tableau ci-dessous, nous avons repris les résultats et les indicateurs correspondants, les possibilités pertinentes de collecte de données qui sont présentées dans [cette section](/possibilits-dutilisation-des-donnes) et des conseils pratiques
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {purple} | Promoting gender inclusion | Increasing access for women to public procurement | Share of bids received by businesses which are women-led | - Number of bids received by businesses which are women- led\n- Total number of bids received | Bids by women-led businesses / Total number of bids | [Voir la possibilité 8 : collecter les données des fournisseurs lors de la soumission des offres](/possibilits-dutilisation-des-donnes#option-8) |

@@ -77,7 +77,7 @@ Buyers can identify categories of interest and measure the growth based on contr
 
 ## What can you do in your organisation?
 
-{% table 174.5 174.5 174.5 174.5 col-header row-header %}
+{% table col-header row-header %}
 | {default}  | {orange} No code | {yellow} Low code | {green} Code |
 |---|---|---|---|
 | Option 1: Measure contracts awarded | {orange} Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse Silver Eye to turn this data into OCDS. | {yellow} Create dashboards that allow analysis of buyers, suppliers, categories.\n\nCreate flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs | {green} Link contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings) |

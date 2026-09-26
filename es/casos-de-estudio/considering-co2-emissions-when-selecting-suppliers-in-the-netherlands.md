@@ -16,7 +16,7 @@ Organizations can obtain a certificate with their level on the Ladder, which the
 
 As can be seen in the example on the following table, although supplier C had a higher entry price, the application of the discount associated with their level on the CO2 ladder (level 4) results in them being awarded the contract. **By taking this approach to accounting for carbon emissions in procurement processes, sustainable suppliers can be selected even if the contract is awarded solely based on price.**
 
-{% table 113.23 110.23 125.23 187.23 142.23 154.23 col-header %}
+{% table col-header %}
 {red} | {default} **COMPANY** | {default} **ENTRY PRICE** | {default} **LEVEL ON THE LADDER** | {default} **DISCOUNT / AWARD ADVANTAGE** | {default} **PRICE AFTER APPLYING ADVANTAGE** | {default} **AWARD THE CONTRACT**  |
 |---|---|---|---|---|---|
 | A | € 9.7 million | none | 0% | € 9.7 million | NO |

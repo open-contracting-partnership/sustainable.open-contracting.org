@@ -23,7 +23,7 @@ The M&E framework includes the following section:
 
 You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/datos-abiertos-y-progreso-de-medicin). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward.
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table wide col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Share of contracts which are classified as SPP  | - Number of contracts classified as SPP\n- Total number of contracts | Contracts classified as SPP / Total number contracts | [See Option 1: Assign tags to procurements](/opciones-para-el-uso-de-datos#option-1) |

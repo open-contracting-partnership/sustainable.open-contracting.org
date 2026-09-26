@@ -52,7 +52,7 @@ Si una autoridad pública decide seleccionar "reducción de valores de carbono a
 
 La muestra Marco M&E ofrece una orientación sobre la información que se requiere para medir cada indicador, una un método propuesto para medirla, y las opciones para registrar los datos que se requieren. Un ejemplo se puede tomar de la tabla que aparece a continuación.
 
-{% table 120-240 120-240 120-240 120-240 120-240 120-240 %}
+{% table %}
 {orange} | META | RESULTADO | INDICADOR | INFORMACIÓN NECESITADA | MÉTODO DE CÁLCULO | OPCIONES DE REGISTRO DE LOS DATOS QUE NECESITA |
 |---|---|---|---|---|---|
 | Reducción de emisiones de CO2 | Reducción de valores de carbono asociados con contratos públicos | Toneladas de CO2 asociados con contratos públicos | CO2 estimado de bienes adquiridos- No. de unidades adquiridos | CO2 estimado x No. de unidades | Ver Opción 2, Pronóstico de emisiones probables” en el caso de la reducción del uso de carbono |

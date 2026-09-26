@@ -214,9 +214,9 @@ module NotionTags
 end
 
 module NotionTags
-  # {% table WIDTH... [col-header] [row-header] [caption: CAPTION] %}ROWS{% endtable %}, where each WIDTH is a column's
-  # width in pixels, or its minimum and maximum widths, as MIN-MAX, and CAPTION is Markdown. The widths set the table's
-  # width, and the browser sizes the columns by their content.
+  # {% table [wide] [col-header] [row-header] [caption: CAPTION] %}ROWS{% endtable %}, where CAPTION is Markdown. A table
+  # fills its column, and the browser sizes the columns by their content. On a page that isn't full width, a wide table
+  # extends past the text column.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
   # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text, in which
@@ -225,15 +225,13 @@ module NotionTags
     COLOR = /\A\{(\w+)\}\s*/
     LINE_BREAK = "\\n"
     LIST_ITEM = "- "
-    # The width of the text column of a page that isn't full width (Notion's 900px, less its 96px margins).
-    TEXT_WIDTH = 708
 
     def initialize(tag_name, markup, options)
       super
       markup, @caption = markup.split(/\bcaption:\s*/, 2)
-      words = markup.split
-      @widths = words.grep(/\A[\d.]+(?:-[\d.]+)?\z/)
-      @classes = (["notion-table"] + (words - @widths)).join(" ")
+      words = markup.to_s.split
+      @wide = words.delete("wide")
+      @classes = (["notion-table"] + words).join(" ")
       @col_header = words.include?("col-header")
       @row_header = words.include?("row-header")
     end
@@ -255,18 +253,12 @@ module NotionTags
       caption = @caption ? NotionTags.inline(context, @caption.strip) : nil
       caption &&= %(<caption class="notion-table__caption">#{caption}</caption>)
       label = context.registers[:site].config["table_scroll_label"]
-      # The browser sizes the columns by their content, within the table's width.
-      table = %(<table class="#{@classes}" style="width:100%;max-width:#{width}px">#{caption}<tbody>#{html.join}</tbody></table>)
-      %(<div class="notion-table__wrapper#{" wide" if width > TEXT_WIDTH}" tabindex="0" ) +
-        %(data-scroll-label="#{CGI.escapeHTML(label.to_s)}" style="--table-width:#{width}px">#{table}</div>)
+      table = %(<table class="#{@classes}">#{caption}<tbody>#{html.join}</tbody></table>)
+      %(<div class="notion-table__wrapper#{" wide" if @wide}" tabindex="0" data-scroll-label="#{CGI.escapeHTML(label.to_s)}">) +
+        %(#{table}</div>)
     end
 
     private
-
-    # The table's width, from its columns' maximum widths.
-    def width
-      @widths.sum { |width| width.split("-").last.to_f }.round
-    end
 
     # A cell is a header (th), with its scope, in the first row of a table with col-header, or the first column of a
     # table with row-header.

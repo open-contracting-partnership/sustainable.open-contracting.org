@@ -106,7 +106,7 @@ En plus des déclarations publiques concernant la mise en œuvre des politiques,
 
 Nous présentons plusieurs possibilités d’évaluation dans le tableau ci-dessous :
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {yellow} | Promoting life cycle costing approaches | Introducing life cycle costing into the procurement process | Share of re-tenders where the value is based on life cycle costing calculations of previous contract | - Number of re-tenders where the value is based on life cycle costing calculations of previous contract\n- Total number of re-tenders | Re-tenders where the value is based on life cycle costing calculations of previous contract / Total number of re-tenders | [Possibilité 4 : anticiper les effets des marchés](/possibilits-dutilisation-des-donnes#option-4) |

@@ -104,7 +104,7 @@ Con datos sólidos, será posible identificar y trabajar con los equipos más ex
 
 Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida:
 
-{% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
+{% table col-header %}
 | {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
 |---|---|---|---|---|---|
 {yellow} | Promover enfoques de costeo del ciclo de vida | Introducir costeo del ciclo de vida en el proceso de contratación. | Participación de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores  | \-Número de re-propuestas donde el valor se basa en cálculos de costeo del ciclo de vida de contratos anteriores.\n\-Número total de propuestas. | Re-propuestas donde el valor se basa en cálculos del costo de vida de contratos anteriores. / Número total de re-propuestas | Ver Opción 4 |

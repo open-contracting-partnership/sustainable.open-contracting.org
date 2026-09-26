@@ -9,7 +9,7 @@ notion_id: "54c1d235d802429da62555704986e55d"
 The following table provides guidance regarding how to use the different data options presented in [this section](/options-for-data-use), depending on your capacity (i.e. [no code, low code, code](/open-data-measuring-progress/no-code-low-code-code)). The options presented on this table can be used to gather data and measure progress against the sustainability goals included within our sample [M&E framework](/monitoring-evaluation/sample-me-framework) and developed as worked examples in [this section](/open-data-measuring-progress).
 {% endcallout %}
 
-{% table 174.5 174.5 174.5 174.5 col-header row-header %}
+{% table col-header row-header %}
 | {default}  | {orange} **No code** | {yellow} **Low code** | {green} **Code** |
 |---|---|---|---|
 | **Option 1: Assign tags to procurements** | {orange} Manually sift through procurement notices and make a judgement call on whether or not its SPP.\n\nMandate authorities release a flag highlighting that a procurement is SPP. | {yellow} Release a flag for SPP procurement on contract registers | {green} Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |

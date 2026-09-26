@@ -106,7 +106,7 @@ Las Banderas Ecológicas le pueden ayudar a pensar en las categorías de datos c
 
 ### Datos de contratación unidos: ¿Qué publicar y por qué?
 
-{% table 180 180 180 180 180 col-header %}
+{% table col-header %}
 | **Planeación** | **Licitación** | **Adjudicación** | **Contrato** | **Ejecución** |
 |---|---|---|---|---|
 | *Que incluya:*\nPresupuesto (Incluidas prioridades verdes)\nRazón y fuente presupuestal\nPlanes de proyecto con objetivos verdes\nPlanes de contratación con objetivos verdes\nInformación de audiencia pública | *Que incluya:*\nNotificaciones de la licitación (título, descripción, valor)\nCriterios de adjudicación estandarizados (incl. criterios GPP)\nRazón de método PP\nInformación de proveedores, incl.. desempeño anterior.\nEspecificaciones\nRubros de línea, especificando categorías verdes\nAveriguaciones\nDocumentos adicionales | *Que incluya:*\nDetalles de la adjudicación (título, descripción, valor, documentos)\nCriterios GPP utilizados\nInformación del oferente\nEvaluación de la propuesta\nValores | *Que incluya:*\nDetalles finales (título, descripción, periodo, valor)\nHitos y objetivos (incl.. verdes)\nMetodología de medición/evaluación\nEnmiendas\nValores | *Que incluya:*\nPagos\nActualizaciones del progreso / estado de la ejecución\nHitos / objetivos\nLocalización\nPrórrogas,\nEnmiendas\nDetalles de finalización o terminación |
