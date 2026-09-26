@@ -72,13 +72,16 @@ Finally, Type III EPDs can be very useful to compare amongst different products,
 As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction](/construction-sector).
 
 {% database Ecolabels  %}
+{% comment %}
+<!-- pyml disable md034 -->
+{% endcomment %}
 {% database_table %}
 columns:
 
 - name: Name
   type: title
   width: 278
-- name: "Type "
+- name: 'Type '
   type: select
   width: 202
 - name: Criteria available
@@ -93,16 +96,119 @@ columns:
 - name: Includes social criteria
   type: select
   width: 202
-- name: Link to criteria
-  type: file
 items:
 
-- /tco-certified
-- /good-environmental-choice-australia-ecolabel-geca
-- /energy-star
-- /abnt-environmental-quality
-- /eu-ecolabel
-- /the-blue-angel-eco-label
-- /nordic-swan-ecolabel
+- title: TCO Certified
+  link: https://tcocertified.com/criteria-documents/
+  properties:
+    Criteria available:
+      'Yes': purple
+    Includes social criteria:
+      'Yes': pink
+    Sectors:
+      ICT: red
+    'Type ':
+      Type I: green
+- title: Good Environmental Choice Australia Ecolabel (GECA)
+  link: https://geca.eco/
+  properties:
+    Criteria available:
+      'No': brown
+    Geographical Area: Australia
+    Includes social criteria:
+      'Yes': pink
+    Sectors:
+      Construction: purple
+      Furniture: yellow
+      Office supplies: yellow
+      ICT: red
+      Personal Care Products: default
+      Cleaning services: orange
+      Waste Services: green
+    'Type ':
+      Type I: green
+- title: Energy Star
+  link: https://www.energystar.gov/products/products-list
+  properties:
+    Criteria available: {}
+    Geographical Area: U.S.A.
+    Includes social criteria:
+      'No': brown
+    Sectors:
+      Appliances: brown
+      Heating and cooling: pink
+      Building products: blue
+      Lighting: gray
+      Commercial food service equipment: gray
+      ICT: red
+      Data Centres: orange
+      Electronics: yellow
+    'Type ':
+      Type I-like: default
+- title: ABNT - Environmental Quality
+  link: https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios
+  properties:
+    Criteria available:
+      'Yes': purple
+    Geographical Area: Brazil
+    Includes social criteria:
+      'Yes': pink
+    Sectors:
+      Cleaning products: yellow
+      Apparel: orange
+      Furniture: yellow
+      Office supplies: yellow
+      Construction: purple
+      ICT: red
+      Personal Care Products: default
+    'Type ':
+      Type I: green
+- title: Eu Ecolabel
+  link: https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html
+  properties:
+    Criteria available:
+      'Yes': purple
+    Geographical Area: Europe
+    Includes social criteria:
+      'Yes': pink
+    Sectors:
+      Personal Care Products: default
+      Animal Care: gray
+      Cleaning products: yellow
+      Apparel: orange
+      ICT: red
+      Office supplies: yellow
+    'Type ':
+      Type I: green
+- title: The Blue Angel Eco-Label
+  link: https://www.blauer-engel.de/en/products/products-list-a-z
+  properties:
+    Criteria available:
+      'Yes': purple
+    Geographical Area: 'Germany '
+    Includes social criteria:
+      'Yes': pink
+    Sectors:
+      Apparel: orange
+      Construction: purple
+      Energy: yellow
+      Office supplies: yellow
+      Transport: gray
+      Cleaning products: yellow
+      Personal Care Products: default
+    'Type ':
+      Type I: green
+- title: Nordic Swan Ecolabel
+  properties:
+    Criteria available: {}
+    Geographical Area: Norway
+    Includes social criteria:
+      'Yes': pink
+    Sectors: {}
+    'Type ':
+      Type I: green
 {% enddatabase_table %}
+{% comment %}
+<!-- pyml enable md034 -->
+{% endcomment %}
 {% enddatabase %}

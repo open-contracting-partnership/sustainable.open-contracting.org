@@ -481,3 +481,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 ) {
   max-width: 708px;
 }
+
+/* A database table's titles that link to their items' resources, underlined like links in the text. */
+.notion-collection-table__cell.title a .notion-property__title {
+  text-decoration: underline;
+  text-decoration-color: var(--color-text-default-light);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}

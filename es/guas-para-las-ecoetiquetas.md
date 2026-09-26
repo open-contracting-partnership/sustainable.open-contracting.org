@@ -72,7 +72,10 @@ Finalmente, las EPD de Tipo III pueden ser muy útiles para comparar entre difer
 Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según las categorías de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](/sector-ict-en-ingls) y [construcción](/sector-de-la-construccin-en-ingls).
 
 {% database **Ecoetiquetas**  %}
-{% database_table no-click %}
+{% comment %}
+<!-- pyml disable md034 -->
+{% endcomment %}
+{% database_table %}
 columns:
 
 - name: Nombre
@@ -93,16 +96,119 @@ columns:
 - name: Incluye criterios sociales
   type: select
   width: 202
-- name: Enlace a criterios
-  type: file
 items:
 
-- /guas-para-las-ecoetiquetas/tco-certified
-- /guas-para-las-ecoetiquetas/good-environmental-choice-australia-ecolabel-geca
-- /guas-para-las-ecoetiquetas/energy-star
-- /guas-para-las-ecoetiquetas/abnt-environmental-quality
-- /guas-para-las-ecoetiquetas/eu-ecolabel
-- /guas-para-las-ecoetiquetas/the-blue-angel-eco-label
-- /guas-para-las-ecoetiquetas/nordic-swan-ecolabel
+- title: TCO Certified
+  link: https://tcocertified.com/criteria-documents/
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles:
+      Si: purple
+    Sectores:
+      ICT: red
+    Incluye criterios sociales:
+      Si: pink
+- title: Good Environmental Choice Australia Ecolabel (GECA)
+  link: https://geca.eco/
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles:
+      'No': brown
+    Sectores:
+      Construction: purple
+      Furniture: yellow
+      Office supplies: yellow
+      ICT: red
+      Personal Care Products: default
+      Cleaning services: orange
+      Waste Services: green
+    Área geográfica: Australia
+    Incluye criterios sociales:
+      Si: pink
+- title: Energy Star
+  link: https://www.energystar.gov/products/products-list
+  properties:
+    Tipo:
+      Como Tipo-I: default
+    Criterios disponibles: {}
+    Sectores:
+      Appliances: brown
+      Heating and cooling: pink
+      Building products: blue
+      Lighting: gray
+      Commercial food service equipment: gray
+      ICT: red
+      Data Centres: orange
+      Electronics: yellow
+    Área geográfica: EEUU
+    Incluye criterios sociales:
+      'No': brown
+- title: ABNT - Environmental Quality
+  link: https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles:
+      Si: purple
+    Sectores:
+      Cleaning products: yellow
+      Apparel: orange
+      Furniture: yellow
+      Office supplies: yellow
+      Construction: purple
+      ICT: red
+      Personal Care Products: default
+    Área geográfica: Brasil
+    Incluye criterios sociales:
+      Si: pink
+- title: Eu Ecolabel
+  link: https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles:
+      Si: purple
+    Sectores:
+      Personal Care Products: default
+      Animal Care: gray
+      Cleaning products: yellow
+      Apparel: orange
+      ICT: red
+      Office supplies: yellow
+    Área geográfica: Europa
+    Incluye criterios sociales:
+      Si: pink
+- title: The Blue Angel Eco-Label
+  link: https://www.blauer-engel.de/en/products/products-list-a-z
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles:
+      Si: purple
+    Sectores:
+      Apparel: orange
+      Construction: purple
+      Energy: yellow
+      Office supplies: yellow
+      Transport: gray
+      Cleaning products: yellow
+      Personal Care Products: default
+    Área geográfica: Alemania
+    Incluye criterios sociales:
+      Si: pink
+- title: Nordic Swan Ecolabel
+  properties:
+    Tipo:
+      Tipo I: green
+    Criterios disponibles: {}
+    Sectores: {}
+    Área geográfica: Noruega
+    Incluye criterios sociales:
+      Si: pink
 {% enddatabase_table %}
+{% comment %}
+<!-- pyml enable md034 -->
+{% endcomment %}
 {% enddatabase %}

@@ -142,7 +142,7 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 
 A card without a `link` isn't clickable, and a card without an `icon` has Notion's page icon. `cover_position` defaults to 50, and `cover_only` hides the title under the cover.
 
-Databases' table views are `{% database_table %}` tags, containing YAML with the columns (the first is the items' titles) and the items' paths. Each row's cells are its item's title and `properties` front matter, so an item is edited on its own page. Its caption, for screen readers, is the database's title (or the page's, outside a `{% database %}` tag). `no-click` makes the rows not links:
+Databases' table views, like the resource directory and the ecolabels, are `{% database_table %}` tags, containing YAML with the columns (the first is the items' titles) and the items. Each item is a title, an optional link, which the title links to (like the resource's attachment), and its properties, by column name, so an item is edited in its table. Its caption, for screen readers, is the database's title (or the page's, outside a `{% database %}` tag):
 
 ```liquid
 {% database_table %}
@@ -156,8 +156,11 @@ columns:
   width: 202
 items:
 
-- /tco-certified
-- /the-blue-angel-eco-label
+- title: TCO Certified
+  link: https://tcocertified.com/criteria-documents/
+  properties:
+    Sectors:
+      ICT: red
 {% enddatabase_table %}
 ```
 

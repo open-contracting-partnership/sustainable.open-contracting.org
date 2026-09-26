@@ -28,14 +28,8 @@ EXCEPTIONS = {
         "/open-data-measuring-progress/economic-development",
         "/open-data-measuring-progress/economic-development/*",
     ],
-    "es": [
-        # Resources and ecolabels, whose directories' tables don't link their rows, as on Super.so.
-        "/directorio-de-recursos/*",
-        "/guas-para-las-ecoetiquetas/*",
-    ],
+    "es": [],
     "fr": [
-        "/rpertoire-de-ressources/*",
-        "/guide-des-co-tiquettes/*",
         # The four enabling environment pages to translate (#6).
         "/mise-en-place/accords-cadres",
         "/mise-en-place/interaction-ouverte-avec-les-acteurs-du-march-et-dialogue-comptitif",

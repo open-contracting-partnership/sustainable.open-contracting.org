@@ -161,38 +161,31 @@ module NotionTags
     context.registers[:notion_pages] ||= context.registers[:site].pages.to_h { |page| [page.data["permalink"], page.data] }
   end
 
-  # {% database_table [no-click] %}YAML{% enddatabase_table %} renders a database's table view, where YAML has
-  # "columns" (a list of mappings with "name", "type" and optional "width" in pixels, in which the first column is
-  # the title) and "items" (a list of the items' paths). Cells are the items' titles and properties.
+  # {% database_table %}YAML{% enddatabase_table %} renders a database's table view, where YAML has "columns" (a list of
+  # mappings with "name", "type" and optional "width" in pixels, in which the first column is the title) and "items" (a
+  # list of mappings with "title", an optional "link", which the title links to, and "properties", by column name).
   # Its caption, for screen readers, is the title of the database block that contains it, or else of the page.
   class DatabaseTable < Liquid::Block
-    def initialize(tag_name, markup, options)
-      super
-      @click = !markup.split.include?("no-click")
-    end
-
     def render(context)
       data = YAML.safe_load(super)
       columns = data["columns"]
-      pages = NotionTags.pages(context)
       config = context.registers[:site].config["notion"] || {}
       head = columns.map do |column|
         style = column["width"] ? %( style="width:#{column["width"]}px") : ""
         %(<th class="notion-collection-table__head-cell #{column["type"]}"#{style}>) +
           %(<div class="notion-collection-table__head-cell-content">#{h(column["name"])}</div></th>)
       end
-      rows = data["items"].map do |path|
-        page = pages.fetch(path)
+      rows = data["items"].map do |item|
         cells = columns.each_with_index.map do |column, index|
           if index.zero?
-            title = %(<div class="notion-property notion-property__title notion-semantic-string">#{h(page["title"])}</div>)
-            if @click
-              %(<td class="notion-collection-table__cell title"><div><a href="#{h(path)}" class="notion-link">#{title}</a></div></td>)
+            title = %(<div class="notion-property notion-property__title notion-semantic-string">#{h(item["title"])}</div>)
+            if item["link"]
+              %(<td class="notion-collection-table__cell title"><div><a href="#{h(item["link"])}" class="notion-link">#{title}</a></div></td>)
             else
               %(<td class="notion-collection-table__cell title no-click"><div>#{title}</div></td>)
             end
           else
-            value = (page["properties"] || {})[column["name"]]
+            value = (item["properties"] || {})[column["name"]]
             %(<td class="notion-collection-table__cell #{column["type"]}">#{Properties.value(column["name"], value, config)}</td>)
           end
         end
