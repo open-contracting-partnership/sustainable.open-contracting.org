@@ -2,7 +2,7 @@
 permalink: /_redirects
 layout: null
 ---
-/01c627ebff6942c6ac69bb92e50db2a3 /base-de-donnes-dtudes-de-cas/amrique-du-nord 301
+/01c627ebff6942c6ac69bb92e50db2a3 /base-de-donnes-dtudes-de-cas 301
 /0387bcc8f7af4127b1cfee4dc6ed4c41 /linclusion-des-genres/women-in-boardrooms-female-owned-businesses 301
 /05e4096845d7444bae6e4641815245b3 /rpertoire-de-ressources/socially-responsible-public-procurement-of-ict-equipment-in-sweden 301
 /0895dda34d9e41bcaa9ea91eb8ef1ef6 /la-rduction-des-missions-de-carbone 301
@@ -13,7 +13,7 @@ layout: null
 /0c14bbcbe3a84c2b8dcfa48ced98e465 /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values 301
 /0df2837888c2449db90abd53c74bfc4d /le-secteur-tic-en-anglais/collecting-the-data 301
 /0ffc0e6f0bc047659a3f52cc9bc87bad /rpertoire-de-ressources/gpp-training-toolkit 301
-/0fffaad87dd7428e8bb8c6d16e16c575 /base-de-donnes-dtudes-de-cas/europe 301
+/0fffaad87dd7428e8bb8c6d16e16c575 /base-de-donnes-dtudes-de-cas 301
 /12b1fcd5fea44bf89173b9816e07018b /base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania 301
 /149ab2d38e6b430eada9e1cb977fb06a /possibilits-dutilisation-des-donnes 301
 /14ba6145184340de97316d10fed4b422 /base-de-donnes-dtudes-de-cas/un-rseau-de-connaissances-destin-aux-fonctionnaires-des-services-de-passation-de-marchs-aux-pays-bas 301
@@ -34,7 +34,7 @@ layout: null
 /2393f478caae4ed59a5ce1bb8e319a84 /base-de-donnes-dtudes-de-cas/promoting-equal-access-to-government-opportunities-in-kenya 301
 /255b2fb4065b4ad29c7159feea3f83fe /guide-des-co-tiquettes/tco-certified 301
 /265102c63cc94515bbbe7a18b1a2a179 /rpertoire-de-ressources/site-waste-management-plan-data-form 301
-/272a4e061e694884846cdd80563cb8e3 /base-de-donnes-dtudes-de-cas/asie-de-lest-et-du-sud-est 301
+/272a4e061e694884846cdd80563cb8e3 /base-de-donnes-dtudes-de-cas 301
 /27e237449d394a8b9fe5430503180a7a /ladoption-des-pratiques-durables/how-to-record-spp-in-procurement 301
 /29e2f9f2a4b541398247a32e68bcf2b8 /interagir-avec-le-march 301
 /2a761699c5bd4a6696bf2b6ed43b2057 /base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania 301
@@ -99,7 +99,7 @@ layout: null
 /7439797b986e41fc80546061522a388c /le-secteur-tic-en-anglais/setting-the-framework 301
 /754144edc7db4f8aa37d61c887387598 /le-cot-du-cycle-de-vie 301
 /78211b5af9254502aa43120eee8c658d /suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation 301
-/78732b3bc4ad4e839b58712a3b56f757 /base-de-donnes-dtudes-de-cas/amrique-latine-et-carabes 301
+/78732b3bc4ad4e839b58712a3b56f757 /base-de-donnes-dtudes-de-cas 301
 /7c9ecf8de3e147b1b6ba04e278ed18a4 /mise-en-place 301
 /7e76d945913c4180a11a493bc2219512 /guide-des-co-tiquettes/good-environmental-choice-australia-ecolabel-geca 301
 /7f0e4773d6354fa680272a6066201c35 /des-mcanismes-dassistance 301
@@ -145,8 +145,13 @@ layout: null
 /b558a3155ed64ccdb4698b4364a55ae2 /base-de-donnes-dtudes-de-cas 301
 /b5a480a43f87452792022d719809c748 /planification 301
 /b664687537c848f49e05424b0b84a875 /rpertoire-de-ressources/purchasing-the-future-you-want-a-sustainable-it-purchasing-guide 301
-/b8477f5c4266465eaea24d9f6a19ad9f /base-de-donnes-dtudes-de-cas/europe 301
-/base-de-donnes-dtudes-de-cas/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas/europe 301
+/b8477f5c4266465eaea24d9f6a19ad9f /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/afrique /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/amrique-du-nord /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/amrique-latine-et-carabes /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/asie-de-lest-et-du-sud-est /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas 301
+/base-de-donnes-dtudes-de-cas/europe /base-de-donnes-dtudes-de-cas 301
 /bfc97268fdf1415c949503763359884f /base-de-donnes-dtudes-de-cas/plan-daction-sur-les-marchs-publics-cologiques-en-irelande 301
 /build-support-and-capabilities /des-mcanismes-dassistance 301
 /c16aff787f6e41cbb968badc22c98432 /introduction 301
@@ -158,13 +163,13 @@ layout: null
 /carbon-reduction /la-rduction-des-missions-de-carbone 301
 /carbon-reduction/benchmarking-carbon-procurements /la-rduction-des-missions-de-carbone/benchmarking-carbon-procurements 301
 /carbon-reduction/how-to-estimate-carbon-values /la-rduction-des-missions-de-carbone/how-to-estimate-carbon-values 301
-/case-study-database/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas/europe 301
+/case-study-database/communicating-sustainability-on-a-the-contracts-subject-matter-in-malta /base-de-donnes-dtudes-de-cas 301
 /case-study-database/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen /base-de-donnes-dtudes-de-cas/creating-a-task-force-to-monitor-supplier-working-conditions-in-the-city-of-copenhagen 301
 /case-study-database/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-corruption-in-public-construction-projects-in-colombia 301
 /case-study-database/engaging-citizens-to-monitor-public-projects-in-peru /base-de-donnes-dtudes-de-cas/engaging-citizens-to-monitor-public-projects-in-peru 301
 /case-study-database/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland /base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-facilitate-supplier-collaboration-in-scotland 301
 /case-study-database/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm /base-de-donnes-dtudes-de-cas/engaging-with-the-market-to-procure-socially-responsible-ict-in-stockholm 301
-/case-study-database/europe /base-de-donnes-dtudes-de-cas/europe 301
+/case-study-database/europe /base-de-donnes-dtudes-de-cas 301
 /case-study-database/monitoring-progress-against-sustainability-goals-in-lithuania /base-de-donnes-dtudes-de-cas/monitoring-progress-against-sustainability-goals-in-lithuania 301
 /case-study-database/promoting-circularity-through-furniture-procurement-in-wales /base-de-donnes-dtudes-de-cas/promoting-circularity-through-furniture-procurement-in-wales 301
 /case-study-database/promoting-equal-access-to-government-opportunities-in-kenya /base-de-donnes-dtudes-de-cas/promoting-equal-access-to-government-opportunities-in-kenya 301
@@ -174,7 +179,7 @@ layout: null
 /case-study-database/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country /base-de-donnes-dtudes-de-cas/standardizing-sustainability-requirements-according-to-market-capability-in-the-basque-country 301
 /case-study-database/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia /base-de-donnes-dtudes-de-cas/using-a-two-stage-tender-to-increase-collaboration-in-a-construction-project-in-namibia 301
 /case-study-database/using-local-resources-for-the-design-of-the-first-sustainability-accredited-building-in-ghana /base-de-donnes-dtudes-de-cas/using-local-resources-for-the-design-of-the-first-sustainability-accredited-building-in-ghana 301
-/cd2191668de3460884f845e2f55cf04e /base-de-donnes-dtudes-de-cas/afrique 301
+/cd2191668de3460884f845e2f55cf04e /base-de-donnes-dtudes-de-cas 301
 /cd49a466cdfe40e3ab2b416472f39a34 /base-de-donnes-dtudes-de-cas/un-plan-national-sur-les-marchs-publics-durables-en-argentine 301
 /ce-que-vous-avez-demandes /vous-avez-demandes 301
 /choose-a-procurement-method /choisir-une-mthode-de-passation-de-marchs 301
