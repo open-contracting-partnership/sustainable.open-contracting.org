@@ -4,6 +4,7 @@ title: Latin America and the Caribbean
 full_width: true
 collection: true
 notion_id: "37f87b7f84ce4be7b2ccb4445d2efed2"
+sidebar: true
 ---
 {% gallery large %}
 

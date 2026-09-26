@@ -4,6 +4,7 @@ title: Haga clic aquí para más información
 full_width: true
 collection: true
 notion_id: a08fcfdc88344818a66667e68174b97e
+sidebar: true
 ---
 {% gallery medium %}
 

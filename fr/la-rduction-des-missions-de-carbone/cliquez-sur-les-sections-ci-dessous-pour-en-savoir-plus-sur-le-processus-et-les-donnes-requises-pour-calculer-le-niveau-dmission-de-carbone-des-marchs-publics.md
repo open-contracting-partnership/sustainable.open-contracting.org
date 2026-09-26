@@ -4,6 +4,7 @@ title: "Cliquez sur les sections ci-dessous pour en savoir plus sur le processus
 full_width: true
 collection: true
 notion_id: "8ad3fbe9b3754037a99d2d7cb2334ac3"
+sidebar: true
 ---
 {% gallery medium %}
 

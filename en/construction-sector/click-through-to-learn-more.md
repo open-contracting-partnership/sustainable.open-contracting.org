@@ -4,6 +4,7 @@ title: Click through to learn more
 full_width: true
 collection: true
 notion_id: "3913e5ce553b456ba62e368e77fe1f44"
+sidebar: true
 ---
 {% gallery medium %}
 

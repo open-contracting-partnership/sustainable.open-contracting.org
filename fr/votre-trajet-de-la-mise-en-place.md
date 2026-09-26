@@ -4,6 +4,7 @@ title: Votre trajet de la mise en place
 full_width: true
 collection: true
 notion_id: c82f31cd3c724f7bb4ee95b060b25d4f
+sidebar: true
 ---
 {% gallery medium %}
 

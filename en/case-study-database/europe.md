@@ -4,6 +4,7 @@ title: Europe
 full_width: true
 collection: true
 notion_id: "1bf2fbacd9fe42699eac2d92e9ede9bb"
+sidebar: true
 ---
 {% gallery large %}
 

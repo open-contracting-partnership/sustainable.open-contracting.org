@@ -4,6 +4,8 @@ title: How to value a life cycle
 description: In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "43a0e1c38ac847d586c617ef630c42c6"
+full_width: true
+sidebar: true
 ---
 In this example the value of the data you can gather directly corresponds to the quality of the analysis you are able to undertake. Better data will give you better analysis and more control over the pricing and valuation of future contracts.
 

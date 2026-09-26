@@ -4,6 +4,8 @@ title: "¿Cómo analizar la brecha salarial por género?"
 description: "Good gender pay data is defined as that which reports the difference in earnings between equivalent job roles across an entire organization, ideally split by quartiles of pay, so comparing gender differentials in pay across similar roles within the top 25%, then the next 25% up to 50%, etc. Good metrics also report the number of women in senior positions."
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "207fdc9be2f3447bb7252123b654da5f"
+full_width: true
+sidebar: true
 ---
 Good gender pay data is defined as that which reports the difference in earnings between equivalent job roles across an entire organization, ideally split by quartiles of pay, so comparing gender differentials in pay across similar roles within the top 25%, then the next 25% up to 50%, etc. Good metrics also report the number of women in senior positions.
 

@@ -4,6 +4,7 @@ title: Africa
 full_width: true
 collection: true
 notion_id: "85fcbe0dada44d5ab8c79f892697c577"
+sidebar: true
 ---
 {% gallery large %}
 

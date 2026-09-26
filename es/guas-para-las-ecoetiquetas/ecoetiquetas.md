@@ -4,6 +4,7 @@ title: Ecoetiquetas
 full_width: true
 collection: true
 notion_id: "8f652f63e406406b982ff3ea09742195"
+sidebar: true
 ---
 {% database_table no-click %}
 columns:

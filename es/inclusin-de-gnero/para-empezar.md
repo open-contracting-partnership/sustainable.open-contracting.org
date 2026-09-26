@@ -4,6 +4,7 @@ title: Para empezar
 full_width: true
 collection: true
 notion_id: "2e3e75057d52453eb2393054f364246c"
+sidebar: true
 ---
 {% gallery medium %}
 

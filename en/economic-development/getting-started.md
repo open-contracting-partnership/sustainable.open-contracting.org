@@ -4,6 +4,7 @@ title: Getting started
 full_width: true
 collection: true
 notion_id: ed5ef8c42a9249bfbb6a93965514c084
+sidebar: true
 ---
 {% gallery medium %}
 

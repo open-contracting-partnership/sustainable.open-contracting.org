@@ -4,6 +4,7 @@ title: Haga clíc para más información
 full_width: true
 collection: true
 notion_id: "7209956ba1a3466583b4922dbdc8a0dc"
+sidebar: true
 ---
 {% gallery medium %}
 

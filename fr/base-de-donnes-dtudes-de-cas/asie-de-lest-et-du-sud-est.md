@@ -4,6 +4,7 @@ title: "Asie de l'Est et du Sud-Est"
 full_width: true
 collection: true
 notion_id: "272a4e061e694884846cdd80563cb8e3"
+sidebar: true
 ---
 
 {% gallery large %}

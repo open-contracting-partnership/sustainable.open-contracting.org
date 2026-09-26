@@ -4,6 +4,8 @@ title: Options for measuring
 description: "Once you have been able to link policy and action and then record it in data, it is possible to start to measure SPP procurement. In most cases the measurement you will use is simply counting the number of times procurements are meeting an agreed SPP threshold."
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: dc9490aecb04490c9d4f8247243248df
+full_width: true
+sidebar: true
 ---
 Once you have been able to link policy and action and then record it in data, it is possible to start to measure SPP procurement. In most cases the measurement you will use is simply counting the number of times procurements are meeting an agreed SPP threshold.
 

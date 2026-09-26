@@ -4,6 +4,8 @@ title: "Liste de vérification : évaluation rapide de votre environnement habi
 description: Quick checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
+full_width: true
+sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/mise-en-place) in the [Open SPP toolkit](/).

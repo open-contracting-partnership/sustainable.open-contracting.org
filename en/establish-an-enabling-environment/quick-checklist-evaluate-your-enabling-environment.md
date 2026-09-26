@@ -4,6 +4,8 @@ title: Quick checklist - Evaluate your enabling environment
 description: Quick checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: "6a6a2d45158d4269aec4e02ab7172371"
+full_width: true
+sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establish-an-enabling-environment) in the [Open SPP toolkit](/).

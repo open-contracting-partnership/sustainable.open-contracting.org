@@ -5,6 +5,8 @@ description: "For many industries contracting has become a global affair, govern
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
 notion_id: "17d7b9e2fd804758a8dbf136a7fdfdec"
+full_width: true
+sidebar: true
 ---
 ## What is it?
 

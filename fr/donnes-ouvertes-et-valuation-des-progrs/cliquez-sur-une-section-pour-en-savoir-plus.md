@@ -4,6 +4,7 @@ title: Cliquez sur une section pour en savoir plus.
 full_width: true
 collection: true
 notion_id: "1a144e82589b4729b2107b7d87bc276c"
+sidebar: true
 ---
 {% gallery medium %}
 

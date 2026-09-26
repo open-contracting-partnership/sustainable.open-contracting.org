@@ -4,6 +4,8 @@ title: Dispositions visant explicitement à intégrer la durabilité aux critèr
 description: "As well as including provisions indicating that factors other than price can be considered as award or evaluation criteria, some countries might provide specific guidance on how sustainability might be considered. "
 icon: /assets/images/icons_D_Green3.svg
 notion_id: "6dabaa15180b4602b59122edea8707c8"
+full_width: true
+sidebar: true
 ---
 ## What are they?
 

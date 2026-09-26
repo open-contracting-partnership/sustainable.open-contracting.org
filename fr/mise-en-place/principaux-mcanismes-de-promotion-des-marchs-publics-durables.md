@@ -4,6 +4,7 @@ title: Principaux mécanismes de promotion des marchés publics durables
 full_width: true
 collection: true
 notion_id: "59b5d1f99405405dae2effa68c160a68"
+sidebar: true
 ---
 {% gallery medium %}
 

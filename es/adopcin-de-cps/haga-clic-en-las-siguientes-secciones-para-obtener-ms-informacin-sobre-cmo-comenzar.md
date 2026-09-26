@@ -4,6 +4,7 @@ title: "Haga clic en las siguientes secciones para obtener más información sob
 full_width: true
 collection: true
 notion_id: "7ca2fb0638404bae83ecc23035cf0805"
+sidebar: true
 ---
 {% gallery medium %}
 

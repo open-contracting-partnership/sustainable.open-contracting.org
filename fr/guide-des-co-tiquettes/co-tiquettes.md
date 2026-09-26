@@ -4,6 +4,7 @@ title: Éco-étiquettes
 full_width: true
 collection: true
 notion_id: "4d4d4a58a3204c8b8cf20f39a8bd92bf"
+sidebar: true
 ---
 {% database_table no-click %}
 columns:

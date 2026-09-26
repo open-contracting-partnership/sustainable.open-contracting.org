@@ -4,6 +4,7 @@ title: "Click through to the following sections to find out more about how to ge
 full_width: true
 collection: true
 notion_id: "0309ad36f9024ebf9fce043815e223e9"
+sidebar: true
 ---
 {% gallery medium %}
 

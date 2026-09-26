@@ -4,6 +4,7 @@ title: "Cliquez sur les sous-sections suivantes pour en savoir plus concernant l
 full_width: true
 collection: true
 notion_id: "754144edc7db4f8aa37d61c887387598"
+sidebar: true
 ---
 {% gallery medium %}
 

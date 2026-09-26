@@ -4,6 +4,8 @@ title: Lista de chequeo rápido-comparte su sendero hacia el cumplimiento
 description: "\nCompliance Trail Checklist"
 icon: /assets/images/Tick_green_2.svg
 notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
+full_width: true
+sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit](/).
