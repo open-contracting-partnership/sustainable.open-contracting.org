@@ -206,6 +206,13 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   margin-top: 2rem;
 }
 
+/* Margins that narrow with the screen, from 96px at 1280px to 48px at 640px, so that the content has room, beside the
+   sidebar too. Phones have 24px. */
+:root {
+  --padding-left: calc(env(safe-area-inset-left) + clamp(48px, 7.5vw, 96px));
+  --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
+}
+
 /* The sidebar is a <details> element: always open on wider screens, and a menu on phones, where the columns stack. */
 .sidebar-menu > summary {
   list-style: none;
@@ -411,7 +418,7 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
    like a full-width page's content. */
 @media (min-width: 1000px) {
   .notion-root.max-width > .notion-table__wrapper.wide {
-    width: calc(100vw - 2 * 96px);
+    width: calc(100vw - var(--padding-left) - var(--padding-right));
     margin-inline-start: 50%;
     transform: translateX(-50%);
   }

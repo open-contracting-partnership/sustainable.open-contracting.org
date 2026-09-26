@@ -27,8 +27,8 @@ kramdown:
     raquo: ">>"
     laquo_space: "<< "
     raquo_space: " >>"
-# The sidebar's fraction of the width of pages with "sidebar: true".
-sidebar_width: 0.25
+# The width, in pixels, of the sidebar of pages with "sidebar: true".
+sidebar_width: 260
 # Each language's config sets breadcrumb_label, the label of the button that shows the breadcrumbs that don't fit,
 # sidebar_label, the label of the sidebar's navigation, table_scroll_label, the hint above a table that scrolls, and
 # language_label, the label of the language links.
