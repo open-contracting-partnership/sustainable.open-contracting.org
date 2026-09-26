@@ -59,7 +59,7 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `full_width` | Whether the page is full width |
 | `collection` | Whether the page is a Notion database |
 | `notion_id` | The ID of the Notion page from which it was imported |
-| `sidebar` | Whether the page has the sidebar |
+| `sidebar` | Whether the page has the sidebar, which also needs `full_width`. Every page with text or a gallery has it, except the sample M&E framework, whose wide table extends past the text column of a page that isn't full width. Ecolabels and resources don't have it, since they have properties and no text |
 | `properties` | A database item's properties, in order, rendered by the `{% properties %}` tag in the layout: a mapping of pills to their colors, a list of mappings of attachments' names to their URLs, a number, or text. The `notion.date_properties` and `notion.url_properties` settings in `_config.yml` name the properties that are dates and URLs. |
 
 A page's versions in each language are a line of `_data/translations.yml`, like `- {en: /prioritize, es: /priorice, fr: /priorits}`, which all three builds read. The layout and the sitemaps link them as alternates (`hreflang`), with the English version as the default. The navbar's language links (`_includes/languages.html`) go to the page's versions, or to the other sites' home pages. To add a page's versions, or to change a permalink, edit its line.
