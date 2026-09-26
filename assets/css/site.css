@@ -106,7 +106,8 @@ ol.notion-breadcrumb {
   align-items: center;
 }
 
-/* The last crumb shrinks, so that its title truncates beside the language links on phones, once the others collapse. */
+/* The last crumb shrinks, so that its title truncates beside the language links on phones, if collapsing the others
+   isn't enough (site.js). */
 .notion-breadcrumb,
 .notion-breadcrumb > li:last-child,
 .notion-breadcrumb > li:last-child > .notion-breadcrumb__item {

@@ -166,6 +166,12 @@ if (breadcrumb) {
     menu.classList.add(open ? "animate-in" : "animate-out");
   };
 
+  // The breadcrumbs don't fit if they overflow, or if the last crumb's title is narrower than it would be.
+  const last = crumbs.at(-1).querySelector(".notion-breadcrumb__title");
+  const fits = () =>
+    breadcrumb.scrollWidth <= breadcrumb.clientWidth &&
+    last.clientWidth >= Math.min(last.scrollWidth, Number.parseFloat(getComputedStyle(last).maxWidth) || Infinity);
+
   const fit = () => {
     toggle(false);
     item.remove();
@@ -174,7 +180,7 @@ if (breadcrumb) {
       crumb.hidden = false;
     });
     for (const crumb of crumbs.slice(1, -1)) {
-      if (breadcrumb.scrollWidth <= breadcrumb.clientWidth) break;
+      if (fits()) break;
       if (!item.isConnected) crumbs[0].after(item);
       crumb.hidden = true;
       const link = crumb.querySelector("a");
