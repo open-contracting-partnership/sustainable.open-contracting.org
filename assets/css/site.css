@@ -411,9 +411,42 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
    margins. */
 @media (min-width: 1000px) {
   .notion-root.max-width > .notion-table__wrapper.wide {
-    width: max-content;
-    max-width: calc(100vw - 2 * 96px);
+    width: min(var(--table-width), 100vw - 2 * 96px);
     margin-inline-start: 50%;
     transform: translateX(-50%);
   }
+}
+
+/* The hint above a table that scrolls, and a fade at the edge that has more (site.js). */
+.notion-table__scroll-hint {
+  margin: 0 0 0.25rem;
+  color: var(--color-text-default-light);
+  font-size: 0.875rem;
+  text-align: end;
+}
+
+.notion-table__scroll-hint[hidden] {
+  display: none;
+}
+
+.notion-table__wrapper.more-end {
+  mask-image: linear-gradient(to right, #000 calc(100% - 3rem), transparent);
+}
+
+.notion-table__wrapper.more-start {
+  mask-image: linear-gradient(to left, #000 calc(100% - 3rem), transparent);
+}
+
+.notion-table__wrapper.more-start.more-end {
+  mask-image: linear-gradient(to right, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
+}
+
+/* A table's columns are sized by their content, so its words don't break, except a word wider than its column. */
+.notion-table :is(td, th) {
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.notion-table :is(td, th) * {
+  word-break: inherit;
 }

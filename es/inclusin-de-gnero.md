@@ -79,8 +79,6 @@ Con base en estos datos, puede comenzar a medir el progreso con respecto al obje
 
 Hemos incluido estos resultados a continuación, junto con los indicadores correspondientes, las opciones relevantes para recopilar datos que se presentan en esta sección y algunos consejos para la implementación:
 
-← Scroll to see more                                                                                                                                                           Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
 | {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
 |---|---|---|---|---|---|

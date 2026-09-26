@@ -215,7 +215,8 @@ end
 
 module NotionTags
   # {% table WIDTH... [col-header] [row-header] [caption: CAPTION] %}ROWS{% endtable %}, where each WIDTH is a column's
-  # width in pixels, or its minimum and maximum widths, as MIN-MAX, and CAPTION is Markdown.
+  # width in pixels, or its minimum and maximum widths, as MIN-MAX, and CAPTION is Markdown. The widths set the table's
+  # width, and the browser sizes the columns by their content.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
   # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text, in which
@@ -247,26 +248,32 @@ module NotionTags
         tds = cells.each_with_index.map do |cell, i|
           scope = "col" if @col_header && row.zero?
           scope ||= "row" if @row_header && i.zero?
-          cell(context, cell.strip, @widths[i], scope)
+          cell(context, cell.strip, scope)
         end
         %(<tr style="#{style}">#{tds.join}</tr>)
       end
       caption = @caption ? NotionTags.inline(context, @caption.strip) : nil
       caption &&= %(<caption class="notion-table__caption">#{caption}</caption>)
-      wide = " wide" if @widths.sum { |width| width.split("-").first.to_f } > TEXT_WIDTH
-      %(<div class="notion-table__wrapper#{wide}" tabindex="0"><table class="#{@classes}">#{caption}<tbody>#{html.join}</tbody></table></div>)
+      label = context.registers[:site].config["table_scroll_label"]
+      # The browser sizes the columns by their content, within the table's width.
+      table = %(<table class="#{@classes}" style="width:100%;max-width:#{width}px">#{caption}<tbody>#{html.join}</tbody></table>)
+      %(<div class="notion-table__wrapper#{" wide" if width > TEXT_WIDTH}" tabindex="0" ) +
+        %(data-scroll-label="#{CGI.escapeHTML(label.to_s)}" style="--table-width:#{width}px">#{table}</div>)
     end
 
     private
 
+    # The table's width, from its columns' maximum widths.
+    def width
+      @widths.sum { |width| width.split("-").last.to_f }.round
+    end
+
     # A cell is a header (th), with its scope, in the first row of a table with col-header, or the first column of a
     # table with row-header.
-    def cell(context, text, width, scope)
+    def cell(context, text, scope)
       color = text[COLOR, 1]
       text = text.sub(COLOR, "")
-      min, max = width.split("-")
-      style = "min-width:#{min}px;max-width:#{max || min}px"
-      style += ";background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})" if color
+      style = %( style="background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})") if color
       lines = text.split(LINE_BREAK).map(&:strip).reject(&:empty?)
       content = if text.empty?
                   %(<div class="notion-table__empty-cell"></div>)
@@ -279,7 +286,7 @@ module NotionTags
                 else
                   %(<div class="notion-table__cell"><span class="notion-semantic-string">#{NotionTags.inline(context, text.gsub(LINE_BREAK, "<br>"))}</span></div>)
                 end
-      scope ? %(<th scope="#{scope}" style="#{style}">#{content}</th>) : %(<td style="#{style}">#{content}</td>)
+      scope ? %(<th scope="#{scope}"#{style}>#{content}</th>) : %(<td#{style}>#{content}</td>)
     end
   end
 end

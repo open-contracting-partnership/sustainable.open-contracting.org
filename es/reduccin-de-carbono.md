@@ -103,8 +103,6 @@ Usted podrá utilizar los informes públicos para:
 
 Algunos de estos son más complicados que otros. Incluso si no tiene una fuente confiable de datos sobre las emisiones de CO2 y los contratos públicos, aún puede comunicar estos datos para abordar los compromisos políticos y establecer disposiciones en contratos específicos de mayor impacto para fomentar la innovación por parte de los proveedores. Es importante comenzar con las características de datos más simples y asegurarse de tener un proceso sólido y repetible para publicar datos sobre emisiones. Para obtener orientación sobre cómo hacer esto, anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación, se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento:
 
-← Scroll to see more                                                                                                                                 Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
 | {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
 |---|---|---|---|---|---|

@@ -70,10 +70,8 @@ There are different ways to measure progress against the adoption of SPP policie
 
 In the specific, worked example below, we have included these outcomes, together with the corresponding indicators, the relevant options for collecting data and some tips for implementation. These are just suggestions to demonstrate how to bring the elements of the Guide together, you would want to adjust them depending on your objectives, data available, the context, etc.
 
-← Scroll to see more                                                                                                                                      Scroll to see more →
-
 {% table 137.5 127.5 143.5 188.5 189.5 189.5 col-header %}
-| {default} **GOAL** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS FOR RECORDING THE DATA YOU NEED** |
+| {default} **GOAL** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Share of contracts which are classified as SPP  | - Number of contracts classified as SPP.\n- Total number of contracts.  | Contracts classified as SPP / Total number contracts | [See Option 1: Assign tags to procurements](/options-for-data-use#option-1) |
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Value share of contracts which are classified as SPP  | - Value of contracts classified as SPP\n- Value of total contracts | Value of contracts classified as SPP / Total value of contracts | [See Option 1: Assign tags to procurements](/options-for-data-use#option-1) |

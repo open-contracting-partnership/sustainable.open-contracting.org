@@ -6,6 +6,7 @@ search: true
 breadcrumb_label: More pages
 language_label: Language
 sidebar_label: Contents
+table_scroll_label: Scroll to see more
 search_labels:
   search: Search
   no_results: No results found

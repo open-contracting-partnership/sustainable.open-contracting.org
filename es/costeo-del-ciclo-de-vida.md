@@ -104,8 +104,6 @@ Con datos sólidos, será posible identificar y trabajar con los equipos más ex
 
 Anteriormente en el conjunto de herramientas, presentamos un Marco de M&E para medir el progreso en relación con los objetivos de sostenibilidad. A continuación se presentan algunos ejemplos de posibles resultados e indicadores para realizar un seguimiento de la aplicación de los enfoques de costeo del ciclo de vida:
 
-← Scroll to see more                                                                                                                                      Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
 | {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
 |---|---|---|---|---|---|

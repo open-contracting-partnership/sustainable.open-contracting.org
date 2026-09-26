@@ -23,10 +23,8 @@ The M&E framework includes the following section:
 
 You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/open-data-measuring-progress). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward.
 
-← Scroll to see more                                                                                           Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
-| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS FOR RECORDING THE DATA YOU NEED** |
+| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Share of contracts which are classified as SPP  | - Number of contracts classified as SPP\n- Total number of contracts | Contracts classified as SPP / Total number contracts | [See Option 1: Assign tags to procurements](/options-for-data-use#option-1) |
 {blue} | Promoting SPP uptake | Increasing SPP implementation | Value share of contracts which are classified as SPP  | - Value of contracts classified as SPP\n- Value of total contracts | Value of contracts classified as SPP / Total value of contracts | [See Option 1: Assign tags to procurements](/options-for-data-use#option-1) |

@@ -30,7 +30,8 @@ kramdown:
 # The sidebar's fraction of the width of pages with "sidebar: true".
 sidebar_width: 0.25
 # Each language's config sets breadcrumb_label, the label of the button that shows the breadcrumbs that don't fit,
-# sidebar_label, the label of the sidebar's navigation, and language_label, the label of the language links.
+# sidebar_label, the label of the sidebar's navigation, table_scroll_label, the hint above a table that scrolls, and
+# language_label, the label of the language links.
 # Each language's site, and its name in that language, for the language links and the alternate links between a page's
 # versions, which _data/translations.yml lists.
 urls:

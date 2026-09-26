@@ -222,3 +222,23 @@ document.querySelectorAll(".sidebar-menu, .language-menu").forEach((menu) => {
     if (menu.open && !menu.contains(event.target)) menu.open = false;
   });
 });
+
+// Tables that scroll: a hint above them, and a fade at the edges that have more.
+document.querySelectorAll(".notion-table__wrapper").forEach((wrapper) => {
+  const hint = document.createElement("p");
+  hint.className = "notion-table__scroll-hint";
+  hint.setAttribute("aria-hidden", "true");
+  hint.textContent = `${wrapper.dataset.scrollLabel} →`;
+  wrapper.before(hint);
+  const update = () => {
+    const scrolls = wrapper.scrollWidth > wrapper.clientWidth + 1;
+    hint.hidden = !scrolls;
+    wrapper.classList.toggle("more-start", scrolls && wrapper.scrollLeft > 1);
+    wrapper.classList.toggle(
+      "more-end",
+      scrolls && wrapper.scrollLeft + wrapper.clientWidth < wrapper.scrollWidth - 1,
+    );
+  };
+  wrapper.addEventListener("scroll", update, { passive: true });
+  new ResizeObserver(update).observe(wrapper);
+});

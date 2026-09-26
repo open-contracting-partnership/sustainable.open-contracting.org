@@ -80,10 +80,8 @@ Based on this data you can start to measure progress against the goal of achievi
 
 We have included these outcomes below, together with the corresponding indicators, the relevant options for collecting data that are presented in [this section](/options-for-data-use), and some tips for implementation:
 
-← Scroll to see more                                                                                                                                                           Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
-| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS FOR RECORDING THE DATA YOU NEED** |
+| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {purple} | Promoting gender inclusion | Increasing access for women to public procurement | Share of bids received by businesses which are women-led | - Number of bids received by businesses which are women- led\n- Total number of bids received | Bids by women-led businesses / Total number of bids | [See Option 8: Record supplier data at tender submission](/options-for-data-use#option-8) |
 {purple} | Promoting gender inclusion | Increasing access for women to public procurement | Share of contracts awarded to women-led businesses  | - Number of contracts awarded to women-led businesses\n- Total number of public contracts | Contracts awarded to women-led businesses / Total number of contracts | [See Option 8: Record supplier data at tender submission](/options-for-data-use#option-8) |

@@ -70,8 +70,6 @@ Hay diferentes formas de medir el progreso en la adopción de políticas CPS. An
 
 En el ejemplo específico y trabajado a continuación, hemos incluido estos resultados, junto con los indicadores correspondientes, las opciones relevantes para recopilar datos y algunos consejos para la implementación. Estas son solo sugerencias para demostrar cómo unir los elementos de la Guía pero usted querrá ajustarlos según sus objetivos, los datos disponibles, el contexto, etc.
 
-← Scroll to see more                                                                                                                                      Scroll to see more →
-
 {% table 137.5 127.5 143.5 188.5 189.5 189.5 col-header %}
 | {default} **METAS** | {default} **RESULTADOS** | {default} **INDICADORES** | {default} **INFORMACION REQUERIDA** | {default} **MÉTODO DE CÁLCULO** | {default} **OPCIONES PARA REGISTRAR LOS DATOS QUE UD REQUIERE** |
 |---|---|---|---|---|---|

@@ -99,10 +99,8 @@ You can use public reporting to:
 
 Some of these are more complicated than others. Even if you don’t have a reliable pipeline of data on CO2 emissions and public contracts, you can still communicate this data to address policy commitments and put provisions in specific higher impact contracts to encourage innovation by suppliers. It is important to start with the most simple data features and ensure that you have a robust, repeatable process for publishing data on emissions. For guidance on how to do this, earlier in the toolkit, we [introduced an M&E Framework](/monitoring-evaluation) for measuring progress against sustainability goals. Below are some examples of possible outcomes and indicators to track:
 
-← Scroll to see more                                                                                                                                 Scroll to see more →
-
 {% table 166.24 177.23 196.23 205.23 189.22 165.22 col-header %}
-| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS FOR RECORDING THE DATA YOU NEED** |
+| {default} **GOALS** | {default} **OUTCOMES** | {default} **INDICATORS** | {default} **INFORMATION NEEDS** | {default} **CALCULATION METHOD** | {default} **OPTIONS TO RECORD THE DATA YOU NEED** |
 |---|---|---|---|---|---|
 {green} | Reducing carbon emissions  | Promoting low carbon practices in public contracts | Share of tenders which comply with low carbon SPP policies | - Number of tenders that company with low carbon policy\n- Total number of tenders | Compliant tenders / Total number of tenders | [See Option 5: Request sustainability suggestions](/options-for-data-use#option-5)  |
 {green} | Reducing carbon emissions  | Promoting low carbon practices in public contracts | Share of tenders which include a carbon budget  | - Number of tenders which include a carbon budget within specifications\n- Total number of tenders | Contracts which include a carbon budget / Total number of tenders | [See Option 4: Forecast contract impact](/options-for-data-use#option-4) |
