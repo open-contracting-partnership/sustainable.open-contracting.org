@@ -10,7 +10,7 @@ The following checklist has been created for national authorities to easily iden
  in the [Open SPP toolkit](/).
 {% endcallout %}
 
-**Compliance Trail Checklist**
+### Compliance Trail Checklist
 
 - [ ] Regulation where relevant guiding principles are mentioned (VfM, economy, effectiveness).
 

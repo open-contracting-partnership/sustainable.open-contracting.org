@@ -72,99 +72,60 @@ Le Standard de données sur la commande publique ouverte [recommande](https://st
 
 En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
 
+```json
 {
-
-"parties": [
-
-{
-
-"name": "Siemens, SRL",
-
-"id": "DO-RPE-12716",
-
-"identifier": {
-
-"scheme": "DO-RPE",
-
-"id": "12716",
-
-"legalName": "Siemens, SRL"
-
-},
-
-"roles": [
-
-"supplier"
-
-],
-
-"address": {
-
-"streetAddress": "Avenida Pedro Henriquez Ureña No. 138, Torre Empresarial Reyna II, Piso 6 , 602, La Esperilla",
-
-"locality": "SANTO DOMINGO DE GUZMAN",
-
-"region": "DISTRITO NACIONAL"
-
-},
-
-**"details": {**
-
-**"gender": "male"**
-
-**}**
-
+  "parties": [
+    {
+      "name": "Siemens, SRL",
+      "id": "DO-RPE-12716",
+      "identifier": {
+        "scheme": "DO-RPE",
+        "id": "12716",
+        "legalName": "Siemens, SRL"
+      },
+      "roles": [
+        "supplier"
+      ],
+      "address": {
+        "streetAddress": "Avenida Pedro Henriquez Ureña No. 138, Torre Empresarial Reyna II, Piso 6 , 602, La Esperilla",
+        "locality": "SANTO DOMINGO DE GUZMAN",
+        "region": "DISTRITO NACIONAL"
+      },
+      "details": {
+        "gender": "male"
+      }
+    }
+  ]
 }
-
-]
-
-}
+```
 
 Toutefois, comme expliqué précédemment, dans certains cas, les informations concernant les entreprises ne sont pas accessibles. C’est le cas en Colombie, où seul le sexe de la personne qui représente l’entreprise est connu. Par conséquent, pour publier ces informations au format OCDS, les acheteurs publics ont créé leur propre [extension](https://apiocds.colombiacompra.gov.co/recursos/contactPoint/release-schema.json) afin de créer un champ correspondant et d’énumérer les valeurs acceptées. Voici un exemple de la présentation de ces données :
 
+```json
 {
-
-"name": "JINNA PAOLA LEoN WESSO",
-
-"id": "52838216",
-
-"identifier": {
-
-"scheme": "COL-IDCARD",
-
-"id": "52838216 ",
-
-"legalName": "JINNA PAOLA LEoN WESSO"
-
-},
-
-"address": {
-
-"streetAddress": "CL 1 70 A 06 ",
-
-"locality": "Bogotá D.C.",
-
-"region": " Colombia",
-
-"countryName": "COLOMBIA"
-
-},
-
-"contactPoint": {
-
-"name": "JINNA PAOLA LEÓN WESSO",
-
-"scheme": "COL-IDCARD",
-
-"identifier": "52.838.216",
-
-**"gender": "Femenino"**
-
+  "name": "JINNA PAOLA LEoN WESSO",
+  "id": "52838216",
+  "identifier": {
+    "scheme": "COL-IDCARD",
+    "id": "52838216 ",
+    "legalName": "JINNA PAOLA LEoN WESSO"
+  },
+  "address": {
+    "streetAddress": "CL 1 70 A 06 ",
+    "locality": "Bogotá D.C.",
+    "region": " Colombia",
+    "countryName": "COLOMBIA"
+  },
+  "contactPoint": {
+    "name": "JINNA PAOLA LEÓN WESSO",
+    "scheme": "COL-IDCARD",
+    "identifier": "52.838.216",
+    "gender": "Femenino"
+  }
 }
+```
 
-}
-
-**Collecter des données sur l’écart de rémunération entre les femmes et les hommes**
+### Collecter des données sur l’écart de rémunération entre les femmes et les hommes
 
 En plus des données indiquant si une entreprise est dirigée par une femme ou non, vous pouvez utiliser des jeux de données complémentaires concernant l’équité au sein d’une entreprise, s’ils existent, afin d’en savoir plus, par exemple, sur l’écart de rémunération entre les femmes et les hommes (si les femmes sont moins rémunérées que les hommes à travail égal), les femmes occupant des postes de direction et d’autres politiques relatives à l’équité (congé parental, aide à la garde d’enfants…).
 

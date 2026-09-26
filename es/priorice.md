@@ -18,8 +18,7 @@ Las páginas 28 a 32 del [Manual CPS del Banco Mundial](https://openknowledge.wo
 En esta sección presentamos los diferentes factores que puede tener en cuenta al determinar las prioridades de categorías de contratación en la implementación de CPS.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP2.svg %}
-**Comunicar por qué usted ha priorizado ciertas categorías**
+{% callout default /assets/images/7_areas_open_SPP2.svg label: Comunicar por qué usted ha priorizado ciertas categorías %}
 
 Aunque hay muchas maneras de determinar prioridades, es realmente importante tanto vincular a las partes interesadas en el proceso, con el fin de conocer sus puntos de vista y comunicar las decisiones tomadas para que puedan ser implementadas hasta en el Plan de Acción clara que recomendamos el final de esta sección.
 {% endcallout %}

@@ -16,8 +16,7 @@ After you have introduced the sustainability criteria to be met by suppliers, yo
 In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the [broader goals](/monitoring-evaluation)** that have been set as part of the Open SPP strategy.
 {% endcallout %}
 
-{% callout default /assets/images/7_areas_open_SPP5.svg %}
-**Providing clear channels for user and citizen feedback**
+{% callout default /assets/images/7_areas_open_SPP5.svg label: Providing clear channels for user and citizen feedback %}
 
 **One of the key elements of [Open SPP](/what-is-open-spp)** is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/build-support-and-capabilities), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the [ICT](/ict-sector) and [construction](/construction-sector) sectors.
 {% endcallout %}

@@ -48,7 +48,7 @@ Algunos de los resultados de la investigación del usuario incluirán: *(ver est
 - Experiencia y problemas encontrados utilizando los servicios disponibles actualmente.
 - Una proyección de cómo estas necesidades podrían crecer y evolucionar.
 
-**Esta información (le) comunicará**
+**Esta información (le) comunicará:**
 
 - El tipo de recursos que se necesitan o el resultado que se espera de estos recursos (es decir, un radiador de 300 W frente a una oficina con calefacción de 20 a 22 grados).
 - La cantidad de recursos necesarios, o la frecuencia con la que se necesitan servicios específicos.

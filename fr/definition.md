@@ -83,8 +83,7 @@ Pour pouvoir exploiter ces sept dimensions de l’ouverture, il est essentiel de
 
 Nous avons déjà compilé [des orientations](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) montrant comment les données ouvertes relatives aux marchés publics peuvent vous aider à renforcer les marchés publics durables dans lesquelles vous trouverez des conseils pour les premières étapes de votre démarche d’ouverture des données.
 
-{% callout blue /assets/images/Icons_Blue_Intro5.svg %}
-**Des « signaux écologiques » dans les données relatives aux marchés publics**
+{% callout blue /assets/images/Icons_Blue_Intro5.svg label: Des « signaux écologiques » dans les données relatives aux marchés publics %}
 
 « [Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) »: ce guide est une première introduction aux données ouvertes qui peuvent être utilisées pour suivre et évaluer la mise en place de marchés publics durables et les progrès en la matière.
 {% endcallout %}

@@ -16,8 +16,7 @@ sidebar: true
 
 La mise en place de marchés publics durables et ouverts vise à acquérir des biens, services et travaux de la façon la plus responsable possible, c’est-à-dire en réduisant autant que possible les externalités négatives, comme les émissions de CO2, et en maximisant les retombées positives en matière sociale et économique. S’il convient de recenser clairement les [besoins](/valuer-les-besoins-rels) réels et d’éviter les achats superflus, il est également nécessaire de choisir la solution la plus responsable après la publication de l’appel d’offres. Pour cela, les pouvoirs publics doivent intégrer des critères de durabilité au processus de passation de marchés et communiquer ouvertement leur rôle dans l’évaluation des soumissionnaires.
 
-{% callout default /assets/images/7_areas_open_SPP3.svg %}
-**Utiliser et justifier de façon claire les critères de durabilité**
+{% callout default /assets/images/7_areas_open_SPP3.svg label: Utiliser et justifier de façon claire les critères de durabilité %}
 
 L’un des éléments essentiels des [marchés publics durables et ouverts](/definition) consiste à décrire en toute transparence le rôle des critères de durabilité dans le processus et à justifier leur utilisation. Comme expliqué dans cette section, lorsque vous prenez en compte des critères de durabilité, vous devez divulguer de façon transparente un certain nombre d’éléments dans l’avis d’appel d’offres, à savoir :
 
