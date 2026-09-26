@@ -1,9 +1,10 @@
 """
-List links in the built sites to pages that don't exist, as CSV on standard output, and exit with 1 if any.
+List broken links in the built sites, as CSV on standard output, and exit with 1 if any.
 
     uv run scripts/check_links.py > broken-links.csv
 
-Build the sites first. Links to the three sites' domains are checked against their builds.
+Build the sites first. A link is broken if its page doesn't exist, or if its fragment isn't an ID on its page. Links to
+the three sites' domains are checked against their builds.
 """
 
 import collections
@@ -23,17 +24,16 @@ DOMAINS = {
 }
 
 
-def exists(lang, path, redirects):
-    if path in redirects[lang]:
-        return True
+def page_file(lang, path):
+    """Return the built file of a page, if it exists."""
     file = SITE / lang / path.lstrip("/")
-    return any(
-        candidate.is_file()
-        for candidate in (
-            file,
-            file.with_name(file.name + ".html"),
-            file / "index.html",
-        )
+    return next(
+        (
+            candidate
+            for candidate in (file, file.with_name(file.name + ".html"), file / "index.html")
+            if candidate.is_file()
+        ),
+        None,
     )
 
 
@@ -56,8 +56,13 @@ def broken_links():
                 else:
                     continue
                 path = urllib.parse.unquote(url.path).rstrip("/") or "/"
-                if not exists(target, path, redirects):
+                if path in redirects[target]:
+                    continue
+                if not (target_file := page_file(target, path)):
                     broken[(target, path)].add(f"{lang}:{page}")
+                # A fragment is an element's ID on the target page, like a heading's.
+                elif url.fragment and f'id="{url.fragment}"' not in target_file.read_text():
+                    broken[(target, f"{path}#{url.fragment}")].add(f"{lang}:{page}")
     return broken
 
 

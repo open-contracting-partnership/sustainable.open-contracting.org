@@ -400,3 +400,8 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
     padding: 0.5rem 1rem;
   }
 }
+
+/* A heading that a link targets, like an option's, below the sticky navbar. */
+.notion-heading[id] {
+  scroll-margin-top: calc(var(--navbar-height) + 1rem);
+}
