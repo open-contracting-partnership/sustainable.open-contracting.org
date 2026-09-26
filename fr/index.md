@@ -22,9 +22,8 @@ sidebar: true
 {% callout yellow /assets/images/Icons_Grey3.svg %}
 *Ce guide pratique sur les marchés publics durables et ouverts est également disponible en espagnol et en anglais.*
 
-[Access the toolkit in English](https://sustainable.open-contracting.org/).
-
-[Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/).
+- [Access the toolkit in English](https://sustainable.open-contracting.org/){: lang="en"}
+- [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/){: lang="es"}
 {% endcallout %}
 
 {% image /assets/images/Structure_Diagram_fr.png 5504 5563 align-start %}

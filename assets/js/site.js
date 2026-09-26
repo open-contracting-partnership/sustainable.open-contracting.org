@@ -204,16 +204,15 @@ if (breadcrumb) {
   document.fonts.ready.then(fit);
 }
 
-// The sidebar's menu on phones: close it on Escape or a click outside it.
-const sidebarMenu = document.querySelector(".sidebar-menu");
-if (sidebarMenu) {
+// The sidebar's and languages' menus on phones: close them on Escape or a click outside them.
+document.querySelectorAll(".sidebar-menu, .language-menu").forEach((menu) => {
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape" && sidebarMenu.open) {
-      sidebarMenu.open = false;
-      sidebarMenu.querySelector("summary").focus();
+    if (event.key === "Escape" && menu.open) {
+      menu.open = false;
+      menu.querySelector("summary").focus();
     }
   });
   document.addEventListener("click", (event) => {
-    if (sidebarMenu.open && !sidebarMenu.contains(event.target)) sidebarMenu.open = false;
+    if (menu.open && !menu.contains(event.target)) menu.open = false;
   });
-}
+});

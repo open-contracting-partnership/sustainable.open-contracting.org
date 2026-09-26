@@ -22,8 +22,9 @@ Throughout the toolkit, we provide guidance on how to apply open data and open g
 {% callout yellow /assets/images/Icons_Grey3.svg %}
 This Open and Sustainable Public Procurement toolkit is also available in French and Spanish.
 
-[Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/)<br>[Accéder au guide en français](https://achatdurable.open-contracting.org/)
-[Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por) (PDF)
+- [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/){: lang="es"}
+- [Accéder au guide en français](https://achatdurable.open-contracting.org/){: lang="fr"}
+- [Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
 {% endcallout %}
 
 {% image /assets/images/Structure_Diagram-1.png 5504 5563 align-start %}
