@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sustainable.open-contracting.org/sitemap.xml
