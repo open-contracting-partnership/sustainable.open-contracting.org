@@ -162,8 +162,9 @@ module NotionTags
   end
 
   # {% database_table %}YAML{% enddatabase_table %} renders a database's table view, where YAML has "columns" (a list of
-  # mappings with "name", "type" and optional "width" in pixels, in which the first column is the title) and "items" (a
-  # list of mappings with "title", an optional "link", which the title links to, and "properties", by column name).
+  # mappings with "name", in which the first column is the title, and, for a column of pills, "colors", a mapping of its
+  # values to their colors) and "items" (a list of mappings with "title", an optional "link", which the title links to,
+  # and a value for each column, by name: a pill or a list of pills, a number, or text).
   # Its caption, for screen readers, is the title of the database block that contains it, or else of the page.
   class DatabaseTable < Liquid::Block
     def render(context)
@@ -171,8 +172,7 @@ module NotionTags
       columns = data["columns"]
       config = context.registers[:site].config["notion"] || {}
       head = columns.map do |column|
-        style = column["width"] ? %( style="width:#{column["width"]}px") : ""
-        %(<th class="notion-collection-table__head-cell #{column["type"]}"#{style}>) +
+        %(<th class="notion-collection-table__head-cell">) +
           %(<div class="notion-collection-table__head-cell-content">#{h(column["name"])}</div></th>)
       end
       rows = data["items"].map do |item|
@@ -185,8 +185,12 @@ module NotionTags
               %(<td class="notion-collection-table__cell title no-click"><div>#{title}</div></td>)
             end
           else
-            value = (item["properties"] || {})[column["name"]]
-            %(<td class="notion-collection-table__cell #{column["type"]}">#{Properties.value(column["name"], value, config)}</td>)
+            value = item[column["name"]]
+            # Pills are a mapping of values to colors, for Properties.value.
+            if column["colors"] && value
+              value = Array(value).to_h { |pill| [pill, column["colors"].fetch(pill, "default")] }
+            end
+            %(<td class="notion-collection-table__cell">#{Properties.value(column["name"], value, config)}</td>)
           end
         end
         "<tr>#{cells.join}</tr>"

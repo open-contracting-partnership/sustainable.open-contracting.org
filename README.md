@@ -142,26 +142,30 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 
 A card without a `link` isn't clickable, and a card without an `icon` has Notion's page icon. `cover_position` defaults to 50, and `cover_only` hides the title under the cover.
 
-Databases' table views, like the resource directory and the ecolabels, are `{% database_table %}` tags, containing YAML with the columns (the first is the items' titles) and the items. Each item is a title, an optional link, which the title links to (like the resource's attachment), and its properties, by column name, so an item is edited in its table. Its caption, for screen readers, is the database's title (or the page's, outside a `{% database %}` tag):
+Databases' table views, like the resource directory and the ecolabels, are `{% database_table %}` tags, containing YAML with the columns and the items. The first column is the items' titles, and a column of pills lists its values' colors. Each item is a title, an optional link, which the title links to (like the resource's attachment), and its values, by column name: a pill, a list of pills, a number or text. An item is edited in its table. The table's caption, for screen readers, is the database's title (or the page's, outside a `{% database %}` tag). The title column is 280px wide and the others 200px. The comments turn off the Markdown linter's bare URL rule, which the links would break:
 
 ```liquid
+{% comment %}
+<!-- pyml disable md034 -->
+{% endcomment %}
 {% database_table %}
 columns:
 
 - name: Name
-  type: title
-  width: 278
+- name: Type
+  colors: {Type I: green, Type I-like: default}
 - name: Sectors
-  type: multi_select
-  width: 202
+  colors: {ICT: red, Furniture: yellow}
 items:
 
 - title: TCO Certified
   link: https://tcocertified.com/criteria-documents/
-  properties:
-    Sectors:
-      ICT: red
+  Type: Type I
+  Sectors: [ICT]
 {% enddatabase_table %}
+{% comment %}
+<!-- pyml enable md034 -->
+{% endcomment %}
 ```
 
 On the Spanish and French sites, the `notion.hide_properties` setting hides the properties on the items' own pages, as on Super.so.

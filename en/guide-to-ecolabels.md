@@ -79,134 +79,61 @@ As explained in this section, Type I ecolabels are often the most commonly used 
 columns:
 
 - name: Name
-  type: title
-  width: 278
 - name: Type
-  type: select
-  width: 202
+  colors: {Type I: green, Type I-like: default}
 - name: Criteria available
-  type: select
-  width: 202
+  colors: {'Yes': purple, 'No': brown}
 - name: Sectors
-  type: multi_select
-  width: 202
+  colors: {ICT: red, Construction: purple, Furniture: yellow, Office supplies: yellow, Personal Care Products: default, Cleaning services: orange, Waste Services: green, Appliances: brown, Heating and cooling: pink, Building products: blue, Lighting: gray, Commercial food service equipment: gray, Data Centres: orange, Electronics: yellow, Cleaning products: yellow, Apparel: orange, Animal Care: gray, Energy: yellow, Transport: gray}
 - name: Geographical Area
-  type: text
-  width: 202
 - name: Includes social criteria
-  type: select
-  width: 202
+  colors: {'Yes': pink, 'No': brown}
 items:
 
 - title: TCO Certified
   link: https://tcocertified.com/criteria-documents/
-  properties:
-    Criteria available:
-      'Yes': purple
-    Includes social criteria:
-      'Yes': pink
-    Sectors:
-      ICT: red
-    Type:
-      Type I: green
+  Type: Type I
+  Criteria available: 'Yes'
+  Sectors: [ICT]
+  Includes social criteria: 'Yes'
 - title: Good Environmental Choice Australia Ecolabel (GECA)
   link: https://geca.eco/
-  properties:
-    Criteria available:
-      'No': brown
-    Geographical Area: Australia
-    Includes social criteria:
-      'Yes': pink
-    Sectors:
-      Construction: purple
-      Furniture: yellow
-      Office supplies: yellow
-      ICT: red
-      Personal Care Products: default
-      Cleaning services: orange
-      Waste Services: green
-    Type:
-      Type I: green
+  Type: Type I
+  Criteria available: 'No'
+  Sectors: [Construction, Furniture, Office supplies, ICT, Personal Care Products, Cleaning services, Waste Services]
+  Geographical Area: Australia
+  Includes social criteria: 'Yes'
 - title: Energy Star
   link: https://www.energystar.gov/products/products-list
-  properties:
-    Criteria available: {}
-    Geographical Area: U.S.A.
-    Includes social criteria:
-      'No': brown
-    Sectors:
-      Appliances: brown
-      Heating and cooling: pink
-      Building products: blue
-      Lighting: gray
-      Commercial food service equipment: gray
-      ICT: red
-      Data Centres: orange
-      Electronics: yellow
-    Type:
-      Type I-like: default
+  Type: Type I-like
+  Sectors: [Appliances, Heating and cooling, Building products, Lighting, Commercial food service equipment, ICT, Data Centres, Electronics]
+  Geographical Area: U.S.A.
+  Includes social criteria: 'No'
 - title: ABNT - Environmental Quality
   link: https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios
-  properties:
-    Criteria available:
-      'Yes': purple
-    Geographical Area: Brazil
-    Includes social criteria:
-      'Yes': pink
-    Sectors:
-      Cleaning products: yellow
-      Apparel: orange
-      Furniture: yellow
-      Office supplies: yellow
-      Construction: purple
-      ICT: red
-      Personal Care Products: default
-    Type:
-      Type I: green
+  Type: Type I
+  Criteria available: 'Yes'
+  Sectors: [Cleaning products, Apparel, Furniture, Office supplies, Construction, ICT, Personal Care Products]
+  Geographical Area: Brazil
+  Includes social criteria: 'Yes'
 - title: Eu Ecolabel
   link: https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html
-  properties:
-    Criteria available:
-      'Yes': purple
-    Geographical Area: Europe
-    Includes social criteria:
-      'Yes': pink
-    Sectors:
-      Personal Care Products: default
-      Animal Care: gray
-      Cleaning products: yellow
-      Apparel: orange
-      ICT: red
-      Office supplies: yellow
-    Type:
-      Type I: green
+  Type: Type I
+  Criteria available: 'Yes'
+  Sectors: [Personal Care Products, Animal Care, Cleaning products, Apparel, ICT, Office supplies]
+  Geographical Area: Europe
+  Includes social criteria: 'Yes'
 - title: The Blue Angel Eco-Label
   link: https://www.blauer-engel.de/en/products/products-list-a-z
-  properties:
-    Criteria available:
-      'Yes': purple
-    Geographical Area: 'Germany '
-    Includes social criteria:
-      'Yes': pink
-    Sectors:
-      Apparel: orange
-      Construction: purple
-      Energy: yellow
-      Office supplies: yellow
-      Transport: gray
-      Cleaning products: yellow
-      Personal Care Products: default
-    Type:
-      Type I: green
+  Type: Type I
+  Criteria available: 'Yes'
+  Sectors: [Apparel, Construction, Energy, Office supplies, Transport, Cleaning products, Personal Care Products]
+  Geographical Area: Germany
+  Includes social criteria: 'Yes'
 - title: Nordic Swan Ecolabel
-  properties:
-    Criteria available: {}
-    Geographical Area: Norway
-    Includes social criteria:
-      'Yes': pink
-    Sectors: {}
-    Type:
-      Type I: green
+  Type: Type I
+  Geographical Area: Norway
+  Includes social criteria: 'Yes'
 {% enddatabase_table %}
 {% comment %}
 <!-- pyml enable md034 -->

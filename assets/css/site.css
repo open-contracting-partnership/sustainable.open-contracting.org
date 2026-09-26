@@ -482,6 +482,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   max-width: 708px;
 }
 
+/* A database table's title column is wider than its other columns, which are 200px wide (notion.css). */
+.notion-collection-table__head-cell:first-child {
+  width: 280px;
+}
+
 /* A database table's titles that link to their items' resources, underlined like links in the text. */
 .notion-collection-table__cell.title a .notion-property__title {
   text-decoration: underline;
