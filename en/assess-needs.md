@@ -62,8 +62,7 @@ Sharing the needs assessment process is an essential part of Open SPP. Public au
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 **Italy’s central purchasing body, [CONSIP](http://www.consip.it/), has used this user-centered approach effectively in the medical sector,** working directly with medical staff to shape tender documents for use across the country.
 
@@ -118,15 +117,13 @@ The Department will consider proposals for leasing the screens under a service c
 
 The needs statement should be openly shared with the relevant stakeholders, and used to inform [market engagement activities](/engage-with-the-market). It is important to identify whether the needs assessment falls under one of the [prioritized procurement categories](/prioritize), and if there are any relevant [objectives and targets set](/monitoring-evaluation) that you should consider during the procurement process.
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [European Commission. 2019. GPP Training Toolkit.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
 

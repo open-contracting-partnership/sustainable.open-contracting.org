@@ -135,15 +135,13 @@ Tal como explicamos al principio de esta sección, una vez haya decidido enfocar
 **Se debe establecer un plazo para la revisión de las categorías de contratación con prioridad.** Por ejemplo, si su Plan de Acción va a ser revisado anualmente, eso sería la oportunidad para evaluar el progreso logrado con referencia a sus metas y objetivos en las categorías seleccionadas, y debe revisar sus categorías de prioridad.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Recursos**
+{% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
 - [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Estudio de caso**
+{% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
 Tras la aprobación de su Estrategia Nacional de Crecimiento Verde en 2012 Vietnam aplicó un una herramienta para [la determinación de prioridades](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) para su contratación pública de 2015, **con el fin de seleccionar categorías de producto en que se debía enfocar los esfuerzos** en CPS con la las ayuda de PNUMA.
 

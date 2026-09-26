@@ -108,8 +108,7 @@ Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normale
 
 Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi](/suivi-de-lexcution), et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Études de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Études de cas %}
 
 Les Pays-Bas ont mis en place un système appelé « [*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
 
@@ -126,8 +125,7 @@ Comme vous pouvez le voir dans le tableau ci-dessous, bien que le fournisseur C 
 {% endtable %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2014, le Chili a fait des recherches afin d’évaluer le nombre de marchés publics attribués à des entreprises dirigées par des hommes par rapport au nombre de marchés attribués à des entreprises dirigées par des femmes. L’étude a montré que seuls 36 % des marchés publics avaient été attribués à des femmes, pour seulement 26 % de la valeur totale des marchés publics.
 

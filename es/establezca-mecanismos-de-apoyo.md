@@ -96,8 +96,7 @@ El cambio de los procesos de contratación pública que se debe gestionar para p
 La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo desarrollados por la implementación de CPS Abierta, puede ser fácilmente asequible mediante la creación de un punto de información central con todos los recursos disponibles. Un ejemplo de esto es el Centro de Competencia para Contratación Sostenible ([Kompetenzstelle fur nachhaltige Beschaffung, KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) de Alemania, que ofrece información en relación con leyes, reglamentos, orientaciones, y ejemplos de las autoridades federales, estatales y locales. Además, el KBN tiene una Mesa de Asistencia Técnica, desde la cual desde ofrece apoyo individualizado por teléfono y correo electrónico.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Recursos**
+{% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
 - [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
 - [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
@@ -105,8 +104,7 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Estudio de caso**
+{% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
 En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.
 

@@ -70,8 +70,7 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 {% page /open-data-measuring-progress %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
@@ -79,8 +78,7 @@ Developing goals, outcomes, and indicators requires a proper understanding of wh
 - [European Commission. 2022. EU GPP Criteria.](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 **In 2005, the Ministry of Environment in the [Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) enacted the “Act on Promotion of Purchase of Green Products”,** and, since then, has created five-year “Action Plans for the Promotion of Purchase of Green Products.”
 

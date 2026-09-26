@@ -71,8 +71,7 @@ La définition des objectifs, des résultats et des indicateurs nécessite une b
 {% page /donnes-ouvertes-et-valuation-des-progrs %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Ressources**
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [Open Contracting Partnership, *Signaux écologiques : comment exploiter les données ouvertes pour promouvoir des marchés publics durables ?* 2021.](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/)
 - [Groupe de la Banque mondiale, *Green Public Procurement: An overview of green reforms in country procurement systems*, 2021 (Pages 24-28).](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
@@ -80,8 +79,7 @@ La définition des objectifs, des résultats et des indicateurs nécessite une b
 - [Commission européenne, *EU GPP Criteria*, 2022.](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2005, le ministère de l’Environnement de la [République de Corée](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) a promulgué la loi de promotion de l’acquisition de produits écologiques. Depuis, le ministère a élaboré des plans d’action d’une durée de cinq ans afin de promouvoir l’acquisition de produits écologiques.
 

@@ -63,8 +63,7 @@ Communiquer le processus d’évaluation des besoins est un aspect essentiel des
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 L’organisme central de passation de marchés de l’Italie, [CONSIP](http://www.consip.it/), a adopté cette approche axée sur les bénéficiaires dans le secteur de la santé en travaillant directement avec le personnel médical pour élaborer des dossiers d’appel d’offres aux quatre coins du pays.
 
@@ -119,15 +118,13 @@ Le Département étudiera les propositions concernant la location d’écrans da
 
 L’exposé des besoins doit être diffusé de façon ouverte avec les parties prenantes concernées et guider les [interactions avec les acteurs du marché](/interagir-avec-le-march). Il est important de déterminer si les besoins recensés relèvent de l’une des [catégories de marchés prioritaires](/priorits) et s’il existe des [objectifs et cibles pertinents](/suivi-et-valuation) que vous devez prendre en compte durant le processus de passation des marchés publics.
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Ressources**
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [Commission européenne, *GPP Training Toolkit*, 2019.](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>)
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.
 

@@ -70,8 +70,7 @@ notion_id: "12f23da0b8d648a8a88bdd1ea1e7ad2f"
 
 10.1 Fundraising and other strategies to ensure SPP annual funding
 
-{% callout green /assets/images/icons_D_Green6.svg %}
-**Download this outline:**
+{% callout green /assets/images/icons_D_Green6.svg label: Download this outline %}
 
 {% pdf /assets/files/spp-action-plan-outline.pdf SPP action plan outline %}
 {% endcallout %}

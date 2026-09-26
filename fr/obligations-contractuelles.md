@@ -72,8 +72,7 @@ Comme présenté dans la [section précédente](/des-critres-de-durabilit), le c
 
 L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité de prestation et un bon rapport qualité-prix tout au long du cycle de vie d’un marché. Il peut être utile de définir l’amélioration continue comme une condition pour la reconduction d’un contrat ou le renouvellement de l’achat. Enfin, vous pouvez étudier la possibilité de prévoir des incitations financières supplémentaires pour récompenser ce comportement.
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Ressources**
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [EcoVadis et Affectio Mutandi, *Le contrat et les clauses RSE, leviers incontournables de vigilance*, 2018.](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)
 {% endcallout %}

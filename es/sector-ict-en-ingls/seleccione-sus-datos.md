@@ -118,8 +118,7 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 **Introducing responsible supply-chain criteria in the procurement process:**
 

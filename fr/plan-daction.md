@@ -49,8 +49,7 @@ Les changements ou ajustements qui permettront d’augmenter la portée de la mi
 - **Les lois, politiques et plans pertinents et les interprétations possibles** du point de vue de la mise en place de marchés publics durables. Cela suppose de mentionner la réglementation en vigueur concernant les critères d’évaluation et tout aspect réglementaire influant sur les marchés publics durables ;
 - **Les changements ou ajustements** qui permettront d’augmenter la portée de la mise en place. Cela peut inclure, par exemple, l’établissement [de marchés réservés ou le ciblage](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts) de certains types d’entreprises, comme les petites et moyennes entreprises, ou l’établissement [d’un seuil](https://sustainable.open-contracting.org/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation) pour faciliter la mise en place de marchés publics durables et ouverts.
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2017, l’Argentine a développé son [plan national sur les marchés publics durables](https://www.oneplanetnetwork.org/sites/default/files/from-crm/argentina_action_plan.pdf). Les pages 7 à 12 décrivent l’environnement habilitant national et international dans lequel il s’inscrit. Ce plan présente d’abord le contexte international, soulignant l’engagement de l’Argentine en faveur des objectifs de développement durable des Nations Unies, et les collaborations entre le gouvernement argentin et le PNUE concernant la mise en place de marchés publics durables.
 
@@ -66,8 +65,7 @@ Dans la section sur la [définition des catégories de marchés prioritaires](/p
 - **Les catégories de marchés prioritaires** et une justification transparente de vos choix ;
 - **Des orientations sur les critères de durabilité pouvant être utilisés dans chaque catégorie prioritaire.** Il peut s’agir de recommandations sur les règles, les éco-étiquettes ou les exigences en matière de durabilité, par exemple concernant l’efficacité énergétique, qui peuvent être intégrées aux dossiers d’appel d’offres. Vous pouvez également fournir des renseignements sur l’emplacement de ces informations ainsi que tous les plans abordant l’élaboration de critères normalisés aux échelles nationale, régionale et locale.
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2021, **l’Irlande a publié son [plan d’action sur les marchés publics écologiques](https://www.gov.ie/en/publication/74075-green-tenders-an-action-plan-on-green-public-procurement/). Ce plan d’action définit huit catégories de marchés de biens ou services prioritaires**, à savoir la construction, l’énergie, le transport, les denrées alimentaires et les services de restauration, les produits et services de nettoyage, la papeterie, les uniformes et textiles, et les technologies de l’information et des communications.
 
@@ -94,8 +92,7 @@ Dans la section concernant [la mise en place de mécanismes d’assistance et de
 **Votre plan d’action doit inclure les mécanismes déjà en place et prévoir les activités qui seront mises en œuvre pour améliorer ces mécanismes.**
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2021, la ville du Cap, en Afrique du Sud, a publié son [plan d’action sur les marchés publics écologiques](https://www.oneplanetnetwork.org/news-and-events/news/city-cape-town-finalises-green-procurement-action-plan). Ce plan contient sept objectifs opérationnels, notamment « Assurer que la ville possède des politiques appropriées pour favoriser les marchés publics écologiques, notamment les outils administratifs correspondants » et « Suivre et évaluer les résultats de l’action de la ville en matière de marchés publics écologiques ».
 
@@ -112,8 +109,7 @@ Comme c’est le cas pour la présentation des approches des marchés publics du
 
 La mise en place de marchés publics durables et ouverts relève normalement de la responsabilité de différents organes institutionnels et de tout organisme national de passation de marchés compétent. À l’échelle nationale, il s’agit souvent du ministère de l’Environnement. **Votre plan d’action doit clairement répartir les responsabilités et obligations en matière de redevabilité entre les organismes gouvernementaux (et toute autre partie pertinente).**
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2016, l’Équateur a publié son premier [plan d’action sur les marchés publics durables](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). Les pages 20 à 22 de ce plan abordent la structure de gouvernance mise en place pour répartir les responsabilités en ce qui concerne les marchés publics durables. L’organisme public principal est l’agence nationale des marchés publics (SERCOP), qui reçoit l’appui du ministère de l’Environnement. Ces deux entités recevront également l’appui d’un groupe de travail composé d’autres ministères, notamment celui de l’Inclusion économique et sociale (MIES) et celui de l’Agriculture (MAGAP).
 
@@ -126,8 +122,7 @@ En 2016, l’Équateur a publié son premier [plan d’action sur les marchés p
 
 Beaucoup d’activités concernant la mise en place de marchés publics durables et ouverts nécessitent des fonds publics. **Votre plan d’action doit communiquer en toute transparence le coût estimé des activités visant à mettre en place les mécanismes d’assistance et de renforcement des capacités requis ainsi qu’à évaluer et publier leurs résultats.**
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2021, **le Pays basque, en Espagne, a publié son [programme sur la commande publique et les marchés publics écologiques](https://www.ihobe.eus/news/75-of-procurement-by-basque-authorities-to-be-sustainable-within-ten-years).** Ce programme suit les plans d’action précédents datant de 2011 et 2016 en établissant cette fois une feuille de route allant jusqu’en 2030. Ce plan présente dix domaines d’action qui seront traités entre 2021 et 2030. **La page 36 fournit une vue d’ensemble claire du budget alloué à chaque domaine d’action, qui représente au total 1 590 000 d’euros sur dix ans.**
 {% endcallout %}
@@ -160,8 +155,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 *N’oubliez pas que l’objectif final est d’institutionnaliser les pratiques durables de passation de marchés. Si cet objectif est atteint, cela signifie qu’aucun plan d’action sur les marchés publics durables ne sera nécessaire parce que la durabilité fera alors partie intégrante de tous les plans relatifs aux marchés publics.*
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Ressources**
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 - [PNUE, *Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*, 2021.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)

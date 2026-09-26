@@ -76,8 +76,7 @@ The following accreditations are given to a construction project once it has bee
 Green construction accreditations cover many aspects of construction projects, **for an overview of some of the key sustainability factors, and how they can be measured during a construction project**, see [the next section](/sector-de-la-construccin-en-ingls/seleccione-sus-datos).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 **Master planning guidance:**
 
@@ -99,8 +98,7 @@ Green construction accreditations cover many aspects of construction projects, *
   The Global Ecolabelling Network provides information on what Type I ecolabels include standards for products in the construction sector.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 **Completed in 2017, the [design of the Ghana Ridge Hospital](https://perkinswill.com/project/the-greater-accra-regional-hospital-at-ridge/) was the first project in Africa to receive LEED accreditation.**
 

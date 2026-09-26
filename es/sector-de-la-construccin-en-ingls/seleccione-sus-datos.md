@@ -117,8 +117,7 @@ Data regarding the employees that will be involved during the project can be col
 In a tender process, the selection of local companies, SMEs, or women-owned companies can be favored if there are certain [targets](/establezca-un-entorno-habilitante/metas-y-contratos-reservados) that underpin this decision.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 **Including construction sustainability criteria in tender documents:**
 

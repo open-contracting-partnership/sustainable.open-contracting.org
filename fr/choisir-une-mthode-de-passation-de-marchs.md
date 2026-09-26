@@ -131,14 +131,12 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 *Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur [la construction](/la-construction-en-anglais) et les [technologies de l’information et des communications](/le-secteur-tic-en-anglais)*.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Ressources**
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Étude de cas**
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 En 2015, Wichita, la plus grande ville de l’État du Kansas, aux États-Unis, [souhaitait améliorer la qualité de ses parcs tout en réduisant ses coûts](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts). À l’époque, le montant des offres reçues pour l’entretien paysagiste avait augmenté de 30 % par rapport à l’année précédente, les entrepreneurs ne satisfaisaient à aucune norme de qualité et les fonctionnaires de la ville recevaient des plaintes concernant la hauteur des pelouses des aires de jeu et des terrains de sport.
 

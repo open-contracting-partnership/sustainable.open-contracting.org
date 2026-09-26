@@ -74,8 +74,7 @@ El desarrollo de metas, resultados e indicadores exige un entendimiento integral
 {% page /datos-abiertos-y-progreso-de-medicin %}
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Recursos**
+{% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
 - [Open Contracting Partnership. 2021. Green Flags: How open data can throw light on sustainable procurement](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems (Pages 24-28)](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
@@ -83,8 +82,7 @@ El desarrollo de metas, resultados e indicadores exige un entendimiento integral
 - [European Commission. 2022. EU GPP Criteria.](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Estudio de caso**
+{% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
 **En 2005 el Ministerio de Entorno de la** [República de Corea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
 

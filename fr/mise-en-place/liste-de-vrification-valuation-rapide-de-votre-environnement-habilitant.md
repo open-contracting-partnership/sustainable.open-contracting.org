@@ -41,8 +41,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 - [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Liste de vérification rapide : fournir des preuves de conformité](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit)).
 
-{% callout green /assets/images/icons_D_Green6.svg %}
-**Download this checklist:**
+{% callout green /assets/images/icons_D_Green6.svg label: Download this checklist %}
 
 {% pdf /assets/files/enabling-environment-checklist.pdf Enabling environment checklist %}
 {% endcallout %}

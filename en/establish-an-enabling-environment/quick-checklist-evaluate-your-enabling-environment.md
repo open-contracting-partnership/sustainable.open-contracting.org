@@ -39,8 +39,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 - [ ] Openly **communicate the laws and policies** that underpin your SPP practices (see [Quick checklist - Share your compliance trail](/establish-an-enabling-environment/quick-checklist-share-your-compliance-trail)).
 
-{% callout green /assets/images/icons_D_Green6.svg %}
-**Download this checklist:**
+{% callout green /assets/images/icons_D_Green6.svg label: Download this checklist %}
 
 {% pdf /assets/files/enabling-environment-checklist.pdf Enabling environment checklist %}
 {% endcallout %}

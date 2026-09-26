@@ -67,8 +67,7 @@ notion_id: "08c2380b1f3e4b328f7ab6f5b7791355"
 
 10.1 Collecte de fonds et autres stratégies visant à obtenir le financement annuel des marchés publics durables
 
-{% callout green /assets/images/icons_D_Green6.svg %}
-**Télécharger ce schema :**
+{% callout green /assets/images/icons_D_Green6.svg label: Télécharger ce schema %}
 
 {% pdf /assets/files/spp-action-plan-outline.pdf SPP action plan outline %}
 {% endcallout %}

@@ -135,14 +135,12 @@ Throughout this toolkit, we have provided guidance on the use of [frameworks](/e
 For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [Harvard Kennedy School’s Government Performance Lab. Results-Driven Contracting.](https://govlab.hks.harvard.edu/results-driven-contracting)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 **In 2015, Wichita, the largest city in the U.S. state of Kansas, [aimed to improve the quality of the city’s parks while reducing costs](https://govlab.hks.harvard.edu/wichita-ks-ground-maintenance-contracts).** At the time, grounds maintenance bid amounts were up 30 percent over the prior year, contractors were not meeting quality standards, and City officials were receiving complaints regarding the height of the grass on playgrounds and playing fields.
 

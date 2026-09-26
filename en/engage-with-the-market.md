@@ -93,15 +93,13 @@ Once it has been decided to issue a tender, there are different methods that can
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 After ten years of operation, **Mexico City sought to expand their environmentally friendly and affordable bike share service to more neighborhoods, upgrade the design and technology, and all at a reasonable cost.** The city needed to promote competition in a concentrated marketplace, learn more about the latest bike share technology and innovations, and provide better and expanded service at the same or lower budget.
 

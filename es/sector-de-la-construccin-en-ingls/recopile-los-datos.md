@@ -77,8 +77,7 @@ Monitoring construction projects can require a lot of workforce and, often, publ
 All contracts should include a clear description of the data that will be collected, when it will be collected and the methods that will be used. Consequences and responsibilities [in case of non-compliance](/elabore-obligaciones-del-contrato) should also be included.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 **Templates for BOQs and SWMPs:**
 
@@ -88,16 +87,14 @@ All contracts should include a clear description of the data that will be collec
 - [Site Waste Management Plan Data Form. Netregs](https://www.netregs.org.uk/media/1128/swmp_waste_data_form.pdf).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 [Copenhagen has established a task force](https://op.europa.eu/es/publication-detail/-/publication/47c69b3a-cfcf-11eb-ac72-01aa75ed71a1/language-es) for monitoring compliance with labor clauses of all suppliers in construction projects, and obtaining relevant data.
 
 The task force consists of nine people, and is entitled to visit all types of workplaces in Denmark at all times, monitoring pay and working conditions. They combine on-the-spot inspection with investigations into the conditions of specific employees based on documentation of pay, working hours, tax, etc.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 **Engaging civil society in monitoring activities:**
 

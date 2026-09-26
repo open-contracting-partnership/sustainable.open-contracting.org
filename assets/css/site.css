@@ -257,3 +257,9 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 .notion-table.row-header th[scope="row"] {
   background-color: var(--color-bg-gray);
 }
+
+/* A callout's label, like the bold text that it replaces. */
+.notion-callout__label {
+  line-height: 1.5;
+  font-weight: 600;
+}

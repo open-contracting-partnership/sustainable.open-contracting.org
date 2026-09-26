@@ -92,8 +92,7 @@ Changing public procurement processes to allow for the introduction of sustainab
 The Help Desk, as well as the rest of the supporting mechanisms developed for the implementation of Open SPP, can be made easily accessible by creating a central information point with all available resources. An example of this is the German [Competence Center for Sustainable Procurement (Kompetenzstelle für nachhaltige Beschaffung, KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html), which provides information regarding laws, regulations, guidelines, and examples, from federal, state, and local authorities. The KBN also has a Help Desk, from which it provides tailored support via telephone and email.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
 - [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
@@ -101,8 +100,7 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case Study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
 

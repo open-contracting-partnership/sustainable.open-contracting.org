@@ -38,8 +38,7 @@ The following checklist has been created for national authorities to easily iden
 Remember that, although you will find most of these regulations at the national level, **it is important to consider any variations at the local level**, and any international frameworks that might have served as guidance.
 {% endcallout %}
 
-{% callout green /assets/images/icons_D_Green6.svg %}
-**Download this checklist:**
+{% callout green /assets/images/icons_D_Green6.svg label: Download this checklist %}
 
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
 {% endcallout %}

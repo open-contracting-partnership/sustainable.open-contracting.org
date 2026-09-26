@@ -135,15 +135,13 @@ As it has been explained at the start of this section, once it has been decided 
 **A period for reviewing prioritized procurement categories should be established.** For example, if your [Action Plan](/create-an-action-plan) is set to be reviewed on a yearly basis, this would be a good time to assess progress made against [goals and targets](/monitoring-evaluation) in selected categories, and reconsider your priority categories.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Case study**
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
 After the approval of its National Green Growth Strategy in 2012, **Vietnam [applied a prioritization tool](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) to public procurement in 2015 to select product categories where to focus SPP efforts**, with the assistance of UNEP.
 

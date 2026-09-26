@@ -73,6 +73,11 @@ The callout's **text**.
 Other blocks in the callout.
 {% endcallout %}
 
+{% callout gray /assets/images/Notion-others2.svg label: Case study %}
+
+A labelled callout's blocks, after a blank line.
+{% endcallout %}
+
 {% toggle **Step 1:** The toggle's summary %}
 The toggle's content.
 {% endtoggle %}
@@ -91,7 +96,7 @@ Blocks indented under the paragraph, which can be empty.
 {% endindent %}
 ```
 
-A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
+A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. An optional `label:`, last, is shown in bold before the callout's text, like "Case study" or "Resources", so it isn't written in bold. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
 
 Links to pages (with the page's icon and title), images and PDFs are also tags:
 

@@ -15,11 +15,13 @@ module NotionTags
     markdown(context, text).strip.sub(%r{\A<p[^>]*>(.*)</p>\z}m, '\1')
   end
 
-  # {% callout COLOR ICON %}TEXT\n\nBLOCKS{% endcallout %}, where COLOR is a Notion color or "default", and ICON is
-  # an image's path or an emoji. If TEXT is empty, BLOCKS follow a blank line.
+  # {% callout COLOR ICON [label: LABEL] %}TEXT\n\nBLOCKS{% endcallout %}, where COLOR is a Notion color or "default",
+  # ICON is an image's path or an emoji, and LABEL is Markdown, shown before TEXT. If TEXT is empty, BLOCKS follow a
+  # blank line.
   class Callout < Liquid::Block
     def initialize(tag_name, markup, options)
       super
+      markup, @label = markup.split(/\blabel:\s*/, 2)
       @color, @icon = markup.split
     end
 
@@ -29,15 +31,20 @@ module NotionTags
     end
 
     def render(context)
-      text, blocks = super.sub(/\A\n/, "").split(/\n\n/, 2)
+      body = super.sub(/\A\n/, "")
+      text, blocks = body.start_with?("\n") ? ["", body] : body.split(/\n\n/, 2)
       classes = @color == "default" ? "border" : "bg-#{@color}-light border"
       icon = if @icon.start_with?("/")
                %(<img alt="icon" loading="lazy" width="20" height="20" class="notion-icon" style="#{ICON_STYLE}" src="#{@icon}"/>)
              else # an emoji
                %(<span class="notion-icon text" style="#{EMOJI_STYLE}">#{@icon}</span>)
              end
+      label = %(<p class="notion-callout__label">#{NotionTags.inline(context, @label.strip)}</p>) if @label
+      unless @label && text.to_s.strip.empty?
+        text = %(<span class="notion-semantic-string">#{NotionTags.inline(context, text.to_s)}</span>)
+      end
       %(<div class="notion-callout #{classes}"><div class="notion-callout__icon">#{icon}</div>) +
-        %(<div class="notion-callout__content"><span class="notion-semantic-string">#{NotionTags.inline(context, text.to_s)}</span>) +
+        %(<div class="notion-callout__content">#{label}#{text}) +
         %(#{blocks.to_s.strip.empty? ? "" : NotionTags.markdown(context, blocks)}</div></div>)
     end
   end

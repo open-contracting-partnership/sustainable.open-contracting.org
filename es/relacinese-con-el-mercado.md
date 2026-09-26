@@ -111,15 +111,13 @@ Una vez usted haya decidido emitir una oferta, existen diferentes métodos que s
 
 {% endtoggle %}
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Recursos**
+{% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
 - [Regional Networks for Sustainable Procurement. 2018. Market engagement best practice report.](https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf)
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg %}
-**Estudio de caso**
+{% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
 Luego de diez años de operación, **la Ciudad de México buscó expandir su servicio de bicicletas públicas asequible y amigable con el medio ambiente a más vecindarios, actualizar el diseño y la tecnología, y todo a un costo razonable**. La ciudad necesitaba promover la competencia en un mercado concentrado, aprender más sobre las últimas innovaciones y tecnología de bicicletas compartidas y brindar un servicio mejor y más amplio con el mismo presupuesto o menos.
 

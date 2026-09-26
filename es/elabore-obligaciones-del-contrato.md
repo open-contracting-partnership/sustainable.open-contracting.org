@@ -70,8 +70,7 @@ Como se ha presentado en la sección anterior, qué criterios de sostenibilidad 
 
 Incluir estas cláusulas puede ser crucial para garantizar una buena calidad y una buena relación calidad-precio durante todo el ciclo de vida de un contrato. También puede ser útil establecer la mejora continua como condición para la prórroga del contrato o la recontratación. Finalmente, puede considerar la introducción de incentivos financieros adicionales para recompensar este comportamiento.
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Recursos**
+{% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).
 {% endcallout %}

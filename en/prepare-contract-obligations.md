@@ -70,8 +70,7 @@ As it has been introduced in the [previous section](/set-sustainability-criteria
 
 Including these clauses can be crucial for ensuring good quality and value for money throughout the lifecycle of a contract. It can also be useful to establish continuous improvement as a condition of contract extension or re-procurement. Finally, you can consider introducing additional financial incentives to reward this behavior.
 
-{% callout gray /assets/images/Notion-others.svg %}
-**Resources**
+{% callout gray /assets/images/Notion-others.svg label: Resources %}
 
 - [EcoVadis & Affectio Mutandi. 2018. Sustainability Clauses in Commercial Contracts: The Key to Corporate Responsibility](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf).
 {% endcallout %}
