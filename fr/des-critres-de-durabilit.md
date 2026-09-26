@@ -108,7 +108,7 @@ Lors de la phase de l’attribution, l’entité adjudicatrice évaluera normale
 
 Une fois que les critères de durabilité sont définis, les pouvoirs publics doivent indiquer en toute transparence la façon dont le respect de ces critères sera [contrôlé et suivi](/suivi-de-lexcution), et [traduire clairement les exigences de durabilité en obligations contractuelles](/obligations-contractuelles).
 
-{% callout gray /assets/images/Notion-others2.svg label: Études de cas %}
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 Les Pays-Bas ont mis en place un système appelé « [*CO2 Performance Ladder*](https://www.co2-prestatieladder.nl/en/what-is-the-ladder) » afin de prendre en compte les émissions de CO2 lors de l’attribution de marchés publics. Les organisations peuvent utiliser cette « échelle de performance » pour réduire leurs émissions de carbone, aussi bien au sein des entreprises qu’à l’échelle de projets spécifiques. L’échelle comprend cinq niveaux dépendant de l’ampleur des efforts de l’organisation pour réduire les émissions de CO2.
 

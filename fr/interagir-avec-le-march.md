@@ -87,7 +87,7 @@ Après le lancement de l’appel d’offres, différentes méthodes peuvent êtr
 - [Chicago Council on Global Affairs. 2021. Serving the Citizens—Not the Bureaucracy.](https://www.thechicagocouncil.org/research/report/serving-citizens-not-bureaucracy)
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others2.svg label: Études de cas %}
+{% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
 Après dix ans d’exploitation, **la ville de Mexico a décidé d’étendre son réseau écologique et abordable de vélos en libre-service à de nouveaux quartiers et d’améliorer la conception et la technologie utilisée moyennant un coût raisonnable.** La ville avait besoin de promouvoir la compétitivité d’un marché concentré, de se renseigner sur les dernières technologies et innovations concernant les vélos en libre-service et de fournir un service de meilleure qualité sur une zone plus vaste pour un budget identique, voire inférieur.
 

@@ -93,7 +93,7 @@ La transformation des processus de la commande publique afin de prendre en compt
 Ce service d’assistance, comme les autres mécanismes d’assistance conçus en vue de la mise en place de marchés publics durables et ouverts, peut être rendu facilement accessible par la création d’un centre d’information regroupant toutes les ressources disponibles. À titre d’exemple, le [Centre de compétences sur les marchés publics durables (KNB](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)) met à disposition des informations concernant la législation, la réglementation, les orientations et des exemples provenant des administrations fédérale, étatique et locale. Le KNB possède également un service d’assistance depuis lequel il fournit une aide sur mesure par téléphone et par courriel.
 {% endcallout %}
 
-{% callout gray /assets/images/Notion-others.svg label: Resources %}
+{% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
 - [Administration des services généraux des États-Unis, *Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
 - [Département de contrôle de la pollution de la Thaïlande, *Panier vert*, 2020.](http://gp.pcd.go.th/cat-1-ssl)
