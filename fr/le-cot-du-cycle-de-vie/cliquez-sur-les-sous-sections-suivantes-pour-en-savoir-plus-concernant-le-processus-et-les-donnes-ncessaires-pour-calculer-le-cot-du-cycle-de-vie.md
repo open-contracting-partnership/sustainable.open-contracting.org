@@ -1,7 +1,6 @@
 ---
 permalink: /le-cot-du-cycle-de-vie/cliquez-sur-les-sous-sections-suivantes-pour-en-savoir-plus-concernant-le-processus-et-les-donnes-ncessaires-pour-calculer-le-cot-du-cycle-de-vie
 title: "Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie:"
-full_width: true
 collection: true
 notion_id: "754144edc7db4f8aa37d61c887387598"
 sidebar: true

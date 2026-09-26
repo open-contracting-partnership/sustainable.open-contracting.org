@@ -4,7 +4,6 @@ title: "aucun code, code restreint et code"
 description: "Different organisations have different capabilities and resources. We describe these environments as no code, low code or code environments based on the publisher’s access to the resources required to create and use computer code."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green3.svg
-full_width: true
 notion_id: "42f4e3f9bfe041a19b32fa24d7134b74"
 sidebar: true
 ---

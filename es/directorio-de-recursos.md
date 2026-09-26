@@ -4,7 +4,6 @@ title: Directorio de recursos
 description: "En esta sección, incluimos información sobre las guías y referencias prácticas existentes de Contratación Pública Sostenible (CPS). Los recursos disponibles se han clasificado según si brindan orientación o referencias sobre la implementación general de APP, o se enfocan en prácticas específicas de APP, como priorizar categorías de contrataciones o establecer un marco propicio. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Notion-others.svg
-full_width: true
 notion_id: bf4b5eec253341eb9c63f52bd68d0790
 sidebar: true
 ---

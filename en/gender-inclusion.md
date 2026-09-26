@@ -4,7 +4,6 @@ title: Gender inclusion
 description: "To reduce the barriers women-led businesses face in public procurement markets, we need to be able to identify women-led businesses and understand to what extent they are bidding on and winning government contracts. This includes an understanding of both the number and the value of the contracts, as well as their sector. We can take these measurements as a baseline and then implement measures with the goal of improving these metrics over time."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
-full_width: true
 notion_id: "62de91131c48424bad09f737eac35e8c"
 sidebar: true
 ---

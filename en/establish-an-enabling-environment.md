@@ -4,7 +4,6 @@ title: Establish an enabling environment
 description: "Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 sidebar: true
 ---

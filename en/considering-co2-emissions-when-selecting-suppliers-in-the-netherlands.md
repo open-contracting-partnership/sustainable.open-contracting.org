@@ -5,7 +5,6 @@ description: "The Netherlands implements a system called the CO2 Performance Lad
 cover: /assets/images/Europe_-_The_Netherlands_2.webp
 cover_position: 53.73
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: cc0f660ad723458e9f331fa012ea7e30
 properties:
   Geographical Area:

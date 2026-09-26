@@ -50,7 +50,8 @@
 {%- if page.icon %}<span hidden data-pagefind-meta="icon[data-icon]" data-icon="{{ page.icon }}"></span>{% endif %}
 {% include navbar.html %}
 {% include header.html %}
-<article class="notion-root {% if page.full_width %}full-width{% else %}max-width{% endif %}{% if page.collection %} notion-collection notion-collection-page{% endif %}">
+{% unless page.sidebar %}{% include sidebar-menu.html phone_only=true %}{% endunless %}
+<article class="notion-root {% if page.full_width or page.sidebar %}full-width{% else %}max-width{% endif %}{% if page.collection %} notion-collection notion-collection-page{% endif %}">
 {% properties %}{% if page.sidebar %}{% include with-sidebar.html content=content %}{% else %}{{ content }}{% endif %}
 </article>
 </main></div></div>

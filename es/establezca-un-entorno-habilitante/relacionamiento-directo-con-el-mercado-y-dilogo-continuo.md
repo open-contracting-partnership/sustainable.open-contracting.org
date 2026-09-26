@@ -4,7 +4,6 @@ title: Relacionamiento directo con el mercado y diálogo continuo
 description: "Market Engagement practices allow procurement practitioners to engage with prospective suppliers during the procurement planning stage. Provisions that allow for ongoing consultation give procurement officials the option of discussing and negotiating with suppliers during the procurement process, once the contact notice has been published. This procurement mechanism is sometimes referred to as a “Competitive Dialogue” (this is a European model that has been adopted also in Peru, and has been proposed in Chile)."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green3.svg
-full_width: true
 notion_id: "87ee528db4fe415dab1cb6a584b3ac8d"
 sidebar: true
 ---

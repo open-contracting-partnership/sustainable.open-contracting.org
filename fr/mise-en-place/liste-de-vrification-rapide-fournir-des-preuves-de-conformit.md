@@ -4,7 +4,6 @@ title: "Liste de vérification rapide : fournir des preuves de conformité"
 description: Compliance Trail Checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: d679f51442ce457abbd9dcdc1a3db291
-full_width: true
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}

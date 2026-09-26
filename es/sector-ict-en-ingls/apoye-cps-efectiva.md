@@ -4,7 +4,6 @@ title: Apoye CPS efectiva
 description: "One of the key challenges of sustainably procuring ICT lies in the lack of transparency in supply chains. To overcome this challenge, an open dialogue has to be established with suppliers, forging a relationship to encourage and promote sharing and monitoring of supply-chain activities. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
-full_width: true
 notion_id: "4348a63de3874926923d59ed372a4b8f"
 sidebar: true
 ---

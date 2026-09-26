@@ -5,7 +5,6 @@ description: "With the establishment of the ProZorro e-procurement system in Ukr
 cover: /assets/images/Europe_-_Ukraine-2.webp
 cover_position: 55.89
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: bdb902e337974051bb136b0b16f59e2c
 sidebar: true
 ---

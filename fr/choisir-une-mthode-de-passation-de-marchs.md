@@ -4,7 +4,6 @@ title: Choisir une méthode de passation de marchés
 description: "La conception d’un processus de passation de marchés peut limiter ou faciliter l’adoption de pratiques relatives aux marchés publics durables et ouverts. Dans cette section, nous présentons différentes approches de la passation de marchés qui peuvent être utiles pour mettre en place ces pratiques. Pour chaque processus, les entités adjudicatrices doivent communiquer de façon ouverte la façon dont ces approches seront mises en œuvre et dont elles s’inscrivent dans l’environnement habilitant des marchés publics durables et ouverts."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
-full_width: true
 notion_id: "33a9b5bcae754af7b8f5e61e9aa6b899"
 sidebar: true
 ---

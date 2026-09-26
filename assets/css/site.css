@@ -213,7 +213,8 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
 }
 
-/* The sidebar is a <details> element: always open on wider screens, and a menu on phones, where the columns stack. */
+/* The sidebar is a <details> element: always open on wider screens, and a menu on phones, where the columns stack.
+   Pages without the sidebar have its menu on phones only. */
 .sidebar-menu > summary {
   list-style: none;
 }
@@ -228,7 +229,8 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 }
 
 @media (min-width: 681px) {
-  .sidebar-menu > summary {
+  .sidebar-menu > summary,
+  .sidebar-menu.phone-only {
     display: none;
   }
 

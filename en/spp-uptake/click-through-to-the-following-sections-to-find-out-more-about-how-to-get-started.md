@@ -1,7 +1,6 @@
 ---
 permalink: /spp-uptake/click-through-to-the-following-sections-to-find-out-more-about-how-to-get-started
 title: "Click through to the following sections to find out more about how to get started:"
-full_width: true
 collection: true
 notion_id: "0309ad36f9024ebf9fce043815e223e9"
 sidebar: true

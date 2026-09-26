@@ -5,7 +5,6 @@ description: "In 2014, Chile conducted a research study to evaluate how many pub
 cover: /assets/images/LAC_-_Chile.webp
 cover_position: 53.65
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "1041612c5dec41d4a68d6bd342ec9bf2"
 properties:
   Geographical Area:

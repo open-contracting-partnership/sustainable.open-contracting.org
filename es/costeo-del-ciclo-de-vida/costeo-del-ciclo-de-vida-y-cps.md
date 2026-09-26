@@ -4,7 +4,6 @@ title: Costeo del ciclo de vida y CPS
 description: "Life cycle costing is usually used to understand costs, but can also be used to understand the social and environmental impacts of an asset or purchase. For instance, replacing the monetary value of an asset with the carbon outputs can provide a carbon life cycle cost for the asset. The analysis is effectively the same, but conducted using emissions data."
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "3b2f54e5e62d46caba07b6461f5e5ecc"
-full_width: true
 sidebar: true
 ---
 Life cycle costing is usually used to understand costs, but can also be used to understand the social and environmental impacts of an asset or purchase. For instance, replacing the monetary value of an asset with the carbon outputs can provide a carbon life cycle cost for the asset. The analysis is effectively the same, but conducted using emissions data.

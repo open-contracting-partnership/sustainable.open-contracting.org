@@ -4,7 +4,6 @@ title: Obligations contractuelles
 description: "Une fois que des critères de durabilité ont été clairement établis, il convient de les traduire en obligations contractuelles. Cela suppose de définir les modalités de suivi de l’exécution des marchés et les conséquences en cas de manquement à ces obligations. Afin d’élaborer des clauses contractuelles pertinentes, ces décisions doivent faire l’objet de discussions ouvertes et d’une concertation entre l’entité adjudicatrice et les fournisseurs concernés. Cette section présente plusieurs aspects essentiels concernant l’élaboration de clauses contractuelles efficaces."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
-full_width: true
 notion_id: "6c154d3377d64f5a9fcd4f9fdf246fda"
 sidebar: true
 ---

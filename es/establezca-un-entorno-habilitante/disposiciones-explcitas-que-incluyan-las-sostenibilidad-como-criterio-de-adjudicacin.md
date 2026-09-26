@@ -4,7 +4,6 @@ title: Disposiciones explícitas que incluyan las sostenibilidad como criterio d
 description: "As well as including provisions indicating that factors other than price can be considered as award or evaluation criteria, some countries might provide specific guidance on how sustainability might be considered. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green3.svg
-full_width: true
 notion_id: f23cf0e9aab3424dae84a18f6de99bb7
 sidebar: true
 ---

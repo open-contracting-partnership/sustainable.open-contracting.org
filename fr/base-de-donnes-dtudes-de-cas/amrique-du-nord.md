@@ -1,7 +1,6 @@
 ---
 permalink: /base-de-donnes-dtudes-de-cas/amrique-du-nord
 title: Amérique du Nord
-full_width: true
 collection: true
 notion_id: "01c627ebff6942c6ac69bb92e50db2a3"
 sidebar: true

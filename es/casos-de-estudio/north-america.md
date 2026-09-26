@@ -1,7 +1,6 @@
 ---
 permalink: /casos-de-estudio/north-america
 title: North America
-full_width: true
 collection: true
 notion_id: "4c92de904d044022bca5f0fb3b8f57e7"
 sidebar: true

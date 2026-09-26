@@ -4,7 +4,6 @@ title: Ressources pratiques
 description: "\nPour quand vous avez besoin d'un résumé rapide"
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: "/assets/images/download-circular-button-1.svg"
-full_width: true
 notion_id: "4c20445a515f4093b87882059e6d89b0"
 sidebar: true
 ---

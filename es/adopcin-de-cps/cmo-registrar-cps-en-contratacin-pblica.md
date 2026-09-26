@@ -4,7 +4,6 @@ title: Cómo registrar CPS en contratación pública
 description: "Por lo general, existen tres formas de registrar si una contratación cumple o no con un umbral de sostenibilidad:"
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: ab9ea2bcb1e44fecb84c2a14845989f7
-full_width: true
 sidebar: true
 ---
 **Por lo general, existen tres formas de registrar si una contratación cumple o no con un umbral de sostenibilidad:**

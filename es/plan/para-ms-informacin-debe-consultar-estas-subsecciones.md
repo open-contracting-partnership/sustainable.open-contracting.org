@@ -1,7 +1,6 @@
 ---
 permalink: /plan/para-ms-informacin-debe-consultar-estas-subsecciones
 title: "Para más información, debe consultar estas subsecciones"
-full_width: true
 collection: true
 notion_id: f0048abe2b0b4cb4acc440586fa3179a
 sidebar: true

@@ -4,7 +4,6 @@ title: "Open data & measuring progress"
 description: "Throughout the toolkit, we have explained the importance of high quality and open data to drive SPP implementation and measure sustainability outcomes. We first introduce this idea at the start of the toolkit, and develop it further in the following sections, particularly when introducing a sample Measuring and evaluation (M&E) framework in section one. This proposed M&E framework is structured around five goals, and provides sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green.svg
-full_width: true
 notion_id: "18e7ceec64474293b8350685f7b3e701"
 sidebar: true
 ---

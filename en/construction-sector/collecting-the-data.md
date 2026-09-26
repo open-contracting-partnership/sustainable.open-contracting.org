@@ -4,7 +4,6 @@ title: Collecting the data
 description: "Once the key sustainability variables have been identified, it is important to determine how, and when, these will be collected throughout the project. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
-full_width: true
 notion_id: dc343c6995f04698a91cc4b4f3789d4f
 properties:
   Created: "Feb 9, 2023 7:39 PM"

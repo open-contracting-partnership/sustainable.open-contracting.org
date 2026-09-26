@@ -4,7 +4,6 @@ title: Quick checklist - Evaluate your enabling environment
 description: Quick checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: "6a6a2d45158d4269aec4e02ab7172371"
-full_width: true
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}

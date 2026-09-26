@@ -5,7 +5,6 @@ description: "\nLa mise en place de marchés publics durables exige des gouverne
 cover: /assets/images/Open_SPP_main_french.webp
 cover_position: 81.39
 icon: /assets/images/Open_SPP_home_1.svg
-full_width: true
 notion_id: "6ae0a825aca247ed9c52080a3456d03c"
 sidebar: true
 ---

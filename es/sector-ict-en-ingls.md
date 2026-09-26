@@ -4,7 +4,6 @@ title: Sector ICT (en inglés)
 description: "La extracción de materias primas, la fabricación, el transporte, el uso y la eliminación de productos de TIC está asociada con una serie de externalidades ambientales, sociales y económicas."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey5.svg
-full_width: true
 notion_id: "9e53ea1e899240469a9b60cd3c9c9c16"
 sidebar: true
 ---

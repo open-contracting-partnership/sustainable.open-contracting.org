@@ -4,7 +4,6 @@ title: Carbon reduction
 description: Governments and companies are setting deadlines for achieving zero emissions. Public procurement can be used as a lever to drive change by promoting lower carbon alternatives into government supply chains.
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
-full_width: true
 notion_id: "343634c60a5e4febb94626d847e1aa75"
 sidebar: true
 ---

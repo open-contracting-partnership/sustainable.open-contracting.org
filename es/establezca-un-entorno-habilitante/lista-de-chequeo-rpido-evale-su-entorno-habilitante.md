@@ -4,7 +4,6 @@ title: Lista de chequeo rápido – Evalúe su entorno habilitante
 description: Quick checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
-full_width: true
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}

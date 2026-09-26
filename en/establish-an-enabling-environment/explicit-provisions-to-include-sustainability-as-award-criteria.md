@@ -4,7 +4,6 @@ title: Explicit provisions to include sustainability as award criteria
 description: "As well as including provisions indicating that factors other than price can be considered as award or evaluation criteria, some countries might provide specific guidance on how sustainability might be considered. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green3.svg
-full_width: true
 notion_id: "07b790b3328a45ee8de80df5e4413a33"
 sidebar: true
 ---

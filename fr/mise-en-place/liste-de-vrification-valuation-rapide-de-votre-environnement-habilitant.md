@@ -4,7 +4,6 @@ title: "Liste de vérification : évaluation rapide de votre environnement habi
 description: Quick checklist
 icon: /assets/images/Tick_green_2.svg
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
-full_width: true
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}

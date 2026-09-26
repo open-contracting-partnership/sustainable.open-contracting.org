@@ -4,7 +4,6 @@ title: Options for data use
 description: "There are different ways in which open data can be used to drive and measure progress against sustainability goals. Below we include ten different ways in which you can gather and use data to measure and monitor sustainability in procurement. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
-full_width: true
 notion_id: "01b28c8f7f334cbe9e429d08f3658195"
 sidebar: true
 ---

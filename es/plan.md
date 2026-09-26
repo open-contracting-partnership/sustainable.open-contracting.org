@@ -4,7 +4,6 @@ title: Plan
 description: "En esta sección le proporcionamos toda la información necesaria para empezar. Esta información incluye las prácticas y enfoques clave que pueda utilizar para cimentar la sostenibilidad de su estrategia de contratación. Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green.svg
-full_width: true
 notion_id: a2895d9856264842a71877737c547f3c
 sidebar: true
 ---

@@ -4,7 +4,6 @@ title: Análisis y reporte de datos
 description: "When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed. "
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "699de464d93841a3a00a1bbb6f9a6bcb"
-full_width: true
 sidebar: true
 ---
 # Analysing and reporting data

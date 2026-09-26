@@ -5,7 +5,6 @@ description: "\nSustainable procurement will require governments to purchase thi
 cover: /assets/images/Open-SPP-main.webp
 cover_position: 83.26
 icon: /assets/images/Open_SPP_home_1.svg
-full_width: true
 notion_id: a91bdf7457324b2e815ef25eea1a3458
 sidebar: true
 ---

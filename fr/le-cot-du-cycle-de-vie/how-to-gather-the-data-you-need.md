@@ -4,7 +4,6 @@ title: How to gather the data you need?
 description: "You can use simple pricing estimates, e.g. from your own contract data or the open data published by others. To gain a more detailed picture it is useful to gather actual payment data from your own or other organizations."
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: f949b5c349e34f33a9137970f821b823
-full_width: true
 sidebar: true
 ---
 You can use simple pricing estimates, e.g. from your own contract data or the open data published by others. To gain a more detailed picture it is useful to gather actual payment data from your own or other organizations.

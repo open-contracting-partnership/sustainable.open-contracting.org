@@ -4,7 +4,6 @@ title: Mise en œuvre
 description: "Dans cette deuxième partie, nous mettons à votre disposition toutes les informations dont vous aurez besoin pour intégrer la durabilité au cœur du processus de passation de marchés. Comme vous pouvez le constater dans le diagramme ci-dessous, chacune des six sections répond à une question essentielle concernant la durabilité au sein du cycle de vie d’un marché public."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red.svg
-full_width: true
 notion_id: "6b073bde045245219fb50ff519ed0b2c"
 sidebar: true
 ---

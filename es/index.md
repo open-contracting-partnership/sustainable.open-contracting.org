@@ -5,7 +5,6 @@ description: "\nContratación sostenible requiere que los gobiernos compren de u
 cover: /assets/images/Open_SPP_main_esp.webp
 cover_position: 84.77
 icon: /assets/images/Open_SPP_home_1.svg
-full_width: true
 notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 sidebar: true
 ---

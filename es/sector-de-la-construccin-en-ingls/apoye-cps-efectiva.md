@@ -4,7 +4,6 @@ title: Apoye CPS efectiva
 description: "Construction projects are usually long and complex, involving the participation of different stakeholders throughout the different project stages. There are certain factors that are key to determine the sustainability of a project, and the monitoring of these factors necessarily entails the collection of relevant data variables throughout the procurement process."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
-full_width: true
 notion_id: cd3c14efd0c44435a4ad72ff3ee88aa7
 sidebar: true
 ---

@@ -5,7 +5,6 @@ description: "In 2017, Argentina developed their National Sustainable Public Pro
 cover: /assets/images/LAC_-_Argentina.webp
 cover_position: 54.27
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: d58dc2dd87c34c3aa201e3116d5641de
 properties:
   Geographical Area:

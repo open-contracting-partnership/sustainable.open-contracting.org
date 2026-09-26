@@ -5,7 +5,6 @@ description: " In 2015, Wichita, the largest city in the U.S. state of Kansas, a
 cover: /assets/images/USA_-_Wichita.webp
 cover_position: 52.29
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "9436f07576134f98870234db4c4055b4"
 sidebar: true
 ---

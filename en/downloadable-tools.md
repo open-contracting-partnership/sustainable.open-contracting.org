@@ -4,7 +4,6 @@ title: Downloadable tools
 description: "\nFor when you are establishing your framework:"
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: "/assets/images/download-circular-button-1.svg"
-full_width: true
 notion_id: b2008e60931f4cb987bfa2533c6ecfde
 sidebar: true
 ---

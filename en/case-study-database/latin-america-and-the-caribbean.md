@@ -1,7 +1,6 @@
 ---
 permalink: /case-study-database/latin-america-and-the-caribbean
 title: Latin America and the Caribbean
-full_width: true
 collection: true
 notion_id: a02b0ed1590146ebb846fbba9f36f1f0
 sidebar: true

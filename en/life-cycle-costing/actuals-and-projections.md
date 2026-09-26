@@ -4,7 +4,6 @@ title: Actuals and projections
 description: "We have just looked at the role of estimates in determining a life cycle cost, now we are going to look at the role of actuals, in other words the actual payments that are being made and how they can be used to establish a life cycle cost."
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "79c2eb22a4c54efc8f9aeb0580f9eada"
-full_width: true
 sidebar: true
 ---
 We have just looked at the role of estimates in determining a life cycle cost, now we are going to look at the role of actuals, in other words the actual payments that are being made and how they can be used to establish a life cycle cost.

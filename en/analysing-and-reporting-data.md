@@ -6,7 +6,6 @@ notion_id: d6b12f07b2c04248a050bbdedf45b09c
 properties:
   Created: "Feb 9, 2023 7:38 PM"
   Tags: {}
-full_width: true
 sidebar: true
 ---
 {% image /assets/images/Asset_11e.webp 1278 1099 %}

@@ -4,7 +4,6 @@ title: L’inclusion des genres
 description: "Afin de réduire les obstacles rencontrés par les entreprises dirigées par des femmes pour accéder aux marchés publics, vous devez pouvoir repérer ces entreprises et comprendre dans quelle mesure elles soumettent des offres et se voient attribuer des marchés publics. Il s’agit de déterminer le nombre et la valeur de ces marchés ainsi que les secteurs concernés. Vous pourrez utiliser ces chiffres comme point de départ et prendre des mesures afin de les améliorer au fil du temps."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
-full_width: true
 notion_id: "90a0ff12c78f46cd8a2cd26f844e87cb"
 sidebar: true
 ---

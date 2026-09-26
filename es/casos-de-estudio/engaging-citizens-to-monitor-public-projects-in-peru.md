@@ -5,7 +5,6 @@ description: " "
 cover: /assets/images/LAC_-_Peru.webp
 cover_position: 53.12
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: bbb5326b947e438d96b587dc0a9aa707
 sidebar: true
 ---

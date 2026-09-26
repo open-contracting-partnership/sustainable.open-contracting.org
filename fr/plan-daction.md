@@ -4,7 +4,6 @@ title: Plan d’action
 description: "Dans la première partie de ce guide pratique, nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: "1f53708050f744299ed811a68005427d"
 sidebar: true
 ---

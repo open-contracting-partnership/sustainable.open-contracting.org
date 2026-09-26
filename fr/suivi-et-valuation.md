@@ -4,7 +4,6 @@ title: Suivi et évaluation
 description: "Dans cette section, nous expliquons comment définir les objectifs de durabilité de votre organisation et suivre leur réalisation à l’aide d’indicateurs par l’entremise d’un modèle de cadre de suivi et d’évaluation. Ce cadre contient des exemples d’indicateurs visant à faciliter le suivi et l’évaluation des progrès concernant la réalisation des objectifs de durabilité."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: f12fda4ffb024871bc2f86bd7b237b97
 sidebar: true
 ---

@@ -4,7 +4,6 @@ title: Set sustainability criteria
 description: "Implementing Open SPP ultimately means purchasing goods, services and works in the most sustainable way, that is, minimizing negative externalities, such as CO2 emissions, and maximizing positive social and economic impact. Apart from clearly defining what the real needs are, and avoiding unnecessary purchases, this also means selecting the most sustainable option once the tender is published. To do this, public authorities have to introduce sustainability criteria in the procurement process, and openly communicate how suppliers will be evaluated against it."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
-full_width: true
 notion_id: f718c6ce9ad84de0b86181491ddda103
 sidebar: true
 ---

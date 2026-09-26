@@ -4,7 +4,6 @@ title: Standardizing sustainability requirements according to market capability 
 cover: /assets/images/Europe_-_Basque_Country.webp
 cover_position: 53.64
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "79af7d66be2249ac82de0e55880bb66b"
 properties:
   Geographical Area:

@@ -5,7 +5,6 @@ description: "In Paraguay, agriculture represented 17,9% of the GDP in 2017, wit
 cover: /assets/images/LAC_-_Paraguay.webp
 cover_position: 53.85
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: b01af78174a74538b5d6cf85be627069
 sidebar: true
 ---

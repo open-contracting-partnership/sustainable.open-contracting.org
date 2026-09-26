@@ -5,7 +5,6 @@ description: "In 2002 the Government of Namibia ran a tender for the constructio
 cover: /assets/images/Africa_-_Namibia.webp
 cover_position: 54.58
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "16db9929c291493c8bdedbf6fd15dabb"
 properties:
   Geographical Area:

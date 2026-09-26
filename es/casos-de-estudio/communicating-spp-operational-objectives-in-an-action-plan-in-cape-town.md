@@ -5,7 +5,6 @@ description: "In 2021, the City of Cape Town published its Green Procurement Act
 cover: /assets/images/Africa_-_Cape_Town.webp
 cover_position: 54.38
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "264b8a7748b142f59ebd14f690eac2a2"
 sidebar: true
 ---

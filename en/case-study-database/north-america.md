@@ -1,7 +1,6 @@
 ---
 permalink: /case-study-database/north-america
 title: North America
-full_width: true
 collection: true
 notion_id: "0acfba9b2cd3472bbfb96f24644ba84c"
 sidebar: true

@@ -4,7 +4,6 @@ title: Opciones para el uso de datos
 description: "Hay diferentes formas en que los datos abiertos se pueden utilizar para impulsar y medir el progreso en relación con los objetivos de sostenibilidad. A continuación, incluimos diez formas diferentes en las que puede recopilar y utilizar datos para medir y monitorear la sostenibilidad en las compras."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Light_Green2.svg
-full_width: true
 notion_id: de45cb395a9b47d6b0fd727e1015ebaa
 sidebar: true
 ---

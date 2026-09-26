@@ -5,7 +5,6 @@ description: "In 2013, Kenya officially launched The Access to Government Procur
 cover: /assets/images/Africa_-_Kenya.webp
 cover_position: 53.72
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "7c77bc1174ed44029d9f475faf22951d"
 properties:
   Geographical Area:

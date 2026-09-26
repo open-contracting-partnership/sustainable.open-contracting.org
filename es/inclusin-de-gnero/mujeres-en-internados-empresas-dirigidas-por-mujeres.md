@@ -4,7 +4,6 @@ title: Mujeres en internados/ empresas dirigidas por mujeres
 description: "One way to assess the extent of spend going to female led businesses is to apportion contract value to the female:male leadership ratio. "
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: a3ca42bea8044160b8c9ee7d2515b582
-full_width: true
 sidebar: true
 ---
 # Women in boardrooms / female owned businesses

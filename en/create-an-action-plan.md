@@ -4,7 +4,6 @@ title: Create an Action Plan
 description: "Throughout this first section of the toolkit, we have gone through some of the key approaches you can take when considering Open SPP implementation. We have shown how to assess the current enabling environment, how to prioritize procurement categories, set specific SPP goals effectively to track progress, and what you can do to build capabilities and facilitate implementation."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: d035741343454fe485c05b64b7bbb745
 sidebar: true
 ---

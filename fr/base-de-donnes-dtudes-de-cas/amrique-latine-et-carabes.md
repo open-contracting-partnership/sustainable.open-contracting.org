@@ -1,7 +1,6 @@
 ---
 permalink: /base-de-donnes-dtudes-de-cas/amrique-latine-et-carabes
 title: Amérique latine et Caraïbes
-full_width: true
 collection: true
 notion_id: "78732b3bc4ad4e839b58712a3b56f757"
 sidebar: true

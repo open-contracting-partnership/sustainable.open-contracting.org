@@ -4,7 +4,6 @@ title: Cómo medir la aceptación de CPS
 description: "Claramente, en torno a las métricas de CPS se puede adoptar una visión a largo plazo para vincular los objetivos establecidos por la política y la legislación. Esto puede significar que las etiquetas se cuentan contra el cuerpo de los documentos de contratación y se miden a lo largo del tiempo. Entonces, un ejemplo de contratación CPS podría ser:"
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: f4df3d85a3c442cf89cd4668b7bf178c
-full_width: true
 sidebar: true
 ---
 Claramente, en torno a las métricas de CPS se puede adoptar una visión a largo plazo para vincular los objetivos establecidos por la política y la legislación. Esto puede significar que las etiquetas se cuentan contra el cuerpo de los documentos de contratación y se miden a lo largo del tiempo. Entonces, un ejemplo de contratación CPS podría ser:

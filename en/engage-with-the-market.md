@@ -4,7 +4,6 @@ title: Engage with the market
 description: "Engaging with the supplier market is important for all procurement processes. However, it becomes especially relevant in the context of SPP. Engagement practices can be simple, such as communicating the intention of launching a tender through an advert, or more complex, such as organizing supplier workshops and events."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
-full_width: true
 notion_id: da6e7862daf74f5ab2c320d4ac476574
 sidebar: true
 ---

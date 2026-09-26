@@ -4,7 +4,6 @@ title: Establezca mecanismos de apoyo
 description: "En esta etapa de planeación de su estrategia para la implementación de CPS, usted ya habrá evaluado lo que puede hacer dentro de su entorno habilitante para contrataciones, y habrá decidido el enfoque de sus esfuerzos, y fijado sus objetivos. Sin embargo, como mencionamos en la introducción, la implementación de CPS significa una modalidad de contratación distinta. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: "7d0ba4fc3b0348d8a23320c1e07ea9dd"
 sidebar: true
 ---

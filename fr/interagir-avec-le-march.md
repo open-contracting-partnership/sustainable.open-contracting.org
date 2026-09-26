@@ -4,7 +4,6 @@ title: Interagir avec le marché
 description: "Il est important d’interagir avec les acteurs du marché lors de chaque processus de passation de marchés. Toutefois, cela devient particulièrement pertinent lorsqu’il s’agit de marchés publics durables. Les pratiques d’interaction peuvent être élémentaires, comme la communication de l’intention de lancer un appel d’offres, ou plus complexes, comme l’organisation d’ateliers ou d’événements à l’intention des fournisseurs potentiels."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
-full_width: true
 notion_id: "3578aad1ed6c48608e9804192cadf910"
 sidebar: true
 ---

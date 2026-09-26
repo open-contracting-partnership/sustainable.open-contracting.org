@@ -4,7 +4,6 @@ title: Seleccione sus datos
 description: "Material use "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
-full_width: true
 notion_id: fec74fe3104a47f0bfcfad262e09d2ec
 sidebar: true
 ---

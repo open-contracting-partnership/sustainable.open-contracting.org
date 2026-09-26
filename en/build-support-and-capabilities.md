@@ -4,7 +4,6 @@ title: Build support and capabilities
 description: "At this stage of planning your SPP implementation strategy, you have already assessed what you can do within your procurement enabling environment, decided where to focus your efforts, and established your goals. "
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
-full_width: true
 notion_id: d901ea3ee0b64273af4f99da32652260
 sidebar: true
 ---

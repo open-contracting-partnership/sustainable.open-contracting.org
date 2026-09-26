@@ -5,7 +5,6 @@ description: "Completed in 2017, the design of the Ghana Ridge Hospital was the 
 cover: /assets/images/Africa_-_Ghana.webp
 cover_position: 54.79
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: f1ef59bcf86045d0ad0cb340f88d1e08
 sidebar: true
 ---

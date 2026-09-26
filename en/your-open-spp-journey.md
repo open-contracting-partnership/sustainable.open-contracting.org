@@ -1,7 +1,6 @@
 ---
 permalink: /your-open-spp-journey
 title: Your Open SPP journey
-full_width: true
 collection: true
 notion_id: d2744c10971b4e42bea4a89e7b644750
 sidebar: true

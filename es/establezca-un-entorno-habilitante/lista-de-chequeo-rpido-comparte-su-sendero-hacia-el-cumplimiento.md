@@ -4,7 +4,6 @@ title: Lista de chequeo rápido-comparte su sendero hacia el cumplimiento
 description: "\nCompliance Trail Checklist"
 icon: /assets/images/Tick_green_2.svg
 notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
-full_width: true
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}

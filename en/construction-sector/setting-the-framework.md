@@ -4,7 +4,6 @@ title: Setting the framework
 description: "When procuring construction projects, it can be useful to underpin sustainability criteria on existing policy and regulation. When assessing the enabling framework, it can be useful to identify, or consider establishing, the following compliance sources:"
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
-full_width: true
 notion_id: e11c9b99989a490db72eeb0bad6693ca
 properties:
   Created: "Feb 9, 2023 7:39 PM"

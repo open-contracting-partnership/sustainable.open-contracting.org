@@ -4,7 +4,6 @@ title: Preguntas frecuentes
 description: "En esta sección, incluimos preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información."
 cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/NOTION_square_FAQ.svg
-full_width: true
 notion_id: "9e2d0f0fedf0487d9cc1f536f1a63e85"
 sidebar: true
 ---

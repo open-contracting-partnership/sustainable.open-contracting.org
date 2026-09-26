@@ -1,7 +1,6 @@
 ---
 permalink: /open-data-measuring-progress/click-through-to-learn-more
 title: Click through to learn more
-full_width: true
 collection: true
 notion_id: bcd7fee021e24e40ba6d27c444f643ef
 sidebar: true

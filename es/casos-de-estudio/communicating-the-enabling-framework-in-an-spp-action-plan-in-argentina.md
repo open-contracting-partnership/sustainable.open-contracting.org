@@ -4,7 +4,6 @@ title: Communicating the enabling framework in an SPP Action Plan in Argentina
 cover: /assets/images/LAC_-_Argentina.webp
 cover_position: 54.27
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "33eb4d8d5f6e4b298a30f648e7411035"
 sidebar: true
 ---

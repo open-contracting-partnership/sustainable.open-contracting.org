@@ -5,7 +5,6 @@ description: "In 2005, the Government of The Netherlands set up PIANOo, a knowle
 cover: /assets/images/Europe_-_The_Netherlands.webp
 cover_position: 54.16
 icon: /assets/images/Notion-others2.svg
-full_width: true
 notion_id: "4ecbd61fb52d4c6e8b906c5574f14a7b"
 properties:
   Geographical Area:
