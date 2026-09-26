@@ -111,13 +111,21 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 
 A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source and its width and height in Notion, then `align-start` to align it left, and `normal` to not make it as wide as the page. A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
 
-Tables are `{% table %}` tags, which fill their column, with the columns sized by the browser by their content, without breaking words. Their arguments are Notion's `col-header` and `row-header` options (whose cells are headers, `<th>`), and, last, an optional `caption:` followed by the table's caption in Markdown. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). A row or cell that starts with `{color}` has that background color. On a page that isn't full width, a table with the `wide` option extends past both sides of the text column, on wider screens. A table that scrolls has a hint above it, in each site's language (`table_scroll_label`), and fades at the edges that have more. In a cell, `\n` is a line break, and a cell whose lines all start with `-` and a space is a bulleted list:
+Tables are `{% table %}` tags, which fill their column, with the columns sized by the browser by their content, without breaking words. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). The first row is the header row, whose cells are headers (`<th>`), in bold. The tag's options are:
+
+- `row-header`: the first column's cells are headers too.
+- `colors:`: each column's background color, in order, like `colors: default orange yellow green` (`default` for none).
+- `row-colors:`: each row's background color, by its first cell's text, like `row-colors: {Reducing carbon emissions: green}`.
+- `wide`: on a page that isn't full width, the table extends past both sides of the text column, on wider screens.
+- `caption:`, last: the table's caption, in Markdown.
+
+A row or cell that starts with `{color}` has that background color, like a header row's. A table that scrolls has a hint above it, in each site's language (`table_scroll_label`), and fades at the edges that have more. In a cell, `\n` is a line break, and a cell whose lines all start with `-` and a space is a bulleted list:
 
 ```liquid
-{% table col-header caption: Goals and outcomes %}
-| {default} **Goals** | {default} **Outcomes** |
+{% table row-colors: {Reducing carbon emissions: green} caption: Goals and outcomes %}
+| Goals | Outcomes |
 |---|---|
-{green} | Reducing carbon emissions | Line one\nLine two |
+| Reducing carbon emissions | Line one\nLine two |
 | Promoting SPP uptake | - Number of SPP contracts\n- Total number of contracts |
 {% endtable %}
 ```

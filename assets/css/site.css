@@ -263,11 +263,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   }
 }
 
-/* A table's header cells are th, which Super.so's styles for td don't cover. */
+/* A table's header cells are th, which Super.so's styles for td don't cover, in bold. */
 .notion-table th {
   vertical-align: top;
   border: 1px solid var(--color-border-dark);
-  font-weight: inherit;
+  font-weight: 600;
   text-align: inherit;
 }
 

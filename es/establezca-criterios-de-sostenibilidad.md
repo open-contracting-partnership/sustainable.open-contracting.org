@@ -116,8 +116,8 @@ Como se puede observar en el ejemplo de la siguiente tabla, aunque el proveedor 
 
 **Al adoptar este enfoque para contabilizar las emisiones de carbono en los procesos de contratación, se pueden seleccionar proveedores sostenibles incluso si el contrato se adjudica únicamente en función del precio.**
 
-{% table col-header %}
-{red} | {default} **COMPAÑÍA** | {default} PRECIO DE ENTRADA | {default} NIVEL EN LA ESCALERA | {default} **DESCUENTO / VENTAJA DE PREMIO** | {default} **PRECIO DESPUES DE APLICAR VENTAJA** | {default} **ADJUDICAR EL CONTRATO** |
+{% table %}
+{red} | COMPAÑÍA | PRECIO DE ENTRADA | NIVEL EN LA ESCALERA | DESCUENTO / VENTAJA DE PREMIO | PRECIO DESPUES DE APLICAR VENTAJA | ADJUDICAR EL CONTRATO |
 |---|---|---|---|---|---|
 | A | € 9,7 millones | ninguno | 0% | € 9,7 millones | NO |
 | B | € 10 millones | 3 | 4% | € 9,6 millones | NO |

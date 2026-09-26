@@ -212,13 +212,16 @@ module NotionTags
 end
 
 module NotionTags
-  # {% table [wide] [col-header] [row-header] [caption: CAPTION] %}ROWS{% endtable %}, where CAPTION is Markdown. A table
-  # fills its column, and the browser sizes the columns by their content. On a page that isn't full width, a wide table
-  # extends past the text column.
+  # {% table [wide] [row-header] [colors: COLOR...] [row-colors: {TEXT: COLOR, ...}] [caption: CAPTION] %}ROWS
+  # {% endtable %}, where CAPTION is Markdown. A table fills its column, and the browser sizes the columns by their
+  # content. On a page that isn't full width, a wide table extends past the text column.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
-  # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text, in which
-  # "\n" is a line break, and a cell whose lines all start with "- " is a bulleted list.
+  # ignored. The first row is the header row, and with row-header, the first column is a header column. Cells contain
+  # Markdown text, in which "\n" is a line break, and a cell whose lines all start with "- " is a bulleted list.
+  #
+  # Background colors are Notion's colors. colors: sets each column's color, in order ("default" for none). row-colors:
+  # sets a row's color by its first cell's text. A row or a cell can also start with {COLOR}.
   class Table < Liquid::Block
     COLOR = /\A\{(\w+)\}\s*/
     LINE_BREAK = "\\n"
@@ -227,11 +230,22 @@ module NotionTags
     def initialize(tag_name, markup, options)
       super
       markup, @caption = markup.split(/\bcaption:\s*/, 2)
-      words = markup.to_s.split
+      markup = markup.to_s
+      @row_colors = {}
+      markup = markup.sub(/\brow-colors:\s*(\{.*?\})/) do
+        @row_colors = YAML.safe_load(Regexp.last_match(1))
+        ""
+      end
+      @colors = []
+      markup = markup.sub(/(?<![\w-])colors:\s*((?:[a-z]+\s*)+)/) do
+        @colors = Regexp.last_match(1).split
+        ""
+      end
+      words = markup.split
       @wide = words.delete("wide")
-      @classes = (["notion-table"] + words).join(" ")
-      @col_header = words.include?("col-header")
       @row_header = words.include?("row-header")
+      # Super.so's styles for the header row apply to tables with col-header.
+      @classes = (["notion-table", "col-header"] + words).join(" ")
     end
 
     def render(context)
@@ -239,12 +253,13 @@ module NotionTags
       html = rows.each_with_index.map do |line, row|
         color = line[COLOR, 1]
         line = line.sub(COLOR, "")
-        style = color ? "background:var(--color-bg-#{color})" : "color:var(--color-text-default)"
         cells = line.delete_prefix("|").delete_suffix("|").split(/(?<!\\)\|/, -1)
+        color ||= @row_colors[cells.first.to_s.strip.sub(COLOR, "")] unless row.zero?
+        style = color ? "background:var(--color-bg-#{color})" : "color:var(--color-text-default)"
         tds = cells.each_with_index.map do |cell, i|
-          scope = "col" if @col_header && row.zero?
+          scope = "col" if row.zero?
           scope ||= "row" if @row_header && i.zero?
-          cell(context, cell.strip, scope)
+          cell(context, cell.strip, scope, @colors[i])
         end
         %(<tr style="#{style}">#{tds.join}</tr>)
       end
@@ -258,12 +273,12 @@ module NotionTags
 
     private
 
-    # A cell is a header (th), with its scope, in the first row of a table with col-header, or the first column of a
-    # table with row-header.
-    def cell(context, text, scope)
-      color = text[COLOR, 1]
+    # A cell is a header (th), with its scope, in the first row, or the first column of a table with row-header. Its
+    # color is its own, or its column's.
+    def cell(context, text, scope, column_color)
+      color = text[COLOR, 1] || column_color
       text = text.sub(COLOR, "")
-      style = %( style="background:var(--color-#{color == "default" ? "color" : "bg"}-#{color})") if color
+      style = %( style="background:var(--color-bg-#{color})") if color && color != "default"
       lines = text.split(LINE_BREAK).map(&:strip).reject(&:empty?)
       content = if text.empty?
                   %(<div class="notion-table__empty-cell"></div>)
