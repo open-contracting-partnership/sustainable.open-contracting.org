@@ -64,7 +64,7 @@ Each page is `<lang>/<path>.md`, with front matter:
 
 The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar. It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. The `sidebar_width` setting in `_config.yml` is the sidebar's fraction of the width.
 
-Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.svg %}

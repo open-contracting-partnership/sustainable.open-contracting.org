@@ -81,10 +81,18 @@ module NotionMarkdown
     %(#{" " * indent}<div class="notion-divider"></div>\n)
   end
 
-  # Render a fenced code block as a Notion code block, without syntax highlighting.
+  # Render a fenced code block as a Notion code block, without syntax highlighting. A mark option after its language,
+  # like ```json?mark=3-5,8, marks those lines.
   def convert_codeblock(el, _indent)
-    language = el.options[:lang] || el.attr["class"].to_s[/language-(\S+)/, 1]
-    code = %(<code class="language-#{language}">#{escape_html(el.value.chomp)}</code>)
+    language, query = (el.options[:lang] || el.attr["class"].to_s[/language-(\S+)/, 1]).to_s.split("?", 2)
+    marked = query.to_s[/\bmark=([\d,-]+)/, 1].to_s.split(",").flat_map do |part|
+      first, last = part.split("-").map(&:to_i)
+      (first..(last || first)).to_a
+    end
+    lines = escape_html(el.value.chomp).split("\n", -1).each_with_index.map do |line, i|
+      marked.include?(i + 1) ? "<mark>#{line}</mark>" : line
+    end
+    code = %(<code class="language-#{language}">#{lines.join("\n")}</code>)
     %(<div class="notion-code no-wrap"><button class="notion-code__copy-button">#{COPY_ICON}Copy</button>) +
       %(<pre class="language-#{language}" tabindex="0">#{code}</pre><figcaption class="notion-caption notion-semantic-string"></figcaption></div>\n)
   end

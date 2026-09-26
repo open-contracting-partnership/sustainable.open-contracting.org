@@ -272,3 +272,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   font-weight: 600;
   line-height: 1.5;
 }
+
+/* A code block's marked lines, highlighted to the block's width. */
+.notion-code mark {
+  display: inline-block;
+  min-width: 100%;
+  background: var(--color-bg-yellow);
+  color: inherit;
+}

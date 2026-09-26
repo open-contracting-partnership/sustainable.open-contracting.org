@@ -72,7 +72,7 @@ Le Standard de données sur la commande publique ouverte [recommande](https://st
 
 En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
 
-```json
+```json?mark=19-21
 {
   "parties": [
     {
@@ -101,7 +101,7 @@ En suivant une approche similaire, pour [publier ses données relatives à la co
 
 Toutefois, comme expliqué précédemment, dans certains cas, les informations concernant les entreprises ne sont pas accessibles. C’est le cas en Colombie, où seul le sexe de la personne qui représente l’entreprise est connu. Par conséquent, pour publier ces informations au format OCDS, les acheteurs publics ont créé leur propre [extension](https://apiocds.colombiacompra.gov.co/recursos/contactPoint/release-schema.json) afin de créer un champ correspondant et d’énumérer les valeurs acceptées. Voici un exemple de la présentation de ces données :
 
-```json
+```json?mark=19
 {
   "name": "JINNA PAOLA LEoN WESSO",
   "id": "52838216",
