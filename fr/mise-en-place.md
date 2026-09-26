@@ -90,7 +90,7 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 Après avoir évalué votre environnement habilitant, vous devez indiquer clairement comment celui-ci soutient votre approche des marchés publics durables. Cela peut se traduire par deux actions essentielles.
 
 - Les pouvoirs publics doivent clairement décrire l’environnement habilitant du point de vue de la mise en place de marchés publics durables dans leurs [plans d’action sur les marchés publics durables](/plan-daction) et tout plan concernant l’élaboration d’une nouvelle politique ou réglementation de facilitation.
-- Les fonctionnaires responsables de la passation de marchés doivent montrer clairement que leur approche des marchés publics durables est conforme à l’environnement habilitant en place, et ce pour chaque marché. Pour cela, il est possible de renvoyer à la section pertinente du plan d’action sur les marchés publics durables ou [aux documents qui ont été examinés lors de l’évaluation](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit).
+- Les fonctionnaires responsables de la passation de marchés doivent montrer clairement que leur approche des marchés publics durables est conforme à l’environnement habilitant en place, et ce pour chaque marché. Pour cela, il est possible de renvoyer à la section pertinente du plan d’action sur les marchés publics durables ou [aux documents qui ont été examinés lors de l’évaluation](/mise-en-place/liste-de-vrification-rapide-fournir-des-preuves-de-conformit) (en anglais).
 
 Afin de pouvoir passer en revue les différents documents de réglementation et de politiques auxquels vous devez vous conformer, nous avons élaboré cette liste de vérification :
 

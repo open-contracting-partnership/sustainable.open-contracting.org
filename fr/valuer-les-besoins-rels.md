@@ -96,7 +96,7 @@ Les marchés groupés peuvent aider à gonfler la demande de produits et service
 
 {% toggle **Marchés axés sur les résultats** %}
 
-Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting) [et](/choisir-une-mthode-de-passation-de-marchs) [**cette section**](/choisir-une-mthode-de-passation-de-marchs).
+Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting) et [**cette section**](/choisir-une-mthode-de-passation-de-marchs).
 
 {% endtoggle %}
 
