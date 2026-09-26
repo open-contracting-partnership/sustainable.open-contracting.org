@@ -38,7 +38,7 @@ No existe un sistema global que se haya adoptado para clasificar los categorías
 
 Una manera lógica de determinar prioridades de contratación es la identificación de aquellas cuya implementación con prácticas sostenibles por pudieran tener el impacto más alto. Para lograr esto, usted debe saber qué es lo que se va a comprar, y cuál es su impacto.
 
-**Construya una idea basada en datos de su categoría, y el presupuesto asignado a su contratación**
+### Construya una idea basada en datos de su categoría, y el presupuesto asignado a su contratación
 
 En primer lugar, es importante para la determinación de prioridades de categorías de contratación el tener una visión clara de las categorías actuales, y de los presupuestos para los contratos asociadas con ellas. Las categorías preliminares de contratación deben de estar filtradas, según:
 
@@ -58,7 +58,7 @@ Se debe establecer la frecuencia de contratos para cada categoría, es decir, la
 El proceso de **recolección de datos dependerá de la estructura organizacional de la contratación**, ya sea centralizada, descentralizada o si obedece a un enfoque de gestión por categorías. La presencia de un sistema de e-contratación ayudaría a facilitar el proceso; en su ausencia, las encuestas y cuestionarios se pueden ser distribuidos con el fin de recoger la información necesaria.
 {% endcallout %}
 
-## Evalúe el impacto social, ambiental y ecológico de cada categoría
+### Evalúe el impacto social, ambiental y ecológico de cada categoría
 
 Uno de los factores clave que usted debe considerar al determinar las prioridades en las categorías de contratación es el impacto transversal que tendrían sobre los pilares de sostenibilidad ambiental, social y económica.
 

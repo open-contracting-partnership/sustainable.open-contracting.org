@@ -16,7 +16,7 @@ Market Engagement practices allow procurement practitioners to engage with prosp
 
 When implementing sustainable procurement, engaging with the market is essential to inform your decisions regarding what sustainability criteria to include in the procurement process. This will help ensure that the criteria can be met by many suppliers, without leaving out SMEs or local companies
 
-**Market Engagement**
+### Market Engagement
 
 Ensuring that there are provisions that allow for the implementation of Market Engagement practices, such as the use of Prior Information Notices (PINs) will facilitate the assessment of available sustainable alternatives in the market. This practice will inform, during the procurement planning stage, to what extent sustainability criteria can be included as technical specifications or award criteria during the procurement process. However, it is important to ensure that procurement practitioners have clarity over what constitutes compliant and effective market engagement in the context of SPP.
 
@@ -24,7 +24,7 @@ Ensuring that there are provisions that allow for the implementation of Market E
 **Prior Information Notices (PINs)** are a tool to notify the market of your intention to award a contract and initiate discussions with potential suppliers, allowing you to assess the availability of sustainable alternatives and gather information for development of the tender specifications.
 {% endcallout %}
 
-**Ongoing consultation**
+### Ongoing consultation
 
 Ensuring that there are provisions that include open disclosure of information or ongoing dialogue during the procurement process can be especially useful for outcome-based and performance-based procurement. These types of procurement allow practitioners to set environmental and social desired outcomes and establish a dialogue with suppliers to discuss and negotiate possible solutions.
 

@@ -39,7 +39,7 @@ Aucun système de classification des catégories de marchés n’a été adopté
 
 Une façon logique de définir les catégories de marchés prioritaires est de repérer celles pour lesquelles l’adoption de pratiques durables peut avoir les retombées les plus significatives. Pour cela, vous devez analyser les objets de vos acquisitions et leurs effets.
 
-**Exploiter les données pour dresser un état des lieux des dépenses liées aux catégories et aux marchés**
+### Exploiter les données pour dresser un état des lieux des dépenses liées aux catégories et aux marchés
 
 Pour définir les catégories de marchés prioritaires, il est d’abord important d’avoir une bonne vue d’ensemble des dépenses liées aux catégories et aux marchés. Les catégories de marchés préliminaires doivent être triées en fonction des éléments suivants :
 
@@ -59,7 +59,7 @@ Pour chaque catégorie de marchés, il est nécessaire d’évaluer la fréquenc
 *Le processus de collecte de données dépendra du fonctionnement des processus de passation de marchés au sein de votre organisation, qu’ils soient centralisés, décentralisés ou divisés par catégories de marchés. La mise en place de processus électroniques de passation de marchés contribuera à faciliter le processus. En l’absence de processus électroniques, des enquêtes et des questionnaires peuvent être distribués pour collecter les informations nécessaires.*
 {% endcallout %}
 
-***Évaluer les incidences sociales, environnementales et économiques de chaque catégorie de marchés***
+### Évaluer les incidences sociales, environnementales et économiques de chaque catégorie de marchés
 
 *Avant de choisir les catégories de marchés prioritaires, il est indispensable de prendre en compte l’incidence de chaque catégorie sur les aspects essentiels de la durabilité, à savoir les sphères environnementale, sociale et économique.*
 
@@ -91,7 +91,7 @@ Afin d’évaluer l’incidence de ces catégories, **vous devez également réf
 
 En plus de repérer les catégories dans lesquelles des marchés publics durables et ouverts auraient un fort potentiel, vous devez également prendre en compte les ressources existantes qui peuvent faciliter leur mise en place.
 
-**Recenser les normes de durabilité et les éco-étiquettes**
+### Recenser les normes de durabilité et les éco-étiquettes
 
 Les programmes de certification peuvent faciliter la mise en place de marchés publics durables et ouverts. Par exemple, des éco-étiquettes crédibles peuvent aider à recenser les solutions durables présentes sur un marché qui peuvent être achetées en ce qui concerne les catégories prioritaires. *Vous pouvez évaluer la crédibilité d’un programme de certification en examinant ses mécanismes d’adoption, de gouvernance, d’audit et de contrôle.*
 
@@ -106,7 +106,7 @@ La mise en place de marchés publics plus durables suppose de connaître les nor
 
 {% endtoggle %}
 
-**Adapter les exigences de durabilité aux capacités du marché**
+### Adapter les exigences de durabilité aux capacités du marché
 
 Au moment de définir des catégories de marchés prioritaires, la capacité des acteurs du marché à se mettre en conformité avec les normes de durabilité est une variable importante qu’il convient de prendre en compte. Pour évaluer cette variable, des données peuvent être collectées concernant les éléments suivants :
 
@@ -126,7 +126,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 *Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter [cette section](/interagir-avec-le-march)*.
 {% endcallout %}
 
-**Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité**
+### Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité
 
 Les politiques et réglementations sur la durabilité en vigueur doivent être considérées comme des variables pour définir des catégories de marchés prioritaires et il est nécessaire de privilégier celles qui possèdent déjà un cadre propice à la mise en place de marchés publics durables. La législation a été examinée durant le processus d’analyse de [l’environnement habilitant](/mise-en-place) et peut inclure, par exemple, des règlements sur la gestion des déchets toxiques ou des conventions fondamentales de l’Organisation internationale du Travail.
 

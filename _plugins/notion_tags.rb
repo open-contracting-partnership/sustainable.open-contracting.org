@@ -207,8 +207,8 @@ module NotionTags
 end
 
 module NotionTags
-  # {% table WIDTH... [col-header] [row-header] %}ROWS{% endtable %}, where each WIDTH is a column's width in pixels,
-  # or its minimum and maximum widths, as MIN-MAX.
+  # {% table WIDTH... [col-header] [row-header] [caption: CAPTION] %}ROWS{% endtable %}, where each WIDTH is a column's
+  # width in pixels, or its minimum and maximum widths, as MIN-MAX, and CAPTION is Markdown.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
   # ignored. A row or a cell can start with {COLOR} to set its background color. Cells contain Markdown text, in which
@@ -220,26 +220,38 @@ module NotionTags
 
     def initialize(tag_name, markup, options)
       super
+      markup, @caption = markup.split(/\bcaption:\s*/, 2)
       words = markup.split
       @widths = words.grep(/\A[\d.]+(?:-[\d.]+)?\z/)
       @classes = (["notion-table"] + (words - @widths)).join(" ")
+      @col_header = words.include?("col-header")
+      @row_header = words.include?("row-header")
     end
 
     def render(context)
       rows = super.strip.lines.map(&:strip).reject { |line| line.empty? || line.match?(/\A[|:\s-]+\z/) }
-      html = rows.map do |line|
+      html = rows.each_with_index.map do |line, row|
         color = line[COLOR, 1]
         line = line.sub(COLOR, "")
         style = color ? "background:var(--color-bg-#{color})" : "color:var(--color-text-default)"
         cells = line.delete_prefix("|").delete_suffix("|").split(/(?<!\\)\|/, -1)
-        %(<tr style="#{style}">#{cells.each_with_index.map { |cell, i| cell(context, cell.strip, @widths[i]) }.join}</tr>)
+        tds = cells.each_with_index.map do |cell, i|
+          scope = "col" if @col_header && row.zero?
+          scope ||= "row" if @row_header && i.zero?
+          cell(context, cell.strip, @widths[i], scope)
+        end
+        %(<tr style="#{style}">#{tds.join}</tr>)
       end
-      %(<div class="notion-table__wrapper" tabindex="0"><table class="#{@classes}"><tbody>#{html.join}</tbody></table></div>)
+      caption = @caption ? NotionTags.inline(context, @caption.strip) : nil
+      caption &&= %(<caption class="notion-table__caption">#{caption}</caption>)
+      %(<div class="notion-table__wrapper" tabindex="0"><table class="#{@classes}">#{caption}<tbody>#{html.join}</tbody></table></div>)
     end
 
     private
 
-    def cell(context, text, width)
+    # A cell is a header (th), with its scope, in the first row of a table with col-header, or the first column of a
+    # table with row-header.
+    def cell(context, text, width, scope)
       color = text[COLOR, 1]
       text = text.sub(COLOR, "")
       min, max = width.split("-")
@@ -257,7 +269,7 @@ module NotionTags
                 else
                   %(<div class="notion-table__cell"><span class="notion-semantic-string">#{NotionTags.inline(context, text.gsub(LINE_BREAK, "<br>"))}</span></div>)
                 end
-      %(<td style="#{style}">#{content}</td>)
+      scope ? %(<th scope="#{scope}" style="#{style}">#{content}</th>) : %(<td style="#{style}">#{content}</td>)
     end
   end
 end

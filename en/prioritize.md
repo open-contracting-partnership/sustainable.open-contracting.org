@@ -38,7 +38,7 @@ There is no globally adopted system to classify procurement categories, differen
 
 One logical way of prioritizing procurement categories is to identify those for which the implementation of sustainable practices can have the biggest impact. To do that, you need to know what you are buying and what its impact is.
 
-**Gain a data-driven picture of your category and contract spend**
+### Gain a data-driven picture of your category and contract spend
 
 To prioritize procurement categories, it is first important to have a clear view of the current category and contract spend. The preliminary procurement categories should be filtered according to:
 
@@ -58,7 +58,7 @@ For each procurement category contract frequency should be captured, that is to 
 The process of **gathering this data will depend on the organizational set-up of procurement**, whether it is centralized, decentralized, or follows a category-managed approach. Having e-procurement in place will help to facilitate the process; if this is not the case, surveys and questionnaires can be distributed to collect the necessary information.
 {% endcallout %}
 
-**Evaluate the social, environmental, and economic impact of each category**
+### Evaluate the social, environmental, and economic impact of each category
 
 One of the key factors that you should consider when prioritizing procurement categories is the impact that they have across the environmental, social, and economic sustainability pillars.
 
@@ -90,7 +90,7 @@ When assessing the impact of these categories, **you should also think about the
 
 As well as identifying which categories can have the biggest impact when implementing Open SPP, you should also consider what existing resources there are that will facilitate implementation.
 
-**Identify existing sustainability standards and ecolabels**
+### Identify existing sustainability standards and ecolabels
 
 Certification schemes can help to facilitate the implementation of Open SPP. For example, [credible ecolabels](/guide-to-ecolabels) can be used to identify already available sustainable options that can be purchased within the identified procurement categories. You can judge the credibility of the scheme by its adoption, governance, auditing and oversight mechanisms.
 
@@ -103,7 +103,7 @@ Buying more sustainably entails knowing which standards a product, service, or w
 
 {% endtoggle %}
 
-**Benchmark sustainability requirements against current market capability**
+### Benchmark sustainability requirements against current market capability
 
 An important variable when prioritizing procurement categories is assessing current market capability to comply with sustainability standards. To assess this factor, data can be gathered regarding:
 
@@ -123,7 +123,7 @@ The existence of sustainability initiatives in the local market should also be c
 **There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section](/engage-with-the-market).
 {% endcallout %}
 
-**Evaluate options to build on sustainability policy work to-date**
+### Evaluate options to build on sustainability policy work to-date
 
 Existing sustainability policies and regulations should be used as a variable to prioritize procurement areas, favoring those where there is already a framework that enables SPP implementation. These will have been identified as part of the process of analyzing the [enabling environment](/establish-an-enabling-environment), and can include, for example, regulations regarding the management of toxic waste, or the ratification of some of the core ILO Conventions.
 

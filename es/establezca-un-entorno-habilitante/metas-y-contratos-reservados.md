@@ -16,13 +16,13 @@ Both tools, in different ways, help to deliver improved SPP outcomes, and provid
 
 ## How do they relate to SPP?
 
-**Targets**
+### Targets
 
 Procurement targets can be set nationally or locally (or, in some cases, internationally) and provide a clear signal for all stakeholders of an authority’s intent to pursue SPP. Targets are usually compliant with most overarching procurement frameworks, but it can be useful for authorities to identify any provisions relating to targets in their regulations, and develop a target strategy that is consistent with that.
 
 When targets are developed, it is important to openly communicate this to all stakeholders, including why the target has been implemented, and how it will be measured. It is then important to provide timely updates on progress against targets, with information published openly on national or local portals.
 
-**Reserved contracts**
+### Reserved contracts
 
 Authorities sometimes go a step further in intervening to drive SPP outcomes, by actively reserving contracts for certain outcomes, projects or groups. This is most frequently done in the context of reserving contracts for certain types of businesses - such as SMEs, VCSEs, local businesses, or businesses owned by certain demographic groups.
 

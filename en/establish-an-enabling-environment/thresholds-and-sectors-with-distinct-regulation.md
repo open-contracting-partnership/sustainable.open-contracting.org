@@ -14,11 +14,11 @@ Procurement Thresholds establish different regulations for procurement contracts
 
 ## How do they relate to SPP?
 
-**Procurement Thresholds**
+### Procurement Thresholds
 
 Procurement frameworks often establish financial thresholds where tenders that fall under the threshold are subject to more flexible regulation. If this is the case, under-threshold contracts could offer more scope to implement SPP practices.
 
-**Sectors with Distinct Regulation**
+### Sectors with Distinct Regulation
 
 Identifying whether distinct regulation applies for certain sectors or public agencies can be useful when deciding how and where to introduce SPP practices. In some cases, there might be sectors where regulation is less strict, which can facilitate SPP implementation. For example, in the EU, certain health, social and education service contracts fall under what is called the “Light Touch Regime (LTR)” and are subject to a distinct set of rules that are less strict than in other categories.
 

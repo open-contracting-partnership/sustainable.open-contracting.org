@@ -17,11 +17,11 @@ This can lead to an element of data cleanup. For instance, if a contract has no 
 
 Data reports can take many forms, depending on the use case of the audience. A Minister or Secretary might require a written report, whereas a time-poor department heads might only want e-mail alerts, while analysts and report writers might want a dashboard or even a spreadsheet. Regardless, with good, clean, accessible data, all these use cases can be met.
 
-**Internal analysis**
+#### Internal analysis
 
 In governments around the world there is an appetite to use and analyse sustainable procurement data alongside other datasets to identify correlations. Examples include regional data, regulatory data (school or care home assessments), tax data, grant data. This can help test hypotheses around whether or not sustainable procurements compromise on or improve other outcomes. Moreover, such analyses allow for departments to identify points of potential intervention.
 
-**External analysis**
+#### External analysis
 
 As Covid-19 showed, public facing toolsets and dashboards are of immense value. This is because these tools allow the public to understand not only problems around emerging crises but outcomes relating to data. Public facing dashboards allow public users, be they civil society, private sector analysts or concerned citizens the ability to interact with the data and understand the data.
 

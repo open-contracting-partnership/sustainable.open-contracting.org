@@ -50,6 +50,12 @@ const knownWarnings = [
     selectors: ["img.notion-icon", "img.notion-breadcrumb__icon"],
   },
   {
+    // "If this table is a data table, consider using a caption element…" (a table's caption is optional, and most are
+    // introduced by the heading or paragraph before them)
+    rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H39.3.NoCaption"],
+    selectors: [".notion-table"],
+  },
+  {
     // "Frames should be tested with axe-core." (a PDF)
     rules: ["frame-tested"],
     selectors: [".notion-pdf iframe"],
