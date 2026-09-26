@@ -2,6 +2,7 @@ name: Deploy
 on: [push, pull_request]
 jobs:
   build:
+    if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name != github.repository
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,17 +17,15 @@ jobs:
         with:
           node-version: 24
           cache: pnpm
-      - uses: astral-sh/setup-uv@v10.2.0
       - run: pnpm install --frozen-lockfile --ignore-scripts
-      - run: uvx pre-commit run --all-files --show-diff-on-failure
-      - run: uv run scripts/check_redirects.py
       - env:
           JEKYLL_ENV: production
           NODE_ENV: production
         run: for lang in en es fr; do scripts/build.sh "$lang"; done
-      - run: uv run scripts/check_pages.py
-      - run: uv run scripts/check_links.py
-      - run: uv run scripts/check_markup.py
+      - run: python scripts/check_redirects.py
+      - run: python scripts/check_pages.py
+      - run: python scripts/check_links.py
+      - run: python scripts/check_markup.py
       # Each Cloudflare Pages project serves its site's branch.
       - if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0

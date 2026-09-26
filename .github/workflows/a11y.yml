@@ -33,13 +33,12 @@ jobs:
         with:
           node-version: 24
           cache: pnpm
-      - uses: astral-sh/setup-uv@v10.2.0
       - run: pnpm install --frozen-lockfile --ignore-scripts
       - run: pnpm exec puppeteer browsers install chrome
       - run: scripts/build.sh ${{ matrix.lang }}
       - name: Serve
         run: |
-          uv run scripts/serve.py _site/${{ matrix.lang }} 8000 &
+          python scripts/serve.py _site/${{ matrix.lang }} 8000 &
           sleep 5
       - env:
           PA11Y_STRATEGY: ignore
