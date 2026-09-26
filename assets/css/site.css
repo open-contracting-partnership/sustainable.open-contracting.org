@@ -462,3 +462,20 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 .notion-table :is(td, th) * {
   word-break: inherit;
 }
+
+/* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, while tables, images,
+   galleries and code blocks use the column's width. The doubled class outweighs Super.so's max-width for paragraphs
+   with one link (.notion-text__content:has(> a:only-child)). */
+.notion-root.notion-root
+:is(
+  .notion-text,
+  .notion-heading,
+  .notion-bulleted-list,
+  .notion-numbered-list,
+  .notion-callout,
+  .notion-toggle,
+  .notion-to-do,
+  .notion-quote
+) {
+  max-width: 708px;
+}
