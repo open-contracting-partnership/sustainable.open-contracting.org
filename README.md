@@ -177,13 +177,14 @@ To fix a broken link, change the link in the linking page's Markdown, or (for a 
 
 ### Checks
 
-On each push, the `deploy.yml` workflow builds the sites, and runs `scripts/check_redirects.py`, `scripts/check_pages.py`, `scripts/check_links.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
+On each push, the `deploy.yml` workflow builds the sites, and runs `scripts/check_redirects.py`, `scripts/check_pages.py`, `scripts/check_links.py`, `scripts/check_orphans.py` and `scripts/check_markup.py`. Each fails if it finds a problem, as does the build on invalid front matter, a Liquid syntax error or an unknown filter. To run the checks locally, after building the sites with `scripts/build.sh`:
 
 ```bash
 uvx pre-commit run --all-files
 uv run scripts/check_redirects.py
 uv run scripts/check_pages.py
 uv run scripts/check_links.py
+uv run scripts/check_orphans.py
 uv run scripts/check_markup.py
 ```
 
@@ -202,6 +203,8 @@ PA11Y_STRATEGY=ignore pnpm exec pa11y-ci -c pa11y.default.js -s http://127.0.0.1
 Use `pa11y.mobile.js` for the mobile viewport, and set `PA11Y_INCLUDE_WARNINGS=1 PA11Y_SUPPRESS_KNOWN_WARNINGS=1` for the warnings.
 
 `scripts/check_redirects.py` checks that each rule in `<lang>/_redirects` is `SOURCE TARGET 301`, that its source is unique and not a page, and that its target is a page (not another redirect), and that there are fewer rules than Cloudflare Pages allows. So, to rename or delete a page, redirect its path, and change the redirects that led to it.
+
+`scripts/check_orphans.py` checks that links reach every page from the home page, except the pages in its `EXCEPTIONS`, which must match pages that aren't reachable. When fixing one, remove it from the list.
 
 `scripts/check_pages.py` checks that each page's permalink is its file's path and unique, that it has a title, that its cover and icon are files, and that each path in `_data/translations.yml` is a page, on one line. In the built sites, it checks that the files in `/assets/` that pages refer to exist, that each file in `/assets/` is used by some site's pages, stylesheets or templates, that the sitemap's URLs are pages, and that the search index has every page with content.
 

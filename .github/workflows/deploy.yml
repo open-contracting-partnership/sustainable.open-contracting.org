@@ -25,6 +25,7 @@ jobs:
       - run: python scripts/check_redirects.py
       - run: python scripts/check_pages.py
       - run: python scripts/check_links.py
+      - run: python scripts/check_orphans.py
       - run: python scripts/check_markup.py
       # Each Cloudflare Pages project serves its site's branch.
       - if: github.event_name == 'push' && github.ref == 'refs/heads/main'
