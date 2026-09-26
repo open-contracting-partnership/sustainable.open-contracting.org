@@ -81,7 +81,7 @@ columns:
 - name: Name
   type: title
   width: 278
-- name: 'Type '
+- name: Type
   type: select
   width: 202
 - name: Criteria available
@@ -107,7 +107,7 @@ items:
       'Yes': pink
     Sectors:
       ICT: red
-    'Type ':
+    Type:
       Type I: green
 - title: Good Environmental Choice Australia Ecolabel (GECA)
   link: https://geca.eco/
@@ -125,7 +125,7 @@ items:
       Personal Care Products: default
       Cleaning services: orange
       Waste Services: green
-    'Type ':
+    Type:
       Type I: green
 - title: Energy Star
   link: https://www.energystar.gov/products/products-list
@@ -143,7 +143,7 @@ items:
       ICT: red
       Data Centres: orange
       Electronics: yellow
-    'Type ':
+    Type:
       Type I-like: default
 - title: ABNT - Environmental Quality
   link: https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios
@@ -161,7 +161,7 @@ items:
       Construction: purple
       ICT: red
       Personal Care Products: default
-    'Type ':
+    Type:
       Type I: green
 - title: Eu Ecolabel
   link: https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html
@@ -178,7 +178,7 @@ items:
       Apparel: orange
       ICT: red
       Office supplies: yellow
-    'Type ':
+    Type:
       Type I: green
 - title: The Blue Angel Eco-Label
   link: https://www.blauer-engel.de/en/products/products-list-a-z
@@ -196,7 +196,7 @@ items:
       Transport: gray
       Cleaning products: yellow
       Personal Care Products: default
-    'Type ':
+    Type:
       Type I: green
 - title: Nordic Swan Ecolabel
   properties:
@@ -205,7 +205,7 @@ items:
     Includes social criteria:
       'Yes': pink
     Sectors: {}
-    'Type ':
+    Type:
       Type I: green
 {% enddatabase_table %}
 {% comment %}

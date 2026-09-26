@@ -438,15 +438,15 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   display: none;
 }
 
-.notion-table__wrapper.more-end {
+:is(.notion-table__wrapper, .notion-collection-table__wrapper).more-end {
   mask-image: linear-gradient(to right, #000 calc(100% - 3rem), transparent);
 }
 
-.notion-table__wrapper.more-start {
+:is(.notion-table__wrapper, .notion-collection-table__wrapper).more-start {
   mask-image: linear-gradient(to left, #000 calc(100% - 3rem), transparent);
 }
 
-.notion-table__wrapper.more-start.more-end {
+:is(.notion-table__wrapper, .notion-collection-table__wrapper).more-start.more-end {
   mask-image: linear-gradient(to right, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
 }
 

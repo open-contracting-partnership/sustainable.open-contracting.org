@@ -81,7 +81,7 @@ columns:
 - name: Norm
   type: title
   width: 278
-- name: 'Type '
+- name: Type
   type: select
   width: 202
 - name: Critères consultables
@@ -101,7 +101,7 @@ items:
 - title: TCO Certified
   link: https://tcocertified.com/criteria-documents/
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables:
       Oui: purple
@@ -112,7 +112,7 @@ items:
 - title: Good Environmental Choice Australia Ecolabel (GECA)
   link: https://geca.eco/
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables:
       Non: brown
@@ -130,7 +130,7 @@ items:
 - title: Energy Star
   link: https://www.energystar.gov/products/products-list
   properties:
-    'Type ':
+    Type:
       Éco-étiquettes apparentées au type I: default
     Critères consultables: {}
     Secteurs:
@@ -146,7 +146,7 @@ items:
 - title: ABNT - Environmental Quality
   link: https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables:
       Oui: purple
@@ -164,7 +164,7 @@ items:
 - title: Label écologique de l’UE
   link: https://ec.europa.eu/environment/ecolabel/products-groups-and-criteria.html
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables:
       Oui: purple
@@ -181,7 +181,7 @@ items:
 - title: The Blue Angel Eco-Label
   link: https://www.blauer-engel.de/en/products/products-list-a-z
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables:
       Oui: purple
@@ -197,7 +197,7 @@ items:
       Oui: pink
 - title: Nordic Swan Ecolabel
   properties:
-    'Type ':
+    Type:
       Type I: green
     Critères consultables: {}
     Secteurs: {}

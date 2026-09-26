@@ -192,7 +192,8 @@ module NotionTags
         "<tr>#{cells.join}</tr>"
       end
       caption = context.registers[:database_title] || h(context["page"]["title"])
-      %(<div class="notion-collection-table__wrapper" tabindex="0"><table class="notion-collection-table">) +
+      label = h(context.registers[:site].config["table_scroll_label"])
+      %(<div class="notion-collection-table__wrapper" tabindex="0" data-scroll-label="#{label}"><table class="notion-collection-table">) +
         %(<caption>#{caption}</caption>) +
         %(<thead class="notion-collection-table__head"><tr>#{head.join}</tr></thead>) +
         %(<tbody class="notion-collection-table__body">#{rows.join}</tbody></table></div>)

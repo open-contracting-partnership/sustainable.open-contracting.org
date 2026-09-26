@@ -224,7 +224,7 @@ document.querySelectorAll(".sidebar-menu, .language-menu").forEach((menu) => {
 });
 
 // Tables that scroll: a hint above them, and a fade at the edges that have more.
-document.querySelectorAll(".notion-table__wrapper").forEach((wrapper) => {
+document.querySelectorAll(".notion-table__wrapper, .notion-collection-table__wrapper").forEach((wrapper) => {
   const hint = document.createElement("p");
   hint.className = "notion-table__scroll-hint";
   hint.setAttribute("aria-hidden", "true");
