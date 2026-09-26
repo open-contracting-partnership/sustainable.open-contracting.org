@@ -36,43 +36,57 @@ Tout au long de ce guide, nous parlerons de ces différentes modalités d’ouve
 {% image /assets/images/7-Open-SPP-Steps-Diagram-_fr.png 1920 1080 align-start %}
 
 {% callout default /assets/images/7_areas_open_SPP.svg %}
-**Divulguer vos politiques et votre approche des marchés publics durables.**
+
+## Divulguer vos politiques et votre approche des marchés publics durables
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement vos politiques et votre approche en faveur de la durabilité et de montrer qu’elles sont alignées sur l’ensemble des cadres juridiques et politiques internationaux, nationaux ou locaux qui régissent vos règles de passation de marchés.
 
 {% callout default /assets/images/7_areas_open_SPP2.svg %}
-**Justifier vos choix de catégories de marchés prioritaires.**
+
+## Justifier vos choix de catégories de marchés prioritaires
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer le processus qui vous a conduit à définir certaines catégories de marchés ou projets comme prioritaires afin de cibler votre travail sur les marchés publics durables.
 
 {% callout default /assets/images/7_areas_open_SPP3.svg %}
-**Utiliser des critères de durabilité et justifier leur utilisation de façon claire.**
+
+## Utiliser des critères de durabilité et justifier leur utilisation de façon claire
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de divulguer clairement les critères de durabilité qui seront utilisés pour évaluer les soumissionnaires, les modalités d’évaluation sur la base de ces critères et la justification du choix des critères.
 
 {% callout default /assets/images/7_areas_open_SPP4.svg %}
-**Gérer des registres de fournisseurs, des bases de données de marchés et des mécanismes d’élaboration de rapports efficaces.**
+
+## Gérer des registres de fournisseurs, des bases de données de marchés et des mécanismes d’élaboration de rapports efficaces
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de créer des registres de fournisseurs, des bases de données concernant les marchés et des mécanismes d’élaboration de rapports efficaces permettant de suivre la réalisation des objectifs des marchés publics durables et de favoriser un suivi et une évaluation proactifs des acquisitions.
 
 {% callout default /assets/images/7_areas_open_SPP5.svg %}
-**Mettre en place des canaux de communication clairs pour sonder l’opinion des bénéficiaires et de la population.**
+
+## Mettre en place des canaux de communication clairs pour sonder l’opinion des bénéficiaires et de la population
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts se caractérisent par l’établissement de canaux de communication clairs qui permettent de faire participer les fournisseurs, les organisations de la société civile et les citoyens et citoyennes dans le but de recueillir leurs opinions. Cela est particulièrement important pour la planification des achats, en particulier s’ils concernent des technologies innovantes ou auront des effets sur certaines communautés, ainsi que pour le suivi de l’exécution des marchés publics afin de vérifier qu’ils ont produit les résultats escomptés en matière environnementale et sociale.
 
 {% callout default /assets/images/7_areas_open_SPP6.svg %}
-**Publier des rapports sur les effets de chaque marché.**
+
+## Publier des rapports sur les effets de chaque marché
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent d’évaluer et de divulguer de façon claire les effets des pratiques durables de passation de marchés à l’aide d’indicateurs appropriés pour chaque marché.
 
 {% callout default /assets/images/7_areas_open_SPP7.svg %}
-**Exploiter les données issues de rapports pour améliorer et déployer à grande échelle les marchés publics durables.**
+
+## Exploiter les données issues de rapports pour améliorer et déployer à grande échelle les marchés publics durables
+
 {% endcallout %}
 
 Les marchés publics durables et ouverts supposent de mettre au point, tester et reproduire à grande échelle les pratiques durables de passation de marchés à partir des données provenant des rapports et des avis recueillis. Il s’agit donc d’exploiter les données concernant les résultats des approches des marchés publics durables pour évaluer et reproduire à grande échelle les pratiques fructueuses.

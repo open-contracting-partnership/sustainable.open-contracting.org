@@ -35,38 +35,58 @@ La apertura es un cambio de mentalidad, que abarca datos de contratación abiert
 
 {% image /assets/images/7_Open_SPP_fr.png 5753 3240 align-start %}
 
-{% callout default /assets/images/7_areas_open_SPP.svg label: Comunicando sus políticas y enfoques CPS %}
+{% callout default /assets/images/7_areas_open_SPP.svg %}
+
+## Comunicando sus políticas y enfoques CPS
+
 {% endcallout %}
 
 CPS Abierta significa divulgar claramente sus políticas y su enfoque para impulsar la sostenibilidad y cómo cumple con los marcos y políticas legales internacionales, nacionales o locales que rigen sus reglas de contratación.
 
-{% callout default /assets/images/7_areas_open_SPP2.svg label: Comunicando por qué ha priorizado ciertas categorías de gastos %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
+
+## Comunicando por qué ha priorizado ciertas categorías de gastos
+
 {% endcallout %}
 
 CPS Abierta significa compartir el proceso que lo ha llevado a usted a priorizar ciertas categorías de contrataciones o proyectos a medida que enfoca sus esfuerzos de CPS.
 
-{% callout default /assets/images/7_areas_open_SPP3.svg label: Usando y justificando claramente criterios de sostenibilidad %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
+
+## Usando y justificando claramente criterios de sostenibilidad
+
 {% endcallout %}
 
 CPS Abierta implica comunicar claramente qué criterios de sostenibilidad se utilizarán para seleccionar a los proveedores, cómo se evaluarán frente a estos criterios y las razones detrás de estas decisiones.
 
 {% callout default /assets/images/7_areas_open_SPP4.svg %}
-**Manteniendo registros efectivos de proveedores bases de datos de contratos y reportando mecanismos.**
+
+## Manteniendo registros efectivos de proveedores bases de datos de contratos y reportando mecanismos
+
 {% endcallout %}
 
 CPS Abierta incluye la creación de registros de proveedores efectivos, bases de datos de contratos y mecanismos de informes que rastrean la implementación de los objetivos de CPS y respaldan el monitoreo proactivo y la retroalimentación sobre las contrataciones.
 
-{% callout default /assets/images/7_areas_open_SPP5.svg label: Proporcionando canales claros para retroalimentación del usuario y del ciudadano %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
+
+## Proporcionando canales claros para retroalimentación del usuario y del ciudadano
+
 {% endcallout %}
 
 CPS Abierta se caracteriza por establecer canales claros de participación y retroalimentación de proveedores, organizaciones de la sociedad civil y ciudadanos. Esto es especialmente valioso en la planificación de qué comprar, especialmente si se trata de tecnología innovadora o implicará impactos de comunidades específicas, así como en el seguimiento de la ejecución de contratos para verificar que hayan cumplido con sus resultados ambientales y sociales.
 
-{% callout default /assets/images/7_areas_open_SPP6.svg label: Reportando abiertamente el impacto contrato por contrato %}
+{% callout default /assets/images/7_areas_open_SPP6.svg %}
+
+## Reportando abiertamente el impacto contrato por contrato
+
 {% endcallout %}
 
 CPS Abierta se basa en medir y comunicar claramente el impacto de las prácticas de SPP contrato por contrato, utilizando métricas adecuadas.
 
-{% callout default /assets/images/7_areas_open_SPP7.svg label: Usando datos de reporte para mejorar y escalar CPS %}
+{% callout default /assets/images/7_areas_open_SPP7.svg %}
+
+## Usando datos de reporte para mejorar y escalar CPS
+
 {% endcallout %}
 
 CPS Abierta implica dar forma, probar y escalar las prácticas de SPP, en función de los datos de informes y los comentarios recopilados. Esto implica el uso de datos sobre los resultados de sus enfoques SPP para evaluar y escalar lo que ha funcionado.

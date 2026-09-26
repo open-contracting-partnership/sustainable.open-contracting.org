@@ -37,37 +37,58 @@ Throughout this guide, we will refer to these different types of openness as key
 
 {% image /assets/images/7_Open_SPP.png 5754 3241 align-start %}
 
-{% callout default /assets/images/7_areas_open_SPP.svg label: Communicating your SPP policies and approach %}
+{% callout default /assets/images/7_areas_open_SPP.svg %}
+
+## Communicating your SPP policies and approach
+
 {% endcallout %}
 
 Open SPP means clearly disclosing your policies and approach to drive sustainability and how it complies with any international, national or local legal frameworks and policies that govern your procurement rules.
 
-{% callout default /assets/images/7_areas_open_SPP2.svg label: Communicating why you have prioritized certain categories of spending %}
+{% callout default /assets/images/7_areas_open_SPP2.svg %}
+
+## Communicating why you have prioritized certain categories of spending
+
 {% endcallout %}
 
 Open SPP means sharing the process that has led you to prioritize certain procurement categories or projects as you focus your SPP efforts.
 
-{% callout default /assets/images/7_areas_open_SPP3.svg label: Clearly using and justifying sustainability criteria %}
+{% callout default /assets/images/7_areas_open_SPP3.svg %}
+
+## Clearly using and justifying sustainability criteria
+
 {% endcallout %}
 
 Open SPP entails clearly communicating what sustainability criteria will be used to select suppliers, how they will be evaluated against these criteria, and the reasons behind these decisions.
 
-{% callout default /assets/images/7_areas_open_SPP4.svg label: Maintaining effective registers of suppliers, contract databases, and reporting mechanisms %}
+{% callout default /assets/images/7_areas_open_SPP4.svg %}
+
+## Maintaining effective registers of suppliers, contract databases, and reporting mechanisms
+
 {% endcallout %}
 
 Open SPP includes the creation of effective supplier registers, contract databases, and reporting mechanisms that track implementation of SPP objectives and support proactive monitoring and feedback on purchases
 
-{% callout default /assets/images/7_areas_open_SPP5.svg label: Providing clear channels for user and citizen feedback %}
+{% callout default /assets/images/7_areas_open_SPP5.svg %}
+
+## Providing clear channels for user and citizen feedback
+
 {% endcallout %}
 
 Open SPP is characterized by establishing clear channels for engagement and receiving feedback from suppliers, civil society organizations, and citizens. This is especially valuable in planning what to buy, especially if it involves innovative technology or will involve impacts of specific communities as well as in monitoring implementation of contracts to check they have delivered on their environmental and social outcomes.
 
-{% callout default /assets/images/7_areas_open_SPP6.svg label: Openly reporting on impact on a contract-by-contract basis %}
+{% callout default /assets/images/7_areas_open_SPP6.svg %}
+
+## Openly reporting on impact on a contract-by-contract basis
+
 {% endcallout %}
 
 Open SPP relies on measuring, and clearly communicating, the impact of SPP practices on a contract-by-contract basis, using appropriate metrics.
 
-{% callout default /assets/images/7_areas_open_SPP7.svg label: Using reporting data to improve and scale SPP %}
+{% callout default /assets/images/7_areas_open_SPP7.svg %}
+
+## Using reporting data to improve and scale SPP
+
 {% endcallout %}
 
 Open SPP involves shaping, testing, and scaling SPP practices, based on reporting data and feedback gathered. This involves using data on outcomes of your SPP approaches to evaluate and scale what has worked.

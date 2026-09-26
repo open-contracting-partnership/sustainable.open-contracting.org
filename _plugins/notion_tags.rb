@@ -40,8 +40,8 @@ module NotionTags
                %(<span class="notion-icon text" style="#{EMOJI_STYLE}">#{@icon}</span>)
              end
       label = %(<p class="notion-callout__label">#{NotionTags.inline(context, @label.strip)}</p>) if @label
-      unless @label && text.to_s.strip.empty?
-        text = %(<span class="notion-semantic-string">#{NotionTags.inline(context, text.to_s)}</span>)
+      unless text.to_s.strip.empty?
+        text = %(<span class="notion-semantic-string">#{NotionTags.inline(context, text)}</span>)
       end
       %(<div class="notion-callout #{classes}"><div class="notion-callout__icon">#{icon}</div>) +
         %(<div class="notion-callout__content">#{label}#{text}) +
