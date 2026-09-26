@@ -32,7 +32,7 @@ SYNTAX = {
 }
 # Question and exclamation marks are usually part of a title.
 END_PUNCTUATION = ".,;:…"
-# Single quotation marks as escapes, since ruff confuses the left one with a grave accent.
+# Single quotation marks as escapes, since Ruff flags them as confusable with a grave accent (RUF001).
 PAIRS = {"(": ")", "[": "]", "“": "”", "\N{LEFT SINGLE QUOTATION MARK}": "\N{RIGHT SINGLE QUOTATION MARK}", "«": "»"}
 CLOSERS = {v: k for k, v in PAIRS.items()}
 SKIP = {"code", "pre", "script", "style"}
