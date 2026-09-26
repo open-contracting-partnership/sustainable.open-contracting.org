@@ -71,11 +71,6 @@ const knownWarnings = [
     rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1.H42"],
     selectors: [],
   },
-  {
-    // "The heading structure is not logically nested." (headings are at Notion's levels: see #17)
-    rules: ["WCAG2AA.Principle1.Guideline1_3.1_3_1_A.G141", "heading-order"],
-    selectors: [],
-  },
 ];
 
 function createDefaults(extraKnownWarnings = []) {

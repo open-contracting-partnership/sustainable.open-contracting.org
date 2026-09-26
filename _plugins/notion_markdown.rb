@@ -19,11 +19,17 @@ module NotionMarkdown
               'H2.504zM5.79 7.816c-.24 0-.346-.105-.346-.345V4.547l3.223 3.27H5.791z"></path></svg>'.freeze
 
   # Lists and list items are converted below.
-  CLASSES.slice(:p, :header, :a).each do |type, classes|
+  CLASSES.slice(:p, :a).each do |type, classes|
     define_method(:"convert_#{type}") do |el, indent|
       el.attr["class"] ||= classes
       super(el, indent)
     end
+  end
+
+  # A heading's level in Markdown is its class, which sets its size, since _plugins/heading_levels.rb renumbers its tag.
+  def convert_header(el, indent)
+    el.attr["class"] ||= "#{CLASSES[:header]} notion-heading--#{el.options[:level]}"
+    super
   end
 
   CHECKBOX = '<div class="notion-checkbox"><svg viewBox="0 0 16 16"><path d="M1.5,1.5 L1.5,14.5 L14.5,14.5 L14.5,1.5 ' \

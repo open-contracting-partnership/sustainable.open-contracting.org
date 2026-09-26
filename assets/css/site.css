@@ -16,7 +16,7 @@
   margin-block-end: 1rem;
 }
 
-.notion-root :is(h1, h2, h3, h4).notion-heading:not(:first-child) {
+.notion-root :is(h1, h2, h3, h4, h5, h6).notion-heading:not(:first-child) {
   margin-top: 2rem;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .notion-root
-  :is(h1, h2, h3, h4)
+  :is(h1, h2, h3, h4, h5, h6)
   + :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
     :first-child
   ) {
@@ -50,7 +50,7 @@
 
 .notion-root
   :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):has(
-    + :is(h1, h2, h3, h4)
+    + :is(h1, h2, h3, h4, h5, h6)
   ):not(:last-child) {
   margin-block-end: 1rem;
 }
@@ -264,8 +264,34 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   font-weight: 600;
 }
 
+/* Headings' sizes are their levels in Markdown (their classes), like Super.so's, since heading_levels.rb renumbers their
+   tags. Browsers' default margins for h1 and h4 apply to the first heading in a block. */
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--1 {
+  margin-top: 0.67em;
+  font-size: var(--heading1-size);
+  font-weight: var(--heading-weight);
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--2 {
+  margin-top: 1rem;
+  font-size: var(--heading2-size);
+  font-weight: 600;
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--3 {
+  margin-top: 0.75rem;
+  font-size: var(--heading3-size);
+  font-weight: var(--heading-weight);
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--4 {
+  margin-top: 1.33em;
+  font-size: var(--heading4-size);
+  font-weight: var(--heading-weight);
+}
+
 /* A heading that is a callout's only content, like a label. */
-.notion-callout__content > :is(h1, h2, h3, h4).notion-heading {
+.notion-callout__content > :is(h1, h2, h3, h4, h5, h6).notion-heading {
   margin: 0;
   padding: 0;
   font-size: inherit;
