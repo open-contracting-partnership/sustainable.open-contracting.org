@@ -9,7 +9,7 @@ properties:
   Includes social criteria:
     "Yes": pink
   Link to criteria:
-    - Critérios: "https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
+    - Critérios: "https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
   Sectors:
     Cleaning products: yellow
     Apparel: orange

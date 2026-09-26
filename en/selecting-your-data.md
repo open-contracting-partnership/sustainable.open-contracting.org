@@ -132,5 +132,5 @@ The supplier should also provide information on how this Code of Conduct is tran
 **Introducing general sustainability criteria in the procurement process:**
 
 - [HP Development Company. 2020. Purchasing the Resources to help your organisation advance sustainable impact through the power of procurement future you want: A sustainable IT purchasing guide.](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf)
-- [TCO. 2022. Certified product categories.](https://tcocertified.com/product-categories/)
+- [TCO. 2022. Certified product categories.](https://web.archive.org/web/20240122015038/https://tcocertified.com/product-categories/)
 {% endcallout %}

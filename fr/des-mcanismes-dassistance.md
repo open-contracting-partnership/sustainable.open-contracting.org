@@ -70,7 +70,7 @@ D’autres exemples et ressources traitant de l’interaction avec les parties p
 Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](/priorits), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](/guide-des-co-tiquettes) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](/des-critres-de-durabilit).
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-L’[outil](https://sftool.gov/greenprocurement) « [Green Procurement Compilation](https://sftool.gov/greenprocurement) » de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
+L’[outil](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement) « [Green Procurement Compilation](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement) » de l’Administration des services généraux des États-Unis est un bon exemple parce qu’il fournit des orientations concernant la réglementation, les considérations environnementales et les programmes de certification existants concernant plus de 36 catégories de marchés.
 {% endcallout %}
 
 ## Créer et diffuser des registres et catalogues axés sur la durabilité
@@ -82,7 +82,7 @@ Les fournisseurs présents dans ces catalogues et registres peuvent être sélec
 Pour en savoir plus sur la création de registres de fournisseurs responsables à partir des données relatives à la commande publique, consultez [la possibilité 9 dans la troisième partie](/possibilits-dutilisation-des-donnes).
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-Le [panier vert](http://gp.pcd.go.th/cat-1-ssl) de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le [registre national de l’agriculture familiale](https://faolex.fao.org/docs/pdf/par178418.pdf) a contribué à [faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) auprès d’entreprises familiales. Nous pouvons également citer l’exemple de [l’accord-cadre sur les biens et services nécessaires en situation de crise](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==) du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.
+Le [panier vert](https://gp.pcd.go.th/) de la Thaïlande est un bon exemple de catalogue de fournisseurs responsables sur le plan environnemental. Il est par ailleurs recommandé dans le cadre juridique parmi les méthodes de renforcement de la durabilité des marchés publics. Au Paraguay, le [registre national de l’agriculture familiale](https://faolex.fao.org/docs/pdf/par178418.pdf) a contribué à [faciliter et promouvoir l’acquisition de denrées alimentaires et de services de restauration](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) auprès d’entreprises familiales. Nous pouvons également citer l’exemple de [l’accord-cadre sur les biens et services nécessaires en situation de crise](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==) du Chili, pour lequel des fournisseurs ont été présélectionnés par ChileCompra, l’organisme central de passation des marchés publics, en vue de l’acquisition rapide et simplifiée de produits en cas de catastrophe naturelle.
 {% endcallout %}
 
 ## Mettre en place un service d’assistance et un centre d’information
@@ -95,8 +95,8 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 
 {% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
-- [Administration des services généraux des États-Unis, *Sustainable Facilities Tool*, 2022.](https://sftool.gov/greenprocurement)
-- [Département de contrôle de la pollution de la Thaïlande, *Panier vert*, 2020.](http://gp.pcd.go.th/cat-1-ssl)
+- [Administration des services généraux des États-Unis, *Sustainable Facilities Tool*, 2022.](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement)
+- [Département de contrôle de la pollution de la Thaïlande, *Panier vert*, 2020.](https://gp.pcd.go.th/)
 - [Centre de compétences pour les marchés publics durables (KNB) du ministère fédéral de l’Intérieur de l’Allemagne.](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html)
 - [IHOBE, *Criterios ambientales*, 2022.](https://www.ihobe.eus/criterios-ambientales)
 {% endcallout %}

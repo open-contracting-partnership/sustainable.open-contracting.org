@@ -19,5 +19,5 @@ properties:
   Contient des critères sociaux:
     Oui: pink
   Hyperlien vers les critères:
-    - Critères: "https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
+    - Critères: "https://web.archive.org/web/20240418173410/https://www.abntonline.com.br/sustentabilidade/Rotulo/criterios"
 ---

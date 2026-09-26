@@ -69,7 +69,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the [prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be [included in procurement processes](/set-sustainability-criteria).
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-A good example of this guidance is the U.S. General Service Administration’s [Green Procurement Compilation (GPC) tool](https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
+A good example of this guidance is the U.S. General Service Administration’s [Green Procurement Compilation (GPC) tool](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement), which provides guidance regarding regulations, environmental considerations, and available labels for over 36 procurement categories.
 {% endcallout %}
 
 ## Create and share sustainability registries and catalogs
@@ -81,7 +81,7 @@ The suppliers included in these can be chosen according to the certain sustainab
 For more guidance on how to use procurement data to create SPP supplier registries see Option 9 in section three.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-An example of a catalog for environmental purchases is Thailand’s [Green Cart](http://gp.pcd.go.th/cat-1-ssl), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the [National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way [to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
+An example of a catalog for environmental purchases is Thailand’s [Green Cart](https://gp.pcd.go.th/), which is recommended within the legal framework as a way to purchase more sustainably. In Paraguay, the [National Registry of Family Agriculture (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) served as a way [to facilitate and promote the procurement of food and catering services](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) from this economic group. Another example comes from Chile’s [framework agreement for necessary goods and services in case of emergencies](http://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); selected suppliers are pre-screened by ChileCompra, the central purchasing body, to buy products from them in a fast and easy way when disaster hits.
 {% endcallout %}
 
 ## Set up a Help Desk and central information point
@@ -94,8 +94,8 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 
 {% callout gray /assets/images/Notion-others.svg label: Resources %}
 
-- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
-- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
+- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement).
+- [Pollution Control Department, Thailand. 2020. Green Cart](https://gp.pcd.go.th/).
 - [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
@@ -104,7 +104,7 @@ The Help Desk, as well as the rest of the supporting mechanisms developed for th
 
 In 2005, the Government of The Netherlands set up [PIANOo](https://www.pianoo.nl/en), **a knowledge network for government procurement officers and contracting authorities.** PIANOo was created with the aim of professionalizing procurement, seeking to improve efficiency and compliance.
 
-It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, **and a [criteria tool](https://www.mvicriteria.nl/nl) for public authorities to identify possible environmental requirements to include in tendering processes.**
+It also now incorporates a specific section of Sustainable Public Procurement (SPP), offering learning materials, guidance, **and a [criteria tool](https://www.mvicriteria.nl/en) for public authorities to identify possible environmental requirements to include in tendering processes.**
 
 The expertise center also includes information regarding best practice exchange meetings amongst procurement practitioners.
 {% endcallout %}

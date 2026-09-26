@@ -10,7 +10,7 @@ notion_id: "6f0dd15a42c04092a93227039791d374"
 sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.svg %}
-In 2002 the Government of Namibia ran a tender for the construction of the [Habitat Research Development Centre (HRDC)](https://murd.gov.na/hrdc), **a research institution for sustainable construction.** The project to build the centre itself also followed sustainability principles.
+In 2002 the Government of Namibia ran a tender for the construction of the [Habitat Research Development Centre (HRDC)](https://web.archive.org/web/20191231140956/http://www.murd.gov.na/hrdc), **a research institution for sustainable construction.** The project to build the centre itself also followed sustainability principles.
 
 The main objective of the project was to **promote traditional Namibian construction methods,** which is able to sustainably responsible to some of the main challenges posed by the local climate. With this in mind, **the [tender process](https://www.irbnet.de/daten/iconda/CIB_DC23125.pdf) was designed using a [two-stage tender](/elija-un-mtodo-de-contratacin) system.** In the first stage, suppliers were chosen, among other things, based on their construction experience, and their approach to sustainability and experimentation on site.
 

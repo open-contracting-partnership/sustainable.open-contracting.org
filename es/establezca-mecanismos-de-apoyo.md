@@ -73,7 +73,7 @@ Se puede ver más ejemplos y recursos para la vinculación de partes interesadas
 Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
+Un buen ejemplo de esta orientación es la herramienta de la herramienta [Green Procurement Compilation](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement) de la Administración General de Servicios (GSA) de Estados Unidos, que proporciona lineamientos en relación con reglamentos, aspectos ambientales, y etiquetas disponibles para más de 36 categorías de contratación.
 {% endcallout %}
 
 # Cree y comparta registros y catálogos de sostenibilidad
@@ -85,7 +85,7 @@ Los proveedores incluidos en estas listas pueden ser seleccionados de acuerdo co
 Para más orientación sobre el uso de datos de contratación para la creación de registros de proveedores de CPS, ver opción 9 en la sección 3.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de [Tailandia](http://gp.pcd.go.th/cat-1-ssl), que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el [Registro Nacional de Agricultura Familiar (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) actúa como facilitador y promotor de [la contratación de alimentos y servicios de abastecimientos](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) a este grupo económico. Otro ejemplo viene de Chile con [su acuerdo marco para bienes y servicios en caso de emergencias](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.
+Un ejemplo de un catálogo para las compras ambientales es la Carreta Verde (Green Cart) de [Tailandia](https://gp.pcd.go.th/), que se recomienda dentro del marco legal como una manera de comprar más sosteniblemente. En Paraguay, el [Registro Nacional de Agricultura Familiar (RENAF)](https://faolex.fao.org/docs/pdf/par178418.pdf) actúa como facilitador y promotor de [la contratación de alimentos y servicios de abastecimientos](https://www.iisd.org/publications/toward-strategic-public-procurement-latin-america-and-caribbean) a este grupo económico. Otro ejemplo viene de Chile con [su acuerdo marco para bienes y servicios en caso de emergencias](https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=2hYs6pzyr1WXbS47SijX2A==); los proveedores seleccionados están analizados en forma individual por ChileCompra, la energía centralizada de compras, para poder comprar productos a ellos rápida de fácilmente ante la ocurrencia de un desastre.
 {% endcallout %}
 
 ## Instale una Mesa de Asistencia Técnica y punto de información centralizado
@@ -98,8 +98,8 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 
 {% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
-- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://sftool.gov/greenprocurement).
-- [Pollution Control Department, Thailand. 2020. Green Cart](http://gp.pcd.go.th/cat-1-ssl).
+- [U.S. General Service Administration. 2022. Sustainable Facilities Tool](https://web.archive.org/web/2024/https://sftool.gov/greenprocurement).
+- [Pollution Control Department, Thailand. 2020. Green Cart](https://gp.pcd.go.th/).
 - [Federal Ministry of the Interior (BMI), Germany. Competence Center for Sustainable Procurement (KNB)](https://www.nachhaltige-beschaffung.info/DE/Home/home_node.html).
 - [IHOBE. 2022. Environmental Criteria (ES)](https://www.ihobe.eus/criterios-ambientales).
 {% endcallout %}
@@ -108,7 +108,7 @@ La Mesa de Asistencia Técnica, lo mismo que el resto de los mecanismos de apoyo
 
 En el año 2005 el gobierno de los Países Bajos instaló el [PIANOo](https://www.pianoo.nl/en), **como red de conocimiento para los funcionarios gubernamentales y las autoridades de contratación**. PIANOo fue creada con la intención de profesionalizar la contratación, y buscaba mejorar la eficiencia y cumplimiento.
 
-Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y [una herramienta de criterios](https://www.mvicriteria.nl/nl).
+Actualmente PIANOo contiene una sección específica de contratación pública sostenible (CPS), con una oferta de materiales de aprendizaje, orientación, y [una herramienta de criterios](https://www.mvicriteria.nl/en).
 
 **para las que las autoridades públicas pueden identificar los requisitos ambientales eventuales para ser incluidos el en los procesos de licitación**. El centro de experticio además incluye información sobre las reuniones de intercambio de mejores prácticas entre los responsables de contratación.
 {% endcallout %}

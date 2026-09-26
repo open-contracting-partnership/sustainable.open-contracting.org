@@ -41,4 +41,4 @@ Source: [https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis
 
 {% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png 1942 1448 %}
 
-Source: [https://spendnetwork.com/carbon/](https://spendnetwork.com/carbon/)
+Source: [https://spendnetwork.com/carbon/](https://web.archive.org/web/20231227042934/https://spendnetwork.com/carbon)

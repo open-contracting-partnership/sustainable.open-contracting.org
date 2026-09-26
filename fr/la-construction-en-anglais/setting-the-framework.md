@@ -90,7 +90,7 @@ Green construction accreditations cover many aspects of construction projects, *
 
 **Finding relevant ecolabels in the construction sector:**
 
-- [Construction Materials. SF Tool](https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
+- [Construction Materials. SF Tool](https://web.archive.org/web/20250417220638/https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
 
   S.F. Tool is a tool for procurers provided by the U.S. General Service Administration (GSA) that includes information on product sustainability specifications, and relevant certifications, in the construction sector.
 - [Ecolabelling Standards by Product Category. Global Ecolabelling Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/)

@@ -50,13 +50,13 @@ Al considerar los costos más allá del precio de adquisición incluidos los de 
 
 - **Asegure el cumplimiento de las normas actuales de sostenibilidad**
 
-Finalmente, ya existen varias normas de sostenibilidad vigentes a nivel nacional e internacional. Si usted se asegura que todos los proveedores cumplen con esas normas, eso también es una manera de lograr una contratación más sostenible. Las normas vigentes podrían incluir, por ejemplo, reglas sobre la disposición de desechos a nivel nacional, o convenciones nacionales ratificadas como las de la [Organización Internacional del Trabajo (OIT)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm).
+Finalmente, ya existen varias normas de sostenibilidad vigentes a nivel nacional e internacional. Si usted se asegura que todos los proveedores cumplen con esas normas, eso también es una manera de lograr una contratación más sostenible. Las normas vigentes podrían incluir, por ejemplo, reglas sobre la disposición de desechos a nivel nacional, o convenciones nacionales ratificadas como las de la [Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/normas-internacionales-del-trabajo/convenios-protocolos-y-recomendaciones).
 
 {% endtoggle %}
 
 {% toggle **Cómo implementar CPS cuando puede considerar criterios diferentes a precio.**  %}
 
-Algunos regímenes de contratación podrían permitir el uso de criterios diferentes a precio en la evaluación de ofertas. Por ejemplo, en Europa, esto es así con el concepto de la oferta ecológicamente más ventajosa ([MEAT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32014L0024)).
+Algunos regímenes de contratación podrían permitir el uso de criterios diferentes a precio en la evaluación de ofertas. Por ejemplo, en Europa, esto es así con el concepto de la oferta ecológicamente más ventajosa ([MEAT](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A32014L0024)).
 
 En tal caso, igualmente se puede diseñar un proceso de evaluación para que la sostenibilidad forme parte de los criterios de adjudicación (además de utilizar las prácticas SPP mencionadas en contextos que solamente permiten la selección de la oferta más baja. Al decidir cuáles criterios se deben incluir, como podría ser de utilidad alinearse con las prioridades expresadas en planes y políticas de sostenibilidad a nivel nacional y local (por ejemplo, las metas de cero neto). Para mayor información sobre el establecimiento de este criterio, ver la sección Define criterios de sostenibilidad.
 

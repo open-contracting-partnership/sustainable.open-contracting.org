@@ -22,7 +22,7 @@ La Organización de Normas Internacionales (ISO) actualmente clasifica las etiqu
 
 {% toggle **Tipo I (ISO 14024)** %}
 
-Estas etiquetas son voluntarias, basadas en criterios múltiples, otorgadas por terceros e indican la preferencia ambiental de un producto según las consideraciones del ciclo de vida. Estos incluyen etiquetas como [Nordic Swan](https://www.nordic-swan-ecolabel.org/) o [German Blue Angel. Vale la pena señalar](https://www.blauer-engel.de/en) que este tipo de ecoetiquetas generalmente incluyen diferentes tarifas de solicitud y licencia para las MIPYME. Ejemplos de esto son la [Etiqueta Ecológica Nórdica](https://www.nordic-swan-ecolabel.org/how-to-apply/costs/), que ofrece una reducción del 50 % para las microempresas y basa los derechos de licencia en la facturación; y la estructura de costes de la etiqueta ecológica de la UE.
+Estas etiquetas son voluntarias, basadas en criterios múltiples, otorgadas por terceros e indican la preferencia ambiental de un producto según las consideraciones del ciclo de vida. Estos incluyen etiquetas como [Nordic Swan](https://www.nordic-swan-ecolabel.org/) o [German Blue Angel. Vale la pena señalar](https://www.blauer-engel.de/en) que este tipo de ecoetiquetas generalmente incluyen diferentes tarifas de solicitud y licencia para las MIPYME. Ejemplos de esto son la [Etiqueta Ecológica Nórdica](https://www.nordic-swan-ecolabel.org/how-to-apply/costs/), que ofrece una reducción del 50 % para las microempresas y basa los derechos de licencia en la facturación; y la [estructura de costes de la etiqueta ecológica de la UE](https://web.archive.org/web/20230208002512/https://www.ecolabel.dk/en/become-certified/what-does-it-cost/eu-ecolabel).
 
 {% endtoggle %}
 
