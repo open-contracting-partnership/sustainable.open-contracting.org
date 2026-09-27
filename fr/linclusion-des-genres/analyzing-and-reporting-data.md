@@ -19,7 +19,6 @@ This means that the definition of women-owned and women-led businesses needs to 
 
 The methodology needs to be standardised as well. For gender pay, it might mean comparing the pay of men to women as an absolute value. This might appear to be a simpler approach but raises issues of comparability.  A better approach is to compare pay on a role by role basis. For instance, listing the roles within an organisation:
 
-```text
 - Director
 - Manager
 - Consultant
@@ -27,6 +26,5 @@ The methodology needs to be standardised as well. For gender pay, it might mean 
 - Administrative assistant
 - HR
 - Accounting
-```
 
 This way, the pay of females and males in a firm can be directly: for instance average pay for female analysts compared to male analysts.
