@@ -1,19 +1,90 @@
-// Toggle blocks.
-document.querySelectorAll(".notion-toggle__summary").forEach((summary) => {
-  summary.addEventListener("click", () => {
-    const toggle = summary.parentElement;
-    const open = toggle.classList.toggle("open");
-    toggle.classList.toggle("closed", !open);
-    summary.nextElementSibling.style.display = open ? "" : "none";
+/*
+ * Navbar
+ */
+
+// Breadcrumbs that don't fit, from the second, in a dropdown menu after the first, as on Super.so.
+const breadcrumb = document.querySelector(".notion-breadcrumb");
+if (breadcrumb) {
+  const crumbs = [...breadcrumb.children];
+  const item = document.createElement("li");
+  item.innerHTML = `<span class="notion-breadcrumb__divider" aria-hidden="true">/</span><div class="notion-dropdown">
+    <button type="button" class="notion-breadcrumb__item notion-breadcrumb__ellipsis" aria-expanded="false">...</button>
+    <div class="notion-dropdown__menu-wrapper"><div class="notion-dropdown__menu initial-state">
+      <div class="notion-breadcrumb__dropdown"><ul class="notion-dropdown__option-list"></ul></div>
+    </div></div>
+  </div>`;
+  const button = item.querySelector("button");
+  const menu = item.querySelector(".notion-dropdown__menu");
+  const list = item.querySelector("ul");
+  button.setAttribute("aria-label", breadcrumb.dataset.label);
+
+  const toggle = (open) => {
+    if (open === (button.getAttribute("aria-expanded") === "true")) return;
+    button.setAttribute("aria-expanded", open);
+    menu.classList.remove("initial-state", "animate-in", "animate-out");
+    menu.classList.add(open ? "animate-in" : "animate-out");
+  };
+
+  // The breadcrumbs don't fit if they overflow, or if the last crumb's title is narrower than it would be.
+  const last = crumbs.at(-1).querySelector(".notion-breadcrumb__title");
+  const fits = () =>
+    breadcrumb.scrollWidth <= breadcrumb.clientWidth &&
+    last.clientWidth >= Math.min(last.scrollWidth, Number.parseFloat(getComputedStyle(last).maxWidth) || Infinity);
+
+  const fit = () => {
+    toggle(false);
+    item.remove();
+    list.replaceChildren();
+    crumbs.forEach((crumb) => {
+      crumb.hidden = false;
+    });
+    for (const crumb of crumbs.slice(1, -1)) {
+      if (fits()) break;
+      if (!item.isConnected) crumbs[0].after(item);
+      crumb.hidden = true;
+      const link = crumb.querySelector("a");
+      const option = document.createElement("li");
+      // Crumbs after the first are its descendants.
+      const arrow = list.children.length
+        ? `<p class="notion-breadcrumb__dropdown-option-arrow" aria-hidden="true">↳</p>`
+        : "";
+      option.innerHTML = `<a class="notion-link"><div class="notion-dropdown__option">${arrow}<p class="notion-breadcrumb__dropdown-option-title"></p></div></a>`;
+      option.querySelector("a").href = link.href;
+      const title = option.querySelector(".notion-breadcrumb__dropdown-option-title");
+      title.textContent = link.textContent.trim();
+      const icon = link.querySelector("img");
+      if (icon) title.before(icon.cloneNode());
+      list.append(option);
+    }
+  };
+
+  button.addEventListener("click", () => toggle(button.getAttribute("aria-expanded") !== "true"));
+  document.addEventListener("click", (event) => {
+    if (!item.contains(event.target)) toggle(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") toggle(false);
+  });
+  new ResizeObserver(fit).observe(breadcrumb);
+  document.fonts.ready.then(fit);
+}
+
+// The sidebar's and languages' menus on phones: close them on Escape or a click outside them.
+document.querySelectorAll(".sidebar-menu, .language-menu").forEach((menu) => {
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && menu.open) {
+      menu.open = false;
+      menu.querySelector("summary").focus();
+    }
+  });
+  document.addEventListener("click", (event) => {
+    if (menu.open && !menu.contains(event.target)) menu.open = false;
   });
 });
 
-// Copy buttons on code blocks.
-document.querySelectorAll(".notion-code__copy-button").forEach((button) => {
-  button.addEventListener("click", () => {
-    navigator.clipboard.writeText(button.parentElement.querySelector("code").innerText);
-  });
-});
+/*
+ * Search
+ */
 
 // Search, with Pagefind's index (built after Jekyll), in Super.so's search dialog.
 const search = document.querySelector(".notion-search");
@@ -143,83 +214,24 @@ if (search) {
   });
 }
 
-// Breadcrumbs that don't fit, from the second, in a dropdown menu after the first, as on Super.so.
-const breadcrumb = document.querySelector(".notion-breadcrumb");
-if (breadcrumb) {
-  const crumbs = [...breadcrumb.children];
-  const item = document.createElement("li");
-  item.innerHTML = `<span class="notion-breadcrumb__divider" aria-hidden="true">/</span><div class="notion-dropdown">
-    <button type="button" class="notion-breadcrumb__item notion-breadcrumb__ellipsis" aria-expanded="false">...</button>
-    <div class="notion-dropdown__menu-wrapper"><div class="notion-dropdown__menu initial-state">
-      <div class="notion-breadcrumb__dropdown"><ul class="notion-dropdown__option-list"></ul></div>
-    </div></div>
-  </div>`;
-  const button = item.querySelector("button");
-  const menu = item.querySelector(".notion-dropdown__menu");
-  const list = item.querySelector("ul");
-  button.setAttribute("aria-label", breadcrumb.dataset.label);
+/*
+ * Blocks
+ */
 
-  const toggle = (open) => {
-    if (open === (button.getAttribute("aria-expanded") === "true")) return;
-    button.setAttribute("aria-expanded", open);
-    menu.classList.remove("initial-state", "animate-in", "animate-out");
-    menu.classList.add(open ? "animate-in" : "animate-out");
-  };
-
-  // The breadcrumbs don't fit if they overflow, or if the last crumb's title is narrower than it would be.
-  const last = crumbs.at(-1).querySelector(".notion-breadcrumb__title");
-  const fits = () =>
-    breadcrumb.scrollWidth <= breadcrumb.clientWidth &&
-    last.clientWidth >= Math.min(last.scrollWidth, Number.parseFloat(getComputedStyle(last).maxWidth) || Infinity);
-
-  const fit = () => {
-    toggle(false);
-    item.remove();
-    list.replaceChildren();
-    crumbs.forEach((crumb) => {
-      crumb.hidden = false;
-    });
-    for (const crumb of crumbs.slice(1, -1)) {
-      if (fits()) break;
-      if (!item.isConnected) crumbs[0].after(item);
-      crumb.hidden = true;
-      const link = crumb.querySelector("a");
-      const option = document.createElement("li");
-      // Crumbs after the first are its descendants.
-      const arrow = list.children.length
-        ? `<p class="notion-breadcrumb__dropdown-option-arrow" aria-hidden="true">↳</p>`
-        : "";
-      option.innerHTML = `<a class="notion-link"><div class="notion-dropdown__option">${arrow}<p class="notion-breadcrumb__dropdown-option-title"></p></div></a>`;
-      option.querySelector("a").href = link.href;
-      const title = option.querySelector(".notion-breadcrumb__dropdown-option-title");
-      title.textContent = link.textContent.trim();
-      const icon = link.querySelector("img");
-      if (icon) title.before(icon.cloneNode());
-      list.append(option);
-    }
-  };
-
-  button.addEventListener("click", () => toggle(button.getAttribute("aria-expanded") !== "true"));
-  document.addEventListener("click", (event) => {
-    if (!item.contains(event.target)) toggle(false);
+// Toggle blocks.
+document.querySelectorAll(".notion-toggle__summary").forEach((summary) => {
+  summary.addEventListener("click", () => {
+    const toggle = summary.parentElement;
+    const open = toggle.classList.toggle("open");
+    toggle.classList.toggle("closed", !open);
+    summary.nextElementSibling.style.display = open ? "" : "none";
   });
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") toggle(false);
-  });
-  new ResizeObserver(fit).observe(breadcrumb);
-  document.fonts.ready.then(fit);
-}
+});
 
-// The sidebar's and languages' menus on phones: close them on Escape or a click outside them.
-document.querySelectorAll(".sidebar-menu, .language-menu").forEach((menu) => {
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape" && menu.open) {
-      menu.open = false;
-      menu.querySelector("summary").focus();
-    }
-  });
-  document.addEventListener("click", (event) => {
-    if (menu.open && !menu.contains(event.target)) menu.open = false;
+// Copy buttons on code blocks.
+document.querySelectorAll(".notion-code__copy-button").forEach((button) => {
+  button.addEventListener("click", () => {
+    navigator.clipboard.writeText(button.parentElement.querySelector("code").innerText);
   });
 });
 
