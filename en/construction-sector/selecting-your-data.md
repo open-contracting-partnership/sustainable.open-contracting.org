@@ -121,7 +121,7 @@ In a tender process, the selection of local companies, SMEs, or women-owned comp
 
 **Including construction sustainability criteria in tender documents:**
 
-- [Civil Works Contract Model. IHOBE (ES)](https://www.ihobe.eus/CriteriosAmbientales/Ficha.aspx?IdMenu=244677a9-6fc5-4e48-b375-3283c46421fe&Cod=0e4a8c33-e470-4792-b0f2-58ed3b554490&Idioma=es-ES)
+- [Civil works: summary of environmental criteria. IHOBE (ES)](https://www.ihobe.eus/sites/default/files/2025-05/27-OBRACIVIL_Ficha%20resumen_CAS.pdf)
 
   IHOBE provides examples of how to introduce sustainability criteria regarding construction materials on a tender document, as well as how data should be required of the bidders.
 - [EU Green Public Procurement Criteria for Road Design, Construction and Maintenance. 2016. European Commission](<https://circabc.europa.eu/ui/group/44278090-3fae-4515-bcc2-44fd57c1d0d1/library/bc468fa0-c88f-4c2b-a33f-af55e713ca5d/details>)

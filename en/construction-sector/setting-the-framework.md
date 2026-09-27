@@ -56,7 +56,7 @@ These accreditations can help you identify environmentally preferable suppliers.
 
 {% toggle **Product accreditations** %}
 
-Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products-list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [this directory](https://globalecolabelling.net/eco/eco-friendly-products-by-category/).
+Identifying sustainability accreditations for construction products can help guide specifications regarding material use for the construction stage. These accreditations include ecolabel [Energy Star](https://www.energystar.gov/products/products-list), which identifies energy-efficient appliances, including building products. For more information on the different ecolabels available for construction products see [the Global Ecolabelling Network's directory of ecolabels](https://globalecolabelling.net/organisations/), which can be filtered by product category.
 
 {% endtoggle %}
 
@@ -93,7 +93,7 @@ Green construction accreditations cover many aspects of construction projects, *
 - [Construction Materials. SF Tool](https://web.archive.org/web/20250417220638/https://sftool.gov/greenprocurement/green-products/1/construction-materials/0)
 
   S.F. Tool is a tool for procurers provided by the U.S. General Service Administration (GSA) that includes information on product sustainability specifications, and relevant certifications, in the construction sector.
-- [Ecolabelling Standards by Product Category. Global Ecolabelling Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/)
+- [Member ecolabels, by product category. Global Ecolabelling Network](https://globalecolabelling.net/organisations/)
 
   The Global Ecolabelling Network provides information on what Type I ecolabels include standards for products in the construction sector.
 {% endcallout %}

@@ -98,7 +98,7 @@ The task force consists of nine people, and is entitled to visit all types of wo
 
 **Engaging civil society in monitoring activities:**
 
-- [MONITORES CIUDADANOS DE CONTROL I PERU](https://monitorciudadano.contraloria.gob.pe/) (ES)
+- [MONITORES CIUDADANOS DE CONTROL I PERU](https://www.gob.pe/institucion/contraloria/colecciones/17083-monitores-ciudadanos-de-control-documentos) (ES)
 
   Peru has established a system that allows citizens to visit construction sites at the beginning, during, and/or completion of public works in order to monitor the construction progress.
 - [ELEFANTES BLANCOS APP I COLOMBIA](https://www.contraloriamonteria.gov.co/index.php/news/140-app-elef-blancos) (ES)

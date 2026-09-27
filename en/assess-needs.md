@@ -102,7 +102,7 @@ Framing user needs in terms of outcomes can help to encourage innovative sustain
 Once you have identified the needs, you should translate them into a needs statement. The statement should include information about the needs identified, and the procurement alternatives that have been considered.
 
 {% callout red /assets/images/Pin_Red.svg %}
-**For an example of a needs statement, page 2 of the European Commission’s [Module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>), provides the following:**
+**For an example of a needs statement, the European Commission’s [Module 4](<https://circabc.europa.eu/ui/group/44278090-3fae-4515-bcc2-44fd57c1d0d1/library/35b7b128-ffa9-44e4-95c9-b5cba4a6a5a4?p=1&n=10&sort=name_ASC>) provides the following:**
 
 ”The Department has identified a need for 6 smart screens for use in its 12 meeting rooms. The screens will facilitate web-conferencing and reduce the need for document printing.
 

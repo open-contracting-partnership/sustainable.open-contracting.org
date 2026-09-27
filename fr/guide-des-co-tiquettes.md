@@ -32,7 +32,7 @@ Ces étiquettes sont des déclarations environnementales réalisées par les ent
 
 {% toggle **Type III (ISO 14025)** %}
 
-Ces étiquettes sont des déclarations qui font état de l’analyse du cycle de vie d’un produit spécifique et présentent la méthodologie, les hypothèses et les sources de données. Les résultats comprennent des données environnementales quantifiées, comme les émissions de CO2, et sont vérifiés par un tiers. Dans cette catégorie, nous trouvons par exemple les déclarations environnementales de produit, qui sont souvent utilisées pour les matériaux de construction. Voir, par exemple, [cette déclaration environnementale de produits composés d’acier](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf). Ces déclarations ne constituent pas des évaluations, c’est-à-dire qu’elles ne constituent pas une preuve de certification ou de certification par des éco-étiquettes de type I, mais elles fournissent des données objectives permettant aux consommateurs de faire des comparaisons.
+Ces étiquettes sont des déclarations qui font état de l’analyse du cycle de vie d’un produit spécifique et présentent la méthodologie, les hypothèses et les sources de données. Les résultats comprennent des données environnementales quantifiées, comme les émissions de CO2, et sont vérifiés par un tiers. Dans cette catégorie, nous trouvons par exemple les déclarations environnementales de produit, qui sont souvent utilisées pour les matériaux de construction. Voir, par exemple, [cette déclaration environnementale de produits composés d’acier](https://www.environdec.com/library/epd11624). Ces déclarations ne constituent pas des évaluations, c’est-à-dire qu’elles ne constituent pas une preuve de certification ou de certification par des éco-étiquettes de type I, mais elles fournissent des données objectives permettant aux consommateurs de faire des comparaisons.
 
 {% endtoggle %}
 
@@ -68,7 +68,7 @@ Enfin, les déclarations environnementales de produit correspondant aux éco-ét
 
 ## Comment repérer les éco-étiquettes pertinentes ?
 
-Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
+Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/organisations/) propose un répertoire des éco-étiquettes de ses membres, que l’on peut filtrer par catégorie de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
 
 ### Éco-étiquettes
 

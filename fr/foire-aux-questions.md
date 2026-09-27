@@ -107,7 +107,7 @@ Le Global Ecolabelling Network [définit l’éco-étiquetage](https://globaleco
 
 Les éco-étiquettes de type I et apparentées au type I divulguent généralement les critères à respecter pour recevoir la certification. Pour renforcer la durabilité des marchés publics, vous pouvez demander aux fournisseurs de respecter les critères définis par un programme de certification spécifique ou reprendre certains de ces critères dans les spécifications d’un marché.
 
-Consultez [ce guide](/guide-des-co-tiquettes) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services.
+Consultez [ce guide](/guide-des-co-tiquettes) pour en savoir plus sur l’utilisation d’éco-étiquettes dans les processus de passation de marchés. Pour connaître les éco-étiquettes de type I à votre disposition, le [Global Ecolabel Network](https://globalecolabelling.net/organisations/) propose un répertoire des éco-étiquettes de ses membres, que l’on peut filtrer par catégorie de produits et services.
 
 {% endtoggle %}
 

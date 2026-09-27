@@ -32,7 +32,7 @@ These types of labels are self-declared environmental claims made internally by 
 
 {% toggle **Type III (ISO 14025)** %}
 
-These are declarations that report on the life-cycle analysis results of a particular product, along with a summary of the methodology, assumptions and data sources. The results include quantified environmental data, such as Co2 emissions, and are verified by a third party. In this group we find, for example, Environmental Product Declarations (EPD), which are often used for construction materials. See, for example, [this EPD](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf) for a product made of steel. These declarations do not provide an assessment - that is a product is not certified, or non-certified like with Type I labels - instead, they provide objective data for the consumer to make the comparisons.
+These are declarations that report on the life-cycle analysis results of a particular product, along with a summary of the methodology, assumptions and data sources. The results include quantified environmental data, such as Co2 emissions, and are verified by a third party. In this group we find, for example, Environmental Product Declarations (EPD), which are often used for construction materials. See, for example, [this EPD](https://www.environdec.com/library/epd11624) for a product made of steel. These declarations do not provide an assessment - that is a product is not certified, or non-certified like with Type I labels - instead, they provide objective data for the consumer to make the comparisons.
 
 {% endtoggle %}
 
@@ -68,7 +68,7 @@ Finally, Type III EPDs can be very useful to compare amongst different products,
 
 ## How can you find relevant ecolabels?
 
-As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction](/construction-sector).
+As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/organisations/) offers a directory of its members' ecolabels, which can be filtered by product and service category. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction](/construction-sector).
 
 ### Ecolabels
 

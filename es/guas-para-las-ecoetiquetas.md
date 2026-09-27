@@ -32,7 +32,7 @@ Este tipo de etiquetas son reivindicaciones ambientales autodeclaradas realizada
 
 {% toggle **Tipo III (ISO 14025)** %}
 
-Estas son declaraciones que informan sobre los resultados del análisis del ciclo de vida de un producto en particular, junto con un resumen de la metodología, supuestos y fuentes de datos. Los resultados incluyen datos ambientales cuantificados, como las emisiones de Co2, y son verificados por un tercero. En este grupo encontramos, por ejemplo, las Declaraciones Ambientales de Producto (EPD), que se suelen utilizar para los materiales de construcción. Véase, por ejemplo, [esta EPD](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf) para un producto fabricado en acero. Estas declaraciones no brindan una evaluación, es decir, un producto no está certificado o no certificado como con las etiquetas Tipo I, sino que brindan datos objetivos para que el consumidor haga las comparaciones.
+Estas son declaraciones que informan sobre los resultados del análisis del ciclo de vida de un producto en particular, junto con un resumen de la metodología, supuestos y fuentes de datos. Los resultados incluyen datos ambientales cuantificados, como las emisiones de Co2, y son verificados por un tercero. En este grupo encontramos, por ejemplo, las Declaraciones Ambientales de Producto (EPD), que se suelen utilizar para los materiales de construcción. Véase, por ejemplo, [esta EPD](https://www.environdec.com/library/epd11624) para un producto fabricado en acero. Estas declaraciones no brindan una evaluación, es decir, un producto no está certificado o no certificado como con las etiquetas Tipo I, sino que brindan datos objetivos para que el consumidor haga las comparaciones.
 
 {% endtoggle %}
 
@@ -68,7 +68,7 @@ Finalmente, las EPD de Tipo III pueden ser muy útiles para comparar entre difer
 
 ## ¿Cómo puede encontrar etiquetas ecológicas relevantes?
 
-Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según las categorías de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](/sector-ict-en-ingls) y [construcción](/sector-de-la-construccin-en-ingls).
+Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/organisations/) ofrece un directorio de las ecoetiquetas de sus miembros, que se puede filtrar por categoría de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](/sector-ict-en-ingls) y [construcción](/sector-de-la-construccin-en-ingls).
 
 ### Ecoetiquetas
 

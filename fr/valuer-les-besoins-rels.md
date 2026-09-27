@@ -103,7 +103,7 @@ Le fait de formuler les besoins des bénéficiaires sous la forme de résultats 
 Une fois que vous avez recensé les besoins des bénéficiaires, vous devez dresser un exposé des besoins. Cet exposé doit inclure des informations concernant les besoins recensés et les possibilités d’achat envisagées.
 
 {% callout red /assets/images/Pin_Red.svg %}
-**À titre d’exemple d’exposé des besoins, la page 2 de la documentation accompagnant le** [module 4](<https://ec.europa.eu/environment/gpp/toolkit_en.htm#:~:text=The%20GPP%20Training%20Toolkit%20is,trainer%20notes)%20and%20accompanying%20guidance.>) de la Commission européenne fournit les informations suivantes :
+**À titre d’exemple d’exposé des besoins, la documentation accompagnant le** [module 4](<https://circabc.europa.eu/ui/group/44278090-3fae-4515-bcc2-44fd57c1d0d1/library/35b7b128-ffa9-44e4-95c9-b5cba4a6a5a4?p=1&n=10&sort=name_ASC>) de la Commission européenne fournit les informations suivantes :
 
 « Le Département a repéré un besoin de six écrans intelligents pour ses 12 salles de réunion. Les écrans faciliteront la tenue des conférences en ligne et réduiront les besoins en matière d’impression de documents.
 

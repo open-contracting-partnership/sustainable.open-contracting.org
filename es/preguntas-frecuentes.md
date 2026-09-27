@@ -112,7 +112,7 @@ Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolab
 
 Las ecoetiquetas Tipo I y Tipo I generalmente publican los criterios que deben cumplirse para recibir la certificación. Para adquirir de manera más sostenible, puede solicitar a los proveedores que cumplan con los criterios establecidos por una etiqueta específica, o utilizar algunos de los criterios para redactar especificaciones en un contrato.
 
-Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](/guas-para-las-ecoetiquetas). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según categorías de productos y servicios.
+Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](/guas-para-las-ecoetiquetas). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/organisations/) ofrece un directorio de las ecoetiquetas de sus miembros, que se puede filtrar por categoría de productos y servicios.
 
 {% endtoggle %}
 

@@ -116,7 +116,7 @@ Identifiers enable you to link data together from different systems. Central to 
 
 Also in the OCDS schema is further guidance on identifiers that can be used to help you join and cross reference contracting data, including corporate IDs for contractors and organizational identifiers to track who is involved in the formation and management of contracts.
 
-A lack of coherent identifiers in government information systems structurally damages data quality and can seriously hamper data collection and analysis but there are some [simple strategies that can help anyone make progress](https://standard.open-contracting.org/latest/en/schema/identifiers/).
+A lack of coherent identifiers in government information systems structurally damages data quality and can seriously hamper data collection and analysis but there are some [simple strategies that can help anyone make progress](https://standard.open-contracting.org/latest/en/guidance/map/organization_identifiers/).
 
 [Our "Green Flags" guide](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) outlines how to "tag" specific procurements as green as a key first step towards measuring SPP outcomes. This is only possible if you have good quality contract data, with clear contractual identifiers. In [section three](/open-data-measuring-progress) of this toolkit, we show you how to build on this approach to generate detailed, granular SPP evidence.
 
