@@ -10,7 +10,7 @@ sidebar: true
 **En esta segunda sección, le proporcionamos la información que usted necesita para integrar sostenibilidad en un proceso** específico de contratación. Como se puede ver en el diagama a continuación, cada una de las seis subsecciones establece una respuesta and una pregunta clave que puede surgir cuando se considera sostenibilidad durante el ciclo de vida de una contratación.
 {% endcallout %}
 
-# Haga click para obtener más información
+# En esta sección
 
 {% gallery medium %}
 

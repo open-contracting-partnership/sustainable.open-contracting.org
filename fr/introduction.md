@@ -30,7 +30,7 @@ Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'intr
 
 ![Introduction, informations clés sur ce guide : comment utiliser ce guide pratique ? (comment ce guide est structuré et à qui il s’adresse), définition (que désignent les marchés publics durables et ouverts ?) et les ressources que vous avez demandées (comment les besoins des utilisateurs ont influencé la conception de ce guide)](/assets/images/Group_2Introduction-3.png){: .wide}
 
-# Click through to learn more
+# Dans cette section
 
 {% gallery large %}
 

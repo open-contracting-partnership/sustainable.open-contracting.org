@@ -23,7 +23,7 @@ Los proyectos relacionados con cada uno de **estos tipos de bienes normalmente s
 
 ![Los cuatro pasos de la CPS abierta en el sector de la construcción: establecer el marco de trabajo (identificar la normativa pertinente, como los códigos de construcción ecológica, y buscar normas de sostenibilidad existentes, como ISO 14001, BREEAM, LEED y EDGE); seleccionar sus datos (seleccionar las variables de sostenibilidad clave, como el uso de materiales, los residuos generados y la eficiencia energética, y decidir cómo usarlas para seleccionar a los proveedores); recopilar los datos (solicitar la documentación pertinente, como las listas de cantidades y las declaraciones ambientales de producto, y reunir pruebas durante la implementación, como los informes de control de calidad y las auditorías de terceros); y apoyar una CPS abierta efectiva (definir sus necesidades y entender la capacidad del mercado, como la integración temprana de la cadena de suministro, y seleccionar las mejores prácticas de contratación, como la contratación basada en resultados y la licitación en dos etapas)](/assets/images/D4_-_Construction_Diagram.jpg){: .wide}
 
-# Haga clic para mayor información
+# En esta sección
 
 {% gallery medium %}
 

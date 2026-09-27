@@ -14,7 +14,7 @@ As you can see on the diagram below, we have created five subsections to meet th
 
 ![Plan, setting up your strategy: establish an enabling environment (what can you do within current regulations?), prioritize (where should you start?), monitoring and evaluation (what are your objectives and how will you measure progress?), build support and capabilities (what can you do to facilitate implementation?), and create an action plan (how can you openly communicate your strategy?)](/assets/images/Group_1Plan-3.png){: .wide}
 
-# Click through to learn more
+# In this section
 
 {% gallery medium %}
 

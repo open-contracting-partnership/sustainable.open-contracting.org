@@ -51,7 +51,7 @@ Nous avons recensé trois types d’environnements :
 
 {% endtoggle %}
 
-# Cliquez sur une section pour en savoir plus
+# Dans cette section
 
 {% gallery medium %}
 

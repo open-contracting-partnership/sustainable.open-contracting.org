@@ -12,7 +12,7 @@ sidebar: true
 
 ![Implement, embedding sustainability into your procurement: assess needs (how can you consider sustainability when deciding what to procure?), choose a procurement method (what procurement tools can you use?), engage with the market (how can you discuss sustainability with your suppliers?), set sustainability criteria (how do you evaluate sustainability in the procurement process?), prepare contract obligations (how can you translate sustainability requirements into contract obligations?), and monitor implementation (how do you ensure that sustainability criteria are met?)](/assets/images/Group_3Implement.png){: .wide}
 
-# Click through to learn more
+# In this section
 
 {% gallery medium %}
 

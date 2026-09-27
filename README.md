@@ -130,7 +130,7 @@ The table of options for data use is an `{% options_table /options-for-data-use 
 
 A preview of another page's table, like the monitoring and evaluation page's example from the sample framework, is a `{% table_row /monitoring-evaluation/sample-me-framework Tonnes of Co2 associated with public contracts %}` tag: the first table on that page, with its options, but only its header and the row with that cell, so that the row is edited once. The build fails if no row, or more than one, has that cell.
 
-Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards. A gallery's title, if any, is a Markdown heading before it, like a section's table of contents ("Click through to learn more"), or a paragraph, like an instruction:
+Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards. A gallery's title, if any, is a Markdown heading before it, like a section's table of contents ("In this section"), or a paragraph, like an instruction:
 
 ```liquid
 {% gallery medium %}

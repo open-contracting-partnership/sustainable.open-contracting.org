@@ -30,7 +30,7 @@ As you can see on the diagram below, **in this introductory section we provide y
 
 ![Introduction, key information about this toolkit: how to use this toolkit (how this toolkit is structured and who it is for), what is Open SPP? (what Open SPP is and how it works), and what our users told us (how user needs shaped the design of this toolkit)](/assets/images/Group_2Introduction-2.png){: .wide}
 
-# Click through to learn more
+# In this section
 
 {% gallery large %}
 

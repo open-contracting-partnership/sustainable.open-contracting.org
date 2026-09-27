@@ -12,7 +12,7 @@ sidebar: true
 Dans cette section, nous fournissons des conseils spécifiques sur la manière d'intégrer la durabilité dans les processus d'approvisionnement en construction et en TIC. Cela comprend des conseils relatifs aux certifications pertinentes qui peuvent être utilisées comme référence, des critères de durabilité clés à prendre en compte, des options pour collecter les données nécessaires auprès des fournisseurs et des méthodes d'approvisionnement utiles qui peuvent soutenir le processus.
 {% endcallout %}
 
-# Cliquez sur une section pour en savoir plus
+# Dans cette section
 
 {% gallery medium %}
 

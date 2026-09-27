@@ -54,7 +54,7 @@ Click through to learn more about these three environments:
 As we explain in the introduction to this toolkit, high-quality open data is crucial for driving and measuring progress when implementing SPP. **To tackle key data foundations, we recommend consulting our [Green Flags guidance](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/), and the [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).**
 {% endcallout %}
 
-## Click through to learn more
+## In this section
 
 {% gallery medium %}
 
