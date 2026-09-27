@@ -20,10 +20,11 @@ hide_title: true
 {% endcallout %}
 
 {% callout yellow /assets/images/Icons_Grey3.svg %}
-*Ce guide pratique sur les marchés publics durables et ouverts est également disponible en espagnol et en anglais.*
+*Ce guide pratique sur les marchés publics durables et ouverts est également disponible en espagnol, en anglais et en portugais.*
 
 - [Access the toolkit in English](https://sustainable.open-contracting.org/){: lang="en"}
 - [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/){: lang="es"}
+- [Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
 {% endcallout %}
 
 ![La structure du guide pratique : une introduction aux marchés publics durables et ouverts et à ce guide, puis trois parties, chacune avec ses pages : 1. Planification, ce que vous pouvez faire pour mettre en place le meilleur cadre de mise en œuvre ; 2. Mise en œuvre, comment mettre en œuvre les marchés publics durables et ouverts pendant la passation des marchés ; et 3. Données ouvertes et évaluation des progrès, comment utiliser les données ouvertes pour favoriser et mesurer les progrès vers les objectifs de durabilité](/assets/images/Structure_Diagram_fr.png){: .wide}

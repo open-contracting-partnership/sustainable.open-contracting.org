@@ -30,3 +30,8 @@ A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herr
 ## Para cuando esté considerando sus opciones para el seguimiento de la sostenibilidad en su contratación
 
 - [Table of options for data use](/opciones-para-el-uso-de-datos/tabla-de-opciones-para-uso-de-datos)
+
+## Para cuando necesite un resumen rápido
+
+- [Resumen de políticas: Contratación pública abierta y sostenible. Para las personas, el planeta y la prosperidad](https://www.open-contracting.org/es/resources/open-sustainable-government-procurement-for-people-planet-and-prosperity/) (en inglés)
+- Video de introducción (en inglés): [Cómo implementar la contratación pública abierta y sostenible](https://www.youtube.com/watch?v=tUlB2sv-muI)

@@ -20,10 +20,11 @@ hide_title: true
 {% endcallout %}
 
 {% callout yellow /assets/images/Icons_Grey3.svg %}
-*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés y francés.*
+*Este conjunto de herramientas de Contratación Pública Abierta y Sostenible está también disponible en inglés, francés y portugués.*
 
 - [Access the toolkit in English](https://sustainable.open-contracting.org/){: lang="en"}
 - [Accéder au guide en français](https://achatdurable.open-contracting.org/){: lang="fr"}
+- [Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
 {% endcallout %}
 
 ![La estructura del conjunto de herramientas: una introducción a la CPS abierta y a este conjunto de herramientas, y luego tres partes, cada una con sus páginas: 1. Plan, lo que puede hacer para establecer el mejor marco para la implementación; 2. Implementación, cómo puede implementar la CPS abierta durante el proceso de contratación; y 3. Datos abiertos y progreso de medición, cómo puede usar los datos abiertos para impulsar y medir el progreso hacia los objetivos de sostenibilidad](/assets/images/Structure_Diagram_esp.png){: .wide}
@@ -32,7 +33,7 @@ hide_title: true
 
 {% gallery medium %}
 
-- title: Introduction
+- title: Introducción
   link: /introduccin
   icon: /assets/images/Icons_Blue_Intro.svg
   cover: /assets/images/PUBLIC_SPP_covers.svg
@@ -40,7 +41,7 @@ hide_title: true
   link: /plan
   icon: /assets/images/icons_D_Green.svg
   cover: "/assets/images/PUBLIC_SPP_covers2-1.svg"
-- title: Implement
+- title: Implementación
   link: /implemencin
   icon: /assets/images/Icons_Red.svg
   cover: /assets/images/PUBLIC_SPP_notion_cover.svg

@@ -54,7 +54,7 @@ Muchos regímenes de contratación solo permiten la adjudicación de contratos a
 
 {% toggle **Cómo implementar CPS cuando puede considerar criterios diferentes a precio.**  %}
 
-Algunos regímenes de contratación podrían permitir el uso de criterios diferentes a precio en la evaluación de ofertas. Por ejemplo, en Europa, esto es así con el concepto de la oferta ecológicamente más ventajosa ([MEAT](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A32014L0024)).
+Algunos regímenes de contratación podrían permitir el uso de criterios diferentes a precio en la evaluación de ofertas. Por ejemplo, en Europa, esto es así con el concepto de la oferta económicamente más ventajosa ([MEAT](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A32014L0024)).
 
 En tal caso, igualmente se puede diseñar un proceso de evaluación para que la sostenibilidad forme parte de los criterios de adjudicación (además de utilizar las prácticas SPP mencionadas en contextos que solamente permiten la selección de la oferta más baja. Al decidir cuáles criterios se deben incluir, como podría ser de utilidad alinearse con las prioridades expresadas en planes y políticas de sostenibilidad a nivel nacional y local (por ejemplo, las metas de cero neto). Para mayor información sobre el establecimiento de este criterio, ver la sección Define criterios de sostenibilidad.
 

@@ -66,10 +66,10 @@ Tal como explicamos en la introducción de este conjunto de herramientas, los da
 - title: Reducción de carbono
   link: /reduccin-de-carbono
   icon: /assets/images/Icons_Light_Green2.svg
-- title: Gender inclusion
+- title: Inclusión de género
   link: /inclusin-de-gnero
   icon: /assets/images/Icons_Light_Green2.svg
-- title: Life cycle costing
+- title: Costeo del ciclo de vida
   link: /costeo-del-ciclo-de-vida
   icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
