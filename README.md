@@ -133,6 +133,8 @@ A row or cell that starts with `{color}` has that background color, like a heade
 {% endtable %}
 ```
 
+The table of options for data use is an `{% options_table /options-for-data-use %}` tag, which builds its rows from the options page, so that each option is edited there, once: a row for each heading with an `{#option-N}` ID, linked to it, with the cells of the table under it.
+
 Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards, and inline databases are `{% database %}` tags, whose argument is the database's title in Markdown:
 
 ```liquid

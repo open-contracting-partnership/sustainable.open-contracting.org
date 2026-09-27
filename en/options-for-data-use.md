@@ -46,7 +46,7 @@ Buyers can measure the value and number of SPP related contracts awarded to supp
 {% table colors: orange yellow green %}
 | No code | Low code | Code |
 |---|---|---|
-| Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse tools such as Silver Eye to turn this data into OCDS. | Create dashboards that allow analysis of buyers, suppliers, categories., etc.\n\nCreate flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | Link to contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
+| Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse tools such as Silver Eye to turn this data into OCDS. | Create dashboards that allow analysis of buyers, suppliers, categories.\n\nCreate flags on contract registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | Link contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
 {% endtable %}
 
 ### Option 4: Forecast contract impact {#option-4}
@@ -118,5 +118,5 @@ One way to gather the data needed to measure the sustainability impact of your c
 {% table colors: orange yellow green %}
 | No code | Low code | Code |
 |---|---|---|
-| Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.\n\nWork with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
+| Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.\n\nWork with specific industries with known underperforming in sustainability metrics (e.g. low employment of a gender) to increase participation and empowerment. |
 {% endtable %}

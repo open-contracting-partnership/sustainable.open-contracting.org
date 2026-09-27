@@ -213,8 +213,8 @@ end
 
 module NotionTags
   # {% table [wide] [row-header] [colors: COLOR...] [row-colors: {TEXT: COLOR, ...}] [caption: CAPTION] %}ROWS
-  # {% endtable %}, where CAPTION is Markdown. A table fills its column, and the browser sizes the columns by their
-  # content. On a page that isn't full width, a wide table extends past the text column.
+  # {% endtable %}, where CAPTION is Markdown. A table is as wide as its content, up to its column, and the browser sizes
+  # the columns by their content. On a page that isn't full width, a wide table extends past the text column.
   #
   # Each row is a line of cells separated by "|", as in a Markdown table, and a line of only "|", "-" and ":" is
   # ignored. The first row is the header row, and with row-header, the first column is a header column. Cells contain
@@ -444,6 +444,34 @@ module NotionTags
   end
 end
 
+module NotionTags
+  # {% options_table PATH %} renders a table of the options on the page at PATH: a row for each heading with an
+  # {#option-N} ID, linked to it, with the cells of the table under it, and a header column.
+  class OptionsTable < Liquid::Tag
+    OPTION = /^#+ ([^\n]+?) \{#(option-\d+)\}\n.*?\{% table colors: ([^%]*)%\}\n(.*?)\{% endtable %\}/m
+
+    def initialize(tag_name, markup, options)
+      super
+      @path = markup.strip
+    end
+
+    def render(context)
+      site = context.registers[:site]
+      page = site.pages.find { |p| p.url == @path } or raise ArgumentError, "options_table: no page at #{@path}"
+      options = File.read(site.in_source_dir(page.relative_path)).scan(OPTION)
+      raise ArgumentError, "options_table: no options at #{@path}" if options.empty?
+
+      colors = options.first[2]
+      header = options.first[3].lines.first.strip
+      rows = options.map { |title, id, _, body| "| [#{title}](#{@path}##{id}) #{body.lines[2].strip}" }
+      Liquid::Template.parse(
+        "{% table row-header colors: default #{colors}%}\n|  #{header}\n#{rows.join("\n")}\n{% endtable %}"
+      ).render(context)
+    end
+  end
+end
+
+Liquid::Template.register_tag("options_table", NotionTags::OptionsTable)
 Liquid::Template.register_tag("pdf", NotionTags::Pdf)
 Liquid::Template.register_tag("indent", NotionTags::Indent)
 Liquid::Template.register_tag("image", NotionTags::Image)
