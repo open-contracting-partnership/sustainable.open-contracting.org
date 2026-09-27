@@ -339,6 +339,11 @@ ol.notion-breadcrumb {
   font-weight: var(--heading-weight);
 }
 
+/* The home pages' first heading, the only <h1> in any page's content (hide_title). */
+.notion-root h1.notion-heading {
+  margin-bottom: 2rem;
+}
+
 /* A heading that is a callout's only content, like a label. */
 .notion-callout__content > :is(h1, h2, h3, h4, h5, h6).notion-heading {
   margin: 0;
