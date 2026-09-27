@@ -61,7 +61,7 @@ Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las 
 
 {% endtoggle %}
 
-{% image /assets/images/SPP-Contract-Diagram-es.png 1276 950 align-start %}
+{% image /assets/images/SPP-Contract-Diagram-es.png 1276 950 align-start wide %}
 
 ## Tenga claros los estándares de mejoramiento continuo
 

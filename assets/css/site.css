@@ -9,8 +9,9 @@
   --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
 }
 
-/* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, while tables, images,
-   galleries and code blocks use the column's width. The doubled class outweighs Super.so's max-width for paragraphs
+/* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, and so are images,
+   unless "wide". Code blocks are as wide as the text, or their longest line, and tables as their content, up to the
+   column's width, which galleries and columns use. The doubled class outweighs Super.so's max-width for paragraphs
    with one link (.notion-text__content:has(> a:only-child)). */
 .notion-root.notion-root
 :is(
@@ -21,9 +22,16 @@
   .notion-callout,
   .notion-toggle,
   .notion-to-do,
-  .notion-quote
+  .notion-quote,
+  .notion-image:not(.wide)
 ) {
   max-width: 708px;
+}
+
+.notion-root .notion-code {
+  width: fit-content;
+  min-width: min(708px, 100%);
+  max-width: 100%;
 }
 
 /* The sidebar's sections, as lists, separated as Notion's empty paragraphs separated them. */
@@ -420,12 +428,7 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   background-color: var(--color-bg-gray);
 }
 
-/* A table fills its column, and its columns are sized by their content, so its words don't break, except a word
-   wider than its column. */
-.notion-table {
-  width: 100%;
-}
-
+/* A table's columns are sized by their content, so its words don't break, except a word wider than its column. */
 .notion-table :is(td, th) {
   word-break: normal;
   overflow-wrap: break-word;

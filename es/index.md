@@ -26,7 +26,7 @@ hide_title: true
 - [Accéder au guide en français](https://achatdurable.open-contracting.org/){: lang="fr"}
 {% endcallout %}
 
-{% image /assets/images/Structure_Diagram_esp.png 5504 5563 align-start %}
+{% image /assets/images/Structure_Diagram_esp.png 5504 5563 align-start wide %}
 
 {% database El proceso de implementación Open SPP %}
 {% gallery medium %}

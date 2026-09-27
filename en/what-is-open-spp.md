@@ -11,7 +11,7 @@ sidebar: true
 
 Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: **economic**, **social**, and **environmental** benefits.
 
-{% image /assets/images/D1_-_What_is_SPP-Tri-3.jpg 1920 1080 align-start %}
+{% image /assets/images/D1_-_What_is_SPP-Tri-3.jpg 1920 1080 align-start wide %}
 
 [We heard from users](/what-our-users-told-us) that, often, assessing and delivering better environmental impacts is the most challenging of these three objectives. So whilst we are keeping the wider ‘sustainable procurement’ framing, this guide will focus on approaches to improve environmental sustainability (also known as “green procurement”) without compromising goals related to economic or social sustainability.
 
@@ -34,7 +34,7 @@ Openness is a mindset shift, covering open contracting data, open communication 
 
 Throughout this guide, we will refer to these different types of openness as key drivers of sustainable procurement.
 
-{% image /assets/images/7_Open_SPP.png 5754 3241 align-start %}
+{% image /assets/images/7_Open_SPP.png 5754 3241 align-start wide %}
 
 {% callout default /assets/images/7_areas_open_SPP.svg %}
 
@@ -105,7 +105,7 @@ We have already compiled [a piece of guidance](https://www.open-contracting.org/
 
 Green Flags can help you think about the key data categories you need to be able to plan and implement green public procurement. The graphic below illustrates some of the key data points that you can capture across the stages of planning, tendering, awarding and delivering public contracts and how they help tracking, reporting and analysis of procurement.
 
-{% image /assets/images/OCP2021-Green-Flags_-How-open-data-can-throw-light-on-sustainable-procurement-.jpg 2325 2646 align-start %}
+{% image /assets/images/OCP2021-Green-Flags_-How-open-data-can-throw-light-on-sustainable-procurement-.jpg 2325 2646 align-start wide %}
 
 ## The critical role of identifiers in tracking SPP performance
 
@@ -113,7 +113,7 @@ Identifiers enable you to link data together from different systems. Central to 
 
 [The Open Contracting Data Standard](<https://standard.open-contracting.org/latest/en/schema/identifiers/#:~:text=The%20Open%20Contracting%20ID%20(ocid,to%20help%20cross%2Dreference%20information.>) provides guidance on identifiers that can be used to help you join and cross reference contracting data.
 
-{% image /assets/images/OCDS_model.png 2179 1000 align-start %}
+{% image /assets/images/OCDS_model.png 2179 1000 align-start wide %}
 
 Also in the OCDS schema is further guidance on identifiers that can be used to help you join and cross reference contracting data, including corporate IDs for contractors and organizational identifiers to track who is involved in the formation and management of contracts.
 

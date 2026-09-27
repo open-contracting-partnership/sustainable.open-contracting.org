@@ -21,7 +21,7 @@ Projects related to each of **these asset types are normally divided into four s
 **This section does not go into detail on the different types of construction projects.**
 {% endcallout %}
 
-{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start %}
+{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start wide %}
 
 {% database Click through to learn more %}
 {% gallery medium %}

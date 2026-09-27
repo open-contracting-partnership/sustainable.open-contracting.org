@@ -36,10 +36,10 @@ For governments too, there are benefits. Publishing the data openly allows gover
 
 ### The art of the possible
 
-{% image /assets/images/Screenshot_2022-06-24_at_11.52.38.png 2554 1220 %}
+{% image /assets/images/Screenshot_2022-06-24_at_11.52.38.png 2554 1220 wide %}
 
 Source: [https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)
 
-{% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png 1942 1448 %}
+{% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png 1942 1448 wide %}
 
 Source: [https://spendnetwork.com/carbon/](https://web.archive.org/web/20231227042934/https://spendnetwork.com/carbon)

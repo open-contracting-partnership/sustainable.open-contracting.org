@@ -22,7 +22,7 @@ Los proyectos relacionados con cada uno de **estos tipos de bienes normalmente s
 **Esta sección no entra en detalles sobre los diferentes tipos de proyectos de construcción.**
 {% endcallout %}
 
-{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start %}
+{% image /assets/images/D4_-_Construction_Diagram.jpg 2560 1440 align-start wide %}
 
 {% database **Haga clic para mayor información** %}
 {% gallery medium %}
