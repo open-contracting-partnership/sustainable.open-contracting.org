@@ -1,4 +1,4 @@
-# Liquid tags for Notion's callouts, toggles and columns, which render Notion's markup around Markdown content.
+# Liquid tags for Notion's blocks, which render Notion's markup around Markdown content.
 module NotionTags
   ICON_STYLE = "object-fit:contain;object-position:center".freeze
   EMOJI_STYLE = "width:20px;height:20px;font-size:20px;fill:var(--color-text-default-light)".freeze
@@ -82,33 +82,6 @@ module NotionTags
     end
   end
 
-  # {% columns %}{% column WIDTH %}BLOCKS{% endcolumn %}...{% endcolumns %}, where WIDTH is a fraction of the width.
-  class Columns < Liquid::Block
-    def render(context)
-      columns = nodelist.grep(Column)
-      html = columns.each_with_index.map { |column, index| column.render_column(context, index, columns.size) }
-      %(<div class="notion-column-list">#{html.join}</div>)
-    end
-  end
-
-  # {% column WIDTH %} contains Markdown, and {% column WIDTH html %} contains HTML.
-  class Column < Liquid::Block
-    def initialize(tag_name, markup, options)
-      super
-      @width, @format = markup.split
-    end
-
-    def render_column(context, index, count)
-      style = "width:calc((100% - var(--column-spacing) * #{count - 1}) * #{@width})"
-      style += ";margin-inline-start:var(--column-spacing)" if index.positive?
-      content = render(context)
-      content = NotionTags.markdown(context, content) unless @format == "html"
-      %(<div class="notion-column" style="#{style}">#{content}</div>)
-    end
-  end
-end
-
-module NotionTags
   # {% properties %} renders a database item's properties from its front matter. Pills are a mapping of values to
   # colors, attachments and URLs are lists of mappings of text to URLs, numbers are numbers, and dates and text are
   # strings. The notion.date_properties and notion.url_properties settings name the dates and URLs.
@@ -222,9 +195,7 @@ module NotionTags
       CGI.escapeHTML(text.to_s)
     end
   end
-end
 
-module NotionTags
   # {% table [wide] [row-header] [colors: COLOR...] [row-colors: {TEXT: COLOR, ...}] [caption: CAPTION] %}ROWS
   # {% endtable %}, where CAPTION is Markdown. A table is as wide as its content, up to its column, and the browser sizes
   # the columns by their content. On a page that isn't full width, a wide table extends past the text column.
@@ -307,9 +278,7 @@ module NotionTags
       scope ? %(<th scope="#{scope}"#{style}>#{content}</th>) : %(<td#{style}>#{content}</td>)
     end
   end
-end
 
-module NotionTags
   PAGE_ICON = File.read(File.join(__dir__, "notion_page_icon.svg")).freeze
 
   # {% database TITLE %}VIEWS{% enddatabase %} renders an inline database with a heading, where TITLE is Markdown.
@@ -374,9 +343,7 @@ module NotionTags
       CGI.escapeHTML(text.to_s)
     end
   end
-end
 
-module NotionTags
   # {% page PATH [bg-COLOR] [html] %} renders a link to a page, with its icon and title, and optionally a background
   # color. Without "html", it is wrapped for use as a block in Markdown.
   class Page < Liquid::Tag
@@ -403,9 +370,7 @@ module NotionTags
       @html ? html : "{::nomarkdown}\n#{html}\n{:/nomarkdown}"
     end
   end
-end
 
-module NotionTags
   # {% image SRC [wide] %} renders an image block, as wide as the text unless "wide" (the content's width).
   # Its width and height attributes are the file's, so that the browser reserves its space.
   class Image < Liquid::Tag
@@ -446,9 +411,7 @@ module NotionTags
       end || raise(ArgumentError, "image: can't read the size of #{path}")
     end
   end
-end
 
-module NotionTags
   # {% pdf SRC [TITLE] %} renders an embedded PDF, whose frame's title is TITLE (by default, the file's name).
   class Pdf < Liquid::Tag
     def render(_context)
@@ -478,9 +441,7 @@ module NotionTags
         %(<div class="notion-text__children">#{NotionTags.markdown(context, super)}</div></div>)
     end
   end
-end
 
-module NotionTags
   # {% options_table PATH %} renders a table of the options on the page at PATH: a row for each heading with an
   # {#option-N} ID, linked to it, with the cells of the table under it, and a header column.
   class OptionsTable < Liquid::Tag
@@ -520,5 +481,3 @@ Liquid::Template.register_tag("properties", NotionTags::Properties)
 Liquid::Template.register_tag("callout", NotionTags::Callout)
 Liquid::Template.register_tag("toggle", NotionTags::Toggle)
 Liquid::Template.register_tag("expand_toggles", NotionTags::ExpandToggles)
-Liquid::Template.register_tag("columns", NotionTags::Columns)
-Liquid::Template.register_tag("column", NotionTags::Column)

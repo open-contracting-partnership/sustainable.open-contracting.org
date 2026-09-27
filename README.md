@@ -66,11 +66,11 @@ Each page is `<lang>/<path>.md`, with front matter:
 
 A page's versions in each language are a line of `_data/translations.yml`, like `- {en: /prioritize, es: /priorice, fr: /priorits}`, which all three builds read. The layout and the sitemaps link them as alternates (`hreflang`), with the English version as the default. The navbar's language links (`_includes/languages.html`) go to the page's versions, or to the other sites' home pages. To add a page's versions, or to change a permalink, edit its line.
 
-The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar, on every page (`_includes/sidebar-menu.html`). It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. The `sidebar_width` setting in `_config.yml` is the sidebar's width, in pixels, or a quarter of the width if that's less. Pages have narrower margins below 1280px, so that the content has room. Text is at most 708px wide, about 75 characters per line, and so are images, unless `wide`. Code blocks are as wide as the text, or as their longest line, and tables as their content, up to the content's full width, which galleries and columns use.
+The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar, on every page (`_includes/sidebar-menu.html`). It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. The `sidebar_width` setting in `_config.yml` is the sidebar's width, in pixels, or a quarter of the width if that's less. Pages have narrower margins below 1280px, so that the content has room. Text is at most 708px wide, about 75 characters per line, and so are images, unless `wide`. Code blocks are as wide as the text, or as their longest line, and tables as their content, up to the content's full width, which galleries use.
 
 Each page ends with links to the previous and next pages, in one sequence (`_plugins/sequence.rb`): the sidebar's pages, in order, each followed by the pages that its galleries and page links point to, in their order. A new page is in the sequence once a page in it links to it that way.
 
-Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title (or from `<h1>`, with `hide_title`), in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. Code blocks that aren't code, like worked examples and formulas, are ```` ```text ````. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title (or from `<h1>`, with `hide_title`), in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. Code blocks that aren't code, like worked examples and formulas, are ```` ```text ````. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.svg %}
@@ -88,15 +88,6 @@ A labelled callout's blocks, after a blank line.
 The toggle's content.
 {% endtoggle %}
 
-{% columns %}
-{% column 0.5 %}
-The first column's content.
-{% endcolumn %}
-{% column 0.5 html %}
-<div class="notion-text">The second column's content, as HTML.</div>
-{% endcolumn %}
-{% endcolumns %}
-
 {% indent **A paragraph** %}
 Blocks indented under the paragraph, which can be empty.
 {% endindent %}
@@ -104,7 +95,7 @@ Blocks indented under the paragraph, which can be empty.
 
 A toggle is a `<details>` element, so it works with the keyboard and without JavaScript, styled as an accordion: rows between borders, with a chevron on a green circle. An `{% expand_toggles %}` tag, before a group of toggles, like the FAQs', adds a button that opens or closes them all, labelled by the `expand_label` and `collapse_label` settings.
 
-A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. An optional `label:`, last, is shown in bold before the callout's text, like "Case study" or "Resources", so it isn't written in bold. A column's width is a fraction of the column list's width, and `html` means that its content is HTML, not Markdown.
+A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) or `default`, and its icon is an image's path or an emoji. An optional `label:`, last, is shown in bold before the callout's text, like "Case study" or "Resources", so it isn't written in bold.
 
 Links to pages (with the page's icon and title), images and PDFs are also tags:
 
