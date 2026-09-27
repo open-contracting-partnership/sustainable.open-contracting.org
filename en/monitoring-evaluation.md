@@ -50,7 +50,11 @@ If a public authority decides to select “Reducing carbon value associated with
 
 The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides guidance on information needed to measure each indicator, a proposed method for measuring it, and options to record the needed data. Below you can see an example from the table.
 
-![An example from the M&E framework: the goal of reducing carbon emissions, whose outcome is reducing the carbon value associated with public contracts, and whose indicator is the tonnes of CO2 associated with public contracts. The information needed is the CO2 estimate of goods purchased and the amount of units purchased, the calculation method is CO2 estimates times the amount of units, and the options for recording the data are in Option 2, predicting likely emissions, in the carbon reduction use case](/assets/images/GOIS-2.png)
+{% table row-colors: {Reducing carbon emissions: green} %}
+| GOALS | OUTCOMES | INDICATORS | INFORMATION NEEDS | CALCULATION METHOD | OPTIONS TO RECORD THE DATA YOU NEED |
+|---|---|---|---|---|---|
+| Reducing carbon emissions | Reducing carbon value associated with public contracts | Tonnes of Co2 associated with public contracts | - CO2 estimate of goods purchased\n- Amount of units purchased | CO2 estimates X Amount of units | [See Option 4: Forecast contract impact](/options-for-data-use#option-4) |
+{% endtable %}
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 
