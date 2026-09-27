@@ -23,11 +23,7 @@ DOMAINS = {
 }
 # Paths, or patterns of paths, of pages that are unreachable on purpose, until their issues are resolved.
 EXCEPTIONS = {
-    "en": [
-        # The orphaned duplicate of /economic-development and its subpages (#8).
-        "/open-data-measuring-progress/economic-development",
-        "/open-data-measuring-progress/economic-development/*",
-    ],
+    "en": [],
     "es": [],
     "fr": [
         # The four enabling environment pages to translate (#6).
