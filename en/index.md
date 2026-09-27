@@ -27,7 +27,7 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 - [Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
 {% endcallout %}
 
-{% image /assets/images/Structure_Diagram-1.png 5504 5563 align-start wide %}
+{% image /assets/images/Structure_Diagram-1.png 1530 1940 align-start wide %}
 
 {% database Your Open SPP journey %}
 {% gallery medium %}
