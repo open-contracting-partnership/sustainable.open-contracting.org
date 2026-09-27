@@ -14,25 +14,15 @@ The following checklist has been created for national authorities to easily iden
 ### Compliance Trail Checklist
 
 - [ ] Regulation where relevant guiding principles are mentioned (VfM, economy, effectiveness).
-
 - [ ] Procurement policy documents that have been used to interpret relevant guiding principles.
-
 - [ ] Regulation with provisions for considering factors other than price as evaluation or award criteria.
-
 - [ ] Regulation with provisions for considering specific sustainability factors as evaluation or award criteria.
-
 - [ ] Regulation which includes provisions for the procurement practices applied, including pre-procurement market engagement and ongoing dialogue during the procurement phase.
-
 - [ ] Regulation relating to the specific condition tied to the value of the contract, including procurement thresholds.
-
 - [ ] Regulation relating to setting targets, or reserving contracts.
-
 - [ ] Relevant distinct regulations concerning the procuring agency.
-
 - [ ] Relevant category-specific regulations.
-
 - [ ] Relevant environmental and social laws included in the contract.
-
 - [ ] Relevant environmental and social policies and plans that underpin the inclusion of specific sustainability criteria.
 
 {% callout green /assets/images/icons_D_Green8.svg %}

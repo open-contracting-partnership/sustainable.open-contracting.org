@@ -107,9 +107,7 @@ Suppliers should monitor labor rights through a publicly accessible Code of Cond
 **According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
 
 - [ ] ILO’s eight core conventions: 29, 87, 98, 100, 105, 111, 138 and 182.
-
 - [ ] The UN Convention on the Rights of the Child, article 32.
-
 - [ ] All applicable local and national health and safety labor laws effective in the country of manufacture, and a maximum 60-hour workweek including overtime.
 {% endcallout %}
 

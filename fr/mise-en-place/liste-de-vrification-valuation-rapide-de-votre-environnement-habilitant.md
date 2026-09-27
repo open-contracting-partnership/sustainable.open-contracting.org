@@ -27,15 +27,10 @@ The following checklist is designed to help you assess the different ways in whi
 **Now, check if there are any provisions and mechanisms that can facilitate SPP implementation:**
 
 - [ ] Check if there are any **provisions to consider specific social and/or environmental factors as award criteria** (see [Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution](/mise-en-place/dispositions-visant-explicitement-intgrer-la-durabilit-aux-critres-dattribution)).
-
 - [ ] Check that the current regulation allows for sufficient **market engagement** during the pre-procurement stage, including soliciting feedback from the market (see [Open market engagement and ongoing dialogue](https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue)).
-
 - [ ] Check that current regulation allows for procedures that include open disclosure of information or **ongoing dialogue during the procurement phase** (such as Competitive Dialogue) (see [Open market engagement and ongoing dialogue](https://sustainable.open-contracting.org/establish-an-enabling-environment/open-market-engagement-and-ongoing-dialogue)).
-
 - [ ] Check that existing **framework agreements** allow space for the introduction of sustainability criteria (see [Framework agreements](https://sustainable.open-contracting.org/establish-an-enabling-environment/framework-agreements)).
-
 - [ ] Check whether there are any **procurement thresholds or distinct regulations** whereby more flexible and less stringent regulation is contemplated for certain procurement categories, procuring agencies, or contracts under a set value (see [Thresholds and sectors with distinct regulation](https://sustainable.open-contracting.org/establish-an-enabling-environment/thresholds-and-sectors-with-distinct-regulation)).
-
 - [ ] Check whether current regulations allows to establish SPP **targets, reserve contracts** for specific outcomes or groups (see [Targets and reserved contracts](https://sustainable.open-contracting.org/establish-an-enabling-environment/targets-and-reserved-contracts)).
 
 **Finally:**
