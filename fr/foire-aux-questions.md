@@ -12,6 +12,8 @@ sidebar: true
 *Dans cette section, vous trouverez les questions les plus fréquentes concernant la mise en place de marchés publics durables. Pour chaque question, nous fournissons les informations centrales et renvoyons vers des sources externes, des études de cas, et des sections de notre guide pratique sur les marchés publics durables et ouverts qui apportent des informations complémentaires.*
 {% endcallout %}
 
+{% expand_toggles %}
+
 {% toggle **Qu’entend-on par « marchés publics durables » ?** %}
 
 Les marchés publics durables sont [définis par le Programme des Nations Unies pour l’environnement (PNUE)](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) comme un « processus par lequel les entités publiques répondent à leurs besoins en matière de biens, de services, de travaux et de services publics en garantissant un bon rapport qualité-prix tout au long du cycle de vie de l’objet du marché et en générant des bénéfices non seulement pour l’entité acheteuse, mais également pour la société et l’économie, tout en réduisant au maximum, et si possible en évitant, les retombées négatives sur l’environnement » [traduction].

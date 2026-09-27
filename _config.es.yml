@@ -8,6 +8,8 @@ breadcrumb_label: Más páginas
 language_label: Idioma
 sidebar_label: Contenido
 table_scroll_label: Desplácese para ver más
+expand_label: Expandir todo
+collapse_label: Contraer todo
 pager_label: Páginas anterior y siguiente
 previous_label: Anterior
 next_label: Siguiente

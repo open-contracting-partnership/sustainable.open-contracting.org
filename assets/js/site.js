@@ -218,14 +218,31 @@ if (search) {
  * Blocks
  */
 
-// Toggle blocks.
-document.querySelectorAll(".notion-toggle__summary").forEach((summary) => {
-  summary.addEventListener("click", () => {
-    const toggle = summary.parentElement;
-    const open = toggle.classList.toggle("open");
-    toggle.classList.toggle("closed", !open);
-    summary.nextElementSibling.style.display = open ? "" : "none";
+// A button that opens the toggles after it, or closes them if all are open.
+document.querySelectorAll(".notion-toggles__expand").forEach((button) => {
+  const toggles = [];
+  // The button's paragraph, if Markdown wrapped it in one.
+  let next = (button.closest("p") || button).nextElementSibling;
+  while (next?.matches(".notion-toggle")) {
+    toggles.push(next);
+    next = next.nextElementSibling;
+  }
+  const update = () => {
+    const expanded = toggles.every((toggle) => toggle.open);
+    button.textContent = expanded ? button.dataset.collapse : button.dataset.expand;
+    button.setAttribute("aria-expanded", expanded);
+  };
+  button.addEventListener("click", () => {
+    const open = !toggles.every((toggle) => toggle.open);
+    toggles.forEach((toggle) => {
+      toggle.open = open;
+    });
   });
+  toggles.forEach((toggle) => {
+    toggle.addEventListener("toggle", update);
+  });
+  update();
+  button.hidden = false;
 });
 
 // Copy buttons on code blocks.

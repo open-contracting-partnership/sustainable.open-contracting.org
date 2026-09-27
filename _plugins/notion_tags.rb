@@ -49,8 +49,12 @@ module NotionTags
     end
   end
 
-  # {% toggle SUMMARY %}BLOCKS{% endtoggle %}
+  # {% toggle SUMMARY %}BLOCKS{% endtoggle %} renders a <details> element, with a chevron after its summary.
   class Toggle < Liquid::Block
+    CHEVRON = %(<svg class="notion-toggle__chevron" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">) +
+              %(<path d="M6 3.5 10.5 8 6 12.5" fill="none" stroke="currentColor" stroke-width="1.8" ) +
+              %(stroke-linecap="round" stroke-linejoin="round"/></svg>)
+
     def initialize(tag_name, markup, options)
       super
       @summary = markup.strip
@@ -62,10 +66,19 @@ module NotionTags
     end
 
     def render(context)
-      trigger = %(<div class="notion-toggle__trigger"><div class="notion-toggle__trigger_icon"><span>‣</span></div></div>)
-      %(<div class="notion-toggle closed"><div class="notion-toggle__summary">#{trigger}) +
-        %(<span class="notion-semantic-string">#{NotionTags.inline(context, @summary)}</span></div>) +
-        %(<div class="notion-toggle__content" style="display:none">#{NotionTags.markdown(context, super)}</div></div>)
+      %(<details class="notion-toggle"><summary class="notion-toggle__summary">) +
+        %(<span class="notion-semantic-string">#{NotionTags.inline(context, @summary)}</span>#{CHEVRON}</summary>) +
+        %(<div class="notion-toggle__content">#{NotionTags.markdown(context, super)}</div></details>)
+    end
+  end
+
+  # {% expand_toggles %} renders a button that opens or closes the toggles after it (site.js), hidden without JavaScript.
+  class ExpandToggles < Liquid::Tag
+    def render(context)
+      config = context.registers[:site].config
+      expand, collapse = CGI.escapeHTML(config["expand_label"]), CGI.escapeHTML(config["collapse_label"])
+      %(<button type="button" class="notion-toggles__expand" data-expand="#{expand}" data-collapse="#{collapse}" hidden>) +
+        %(#{expand}</button>)
     end
   end
 
@@ -506,5 +519,6 @@ Liquid::Template.register_tag("table", NotionTags::Table)
 Liquid::Template.register_tag("properties", NotionTags::Properties)
 Liquid::Template.register_tag("callout", NotionTags::Callout)
 Liquid::Template.register_tag("toggle", NotionTags::Toggle)
+Liquid::Template.register_tag("expand_toggles", NotionTags::ExpandToggles)
 Liquid::Template.register_tag("columns", NotionTags::Columns)
 Liquid::Template.register_tag("column", NotionTags::Column)

@@ -12,6 +12,8 @@ sidebar: true
 In this section, we include **key questions that may arise when considering the implementation of Open and Sustainable Public Procurement.** For each of these questions, we provide essential information, and point to relevant external sources, case studies, Open SPP toolkit sections where you can find further information.
 {% endcallout %}
 
+{% expand_toggles %}
+
 {% toggle **What is Sustainable Public Procurement (SPP)?** %}
 
 Sustainable Public Procurement is [defined by UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) as “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”

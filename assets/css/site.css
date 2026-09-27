@@ -308,9 +308,77 @@ ol.notion-breadcrumb {
   margin-block-end: 1rem;
 }
 
-/* Consecutive toggles, as a list. */
+/* Toggles are <details>, as an accordion: rows between borders, which consecutive toggles share, with a chevron at the
+   end that turns when open. */
+.notion-root .notion-toggle {
+  border-block: 1px solid var(--color-border-dark);
+}
+
 .notion-root .notion-toggle:has(+ .notion-toggle) {
-  margin-block-end: 0.25rem;
+  margin-block-end: 0;
+}
+
+.notion-root .notion-toggle + .notion-toggle {
+  margin-block-start: -1px;
+}
+
+.notion-toggle > .notion-toggle__summary {
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 8px;
+}
+
+.notion-toggle > .notion-toggle__summary::-webkit-details-marker {
+  display: none;
+}
+
+.notion-toggle > .notion-toggle__summary:hover {
+  background: var(--color-ui-hover-bg);
+}
+
+.notion-toggle > .notion-toggle__summary:focus-visible {
+  outline: 2px solid var(--color-text-blue);
+  outline-offset: -2px;
+}
+
+/* The chevron is on a green circle, with a contrast of 4.6:1. */
+.notion-toggle__chevron {
+  flex: none;
+  box-sizing: content-box;
+  padding: 5px;
+  border-radius: 50%;
+  background: var(--color-bg-green);
+  color: var(--color-text-green);
+  transition: transform 200ms;
+}
+
+.notion-toggle[open] > .notion-toggle__summary > .notion-toggle__chevron {
+  transform: rotate(90deg);
+}
+
+.notion-toggle > .notion-toggle__content {
+  padding: 0 8px 14px;
+}
+
+/* The button that opens or closes the toggles after it, styled like a link. */
+.notion-toggles__expand {
+  padding: 4px 8px;
+  border: 0;
+  background: none;
+  color: var(--color-text-default-light);
+  font: inherit;
+  font-size: 0.875rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.notion-toggles__expand:hover {
+  color: inherit;
+}
+
+.notion-toggles__expand:focus-visible {
+  outline: 2px solid var(--color-text-blue);
 }
 
 /* Headings' sizes are their levels in Markdown (their classes), like Super.so's, since heading_levels.rb renumbers their

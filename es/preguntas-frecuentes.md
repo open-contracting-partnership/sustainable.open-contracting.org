@@ -10,6 +10,8 @@ sidebar: true
 En esta sección, incluimos **preguntas clave que pueden surgir al considerar la implementación de Contratación Pública Abiertas y Sostenibles**. Para cada una de estas preguntas, brindamos información esencial y señalamos fuentes externas relevantes, estudios de casos, secciones del conjunto de herramientas de CPS Abierta donde usted podrá encontrar más información.
 {% endcallout %}
 
+{% expand_toggles %}
+
 {% toggle ¿**Qué es la Contratación Pública Sostenible (CPS)?** %}
 
 El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
