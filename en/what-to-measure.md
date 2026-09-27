@@ -9,7 +9,7 @@ properties:
   Tags: {}
 sidebar: true
 ---
-{% image /assets/images/Asset_11b.webp 1056 845 %}
+{% image /assets/images/Asset_11b.webp %}
 
 # What to measure?
 

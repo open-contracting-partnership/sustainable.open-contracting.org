@@ -62,7 +62,7 @@ Les clauses de durabilité sont souvent perçues comme distinctes des exigences 
 
 {% endtoggle %}
 
-{% image /assets/images/SPP-Contract-Diagram-fr.png 1920 1080 align-start wide %}
+{% image /assets/images/SPP-Contract-Diagram-fr.png align-start wide %}
 
 ## Se doter de normes d’amélioration continue claires
 

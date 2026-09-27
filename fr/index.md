@@ -26,7 +26,7 @@ hide_title: true
 - [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/){: lang="es"}
 {% endcallout %}
 
-{% image /assets/images/Structure_Diagram_fr.png 1530 1940 align-start wide %}
+{% image /assets/images/Structure_Diagram_fr.png align-start wide %}
 
 {% database Votre trajet de la mise en place %}
 {% gallery medium %}
@@ -56,4 +56,4 @@ hide_title: true
 {% endgallery %}
 {% enddatabase %}
 
-{% image /assets/images/Organizations-fr.png 1500 350 align-start %}
+{% image /assets/images/Organizations-fr.png align-start %}

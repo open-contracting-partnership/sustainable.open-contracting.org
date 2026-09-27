@@ -6,7 +6,7 @@ icon: /assets/images/Icons_Light_Green2.svg
 notion_id: "17d7b9e2fd804758a8dbf136a7fdfdec"
 sidebar: true
 ---
-{% image /assets/images/Asset_110.jpg 4478 2784 %}
+{% image /assets/images/Asset_110.jpg %}
 
 ## What is it?
 

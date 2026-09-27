@@ -393,21 +393,45 @@ module NotionTags
 end
 
 module NotionTags
-  # {% image SRC WIDTH HEIGHT [align-start] [normal] [wide] %} renders an image block, as wide as the text unless "normal"
-  # (its own width) or "wide" (the content's width).
+  # {% image SRC [align-start] [wide] %} renders an image block, as wide as the text unless "wide" (the content's width).
+  # Its width and height attributes are the file's, so that the browser reserves its space.
   class Image < Liquid::Tag
     def initialize(tag_name, markup, options)
       super
-      @src, @width, @height, *@options = markup.split
+      @src, *@options = markup.split
     end
 
-    def render(_context)
-      normal = @options.include?("normal")
-      classes = ["notion-image", @options.include?("align-start") ? "align-start" : nil, normal ? "normal" : "page-width",
+    def render(context)
+      width, height = Image.size(context.registers[:site].in_source_dir(CGI.unescape(@src)))
+      classes = ["notion-image", @options.include?("align-start") ? "align-start" : nil, "page-width",
                  @options.include?("wide") ? "wide" : nil]
-      style = normal ? "height:auto" : "object-fit:contain;object-position:center;height:auto"
-      %(<div class="#{classes.compact.join(" ")}"><img alt="image" loading="lazy" width="#{@width}" height="#{@height}") +
-        %( style="#{style}" src="#{CGI.escapeHTML(@src)}"/></div>)
+      %(<div class="#{classes.compact.join(" ")}"><img alt="image" loading="lazy" width="#{width}" height="#{height}") +
+        %( style="object-fit:contain;object-position:center;height:auto" src="#{CGI.escapeHTML(@src)}"/></div>)
+    end
+
+    # Return a PNG, JPEG or WebP file's width and height in pixels, from its header.
+    def self.size(path)
+      data = File.binread(path)
+      if data.start_with?("\x89PNG".b)
+        data[16, 8].unpack("NN")
+      elsif data[0, 4] == "RIFF" && data[8, 4] == "WEBP"
+        case data[12, 4]
+        when "VP8 " then data[26, 4].unpack("vv").map { |n| n & 0x3FFF }
+        when "VP8L"
+          bits = data[21, 4].unpack1("V")
+          [(bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1]
+        when "VP8X" then [data[24, 3], data[27, 3]].map { |bytes| (bytes + "\0").unpack1("V") + 1 }
+        end
+      elsif data.start_with?("\xFF\xD8".b)
+        i = 2
+        while i + 9 < data.bytesize
+          marker, length = data[i + 1].ord, data[i + 2, 2].unpack1("n")
+          # A start of frame marker, other than DHT (C4), JPG (C8) and DAC (CC), has the height and width.
+          return data[i + 5, 4].unpack("nn").reverse if (0xC0..0xCF).cover?(marker) && ![0xC4, 0xC8, 0xCC].include?(marker)
+
+          i += 2 + length
+        end
+      end || raise(ArgumentError, "image: can't read the size of #{path}")
     end
   end
 end

@@ -9,7 +9,7 @@ properties:
   Tags: {}
 sidebar: true
 ---
-{% image /assets/images/Asset_11c.webp 2457 1847 %}
+{% image /assets/images/Asset_11c.webp %}
 
 # How to measure a job
 

@@ -60,7 +60,7 @@ Sustainability clauses are often considered as separate to business demands, whi
 
 {% endtoggle %}
 
-{% image /assets/images/Untitled.jpg 672 420 align-start normal %}
+{% image /assets/images/Untitled.jpg align-start %}
 
 ## Have clear continuous improvement standards
 
