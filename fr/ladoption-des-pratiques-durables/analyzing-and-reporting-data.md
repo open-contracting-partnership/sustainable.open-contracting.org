@@ -12,7 +12,7 @@ This connection between what policy or legislation are trying to achieve and the
 
 Within SPP, this approach can be used to revise SPP targets for continuous improvement:
 
-{% table caption: Count as a %age of all procurement %}
+{% table caption: SPP count against policy target %}
 | Year | SPP count (actual) | Policy Target |
 |---|---|---|
 | 2017 | 56% | 70% |

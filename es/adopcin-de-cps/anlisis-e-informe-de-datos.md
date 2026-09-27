@@ -12,7 +12,7 @@ Esta conexión entre lo que la política o la legislación están tratando de lo
 
 En CPS, este enfoque se puede utilizar para revisar los objetivos de CPS para la mejora continua:
 
-{% table caption: Cuenta como un porcentaje de todas las contrataciones %}
+{% table caption: Número de CPS frente al objetivo de política %}
 | Año | Número CPS (real) | Política Objetivo |
 |---|---|---|
 | 2017 | 56% | 70% |
