@@ -2,6 +2,7 @@
 permalink: /monitoreo-y-evaluacin/ejemplo-de-marco-me
 title: "Ejemplo de Marco M&E"
 description: "The M&E framework includes the following section:"
+cover: false
 icon: /assets/images/icons_D_Green3.svg
 notion_id: "0847a7f0e8ed4d8faa83afee27b6f438"
 ---

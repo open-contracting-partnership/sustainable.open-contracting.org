@@ -2,7 +2,6 @@
 permalink: /case-study-database
 title: Case study database
 description: "In this section, we have included best practice examples of SPP implementation around the world. "
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Notion-others2.svg
 notion_id: "2e59454b25174caa94f2e7189fb64655"
 sidebar: true

@@ -2,7 +2,7 @@
   {%- if page.cover %}has-cover{% else %}no-cover{% endif %} {% if page.icon %}has-icon-image{% else %}no-icon{% endif -%}
 {%- endcapture -%}
 <div class="notion-header {% if page.collection %}collection{% else %}page{% endif %}">
-  <div class="notion-header__cover {{ state }}" data-pagefind-ignore="all">
+  <div class="notion-header__cover {{ state }}{% if page.url == "/" %} home{% endif %}" data-pagefind-ignore="all">
     {%- if page.cover %}<img alt="{{ page.title | escape }}" class="notion-header__cover-image" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center {{ page.cover_position | default: 50 }}%" src="{{ page.cover }}"/>{% endif -%}
   </div>
   <div class="notion-header__content{% unless page.full_width or page.sidebar %} max-width{% endunless %} {{ state }}">

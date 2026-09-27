@@ -2,7 +2,6 @@
 permalink: /monitoring-evaluation
 title: "Monitoring & evaluation"
 description: "In this section, we explain how to set sustainability goals for your organization, and how to track them using indicators in a sample Monitoring & Evaluation (M&E) framework. This framework includes sample tracking indicators to facilitate reporting and measuring progress against sustainability goals."
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/icons_D_Green2.svg
 notion_id: "210ea7c43360477487736dca15ff5003"
 sidebar: true

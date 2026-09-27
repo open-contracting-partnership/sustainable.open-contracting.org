@@ -2,7 +2,6 @@
 permalink: /qu-es
 title: "¿Qué es?"
 description: "La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: beneficios económicos, sociales y ambientales."
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Blue_Intro2.svg
 notion_id: "9ac9481d3a1f480a9083ec377a8fff5f"
 sidebar: true

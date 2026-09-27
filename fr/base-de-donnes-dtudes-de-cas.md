@@ -2,7 +2,6 @@
 permalink: /base-de-donnes-dtudes-de-cas
 title: Base de données d’études de cas
 description: "Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables."
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Notion-others2.svg
 notion_id: b558a3155ed64ccdb4698b4364a55ae2
 sidebar: true

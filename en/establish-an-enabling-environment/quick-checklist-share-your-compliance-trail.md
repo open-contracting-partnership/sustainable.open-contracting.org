@@ -2,6 +2,7 @@
 permalink: /establish-an-enabling-environment/quick-checklist-share-your-compliance-trail
 title: Quick checklist - Share your compliance trail
 description: "\nCompliance Trail Checklist"
+cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "1bbc02f2300b4632bf35eae8e5e1c3d4"
 sidebar: true

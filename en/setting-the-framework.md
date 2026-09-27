@@ -2,7 +2,6 @@
 permalink: /setting-the-framework
 title: Setting the framework
 description: "The application of Open SPP when procuring ICT equipment can be guided by the existence of certain compliance frameworks that address some of the sustainability challenges in the sector. These can include:"
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
 notion_id: "4d456dd7a8764e15b628886de013e8ed"
 sidebar: true

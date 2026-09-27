@@ -2,7 +2,6 @@
 permalink: /construction-sector/selecting-your-data
 title: Selecting your data
 description: "Material use "
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey6.svg
 notion_id: "98c412788073444e8210c12f66aaa69c"
 properties:

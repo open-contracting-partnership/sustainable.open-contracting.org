@@ -2,8 +2,7 @@
 permalink: /casos-de-estudio/engaging-citizens-to-monitor-public-projects-in-peru
 title: Engaging citizens to monitor public projects in Peru
 description: " "
-cover: /assets/images/LAC_-_Peru.webp
-cover_position: 53.12
+image: /assets/images/LAC_-_Peru.jpg
 icon: /assets/images/Notion-others2.svg
 notion_id: bbb5326b947e438d96b587dc0a9aa707
 sidebar: true

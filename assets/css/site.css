@@ -9,6 +9,12 @@
   --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
 }
 
+/* The cover is as tall as the space that a page without one leaves, so that it doesn't push the content down, except
+   the home page's, which shows the site's name. */
+.notion-header__cover.has-cover:not(.home) {
+  height: 140px;
+}
+
 /* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, and so are images,
    unless "wide". Code blocks are as wide as the text, or their longest line, and tables as their content, up to the
    column's width, which galleries and columns use. The doubled class outweighs Super.so's max-width for paragraphs

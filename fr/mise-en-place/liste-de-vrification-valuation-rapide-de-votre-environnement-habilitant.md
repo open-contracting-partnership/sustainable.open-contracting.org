@@ -2,6 +2,7 @@
 permalink: /mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant
 title: "Liste de vérification : évaluation rapide de votre environnement habilitant"
 description: Quick checklist
+cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
 sidebar: true

@@ -2,7 +2,6 @@
 permalink: /ict-sector
 title: ICT sector
 description: "The extraction of raw materials, manufacturing, transportation, use, and disposal of ICT products is associated with a number of environmental, social, and economic externalities."
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Grey5.svg
 notion_id: "2462de71d6934cb485309c397db0d90b"
 sidebar: true

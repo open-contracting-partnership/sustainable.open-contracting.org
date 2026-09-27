@@ -2,6 +2,7 @@
 permalink: /la-rduction-des-missions-de-carbone/analyzing-and-reporting-data
 title: Analyzing and reporting data
 description: "When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed. "
+cover: false
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: f2ee0ed81aa542a4866bf2566cf0d2ca
 sidebar: true

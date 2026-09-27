@@ -11,6 +11,7 @@ defaults:
       path: ""
     values:
       layout: default
+      cover: /assets/images/PUBLIC_SPP_background.webp
 # Database items' properties whose values are dates and URLs, for the {% properties %} tag.
 notion:
   date_properties: [Created]

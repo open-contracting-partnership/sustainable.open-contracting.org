@@ -2,6 +2,7 @@
 permalink: /establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment
 title: Quick checklist - Evaluate your enabling environment
 description: Quick checklist
+cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "6a6a2d45158d4269aec4e02ab7172371"
 sidebar: true

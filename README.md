@@ -54,8 +54,9 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `title` | The page's title |
 | `hide_title` | Whether to hide the title, like the home pages', whose first heading is then the page's `<h1>` |
 | `description` | The page's meta description |
-| `cover` | The header's cover image: a WebP, or an SVG for flat shapes. The social media image is a JPEG with the same name, 1,200px wide, since not all platforms accept WebP |
+| `cover` | The header's cover image, 140px tall (the home pages', 30% of the screen's height, to show the site's name): a WebP, or an SVG for flat shapes, by default the standard cover (`_config.yml`), or `false` for none, like the worked examples' steps and the tools. The social media image is a JPEG with the same name, 1,200px wide, since not all platforms accept WebP |
 | `cover_position` | The cover's vertical position, as a percentage (default 50) |
+| `image` | The social media image, if not the cover's, like the case studies', which show their titles: a JPEG, 1,200px wide |
 | `icon` | The header's icon, also used in breadcrumbs |
 | `full_width` | Whether the page is full width. A page with the sidebar is full width |
 | `collection` | Whether the page is a Notion database |

@@ -2,6 +2,7 @@
 permalink: /linclusion-des-genres/women-in-boardrooms-female-owned-businesses
 title: Women in boardrooms / female owned businesses
 description: "One way to assess the extent of spend going to female led businesses is to apportion contract value to the female:male leadership ratio. "
+cover: false
 icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "0387bcc8f7af4127b1cfee4dc6ed4c41"
 sidebar: true

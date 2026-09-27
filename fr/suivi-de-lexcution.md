@@ -2,7 +2,6 @@
 permalink: /suivi-de-lexcution
 title: Suivi de l’exécution
 description: "Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la section précédente, vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat. "
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
 notion_id: e10550c9408d4537a5b0065517aea46a
 sidebar: true

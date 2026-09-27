@@ -82,7 +82,7 @@ def main():
             # An icon can also be an emoji.
             problems.extend(
                 f"{relative}: {key} {asset} isn't a file"
-                for key in ("cover", "icon")
+                for key in ("cover", "image", "icon")
                 if (asset := value(front, key))
                 and asset.startswith("/")
                 and not (ROOT / urllib.parse.unquote(asset).lstrip("/")).is_file()

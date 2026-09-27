@@ -2,7 +2,6 @@
 permalink: /monitor-implementation
 title: Monitor implementation
 description: "After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the previous section, details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.  "
-cover: /assets/images/PUBLIC_SPP_background.webp
 icon: /assets/images/Icons_Red2.svg
 notion_id: "80efa4eb1154401ca159ff7d6af15a15"
 sidebar: true
