@@ -33,12 +33,12 @@ extensions.front-matter.enabled = true
 plugins.md009.strict = true
 # Single-line paragraphs.
 plugins.md013.enabled = false
+# The page title is in front matter.
+plugins.md041.enabled = false
 # Local style.
 plugins.md049.style = "asterisk"
 
-# Headings are at Notion's levels: the title and "#" headings are <h1>, and some levels are skipped (see #17).
-plugins.md001.enabled = false
-plugins.md025.enabled = false
-plugins.md036.enabled = false
-# The page's title is in its front matter.
-plugins.md041.enabled = false
+# https://github.com/open-contracting-partnership/sustainable.open-contracting.org/issues/27
+plugins.md001.enabled = false # heading-increment
+plugins.md025.enabled = false # single-title
+plugins.md036.enabled = false # no-emphasis-as-heading
