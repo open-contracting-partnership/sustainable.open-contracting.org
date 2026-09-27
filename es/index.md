@@ -7,6 +7,7 @@ cover_position: 84.77
 icon: /assets/images/Open_SPP_home_1.svg
 notion_id: "2d9cea3af3074eac9d3d0f21efceb511"
 sidebar: true
+hide_title: true
 ---
 # Este conjunto de herramientas le ayudará a repensar la contratación pública sostenible mediante el impulso de una mejor adopción y medición a través de un enfoque abierto, inclusivo y basado en datos
 

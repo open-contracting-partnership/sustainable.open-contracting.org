@@ -8,7 +8,9 @@
   <div class="notion-header__content{% unless page.full_width or page.sidebar %} max-width{% endunless %} {{ state }}">
     <div class="notion-header__title-wrapper">
       {%- if page.icon %}<div class="notion-header__icon-wrapper {{ state }}" data-pagefind-ignore="all"><img alt="{{ page.title | escape }}" loading="lazy" width="125" height="125" class="notion-header__icon" style="object-fit:cover;object-position:center" src="{{ page.icon }}"/></div>{% endif -%}
+      {%- unless page.hide_title %}
       <h1 class="notion-header__title">{{ page.title | escape }}</h1>
+      {%- endunless %}
     </div>
     {%- if page.collection %}
     <div class="notion-header__description notion-semantic-string"></div>
