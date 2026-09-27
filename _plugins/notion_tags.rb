@@ -412,9 +412,7 @@ module NotionTags
     end
 
     def render(context)
-      site = context.registers[:site]
-      page = site.pages.find { |p| p.url == @path } or raise ArgumentError, "options_table: no page at #{@path}"
-      options = File.read(site.in_source_dir(page.relative_path)).scan(OPTION)
+      options = NotionTags.source(context, @path).scan(OPTION)
       raise ArgumentError, "options_table: no options at #{@path}" if options.empty?
 
       colors = options.first[2]
@@ -425,9 +423,37 @@ module NotionTags
       ).render(context)
     end
   end
+
+  # {% table_row PATH CELL %} renders the first table on the page at PATH, with its options, but only its header and
+  # the row that has a cell whose text is CELL, like a preview of the table.
+  class TableRow < Liquid::Tag
+    TABLE = /^\{% table ([^%]*)%\}\n(.*?)^\{% endtable %\}/m
+
+    def initialize(tag_name, markup, options)
+      super
+      @path, @cell = markup.strip.split(/\s+/, 2)
+    end
+
+    def render(context)
+      match = NotionTags.source(context, @path).match(TABLE) or raise ArgumentError, "table_row: no table at #{@path}"
+      header, *rows = match[2].lines.map(&:strip).grep(/\A\|/).reject { |line| line.match?(/\A[|:\s-]+\z/) }
+      found = rows.select { |row| row.split(/(?<!\\)\|/).map(&:strip).include?(@cell) }
+      raise ArgumentError, "table_row: #{found.size} rows at #{@path} have the cell #{@cell}" unless found.size == 1
+
+      Liquid::Template.parse("{% table #{match[1]}%}\n#{header}\n#{found.first}\n{% endtable %}").render(context)
+    end
+  end
+
+  # Return the Markdown source of the page at a path.
+  def self.source(context, path)
+    site = context.registers[:site]
+    page = site.pages.find { |p| p.url == path } or raise ArgumentError, "no page at #{path}"
+    File.read(site.in_source_dir(page.relative_path))
+  end
 end
 
 Liquid::Template.register_tag("options_table", NotionTags::OptionsTable)
+Liquid::Template.register_tag("table_row", NotionTags::TableRow)
 Liquid::Template.register_tag("pdf", NotionTags::Pdf)
 Liquid::Template.register_tag("indent", NotionTags::Indent)
 Liquid::Template.register_tag("page", NotionTags::Page)

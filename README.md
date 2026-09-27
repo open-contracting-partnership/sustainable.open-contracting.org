@@ -128,6 +128,8 @@ A row or cell that starts with `{color}` has that background color, like a heade
 
 The table of options for data use is an `{% options_table /options-for-data-use %}` tag, which builds its rows from the options page, so that each option is edited there, once: a row for each heading with an `{#option-N}` ID, linked to it, with the cells of the table under it.
 
+A preview of another page's table, like the monitoring and evaluation page's example from the sample framework, is a `{% table_row /monitoring-evaluation/sample-me-framework Tonnes of Co2 associated with public contracts %}` tag: the first table on that page, with its options, but only its header and the row with that cell, so that the row is edited once. The build fails if no row, or more than one, has that cell.
+
 Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards, and inline databases are `{% database %}` tags, whose argument is the database's title in Markdown:
 
 ```liquid

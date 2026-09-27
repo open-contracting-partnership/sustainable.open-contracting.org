@@ -51,11 +51,7 @@ Si une administration choisit le résultat « Réduction du niveau d’émission
 
 Le [modèle de cadre de suivi et d’évaluation](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) fournit des orientations sur les informations nécessaires pour évaluer chaque indicateur, une méthode de calcul et des possibilités pour collecter les données requises. Voici un extrait de ce cadre.
 
-{% table row-colors: {Reducing carbon emissions: green} %}
-| GOALS | OUTCOMES | INDICATORS | INFORMATION NEEDS | CALCULATION METHOD | OPTIONS TO RECORD THE DATA YOU NEED |
-|---|---|---|---|---|---|
-| Reducing carbon emissions | Reducing carbon value associated with public contracts | Tonnes of Co2 associated with public contracts | - CO2 estimate of goods purchased\n- Amount of units purchased | CO2 estimates X Amount of units | [Voir la possibilité 4 : anticiper les effets des marchés](/possibilits-dutilisation-des-donnes#option-4) |
-{% endtable %}
+{% table_row /suivi-et-valuation/modle-de-cadre-de-suivi-et-dvaluation Tonnes of Co2 associated with public contracts %}
 
 Votre organisation peut reprendre la structure du tableau ci-dessus pour définir ses propres objectifs, résultats et indicateurs concernant ses domaines d’achat prioritaires. Pour voir d’autres exemples, vous trouverez notre modèle de cadre de suivi et d’évaluation complet en cliquant sur le lien ci-dessous.
 
