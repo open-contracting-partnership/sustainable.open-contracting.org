@@ -109,11 +109,11 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 ```liquid
 {% page /prioritize %}
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
-{% image /assets/images/Untitled.jpg align-start %}
+{% image /assets/images/Untitled.jpg %}
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
 ```
 
-A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's arguments are its source, then `align-start` to align it left, and `wide` to make it as wide as the content, for diagrams and screenshots whose text would be too small. Its width and height attributes, which reserve its space as it loads, are read from the file (a PNG, JPEG or WebP). A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
+A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's argument is its source, and `wide` makes it as wide as the content, for diagrams and screenshots whose text would be too small. Its width and height attributes, which reserve its space as it loads, are read from the file (a PNG, JPEG or WebP). A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
 
 Tables are `{% table %}` tags, as wide as their content, up to their column's width, with the columns sized by the browser by their content, without breaking words. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). The first row is the header row, whose cells are headers (`<th>`), in bold. The tag's options are:
 

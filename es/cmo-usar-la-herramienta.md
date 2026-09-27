@@ -10,7 +10,7 @@ sidebar: true
 
 Este conjunto de herramientas ha sido estructurado siguiendo el proceso de una travesía de la contratación pública abierta y sostenible, desde los primeros pasos que se deben tomar a nivel institucional para facilitar y monitorear la implementación general, hasta los aspectos que se deben considerar al implementar en contratación pública específica. En la última sección, brindamos orientación sobre cómo utilizar prácticas de contratación abierta y datos abiertos para impulsar y medir objetivos de sostenibilidad, como la reducción de carbono o la igualdad de género.
 
-{% image /assets/images/Structure_Diagram_esp.png align-start wide %}
+{% image /assets/images/Structure_Diagram_esp.png wide %}
 
 # ¿Para quién es este conjunto de herramientas?
 

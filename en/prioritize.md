@@ -22,7 +22,7 @@ In this section we **present the different factors that can be considered when p
 Although there are many ways to prioritize, is it really important both to engage stakeholders in the prioritization to learn their perspectives and to communicate any decisions made so they can be implemented including through the clear [Action Plan](/create-an-action-plan) that we recommend at the end of the section.
 {% endcallout %}
 
-{% image /assets/images/Untitled-2.jpg align-start wide %}
+{% image /assets/images/Untitled-2.jpg wide %}
 
 ## Consider a list of preliminary procurement categories
 

@@ -393,7 +393,7 @@ module NotionTags
 end
 
 module NotionTags
-  # {% image SRC [align-start] [wide] %} renders an image block, as wide as the text unless "wide" (the content's width).
+  # {% image SRC [wide] %} renders an image block, as wide as the text unless "wide" (the content's width).
   # Its width and height attributes are the file's, so that the browser reserves its space.
   class Image < Liquid::Tag
     def initialize(tag_name, markup, options)
@@ -403,8 +403,7 @@ module NotionTags
 
     def render(context)
       width, height = Image.size(context.registers[:site].in_source_dir(CGI.unescape(@src)))
-      classes = ["notion-image", @options.include?("align-start") ? "align-start" : nil, "page-width",
-                 @options.include?("wide") ? "wide" : nil]
+      classes = ["notion-image", "page-width", @options.include?("wide") ? "wide" : nil]
       %(<div class="#{classes.compact.join(" ")}"><img alt="image" loading="lazy" width="#{width}" height="#{height}") +
         %( style="object-fit:contain;object-position:center;height:auto" src="#{CGI.escapeHTML(@src)}"/></div>)
     end

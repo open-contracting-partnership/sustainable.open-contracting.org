@@ -50,7 +50,7 @@ If a public authority decides to select “Reducing carbon value associated with
 
 The sample [M&E framework](/monitoring-evaluation/sample-me-framework) provides guidance on information needed to measure each indicator, a proposed method for measuring it, and options to record the needed data. Below you can see an example from the table.
 
-{% image /assets/images/GOIS-2.png align-start %}
+{% image /assets/images/GOIS-2.png %}
 
 The structure presented on the table above can be used within your organization to set your own goals, outcomes and indicators across your prioritized procurement areas. For additional examples, we have developed a full sample M&E Framework, linked below.
 

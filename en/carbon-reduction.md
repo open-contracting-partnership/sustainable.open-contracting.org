@@ -62,7 +62,7 @@ There are a number of different options available to those looking to link procu
 
 **Below we outline how teams can start to implement these initiatives:**
 
-{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png align-start wide %}
+{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png wide %}
 
 At the beginning of this section, we introduced [ten different ways](/options-for-data-use) in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected four which can be especially useful for measuring carbon reduction:
 

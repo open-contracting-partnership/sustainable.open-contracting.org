@@ -12,7 +12,7 @@ Throughout the toolkit, we have explained the importance of high quality and ope
 **In this section, we provide a deeper dive into the options available to collect the data you need to measure progress against your goals.** As you can see on the diagram below, first, we introduce a set of general data collection considerations and options on how to use data to measure progress across different goals. Then, we turn the five goals from the M&E framework into five worked examples of how to use open data to measure progress in: (1) SPP uptake, (2) carbon reduction, (3) gender inclusion, (4) economic development, and (5) promoting life cycle costing.
 {% endcallout %}
 
-{% image /assets/images/Group_4Open_data-2.png align-start wide %}
+{% image /assets/images/Group_4Open_data-2.png wide %}
 
 ## Steps towards collecting and publishing data
 

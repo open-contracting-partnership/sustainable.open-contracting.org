@@ -23,7 +23,7 @@ Bien qu’il existe de nombreuses façons de définir des catégories prioritair
  clair que nous recommandons à la fin de cette section.
 {% endcallout %}
 
-{% image /assets/images/Prioritisation-Diagram-fr.png align-start wide %}
+{% image /assets/images/Prioritisation-Diagram-fr.png wide %}
 
 ## Examiner une liste préliminaire de catégories de marchés
 

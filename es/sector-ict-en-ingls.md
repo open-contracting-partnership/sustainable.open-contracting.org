@@ -18,7 +18,7 @@ Los impactos ambientales asociados con el sector de las TIC también tienen un f
 Esta sección se enfoca en la compra de equipo de hardware, que incluye principalmente **pantallas, notebooks, computadoras de escritorio, PC todo en uno, proyectores, auriculares, equipo de red, dispositivos de almacenamiento de datos, servidores, impresoras y escáneres.**
 {% endcallout %}
 
-{% image /assets/images/D3_-_ICT_Diagram.jpg align-start wide %}
+{% image /assets/images/D3_-_ICT_Diagram.jpg wide %}
 
 {% database **Haga clic para mayor información** %}
 {% gallery medium %}
