@@ -36,17 +36,17 @@ Beaucoup de méthodes de passation de marchés permettent seulement d’attribue
 
 - **Intégrer des critères de durabilité aux exigences essentielles pour les fournisseurs**
 
-Tout marché public comporte des critères que les soumissionnaires doivent satisfaire pour être pris en considération. On parle souvent de critères essentiels ou de spécifications techniques. Le fait d’intégrer la durabilité à ces critères est une des principales façons d’acheter de façon plus responsable malgré la contrainte de choisir l’offre qui propose le prix le plus bas.
+  Tout marché public comporte des critères que les soumissionnaires doivent satisfaire pour être pris en considération. On parle souvent de critères essentiels ou de spécifications techniques. Le fait d’intégrer la durabilité à ces critères est une des principales façons d’acheter de façon plus responsable malgré la contrainte de choisir l’offre qui propose le prix le plus bas.
 
-Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections « [Définir des critères de durabilité](/des-critres-de-durabilit) » et « [Interagir avec les acteurs du marché](/interagir-avec-le-march) ».
+  Pour cela, vous devrez vous assurer que ces critères sont clairement en lien avec l’objet du marché et interagir avec les acteurs du marché pour vous assurer qu’un nombre suffisant d’entreprises sera en mesure de respecter ces critères. Pour en savoir plus, consultez les sections « [Définir des critères de durabilité](/des-critres-de-durabilit) » et « [Interagir avec les acteurs du marché](/interagir-avec-le-march) ».
 
 - **Prendre en compte le coût du cycle de vie**
 
-Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez [cette section](/le-cot-du-cycle-de-vie) pour en savoir plus sur le coût du cycle de vie.
+  Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez [cette section](/le-cot-du-cycle-de-vie) pour en savoir plus sur le coût du cycle de vie.
 
 - **Veiller au respect de la réglementation en vigueur en matière de durabilité**
 
-Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de [l’Organisation internationale du Travail](https://www.ilo.org/fr/normes-internationales-du-travail/conventions-protocoles-et-recommandations).
+  Enfin, il existe de nombreuses réglementations sur la durabilité à l’échelle internationale et nationale. Veiller à ce que tous les soumissionnaires respectent la réglementation en vigueur est un autre moyen de renforcer la durabilité dans les marchés publics. La réglementation en vigueur peut inclure, par exemple, des règlements nationaux sur la gestion des déchets ou des conventions internationales comme celles de [l’Organisation internationale du Travail](https://www.ilo.org/fr/normes-internationales-du-travail/conventions-protocoles-et-recommandations).
 
 {% endtoggle %}
 

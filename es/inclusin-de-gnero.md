@@ -58,18 +58,19 @@ Los datos de género suelen ser más limitados que otros tipos de datos de CPS; 
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado tres que pueden ser especialmente útiles para medir la igualdad de género:
 
-- **Registre los datos del proveedor en la presentación de la oferta (Opción 8)**
+### Registre los datos del proveedor en la presentación de la oferta (Opción 8)
 
-  OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/) publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
+OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/) publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
 
-  Además de los datos sobre si las empresas están dirigidas por mujeres, puede utilizar conjuntos de datos complementarios sobre la equidad de género de las empresas, si existen, tales como: información sobre la brecha salarial de género (si las mujeres reciben un salario inferior al de los hombres por un trabajo similar), mujeres en puestos de liderazgo y otras políticas de empoderamiento de género (licencia parental, subsidios para el cuidado de los hijos, etc.)
+Además de los datos sobre si las empresas están dirigidas por mujeres, puede utilizar conjuntos de datos complementarios sobre la equidad de género de las empresas, si existen, tales como: información sobre la brecha salarial de género (si las mujeres reciben un salario inferior al de los hombres por un trabajo similar), mujeres en puestos de liderazgo y otras políticas de empoderamiento de género (licencia parental, subsidios para el cuidado de los hijos, etc.)
 
-- **Use datos nacionales o estatales (Opción 10)**
+### Use datos nacionales o estatales (Opción 10)
 
-  Un informe nacional o estatal legalmente obligatorio sobre la propiedad de la empresa o las brechas salariales de género otorgará muchos otros beneficios a las autoridades, como controles contra el fraude y el cabildeo. Esto también crea más datos que conducen a mejores algoritmos para medir los resultados de las intervenciones. Por ejemplo, el efecto de los mandatos de igualdad de género en las especificaciones de las licitaciones se puede correlacionar con la brecha salarial de género a lo largo del tiempo para saber mejor si estos mandatos fueron efectivos o no.
-- **Solicite sugerencias de sostenibilidad (Opción 5)**
+Un informe nacional o estatal legalmente obligatorio sobre la propiedad de la empresa o las brechas salariales de género otorgará muchos otros beneficios a las autoridades, como controles contra el fraude y el cabildeo. Esto también crea más datos que conducen a mejores algoritmos para medir los resultados de las intervenciones. Por ejemplo, el efecto de los mandatos de igualdad de género en las especificaciones de las licitaciones se puede correlacionar con la brecha salarial de género a lo largo del tiempo para saber mejor si estos mandatos fueron efectivos o no.
 
-  Los proveedores pueden incluir en su presentación de ofertas qué acciones toman para promover la igualdad de género. Esto puede incluir compromisos con esquemas públicos reconocidos (por ejemplo, subvenciones para mujeres en tecnología, esquemas de regreso al trabajo para madres).
+### Solicite sugerencias de sostenibilidad (Opción 5)
+
+Los proveedores pueden incluir en su presentación de ofertas qué acciones toman para promover la igualdad de género. Esto puede incluir compromisos con esquemas públicos reconocidos (por ejemplo, subvenciones para mujeres en tecnología, esquemas de regreso al trabajo para madres).
 
 ## Indicadores de muestra
 
@@ -99,23 +100,28 @@ A través de los conocimientos obtenidos de los datos, los compradores pueden us
 
 ## Medidas de política para mejorar la equidad de género
 
-- **Aumente el acceso a la financiación y/o asegurar el pago puntual de los proveedores del gobierno.**
+### Aumente el acceso a la financiación y/o asegurar el pago puntual de los proveedores del gobierno
 
-  La falta de acceso a financiamiento de las mujeres empresarias limita su capacidad de adquirir el capital de trabajo necesario para solicitar contratos gubernamentales. Los problemas con los retrasos en los pagos en la contratación pública significan que las empresas necesitan acceso a la financiación en la contratación pública.
-- **Desarrolle mecanismos de participación y retroalimentación para las empresas dirigidas por mujeres**.
+La falta de acceso a financiamiento de las mujeres empresarias limita su capacidad de adquirir el capital de trabajo necesario para solicitar contratos gubernamentales. Los problemas con los retrasos en los pagos en la contratación pública significan que las empresas necesitan acceso a la financiación en la contratación pública.
 
-  Esto es particularmente importante para los grupos de mujeres que pueden tener menos acceso a la información y las redes formales, como las que viven en zonas rurales o las que pertenecen a un grupo subrepresentado.
-- **Desarrolle estrategias de orientación y gestión de cambios para que los compradores reduzcan el sesgo en el proceso de evaluación.**
+### Desarrolle mecanismos de participación y retroalimentación para las empresas dirigidas por mujeres
 
-  Desafortunadamente, el sesgo y la discriminación aún pueden afectar el proceso de evaluación (ya sea consciente o inconsciente). Crear orientación y capacitación para compradores públicos puede ayudar. [Vea este ejemplo de Colombia](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit).
-- **Simplifique los procesos de contratación y desarrolle la capacidad para navegar el proceso.**
+Esto es particularmente importante para los grupos de mujeres que pueden tener menos acceso a la información y las redes formales, como las que viven en zonas rurales o las que pertenecen a un grupo subrepresentado.
 
-  Simplificar los procedimientos de solicitud y los requisitos de licitación agilizando y estandarizando la documentación de licitación y los procedimientos de precalificación, priorizando solo aquellos que son esenciales para el trabajo. Reduzca el tamaño de los contratos en partes manejables para que las pequeñas empresas las entreguen. Capacite a las empresas dirigidas por mujeres en el proceso y ofrezca un servicio de asistencia para ayudarlas.
-- **Reduzca el gasto y las oportunidades de corrupción en el proceso de contratación.**
+### Desarrolle estrategias de orientación y gestión de cambios para que los compradores reduzcan el sesgo en el proceso de evaluación
 
-  Licitar en contratos públicos puede ser costoso. Eliminar o reducir las tarifas de acceso a los documentos de licitación, los requisitos de seguridad de las ofertas y las tarifas de presentación de ofertas reduce esta barrera. Del mismo modo, si el proceso requiere que las empresas obtengan múltiples certificados, sellos y firmas de varias autoridades, consume mucho tiempo y es una oportunidad para buscar sobornos. La digitalización del registro de proveedores y la presentación de ofertas puede eliminar estas barreras.
-- **Mejore la transparencia**.
+Desafortunadamente, el sesgo y la discriminación aún pueden afectar el proceso de evaluación (ya sea consciente o inconsciente). Crear orientación y capacitación para compradores públicos puede ayudar. [Vea este ejemplo de Colombia](https://docs.google.com/document/d/1fpX0d5nzJGIHRLOcO16YswDAQfyq5BMGudTBTRFJpd0/edit).
 
-  Ver es creer. Si las empresas dirigidas por mujeres pueden ver que las pequeñas empresas como la suya están haciendo ofertas y ganando contratos, ello les dará más confianza en que hay igualdad de condiciones y serán tratadas de manera justa.
+### Simplifique los procesos de contratación y desarrolle la capacidad para navegar el proceso
+
+Simplificar los procedimientos de solicitud y los requisitos de licitación agilizando y estandarizando la documentación de licitación y los procedimientos de precalificación, priorizando solo aquellos que son esenciales para el trabajo. Reduzca el tamaño de los contratos en partes manejables para que las pequeñas empresas las entreguen. Capacite a las empresas dirigidas por mujeres en el proceso y ofrezca un servicio de asistencia para ayudarlas.
+
+### Reduzca el gasto y las oportunidades de corrupción en el proceso de contratación
+
+Licitar en contratos públicos puede ser costoso. Eliminar o reducir las tarifas de acceso a los documentos de licitación, los requisitos de seguridad de las ofertas y las tarifas de presentación de ofertas reduce esta barrera. Del mismo modo, si el proceso requiere que las empresas obtengan múltiples certificados, sellos y firmas de varias autoridades, consume mucho tiempo y es una oportunidad para buscar sobornos. La digitalización del registro de proveedores y la presentación de ofertas puede eliminar estas barreras.
+
+### Mejore la transparencia
+
+Ver es creer. Si las empresas dirigidas por mujeres pueden ver que las pequeñas empresas como la suya están haciendo ofertas y ganando contratos, ello les dará más confianza en que hay igualdad de condiciones y serán tratadas de manera justa.
 
 Puede leer más sobre medidas políticas para mejorar la inclusión de género y estudios de casos de todo el mundo en [esta nota de política de ONU Mujeres y OCP](https://www.open-contracting.org/wp-content/uploads/2021/11/OCP-UNWomen21-policy-brief.pdf).

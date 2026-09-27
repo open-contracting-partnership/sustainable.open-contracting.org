@@ -38,17 +38,17 @@ Many procurement regimes only allow you to award the contract to the lowest-pric
 
 - **Establish sustainability criteria as essential requirements for suppliers.**
 
-Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.
+  Every public contract establishes certain criteria that have to be met by suppliers in order for them to be considered, this is often referred to as essential criteria, or technical specifications. Including sustainability as part of these criteria is one of the main ways to procure more sustainably while still selecting the lowest price bid.
 
-To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/set-sustainability-criteria), and [Engage with the supplier market](/engage-with-the-market).
+  To do this, you will have to ensure that these criteria are clearly linked to the subject matter of the contract, and engage with the market to ensure that these criteria can be met by a sufficient number of suppliers. For more information on this see sections [Set sustainability criteria](/set-sustainability-criteria), and [Engage with the supplier market](/engage-with-the-market).
 
 - **Consider applying Life Cycle Costing (LCC) calculations.**
 
-When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see [this section](/life-cycle-costing).
+  When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see [this section](/life-cycle-costing).
 
 - **Ensure compliance with existing sustainability regulations.**
 
-Finally, there are already many sustainability regulations in place at the international and national levels. Ensuring that all suppliers comply with these existing regulations is also a way to procure more sustainably. Existing regulation can include, for example, national waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
+  Finally, there are already many sustainability regulations in place at the international and national levels. Ensuring that all suppliers comply with these existing regulations is also a way to procure more sustainably. Existing regulation can include, for example, national waste management regulations, or ratified international conventions such as those of the [International Labour Organisation (ILO)](https://www.ilo.org/global/standards/introduction-to-international-labour-standards/conventions-and-recommendations/lang--en/index.htm)).
 
 {% endtoggle %}
 

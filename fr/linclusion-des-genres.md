@@ -143,17 +143,17 @@ Gender data is typically more limited than other types of SPP data, this is usua
 
 At the beginning of this section, we introduced ten different ways in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected three which can be especially useful for measuring gender equality:
 
-- **Record supplier data at tender submission (Option 8)**
+### Record supplier data at tender submission (Option 8)
 
 OCDS [recommends](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) publishing the information about if an organization is woman-led with the [organization classification extension](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). This approach encourages publishers to document the definition of what being a woman-led business means.
 
 In addition to data on whether businesses are women-led, you can use complementary datasets about the gender equity of companies, if they exist, such as: information about the [gender-pay gap](/linclusion-des-genres/how-to-analyze-the-gender-pay-gap) (whether women are paid less than men for similar work), women in leadership positions, and other gender-empowering policies (parental leave, childcare subsidies etc.)
 
-- **Use national or statewide data (Option 10)**
+### Use national or statewide data (Option 10)
 
 A legally mandated national or statewide reporting on company ownership or gender pay gaps will confer numerous other benefits to authorities, such as anti-fraud and lobbying controls. This also creates more data that leads to better algorithms to measure outcomes of interventions. For instance, the effect of gender equality mandates in tender specifications can be correlated with gender pay gap over time to better know whether or not these mandates were effective.
 
-- **Request sustainability suggestions (Option 5)**
+### Request sustainability suggestions (Option 5)
 
 Suppliers can include in their tender submission what actions they take to promote gender equality. This can include commitments to recognised public schemes (e.g. grants for women in tech, back to work schemes for mothers).
 

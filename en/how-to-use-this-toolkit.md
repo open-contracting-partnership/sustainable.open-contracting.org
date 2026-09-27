@@ -16,22 +16,22 @@ This toolkit has been structured following the process of an SPP journey, from t
 
 The implementation of Open SPP involves many different stakeholders, with different needs, and different capabilities. The toolkit can be used in different ways:
 
-- **National Agencies**
+### National Agencies
 
 This toolkit can be used by national agencies, such as environmental departments, financial departments, and central procurement agencies, who might be involved in the creation of policy to support SPP implementation. These can also be subnational authorities at the regional, local, and municipal level, as well as public sector organizations.
 
-- **Oversight bodies**
+### Oversight bodies
 
 This toolkit can be used by oversight bodies, such as Multilateral Development Banks, to understand different ways to set and track SPP requirements in funded projects, and oversee implementation.
 
-- **Procurement / Commercial teams**
+### Procurement / Commercial teams
 
 This toolkit can be used by procurement teams to understand how they can consider sustainability throughout the procurement process, as well as how this applies to specific sectors.
 
-- **Sustainability teams**
+### Sustainability teams
 
 This toolkit can be used by sustainability teams to learn more about the procurement process, and support procurement teams to consider sustainability in different procurement categories.
 
-- **Data and intelligence teams**
+### Data and intelligence teams
 
 This toolkit can be used by data and intelligence teams to understand what systems should be set up to facilitate SPP reporting activities.

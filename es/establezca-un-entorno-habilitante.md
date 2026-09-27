@@ -38,17 +38,17 @@ Muchos regímenes de contratación solo permiten la adjudicación de contratos a
 
 - **Establezca las sostenibilidad como requisito indispensable para admitir al proveedor.**
 
-Cada contrato público establece ciertos criterios imprescindibles a ser cumplidas por los proveedores para que se consideren aptos como oferentes, y este requisitito generalmente aparece bajo un rubro que llevaba el criterios esenciales o especificaciones técnicas, tú. La inclusión de sostenibilidad como parte de estos criterios es uno de las maneras principales de obtener una contratación más sostenible, y al mismo tiempo seleccionar la oferta más baja.
+  Cada contrato público establece ciertos criterios imprescindibles a ser cumplidas por los proveedores para que se consideren aptos como oferentes, y este requisitito generalmente aparece bajo un rubro que llevaba el criterios esenciales o especificaciones técnicas, tú. La inclusión de sostenibilidad como parte de estos criterios es uno de las maneras principales de obtener una contratación más sostenible, y al mismo tiempo seleccionar la oferta más baja.
 
-Para lograr esto, usted debe asegurar que los criterios están claramente ligados a la materia del contrato, y relacionarse con el mercado con obtener la seguridad de que un número adecuado de proveedores pueden cumplir con estos criterios. Para mayor información sobre esto, ver secciones Determine criterios de sostenibilidad y Relaciónese con el mercado de proveedores.
+  Para lograr esto, usted debe asegurar que los criterios están claramente ligados a la materia del contrato, y relacionarse con el mercado con obtener la seguridad de que un número adecuado de proveedores pueden cumplir con estos criterios. Para mayor información sobre esto, ver secciones Determine criterios de sostenibilidad y Relaciónese con el mercado de proveedores.
 
 - **Considere la aplicación de cálculos por costeo por ciclo de vida (LCC)**
 
-Al considerar los costos más allá del precio de adquisición incluidos los de operación, mantenimiento y disposición final de los bienes comprados, las alternativas más sostenibles pueden resultar ser la opción más económica. Así es que, considerando los costos del ciclo vital de la solución podrá llevarle a escoger la alternativa más sostenible Para más información sobre el costeo de ciclo de vida, ver esta sección.
+  Al considerar los costos más allá del precio de adquisición incluidos los de operación, mantenimiento y disposición final de los bienes comprados, las alternativas más sostenibles pueden resultar ser la opción más económica. Así es que, considerando los costos del ciclo vital de la solución podrá llevarle a escoger la alternativa más sostenible Para más información sobre el costeo de ciclo de vida, ver esta sección.
 
 - **Asegure el cumplimiento de las normas actuales de sostenibilidad**
 
-Finalmente, ya existen varias normas de sostenibilidad vigentes a nivel nacional e internacional. Si usted se asegura que todos los proveedores cumplen con esas normas, eso también es una manera de lograr una contratación más sostenible. Las normas vigentes podrían incluir, por ejemplo, reglas sobre la disposición de desechos a nivel nacional, o convenciones nacionales ratificadas como las de la [Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/normas-internacionales-del-trabajo/convenios-protocolos-y-recomendaciones).
+  Finalmente, ya existen varias normas de sostenibilidad vigentes a nivel nacional e internacional. Si usted se asegura que todos los proveedores cumplen con esas normas, eso también es una manera de lograr una contratación más sostenible. Las normas vigentes podrían incluir, por ejemplo, reglas sobre la disposición de desechos a nivel nacional, o convenciones nacionales ratificadas como las de la [Organización Internacional del Trabajo (OIT)](https://www.ilo.org/es/normas-internacionales-del-trabajo/convenios-protocolos-y-recomendaciones).
 
 {% endtoggle %}
 
