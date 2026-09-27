@@ -39,9 +39,6 @@ plugins.md049.style = "asterisk"
 # Headings are at Notion's levels: the title and "#" headings are <h1>, and some levels are skipped (see #17).
 plugins.md001.enabled = false
 plugins.md025.enabled = false
-# <br> is a line break in a table cell, or an empty line in Notion's text.
-plugins.md033.allowed_elements = "br"
-# Notion's bold paragraphs.
 plugins.md036.enabled = false
 # The page's title is in its front matter.
 plugins.md041.enabled = false
