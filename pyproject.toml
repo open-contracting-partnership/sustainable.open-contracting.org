@@ -35,6 +35,8 @@ plugins.md009.strict = true
 plugins.md013.enabled = false
 # The page title is in front matter.
 plugins.md041.enabled = false
+# Decorative illustrations have empty alt text.
+plugins.md045.enabled = false
 # Local style.
 plugins.md049.style = "asterisk"
 

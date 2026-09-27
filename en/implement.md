@@ -10,7 +10,7 @@ sidebar: true
 **In this second section, we provide you with the information you need to embed sustainability into a specific procurement process.** As you can see on the diagram below, each of the six subsections provides an answer to a key question that may arise when considering sustainability throughout a procurement lifecycle.
 {% endcallout %}
 
-{% image /assets/images/Group_3Implement.png wide %}
+![Implement, embedding sustainability into your procurement: assess needs (how can you consider sustainability when deciding what to procure?), choose a procurement method (what procurement tools can you use?), engage with the market (how can you discuss sustainability with your suppliers?), set sustainability criteria (how do you evaluate sustainability in the procurement process?), prepare contract obligations (how can you translate sustainability requirements into contract obligations?), and monitor implementation (how do you ensure that sustainability criteria are met?)](/assets/images/Group_3Implement.png){: .wide}
 
 {% database Click through to learn more %}
 {% gallery medium %}

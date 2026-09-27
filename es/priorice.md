@@ -21,7 +21,7 @@ En esta sección presentamos los diferentes factores que puede tener en cuenta a
 Aunque hay muchas maneras de determinar prioridades, es realmente importante tanto vincular a las partes interesadas en el proceso, con el fin de conocer sus puntos de vista y comunicar las decisiones tomadas para que puedan ser implementadas hasta en el Plan de Acción clara que recomendamos el final de esta sección.
 {% endcallout %}
 
-{% image /assets/images/Prioritisation-Diagram-es.png wide %}
+![Priorizar las categorías de contratación: considere una lista preliminar de categorías, clasificadas según un sistema como CPV o UNSPSC; identifique categorías de alto impacto, por frecuencia de contratación, valor, impacto ambiental y social, e importancia para el mercado local; y considere la facilidad de implementación, según la disponibilidad de normas de sostenibilidad y ecoetiquetas, las iniciativas de sostenibilidad en el mercado local, y las políticas y reglamentos pertinentes](/assets/images/Prioritisation-Diagram-es.png){: .wide}
 
 ## Considere una lista preliminar de categorías para contratación
 

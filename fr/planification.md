@@ -12,7 +12,7 @@ Dans cette partie, **nous mettons à votre disposition toutes les informations d
 Comme vous pouvez le voir dans le diagramme ci-dessous, cette partie comporte cinq sections répondant chacune aux besoins essentiels que nous avons recensés auprès des parties prenantes en ce qui concerne le début de la transformation de leurs pratiques d’achat.
 {% endcallout %}
 
-{% image /assets/images/Group_1Plan-5.png wide %}
+![Planification, mise en place de votre stratégie : mise en place de l’environnement habilitant (que pouvez-vous faire dans le cadre de la réglementation actuelle ?), priorités (par où commencer ?), suivi et évaluation (quels sont vos objectifs et comment allez-vous mesurer les progrès ?), des mécanismes d’assistance (que pouvez-vous faire pour faciliter la mise en œuvre ?) et plan d’action (comment pouvez-vous communiquer ouvertement votre stratégie ?)](/assets/images/Group_1Plan-5.png){: .wide}
 
 {% database **Cliquez sur une section pour en savoir plus** %}
 {% gallery medium %}

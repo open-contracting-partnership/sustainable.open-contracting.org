@@ -26,7 +26,7 @@ hide_title: true
 - [Accede a la herramienta en español](https://sostenibilidad.open-contracting.org/){: lang="es"}
 {% endcallout %}
 
-{% image /assets/images/Structure_Diagram_fr.png wide %}
+![La structure du guide pratique : une introduction aux marchés publics durables et ouverts et à ce guide, puis trois parties, chacune avec ses pages : 1. Planification, ce que vous pouvez faire pour mettre en place le meilleur cadre de mise en œuvre ; 2. Mise en œuvre, comment mettre en œuvre les marchés publics durables et ouverts pendant la passation des marchés ; et 3. Données ouvertes et évaluation des progrès, comment utiliser les données ouvertes pour favoriser et mesurer les progrès vers les objectifs de durabilité](/assets/images/Structure_Diagram_fr.png){: .wide}
 
 {% database Votre trajet de la mise en place %}
 {% gallery medium %}
@@ -56,4 +56,4 @@ hide_title: true
 {% endgallery %}
 {% enddatabase %}
 
-{% image /assets/images/Organizations-fr.png %}
+![Open Contracting Partnership, PUBLIC et Spend Network, avec le soutien de la Coopération allemande, mis en œuvre par la GIZ](/assets/images/Organizations-fr.png)

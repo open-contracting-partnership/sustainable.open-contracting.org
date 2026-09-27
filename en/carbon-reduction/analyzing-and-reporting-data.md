@@ -37,10 +37,10 @@ For governments too, there are benefits. Publishing the data openly allows gover
 
 ### The art of the possible
 
-{% image /assets/images/Screenshot_2022-06-24_at_11.52.38.png wide %}
+![Lithuania's Švieslentė dashboard, which rates buyers' green, centralized and reserved procurement by year, in green, yellow and red against thresholds](/assets/images/Screenshot_2022-06-24_at_11.52.38.png){: .wide}
 
 Source: [https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)
 
-{% image /assets/images/Screenshot_2022-06-24_at_11.53.04.png wide %}
+![Spend Network's Contracting Emissions dashboard: 60% of documents have a value, 74% have an end date, and 39.71% can be analysed, with charts of estimated cumulative and monthly CO2 emissions](/assets/images/Screenshot_2022-06-24_at_11.53.04.png){: .wide}
 
 Source: [https://spendnetwork.com/carbon/](https://web.archive.org/web/20231227042934/https://spendnetwork.com/carbon)

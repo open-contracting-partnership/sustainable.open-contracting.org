@@ -22,7 +22,7 @@ In this section we **present the different factors that can be considered when p
 Although there are many ways to prioritize, is it really important both to engage stakeholders in the prioritization to learn their perspectives and to communicate any decisions made so they can be implemented including through the clear [Action Plan](/create-an-action-plan) that we recommend at the end of the section.
 {% endcallout %}
 
-{% image /assets/images/Untitled-2.jpg wide %}
+![Prioritizing procurement categories: consider a list of preliminary procurement categories, classified by a system like CPV or UNSPSC; identify high-impact categories, by contract frequency, value, environmental and social impact, and relevance to the local market; and consider ease of implementation, by the availability of sustainability standards and ecolabels, local sustainability initiatives, and related policy and regulation](/assets/images/Untitled-2.jpg){: .wide}
 
 ## Consider a list of preliminary procurement categories
 

@@ -10,7 +10,7 @@ sidebar: true
 
 Les marchés publics durables renvoient à la façon dont les organisations acquièrent des biens ou des services en prenant en compte les trois piliers du développement durable : *les avantages économiques, sociaux et environnementaux.*
 
-{% image /assets/images/What-is-SPP-Diagram-fr.png wide %}
+![Les trois piliers des achats publics durables : environnement (émissions de CO2, déchets, réutilisation des ressources, efficacité énergétique, utilisation de l’eau et recyclage), société (diversité et égalité des chances, droits du travail, PME, santé et sécurité au travail, et transparence de la chaîne d’approvisionnement) et économie (innovation sur le marché, emploi formel, économie locale et utilisation transparente des fonds publics)](/assets/images/What-is-SPP-Diagram-fr.png){: .wide}
 
 [Des utilisateurs de nos ressources ont souligné](/vous-avez-demandes) que souvent, l’évaluation et la production d’effets environnementaux plus positifs constituaient les aspects les plus difficiles de ces trois piliers. Ainsi, même si nous conservons un cadre global d’achat durable, ce guide sera axé sur des approches visant à renforcer la durabilité environnementale (aussi connues sous le nom de « marchés publics écologiques ») sans compromettre les objectifs de durabilité économique et sociale.
 
@@ -31,7 +31,7 @@ L’ouverture est un changement d’état d’esprit qui concerne les données r
 
 Tout au long de ce guide, nous parlerons de ces différentes modalités d’ouverture, qui constituent des moteurs essentiels des marchés publics durables.
 
-{% image /assets/images/7-Open-SPP-Steps-Diagram-_fr.png wide %}
+![Les sept pratiques clés des marchés publics durables et ouverts, de la divulgation de vos politiques et de votre approche à l’exploitation des données issues des rapports pour améliorer et déployer à grande échelle les marchés publics durables](/assets/images/7-Open-SPP-Steps-Diagram-_fr.png){: .wide}
 
 {% callout default /assets/images/7_areas_open_SPP.svg %}
 
@@ -102,7 +102,7 @@ Nous avons déjà compilé [des orientations](https://www.open-contracting.org/r
 
 Les signaux écologiques peuvent aider à déterminer les principales catégories de données qui devront être mobilisées pour planifier et mettre en place des marchés publics écologiques. Le tableau ci-dessous illustre certaines informations essentielles que vous pouvez collecter durant les phases de planification, de l’appel d’offres, de l’attribution et de l’exécution des marchés publics et indique en quoi elles peuvent aider à observer, évaluer et analyser les marchés publics.
 
-{% image /assets/images/tableau-openspp.jpg wide %}
+![Données de la commande publique : les informations à publier à chaque étape (planification, appel d’offres, attribution, contrat et exécution), comme les budgets et leurs priorités écologiques, les critères d’attribution, les étapes et objectifs, et l’état d’avancement, et leur utilité, comme le suivi des procédures de passation des marchés publics écologiques et l’analyse des signaux d’alarme](/assets/images/tableau-openspp.jpg){: .wide}
 
 ## Le rôle primordial des identifiants dans le suivi des résultats des marchés publics durables
 
@@ -112,7 +112,7 @@ Les identifiants vous permettent de relier des données provenant de plusieurs s
 
 Le schéma OCDS fournit des orientations complémentaires sur les identifiants que vous pouvez utiliser pour regrouper et croiser les données relatives à la commande publique, notamment des identifiants pour les titulaires de marchés publics et des identifiants institutionnels permettant de déterminer qui participe à la création et la gestion des marchés.
 
-{% image /assets/images/OCDS_model_fr.png wide %}
+![Les cinq étapes d’un marché, planification, appel d’offres, attribution, contrat et exécution, réunies dans une référence du marché par le Standard de données sur la commande publique ouverte](/assets/images/OCDS_model_fr.png){: .wide}
 
 L’absence d’identifiants cohérents dans les systèmes d’information gouvernementaux est une faiblesse structurelle qui nuit à la qualité des données et peut sérieusement perturber la collecte et l’analyse de ces dernières, mais plusieurs [stratégies simples peuvent être mises en place pour permettre à n’importe quel acteur de gagner en efficacité](https://standard.open-contracting.org/latest/fr/schema/identifiers/).
 

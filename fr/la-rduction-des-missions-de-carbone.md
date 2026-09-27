@@ -66,7 +66,7 @@ Il existe plusieurs possibilités pour relier les données relatives aux marché
 
 **Below we outline how teams can start to implement these initiatives:**
 
-{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png wide %}
+![Le tableau de bord de Spend Network des émissions de CO2 estimées des marchés publics : les émissions cumulées et mensuelles dans le temps, avec des réductions de 0 % à 80 %, et les émissions par acheteur](/assets/images/Screenshot_2022-02-17_at_09.49.19.png){: .wide}
 
 Il existe plusieurs possibilités pour relier les données relatives aux marchés publics aux émissions de carbone. Vous pouvez par exemple recenser simplement les appels d’offres « adaptés aux solutions émettant peu de carbone » ou encore exiger des informations détaillées sur la quantité de carbone économisée durant l’exécution d’un marché.
 

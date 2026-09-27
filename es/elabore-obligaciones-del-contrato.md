@@ -60,7 +60,7 @@ Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las 
 
 {% endtoggle %}
 
-{% image /assets/images/SPP-Contract-Diagram-es.png wide %}
+![Cubrimiento: la precisión, la contextualización y la consistencia sostienen la aplicabilidad, que lleva a la verificabilidad](/assets/images/SPP-Contract-Diagram-es.png){: .wide}
 
 ## Tenga claros los estándares de mejoramiento continuo
 

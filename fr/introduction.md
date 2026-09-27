@@ -28,7 +28,7 @@ Les membres des services de passation de marchés savent désormais qu’il est 
 Comme vous pouvez le voir sur le diagramme ci-dessous, dans cette section d'introduction, nous vous fournissons des informations sur ce qui sont **les marchés publics durables et ouverts**, comment cela fonctionne et comment naviguer dans cette boîte à outils. Nous présentons également les principales informations recueillies lors de recherches auprès des utilisateurs et comment ils ont façonné la conception de cette nouvelle ressource.
 {% endcallout %}
 
-{% image /assets/images/Group_2Introduction-3.png wide %}
+![Introduction, informations clés sur ce guide : comment utiliser ce guide pratique ? (comment ce guide est structuré et à qui il s’adresse), définition (que désignent les marchés publics durables et ouverts ?) et les ressources que vous avez demandées (comment les besoins des utilisateurs ont influencé la conception de ce guide)](/assets/images/Group_2Introduction-3.png){: .wide}
 
 {% database Click through to learn more %}
 {% gallery large %}

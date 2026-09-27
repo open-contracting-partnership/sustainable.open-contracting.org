@@ -28,7 +28,7 @@ Practitioners realize that they need to buy things in a fundamentally different 
 As you can see on the diagram below, **in this introductory section we provide you with information on what Open SPP is, how it works, and how to navigate this toolkit.** We also present the key insights gathered from research with users, and how they have shaped the design of this new resource.
 {% endcallout %}
 
-{% image /assets/images/Group_2Introduction-2.png wide %}
+![Introduction, key information about this toolkit: how to use this toolkit (how this toolkit is structured and who it is for), what is Open SPP? (what Open SPP is and how it works), and what our users told us (how user needs shaped the design of this toolkit)](/assets/images/Group_2Introduction-2.png){: .wide}
 
 {% database Click through to learn more %}
 {% gallery large %}

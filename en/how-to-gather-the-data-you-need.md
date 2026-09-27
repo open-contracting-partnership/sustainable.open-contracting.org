@@ -9,7 +9,7 @@ properties:
   Tags: {}
 sidebar: true
 ---
-{% image /assets/images/Asset_11a.webp %}
+![](/assets/images/Asset_11a.webp)
 
 # How to gather the data you need
 

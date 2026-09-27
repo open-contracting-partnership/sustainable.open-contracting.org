@@ -23,7 +23,7 @@ Bien qu’il existe de nombreuses façons de définir des catégories prioritair
  clair que nous recommandons à la fin de cette section.
 {% endcallout %}
 
-{% image /assets/images/Prioritisation-Diagram-fr.png wide %}
+![Définir les priorités : examiner une liste préliminaire de catégories de marchés, formulées selon un système de classification comme le CPV ou l’UNSPSC ; repérer les catégories de marchés à fort potentiel, selon la fréquence des marchés, leur valeur, leur incidence environnementale et sociale, et leur importance pour le marché local ; et évaluer la facilité de mise en place, selon les normes de durabilité, les éco-étiquettes présentes sur le marché, les initiatives du marché local et les politiques et réglementations relatives à la durabilité](/assets/images/Prioritisation-Diagram-fr.png){: .wide}
 
 ## Examiner une liste préliminaire de catégories de marchés
 

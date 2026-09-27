@@ -51,7 +51,7 @@ Si une administration choisit le résultat « Réduction du niveau d’émission
 
 Le [modèle de cadre de suivi et d’évaluation](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) fournit des orientations sur les informations nécessaires pour évaluer chaque indicateur, une méthode de calcul et des possibilités pour collecter les données requises. Voici un extrait de ce cadre.
 
-{% image /assets/images/GOIS-2.png %}
+![Un exemple du cadre de suivi et d’évaluation : l’objectif de réduire les émissions de carbone, dont le résultat est de réduire la valeur carbone associée aux marchés publics, et dont l’indicateur est les tonnes de CO2 associées aux marchés publics. Les informations nécessaires sont l’estimation de CO2 des biens achetés et le nombre d’unités achetées, la méthode de calcul est les estimations de CO2 multipliées par le nombre d’unités, et les possibilités d’enregistrer les données sont dans la possibilité 2, prévoir les émissions probables, du cas d’usage de la réduction des émissions de carbone](/assets/images/GOIS-2.png)
 
 Votre organisation peut reprendre la structure du tableau ci-dessus pour définir ses propres objectifs, résultats et indicateurs concernant ses domaines d’achat prioritaires. Pour voir d’autres exemples, vous trouverez notre modèle de cadre de suivi et d’évaluation complet en cliquant sur le lien ci-dessous.
 

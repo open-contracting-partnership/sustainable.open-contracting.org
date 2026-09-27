@@ -66,7 +66,7 @@ Existe una serie de opciones diferentes disponibles para aquellos que buscan vin
 
 **A continuación, describimos cómo pueden los equipos comenzar a implementar estas iniciativas:**
 
-{% image /assets/images/Screenshot_2022-02-17_at_09.49.19.png wide %}
+![El panel de Spend Network de las emisiones de CO2 estimadas de los contratos públicos: las emisiones acumuladas y mensuales en el tiempo, con reducciones del 0% al 80%, y las emisiones por comprador](/assets/images/Screenshot_2022-02-17_at_09.49.19.png){: .wide}
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado cuatro que pueden ser especialmente útiles para medir la reducción de carbono:
 

@@ -10,7 +10,7 @@ sidebar: true
 
 La contratación pública sostenible (CPS) se refiere a la forma en que las organizaciones compran bienes y servicios a través de los tres pilares del desarrollo sostenible: **beneficios económicos, sociales y ambientales**.
 
-{% image /assets/images/What-is-SPP-Diagram-es.png wide %}
+![Los tres pilares de la contratación pública sostenible: medio ambiente (emisiones de CO2, residuos, reutilización de recursos, eficiencia energética, uso del agua y reciclaje), social (diversidad e iguales oportunidades, derechos laborales, PYMEs, seguridad y salud ocupacional, y transparencia en la cadena de suministros) y económico (innovación del mercado, empleo formal, economía local y uso transparente de los recursos públicos)](/assets/images/What-is-SPP-Diagram-es.png){: .wide}
 
 [Escuchamos de los usuarios](/lo-que-nos-dijeron-los-usuarios) que, a menudo, evaluar y generar mejores impactos ambientales es el más desafiante de estos tres objetivos. Entonces, mientras mantenemos el marco más amplio de la contratación sostenible, esta guía se centrará en enfoques para mejorar la sostenibilidad ambiental (también conocida como "compra ecológica") sin comprometer los objetivos relacionados con la sostenibilidad económica o social.
 
@@ -31,7 +31,7 @@ Todos todavía estamos aprendiendo cómo hacer esto, por lo que también necesit
 
 La apertura es un cambio de mentalidad, que abarca datos de contratación abierta, canales de comunicación abierta y enfoques regulatorios abiertos. De hecho, creemos que hay siete formas clave en que la apertura puede ayudar al proceso de adquisición sostenible, que se describen a continuación:
 
-{% image /assets/images/7_Open_SPP_fr.png wide %}
+![Las siete prácticas clave de la CPS abierta, desde comunicar sus políticas y enfoques CPS hasta usar datos de reporte para mejorar y escalar la CPS](/assets/images/7_Open_SPP_fr.png){: .wide}
 
 {% callout default /assets/images/7_areas_open_SPP.svg %}
 
@@ -117,7 +117,7 @@ Los identificadores le permiten a usted vincular datos de diferentes sistemas. U
 
 El [Estándar de Datos para las Contrataciones Abiertas](https://standard.open-contracting.org/latest/es/schema/identifiers/) brinda orientación sobre los identificadores que se pueden usar para ayudarlo a unirse y hacer referencia cruzada de datos de contratación.
 
-{% image /assets/images/OCDS_model.png wide %}
+![Las cinco etapas de un proceso de contratación, planeación, licitación, adjudicación, contrato e implementación, unidas en un registro de contrato por el Estándar de Datos para las Contrataciones Abiertas](/assets/images/OCDS_model.png){: .wide}
 
 También en el esquema OCDS hay más orientación sobre los identificadores que se pueden usar para ayudarlo a unir y hacer referencia cruzada de datos de contratación, incluidas las identificaciones corporativas para contratistas e identificadores organizacionales para rastrear quién está involucrado en la formación y gestión de contratos.
 

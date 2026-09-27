@@ -62,7 +62,7 @@ Les clauses de durabilité sont souvent perçues comme distinctes des exigences 
 
 {% endtoggle %}
 
-{% image /assets/images/SPP-Contract-Diagram-fr.png wide %}
+![Couverture : la précision, la contextualisation et la cohérence soutiennent la contrainte, qui mène au contrôle](/assets/images/SPP-Contract-Diagram-fr.png){: .wide}
 
 ## Se doter de normes d’amélioration continue claires
 

@@ -70,7 +70,7 @@ The layout renders the breadcrumbs (from the pages at each prefix of the path) a
 
 Each page ends with links to the previous and next pages, in one sequence (`_plugins/sequence.rb`): the sidebar's pages, in order, each followed by the pages that its galleries and page links point to, in their order. A new page is in the sequence once a page in it links to it that way.
 
-Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title (or from `<h1>`, with `hide_title`), in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. Code blocks that aren't code, like worked examples and formulas, are ```` ```text ````. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title (or from `<h1>`, with `hide_title`), in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. An image in a paragraph of its own is an image block, like `![Alt text](/assets/images/OCDS_model.png){: .wide}`, as wide as the text, or with `{: .wide}`, as wide as the content, for diagrams and screenshots whose text would be too small. Its alt text is in the page's language, and empty for decorative illustrations. `_plugins/notion_markdown.rb` reads its width and height from the file (a PNG, JPEG or WebP), so that the browser reserves its space as it loads, and lazy loads it. Code blocks that aren't code, like worked examples and formulas, are ```` ```text ````. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.svg %}
@@ -102,11 +102,10 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 ```liquid
 {% page /prioritize %}
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
-{% image /assets/images/Untitled.jpg %}
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
 ```
 
-A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. An image's argument is its source, and `wide` makes it as wide as the content, for diagrams and screenshots whose text would be too small. Its width and height attributes, which reserve its space as it loads, are read from the file (a PNG, JPEG or WebP). A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
+A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
 
 Tables are `{% table %}` tags, as wide as their content, up to their column's width, with the columns sized by the browser by their content, without breaking words. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). The first row is the header row, whose cells are headers (`<th>`), in bold. The tag's options are:
 

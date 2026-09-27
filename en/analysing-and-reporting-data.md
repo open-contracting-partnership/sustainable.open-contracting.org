@@ -9,7 +9,7 @@ properties:
   Tags: {}
 sidebar: true
 ---
-{% image /assets/images/Asset_11e.webp %}
+![](/assets/images/Asset_11e.webp)
 
 # Analysing and reporting data
 

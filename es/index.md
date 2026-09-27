@@ -26,7 +26,7 @@ hide_title: true
 - [Accéder au guide en français](https://achatdurable.open-contracting.org/){: lang="fr"}
 {% endcallout %}
 
-{% image /assets/images/Structure_Diagram_esp.png wide %}
+![La estructura del conjunto de herramientas: una introducción a la CPS abierta y a este conjunto de herramientas, y luego tres partes, cada una con sus páginas: 1. Plan, lo que puede hacer para establecer el mejor marco para la implementación; 2. Implementación, cómo puede implementar la CPS abierta durante el proceso de contratación; y 3. Datos abiertos y progreso de medición, cómo puede usar los datos abiertos para impulsar y medir el progreso hacia los objetivos de sostenibilidad](/assets/images/Structure_Diagram_esp.png){: .wide}
 
 {% database El proceso de implementación Open SPP %}
 {% gallery medium %}
@@ -56,4 +56,4 @@ hide_title: true
 {% endgallery %}
 {% enddatabase %}
 
-{% image /assets/images/Organizations-es.png %}
+![Open Contracting Partnership, PUBLIC y Spend Network, con el apoyo de la Cooperación Alemana, implementado por GIZ](/assets/images/Organizations-es.png)

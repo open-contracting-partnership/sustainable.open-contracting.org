@@ -9,12 +9,57 @@ module NotionMarkdown
     a: "notion-link link",
   }.freeze
 
-  # Lists and list items are converted below.
-  CLASSES.slice(:p, :a).each do |type, classes|
-    define_method(:"convert_#{type}") do |el, indent|
-      el.attr["class"] ||= classes
-      super(el, indent)
+  # The site's source directory, in which images' paths are resolved.
+  class << self
+    attr_accessor :source
+  end
+
+  def convert_a(el, indent)
+    el.attr["class"] ||= CLASSES[:a]
+    super
+  end
+
+  # A paragraph whose only content is an image is an image block, as wide as the text unless its class is "wide", like
+  # ![Alt text](/assets/images/file.png){: .wide}. Its width and height are the file's, so that the browser reserves
+  # its space.
+  def convert_p(el, indent)
+    image = el.children.first if el.children.size == 1
+    unless image&.type == :img
+      el.attr["class"] ||= CLASSES[:p]
+      return super
     end
+
+    src = image.attr["src"]
+    width, height = NotionMarkdown.image_size(File.join(NotionMarkdown.source, CGI.unescape(src)))
+    classes = ["notion-image", "page-width", image.attr["class"].to_s.split.include?("wide") ? "wide" : nil].compact
+    %(#{" " * indent}<div class="#{classes.join(" ")}"><img alt="#{escape_html(image.attr["alt"].to_s, :attribute)}") +
+      %( loading="lazy" width="#{width}" height="#{height}" style="object-fit:contain;object-position:center;) +
+      %(height:auto" src="#{escape_html(src, :attribute)}"/></div>\n)
+  end
+
+  # Return a PNG, JPEG or WebP file's width and height in pixels, from its header.
+  def self.image_size(path)
+    data = File.binread(path)
+    if data.start_with?("\x89PNG".b)
+      data[16, 8].unpack("NN")
+    elsif data[0, 4] == "RIFF" && data[8, 4] == "WEBP"
+      case data[12, 4]
+      when "VP8 " then data[26, 4].unpack("vv").map { |n| n & 0x3FFF }
+      when "VP8L"
+        bits = data[21, 4].unpack1("V")
+        [(bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1]
+      when "VP8X" then [data[24, 3], data[27, 3]].map { |bytes| (bytes + "\0").unpack1("V") + 1 }
+      end
+    elsif data.start_with?("\xFF\xD8".b)
+      i = 2
+      while i + 9 < data.bytesize
+        marker, length = data[i + 1].ord, data[i + 2, 2].unpack1("n")
+        # A start of frame marker, other than DHT (C4), JPG (C8) and DAC (CC), has the height and width.
+        return data[i + 5, 4].unpack("nn").reverse if (0xC0..0xCF).cover?(marker) && ![0xC4, 0xC8, 0xCC].include?(marker)
+
+        i += 2 + length
+      end
+    end || raise(ArgumentError, "can't read the size of #{path}")
   end
 
   # A heading's level in Markdown is its class, which sets its size, since _plugins/heading_levels.rb renumbers its tag.
@@ -96,3 +141,5 @@ module NotionMarkdown
 end
 
 Kramdown::Converter::Html.prepend(NotionMarkdown)
+
+Jekyll::Hooks.register(:site, :after_init) { |site| NotionMarkdown.source = site.source }

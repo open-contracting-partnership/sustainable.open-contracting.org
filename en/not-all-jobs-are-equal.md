@@ -9,7 +9,7 @@ properties:
   Tags: {}
 sidebar: true
 ---
-{% image /assets/images/Asset_11d.webp %}
+![](/assets/images/Asset_11d.webp)
 
 # Not all jobs are equal
 
