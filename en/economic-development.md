@@ -7,6 +7,8 @@ icon: /assets/images/Icons_Light_Green2.svg
 notion_id: "17d7b9e2fd804758a8dbf136a7fdfdec"
 sidebar: true
 ---
+{% image /assets/images/Asset_110.jpg 4478 2784 %}
+
 ## What is it?
 
 For many industries contracting has become a global affair, governments are rightly keen to gain economic advantages from a global economy but need to ensure that contracting can also be used as a driver to create jobs and innovation within their own region. This use case describes the use of procurement analytics and datasets to drive economic development forwards across particular industries or geographical regions within an economy.
