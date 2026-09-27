@@ -70,7 +70,8 @@ Finally, Type III EPDs can be very useful to compare amongst different products,
 
 As explained in this section, Type I ecolabels are often the most commonly used labels in public procurement. To get a better understanding of the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) offers a directory of the main ecolabels according to product and services categories. For more guidance on relevant ecolabels in specific procurement categories see sections on [ICT](/ict-sector) and [construction](/construction-sector).
 
-{% database Ecolabels  %}
+### Ecolabels
+
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -134,7 +135,7 @@ items:
   Geographical Area: Norway
   Includes social criteria: 'Yes'
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

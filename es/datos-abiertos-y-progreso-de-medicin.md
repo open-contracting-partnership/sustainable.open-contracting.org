@@ -53,7 +53,8 @@ Click through to learn more about these three environments:
 Tal como explicamos en la introducción de este conjunto de herramientas, los datos abiertos de alta calidad son cruciales para impulsar y medir el progreso al implementar SPP. Para abordar las bases de datos clave, recomendamos consultar nuestra [guía Banderas Verdes (*Green Flags*)](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) y el [Open Contracting Playbook](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit).
 {% endcallout %}
 
-{% database **Haga clic aquí para más información** %}
+## Haga clic aquí para más información
+
 {% gallery medium %}
 
 - title: Opciones para el uso de datos
@@ -72,4 +73,3 @@ Tal como explicamos en la introducción de este conjunto de herramientas, los da
   link: /costeo-del-ciclo-de-vida
   icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
-{% enddatabase %}

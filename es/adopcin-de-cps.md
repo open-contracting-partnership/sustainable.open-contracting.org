@@ -44,7 +44,8 @@ Como tal, es vital que los gobiernos sean claros acerca de las políticas que de
 
 Una vez que esto se ha establecido claramente, puede medir y registrar la aceptación de las políticas de CPS.
 
-{% database **Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:** %}
+Haga clic en las siguientes secciones para obtener más información sobre cómo comenzar:
+
 {% gallery medium %}
 
 - title: Cómo registrar CPS en contratación pública
@@ -60,7 +61,6 @@ Una vez que esto se ha establecido claramente, puede medir y registrar la acepta
   link: /adopcin-de-cps/anlisis-e-informe-de-datos
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Indicadores de muestra
 

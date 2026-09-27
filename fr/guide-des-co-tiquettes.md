@@ -70,7 +70,8 @@ Enfin, les déclarations environnementales de produit correspondant aux éco-ét
 
 Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) propose un répertoire des principales éco-étiquettes triées par catégories de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
 
-{% database **Éco-étiquettes**  %}
+### Éco-étiquettes
+
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -134,7 +135,7 @@ items:
   Zone géographique: Norvège
   Contient des critères sociaux: Oui
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

@@ -12,7 +12,8 @@ sidebar: true
 **In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes.** This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process.
 {% endcallout %}
 
-{% database Click through to learn more %}
+# Click through to learn more
+
 {% gallery medium %}
 
 - title: Construction sector
@@ -22,4 +23,3 @@ sidebar: true
   link: /ict-sector
   icon: /assets/images/Icons_Grey5.svg
 {% endgallery %}
-{% enddatabase %}

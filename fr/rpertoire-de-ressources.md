@@ -10,7 +10,6 @@ sidebar: true
 *Dans cette section, nous présentons plusieurs références en matière d’orientations et de pratiques concernant les marchés publics durables. Nous indiquons si les ressources existantes fournissent des orientations sur la mise en place globale de marchés publics durables, certaines pratiques durables de passation de marchés, comme la définition des catégories de marchés prioritaires, ou l’analyse de l’environnement habilitant.*
 {% endcallout %}
 
-{% database **Répertoire de ressources** %}
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -408,7 +407,7 @@ items:
   SPP focus: [Social]
   Pages: 64
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

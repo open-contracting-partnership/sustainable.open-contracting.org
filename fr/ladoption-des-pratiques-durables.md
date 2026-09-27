@@ -46,7 +46,8 @@ De ce fait, il est essentiel que les gouvernements soient clairs concernant les 
 
 Une fois ces éléments clairement établis, vous pourrez collecter et évaluer des informations témoignant de la mise en œuvre de politiques sur les marchés publics durables. Cliquez sur les sections suivantes pour en savoir plus sur le début de cette démarche.
 
-{% database Cliquez sur les sections ci-dessous pour en savoir plus: %}
+Cliquez sur les sections ci-dessous pour en savoir plus:
+
 {% gallery medium %}
 
 - title: How to record SPP in procurement
@@ -62,7 +63,6 @@ Une fois ces éléments clairement établis, vous pourrez collecter et évaluer 
   link: /ladoption-des-pratiques-durables/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Exemples d’indicateurs
 

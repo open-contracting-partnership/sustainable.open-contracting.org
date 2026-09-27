@@ -10,7 +10,6 @@ sidebar: true
 In this section, we include **information on existing Sustainable Public Procurement (SPP)** guidance and practice references. Available resources have been classified according to whether they provide guidance, or references, on overall SPP implementation, or focus on specific SPP practices, such as prioritizing procurement categories, or establishing an enabling framework.
 {% endcallout %}
 
-{% database Resource Directory %}
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -408,7 +407,7 @@ items:
   SPP focus: [Social]
   Pages: 64
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

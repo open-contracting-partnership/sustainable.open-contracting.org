@@ -30,7 +30,8 @@ As you can see on the diagram below, **in this introductory section we provide y
 
 ![Introduction, key information about this toolkit: how to use this toolkit (how this toolkit is structured and who it is for), what is Open SPP? (what Open SPP is and how it works), and what our users told us (how user needs shaped the design of this toolkit)](/assets/images/Group_2Introduction-2.png){: .wide}
 
-{% database Click through to learn more %}
+# Click through to learn more
+
 {% gallery large %}
 
 - title: How to use this toolkit
@@ -43,4 +44,3 @@ As you can see on the diagram below, **in this introductory section we provide y
   link: /what-our-users-told-us
   icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}
-{% enddatabase %}

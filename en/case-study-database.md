@@ -10,7 +10,8 @@ sidebar: true
 **In this section, we have included best practice examples of SPP implementation around the world.**
 {% endcallout %}
 
-{% database Africa %}
+# Africa
+
 {% gallery large %}
 
 - title: Promoting equal access to government opportunities in Kenya
@@ -33,9 +34,9 @@ sidebar: true
   cover_position: 54.58
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Latin America and the Caribbean %}
+# Latin America and the Caribbean
+
 {% gallery large %}
 
 - title: Promoting gender inclusion through procurement in Chile
@@ -75,9 +76,9 @@ sidebar: true
   cover: /assets/images/LAC_-_Mexico.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Europe %}
+# Europe
+
 {% gallery large %}
 
 - title: Standardizing sustainability requirements according to market capability in the Basque Country
@@ -129,9 +130,9 @@ sidebar: true
   cover_position: 55.89
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database East and Southeast Asia %}
+# East and Southeast Asia
+
 {% gallery large %}
 
 - title: Prioritizing procurement categories in Vietnam
@@ -148,9 +149,9 @@ sidebar: true
   cover: /assets/images/Asia_-_Thailand.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database North America %}
+# North America
+
 {% gallery large %}
 
 - title: Gathering supplier performance data in Wichita
@@ -159,4 +160,3 @@ sidebar: true
   cover_position: 52.29
   cover_only: true
 {% endgallery %}
-{% enddatabase %}

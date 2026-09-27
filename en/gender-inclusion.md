@@ -34,7 +34,6 @@ In most countries, the participation of women businesses in public procurement c
 
 ## Getting started
 
-{% database Getting started %}
 {% gallery medium %}
 
 - title: How to analyze the gender pay gap
@@ -50,7 +49,6 @@ In most countries, the participation of women businesses in public procurement c
   link: /gender-inclusion/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Options for data use
 

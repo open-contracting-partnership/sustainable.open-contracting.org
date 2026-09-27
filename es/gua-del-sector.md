@@ -12,7 +12,8 @@ sidebar: true
 **En esta sección brindamos una guía específica sobre cómo integrar la sostenibilidad en los procesos de adquisición de TIC y construcción.** Esto incluye orientación relacionada con certificaciones relevantes que se pueden usar como referencia, criterios clave de sostenibilidad a considerar, opciones para recopilar los datos necesarios de los proveedores y métodos de adquisición útiles que pueden respaldar el proceso.
 {% endcallout %}
 
-{% database Haga clíc para más información %}
+# Haga clíc para más información
+
 {% gallery medium %}
 
 - title: Sector de la construcción
@@ -22,4 +23,3 @@ sidebar: true
   link: "/sector-ict-en-ingls"
   icon: /assets/images/Icons_Grey5.svg
 {% endgallery %}
-{% enddatabase %}

@@ -130,10 +130,9 @@ The table of options for data use is an `{% options_table /options-for-data-use 
 
 A preview of another page's table, like the monitoring and evaluation page's example from the sample framework, is a `{% table_row /monitoring-evaluation/sample-me-framework Tonnes of Co2 associated with public contracts %}` tag: the first table on that page, with its options, but only its header and the row with that cell, so that the row is edited once. The build fails if no row, or more than one, has that cell.
 
-Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards, and inline databases are `{% database %}` tags, whose argument is the database's title in Markdown:
+Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), containing a YAML list of cards. A gallery's title, if any, is a Markdown heading before it, like a section's table of contents ("Click through to learn more"), or a paragraph, like an instruction:
 
 ```liquid
-{% database Click through to learn more %}
 {% gallery medium %}
 
 - title: Prioritize
@@ -145,12 +144,11 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
   cover_position: 55.89
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 ```
 
 A card without a `link` isn't clickable, and a card without an `icon` has Notion's page icon. `cover_position` defaults to 50, and `cover_only` hides the title under the cover.
 
-Databases' table views, like the resource directory and the ecolabels, are `{% database_table %}` tags, containing YAML with the columns and the items. The first column is the items' titles, and a column of pills lists its values' colors. Each item is a title, an optional link, which the title links to (like the resource's attachment), and its values, by column name: a pill, a list of pills, a number or text. An item is edited in its table. The table's caption, for screen readers, is the database's title (or the page's, outside a `{% database %}` tag). The title column is 280px wide and the others 200px. The comments turn off the Markdown linter's bare URL rule, which the links would break:
+Databases' table views, like the resource directory and the ecolabels, are `{% database_table %}` tags, containing YAML with the columns and the items. The first column is the items' titles, and a column of pills lists its values' colors. Each item is a title, an optional link, which the title links to (like the resource's attachment), and its values, by column name: a pill, a list of pills, a number or text. An item is edited in its table. The table's caption, for screen readers, is the page's title. The title column is 280px wide and the others 200px. The comments turn off the Markdown linter's bare URL rule, which the links would break:
 
 ```liquid
 {% comment %}

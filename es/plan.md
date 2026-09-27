@@ -12,7 +12,8 @@ En esta sección **le proporcionamos toda la información necesaria para empezar
 Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsecciones que solucionar las necesidades clave que nos expresaron las partes interesadas, para poder dar inicia a sus proyectos.
 {% endcallout %}
 
-{% database **Para más información, debe consultar estas subsecciones** %}
+# Para más información, debe consultar estas subsecciones
+
 {% gallery medium %}
 
 - title: Establezca un entorno habilitante
@@ -31,4 +32,3 @@ Como podrá ver en la ilustración esquemática abajo, hemos creado cinco subsec
   link: /cree-un-plan-de-accin
   icon: /assets/images/icons_D_Green2.svg
 {% endgallery %}
-{% enddatabase %}

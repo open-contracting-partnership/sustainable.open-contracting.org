@@ -10,7 +10,6 @@ sidebar: true
 En esta sección, incluimos **información sobre las guías y referencias prácticas existentes de Contratación Pública Sostenible (CPS)**. Los recursos disponibles se han clasificado según si brindan orientación o referencias sobre la implementación general de APP, o se enfocan en prácticas específicas de APP, como priorizar categorías de contrataciones o establecer un marco propicio.
 {% endcallout %}
 
-{% database Directorio de recursos %}
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -408,7 +407,7 @@ items:
   SPP focus: [Social]
   Pages: 64
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

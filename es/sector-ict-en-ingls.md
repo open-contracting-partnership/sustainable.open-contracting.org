@@ -20,7 +20,8 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
 
 ![Los cuatro pasos de la CPS abierta en el sector de las TIC: establecer el marco de trabajo (identificar la normativa pertinente, como las normas sobre residuos electrónicos y los convenios de la OIT, y buscar normas de sostenibilidad existentes, como TCO Certified y Energy Star); seleccionar sus datos (seleccionar las variables de sostenibilidad clave, como el contenido reciclado, la eficiencia energética y las sustancias peligrosas, y decidir cómo usarlas para seleccionar a los proveedores); recopilar los datos (solicitar la documentación pertinente, como los códigos de conducta de los proveedores, y reunir pruebas durante la implementación, como cuestionarios y auditorías); y apoyar una CPS abierta efectiva (definir sus necesidades y entender la capacidad del mercado, y seleccionar las mejores prácticas de contratación, como comprar a revendedores y las cláusulas de mejora continua)](/assets/images/D3_-_ICT_Diagram.jpg){: .wide}
 
-{% database **Haga clic para mayor información** %}
+# Haga clic para mayor información
+
 {% gallery medium %}
 
 - title: Establezca el marco de trabajo
@@ -36,4 +37,3 @@ Esta sección se enfoca en la compra de equipo de hardware, que incluye principa
   link: /sector-ict-en-ingls/apoye-cps-efectiva
   icon: /assets/images/Icons_Grey6.svg
 {% endgallery %}
-{% enddatabase %}

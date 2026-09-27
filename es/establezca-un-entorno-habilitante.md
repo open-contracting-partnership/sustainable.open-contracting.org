@@ -68,7 +68,8 @@ En tal caso, igualmente se puede diseñar un proceso de evaluación para que la 
 
 Dentro de su régimen de contratación Debe haber algunos vehículos de política, tales como Acuerdos Marco, o protocolos para diálogo competitivo, que al mismo tiempo juegan un papel importante en la habilitación de la entrega de una contratación sostenible. En esta sección incluimos información sobre algunos de estos mecanismos, y el rol que ponen jugar en el contexto de CPS.
 
-{% database **Habilitantes clave de CPS Abierta** %}
+### Habilitantes clave de CPS Abierta
+
 {% gallery medium %}
 
 - title: Disposiciones explícitas que incluyan las sostenibilidad como criterio de adjudicación
@@ -87,7 +88,6 @@ Dentro de su régimen de contratación Debe haber algunos vehículos de polític
   link: /establezca-un-entorno-habilitante/umbrales-y-sectores-con-reglamentos-diferentes
   icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Comparta su sendero de cumplimiento
 

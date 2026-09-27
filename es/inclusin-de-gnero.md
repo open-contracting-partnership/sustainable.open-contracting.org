@@ -34,7 +34,6 @@ En la mayoría de los países, la participación de las empresas de mujeres en l
 
 ## Para empezar
 
-{% database **Para empezar** %}
 {% gallery medium %}
 
 - title: "¿Cómo analizar la brecha salarial por género?"
@@ -50,7 +49,6 @@ En la mayoría de los países, la participación de las empresas de mujeres en l
   link: /inclusin-de-gnero/anlisis-e-informe-de-datos
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Opciones para uso de datos
 

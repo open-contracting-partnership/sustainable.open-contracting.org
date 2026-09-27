@@ -70,7 +70,8 @@ Finalmente, las EPD de Tipo III pueden ser muy útiles para comparar entre difer
 
 Tal como se explicó en esta sección, las etiquetas ecológicas Tipo I suelen ser las más utilizadas en la contratación pública. Para comprender mejor la disponibilidad de las ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/eco/eco-friendly-products-by-category/) ofrece un directorio de las principales ecoetiquetas según las categorías de productos y servicios. Para obtener más orientación sobre etiquetas ecológicas relevantes en categorías de contrataciones específicas, consulte las secciones sobre [TIC](/sector-ict-en-ingls) y [construcción](/sector-de-la-construccin-en-ingls).
 
-{% database **Ecoetiquetas**  %}
+### Ecoetiquetas
+
 {% comment %}
 <!-- pyml disable md034 -->
 {% endcomment %}
@@ -134,7 +135,7 @@ items:
   Área geográfica: Noruega
   Incluye criterios sociales: Si
 {% enddatabase_table %}
+
 {% comment %}
 <!-- pyml enable md034 -->
 {% endcomment %}
-{% enddatabase %}

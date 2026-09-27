@@ -62,7 +62,6 @@ Il existe une grande variété de possibilités d’analyse dans ce domaine. Les
 
 Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie.
 
-{% database Cliquez sur les sous-sections suivantes pour en savoir plus concernant le processus et les données nécessaires pour calculer le coût du cycle de vie: %}
 {% gallery medium %}
 
 - title: How to value a life cycle
@@ -78,7 +77,6 @@ Cliquez sur les sous-sections suivantes pour en savoir plus concernant le proces
   link: /le-cot-du-cycle-de-vie/life-cycle-costing-and-spp
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Possibilités d’utilisation des données
 

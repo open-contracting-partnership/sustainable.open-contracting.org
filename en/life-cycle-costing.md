@@ -60,7 +60,8 @@ There are a wide range of analysis options in this area. Governments have very b
 4. Staffing:
    1. Be mindful of the time and resources required to manage an asset. You may choose to purchase on a supply and maintain basis, in this case it is tempting to believe that there is no staff time to be spent on the asset, but you will still need to manage the contract and monitor and evaluate the supplier’s work. Every asset will consume staff time, be sure to assess this cost conservatively.
 
-{% database Click through to the following sections to find out more about the process and data needed to calculate life cycle costs: %}
+Click through to the following sections to find out more about the process and data needed to calculate life cycle costs:
+
 {% gallery medium %}
 
 - title: How to value a life cycle
@@ -76,7 +77,6 @@ There are a wide range of analysis options in this area. Governments have very b
   link: /life-cycle-costing/life-cycle-costing-and-spp
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Options for data use
 

@@ -44,7 +44,6 @@ b) ≥ 1 directrice générale ou directrice des opérations (présidente/vice-p
 
 c) Des femmes sont propriétaires exclusives de l’entreprise.
 
-{% database Getting started %}
 {% gallery medium %}
 
 - title: How to analyze the gender pay gap
@@ -60,7 +59,6 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
   link: /linclusion-des-genres/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Possibilités de collecte des données
 

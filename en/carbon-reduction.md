@@ -38,7 +38,8 @@ Publication and analysis of good data will unlock learning and iteration on what
 
 The immediate priorities for carbon reduction include carbon outputs and other greenhouse gas emissions such as methane and hazardous emissions such as nitrogen oxides. Beyond this, other metrics around carbon reduction include compliance to certification and measurement of plastic waste.
 
-{% database Click through to the following sections to find out more about how to get started: %}
+Click through to the following sections to find out more about how to get started:
+
 {% gallery medium %}
 
 - title: How to estimate carbon values?
@@ -54,7 +55,6 @@ The immediate priorities for carbon reduction include carbon outputs and other g
   link: /carbon-reduction/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Options for data use
 

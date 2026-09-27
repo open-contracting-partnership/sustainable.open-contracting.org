@@ -20,7 +20,8 @@ This section focuses on the purchase of hardware equipment, which mainly include
 
 ![The four steps of Open SPP in the ICT sector: setting the framework (identify relevant regulations, like electronic waste regulations and ILO conventions, and look for existing sustainability standards, like TCO Certified and Energy Star); selecting your data (select key sustainability variables, like recycled content, energy efficiency and hazardous substances, and decide how to use them to select suppliers); collecting the data (request relevant documentation, like supplier codes of conduct, and gather evidence during implementation, like questionnaires and audits); and supporting effective Open SPP (define your needs and understand market capability, and select the best procurement practices, like procuring from resellers and continuous improvement clauses)](/assets/images/D3_-_ICT_Diagram.jpg){: .wide}
 
-{% database **Click through to learn more** %}
+# Click through to learn more
+
 {% gallery medium %}
 
 - title: Setting the framework
@@ -36,4 +37,3 @@ This section focuses on the purchase of hardware equipment, which mainly include
   link: /le-secteur-tic-en-anglais/supporting-effective-spp
   icon: /assets/images/Icons_Grey6.svg
 {% endgallery %}
-{% enddatabase %}

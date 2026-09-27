@@ -60,7 +60,8 @@ Hay una amplia gama de opciones de análisis en esta área. Los gobiernos tienen
 4. Personal:
    1. Tenga en cuenta el tiempo y los recursos necesarios para gestionar un activo. Puede optar por comprar sobre la base de suministro y mantenimiento, en este caso es tentador creer que no hay tiempo del personal para gastar en el activo, pero aún tendrá que administrar el contrato y monitorear y evaluar el trabajo del proveedor. Cada activo consumirá tiempo del personal, asegúrese de evaluar este costo de manera conservadora.
 
-{% database **Haga clic en las siguientes secciones para obtener más información sobre el proceso y los datos necesarios para calcular los costos del ciclo de vida**: %}
+Haga clic en las siguientes secciones para obtener más información sobre el proceso y los datos necesarios para calcular los costos del ciclo de vida:
+
 {% gallery medium %}
 
 - title: Cómo valorar un ciclo de vida
@@ -76,7 +77,6 @@ Hay una amplia gama de opciones de análisis en esta área. Los gobiernos tienen
   link: /costeo-del-ciclo-de-vida/costeo-del-ciclo-de-vida-y-cps
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Opciones para el uso de datos
 

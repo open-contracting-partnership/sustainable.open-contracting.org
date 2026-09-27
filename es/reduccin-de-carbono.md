@@ -42,7 +42,8 @@ La publicación y el análisis de buenos datos desbloquearán el aprendizaje y l
 
 Las prioridades inmediatas para la reducción de carbono incluyen emisiones de carbono y otras emisiones de gases de efecto invernadero como el metano y emisiones peligrosas como los óxidos de nitrógeno. Más allá de esto, otras métricas en torno a la reducción de carbono incluyen el cumplimiento de la certificación y la medición de los desechos plásticos.
 
-{% database Haga clic en las siguientes secciones para conocer más acerca de cómo empezar: %}
+Haga clic en las siguientes secciones para conocer más acerca de cómo empezar:
+
 {% gallery medium %}
 
 - title: "¿Cómo estimar los valores de carbono?"
@@ -58,7 +59,6 @@ Las prioridades inmediatas para la reducción de carbono incluyen emisiones de c
   link: /reduccin-de-carbono/anlisis-y-reporte-de-datos
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Opciones para el uso de datos
 

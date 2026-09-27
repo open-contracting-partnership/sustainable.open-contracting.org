@@ -22,7 +22,8 @@ Projects related to each of **these asset types are normally divided into four s
 
 ![The four steps of Open SPP in the construction sector: setting the framework (identify relevant regulations, like green building codes, and look for existing sustainability standards, like ISO 14001, BREEAM, LEED and EDGE); selecting your data (select key sustainability variables, like material use, generated waste and energy efficiency, and decide how to use them to select suppliers); collecting the data (request relevant documentation, like bills of quantities and environmental product declarations, and gather evidence during implementation, like quality control reports and third-party audits); and supporting effective Open SPP (define your needs and understand market capability, like early supply chain integration, and select the best procurement practices, like outcomes-based procurement and two-stage tendering)](/assets/images/D4_-_Construction_Diagram.jpg){: .wide}
 
-{% database Click through to learn more %}
+# Click through to learn more
+
 {% gallery medium %}
 
 - title: Setting the framework
@@ -38,4 +39,3 @@ Projects related to each of **these asset types are normally divided into four s
   link: /construction-sector/supporting-effective-spp
   icon: /assets/images/Icons_Grey6.svg
 {% endgallery %}
-{% enddatabase %}

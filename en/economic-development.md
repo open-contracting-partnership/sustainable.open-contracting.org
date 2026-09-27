@@ -56,7 +56,8 @@ Buyers can search for local firms who have performed similar contracts based on 
 
 Buyers can identify categories of interest and measure the growth based on contracting spend compared to previous years. This can extend to key industries of interest subordinate to larger industries, for instance those further down the supply chain.
 
-{% database Getting started %}
+## Getting started
+
 {% gallery medium %}
 
 - title: What to measure?
@@ -75,7 +76,6 @@ Buyers can identify categories of interest and measure the growth based on contr
   link: /analysing-and-reporting-data
   cover: /assets/images/Asset_11e.webp
 {% endgallery %}
-{% enddatabase %}
 
 ## What can you do in your organisation?
 

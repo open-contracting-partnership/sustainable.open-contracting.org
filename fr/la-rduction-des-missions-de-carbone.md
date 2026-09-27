@@ -42,7 +42,8 @@ La publication et l’analyse de données de qualité permettront d’apprendre 
 
 Les priorités immédiates concernant la réduction des émissions de carbone concernent les rejets de carbone, les gaz à effet de serre, tels que le méthane, et les émissions de substances dangereuses, comme l’oxyde d’azote. Par ailleurs, d’autres indicateurs concernant la réduction des émissions de carbone peuvent porter sur le respect de certaines normes et la production de déchets plastiques.
 
-{% database Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics : %}
+Cliquez sur les sections ci-dessous pour en savoir plus sur le processus et les données requises pour calculer le niveau d’émission de carbone des marchés publics :
+
 {% gallery medium %}
 
 - title: How to estimate carbon values?
@@ -58,7 +59,6 @@ Les priorités immédiates concernant la réduction des émissions de carbone co
   link: /la-rduction-des-missions-de-carbone/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Possibilités d’utilisation des données
 

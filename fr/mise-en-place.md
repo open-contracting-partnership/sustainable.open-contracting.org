@@ -66,7 +66,8 @@ Dans ce cas, vous pouvez également concevoir des processus d’évaluation de f
 
 Parmi vos règles de passation de marchés, vous trouverez des instruments de politiques, comme des accords-cadres ou des procédures de dialogue compétitif, qui peuvent également jouer un rôle essentiel de facilitation de la mise en place de marchés publics durables. Dans cette section, vous trouverez une description de certains de ces mécanismes et du rôle qu’ils peuvent jouer en ce qui concerne les marchés publics durables.
 
-{% database **Principaux mécanismes de promotion des marchés publics durables** %}
+## Principaux mécanismes de promotion des marchés publics durables
+
 {% gallery medium %}
 
 - title: Dispositions visant explicitement à intégrer la durabilité aux critères d’attribution
@@ -81,7 +82,6 @@ Parmi vos règles de passation de marchés, vous trouverez des instruments de po
 - title: Interaction ouverte avec les acteurs du marché et dialogue compétitif
   icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Fournir des preuves de conformité
 

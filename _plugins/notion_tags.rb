@@ -151,7 +151,7 @@ module NotionTags
   # mappings with "name", in which the first column is the title, and, for a column of pills, "colors", a mapping of its
   # values to their colors) and "items" (a list of mappings with "title", an optional "link", which the title links to,
   # and a value for each column, by name: a pill or a list of pills, a number, or text).
-  # Its caption, for screen readers, is the title of the database block that contains it, or else of the page.
+  # Its caption, for screen readers, is the page's title.
   class DatabaseTable < Liquid::Block
     def render(context)
       data = YAML.safe_load(super)
@@ -181,12 +181,13 @@ module NotionTags
         end
         "<tr>#{cells.join}</tr>"
       end
-      caption = context.registers[:database_title] || h(context["page"]["title"])
+      caption = h(context["page"]["title"])
       label = h(context.registers[:site].config["table_scroll_label"])
-      %(<div class="notion-collection-table__wrapper" tabindex="0" data-scroll-label="#{label}"><table class="notion-collection-table">) +
+      %(<div class="notion-collection inline"><div class="notion-collection-table__wrapper" tabindex="0" ) +
+        %(data-scroll-label="#{label}"><table class="notion-collection-table">) +
         %(<caption>#{caption}</caption>) +
         %(<thead class="notion-collection-table__head"><tr>#{head.join}</tr></thead>) +
-        %(<tbody class="notion-collection-table__body">#{rows.join}</tbody></table></div>)
+        %(<tbody class="notion-collection-table__body">#{rows.join}</tbody></table></div></div>)
     end
 
     private
@@ -281,24 +282,6 @@ module NotionTags
 
   PAGE_ICON = File.read(File.join(__dir__, "notion_page_icon.svg")).freeze
 
-  # {% database TITLE %}VIEWS{% enddatabase %} renders an inline database with a heading, where TITLE is Markdown.
-  class Database < Liquid::Block
-    def initialize(tag_name, markup, options)
-      super
-      @title = markup.strip
-    end
-
-    def render(context)
-      title = NotionTags.inline(context, @title)
-      context.registers[:database_title] = title
-      views = super.strip
-      context.registers.delete(:database_title)
-      %(<div class="notion-collection inline"><div class="notion-collection__header-wrapper">) +
-        %(<h3 class="notion-collection__header"><span class="notion-semantic-string">#{title}</span></h3></div>) +
-        %(#{views}</div>)
-    end
-  end
-
   # {% gallery SIZE %}CARDS{% endgallery %}, where SIZE is "medium" or "large", and CARDS is a YAML list of cards with
   # keys: title, link (optional), icon (optional), cover (optional), cover_position (default 50) and cover_only.
   class Gallery < Liquid::Block
@@ -311,7 +294,8 @@ module NotionTags
 
     def render(context)
       cards = YAML.safe_load(super) || []
-      %(<div class="notion-collection-gallery #{@size}">#{cards.map { |card| card(card) }.join}</div>)
+      %(<div class="notion-collection inline"><div class="notion-collection-gallery #{@size}">) +
+        %(#{cards.map { |card| card(card) }.join}</div></div>)
     end
 
     private
@@ -463,7 +447,6 @@ Liquid::Template.register_tag("table_row", NotionTags::TableRow)
 Liquid::Template.register_tag("pdf", NotionTags::Pdf)
 Liquid::Template.register_tag("indent", NotionTags::Indent)
 Liquid::Template.register_tag("page", NotionTags::Page)
-Liquid::Template.register_tag("database", NotionTags::Database)
 Liquid::Template.register_tag("database_table", NotionTags::DatabaseTable)
 Liquid::Template.register_tag("gallery", NotionTags::Gallery)
 Liquid::Template.register_tag("table", NotionTags::Table)

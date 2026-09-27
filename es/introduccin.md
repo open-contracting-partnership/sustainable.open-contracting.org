@@ -28,7 +28,8 @@ Los profesionales se dan cuenta de que necesitan comprar cosas de una manera fun
 Como podrá ver en el diagrama a continuación, **en esta sección introductoria le brindamos información sobre qué es la contratación pública abierta y sonstenible, cómo funciona y cómo navegar por este conjunto de herramientas**. También presentamos los conocimientos clave recopilados a partir de la investigación con los usuarios y cómo han dado forma al diseño de este nuevo recurso..
 {% endcallout %}
 
-{% database Haga clíc para más información %}
+# Haga clíc para más información
+
 {% gallery large %}
 
 - title: Cómo puede usar este conjunto de herramientas
@@ -41,4 +42,3 @@ Como podrá ver en el diagrama a continuación, **en esta sección introductoria
   link: /lo-que-nos-dijeron-los-usuarios
   icon: /assets/images/Icons_Blue_Intro2.svg
 {% endgallery %}
-{% enddatabase %}

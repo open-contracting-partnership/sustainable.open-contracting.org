@@ -44,7 +44,8 @@ As such, it is vital for governments to be clear about the policies that they wi
 
 Once this has been clearly established, you can measure and record uptake of SPP policies.
 
-{% database Click through to the following sections to find out more about how to get started: %}
+Click through to the following sections to find out more about how to get started:
+
 {% gallery medium %}
 
 - title: How to record SPP in procurement
@@ -60,7 +61,6 @@ Once this has been clearly established, you can measure and record uptake of SPP
   link: /spp-uptake/analyzing-and-reporting-data
   icon: /assets/images/Icons_Light_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Sample indicators
 

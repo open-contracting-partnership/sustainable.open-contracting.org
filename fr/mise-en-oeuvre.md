@@ -12,7 +12,8 @@ sidebar: true
 
 ![Mise en place, intégrer la durabilité dans vos achats : évaluer les besoins réels (comment tenir compte de la durabilité lorsque vous décidez ce que vous allez acheter ?), choisir une méthode de passation de marchés (quelles approches pouvez-vous utiliser ?), interagir avec le marché (comment parler de durabilité avec vos fournisseurs ?), définir des critères de durabilité (comment évaluer la durabilité dans le processus d’achat ?), préparer les obligations contractuelles (comment traduire les exigences de durabilité en obligations contractuelles ?) et suivre la mise en œuvre (comment s’assurer que les critères de durabilité sont respectés ?)](/assets/images/Group_3Implement-1.jpg){: .wide}
 
-{% database **Cliquez sur une section pour en savoir plus.** %}
+# Cliquez sur une section pour en savoir plus
+
 {% gallery medium %}
 
 - title: Évaluer les besoins réels
@@ -34,4 +35,3 @@ sidebar: true
   link: /suivi-de-lexcution
   icon: /assets/images/Icons_Red2.svg
 {% endgallery %}
-{% enddatabase %}

@@ -10,7 +10,8 @@ sidebar: true
 ***Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.***
 {% endcallout %}
 
-{% database Afrique %}
+# Afrique
+
 {% gallery large %}
 
 - title: Promoting equal access to government opportunities in Kenya
@@ -32,9 +33,9 @@ sidebar: true
   cover_position: 54.58
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Amérique latine et Caraïbes %}
+# Amérique latine et Caraïbes
+
 {% gallery large %}
 
 - title: "Promouvoir l'inclusion des entreprises dirigées par des femmes au Chili"
@@ -74,9 +75,9 @@ sidebar: true
   cover: /assets/images/LAC_-_CDMX.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Europe %}
+# Europe
+
 {% gallery large %}
 
 - title: Standardizing sustainability requirements according to market capability in the Basque Country
@@ -124,9 +125,9 @@ sidebar: true
   cover: /assets/images/Europe_-_Ukraine-1.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Asie de l'Est et du Sud-Est %}
+# Asie de l'Est et du Sud-Est
+
 {% gallery large %}
 
 - title: Sélectionner les catégories de produits à Vietnam
@@ -143,9 +144,9 @@ sidebar: true
   cover: /assets/images/Asia_-_Thailand.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}
 
-{% database Amérique du Nord %}
+# Amérique du Nord
+
 {% gallery large %}
 
 - title: Collecte des données de performance des fournisseurs à Wichita
@@ -153,4 +154,3 @@ sidebar: true
   cover: /assets/images/NorthAmerica-Wichita.webp
   cover_only: true
 {% endgallery %}
-{% enddatabase %}

@@ -51,7 +51,8 @@ Nous avons recensé trois types d’environnements :
 
 {% endtoggle %}
 
-{% database **Cliquez sur une section pour en savoir plus.** %}
+# Cliquez sur une section pour en savoir plus
+
 {% gallery medium %}
 
 - title: Possibilités d’utilisation des données
@@ -70,4 +71,3 @@ Nous avons recensé trois types d’environnements :
   link: /le-cot-du-cycle-de-vie
   icon: /assets/images/Icons_Light_Green2.svg
 {% endgallery %}
-{% enddatabase %}

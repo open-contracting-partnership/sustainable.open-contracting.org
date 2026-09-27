@@ -68,7 +68,8 @@ In this case, you can also design the evaluation process so that sustainability 
 
 Within your procurement regime, there will be certain policy vehicles, such as framework agreements or competitive dialogue procedures, that can also play a major enabling role to deliver sustainable procurement. In this section we include information about what some of these mechanisms are, and what role they can play in the context of SPP.
 
-{% database Key SPP enablers %}
+### Key SPP enablers
+
 {% gallery medium %}
 
 - title: Explicit provisions to include sustainability as award criteria
@@ -87,7 +88,6 @@ Within your procurement regime, there will be certain policy vehicles, such as f
   link: /establish-an-enabling-environment/targets-and-reserved-contracts
   icon: /assets/images/icons_D_Green3.svg
 {% endgallery %}
-{% enddatabase %}
 
 ## Share your compliance trail
 

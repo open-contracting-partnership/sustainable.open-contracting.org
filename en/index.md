@@ -29,7 +29,8 @@ This Open and Sustainable Public Procurement toolkit is also available in French
 
 ![The toolkit's structure: an introduction to Open SPP and this toolkit, then three parts, each with its pages: 1. Plan, what you can do to establish the best framework for implementation; 2. Implement, how you can implement Open SPP during the procurement process; and 3. Open data and measuring progress, how you can use open data to drive and measure progress against sustainability goals](/assets/images/Structure_Diagram-1.png){: .wide}
 
-{% database Your Open SPP journey %}
+## Your Open SPP journey
+
 {% gallery medium %}
 
 - title: Introduction
@@ -55,6 +56,5 @@ This Open and Sustainable Public Procurement toolkit is also available in French
   cover: /assets/images/PUBLIC_SPP_covers6.svg
   cover_position: 89.84
 {% endgallery %}
-{% enddatabase %}
 
 ![Open Contracting Partnership, PUBLIC and Spend Network, supported by German Cooperation and implemented by GIZ](/assets/images/Organizations.png)
