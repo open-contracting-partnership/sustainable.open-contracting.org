@@ -106,5 +106,5 @@ Lorsque vous envisagez d’adopter des pratiques durables de passation de march�
 - [ICLEI](https://iclei.org/) et [ICLEI Afrique](https://africa.iclei.org/)
 - [Réseau africain de la commande publique](https://appn-racop.org/)
 - [Inter-American Network on Government Procurement](http://ricg.org/en/home-2/)
-- [Global Lead City Network on Sustainable Procurement](https://glcn-on-sp.org/home/)
+- [Global Lead City Network on Sustainable Procurement](https://iclei-europe.org/projects/?GLCN-The_Global_Lead_City_Network_on_Sustainable_Procurement_&projectID=3NX6XpFx&type=initiative)
 - [International Green Purchasing Network](http://www.igpn.org/index.html)

@@ -112,5 +112,5 @@ When you are thinking about implementing SPP practices for the first time, it ca
 - [ICLEI Africa](https://africa.iclei.org/)
 - [African Procurement Network](https://appn-racop.org/)
 - [Interamerican Network of Government Procurement (INGP)](http://ricg.org/en/home-2/)
-- [Global Lead City Network on Sustainable Procurement](https://glcn-on-sp.org/home/)
+- [Global Lead City Network on Sustainable Procurement](https://iclei-europe.org/projects/?GLCN-The_Global_Lead_City_Network_on_Sustainable_Procurement_&projectID=3NX6XpFx&type=initiative)
 - [International Green Purchasing Network (IGPN)](http://www.igpn.org/index.html)

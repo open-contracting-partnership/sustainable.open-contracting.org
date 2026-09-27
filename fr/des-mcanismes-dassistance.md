@@ -58,7 +58,7 @@ L’interaction avec des OSC tout au long de votre cycle de planification et de 
 - De manière importante, comme pour la planification opérationnelle, les OSC participent aux activités de [suivi des résultats des politiques ou de certaines activités des processus de passation de marchés](/suivi-de-lexcution). Ces organisations peuvent effectuer un suivi de la transparence et des effets de la mise en place des marchés publics durables.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles sur le [site d’Open Contracting Partnership](https://www.open-contracting.org/implement/#engage)
+D’autres exemples et ressources traitant de l’interaction avec les parties prenantes sont disponibles dans la section « Improve stakeholder engagement and oversight » du [guide de démarrage rapide d’Open Contracting Partnership](https://www.open-contracting.org/resources/quickstart-guide/) (en anglais)
 {% endcallout %}
 
 {% endtoggle %}

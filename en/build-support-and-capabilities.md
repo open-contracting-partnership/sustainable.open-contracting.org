@@ -57,7 +57,7 @@ Engaging with civil society CSOs across the entire cycle of your action planning
 - Importantly, as well as action planning, CSOs can assist with [monitoring the outcomes of policies or specific procurement processes activities](/monitor-implementation). These organizations can monitor both the transparency, and impact, or SPP implementation.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-More examples and resources for stakeholder engagement can be found on [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage).
+More examples and resources for stakeholder engagement can be found in the “Improve stakeholder engagement and oversight” section of the [Open Contracting Partnership’s Quickstart Guide](https://www.open-contracting.org/resources/quickstart-guide/).
 {% endcallout %}
 
 {% endtoggle %}

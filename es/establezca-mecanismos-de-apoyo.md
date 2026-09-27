@@ -61,7 +61,7 @@ El relacionamiento con las organizaciones de sociedad civil transversal a l cicl
 Estas organizaciones pueden monitorear la transparencia e impacto, o la implementación de CPS.
 
 {% callout green /assets/images/icons_D_Green6.svg %}
-Se puede ver más ejemplos y recursos para la vinculación de partes interesadas en [Open Contracting Partnership’s website](https://www.open-contracting.org/implement/#engage)
+Se pueden ver más ejemplos y recursos para la vinculación de partes interesadas en la sección «Mejorar la colaboración con los actores interesados» de la [Guía rápida para las contrataciones abiertas](https://www.open-contracting.org/es/resources/guia-rapida-para-las-contrataciones-abiertas/) de Open Contracting Partnership
 {% endcallout %}
 
 {% endtoggle %}
