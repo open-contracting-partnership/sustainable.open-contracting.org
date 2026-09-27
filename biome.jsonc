@@ -20,7 +20,7 @@
       "!assets/css/notion.css",
       "!assets/css/static.css",
       "!assets/css/super.css",
-      "!assets/css/theme-*.css"
+      "!assets/css/theme.css"
     ]
   }
 }

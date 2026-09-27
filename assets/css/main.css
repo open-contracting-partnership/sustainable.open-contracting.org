@@ -5,5 +5,5 @@ layout: null
 @import "static.css";
 @import "notion.css";
 @import "super.css";
-@import "theme-{{ site.lang }}.css";
+@import "theme.css";
 @import "site.css";
