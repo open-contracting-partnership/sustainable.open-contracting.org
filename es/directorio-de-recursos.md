@@ -227,7 +227,7 @@ items:
   SPP focus: [Environmental, Economic, Social]
   Pages: 4
 - title: A guide to environmental labels - for procurement practitioners of the United Nations System
-  link: https://web.archive.org/web/20230309065958/https://www.ungm.org/Areas/Public/Downloads/Env_Labels_Guide.pdf
+  link: https://s3.eu-west-1.amazonaws.com/cdn.unenvironment.org/s3fs-public/2020-10/Env%2520Labels%2520Guide_final_0.pdf
   Type of guidance: [Ecolabels]
   Geographic area: [Europa, América Latina y el Caribe, Asia, Africa, América del Norte]
   Organization: UNOPS (United Nations Office for Project Services)
@@ -277,7 +277,7 @@ items:
   Language: [English, Spanish, French, Portuguese]
   SPP focus: [Environmental]
 - title: Best Practice Report - Market Engagement
-  link: https://web.archive.org/web/20220901045315/https://sppregions.eu/fileadmin/user_upload/Resources/Market_Engagement_Best_Practice_Report.pdf
+  link: https://iclei-europe.org/fileadmin/templates/iclei-europe/lib/resources/tools/push_resource_file.php?uid=SXBoUtN5
   Type of guidance: [Engaging with the Supplier Market]
   Geographic area: [Europa]
   Organization: ICLEI (Local Governments for Sustainability)
