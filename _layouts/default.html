@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title | escape }}</title>
+<title>{% if page.url == "/" %}{{ site.title | escape }}{% else %}{{ page.title | escape }} – {{ site.title | escape }}{% endif %}</title>
 {%- if page.description %}
 <meta name="description" content="{{ page.description | escape }}">
 {%- endif %}
@@ -13,7 +13,7 @@
 <meta property="og:description" content="{{ page.description | escape }}">
 {%- endif %}
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:site_name" content="{{ page.title | escape }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
 <meta property="og:locale" content="{{ site.locale }}">
 {%- include alternates.html page=page %}
 {%- if page.cover %}
@@ -47,6 +47,7 @@
 {%- comment -%} Pagefind indexes pages with content or properties, not placeholders' empty pages. {%- endcomment -%}
 {%- assign text = content | strip_html | strip -%}
 <div class="super-root"><div class="super-content-wrapper"><main class="super-content"{% if text != "" or page.properties %} data-pagefind-body{% endif %}>
+<span hidden data-pagefind-meta="title[data-title]" data-title="{{ page.title | escape }}"></span>
 {%- if page.icon %}<span hidden data-pagefind-meta="icon[data-icon]" data-icon="{{ page.icon }}"></span>{% endif %}
 {% include navbar.html %}
 {% include header.html %}
