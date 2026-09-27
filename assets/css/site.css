@@ -1,190 +1,29 @@
-/* Spacing between blocks, in place of Notion's empty paragraphs. */
-.notion-root
+/*
+ * Layout
+ */
+
+/* Margins that narrow with the screen, from 96px at 1280px to 48px at 640px, so that the content has room, beside the
+   sidebar too. Phones have 24px. */
+:root {
+  --padding-left: calc(env(safe-area-inset-left) + clamp(48px, 7.5vw, 96px));
+  --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
+}
+
+/* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, while tables, images,
+   galleries and code blocks use the column's width. The doubled class outweighs Super.so's max-width for paragraphs
+   with one link (.notion-text__content:has(> a:only-child)). */
+.notion-root.notion-root
 :is(
-  .notion-text__content,
+  .notion-text,
+  .notion-heading,
   .notion-bulleted-list,
   .notion-numbered-list,
   .notion-callout,
   .notion-toggle,
-  .notion-image,
-  .notion-table__wrapper,
-  .notion-collection,
-  .notion-code,
   .notion-to-do,
-  .notion-pdf
-):not(:last-child) {
-  margin-block-end: 1rem;
-}
-
-.notion-root :is(h1, h2, h3, h4, h5, h6).notion-heading:not(:first-child) {
-  margin-top: 2rem;
-}
-
-.notion-callout__content > :not(:last-child),
-.notion-toggle__content > :not(:last-child) {
-  margin-block-end: 1rem;
-}
-
-/* Boxed blocks: 1.5rem from their neighbours, 1rem after a heading, and 1rem before one, whose margin separates them. */
-.notion-root
-:is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
-  :first-child
+  .notion-quote
 ) {
-  margin-block-start: 0.5rem;
-}
-
-.notion-root
-  :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
-    :last-child
-  ) {
-  margin-block-end: 1.5rem;
-}
-
-.notion-root
-  :is(h1, h2, h3, h4, h5, h6)
-  + :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
-    :first-child
-  ) {
-  margin-block-start: 1rem;
-}
-
-.notion-root
-  :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):has(
-    + :is(h1, h2, h3, h4, h5, h6)
-  ):not(:last-child) {
-  margin-block-end: 1rem;
-}
-
-/* Consecutive toggles, as a list. */
-.notion-root .notion-toggle:has(+ .notion-toggle) {
-  margin-block-end: 0.25rem;
-}
-
-/* Search results' excerpts, from Pagefind, whose matches are marked. */
-.notion-search__result-item-text mark {
-  background: none;
-  color: inherit;
-  font-weight: 600;
-}
-
-/* Contrast of at least 4.5:1 (WCAG 2.1 AA), on white and on Notion's background colours. */
-:root {
-  --color-text-default-light: rgba(55, 53, 47, 0.7);
-}
-
-.notion-semantic-string .link {
-  opacity: 0.75;
-}
-
-/* A list item's white-space is pre-wrap, which its nested lists would inherit for the whitespace between their items. */
-.notion-list-item > :is(.notion-bulleted-list, .notion-numbered-list) {
-  white-space: normal;
-}
-
-/* A list item's blocks after its text: close to the text, and separated from the next item as blocks are. */
-.notion-list-item > :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list) {
-  margin-block-start: 0.25rem;
-}
-
-.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)) {
-  padding-block-end: 0;
-}
-
-.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)):not(:last-child) {
-  margin-block-end: 1rem;
-}
-
-/* The breadcrumbs are a list, whose items are Notion's links and dividers. */
-ol.notion-breadcrumb {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.notion-breadcrumb > li {
-  display: flex;
-  align-items: center;
-}
-
-/* The last crumb shrinks, so that its title truncates beside the language links on phones, if collapsing the others
-   isn't enough (site.js). */
-.notion-breadcrumb,
-.notion-breadcrumb > li:last-child,
-.notion-breadcrumb > li:last-child > .notion-breadcrumb__item {
-  min-width: 0;
-}
-
-.notion-breadcrumb > li > a {
-  cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-  height: 24px;
-}
-
-.notion-breadcrumb > li > a.has-icon {
-  padding: 2px 6px;
-}
-
-.notion-breadcrumb > li[hidden] {
-  display: none;
-}
-
-.notion-breadcrumb .notion-breadcrumb__ellipsis {
-  border: 0;
-  background: none;
-  color: inherit;
-  font: inherit;
-}
-
-.notion-breadcrumb .notion-dropdown__option-list {
-  margin: 0;
-  list-style: none;
-}
-
-/* For screen readers: a database table's caption (its title, which is visible above it), and the sidebar menu's label. */
-.notion-collection-table > caption,
-.sidebar-menu__label {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  overflow: hidden;
-  clip-path: inset(50%);
-  white-space: nowrap;
-}
-
-/* A table's caption, above it, like the bold paragraph that it replaces. */
-.notion-table__caption {
-  caption-side: top;
-  padding: 3px 2px 0.5rem;
-  text-align: start;
-  font-weight: 600;
-}
-
-/* A table cell's list is indented less than a page's, since cells are narrow. */
-.notion-table__cell > .notion-bulleted-list {
-  margin: 0;
-  padding-inline-start: 1rem;
-}
-
-.notion-table__cell .notion-list-item:first-child {
-  padding-top: 0;
-}
-
-.notion-table__cell .notion-list-item:last-child {
-  padding-bottom: 0;
-}
-
-/* A page link's image icon is square, like the image, even beside a long title, so that no browser crops it. */
-.notion-page__icon:has(> img) {
-  min-width: 0;
-  flex-shrink: 0;
-}
-
-/* Super.so clips lazy images by 0.6px in Safari, to hide a white edge on photos, which flattens icons' edges. */
-img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
-  clip-path: none;
+  max-width: 708px;
 }
 
 /* The sidebar's sections, as lists, separated as Notion's empty paragraphs separated them. */
@@ -204,13 +43,6 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
 .notion-sidebar > ul:first-child > li + li,
 .notion-sidebar > p {
   margin-top: 2rem;
-}
-
-/* Margins that narrow with the screen, from 96px at 1280px to 48px at 640px, so that the content has room, beside the
-   sidebar too. Phones have 24px. */
-:root {
-  --padding-left: calc(env(safe-area-inset-left) + clamp(48px, 7.5vw, 96px));
-  --padding-right: calc(env(safe-area-inset-right) + clamp(48px, 7.5vw, 96px));
 }
 
 /* The sidebar is a <details> element: always open on wider screens, and a menu on phones, where the columns stack.
@@ -263,65 +95,55 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   }
 }
 
-/* A table's header cells are th, which Super.so's styles for td don't cover, in bold. */
-.notion-table th {
-  vertical-align: top;
-  border: 1px solid var(--color-border-dark);
-  font-weight: 600;
-  text-align: inherit;
-}
+/*
+ * Navbar
+ */
 
-.notion-table.row-header th[scope="row"] {
-  background-color: var(--color-bg-gray);
-}
-
-/* A callout's label, like the bold text that it replaces. */
-.notion-callout__label {
-  line-height: 1.5;
-  font-weight: 600;
-}
-
-/* Headings' sizes are their levels in Markdown (their classes), like Super.so's, since heading_levels.rb renumbers their
-   tags. Browsers' default margins for h1 and h4 apply to the first heading in a block. */
-:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--1 {
-  margin-top: 0.67em;
-  font-size: var(--heading1-size);
-  font-weight: var(--heading-weight);
-}
-
-:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--2 {
-  margin-top: 1rem;
-  font-size: var(--heading2-size);
-  font-weight: 600;
-}
-
-:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--3 {
-  margin-top: 0.75rem;
-  font-size: var(--heading3-size);
-  font-weight: var(--heading-weight);
-}
-
-:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--4 {
-  margin-top: 1.33em;
-  font-size: var(--heading4-size);
-  font-weight: var(--heading-weight);
-}
-
-/* A heading that is a callout's only content, like a label. */
-.notion-callout__content > :is(h1, h2, h3, h4, h5, h6).notion-heading {
+/* The breadcrumbs are a list, whose items are Notion's links and dividers. */
+ol.notion-breadcrumb {
   margin: 0;
   padding: 0;
-  font-size: inherit;
-  font-weight: 600;
-  line-height: 1.5;
+  list-style: none;
 }
 
-/* A code block's marked lines, highlighted to the block's width. */
-.notion-code mark {
-  display: inline-block;
-  min-width: 100%;
-  background: var(--color-bg-yellow);
+.notion-breadcrumb > li {
+  display: flex;
+  align-items: center;
+}
+
+/* The last crumb shrinks, so that its title truncates beside the language links on phones, if collapsing the others
+   isn't enough (site.js). */
+.notion-breadcrumb,
+.notion-breadcrumb > li:last-child,
+.notion-breadcrumb > li:last-child > .notion-breadcrumb__item {
+  min-width: 0;
+}
+
+.notion-breadcrumb > li > a {
+  cursor: pointer;
+  text-decoration: none;
   color: inherit;
+  height: 24px;
+}
+
+.notion-breadcrumb > li > a.has-icon {
+  padding: 2px 6px;
+}
+
+.notion-breadcrumb > li[hidden] {
+  display: none;
+}
+
+.notion-breadcrumb .notion-breadcrumb__ellipsis {
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+}
+
+.notion-breadcrumb .notion-dropdown__option-list {
+  margin: 0;
+  list-style: none;
 }
 
 /* The language links, before search in the navbar: a <details> element, shown open as codes on wider screens, and a
@@ -411,9 +233,206 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   }
 }
 
+/*
+ * Blocks
+ */
+
+/* Spacing between blocks, in place of Notion's empty paragraphs. */
+.notion-root
+:is(
+  .notion-text__content,
+  .notion-bulleted-list,
+  .notion-numbered-list,
+  .notion-callout,
+  .notion-toggle,
+  .notion-image,
+  .notion-table__wrapper,
+  .notion-collection,
+  .notion-code,
+  .notion-to-do,
+  .notion-pdf
+):not(:last-child) {
+  margin-block-end: 1rem;
+}
+
+.notion-root :is(h1, h2, h3, h4, h5, h6).notion-heading:not(:first-child) {
+  margin-top: 2rem;
+}
+
+.notion-callout__content > :not(:last-child),
+.notion-toggle__content > :not(:last-child) {
+  margin-block-end: 1rem;
+}
+
+/* Boxed blocks: 1.5rem from their neighbours, 1rem after a heading, and 1rem before one, whose margin separates them. */
+.notion-root
+:is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
+  :first-child
+) {
+  margin-block-start: 0.5rem;
+}
+
+.notion-root
+  :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
+    :last-child
+  ) {
+  margin-block-end: 1.5rem;
+}
+
+.notion-root
+  :is(h1, h2, h3, h4, h5, h6)
+  + :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):not(
+    :first-child
+  ) {
+  margin-block-start: 1rem;
+}
+
+.notion-root
+  :is(.notion-callout, .notion-image, .notion-table__wrapper, .notion-collection, .notion-code, .notion-pdf):has(
+    + :is(h1, h2, h3, h4, h5, h6)
+  ):not(:last-child) {
+  margin-block-end: 1rem;
+}
+
+/* Consecutive toggles, as a list. */
+.notion-root .notion-toggle:has(+ .notion-toggle) {
+  margin-block-end: 0.25rem;
+}
+
+/* Headings' sizes are their levels in Markdown (their classes), like Super.so's, since heading_levels.rb renumbers their
+   tags. Browsers' default margins for h1 and h4 apply to the first heading in a block. */
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--1 {
+  margin-top: 0.67em;
+  font-size: var(--heading1-size);
+  font-weight: var(--heading-weight);
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--2 {
+  margin-top: 1rem;
+  font-size: var(--heading2-size);
+  font-weight: 600;
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--3 {
+  margin-top: 0.75rem;
+  font-size: var(--heading3-size);
+  font-weight: var(--heading-weight);
+}
+
+:is(h1, h2, h3, h4, h5, h6).notion-heading.notion-heading--4 {
+  margin-top: 1.33em;
+  font-size: var(--heading4-size);
+  font-weight: var(--heading-weight);
+}
+
+/* A heading that is a callout's only content, like a label. */
+.notion-callout__content > :is(h1, h2, h3, h4, h5, h6).notion-heading {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
 /* A heading that a link targets, like an option's, below the sticky navbar. */
 .notion-heading[id] {
   scroll-margin-top: calc(var(--navbar-height) + 1rem);
+}
+
+/* A list item's white-space is pre-wrap, which its nested lists would inherit for the whitespace between their items. */
+.notion-list-item > :is(.notion-bulleted-list, .notion-numbered-list) {
+  white-space: normal;
+}
+
+/* A list item's blocks after its text: close to the text, and separated from the next item as blocks are. */
+.notion-list-item > :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list) {
+  margin-block-start: 0.25rem;
+}
+
+.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)) {
+  padding-block-end: 0;
+}
+
+.notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)):not(:last-child) {
+  margin-block-end: 1rem;
+}
+
+/* A callout's label, like the bold text that it replaces. */
+.notion-callout__label {
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+/* A code block's marked lines, highlighted to the block's width. */
+.notion-code mark {
+  display: inline-block;
+  min-width: 100%;
+  background: var(--color-bg-yellow);
+  color: inherit;
+}
+
+/* A page link's image icon is square, like the image, even beside a long title, so that no browser crops it. */
+.notion-page__icon:has(> img) {
+  min-width: 0;
+  flex-shrink: 0;
+}
+
+/* Super.so clips lazy images by 0.6px in Safari, to hide a white edge on photos, which flattens icons' edges. */
+img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
+  clip-path: none;
+}
+
+/*
+ * Tables
+ */
+
+/* A table's caption, above it, like the bold paragraph that it replaces. */
+.notion-table__caption {
+  caption-side: top;
+  padding: 3px 2px 0.5rem;
+  text-align: start;
+  font-weight: 600;
+}
+
+/* A table cell's list is indented less than a page's, since cells are narrow. */
+.notion-table__cell > .notion-bulleted-list {
+  margin: 0;
+  padding-inline-start: 1rem;
+}
+
+.notion-table__cell .notion-list-item:first-child {
+  padding-top: 0;
+}
+
+.notion-table__cell .notion-list-item:last-child {
+  padding-bottom: 0;
+}
+
+/* A table's header cells are th, which Super.so's styles for td don't cover, in bold. */
+.notion-table th {
+  vertical-align: top;
+  border: 1px solid var(--color-border-dark);
+  font-weight: 600;
+  text-align: inherit;
+}
+
+.notion-table.row-header th[scope="row"] {
+  background-color: var(--color-bg-gray);
+}
+
+/* A table fills its column, and its columns are sized by their content, so its words don't break, except a word
+   wider than its column. */
+.notion-table {
+  width: 100%;
+}
+
+.notion-table :is(td, th) {
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.notion-table :is(td, th) * {
+  word-break: inherit;
 }
 
 /* A wide table, on a page that isn't full width, extends past both sides of the text column, up to the page's margins,
@@ -450,37 +469,22 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   mask-image: linear-gradient(to right, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
 }
 
-/* A table fills its column, and its columns are sized by their content, so its words don't break, except a word
-   wider than its column. */
-.notion-table {
-  width: 100%;
+/* A database table's title column is wider than its other columns, which are 200px wide (notion.css). */
+.notion-collection-table__head-cell:first-child {
+  width: 280px;
 }
 
-.notion-table :is(td, th) {
-  word-break: normal;
-  overflow-wrap: break-word;
+/* A database table's titles that link to their items' resources, underlined like links in the text. */
+.notion-collection-table__cell.title a .notion-property__title {
+  text-decoration: underline;
+  text-decoration-color: var(--color-text-default-light);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
 }
 
-.notion-table :is(td, th) * {
-  word-break: inherit;
-}
-
-/* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, while tables, images,
-   galleries and code blocks use the column's width. The doubled class outweighs Super.so's max-width for paragraphs
-   with one link (.notion-text__content:has(> a:only-child)). */
-.notion-root.notion-root
-:is(
-  .notion-text,
-  .notion-heading,
-  .notion-bulleted-list,
-  .notion-numbered-list,
-  .notion-callout,
-  .notion-toggle,
-  .notion-to-do,
-  .notion-quote
-) {
-  max-width: 708px;
-}
+/*
+ * Navigation and search
+ */
 
 /* Links to the previous and next pages, at the end of the content, as two boxes. */
 .pager {
@@ -530,15 +534,35 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   }
 }
 
-/* A database table's title column is wider than its other columns, which are 200px wide (notion.css). */
-.notion-collection-table__head-cell:first-child {
-  width: 280px;
+/* Search results' excerpts, from Pagefind, whose matches are marked. */
+.notion-search__result-item-text mark {
+  background: none;
+  color: inherit;
+  font-weight: 600;
 }
 
-/* A database table's titles that link to their items' resources, underlined like links in the text. */
-.notion-collection-table__cell.title a .notion-property__title {
-  text-decoration: underline;
-  text-decoration-color: var(--color-text-default-light);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
+/*
+ * Accessibility
+ */
+
+/* Contrast of at least 4.5:1 (WCAG 2.1 AA), on white and on Notion's background colours. */
+:root {
+  --color-text-default-light: rgba(55, 53, 47, 0.7);
+}
+
+.notion-semantic-string .link {
+  opacity: 0.75;
+}
+
+/* For screen readers: a database table's caption (its title, which is visible above it), and the sidebar menu's label. */
+.notion-collection-table > caption,
+.sidebar-menu__label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
