@@ -42,7 +42,7 @@ The following procedures can constitute the characteristics of a single procurem
 
 {% toggle **Outcomes-based approaches** %}
 
-Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section](/choose-a-procurement-method) for more information.
+Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section](/choose-a-procurement-method#outcome-based-procurement) for more information.
 
 {% endtoggle %}
 
@@ -62,7 +62,7 @@ Two stage procurement procedures in the construction sector usually involve a fi
 
 This approach can often be seen in design and construction projects, where the design of the building is determined by the input of those selected during the first stage, ensuring better market fit and, if it is an integrated team, a life cycle approach.
 
-Two stage procurement procedures allow for ongoing dialogue and open disclosure of information between suppliers and procurement practitioners. This can be especially useful for negotiating ways to reach sustainability targets in construction projects. See [this section](/choose-a-procurement-method) for more information.
+Two stage procurement procedures allow for ongoing dialogue and open disclosure of information between suppliers and procurement practitioners. This can be especially useful for negotiating ways to reach sustainability targets in construction projects. See [this section](/choose-a-procurement-method#two-stage-tender-processes) for more information.
 
 {% endtoggle %}
 

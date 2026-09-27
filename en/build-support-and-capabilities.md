@@ -62,7 +62,7 @@ More examples and resources for stakeholder engagement can be found on [Open Con
 
 {% endtoggle %}
 
-## Standardize sustainability criteria
+## Standardize sustainability criteria {#standardized-criteria}
 
 Governments buy a huge range of materials and most procurement practitioners don’t have the knowledge, or resources, to know which sustainability standards should be applied across different industries and categories. So, as we mention in the [prioritizing procurement categories](/prioritize) section, one of the steps when getting started with Open SPP is identifying existing sustainability standards and [ecolabels](/guide-to-ecolabels), and then providing guidance on which are the best standards for different procurement categories, and how these should be [included in procurement processes](/set-sustainability-criteria).
 

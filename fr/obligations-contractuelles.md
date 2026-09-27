@@ -42,7 +42,7 @@ Les clauses contractuelles de durabilité doivent prévoir des conséquences en 
 
 La couverture concerne les différentes parties de la chaîne d’approvisionnement à laquelle les clauses font référence. Cela est particulièrement pertinent en ce qui concerne les clauses de responsabilité sociale, qui peuvent exiger du fournisseur qu’il possède un code de conduite, et les activités de suivi tout au long de la chaîne d’approvisionnement.
 
-Il peut être difficile d’appliquer certaines clauses au-delà des entités avec lesquelles le fournisseur a une relation commerciale directe (c’est-à-dire au-delà des fournisseurs de rang 1) pour les appliquer aux fournisseurs des fournisseurs (rang 2…). C’est pourquoi il est essentiel d’établir un dialogue avec les fournisseurs pour analyser les informations relatives à la chaîne d’approvisionnement et travailler avec le ou les fournisseurs d’un secteur dans votre région, ce dans le but de renforcer la transparence et de promouvoir de meilleures pratiques tout au long de la chaîne d’approvisionnement. Pour obtenir des exemples sur l’intégration d’exigences relatives à la chaîne d’approvisionnement à un processus de passation de marchés, [consultez la section consacrée à l’achat de produits informatiques](/le-secteur-tic-en-anglais/selecting-your-data).
+Il peut être difficile d’appliquer certaines clauses au-delà des entités avec lesquelles le fournisseur a une relation commerciale directe (c’est-à-dire au-delà des fournisseurs de rang 1) pour les appliquer aux fournisseurs des fournisseurs (rang 2…). C’est pourquoi il est essentiel d’établir un dialogue avec les fournisseurs pour analyser les informations relatives à la chaîne d’approvisionnement et travailler avec le ou les fournisseurs d’un secteur dans votre région, ce dans le but de renforcer la transparence et de promouvoir de meilleures pratiques tout au long de la chaîne d’approvisionnement. Pour obtenir des exemples sur l’intégration d’exigences relatives à la chaîne d’approvisionnement à un processus de passation de marchés, [consultez la section consacrée à l’achat de produits informatiques](/le-secteur-tic-en-anglais/selecting-your-data#supply-chain-information).
 
 {% endtoggle %}
 
@@ -64,7 +64,7 @@ Les clauses de durabilité sont souvent perçues comme distinctes des exigences 
 
 ![Couverture : la précision, la contextualisation et la cohérence soutiennent la contrainte, qui mène au contrôle](/assets/images/SPP-Contract-Diagram-fr.png){: .wide}
 
-## Se doter de normes d’amélioration continue claires
+## Se doter de normes d’amélioration continue claires {#continuous-improvement}
 
 Comme présenté dans la [section précédente](/des-critres-de-durabilit), le choix des critères de durabilité qui doivent être intégrés aux marchés publics dépend de plusieurs facteurs, notamment des capacités du marché. Toutefois, les capacités du marché peuvent évoluer durant l’exécution d’un marché. Afin d’assurer que les fournisseurs retenus continuent d’améliorer leur performance du point de vue des normes de durabilité, vous pouvez intégrer des normes d’amélioration continue aux clauses contractuelles. Par exemple, il est possible de définir des objectifs de réduction progressive des émissions de CO2 au fil de l’exécution du marché ou des normes de réduction progressive de la consommation de combustibles.
 

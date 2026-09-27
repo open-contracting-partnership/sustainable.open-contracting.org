@@ -26,7 +26,7 @@ La contratación pública abierta y sostenible (CPS Abierta) se refiere a la apl
 
 Según [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf), “la contratación abierta se trata de publicar y utilizar información abierta, accesible y oportuna sobre la contratación del gobierno para involucrar a los ciudadanos y las empresas en la identificación y solución de problemas”. La contratación abierta implica divulgación y compromiso a lo largo de todo el proceso de contratación, desde la planificación hasta la implementación.
 
-En la [primera sección](/qu-es) de este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
+En la [introducción](/qu-es) a este conjunto de herramientas, identificamos siete prácticas clave que son esenciales para la implementación de Open CPS y a las que se hace referencia en todo el conjunto de herramientas.
 
 {% endtoggle %}
 

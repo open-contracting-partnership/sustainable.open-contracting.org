@@ -64,7 +64,7 @@ c) Des femmes sont propriétaires exclusives de l’entreprise.
 
 ### Déterminer le sexe de la personne qui détient le capital d’une entreprise lors de la soumission des offres
 
-Le Standard de données sur la commande publique ouverte [recommande](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) de mettre en évidence les organisations dirigées par des femmes à l’aide de [l’extension concernant la classification des organisations](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Cette approche encourage les producteurs de données à élaborer leur définition du concept d’entreprise dirigée par une femme.
+Le Standard de données sur la commande publique ouverte [recommande](https://standard.open-contracting.org/latest/fr/guidance/map/organization_classifications/) de mettre en évidence les organisations dirigées par des femmes à l’aide de [l’extension concernant la classification des organisations](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Cette approche encourage les producteurs de données à élaborer leur définition du concept d’entreprise dirigée par une femme.
 
 En suivant une approche similaire, pour [publier ses données relatives à la commande publique au format du Standard de données sur la commande publique ouverte](https://www.open-contracting.org/2020/07/02/dominican-republic-publishing-open-data-for-equal-opportunities/), la direction des marchés publics de la République dominicaine a créé sa propre [extension](https://github.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension) pour classifier les entreprises. L’extension permet d’ajouter un champ « *gender* » aux données relatives aux organisations. Pour les personnes physiques, ce champ correspond au sexe de la personne, tandis que pour les entreprises, il s’agit du sexe de la personne qui détient plus de 50 % du capital ou qui en est le gestionnaire. Voici un exemple de la présentation de ces données :
 
@@ -143,7 +143,7 @@ At the beginning of this section, we introduced ten different ways in which you 
 
 ### Record supplier data at tender submission (Option 8)
 
-OCDS [recommends](https://standard.open-contracting.org/latest/en/guidance/map/organization_classifications/) publishing the information about if an organization is woman-led with the [organization classification extension](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). This approach encourages publishers to document the definition of what being a woman-led business means.
+OCDS [recommends](https://standard.open-contracting.org/latest/fr/guidance/map/organization_classifications/) publishing the information about if an organization is woman-led with the [organization classification extension](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). This approach encourages publishers to document the definition of what being a woman-led business means.
 
 In addition to data on whether businesses are women-led, you can use complementary datasets about the gender equity of companies, if they exist, such as: information about the [gender-pay gap](/linclusion-des-genres/how-to-analyze-the-gender-pay-gap) (whether women are paid less than men for similar work), women in leadership positions, and other gender-empowering policies (parental leave, childcare subsidies etc.)
 

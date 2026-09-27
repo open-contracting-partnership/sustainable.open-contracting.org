@@ -103,7 +103,7 @@ Enmarcar las necesidades de los usuarios en términos de resultados puede ayudar
 Una vez haya identificado las necesidades usted las deberá traducir en una declaración de necesidades. La declaración debe incluir información sobre las necesidades identificadas y las alternativas de contratación que se han considerado.
 
 {% callout red /assets/images/Pin_Red.svg %}
-**Para ver un ejemplo de una declaración de necesidades, la página 2 del Módulo 4 de la Comisión Europea proporciona lo siguiente:**
+**Para ver un ejemplo de una declaración de necesidades, el [Módulo 4](<https://circabc.europa.eu/ui/group/44278090-3fae-4515-bcc2-44fd57c1d0d1/library/35b7b128-ffa9-44e4-95c9-b5cba4a6a5a4?p=1&n=10&sort=name_ASC>) de la Comisión Europea proporciona lo siguiente:**
 
 ”El Departamento ha identificado la necesidad de 6 pantallas inteligentes para usar en sus 12 salas de reuniones. Las pantallas facilitarán las conferencias web y reducirán la necesidad de imprimir documentos.
 

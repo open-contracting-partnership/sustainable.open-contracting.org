@@ -367,17 +367,17 @@ items:
   Language: [English]
   SPP focus: [Social]
   Pages: 10
-- title: 'Purchasing the future you want: A sustainable IT purchasing guide'
+- title: 'Purchasing the future you want: A guide to sustainable IT procurement'
   link: https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf
   Type of guidance: [Implementing SPP in Specific Sectors, Setting Sustainability Criteria]
   Geographic area: [Europa, Asia, Africa, América Latina y el Caribe, América del Norte]
   Organization: HP Development Company
-  Year: 2020
+  Year: 2025
   User: [National Authorities, Procurement Teams]
   Sectors: [ICT]
   Language: [English]
   SPP focus: [Environmental, Social]
-  Pages: 30
+  Pages: 22
 - title: 'Green Flags: How open data can throw light on sustainable procurement'
   link: https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/
   Type of guidance: [Monitoring Implementation]

@@ -20,7 +20,7 @@ La contratación pública sostenible (CPS) se refiere a la forma en que las orga
 Para obtener un desglose más profundo tanto de CPS como de contratación abierta (tanto de gobierno abierto como de datos abiertos), consulte los siguientes recursos:
 
 - La definición más común de **Contratación Pública Sostenible** [proviene del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no sólo a la organización, sino también a la sociedad y la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
-- Usted podrá ver [el enfoque de Asociación de Contratación Abierta](https://www.open-contracting.org/implement/) y [cómo ayuda a que las reformas se amplíen y se mantengan](https://www.open-contracting.org/impact/).
+- Usted podrá ver [el enfoque de Asociación de Contratación Abierta](https://www.open-contracting.org/implement/) y [cómo ayuda a que las reformas se amplíen y se mantengan](https://www.open-contracting.org/es/impact/).
 {% endcallout %}
 
 # Cómo la apertura puede ayudar a la contratación pública sostenible

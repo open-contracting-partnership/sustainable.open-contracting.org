@@ -16,7 +16,7 @@ In this section, we include some of the **mechanisms that can be used to monitor
 
 {% callout default /assets/images/7_areas_open_SPP5.svg label: Providing clear channels for user and citizen feedback %}
 
-**One of the key elements of [Open SPP](/what-is-open-spp)** is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/build-support-and-capabilities), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the [ICT](/ict-sector) and [construction](/construction-sector) sectors.
+**One of the key elements of [Open SPP](/what-is-open-spp)** is having clear open channels to gather feedback from users and citizens. As [previously mentioned](/build-support-and-capabilities), this can refer to the overall monitoring of public procurement practices to ensure transparency. However, this can also refer to mechanisms that monitor compliance with sustainability clauses in public contracts; we introduce this idea here and further develop with examples in the [ICT](/collecting-the-data) and [construction](/construction-sector/collecting-the-data) sectors.
 {% endcallout %}
 
 ## How can you monitor performance during contract implementation?
@@ -63,7 +63,7 @@ Another important way to gather needed data to monitor performance could be by e
 {% endtoggle %}
 
 {% callout red /assets/images/Idea_Red.svg %}
-For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector), and [ICT](/ict-sector) procurement.
+For more examples of how to monitor implementation in specific procurement category contracts, see sections on [construction](/construction-sector/collecting-the-data), and [ICT](/collecting-the-data) procurement.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others2.svg label: Resources %}

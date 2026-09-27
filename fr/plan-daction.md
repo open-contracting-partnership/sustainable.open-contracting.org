@@ -145,7 +145,7 @@ Bien que des pays concentrent d’abord leurs efforts sur des catégories de mar
 
 {% toggle **Critères environnementaux**  %}
 
-La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](/des-mcanismes-dassistance) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
+La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](/des-mcanismes-dassistance#standardized-criteria) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
 
 {% endtoggle %}
 

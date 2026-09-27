@@ -40,7 +40,7 @@ Las cláusulas del contrato de sostenibilidad deben determinar consecuencias esp
 
 La profundidad de la cobertura se refiere a las diferentes capas de la cadena de suministro a las que se refieren las cláusulas. Esto es más relevante en términos de cláusulas de sostenibilidad social, como las que se refieren a la necesidad de que el proveedor cuente con un código de conducta y realice actividades de monitoreo a lo largo de la cadena de suministro.
 
-Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que un proveedor tiene relaciones comerciales directas (es decir, más allá de los proveedores de nivel 1) para cubrir a los proveedores de esos proveedores (nivel 2, etc.). Esta es la razón por la cual establecer un diálogo con los proveedores es crucial para comprender la información actual de la cadena de proveedores y trabajar con el proveedor, o los proveedores que trabajan en ese sector en su área específica, para fomentar la transparencia y aplicar mejores prácticas en cascada a lo largo de una cadena de suministro. Para ver ejemplos sobre cómo se pueden introducir los requisitos de la cadena de suministro en un proceso de contratación, [consulte la sección sobre contratación de TI](/sector-ict-en-ingls/seleccione-sus-datos).
+Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que un proveedor tiene relaciones comerciales directas (es decir, más allá de los proveedores de nivel 1) para cubrir a los proveedores de esos proveedores (nivel 2, etc.). Esta es la razón por la cual establecer un diálogo con los proveedores es crucial para comprender la información actual de la cadena de proveedores y trabajar con el proveedor, o los proveedores que trabajan en ese sector en su área específica, para fomentar la transparencia y aplicar mejores prácticas en cascada a lo largo de una cadena de suministro. Para ver ejemplos sobre cómo se pueden introducir los requisitos de la cadena de suministro en un proceso de contratación, [consulte la sección sobre contratación de TI](/sector-ict-en-ingls/seleccione-sus-datos#supply-chain-information).
 
 {% endtoggle %}
 
@@ -62,7 +62,7 @@ Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las 
 
 ![Cubrimiento: la precisión, la contextualización y la consistencia sostienen la aplicabilidad, que lleva a la verificabilidad](/assets/images/SPP-Contract-Diagram-es.png){: .wide}
 
-## Tenga claros los estándares de mejoramiento continuo
+## Tenga claros los estándares de mejoramiento continuo {#continuous-improvement}
 
 Como se ha presentado en la sección anterior, qué criterios de sostenibilidad introducir en los contratos de contratación pública deben decidirse en función de diferentes factores, incluida la capacidad de mercado existente. Sin embargo, la capacidad del Estabalecer mercado frente a los estándares de sostenibilidad puede aumentar durante el transcurso de un contrato. Para asegurarse de que los proveedores contratados sigan progresando en relación con los estándares de sostenibilidad, puede incluir estándares claros de mejora continua en las cláusulas del contrato. Esto puede incluir, por ejemplo, establecer objetivos progresivos de minimización de CO2 a lo largo de la duración del contrato, o estándares progresivos de ahorro de combustible.
 

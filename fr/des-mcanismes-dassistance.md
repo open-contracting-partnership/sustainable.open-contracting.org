@@ -63,7 +63,7 @@ D’autres exemples et ressources traitant de l’interaction avec les parties p
 
 {% endtoggle %}
 
-## Établir des critères de durabilité normalisés
+## Établir des critères de durabilité normalisés {#standardized-criteria}
 
 Les gouvernements acquièrent une grande variété de produits et la plupart des membres des services de passation de marchés ne possèdent pas les connaissances ou les ressources pour connaître les normes de durabilité applicables à tous les secteurs et catégories de marchés. Ainsi, comme nous le mentionnons dans la section sur la [définition des catégories de marchés prioritaires](/priorits), pour mettre en place des marchés publics durables et ouverts, l’une de premières étapes consiste à repérer les normes de durabilité et [éco-étiquettes](/guide-des-co-tiquettes) existantes puis à fournir des orientations concernant les meilleures normes applicables aux différentes catégories de marchés et l’intégration de ces dernières [au processus de passation de marchés](/des-critres-de-durabilit).
 
@@ -101,7 +101,7 @@ Ce service d’assistance, comme les autres mécanismes d’assistance conçus e
 
 {% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
-En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en/public-procurement-in-the-netherlands/sustainable-public-procurement-spp), un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.
+En 2005, le **gouvernement des Pays-Bas** a créé [PIANOo](https://www.pianoo.nl/en), un réseau de connaissances destiné aux fonctionnaires des services de passation de marchés et aux entités adjudicatrices. PIANOo a été créé dans le but de professionnaliser la passation de marchés et de renforcer ainsi l’efficience et la conformité.
 
 Cet outil contient désormais une section spécifiquement consacrée aux marchés publics durables proposant du matériel d’apprentissage, des orientations et un [outil sur les critères](https://www.mvicriteria.nl/en) afin d’aider les pouvoirs publics à repérer les exigences environnementales qui pourraient être intégrées à leur processus d’appel d’offres. Le centre d’expertise fournit également des informations concernant les réunions de partage des meilleures pratiques entre les membres des services de passation de marchés.
 {% endcallout %}

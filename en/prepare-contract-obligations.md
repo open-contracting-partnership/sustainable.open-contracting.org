@@ -40,7 +40,7 @@ Sustainability contract clauses should determine specific consequences in case o
 
 Coverage depth refers to the different layers in the supply chain that the clauses refer to. This is most relevant in terms of social sustainability clauses, such as the ones that refer to the need for the supplier to have a code of conduct, and carry out monitoring activities throughout the supply chain.
 
-It can be complicated to enforce clauses beyond those with whom a supplier has direct business relations (ie. beyond tier-1 suppliers) to cover those suppliers’ suppliers (tier-2 etc). This is why establishing a dialogue with suppliers is crucial to understand current supplier chain information, and work with the supplier, or the suppliers working in that sector in your specific area, to encourage transparency and to cascade better practices down a supply chain. For examples on how supply chain requirements can be introduced in a procurement process, [see the supply chain information for the ICT sector](/selecting-your-data).
+It can be complicated to enforce clauses beyond those with whom a supplier has direct business relations (ie. beyond tier-1 suppliers) to cover those suppliers’ suppliers (tier-2 etc). This is why establishing a dialogue with suppliers is crucial to understand current supplier chain information, and work with the supplier, or the suppliers working in that sector in your specific area, to encourage transparency and to cascade better practices down a supply chain. For examples on how supply chain requirements can be introduced in a procurement process, [see the supply chain information for the ICT sector](/selecting-your-data#supply-chain-information).
 
 {% endtoggle %}
 
@@ -62,7 +62,7 @@ Sustainability clauses are often considered as separate to business demands, whi
 
 ![Coverage depth: precision, contextualisation and consistency support enforceability, which leads to verifiability](/assets/images/Untitled.jpg)
 
-## Have clear continuous improvement standards
+## Have clear continuous improvement standards {#continuous-improvement}
 
 As it has been introduced in the [previous section](/set-sustainability-criteria), what sustainability criteria to introduce in public procurement contracts should be decided according to different factors, including existing market capability. However, market capability against sustainability standards can increase over the course of a contract. To ensure that contracted suppliers keep progressing against sustainability standards, you can include clear continuous improvement standards in contract clauses. This can include, for example, establishing progressive CO2 minimisation targets throughout the duration of the contract, or progressive fuel saving standards.
 

@@ -14,7 +14,7 @@ La conception d’un processus de passation de marchés peut limiter ou facilite
 *Pour adopter des pratiques durables de passation de marchés, il est intéressant de diviser les projets dans des phases d’essai et de reproduction à grande échelle. Cela peut être particulièrement utile pour tester des hypothèses risquées et incertaines. Durant la phase d’essai, une stratégie claire de collecte de données doit être mise en œuvre et les données collectées guideront la phase de reproduction à grande échelle.*
 {% endcallout %}
 
-## Marchés axés sur les résultats
+## Marchés axés sur les résultats {#outcome-based-procurement}
 
 Les marchés axés sur les résultats peuvent constituer un bon point de départ en ce qui concerne les marchés publics durables. Cette approche consiste à définir les besoins en matière d’achat du point de vue des résultats souhaités plutôt que de définir une méthode pour obtenir ces résultats, ce qui permet aux acteurs du marché de proposer des solutions diversifiées.
 
@@ -33,7 +33,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 
 - Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;
 - Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;
-- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](/obligations-contractuelles) pour en savoir plus sur la définition de clauses d’amélioration continue).
+- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](/obligations-contractuelles#continuous-improvement) pour en savoir plus sur la définition de clauses d’amélioration continue).
 
 {% endtoggle %}
 
@@ -52,7 +52,7 @@ Les marchés publics axés sur les résultats sont principalement utiles dans le
 Pour plus d’orientations et d’exemples sur l’élaboration d’approches des marchés publics permettant d’obtenir des résultats durables, nous vous invitons à consulter les [orientations relatives à la commande publique axée sur les résultats (*« Results-Driven Contracting »*) du Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting). Pour une étude de cas sur la conception d’un processus de passation de marchés fondé sur l’obtention des résultats escomptés, consultez l’exemple des marchés pour l’entretien paysagiste de la ville de Wichita présenté à la fin de cette section.
 {% endcallout %}
 
-## Processus d’appel d’offres en deux temps
+## Processus d’appel d’offres en deux temps {#two-stage-tender-processes}
 
 Les processus de passation de marchés en deux temps permettent d’établir un dialogue constant entre les fournisseurs et les services de passation de marchés et de divulguer les informations pertinentes de façon ouverte.
 
@@ -89,7 +89,7 @@ Les processus d’appel d’offres en deux temps sont particulièrement utiles d
 
 {% endtoggle %}
 
-## Marché groupé
+## Marché groupé {#joint-procurement}
 
 Afin de mettre en place des marchés publics durables, vous pouvez également opter pour des marchés groupés. Cette approche désigne la collaboration entre plusieurs organismes publics dans le cadre de certains marchés. Cette collaboration peut porter sur des essais conjoints ou certaines interactions avec les acteurs du marché au début du processus, ou encore le lancement d’un appel d’offres commun ou la signature conjointe d’un contrat avec un fournisseur dans le cadre d’un processus de passation de marchés.
 
@@ -126,7 +126,7 @@ Les marchés groupés offrent divers avantages en ce qui concerne la mise en pla
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.svg %}
-*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur [la construction](/la-construction-en-anglais) et les [technologies de l’information et des communications](/le-secteur-tic-en-anglais)*.
+*Pour obtenir davantage d’orientations sur les approches pouvant faciliter la mise en place de marchés publics durables et ouverts concernant certaines catégories de marchés, consultez les sections sur [la construction](/la-construction-en-anglais/supporting-effective-spp) et les [technologies de l’information et des communications](/le-secteur-tic-en-anglais/supporting-effective-spp)*.
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.svg label: Ressources %}

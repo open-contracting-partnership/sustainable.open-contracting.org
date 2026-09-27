@@ -79,7 +79,7 @@ Green construction accreditations cover many aspects of construction projects, *
 **Master planning guidance:**
 
 - [Master Planning. 2015. The World Bank](https://web.archive.org/web/20230127212452/https://urban-regeneration.worldbank.org/node/51).
-- [Master Planning and statutory planning process table (Community Gardens). GOV.UK](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)
+- [Master Planning and statutory planning process table (Garden Communities). Homes England](https://assets.publishing.service.gov.uk/media/5d84e0f3e5274a27cfe72a17/Home_England_Masterplanning_flow_illustration.pdf)
 
 **Sustainable building construction in Africa:**
 

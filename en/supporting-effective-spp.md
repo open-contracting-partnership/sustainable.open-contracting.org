@@ -67,6 +67,6 @@ Standard terms that commit the supplier to providing continuous improvement of s
 
 Continuous improvement clauses can also relate to supply chain management activities. This can include, for example, setting out which activities the supplier should carry out during the duration of the contract to ensure freedom of association, such as specific training or auditing activities.
 
-See [this section](/prepare-contract-obligations) for more information on continuous improvement clauses.
+See [this section](/prepare-contract-obligations#continuous-improvement) for more information on continuous improvement clauses.
 
 {% endtoggle %}

@@ -32,7 +32,7 @@ Este relacionamiento no es una acción única, y usted debe planear los momentos
 
 A continuación, mencionamos algunas de las maneras de lograrla: la clave es relacionamiento reiterado y sostenido. Un ejemplo de esto es nuestro estudio de caso sobre el proceso de renovación en la Ciudad de México del Sistema de Bicicletas Compartidas Ecobici. Este ejemplo demuestra cómo, mediante una reformulación del proceso y con base en un relacionamiento sostenido con los vendedores y las comunidades, la ciudad supo extender su esquema de bicicletas compartidas a los barrios más pobres y marginados de la ciudad, y el resultado fue una licitación con resultados radicalmente mejores de que las anteriores.
 
-Más allá de una licitación individual, la contratación abierta y sostenible exigirá cambios de política inteligentes y basados en datos. Aquí se incluye un liderazgo sostenido, y acogida por parte del mercado y de las comunidades, así que nuevamente, el relacionamiento y la retroalimentación serán cruciales en la promoción del cambio y de la entrega de resultados. Hay ejemplos sobresalientes de cómo las organizaciones de la sociedad civil están haciendo monitoreo a los resultados de la inversión pública, y rastrean los resultados para la ciudadanía en [Ucrania](https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/), [Nigeria](https://medium.com/open-contracting-stories/open-it-to-fix-it-fb4e8fd616fc) e [India](https://www.open-contracting.org/2022/04/06/using-data-analysis-to-spot-gaps-in-access-to-maternal-and-child-health-services).
+Más allá de una licitación individual, la contratación abierta y sostenible exigirá cambios de política inteligentes y basados en datos. Aquí se incluye un liderazgo sostenido, y acogida por parte del mercado y de las comunidades, así que nuevamente, el relacionamiento y la retroalimentación serán cruciales en la promoción del cambio y de la entrega de resultados. Hay ejemplos sobresalientes de cómo las organizaciones de la sociedad civil están haciendo monitoreo a los resultados de la inversión pública, y rastrean los resultados para la ciudadanía en [Ucrania](https://www.open-contracting.org/es/2020/10/20/como-se-crea-una-red-ciudadana-para-combatir-la-corrupcion-preguntale-a-un-equipo-revolucionario-en-ucrania/), [Nigeria](https://medium.com/open-contracting-stories/open-it-to-fix-it-fb4e8fd616fc) e [India](https://www.open-contracting.org/2022/04/06/using-data-analysis-to-spot-gaps-in-access-to-maternal-and-child-health-services).
 
 {% toggle **Talleres para fortalecer capacidades en los responsables de la contratación** %}
 
@@ -66,7 +66,7 @@ Se puede ver más ejemplos y recursos para la vinculación de partes interesadas
 
 {% endtoggle %}
 
-## Estandarice sus criterios de sostenibilidad
+## Estandarice sus criterios de sostenibilidad {#standardized-criteria}
 
 Los gobiernos compran una inmensa variedad de materiales y la mayoría de los responsables de contratación carecen de conocimientos o recursos para saber cuáles normas de sostenibilidad que se debe aplicar a las diferentes industrias y categorías. Es así que, como mencionamos en priorice categorías de contratación, uno de los pasos iniciales con CPS Abierta es la identificación de normas de sostenibilidad y eco etiquetas vigentes; y posteriormente, en la orientación sobre las mejores normas para los diferentes categorías de contratación, y la manera como éstas deben estar incluidas en los procesos de contratación.
 

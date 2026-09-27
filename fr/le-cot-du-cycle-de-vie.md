@@ -24,7 +24,7 @@ Le calcul du coût du cycle de vie a un rôle important à jouer dans l’obtent
 
 De nos jours, les gouvernements peuvent plus facilement analyser le coût complet des actifs dans le temps. Par conséquent, en plus des livrables, les acheteurs publics acquièrent un service qui contribue à l’exploitation de ces livrables. Par exemple, un projet de construction peut inclure les travaux et la gestion du bâtiment construit.
 
-La combinaison de bonnes pratiques de passation de marchés et des données relatives aux dépenses publiques peut donner aux acheteurs davantage d’informations concernant le coût complet du cycle de vie de leurs actifs. Le [Standard de données sur la commande publique ouverte](https://standard.open-contracting.org/) peut aider à alimenter cette analyse en faisant le lien entre plusieurs phases du processus de passation de marchés.
+La combinaison de bonnes pratiques de passation de marchés et des données relatives aux dépenses publiques peut donner aux acheteurs davantage d’informations concernant le coût complet du cycle de vie de leurs actifs. Le [Standard de données sur la commande publique ouverte](https://standard.open-contracting.org/latest/fr/) peut aider à alimenter cette analyse en faisant le lien entre plusieurs phases du processus de passation de marchés.
 
 ## Avantages
 

@@ -59,7 +59,7 @@ Las autoridades públicas pueden organizar grupos de trabajo para verificar y mo
 
 {% toggle **Utilice actividades de monitoreo de la sociedad civil** %}
 
-Otra forma importante de recopilar los datos necesarios para monitorear el desempeño podría ser mediante la participación de la sociedad civil o los usuarios/beneficiarios de un servicio. La colaboración de los ciudadanos o beneficiarios podría luego habilitarse para recopilar datos, por ejemplo, sobre medidas de salud y seguridad, impacto de los proyectos en las comunidades, etc. Esto se puede hacer mediante el uso de foros comunitarios, la apertura de plataformas en línea, la asignación de organizaciones civiles para recopilar información, aplicaciones, etc. Obtenga más información sobre el rol del [monitoreo de acontrataciones aquí](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/) y consulte la [aplicación Development Check](https://integrityaction.org/devcheck/) en Acción de Integridad para mayor iluminación.
+Otra forma importante de recopilar los datos necesarios para monitorear el desempeño podría ser mediante la participación de la sociedad civil o los usuarios/beneficiarios de un servicio. La colaboración de los ciudadanos o beneficiarios podría luego habilitarse para recopilar datos, por ejemplo, sobre medidas de salud y seguridad, impacto de los proyectos en las comunidades, etc. Esto se puede hacer mediante el uso de foros comunitarios, la apertura de plataformas en línea, la asignación de organizaciones civiles para recopilar información, aplicaciones, etc. Obtenga más información sobre el rol del [monitoreo de acontrataciones aquí](https://www.open-contracting.org/es/2020/10/19/monitoreo-de-las-contrataciones-en-un-mundo-digital-nuestra-nueva-serie-de-mejores-practicas/) y consulte la [aplicación Development Check](https://integrityaction.org/devcheck/) en Acción de Integridad para mayor iluminación.
 
 {% endtoggle %}
 
@@ -70,7 +70,7 @@ Para obtener más ejemplos de cómo monitorear la implementación en contratos d
 {% callout gray /assets/images/Notion-others2.svg label: Recursos %}
 
 - [Commitment Matters. 2021. If saving the world depends on contracts, is it time to give up?](https://commitmentmatters.com/2021/05/26/if-saving-the-world-depends-on-contracts-is-it-time-to-give-up/)
-- [OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/)
+- [OCP. 2020. Procurement monitoring in a digital world: our new series sharing best practices.](https://www.open-contracting.org/es/2020/10/19/monitoreo-de-las-contrataciones-en-un-mundo-digital-nuestra-nueva-serie-de-mejores-practicas/)
 - [Integrity Action. 2022. Development check.](https://integrityaction.org/devcheck/)
 {% endcallout %}
 

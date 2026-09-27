@@ -14,7 +14,7 @@ The design of a public procurement process can limit or facilitate the applicati
 One procurement approach that can be very helpful when starting to implement sustainable practices in public procurement is to divide projects into **pilot and scale phases.** This can be especially useful for testing risky and uncertain assumptions. During the pilot phase, data should be clearly captured and should feed into the scaling phase.
 {% endcallout %}
 
-## Outcome-based procurement
+## Outcome-based procurement {#outcome-based-procurement}
 
 Outcome-based procurement can be another way to start implementing SPP. Applying an outcome-based procurement approach consists in framing purchasing needs in terms of the outcome that should be achieved, rather than how to achieve that outcome, allowing the supplier market to offer different solutions.
 
@@ -37,7 +37,7 @@ To apply and outcome-based procurement approach, you need to:
 
 - Frame your **needs in terms of outcomes** (see [section on needs assessment](/assess-needs) for more information on this).
 - Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below).
-- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations)).
+- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations#continuous-improvement)).
 
 {% endtoggle %}
 
@@ -56,7 +56,7 @@ Outcome-based procurement approaches can be most useful when:
 For more guidance and examples of how to shape procurement approaches to achieve sustainability outcomes, we recommend referring to the [Harvard Kennedy School’s Government Performance Lab guidance on “Results-Driven Contracting”](https://govlab.hks.harvard.edu/results-driven-contracting). For a case study on how to design a procurement process based on achieving desired outcomes see the Wichita Ground Maintenance Contracts example developed at the end of this section.
 {% endcallout %}
 
-## Two-stage tender processes
+## Two-stage tender processes {#two-stage-tender-processes}
 
 Using two-stage procurement procedures, entails the possibility of establishing an ongoing dialogue, and openly disclosing information, between suppliers and procurement practitioners.
 
@@ -93,7 +93,7 @@ Using two-stage tender processes can be especially useful in complex projects su
 
 {% endtoggle %}
 
-## Joint procurement
+## Joint procurement {#joint-procurement}
 
 One of the procurement approaches that you can take within SPP implementation is joint procurement. This approach refers to the collaboration of multiple public authorities on a specific procurement. This collaboration can include jointly conducting early-stage market testing and engagement at the beginning of a procurement, or jointly tendering or contracting with a supplier, during the execution of a procurement.
 
@@ -130,7 +130,7 @@ Throughout this toolkit, we have provided guidance on the use of [frameworks](/e
 {% endcallout %}
 
 {% callout red /assets/images/Idea_Red.svg %}
-For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector) and [ICT](/ict-sector).
+For more guidance on procurement approaches that can be useful when implementing Open SPP in specific procurement categories, see the sections on [Construction](/construction-sector/supporting-effective-spp) and [ICT](/supporting-effective-spp).
 {% endcallout %}
 
 {% callout gray /assets/images/Notion-others.svg label: Resources %}

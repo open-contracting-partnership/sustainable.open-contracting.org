@@ -68,7 +68,7 @@ Enfin, les déclarations environnementales de produit correspondant aux éco-ét
 
 ## Comment repérer les éco-étiquettes pertinentes ?
 
-Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/organisations/) propose un répertoire des éco-étiquettes de ses membres, que l’on peut filtrer par catégorie de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais) et le [secteur de la construction](/la-construction-en-anglais).
+Comme nous l’avons expliqué dans cette section, les éco-étiquettes de type I sont généralement les étiquettes les plus utilisées dans le cadre des marchés publics. Afin d’offrir un bon aperçu des éco-étiquettes de type I existantes, le [Global Ecolabel Network](https://globalecolabelling.net/organisations/) propose un répertoire des éco-étiquettes de ses membres, que l’on peut filtrer par catégorie de produits et services. Pour en savoir plus sur les éco-étiquettes concernant des catégories de marchés spécifiques, consultez les sections sur les [technologies de l’information et des communications](/le-secteur-tic-en-anglais/setting-the-framework) et le [secteur de la construction](/la-construction-en-anglais/setting-the-framework).
 
 ### Éco-étiquettes
 

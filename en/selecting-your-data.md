@@ -51,7 +51,7 @@ The use of hazardous substances in ICT equipment can be dangerous for those hand
 {% callout gray /assets/images/Icons_Grey9.svg %}
 For displays, for example, [on pages 124 to 134](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) **TCO includes guidelines on the maximum concentration of hazardous substances that these products should contain.**
 
-Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://tcocertified.com/industry/accepted-substance-list/) that can be used as guidance.
+Note that it is important to check context specific regulations, as national regulation usually includes specific provisions on hazardous substances use. TCO also provides a list with [approved substances](https://industry.tcocertified.com/guidance/accepted-substance-list/) that can be used as guidance.
 {% endcallout %}
 
 ## Repairability, upgradeability and recyclability
@@ -82,13 +82,13 @@ Page 117 to 123 of the [TCO criteria for displays](https://tcocertified.com/file
 
 ## Data security
 
-Data security information is a variable that should be captured to ensure that privacy and security have been built into the procured ICT hardware. [Page 15 of HP’s sustainable IT purchasing guide](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf) provides guidance on data security information that procurers can require of potential vendors and the technology purchased.
+Data security information is a variable that should be captured to ensure that privacy and security have been built into the procured ICT hardware. The “Evaluating supplier relationships” section of [HP’s guide to sustainable IT procurement](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf) recommends asking suppliers for guidance on data security requirements, which many older bid documents didn’t include.
 
 ## End-of-life management
 
 In order to promote the circularity of ICT equipment, it is important to collect information regarding the services the supplier offers at the end of the use life of the equipment. This includes whether the supplier can provide a take-back, reuse or recycling service, and whether this service is also available for individual components, such as batteries.
 
-## Supply chain information
+## Supply chain information {#supply-chain-information}
 
 One of the key issues within the ICT sector is the lack of transparency regarding the supply chain, which is often associated with occupational health, safety violations, and labour rights vulnerabilities. Requesting and capturing the following information from the supplier is an important step towards to promote social sustainability in the ICT sector:
 
@@ -127,6 +127,6 @@ The supplier should also provide information on how this Code of Conduct is tran
 
 **Introducing general sustainability criteria in the procurement process:**
 
-- [HP Development Company. 2020. Purchasing the future you want: A sustainable IT purchasing guide.](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf)
+- [HP Development Company. 2025. Purchasing the future you want: A guide to sustainable IT procurement.](https://h20195.www2.hp.com/v2/getpdf.aspx/c07023857.pdf)
 - [TCO. 2022. Certified product categories.](https://web.archive.org/web/20240122015038/https://tcocertified.com/product-categories/)
 {% endcallout %}

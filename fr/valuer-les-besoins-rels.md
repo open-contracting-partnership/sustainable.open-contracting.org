@@ -88,13 +88,13 @@ Au lieu d’acheter des produits neufs, la location peut parfois être une bonne
 
 {% toggle **Marché groupé** %}
 
-Les marchés groupés peuvent aider à gonfler la demande de produits et services écologiques, ce qui peut ensuite encourager les fournisseurs à investir dans des solutions durables. En regroupant leurs besoins dans le cadre de marchés groupés, les entités adjudicatrices donnent simplement aux acteurs du marché la possibilité de conclure plusieurs contrats à l’issue d’un seul processus d’appel d’offres. La réduction maximale des ressources nécessaires pour générer du chiffre d’affaires peut inciter davantage d’entreprises à investir dans des solutions durables. Consultez [**cette section**](/choisir-une-mthode-de-passation-de-marchs) pour en savoir plus sur les marchés groupés.
+Les marchés groupés peuvent aider à gonfler la demande de produits et services écologiques, ce qui peut ensuite encourager les fournisseurs à investir dans des solutions durables. En regroupant leurs besoins dans le cadre de marchés groupés, les entités adjudicatrices donnent simplement aux acteurs du marché la possibilité de conclure plusieurs contrats à l’issue d’un seul processus d’appel d’offres. La réduction maximale des ressources nécessaires pour générer du chiffre d’affaires peut inciter davantage d’entreprises à investir dans des solutions durables. Consultez [**cette section**](/choisir-une-mthode-de-passation-de-marchs#joint-procurement) pour en savoir plus sur les marchés groupés.
 
 {% endtoggle %}
 
 {% toggle **Marchés axés sur les résultats** %}
 
-Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting) et [**cette section**](/choisir-une-mthode-de-passation-de-marchs).
+Le fait de formuler les besoins des bénéficiaires sous la forme de résultats peut inciter les fournisseurs à faire des propositions durables et innovantes (c’est-à-dire en demandant de chauffer des bureaux à entre 20 et 22 degrés plutôt que d’acheter un radiateur de 300 W). Pour en savoir plus sur les marchés axés sur les résultats, nous vous invitons à consulter les travaux du [Government Performance Lab de la Harvard Kennedy School](https://govlab.hks.harvard.edu/results-driven-contracting) et [**cette section**](/choisir-une-mthode-de-passation-de-marchs#outcome-based-procurement).
 
 {% endtoggle %}
 
