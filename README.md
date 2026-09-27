@@ -60,14 +60,16 @@ Each page is `<lang>/<path>.md`, with front matter:
 | `full_width` | Whether the page is full width. A page with the sidebar is full width |
 | `collection` | Whether the page is a Notion database |
 | `notion_id` | The ID of the Notion page from which it was imported |
-| `sidebar` | Whether the page has the sidebar on wider screens. On phones, every page has its menu. Every page with text or a gallery has it, except the sample M&E framework, whose wide table extends past the text column of a page that isn't full width. Ecolabels and resources don't have it, since they have properties and no text |
+| `sidebar` | Whether the page has the sidebar on wider screens. On phones, every page has its menu. Every page has it, except the sample M&E framework, whose wide table extends past the text column of a page that isn't full width |
 | `properties` | A database item's properties, in order, rendered by the `{% properties %}` tag in the layout: a mapping of pills to their colors, a list of mappings of attachments' names to their URLs, a number, or text. The `notion.date_properties` and `notion.url_properties` settings in `_config.yml` name the properties that are dates and URLs. |
 
 A page's versions in each language are a line of `_data/translations.yml`, like `- {en: /prioritize, es: /priorice, fr: /priorits}`, which all three builds read. The layout and the sitemaps link them as alternates (`hreflang`), with the English version as the default. The navbar's language links (`_includes/languages.html`) go to the page's versions, or to the other sites' home pages. To add a page's versions, or to change a permalink, edit its line.
 
-The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar, on every page (`_includes/sidebar-menu.html`). It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. Each page ends with links to the previous and next pages, in one sequence (`_plugins/sequence.rb`): the sidebar's pages, in order, each followed by the pages that its galleries and page links point to, in their order. A new page is in the sequence once a page in it links to it that way.  is the sidebar's width, in pixels, or a quarter of the width if that's less. Pages have narrower margins below 1280px, so that the content has room. Text is at most 708px wide, about 75 characters per line, while tables, images, galleries and code blocks use the content's full width.
+The layout renders the breadcrumbs (from the pages at each prefix of the path) and the header, and the sidebar (in `_includes/sidebar-<lang>.html`, a navigation list of the sections and their pages) if a page has `sidebar: true`. On phones, where the columns stack, the sidebar is a menu, opened by a button in the navbar, on every page (`_includes/sidebar-menu.html`). It's a `<details>` element, so it works without JavaScript, and it's shown open on wider screens with `::details-content`. The `sidebar_width` setting in `_config.yml` is the sidebar's width, in pixels, or a quarter of the width if that's less. Pages have narrower margins below 1280px, so that the content has room. Text is at most 708px wide, about 75 characters per line, while tables, images, galleries and code blocks use the content's full width.
 
-Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title, in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
+Each page ends with links to the previous and next pages, in one sequence (`_plugins/sequence.rb`): the sidebar's pages, in order, each followed by the pages that its galleries and page links point to, in their order. A new page is in the sequence once a page in it links to it that way.
+
+Paragraphs, headings, lists, code blocks, bold, italics and links are Markdown, as are to-dos (`- [ ] text`) and dividers (`---`). A heading's size is its level in Markdown, as in Notion (`#` is the largest), but `_plugins/heading_levels.rb` numbers its tag from `<h2>`, below the page's title (or from `<h1>`, with `hide_title`), in the order of the levels that the page uses, so that screen readers see no skipped levels. A heading that links target has an ID at the end of its line, like `### Option 1: Assign tags to procurements {#option-1}`, and links add it to the page's path, like `/options-for-data-use#option-1`. The options pages' headings have the same IDs in every language. A code block's optional `?mark=` after its language, like ```` ```json?mark=3-5,8 ````, highlights those lines. Callouts, toggles, columns and indented blocks are Liquid tags (in `_plugins/notion_tags.rb`) that contain Markdown:
 
 ```liquid
 {% callout gray /assets/images/Icons_Grey3.svg %}
@@ -104,7 +106,7 @@ A callout's color is a Notion color (`gray`, `green`, `red`, `yellow`, `blue`) o
 Links to pages (with the page's icon and title), images and PDFs are also tags:
 
 ```liquid
-{% page /plan/prioritize %}
+{% page /prioritize %}
 {% page /monitoring-evaluation/sample-me-framework bg-green %}
 {% image /assets/images/Untitled.jpg 672 420 align-start normal %}
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
@@ -138,11 +140,11 @@ Databases' gallery views are `{% gallery %}` tags (`medium` or `large`), contain
 {% gallery medium %}
 
 - title: Prioritize
-  link: /plan/prioritize
+  link: /prioritize
   icon: /assets/images/icons_D_Green2.svg
 - title: Promoting circularity through furniture procurement in Wales
   link: /promoting-circularity-through-furniture-procurement-in-wales
-  cover: /assets/images/Europe_-_Wales.png
+  cover: /assets/images/Europe_-_Wales.webp
   cover_position: 55.89
   cover_only: true
 {% endgallery %}
@@ -177,7 +179,7 @@ items:
 {% endcomment %}
 ```
 
-On the Spanish and French sites, the `notion.hide_properties` setting hides the properties on the items' own pages, as on Super.so.
+On the Spanish and French sites, the `notion.hide_properties` setting hides database items' properties, like the case studies', as on Super.so.
 
 `_plugins/notion_markdown.rb` adds Notion's classes to the elements that Markdown generates, so that Super.so's stylesheets apply. In Notion's text, a newline is a line break, so a paragraph can contain newlines and `<br>` (for an empty line), but not a blank line. The spacing between blocks is set in `assets/css/site.css`.
 
@@ -239,7 +241,7 @@ uv run --group screenshots scripts/screenshots.py compare before after
 
 ### Stylesheets and scripts
 
-The stylesheets in `assets/css/` (except `fonts.css`, `main.css`, `site.css` and `theme-*.css`) are Super.so's own. `main.css` imports them all, with the site's theme, so `jekyll serve` works as is. `scripts/build.sh` then bundles it with [esbuild](https://esbuild.github.io) (`build.mjs`, as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/javascript/index.html#build-js)), removing the rules that the built pages and scripts don't use with [PurgeCSS](https://purgecss.com), and adding vendor prefixes with Autoprefixer. With `NODE_ENV=production`, as in CI, it minifies the bundle; otherwise, it writes a sourcemap. A class that only a script adds must appear in the script's source, as the ones in `site.js` do. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons, breadcrumbs that collapse into a menu when they don't fit, and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
+The stylesheets in `assets/css/` (except `fonts.css`, `main.css`, `site.css` and `theme-*.css`) are Super.so's own. `main.css` imports them all, with the site's theme, so `jekyll serve` works as is. `scripts/build.sh` then bundles it with [esbuild](https://esbuild.github.io) (`build.mjs`, as in the [OCP Software Development Handbook](https://ocp-software-handbook.readthedocs.io/en/latest/javascript/index.html#build-js)), removing the rules that the built pages and scripts don't use with [PurgeCSS](https://purgecss.com), and adding vendor prefixes with Autoprefixer. With `NODE_ENV=production`, as in CI, it minifies the bundle; otherwise, it writes a sourcemap. A class that only a script adds must appear in the script's source, as the ones in `site.js` do. `assets/js/site.js` replaces the Super.so behavior that the pages need: toggles, code block copy buttons, breadcrumbs that collapse into a menu when they don't fit, and search (in Super.so's search dialog, `_includes/search.html`, whose search matched only titles). It also closes the sidebar's and languages' menus on Escape or a click outside them, and shows the hint and fades on tables that scroll. `sitemap.xml`, `robots.txt` and `404.html` replace the ones Super.so generated.
 
 ## History
 
