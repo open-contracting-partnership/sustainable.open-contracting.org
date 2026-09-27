@@ -10,7 +10,7 @@ Una vez usted haya podido vincular la política y la acción y luego registrarlo
 
 Estos parámetros podrían ser tan simples como simples etiquetas adjuntas a los avisos que confirman que existe un umbral de CPS y si el documento cumple o no con ese umbral.
 
-```r
+```text
 PYME apropiada = "Si"
 ¿Amigable con los negocios de propiedad de mujeres? = "Si"
 ```
@@ -25,40 +25,44 @@ Para aquellos compradores que no tienen acceso a las etiquetas (por ejemplo, dat
 
 A partir de estas etiquetas, los datos de adquisiciones se pueden analizar en conjunto, ya sea contando la cantidad de contratos que lograron la definición de CPS:
 
-```r
-Nombre del contrato | CPS | 
----------------------
-contrato A    | SI |  
-contrato B    | SI |  
-contrato C    | NO  |
+{% table %}
+| Nombre del contrato | CPS |
+|---|---|
+| contrato A | SI |
+| contrato B | SI |
+| contrato C | NO |
+{% endtable %}
 
+```text
 Total contrato = 3
 Total CPS = 2
 ```
 
 O usar esto para entender la proporción de los contratos que cumplen con el estándar:
 
-```r
+```text
 Porcentaje de contratos con condición CPS
 (2/3)*100 = 66.6%
 ```
 
 En algunos casos, el valor total de los contratos es un indicador útil del compromiso que están asumiendo los compradores con la adquisición de CPS. El siguiente ejemplo muestra cómo calcular el valor total de los contratos CPS.
 
-```r
-nombre del contrato | CPS  | valor  | 
-----------------------------------
-contrato A    | SI    | 100,000 | 
-contrato B    | SI    | 120,000 | 
-contrato C    | NO     | 160,000 |
+{% table %}
+| nombre del contrato | CPS | valor |
+|---|---|---|
+| contrato A | SI | 100,000 |
+| contrato B | SI | 120,000 |
+| contrato C | NO | 160,000 |
+{% endtable %}
 
+```text
 Valor total = 100,000 + 120,000 + 160,000 = 380,000
 CPS totales = 100,000 + 120,000 = 220,000
 ```
 
 Puede ser revelador usar valores para establecer una comprensión de la inversión relativa en contratos SPP también:
 
-```r
+```text
 Porcentaje de contratos con estatus SPP
 (220,000/380,000)*100 = 57.9%
 ```
@@ -67,7 +71,7 @@ Las anteriores ecuaciones también se pueden filtrar por categoría, comprador, 
 
 Una buena medida adicional sería publicar claramente los valores de puntuación que forman parte del proceso general de adquisición. Por ejemplo:
 
-```sql
+```text
 Ponderación de puntuación de compras verdes = 10%
 Ponderación del puntaje de desarrollo económico = 2%
 Ponderación de puntuación de igualdad de género = NINGUNO
@@ -75,7 +79,7 @@ Ponderación de puntuación de igualdad de género = NINGUNO
 
 Esto permite todo el análisis posible con la primera opción, pero también agrega la posibilidad de añadir mejores correlaciones. En lugar de preguntar si una bandera conduce o no a un resultado correlacionado, es posible analizar si, a medida que aumenta la puntuación de contrataciones CPS, otros factores varían. Los recuentos y las ecuaciones de sumas anteriores se pueden multiplicar por la ponderación para obtener mejores comparaciones entre adquisiciones. A modo de ejemplo, un contrato destinado a una empresa neutra en carbono:
 
-```sql
+```text
 Para  dos contratos por valor de €100.000
 
 El contrato 1 tiene una puntuación de contratación ecológica del 10 % y tiene un valor de €100 000 

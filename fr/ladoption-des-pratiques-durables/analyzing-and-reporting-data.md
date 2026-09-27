@@ -12,18 +12,17 @@ This connection between what policy or legislation are trying to achieve and the
 
 Within SPP, this approach can be used to revise SPP targets for continuous improvement:
 
-```r
-Year    | SPP count*   | Policy     |
-        | (actual)     | Target     |  
------------------------------------------------
-2017    | 56%          | 70%        |    
-2018    | 69%          | 70%        |    
-2019    | 73%          | 70%        |    
-2020    | 74%          | 75%        |    
-2021    | 76%          | 75%        |  
+{% table caption: Count as a %age of all procurement %}
+| Year | SPP count (actual) | Policy Target |
+|---|---|---|
+| 2017 | 56% | 70% |
+| 2018 | 69% | 70% |
+| 2019 | 73% | 70% |
+| 2020 | 74% | 75% |
+| 2021 | 76% | 75% |
+{% endtable %}
 
-*count as a %age of all procurement
-
+```text
 A policy target has been set to make at least 70% of all procurements SPP by 2021
 Tracking the policy target shows near compliance by 2018: 69%.
 By 2019 the target has been exceeded: 73% against 70%. 

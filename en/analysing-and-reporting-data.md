@@ -18,7 +18,7 @@ You should be clear about how you are recording and calculating these metrics an
 
 In the following scenario we can calculate the jobs that contracting supports and the number of new jobs that would be created by awarding the contract to Supplier A. By subtracting the number of jobs supported by the incumbent contractor from the number of jobs that would be supported by the new contractor it is possible to determine that nine new jobs would be created.
 
-```r
+```text
 contract value = €3,000,000
 contract years = 3
 contract spend per year = €1,000,000

@@ -8,21 +8,22 @@ sidebar: true
 ---
 Claramente, en torno a las métricas de CPS se puede adoptar una visión a largo plazo para vincular los objetivos establecidos por la política y la legislación. Esto puede significar que las etiquetas se cuentan contra el cuerpo de los documentos de contratación y se miden a lo largo del tiempo. Entonces, un ejemplo de contratación CPS podría ser:
 
-```r
+```text
 Apto para PYME = "Sí"
 ¿Amigable con los negocios de propiedad de mujeres? = "Sí"
 ```
 
 Se puede hacer un análisis del desempeño a lo largo del tiempo sobre los recuentos de contrataciones utilizando el año en que se celebró un contrato para el año de cada contrato.
 
-```r
-Año    | Número de CPS | Todas las contrataciones | 
-----------------------------------------
-2019    | 200       | 600              |    
-2020    | 150       | 380              |    
-2021    | 450       | 650              |  
+{% table %}
+| Año | Número de CPS | Todas las contrataciones |
+|---|---|---|
+| 2019 | 200 | 600 |
+| 2020 | 150 | 380 |
+| 2021 | 450 | 650 |
+{% endtable %}
 
-
+```text
 Para 2019
 Todas las contrataciones = 600
 ASPP totales = 200
@@ -36,7 +37,7 @@ Contrataciones CPS en 2021 = 450
 
 Esto también se puede utilizar para hacer un seguimiento de los cambios año tras año como un porcentaje:
 
-```r
+```text
 Para 2020-2021
 Contrataciones SPP en 2020 = 150
 Contrataciones SPP en 2021 = 450
@@ -49,15 +50,15 @@ Diferencia 2020-2021 dividida por contrataciones SPP 2020
 
 O sobre los valores del contrato:
 
-```r
-Año     | Contratos CPS    | Todas las contrataciones |
-        | ($millones)      |  ($millones)      |  
--------------------------------------------------
-2019    | 400              | 700               |    
-2020    | 200              | 1000              |    
-2021    | 350              | 850               |  
+{% table %}
+| Año | Contratos CPS ($millones) | Todas las contrataciones ($millones) |
+|---|---|---|
+| 2019 | 400 | 700 |
+| 2020 | 200 | 1000 |
+| 2021 | 350 | 850 |
+{% endtable %}
 
-
+```text
 Para 2020
 Todas las contrataciones = $ 1000m
 CPS total = $ 200 millones
@@ -79,21 +80,22 @@ La medición de los objetivos a lo largo del tiempo permite tanto a los comprado
 
 Por ejemplo, recopilar datos sobre CPS como este:
 
-```sql
+```text
 Número de CPS = Total de todas las CPS realizadas dividido por todas las contrataciones
 ```
 
 Significa que se pueden crear clasificaciones de organizaciones gubernamentales que muestren los buenos y los malos resultados. Por ejemplo, esta lista es ilustrativa de los 5 mejores para 2021:
 
-```r
-Comprador                  | Número de CPS  | Número de CPS  |
-                           | (real)         | (objetivo)   |  
--------------------------------------------------------
-Ministerio de Salud Pública   | 86%         | 70%        |    
-Ministerio de Hacienda        | 82%         | 70%        |    
-Ministerio de Educación       | 73%         | 70%        |  
-Ministerio de Infraestructura | 63%         | 70%        |  
+{% table %}
+| Comprador | Número de CPS (real) | Número de CPS (objetivo) |
+|---|---|---|
+| Ministerio de Salud Pública | 86% | 70% |
+| Ministerio de Hacienda | 82% | 70% |
+| Ministerio de Educación | 73% | 70% |
+| Ministerio de Infraestructura | 63% | 70% |
+{% endtable %}
 
+```text
 El de peor desempeño es Ministerio de Infraestructura
 Seguimiento del rendimiento contra el objetivo
 CPS cuenta como un porcentaje de todas las contrataciones = 63%
@@ -104,14 +106,13 @@ El Ministerio de Infraestructura tiene un rendimiento inferior al 7%
 
 Desde una vista de clasificación de alto nivel, los datos se pueden desglosar aún más en hojas de cálculo y paneles. De la lista ilustrativa anterior, tomando el Ministerio de Infraestructura con el peor desempeño en 63%:
 
-```r
-Año    | Recuento SPP*   | Recuento SPP* |
-       | (real)          | (objetivo)   |  
--------------------------------------
-2019    | 75%          | 70%        |    
-2020    | 72%          | 70%        |    
-2021    | 63%          | 70%        |  
-```
+{% table %}
+| Año | Recuento SPP (real) | Recuento SPP (objetivo) |
+|---|---|---|
+| 2019 | 75% | 70% |
+| 2020 | 72% | 70% |
+| 2021 | 63% | 70% |
+{% endtable %}
 
 Está claro que el cumplimiento del objetivo no solo ha tenido una tendencia a la baja desde 2019, sino que algo sucedió en 2021 para empujar el desempeño muy por debajo del umbral del 70 %.
 

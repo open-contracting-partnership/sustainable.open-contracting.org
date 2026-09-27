@@ -25,7 +25,7 @@ The first part of any life cycle costing analysis requires an understanding of w
 
 Before you purchase a vehicle you may not have a list of payments for running an equivalent vehicle, so you can use estimates based on estimates.
 
-```r
+```text
 Year one costs
 Initial price = €60,000
 Service costs = €2,000
@@ -43,7 +43,7 @@ This basic calculation will give you an estimate of the cost for running the veh
 
 To project the cost of an asset into the future, you have to estimate what costs you will experience in subsequent years and consider the economic factors that will change those costs, including inflation.
 
-```r
+```text
 Year two costs
 Service costs = €2,500
 Parts = €600
@@ -64,7 +64,7 @@ Note that we have estimated an increase in servicing costs and parts that is ove
 
 Finally we consider the combined yearly costs to establish a full life cycle cost. So if we estimate that the car will cost a further €16,580 to run in the third year we can quickly establish a life cycle cost for the vehicle if we were to own it for three years.
 
-```r
+```text
 Three year costings
 Year one = €74,000
 Year two = €16,060

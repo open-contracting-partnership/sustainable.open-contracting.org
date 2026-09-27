@@ -8,7 +8,7 @@ sidebar: true
 ---
 The most basic way to estimate the carbon value of a contract is to multiply the contract value by a coefficient. One example coefficient is the carbon values derived from categories of goods and services. Spend Network has a table that calculates carbon tonnage based on CPV and UNSPSC. This presents a high level picture of what carbon value is associated with: for instance, a taxi contract.
 
-```sql
+```text
 Carbon value = Contract value multiplied by Carbon coefficient
 
 Facilities management's estimated carbon emissions/$ = 610.69 tonnes CO2/$ million
@@ -20,7 +20,7 @@ In isolation, this data cannot be analysed: raw contract values gives an incompl
 
 Therefore, in order to better estimate the carbon value of a contract, it is necessary to calculate the contract value by using the award notice value and the contract start and end date.
 
-```sql
+```text
 Contract value = value divided by (end date minus start date) 
 
 Carbon value = Contract value multiplied by Carbon coefficient

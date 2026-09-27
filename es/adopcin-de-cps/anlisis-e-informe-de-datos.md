@@ -12,18 +12,17 @@ Esta conexión entre lo que la política o la legislación están tratando de lo
 
 En CPS, este enfoque se puede utilizar para revisar los objetivos de CPS para la mejora continua:
 
-```r
-Año    | Número CPS*   | Política     |
-        | (real)     | Objetivo     |  
------------------------------------------------
-2017    | 56%          | 70%        |    
-2018    | 69%          | 70%        |    
-2019    | 73%          | 70%        |    
-2020    | 74%          | 75%        |    
-2021    | 76%          | 75%        |  
+{% table caption: Cuenta como un porcentaje de todas las contrataciones %}
+| Año | Número CPS (real) | Política Objetivo |
+|---|---|---|
+| 2017 | 56% | 70% |
+| 2018 | 69% | 70% |
+| 2019 | 73% | 70% |
+| 2020 | 74% | 75% |
+| 2021 | 76% | 75% |
+{% endtable %}
 
-*Cuenta como un porcentaje de todas las contrataciones
-
+```text
 Se ha establecido un objetivo de política para hacer al menos el 70% de todas las contrataciones CPS para 2021
 El seguimiento del objetivo de la política muestra un cumplimiento cercano para 2018: 69 %.
 Para 2019 se ha superado la meta: 73% contra 70%.

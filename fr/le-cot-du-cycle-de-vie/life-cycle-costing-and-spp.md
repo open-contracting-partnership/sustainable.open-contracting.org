@@ -10,7 +10,7 @@ Life cycle costing is usually used to understand costs, but can also be used to 
 
 In our example of a vehicle, we can compare the carbon emissions of different types of vehicle.
 
-```r
+```text
 Diesel car
 Carbon emissions of construction: 20 tonnes
 Carbon emissions per year: 2.6 tonnes

@@ -14,7 +14,7 @@ sidebar: true
 
 In its crudest terms the measure of a job could be as simple as allocating a proportion of a contract to labour and dividing that value by the average salary value for that industry or the average salary for your region.
 
-```r
+```text
 €1,000,000 * 0.8 -- where the amount of the contract allocated to labour is 80%
 =
 €800,000 / 4 -- where the duration of the contract is four years
@@ -28,7 +28,7 @@ This example indicates that the relevant contract would likely sustain eight job
 
 A better way to understand the relationship between jobs and contract awards you should look to have a baseline understanding of the status of a company before the contract is awarded. So you need suppliers to provide information about their finances and employees, so that you can determine the amount of revenue that each company requires for each employee.
 
-```r
+```text
 revenue = €10,000,000
 gross profit = €2,000,000 -- assumes labour costs are within cost of sales
 employees = 200
@@ -47,7 +47,7 @@ Why do we use the gross profit and the gross profit ratio? Usually gross profit 
 
 This makes it a suitable metric to establish whether money spent with a firm can be directed to  employment.
 
-```r
+```text
 contract value = €3,000,000
 contract years = 3
 contract spend per year = €1,000,000

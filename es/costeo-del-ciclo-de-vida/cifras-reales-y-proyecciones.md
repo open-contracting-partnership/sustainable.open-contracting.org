@@ -10,7 +10,7 @@ We have just looked at the role of estimates in determining a life cycle cost, n
 
 Here the challenge is to link the data in an invoice or its payment back to an asset. This can be simple or complex depending on the nature of the asset. A payment to provide facilities management services for a building will be easy to determine, as an invoice will likely include a set of fees that relate to that building. Determining the actual cost of the building is, in this scenario, relatively simple.
 
-```r
+```text
 Initial build cost = €6,000,000
 Month one facilities cost = €600,000
 Month two facilities cost = €600,000
@@ -26,7 +26,7 @@ Even if the monthly costs vary it is easy to establish a life cycle cost for thi
 
 When looking at multiple costs associated with multiple assets we have to work a bit harder to get to a lifecycle cost for each asset. If you are maintaining a suite of laptops you will have a variety of costs and these will have to average out to establish a single cost per unit.
 
-```r
+```text
 One off cost
 Original purchase cost = €1,000
 Set up fee = €300
@@ -42,7 +42,7 @@ Total five year life cycle costs = €1,800 + (€400 * 5) = €3,800
 
 This is a relatively simple per unit cost, but you may also need to consider replacement parts,  replacement products, training and support for the laptops as well. In this scenario you can model these extra costs in the following way:
 
-```r
+```text
 Annual replacements
 20 invoices received a year, average invoice value = €50
 1 laptop a year damaged beyond repair, replacement = €1,300 (purchase + set up)
@@ -63,7 +63,7 @@ Additional annual costs = €1,740 per laptop
 
 Having modeled up the costs associated with replacements and support services to help the laptops function, you can combine these costs into an accurate annual cost before projecting the costs to a full lifecycle cost:
 
-```r
+```text
 One off cost
 Original purchase cost = €1,000
 Set up fee = €300
@@ -85,7 +85,7 @@ We’ve taken the initial cost of a laptop at €1,000 and determined that the a
 
 A second laptop that has a better user interface and requires less overall support may well represent better value for money, despite having a much higher unit cost. In the following scenario a laptop costing twice the unit cost but half the support provides a lifecycle cost of €9,000 per unit and a 33% saving on the cheaper unit.
 
-```r
+```text
 One off cost
 Original purchase cost = €2,000
 Set up fee = €300

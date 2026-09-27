@@ -10,7 +10,7 @@ sidebar: true
 
 One way to assess the extent of spend going to female led businesses is to apportion contract value to the female:male leadership ratio.
 
-```r
+```text
 Take a Cleaning Company 
 
 Its board has 5 members, 1 of whom is a woman
@@ -24,7 +24,7 @@ $200,000 of the contract spend can be said to go to women-led.
 
 This logic also extends to women owned businesses.
 
-```sql
+```text
 Take a Tech Company
 
 It has 3 people listed as beneficial owners

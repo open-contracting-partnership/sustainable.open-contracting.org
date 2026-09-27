@@ -20,7 +20,7 @@ We have laid out some weightings expressed as percentages below. Combining weigh
 
 This single credit can be given a place within the wider scoring mechanism for a tender, so economic development may be considered to be worth 10% of a bid value with other factors, such as price making up the remaining 90%
 
-```r
+```text
 Permanent skilled employement = 100%
 Permanent, unskilled employment = 80%
 Temporary, skilled employment = 40%

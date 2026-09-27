@@ -12,13 +12,13 @@ In order to make this reporting transferable and therefore comparable with other
 
 This means that the definition of women-owned and women-led businesses needs to be standardised across organisations, similar to financial returns or tax returns. Beneficial ownership data needs to include flags to identify male or female names. This is because it is not immediately obvious whether the person behind a name is male or female:
 
-```sql
+```text
 'Alex Smith' could refer to Alexander Smith or Alexandra Smith
 ```
 
 The methodology needs to be standardised as well. For gender pay, it might mean comparing the pay of men to women as an absolute value. This might appear to be a simpler approach but raises issues of comparability.  A better approach is to compare pay on a role by role basis. For instance, listing the roles within an organisation:
 
-```sql
+```text
 - Director
 - Manager
 - Consultant

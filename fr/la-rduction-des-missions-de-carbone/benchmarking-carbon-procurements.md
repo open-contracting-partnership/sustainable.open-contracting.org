@@ -8,7 +8,7 @@ sidebar: true
 ---
 Measures that track carbon can be improved through better reporting: for example, self reporting by companies, better reporting within procurement itself. This includes carbon calculation as part of tender scoring during the procurement process.
 
-```sql
+```text
 
 A $5.5m taxi contract is being let, starting on 01/01/23 and ends on 01/01/28 
 Bidders must estimate their yearly emissions with supporting evidence. 
@@ -23,7 +23,7 @@ Taxi Co wins the contract for $5 million or $1 million a year
 
 This self report can be benchmarked against average for that category.
 
-```sql
+```text
 Taxi service's estimated carbon emissions/$ = 603.05 tonnes CO2/$ million
 (620 tonnes - 603.05 tonnes) / 603.05 tonnes = 3%
 This represents a 3% greater carbon emissions compared to market
