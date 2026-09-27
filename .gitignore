@@ -8,6 +8,5 @@ vendor/
 .jekyll-cache/
 _site/
 
-# Notion's exports and the crawl of the Super.so sites, from the import
+# The crawl of the Super.so sites, from the import, and the link and screenshot scripts' output
 .crawl/
-Export-*/
