@@ -23,50 +23,50 @@ As we introduce in our [Green Flags guide](https://www.open-contracting.org/wp-c
 
 Doing this will require establishing a clear definition of which contracts fall within each of these categories. For example, if you have created standard sustainability specifications for the procurement of paper, then you can establish that all contracts which include these specifications should be tagged as “SPP”.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 1: Assign tags to procurements | Manually sift through procurement notices and make a judgement call on whether or not its SPP.\n\nMandate authorities release a flag highlighting that a procurement is SPP. | Release a flag for SPP procurement on contract registers | Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Manually sift through procurement notices and make a judgement call on whether or not its SPP.\n\nMandate authorities release a flag highlighting that a procurement is SPP. | Release a flag for SPP procurement on contract registers | Use machine learning to programmatically identify whether or not a notice is SPP from its specifications. Apply this retrospectively to increase the scope for analysis. |
 {% endtable %}
 
 ### Option 2: Boost policy performance through alerts and notifications {#option-2}
 
 Through manual or programmatic analysis of data, alerts can be created and used by contracting authorities to encourage uptake of SPP initiatives and performance. Analysis can be compiled into dashboards to show data on sectors, buyers, suppliers and categories, including top and bottom 10 rankings, as in [this example from Lithuania](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/).
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 2: Boost performance to policy through alerts | Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)\n(see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)\n(see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
 {% endtable %}
 
 ### Option 3: Analyze contracts awarded {#option-3}
 
 Buyers can measure the value and number of SPP related contracts awarded to suppliers according to location, size, industry, or otherwise. This will help to build a firm evidence base relating to SPP outcomes and impact as a whole (evidence which can be used against claims that it delivers less value for money, or it only favors larger companies). Analysis can also extend towards categories, such as whether health and social care are more equitable in gender pay, or analyses of regional trends such as unemployment and demographics.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 3: Analyze contracts awarded | Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse tools such as Silver Eye to turn this data into OCDS. | Create dashboards that allow analysis of buyers, suppliers, categories., etc.\n\nCreate flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | Link to contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Track and monitor contracts awarded on simple spreadsheets and common analytics tools (e.g. Excel).\n\nUse tools such as Silver Eye to turn this data into OCDS. | Create dashboards that allow analysis of buyers, suppliers, categories., etc.\n\nCreate flags on contracts registers or portals for key economic indicators: e.g. minority owned businesses or SMEs. | Link to contracts award data to other metrics, such as spend data, quality metrics from regulator data (for healthcare or education settings). |
 {% endtable %}
 
 ### Option 4: Forecast contract impact {#option-4}
 
 Estimating the potential impact that a contract might have can help shape the requirements set for suppliers. This can include for example [estimating carbon emissions](/carbon-reduction/how-to-estimate-carbon-values) associated to the contract, the predicted waste generation, or the [associated life cycle costs](/life-cycle-costing/how-to-value-a-life-cycle) of the asset you are procuring. This data can be gathered through existing mechanisms for measuring impact (e.g. predictive carbon emission calculation) or by looking at historic contract data to forecast life cycle costs. You can then use this forecast as the basis for setting a carbon “budget” (i.e. permitted emissions associated with a contract), or to calculate tender value based on life cycle costs.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 4: Forecast contract impact | Research official mechanisms for measuring sustainability impact (e.g. carbon emissions or life cycle costing). Is there data (local or international) that can be collected in a spreadsheet? | Research official mechanisms for measuring sustainability impact (e.g. carbon emissions or life cycle costing). Is there data (local or international) that can be added to a database and linked to contracts? | Build a model that assigns every contract a sustainability impact score or value (e.g. carbon emission or life cycle costing) based on the nature of supply. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Research official mechanisms for measuring sustainability impact (e.g. carbon emissions or life cycle costing). Is there data (local or international) that can be collected in a spreadsheet? | Research official mechanisms for measuring sustainability impact (e.g. carbon emissions or life cycle costing). Is there data (local or international) that can be added to a database and linked to contracts? | Build a model that assigns every contract a sustainability impact score or value (e.g. carbon emission or life cycle costing) based on the nature of supply. |
 {% endtable %}
 
 ### Option 5: Request sustainability suggestions {#option-5}
 
 This is as simple as giving your buying teams the capacity to flag a contract opportunity as a competition in which suppliers are encouraged to detail how they will deliver against specific sustainability goals. This can include, for example, how they will reduce carbon emissions, how they will support gender equality through commitment to recognised schemes (e.g. grants to women in tech, etc.), or how they will support the local economy through job creation.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 5: Request sustainability suggestions | Work with buyers to set out standard terms to encourage sustainability suggestions (e.g low carbon alternatives) in contract opportunities. | Explore upgrading existing contract opportunities websites to include a flag (e.g. “low carbon“) for opportunities that are seeking sustainability alternatives. | Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Work with buyers to set out standard terms to encourage sustainability suggestions (e.g low carbon alternatives) in contract opportunities. | Explore upgrading existing contract opportunities websites to include a flag (e.g. “low carbon“) for opportunities that are seeking sustainability alternatives. | Set out a specification for a feature that requires suppliers to detail how they plan to be more sustainable (e.g. reduce carbon during a contract). |
 {% endtable %}
 
 ### Option 6: Measure use of certifications {#option-6}
@@ -75,48 +75,48 @@ Some industries already have standards for products and principles that lead to 
 
 It is important to note that there are different types of environmental labels and certifications. For example, certifications which provide a more detailed account of the carbon emissions associated with a specific product are those categorized as Type III ecolabels by the International Organization for Standardization (ISO). In this group we find Environmental Product Declarations (EPD). See, for example, [this EPD](https://www.en.aenor.com/Producto_DAP_pdf/GlobalEPD_001_001_01_r1_EN.pdf) for a product made of steel. Other types of certifications, such as Type I ecolabels, are helpful to identify environmentally preferable products, but don’t usually provide concrete data on carbon emissions. Similarly, certifications which attest to the supplier’s sustainability efforts, such as ISO or B Corporation certifications, don’t provide information on the associated emissions of the procured service or product. For more information on the different ways in which these certifications can be used within SPP see [this section](/guide-to-ecolabels).
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 6: Measure use of certifications | Conduct discovery work around worldwide standards and certifications (see [this section](/guide-to-ecolabels) for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance. | Upgrade supplier registers, companies registers, and contracts registers to include certification labels. | Create a system that alerts suppliers to changing eco certification requirements, as well as reminders to update these as and when they’re due for expiry. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Conduct discovery work around worldwide standards and certifications (see [this section](/guide-to-ecolabels) for examples) to identify best fit with buyer needs. Use this to work with suppliers to ensure greater accreditation and compliance. | Upgrade supplier registers, companies registers, and contracts registers to include certification labels. | Create a system that alerts suppliers to changing eco certification requirements, as well as reminders to update these as and when they’re due for expiry. |
 {% endtable %}
 
 ### Option 7: Monitor contract performance {#option-7}
 
 Organizations can publish performance updates on contracts, such as: the carbon emitted either during, or at the conclusion of a contract, the number of jobs created as a result of the contract, etc. This information can be used to measure progress against sustainability goals, but also to monitor performance against SPP specifications. This is especially relevant to ensure a fair and efficient implementation of SPP, minimizing green-washing risks: giving carbon contracts out to sub-companies of polluters, handing out SME-friendly contracts to non SMEs, gender equality contracts to male dominated boardrooms or organizations with pay skewed in favor of men.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 7: Monitor contract performance | Manually reconcile specifications with targeted metrics (e.g. look at specifications around SME and look at companies data). Contact suppliers to submit SPP based metrics. | Create dashboards and analytics tools from datasets and create algorithms that flag discrepancies (e.g. spreadsheet/ dashboard calculations.) | Link datasets to SPP metrics and create algorithms that flag discrepancies at scale, across all public sector procurement. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Manually reconcile specifications with targeted metrics (e.g. look at specifications around SME and look at companies data). Contact suppliers to submit SPP based metrics. | Create dashboards and analytics tools from datasets and create algorithms that flag discrepancies (e.g. spreadsheet/ dashboard calculations.) | Link datasets to SPP metrics and create algorithms that flag discrepancies at scale, across all public sector procurement. |
 {% endtable %}
 
 ### Option 8: Record supplier data at tender submission {#option-8}
 
 Buyers can ask suppliers to provide data related to sustainability goals at tender submission. This can include data regarding the ownership of the business, where it is based, or any information regarding sustainability certifications they might hold.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 8: Record supplier data at tender submission | Request submissions of supplier data (e.g. ownership, address, certifications) from all public suppliers in soft, machine readable, format, preferably in a standard template (e.g. spreadsheets.) | Aggregate and store these templates in a database. This database could be a database specifically for SPP companies, or a general contracts database. | Use companies and people identifiers to link this data with procurement data and companies data. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Request submissions of supplier data (e.g. ownership, address, certifications) from all public suppliers in soft, machine readable, format, preferably in a standard template (e.g. spreadsheets.) | Aggregate and store these templates in a database. This database could be a database specifically for SPP companies, or a general contracts database. | Use companies and people identifiers to link this data with procurement data and companies data. |
 {% endtable %}
 
 ### Option 9: Create SPP supplier registries {#option-9}
 
 Buyers can ask suppliers to provide data related to sustainability goals at tender submission. This can include data regarding the ownership of the business, where it is based, or any information regarding sustainability certifications they might hold.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 9: Create SPP supplier registries | Securely share spreadsheets through inter-departmental or inter-authority open data agreements. | Identify local suppliers through contracts databases. | Create a ‘recommendation list’ (e.g. have you considered X?) for buyers when choosing supplier lists |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Securely share spreadsheets through inter-departmental or inter-authority open data agreements. | Identify local suppliers through contracts databases. | Create a ‘recommendation list’ (e.g. have you considered X?) for buyers when choosing supplier lists |
 {% endtable %}
 
 ### Option 10: Use national or statewide data {#option-10}
 
 One way to gather the data needed to measure the sustainability impact of your contract is by referring to available national data. This can include for example linking SPP contracts with company ownership data (if reporting of this is mandated by the state), or with data from national statistics around growth sectors to measure economic impact.
 
-{% table row-header colors: default orange yellow green caption: Data use options depending on your capacity %}
-|  | No code | Low code | Code |
-|---|---|---|---|
-| Option 10: Use national or statewide data | Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.\n\nWork with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
+{% table colors: orange yellow green %}
+| No code | Low code | Code |
+|---|---|---|
+| Write to suppliers requesting needed sustainability data (e.g. company ownership) in soft, machine readable format as part of their tax or financial returns. | Through an online form create an automated submission to be filled in at certain points (e.g. with tax returns.) | Use algorithms to create benchmarks and set targets around sustainability goals (e.g. gender equality) for specific industries and business sizes.\n\nWork with specific industries with known underperforming in sustainability metrics metrics (e.g. low employment of a gender) to increase participation and empowerment. |
 {% endtable %}
