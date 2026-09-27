@@ -36,7 +36,7 @@ Through manual or programmatic analysis of data, alerts can be created and used 
 {% table colors: orange yellow green %}
 | No code | Low code | Code |
 |---|---|---|
-| Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/)\n(see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
+| Manually analyze SPP procurement identified in Option 1 and contact buyers to ask why they have not complied. | Use analytics tools to identify SPP procurement and to contact buyers such as the [Lithuanian government’s green procurement dashboard](https://vpt.lrv.lt/lt/statistika-ir-analize/pirkimu-vykdytoju-zemelapis-svieslente-1/) (see also [case study](/monitoring-progress-against-sustainability-goals-in-lithuania)). | Use machine learning to automatically ingest and analyze procurement data and specifications based on parameters (whether an organization is in scope, whether a notice is duplicated) and to send reminder alerts to buyers who perform less well. |
 {% endtable %}
 
 ### Option 3: Analyze contracts awarded {#option-3}
