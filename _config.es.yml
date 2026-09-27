@@ -10,6 +10,7 @@ sidebar_label: Contenido
 table_scroll_label: Desplácese para ver más
 expand_label: Expandir todo
 collapse_label: Contraer todo
+pdf_label: "Descargar el PDF (en inglés, %{size} KB)"
 pager_label: Páginas anterior y siguiente
 previous_label: Anterior
 next_label: Siguiente

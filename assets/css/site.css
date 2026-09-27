@@ -361,6 +361,19 @@ ol.notion-breadcrumb {
   padding: 0 8px 14px;
 }
 
+/* A PDF's frame shows a whole A4 page, up to most of the screen's height, above the link to download it. */
+.notion-pdf__content > iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 596 / 842;
+  max-height: 85vh;
+}
+
+.notion-pdf__download {
+  margin: 0.5rem 0 0;
+}
+
 /* The button that opens or closes the toggles after it, styled like a link. */
 .notion-toggles__expand {
   padding: 4px 8px;

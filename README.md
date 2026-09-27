@@ -105,7 +105,7 @@ Links to pages (with the page's icon and title), images and PDFs are also tags:
 {% pdf /assets/files/compliance-trail-checklist.pdf Compliance trail checklist %}
 ```
 
-A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name).
+A page link's optional `bg-<color>` sets its background, and `html` (used in HTML, like the sidebars) omits the wrapper that makes it a Markdown block. A PDF's optional title, after its path, names its frame for screen readers (by default, the file's name). The frame shows a whole A4 page, up to 85% of the screen's height, and a link below it downloads the file, since most phones' browsers don't show PDFs in frames. The link's text is the `pdf_label` setting, with the file's size.
 
 Tables are `{% table %}` tags, as wide as their content, up to their column's width, with the columns sized by the browser by their content, without breaking words. Each line is a row of cells, as in a Markdown table (the line of dashes is optional). The first row is the header row, whose cells are headers (`<th>`), in bold. The tag's options are:
 

@@ -371,14 +371,20 @@ module NotionTags
     end
   end
 
-  # {% pdf SRC [TITLE] %} renders an embedded PDF, whose frame's title is TITLE (by default, the file's name).
+  # {% pdf SRC [TITLE] %} renders an embedded PDF, whose frame's title is TITLE (by default, the file's name), and a
+  # link to download it, since most phones' browsers don't show PDFs in frames. The link's text is the pdf_label
+  # setting, with the file's size in kilobytes.
   class Pdf < Liquid::Tag
-    def render(_context)
+    def render(context)
+      site = context.registers[:site]
       src, title = @markup.strip.split(/\s+/, 2)
+      size = (File.size(site.in_source_dir(CGI.unescape(src))) / 1000.0).round
+      label = CGI.escapeHTML(format(site.config["pdf_label"], size: size))
       title = CGI.escapeHTML(title || File.basename(src))
       src = CGI.escapeHTML(src)
-      %(<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="320" src="#{src}" ) +
-        %(title="#{title}"></iframe></div></div>)
+      %(<div class="notion-pdf"><div class="notion-pdf__content"><iframe width="708" height="1000" src="#{src}" ) +
+        %(title="#{title}"></iframe></div>) +
+        %(<p class="notion-pdf__download"><a class="notion-link link" href="#{src}" download>#{label}</a></p></div>)
     end
   end
 
