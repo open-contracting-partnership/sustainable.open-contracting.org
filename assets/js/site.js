@@ -245,13 +245,6 @@ document.querySelectorAll(".notion-toggles__expand").forEach((button) => {
   button.hidden = false;
 });
 
-// Copy buttons on code blocks.
-document.querySelectorAll(".notion-code__copy-button").forEach((button) => {
-  button.addEventListener("click", () => {
-    navigator.clipboard.writeText(button.parentElement.querySelector("code").innerText);
-  });
-});
-
 // Tables that scroll: a hint above them, and a fade at the edges that have more.
 document.querySelectorAll(".notion-table__wrapper, .notion-collection-table__wrapper").forEach((wrapper) => {
   const hint = document.createElement("p");

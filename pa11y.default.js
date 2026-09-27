@@ -16,8 +16,7 @@ const knownWarnings = [
     // "Elements must meet minimum color contrast ratio thresholds." (needs review: a database table view's cells clip
     // their content, and a gallery card's link is over its cover and properties)
     // "This element is absolutely positioned and the background color can not be determined." (a gallery card's link
-    // covers the card, a code block's copy button is over the code, and a database table's caption and the language
-    // links' names are visually hidden)
+    // covers the card, and a database table's caption and the language links' names are visually hidden)
     rules: ["color-contrast", "WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Abs"],
     selectors: [
       ".notion-collection-table .notion-property",
@@ -25,7 +24,6 @@ const knownWarnings = [
       ".notion-page__property .notion-property",
       ".notion-collection-card__anchor",
       ".notion-collection-card__property",
-      ".notion-code__copy-button",
       ".notion-collection-table > caption",
       ".language-menu__name",
     ],
