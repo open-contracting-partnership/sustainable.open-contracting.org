@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Light_Green.svg
 notion_id: "35dc615b39b84af793a9430029ef8567"
 sidebar: true
 ---
-# Données ouvertes et évaluation des progrès
-
 Tout au long de ce guide pratique, nous avons parlé de l’importance des données ouvertes et de leur qualité pour faciliter la mise en place de marchés publics durables et évaluer les résultats en matière de durabilité. Nous présentons cette idée [au début de notre guide pratique](/definition) et la développons dans les sections suivantes, en particulier lors de la présentation d’un modèle de [cadre de suivi et d’évaluation](/suivi-et-valuation) dans la première partie. Ce cadre est structuré autour de cinq objectifs et contient des exemples d’indicateurs de suivi visant à faciliter l’élaboration de rapports et l’évaluation des progrès concernant la réalisation des objectifs de durabilité.
 
 {% callout yellow /assets/images/Icons_Light_Green5.svg %}

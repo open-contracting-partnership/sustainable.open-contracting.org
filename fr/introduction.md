@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Blue_Intro.svg
 notion_id: "39104cdff42747519f3a905ec93fb949"
 sidebar: true
 ---
-# Une introduction au guide
-
 Les préoccupations croissantes concernant les changements climatiques et la durabilité ont incité les gouvernements du monde entier à s’engager à supprimer leurs émissions de carbone, réduire la déforestation et promouvoir des chaînes d’approvisionnement respectueuses de l’environnement.
 
 Pour tenir ces engagements, les pratiques de passation de marchés des gouvernements apparaissent comme un domaine d’action essentiel. Les marchés publics représentent environ 15 % du produit intérieur brut mondial et concernent un dollar sur trois qui est dépensé par les gouvernements, ce qui représente la somme colossale de 13 000 milliards de dollars par an. Les marchés publics comptent également pour [15 % des émissions mondiales annuelles de gaz à effet de serre](https://www.prnewswire.com/news-releases/transitioning-to-green-government-procurement-practices-could-cut-15-of-global-greenhouse-gas-emissions-301459788.html), c’est sept fois plus que l’industrie aéronautique.

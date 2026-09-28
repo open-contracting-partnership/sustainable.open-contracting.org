@@ -6,8 +6,6 @@ icon: /assets/images/NOTION_square_FAQ.svg
 notion_id: "5a5ff6cb32024333aac20f59c3a82acd"
 sidebar: true
 ---
-# Open SPP FAQs
-
 {% callout gray /assets/images/Icons_Grey3.svg %}
 In this section, we include **key questions that may arise when considering the implementation of Open and Sustainable Public Procurement.** For each of these questions, we provide essential information, and point to relevant external sources, case studies, Open SPP toolkit sections where you can find further information.
 {% endcallout %}

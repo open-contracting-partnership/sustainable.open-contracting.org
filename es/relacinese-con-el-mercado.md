@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Red2.svg
 notion_id: fa393ae5a1e3497d89aadb46b3a35f43
 sidebar: true
 ---
-# Relaciónese con el mercado de provedores
-
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
 
 {% callout red /assets/images/Pin_Red.svg %}

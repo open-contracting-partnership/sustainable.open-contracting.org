@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Red2.svg
 notion_id: f718c6ce9ad84de0b86181491ddda103
 sidebar: true
 ---
-# Setting sustainability criteria
-
 {% callout red /assets/images/Pin_Red.svg %}
 In this section, we provide guidance on different options for introducing sustainability criteria in a procurement process, and what they each mean for suppliers.
 {% endcallout %}

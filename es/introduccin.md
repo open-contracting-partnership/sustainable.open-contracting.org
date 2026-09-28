@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Blue_Intro.svg
 notion_id: "11724ae02f294415bc8839c51e1e4f05"
 sidebar: true
 ---
-# Introducción al conjunto de herramientas
-
 Las crecientes preocupaciones sobre el cambio climático y la sostenibilidad han llevado a los gobiernos de todo el mundo a comprometerse con la emisión neta de carbono cero, la reducción de la deforestación y la promoción de cadenas de suministro sostenibles.
 
 Una ruta clave para cumplir con esos compromisos es cómo los gobiernos hacen sus compras. La contratación pública representa alrededor del 15% del PIB mundial, uno de cada 3 dólares que gastan, sumando la enorme cantidad de 13 billones de dólares de gasto cada año. Las compras también representan el [15% de todas las emisiones de gases de efecto invernadero](https://www.prnewswire.com/news-releases/transitioning-to-green-government-procurement-practices-could-cut-15-of-global-greenhouse-gas-emissions-301459788.html) cada año: eso es siete veces más que toda la industria de la aviación.

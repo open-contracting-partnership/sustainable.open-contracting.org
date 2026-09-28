@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Blue_Intro.svg
 notion_id: "8a00ee60419c477c8213b4a8c7ece0e6"
 sidebar: true
 ---
-# An introduction to the toolkit
-
 Growing concerns over climate change and sustainability have driven governments across the world to make commitments across net zero carbon emission, reducing deforestation, and promoting sustainable supply chains.
 
 A key route to deliver on those commitments is how governments make their purchases. Public procurement represents around 15% of global GDP, one in every 3 dollars that they spend, adding up to an enormous $13 trillion of spending every year. Procurement also accounts for [15% of all greenhouse gas emissions](https://www.prnewswire.com/news-releases/transitioning-to-green-government-procurement-practices-could-cut-15-of-global-greenhouse-gas-emissions-301459788.html) each year: that is seven times as much as the entire aviation industry.

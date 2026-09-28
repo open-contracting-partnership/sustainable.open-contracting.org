@@ -7,8 +7,6 @@ icon: /assets/images/Icons_Light_Green3.svg
 notion_id: "96247f6127d54fbc8d9fd7d23592ea76"
 sidebar: true
 ---
-# Analysing and reporting data
-
 In order to make this reporting transferable and therefore comparable with other companies, other departments and even other countries, it is essential to be clear and open about methodologies around recording and calculating reporting metrics and to make the underlying data available for analysis by others.
 
 This means that the definition of women-owned and women-led businesses needs to be standardised across organisations, similar to financial returns or tax returns. Beneficial ownership data needs to include flags to identify male or female names. This is because it is not immediately obvious whether the person behind a name is male or female:

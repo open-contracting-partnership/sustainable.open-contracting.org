@@ -7,8 +7,6 @@ icon: /assets/images/Icons_Light_Green3.svg
 notion_id: f2ee0ed81aa542a4866bf2566cf0d2ca
 sidebar: true
 ---
-# Analysing and reporting data
-
 When reporting against carbon data, it is important to decide on a reporting metric and to report publicly before the data is collected and processed.
 
 In order to make this reporting transferable and therefore comparable with other departments and even other countries, it is essential to be clear and open about methodologies around recording and calculating reporting metrics and and to make the underlying data available for analysis by others.

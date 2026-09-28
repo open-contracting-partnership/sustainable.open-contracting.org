@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Red2.svg
 notion_id: d1de5bcb05934f9d89284e565b9a12ed
 sidebar: true
 ---
-# Définir des critères de durabilité
-
 {% callout red /assets/images/Pin_Red.svg %}
 *Dans cette section, nous fournissons des orientations concernant les différentes possibilités pour intégrer des critères de durabilité à un processus de passation de marchés et ce que ces critères impliquent pour les fournisseurs.*
 {% endcallout %}

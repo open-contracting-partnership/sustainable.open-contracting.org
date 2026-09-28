@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Red2.svg
 notion_id: "3c8f1b66434741efb79e0d7f506194f1"
 sidebar: true
 ---
-# Establezca criterios de sostenibilidad
-
 {% callout red /assets/images/Pin_Red.svg %}
 En esta sección, brindamos orientación sobre diferentes opciones para introducir criterios de sostenibilidad en un proceso de contratación y lo que significa cada uno de ellos para los proveedores.
 {% endcallout %}

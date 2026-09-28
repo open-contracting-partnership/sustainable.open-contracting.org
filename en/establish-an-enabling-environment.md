@@ -6,8 +6,6 @@ icon: /assets/images/icons_D_Green2.svg
 notion_id: "513ba2ee9a8e41bf9b9a144773389154"
 sidebar: true
 ---
-# Establishing an enabling environment
-
 Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country.
 
 {% callout green /assets/images/Pin_green.svg %}

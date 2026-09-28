@@ -6,8 +6,6 @@ icon: /assets/images/Icons_Blue_Intro2.svg
 notion_id: "66d1d89be9f24a1580aaa1d2aaf5f615"
 sidebar: true
 ---
-# What is Open SPP?
-
 Sustainable Public Procurement (SPP) relates to how organizations buy goods and services across the three pillars of sustainable development: **economic**, **social**, and **environmental** benefits.
 
 ![Sustainable procurement's three pillars: environment (CO2 emissions, waste, resource reuse, energy efficiency, water use and recycling), social (diversity and equal opportunities, labour rights, SMEs, supply chain transparency, and occupational health and safety), and economic (market innovation, formal employment, local economy, and transparent use of public funds)](/assets/images/D1_-_What_is_SPP-Tri-3.jpg){: .wide}

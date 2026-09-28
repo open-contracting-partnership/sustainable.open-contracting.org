@@ -6,8 +6,6 @@ icon: /assets/images/icons_D_Green2.svg
 notion_id: "2c6c4c2a9a744c638833a3e0b43bf468"
 sidebar: true
 ---
-# Establezca un entorno habilitante
-
 Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país.
 
 {% callout green /assets/images/Pin_green.svg %}
