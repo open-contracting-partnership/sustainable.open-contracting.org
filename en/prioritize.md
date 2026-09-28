@@ -145,5 +145,5 @@ After the approval of its National Green Growth Strategy in 2012, **Vietnam [app
 
 As the first step of the prioritizing exercise, a list of preliminary procurement categories was created. This list included all the products for which the [European Union’s (EU)](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm) has developed GPP criteria. **A series of factors were taken into account in order to prioritize procurement categories, including the availability of Vietnam’s own national ecolabel [Green Label](https://www.env.go.jp/policy/hozen/green/kokusai_platform/2016symposium/03_Vietnam.pdf).** Then a scoring methodology was defined: products with no ecolabel were excluded; those which had a national ecolabel were scored with 2 points; and those with an equivalent international ecolabel 1 point.
 
-**Using this scoring methodology, four products were selected as focus categories for SPP efforts: office paper, laptops, fluorescent lamps, and LEDs lights.**
+Using this scoring methodology, **four products were selected as focus categories for SPP efforts: office paper, laptops, fluorescent lamps, and LEDs lights.**
 {% endcallout %}

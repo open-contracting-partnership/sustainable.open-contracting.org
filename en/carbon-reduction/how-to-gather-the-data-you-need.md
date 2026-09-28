@@ -21,7 +21,7 @@ This of course raises concerns about the burdens on business for instance around
 
 Where the same financial data is required by multiple agencies, but no central repository for this data exists, it may be desirable to collect data on suppliers in a central bidders database, so that suppliers can record and post required information once and multiple agencies can use this data when assessing bids.
 
-### Accessing the data - Public bodies to public bodies
+### Accessing the data: Public bodies to public bodies
 
 Data should flow between governmental departments to allow all parties the information they need to better serve their public. The way this is typically achieved is through data sharing agreements between departments, where both departments agree to share defined data.
 
@@ -31,7 +31,7 @@ A data sharing agreement in place would reduce the need for administration and n
 
 Of course, the easiest way, especially for datasets around Sustainable Public Procurement, is to release this information openly so that departments and even regions or states can access this data
 
-### Accessing the data - Private bodies to public bodies
+### Accessing the data: Private bodies to public bodies
 
 It is not uncommon for a Government to hold their data on private sector hosted systems, for instance e-procurement portals. In order for data to be usable and analysable, it is important that the governments that rely on these solutions have unfettered access to the data and that the license rights belong to the government in question. This is because a tender notice from a buying authority that is legally owned by a third party creates liability issues with real cost implications for that body later on. If a government analyses data around procurement it needs to be without limitations to access of the data, and the threat of cost claims from suppliers. Open licensing and open identifiers get around this issue as these can be shared and reused without limitation.
 

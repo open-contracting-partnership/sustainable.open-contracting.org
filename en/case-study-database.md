@@ -7,7 +7,7 @@ notion_id: "2e59454b25174caa94f2e7189fb64655"
 sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.svg %}
-**In this section, we have included best practice examples of SPP implementation around the world.**
+In this section, we have included **best practice examples of SPP implementation around the world.**
 {% endcallout %}
 
 # Africa

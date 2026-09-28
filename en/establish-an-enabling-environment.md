@@ -11,7 +11,7 @@ sidebar: true
 Clearly, you want to make sure that buying sustainably and making contract awards according, in part, to sustainability criteria are compliant with the existing legal and policy context for procurement in your country.
 
 {% callout green /assets/images/Pin_green.svg %}
-**In this section we explain how there is room for procurement practitioners to implement SPP in different contexts.** We provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.
+In this section we explain **how there is room for procurement practitioners to implement SPP in different contexts.** We provide a checklist to evaluate your existing procurement laws and policies for SPP criteria. We also consider how to communicate them to relevant stakeholders which is essential to generate trust, and underpin effective SPP implementation. You will also find guidance on how this translates into specific actions at the end of the section.
 {% endcallout %}
 
 ## Quickly evaluate your enabling environment

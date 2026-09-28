@@ -144,5 +144,5 @@ Tras la aprobación de su Estrategia Nacional de Crecimiento Verde en 2012 Vietn
 
 Como un primer paso en el ejercicio de determinar prioridades, se creó una lista provisional de categorías de confrontación. La lista incluyó todos los productos para para los cuales [la Unión Europea (UE)](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm) ha desarrollado lar criterios para CPS. **Vietnam tuvo en cuenta una serie de factores con el fin de dar prioridades en categorías de contratación, incluida la disponibilidad de eco etiquetas nacionales propias de ese país,** la [Etiqueta Verde](https://www.env.go.jp/policy/hozen/green/kokusai_platform/2016symposium/03_Vietnam.pdf); definió una metodología de clasificación: los productos, sin etiqueta fueron excluidos; los que tenían una eco etiquetas nacional ganaron dos puntos; y los que tenían una eco etiqueta internacional equivalente, un punto.
 
-**Con esta metodología de calificación se seleccionaron cuatro productos como categorías de contratación para sus esfuerzos CPS: papel de oficina, computadores portátiles, lámparas fluorescentes, y luces LED.**
+Con esta metodología de calificación **se seleccionaron cuatro productos como categorías de contratación para sus esfuerzos CPS: papel de oficina, computadores portátiles, lámparas fluorescentes, y luces LED.**
 {% endcallout %}

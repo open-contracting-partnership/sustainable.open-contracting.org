@@ -103,7 +103,7 @@ One of the variables that can be captured from a supplier, is whether there is p
 Suppliers should monitor labor rights through a publicly accessible Code of Conduct or Supplier Policy.
 
 {% callout gray /assets/images/Icons_Grey9.svg %}
-**According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), this code should be consistent with:**
+According to [TCO standards](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf), **this code should be consistent with:**
 
 - [ ] ILO’s eight core conventions: 29, 87, 98, 100, 105, 111, 138 and 182.
 - [ ] The UN Convention on the Rights of the Child, article 32.

@@ -7,7 +7,7 @@ notion_id: b558a3155ed64ccdb4698b4364a55ae2
 sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.svg %}
-***Dans cette section, vous trouverez des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.***
+*Dans cette section, vous trouverez **des exemples provenant des quatre coins du monde et illustrant les meilleures pratiques relatives à la mise en place de marchés publics durables.***
 {% endcallout %}
 
 # Afrique

@@ -19,26 +19,26 @@ L’interaction avec les fournisseurs et la discussion ouverte concernant les ob
 Souvent, les clauses contractuelles qui renvoient aux obligations de durabilité ne sont pas efficaces ou considérées comme moins importantes que d’autres clauses commerciales. Une [analyse](http://affectiomutandi.com/wp-content/uploads/2018/05/2018_contrat_et_clauses_RSE_ecovadis_affectio_mutandi.pdf)
  provenant de deux sociétés de conseil, EcoVadis et Affectio Mutandi, montre que cela est souvent dû à des facteurs tels que les attentes irréalistes en matière de suivi imposées aux fournisseurs ou encore aux contradictions parfois constatées entre les clauses de durabilité et les clauses commerciales. Cette analyse propose six caractéristiques à partir desquelles il est possible d’évaluer l’efficacité d’une clause contractuelle. Nous présentons ces caractéristiques ci-dessous.
 
-{% toggle **Précision : définir des exigences particulières** %}
+{% toggle **Précision :** définir des exigences particulières %}
 
 Cette caractéristique désigne le niveau de détail employé pour décrire les exigences imposées aux fournisseurs en matière de durabilité. Des exigences trop générales nuiront à l’efficacité et au caractère contraignant de la clause contractuelle. Par exemple, si les critères techniques ou les critères d’attribution établissent que le projet ne doit pas dépasser un certain niveau d’émission de CO2 ou qu’une certaine quantité de produits assortis d’une éco-étiquette serait achetée, cela doit apparaître clairement dans le contrat. Ces critères représentent les objectifs dont la réalisation pourra facilement être évaluée.
 
 {% endtoggle %}
 
-{% toggle **Contrôle : assurer que le respect des exigences est vérifiable** %}
+{% toggle **Contrôle :** assurer que le respect des exigences est vérifiable %}
 
 Une clause contractuelle efficace doit également présenter les exigences de durabilité comme des « obligations qui feront l’objet d’un contrôle » afin d’ouvrir clairement la voie à des activités visant à vérifier le respect des exigences établies. Les modalités de contrôle doivent être définies avec le fournisseur et peuvent être intégrées à une annexe du contrat. Il est nécessaire de réfléchir à certains facteurs tels que la fréquence des activités de contrôle, qu’elles soient mises en œuvre par le fournisseur ou par un tiers, et la partie qui couvrira le coût. Consultez [cette section](/suivi-de-lexcution)
  pour en savoir plus sur les possibilités de contrôle et de suivi.
 
 {% endtoggle %}
 
-{% toggle **Contrainte : établir un traitement gradué des manquements constatés** %}
+{% toggle **Contrainte :** établir un traitement gradué des manquements constatés %}
 
 Les clauses contractuelles de durabilité doivent prévoir des conséquences en cas de manquement. Les bonnes pratiques consistent à établir un traitement gradué des manquements constatés. L’élaboration d’un plan de rectification peut être la première étape après la constatation du manquement, suivie si nécessaire d’une suspension du contrat, de sanctions et de la résiliation.
 
 {% endtoggle %}
 
-{% toggle **Couverture : prise en compte des fournisseurs au-delà du rang 1** %}
+{% toggle **Couverture :** prise en compte des fournisseurs au-delà du rang 1 %}
 
 La couverture concerne les différentes parties de la chaîne d’approvisionnement à laquelle les clauses font référence. Cela est particulièrement pertinent en ce qui concerne les clauses de responsabilité sociale, qui peuvent exiger du fournisseur qu’il possède un code de conduite, et les activités de suivi tout au long de la chaîne d’approvisionnement.
 
@@ -46,7 +46,7 @@ Il peut être difficile d’appliquer certaines clauses au-delà des entités av
 
 {% endtoggle %}
 
-{% toggle **Contextualisation : adapter les exigences de durabilité à votre contexte** %}
+{% toggle **Contextualisation :** adapter les exigences de durabilité à votre contexte %}
 
 L’un des principaux défis concernant les clauses de durabilité intégrées aux marchés publics est qu’elles sont souvent employées d’une façon normalisée et ne sont pas adaptées à l’objet du marché, au contexte local ou aux capacités du fournisseur. Par exemple, certaines petites et moyennes entreprises n’ont pas toujours les ressources pour réaliser certaines activités de suivi ou participer à des discussions intersectorielles. Les clauses contractuelles faisant abstraction du contexte peuvent créer des contraintes excessives pour les fournisseurs, excluant les plus petites entreprises et générant des difficultés à respecter les obligations.
 
@@ -56,7 +56,7 @@ Bien que la normalisation des clauses de durabilité puisse faciliter la mise en
 
 {% endtoggle %}
 
-{% toggle **Cohérence : harmoniser les obligations en matière de durabilité et les obligations commerciales** %}
+{% toggle **Cohérence :** harmoniser les obligations en matière de durabilité et les obligations commerciales %}
 
 Les clauses de durabilité sont souvent perçues comme distinctes des exigences commerciales, ce qui peut parfois entraîner des contradictions lors de l’exécution du marché. Pour surmonter cette difficulté, il est important de garantir que les enjeux de durabilité sont un aspect essentiel du contrat commercial en établissant clairement les objectifs de durabilité, les modalités de collecte de données et les conséquences en cas de manquement.
 

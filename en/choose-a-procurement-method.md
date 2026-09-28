@@ -101,10 +101,10 @@ One of the procurement approaches that you can take within SPP implementation is
 
 There are different benefits of using joint procurement when implementing Open SPP, these include:
 
-- **Collectively leveraging purchasing power to achieve economies of scale.**
-- **Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.**
-- **Standardizing and aligning sustainability practices.**
-- **Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.**
+- Collectively leveraging purchasing power to achieve economies of scale.
+- Fewer duplicated procurements, enabling public authorities to save unnecessary resource use.
+- Standardizing and aligning sustainability practices.
+- Increasing the number of interested suppliers. It offers the opportunity to get business from more than one authority; it is if lower effort to respond to a tender that may lead to more business.
 
 {% endtoggle %}
 
@@ -114,7 +114,7 @@ There are different benefits of using joint procurement when implementing Open S
 - **Step 2:** Define group governance and leadership. Decide whether to work together jointly as a partnership or give an authority the leading role.
 - **Step 3:** Agree on similar specifications and contracting approaches.
 - **Step 4:** Engage with the market together.
-- Step 5: Consider using individual contracts (collaborate to share best practice when evaluating suppliers, or set up a joint contract (joint tendering process, including the evaluation of suppliers).
+- **Step 5:** Consider using individual contracts (collaborate to share best practice when evaluating suppliers, or set up a joint contract (joint tendering process, including the evaluation of suppliers).
 
 {% endtoggle %}
 
@@ -144,5 +144,5 @@ For more guidance on procurement approaches that can be useful when implementing
 
 With help from the Harvard Government Performance Lab, **the city created a data collection tool which inspectors could use in the field to track performance on key indicators (including grass height, prevalence of weeds and property damage).** They then conducted a **competitive procurement where, for the first time, the City considered factors such as past performance and ability to report on key metrics as part of the vendor selection.** The Purchasing Department also divided large land areas into smaller parcels, and reached out to vendors that had not previously bid on the City’s contracts. **The new contracts replaced punitive damages for under-performance with a 5 percent performance bonus to incentivize strong performance.** Vendors submitted invoices with pictures of the completed work. This eliminated the need for City staff to perform on-site inspections.
 
-**With this approach, the city boosted overall competition (the number of vendors submitting responses rose by 38 percent) without raising the costs. What is more important, complaints to the City Manager about grounds maintenance fell substantially.**
+With this approach, **the city boosted overall competition (the number of vendors submitting responses rose by 38 percent) without raising the costs. What is more important, complaints to the City Manager about grounds maintenance fell substantially.**
 {% endcallout %}

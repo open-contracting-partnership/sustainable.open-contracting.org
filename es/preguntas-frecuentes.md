@@ -73,15 +73,15 @@ Un Plan de Acción de CPS sirve como referencia para que los profesionales de co
 
 **Marco habilitante:** cómo se puede implementar CPS de acuerdo con la regulación existente y cualquier cambio que se introducirá para aumentar el alcance de la implementación (por ejemplo, contratos reservados).
 
-**Categorías de contrataciones priorizadas**: qué categorías se han priorizado y por qué, así como orientación sobre la implementación de CPS en estas categorías.
+**Categorías de contrataciones priorizadas:** qué categorías se han priorizado y por qué, así como orientación sobre la implementación de CPS en estas categorías.
 
-**Metas y objetivos**: cuáles son los objetivos de sostenibilidad que se persiguen (p. ej., reducción de carbono), cómo se medirá el progreso con respecto a estos (p. ej., número de licitaciones que incluyen criterios ambientales) y objetivos asociados (p. ej., 50 % de las contrataciones para incorporar criterios ambientales). para 2030).
+**Metas y objetivos:** cuáles son los objetivos de sostenibilidad que se persiguen (p. ej., reducción de carbono), cómo se medirá el progreso con respecto a estos (p. ej., número de licitaciones que incluyen criterios ambientales) y objetivos asociados (p. ej., 50 % de las contrataciones para incorporar criterios ambientales). para 2030).
 
-**Plan de desarrollo de capacidades**: qué mecanismos se implementarán para facilitar la implementación (p. ej., crear registros y catálogos de proveedores sostenibles, o brindar sesiones de capacitación en CPS para profesionales de contrataciones).
+**Plan de desarrollo de capacidades:** qué mecanismos se implementarán para facilitar la implementación (p. ej., crear registros y catálogos de proveedores sostenibles, o brindar sesiones de capacitación en CPS para profesionales de contrataciones).
 
-**Estructura de gobierno y responsabilidades**: autoridades públicas responsables de coordinar y ejecutar las diferentes prácticas asociadas a la estrategia CPS.
+**Estructura de gobierno y responsabilidades:** autoridades públicas responsables de coordinar y ejecutar las diferentes prácticas asociadas a la estrategia CPS.
 
-**Presupuesto asignado**: qué presupuesto se dedicará a la estrategia CPS (por ejemplo, desarrollo de materiales de orientación, sesiones de capacitación, etc.).
+**Presupuesto asignado:** qué presupuesto se dedicará a la estrategia CPS (por ejemplo, desarrollo de materiales de orientación, sesiones de capacitación, etc.).
 
 Este [índice](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](/cree-un-plan-de-accin) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
 
@@ -99,8 +99,8 @@ Involucrarse con el mercado de proveedores es importante para todos los procesos
 Hay diferentes formas de relacionarse con el mercado a lo largo del proceso de contratación:
 
 - **Cuando se prepare para crear su Plan de acción de CPS:** organizar talleres, consultas en línea, eventos de la industria y usar encuestas y cuestionarios para desarrollar y probar la estrategia de sostenibilidad.
-- **Durante la fase de planeación de las contrataciones**: organización de eventos con proveedores para presentar objetivos de sostenibilidad y realización de estudios de mercado para evaluar la disponibilidad de opciones sostenibles.
-- **Durante la contratación**: notificar al mercado la intención de adjudicar un contrato, desarrollar canales para comprometerse con grupos de proveedores prioritarios (p. ej., pymes), proporcionar canales para recibir comentarios y facilitar los consorcios de proveedores.
+- **Durante la fase de planeación de las contrataciones:** organización de eventos con proveedores para presentar objetivos de sostenibilidad y realización de estudios de mercado para evaluar la disponibilidad de opciones sostenibles.
+- **Durante la contratación:** notificar al mercado la intención de adjudicar un contrato, desarrollar canales para comprometerse con grupos de proveedores prioritarios (p. ej., pymes), proporcionar canales para recibir comentarios y facilitar los consorcios de proveedores.
 
 Para obtener más información, consulte [esta sección](/relacinese-con-el-mercado).
 

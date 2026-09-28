@@ -13,7 +13,7 @@ The following checklist is designed to help you assess the different ways in whi
 
 ### Quick checklist
 
-**First, check the regulation regarding evaluation or award criteria (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):**
+**First, check the regulation regarding evaluation or award criteria** (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):
 
 - [ ] Check whether current regulation **only allows you to award a contract to the lowest price bid.** If so, there is many things that you can do to implement SPP, including the following:
 ^

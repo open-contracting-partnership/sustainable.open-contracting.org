@@ -18,25 +18,25 @@ Once sustainability criteria have been clearly established, it should be transla
 
 Often, contract clauses that make reference to sustainability obligations are not effective, or considered less important than other business clauses. An [analysis](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf) carried out by two consultancies, EcoVadis and Affectio Mutandi, shows that this is often due to factors such as the unrealistic monitoring expectations set on suppliers, or even the contradictions that sometimes emerge between sustainability and business clauses. They suggest six features against which the effectiveness of contract clauses can be measured. We include an explanation of these below.
 
-{% toggle **Precision -** Setting specific requirements %}
+{% toggle **Precision:** Setting specific requirements %}
 
 This feature refers to the degree of detail used to describe the sustainability expectations set on the supplier. If the requirements are too generic, this will undermine the effectiveness and binding force of the contract clause. For example, if the technical or award criteria established that the project would not exceed a specific CO2 emission target, or that a specific amount of ecolabelled products would be purchased, this should be clearly reflected on the contract. These will represent objectives against which it is easy to measure compliance.
 
 {% endtoggle %}
 
-{% toggle **Verifiability -** Ensure requirements are verifiable %}
+{% toggle **Verifiability:** Ensure requirements are verifiable %}
 
 An effective contract clause should also frame sustainability requirements as “obligations to be assessed”, to clearly leave room for activities aimed at verifying compliance against the requirements. The methods that will be used to monitor compliance should be agreed with the supplier, and can be included in an annex to the contract. This includes considering factors such as the frequency of monitoring activities, whether they will be carried out by the supplier or a third party, and who is responsible for covering the costs. For more information regarding possible methods see [this section](/monitor-implementation).
 
 {% endtoggle %}
 
-{% toggle **Enforceability -** Establish progressive consequences of clause breaches %}
+{% toggle **Enforceability:** Establish progressive consequences of clause breaches %}
 
 Sustainability contract clauses should determine specific consequences in case of non-compliance. Best practice is to establish progressive consequences of clause breaches. Developing a corrective plan can be the first step after a breach, followed if needed by suspension of the contract, penalties, and termination.
 
 {% endtoggle %}
 
-{% toggle **Coverage depth -** Go beyond tier-1 suppliers %}
+{% toggle **Coverage depth:** Go beyond tier-1 suppliers %}
 
 Coverage depth refers to the different layers in the supply chain that the clauses refer to. This is most relevant in terms of social sustainability clauses, such as the ones that refer to the need for the supplier to have a code of conduct, and carry out monitoring activities throughout the supply chain.
 
@@ -44,7 +44,7 @@ It can be complicated to enforce clauses beyond those with whom a supplier has d
 
 {% endtoggle %}
 
-{% toggle **Contextualisation -** Adapt sustainability requirements to your context %}
+{% toggle **Contextualisation:** Adapt sustainability requirements to your context %}
 
 One of the key challenges with sustainability clauses in contracts is that they are often used in a standardized way, and are not adapted to the subject-matter of the contract, the local context, or the supplier’s capacity. For example, some SMEs might not have the resources to conduct certain monitoring activities or take part in cross industry dialogues. Un-contextualised contract clauses can lead to over-limiting suppliers, leaving out smaller companies, and creating difficulties to enforce obligations.
 
@@ -54,7 +54,7 @@ Although standardizing sustainability clauses can facilitate SPP implementation,
 
 {% endtoggle %}
 
-{% toggle **Consistency -** Align sustainability and business obligations %}
+{% toggle **Consistency:** Align sustainability and business obligations %}
 
 Sustainability clauses are often considered as separate to business demands, which is what sometimes leads to contradictions in applications. To overcome this, it is important to ensure that sustainability issues are embedded as a key element of a business contract, establishing clear sustainability targets, ways to capture the data, and consequences in case of non-compliance.
 

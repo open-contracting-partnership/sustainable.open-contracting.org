@@ -16,12 +16,12 @@ You can find an [editable version](https://docs.google.com/spreadsheets/d/1EYTXO
 
 The M&E framework includes the following section:
 
-- **Goals** - Goals are high-level sustainability objectives that guide Open SPP implementation.
-- **Outcomes** - Outcomes are the expected intermediate changes from implementing Open SPP practices.
-- **Indicators** - Indicators are the metrics needed to measure progress against outcomes.
-- **Information needs** - The information you might need to properly measure the selected indicators.
-- **Calculation method** - The method and variables required to calculate the selected indicators.
-- **Options for recording the data you need** - Which data recording options, from the [options for data use](/opciones-para-el-uso-de-datos) in section three of this toolkit, can be used to collect the data needed to measure progress against the selected indicator.
+- **Goals:** Goals are high-level sustainability objectives that guide Open SPP implementation.
+- **Outcomes:** Outcomes are the expected intermediate changes from implementing Open SPP practices.
+- **Indicators:** Indicators are the metrics needed to measure progress against outcomes.
+- **Information needs:** The information you might need to properly measure the selected indicators.
+- **Calculation method:** The method and variables required to calculate the selected indicators.
+- **Options for recording the data you need:** Which data recording options, from the [options for data use](/opciones-para-el-uso-de-datos) in section three of this toolkit, can be used to collect the data needed to measure progress against the selected indicator.
 
 You will notice that each of the sustainability goals introduced in this M&E framework corresponds to one of the worked examples presented in [section three of this toolkit](/datos-abiertos-y-progreso-de-medicin). We recommend accessing these for a deeper dive into the role that Open SPP can play in driving these sustainability goals forward.
 

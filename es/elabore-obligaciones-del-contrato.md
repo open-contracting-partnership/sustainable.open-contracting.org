@@ -18,13 +18,13 @@ Una vez se hayan establecido claramente los criterios de sostenibilidad, deben t
 
 A menudo, las cláusulas contractuales que hacen referencia a las obligaciones de sostenibilidad no son efectivas o se consideran menos importantes que otras cláusulas comerciales. Un [análisis](https://www.eticanews.it/wp-content/uploads/2018/07/ecovadis_contrat_clauses_RSE__20.06.2018_eng_v5-1.pdf) realizado por dos consultoras, EcoVadis y Affectio Mutandi, muestra que esto se debe en muchas ocasiones a factores como las expectativas de seguimiento poco realistas que se establecen en los proveedores, o incluso las contradicciones que a veces surgen entre las cláusulas de sostenibilidad y las comerciales. Sugieren seis características con las que se puede medir la eficacia de las cláusulas contractuales. Incluimos una explicación de estos a continuación.
 
-{% toggle **Precisión**: establecimiento de requisitos específicos %}
+{% toggle **Precisión:** establecimiento de requisitos específicos %}
 
 Esta característica se refiere al grado de detalle utilizado para describir las expectativas de sostenibilidad establecidas en el proveedor. Si los requisitos son demasiado genéricos, esto socavará la eficacia y fuerza vinculante de la cláusula del contrato. Por ejemplo, si los criterios técnicos o de adjudicación establecían que el proyecto no superaría un objetivo específico de emisiones de CO2, o que se compraría una cantidad específica de productos ecoetiquetados, esto debería reflejarse claramente en el contrato. Estos representarán objetivos contra los cuales es fácil medir el cumplimiento.
 
 {% endtoggle %}
 
-{% toggle **Verificabilidad**: asegúrese de que los requisitos sean verificables %}
+{% toggle **Verificabilidad:** asegúrese de que los requisitos sean verificables %}
 
 Una cláusula de contrato eficaz también debe enmarcar los requisitos de sostenibilidad como "obligaciones a evaluar", para dejar claramente espacio para actividades destinadas a verificar el cumplimiento de los requisitos. Los métodos que se utilizarán para controlar el cumplimiento deben acordarse con el proveedor y pueden incluirse en un anexo del contrato. Esto incluye considerar factores como la frecuencia de las actividades de monitoreo, si serán realizadas por el proveedor o por un tercero, y quién es responsable de cubrir los costos. Para obtener más información sobre los posibles métodos, consulte esta sección.
 
@@ -44,7 +44,7 @@ Puede ser complicado hacer cumplir cláusulas más allá de aquellas con las que
 
 {% endtoggle %}
 
-{% toggle **Contextualización**: adapte los requisitos de sostenibilidad a su contexto %}
+{% toggle **Contextualización:** adapte los requisitos de sostenibilidad a su contexto %}
 
 Uno de los desafíos clave con las cláusulas de sostenibilidad en los contratos es que a menudo se usan de manera estandarizada y no se adaptan al objeto del contrato, el contexto local o la capacidad del proveedor. Por ejemplo, es posible que algunas PYME no tengan los recursos para realizar ciertas actividades de monitoreo o participar en diálogos entre industrias. Las cláusulas contractuales no contextualizadas pueden dar lugar a una limitación excesiva de los proveedores, dejando fuera a las empresas más pequeñas y creando dificultades para hacer cumplir las obligaciones.
 
@@ -54,7 +54,7 @@ Si bien la estandarización de las cláusulas de sostenibilidad puede facilitar 
 
 {% endtoggle %}
 
-{% toggle **Consistencia**: alinear la sostenibilidad y las obligaciones comerciales %}
+{% toggle **Consistencia:** alinear la sostenibilidad y las obligaciones comerciales %}
 
 Frecuemtemente, las cláusulas de sostenibilidad se consideran separadas de las demandas comerciales, lo que a veces genera contradicciones en las aplicaciones. Para superar esto, es importante asegurarse de que los problemas de sostenibilidad estén integrados como un elemento clave de un contrato comercial, estableciendo objetivos claros de sostenibilidad, formas de capturar los datos y consecuencias en caso de incumplimiento.
 

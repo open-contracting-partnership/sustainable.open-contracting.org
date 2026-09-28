@@ -11,7 +11,7 @@ sidebar: true
 Relacionarse con el mercado de proveedores es importante para todos los procesos de contratación. Sin embargo, adquiere especial relevancia en el contexto de las CPS. Las prácticas de participación pueden ser simples, como comunicar la intención de lanzar una licitación a través de un anuncio, o más complejas, como organizar talleres y eventos para proveedores.
 
 {% callout red /assets/images/Pin_Red.svg %}
-**En esta sección brindamos** información sobre la importancia de comprometerse con el mercado **y orientación sobre las diferentes formas en que se puede llevar a cabo la participación en el mercado en las diferentes etapas del proceso de una CPS Abierta**.
+En esta sección brindamos información sobre **la importancia de comprometerse con el mercado** y orientación sobre **las diferentes formas en que se puede llevar a cabo la participación en el mercado** en las diferentes etapas del proceso de una CPS Abierta.
 {% endcallout %}
 
 ## ¿Por qué relacionarse con el mercado?

@@ -105,7 +105,7 @@ La implementación de CPS Abierta normalmente involucra a varias entidades insti
 
 **En 2016 Ecuador público su primer** [Plan de Acción Nacional para la implementación de Compras Públicas Sostenibles](https://www.oneplanetnetwork.org/sites/default/files/ecuador_action_plan.pdf). En las páginas 20 a 22 el Plan incluyó información en relación con una estructura de gobernanza que ha sido implementada para asignar responsabilidades en relación con CPS. La autoridad máxima es el Servicio Nacional de Contratación Pública (SERCOP), con el apoyo del Ministerio de Entorno. Estos de las entidades recibirían además el apoyo de un grupo de trabajo que incluye otros ministerios, tales como el Ministerio de Inclusión Económica y Social (MIES) y el Ministerio de Agricultura, Ganadería, Acuacultura y Pesca (MAGAP).
 
-**En la página 28 el Plan propone un cronograma de actividades a realizar durante el primer año, y asigna responsabilidades a las diferentes autoridades públicas.**
+En la página 28 **el Plan propone un cronograma de actividades a realizar durante el primer año, y asigna responsabilidades a las diferentes autoridades públicas.**
 {% endcallout %}
 
 {% endtoggle %}

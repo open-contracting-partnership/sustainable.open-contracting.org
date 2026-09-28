@@ -18,5 +18,5 @@ sidebar: true
 
 **The Elefantes Blancos, or “white elephants”, app allows Colombian citizens to upload photos of abandoned and incomplete construction projects across the country.** Citizens can also include information on the procurement agency responsible for the project, as well as its name and value. Users of the app can vote for the most disliked project, and government prioritizes investigations based on the most frequently reported “white elephants”.
 
-**The app was introduced in 2013 and, [by 2017](https://apolitical.co/solution-articles/en/colombias-anti-corruption-app-identifies-163m-neglected-projects), the Transparency Secretariat had 54 projects valued at 163 million USD.**
+The app was introduced in 2013 and, [by 2017](https://apolitical.co/solution-articles/en/colombias-anti-corruption-app-identifies-163m-neglected-projects), **the Transparency Secretariat had 54 projects valued at 163 million USD.**
 {% endcallout %}

@@ -9,7 +9,7 @@ sidebar: true
 # How can you implement Open SPP in specific sectors?
 
 {% callout gray /assets/images/Icons_Grey3.svg %}
-**In this section we provide specific guidance on how to embed sustainability into construction and ICT procurement processes.** This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process.
+In this section we provide **specific guidance on how to embed sustainability into construction and ICT procurement processes.** This includes guidance relating to relevant certifications that can be used as reference, key sustainability criteria to consider, options for collecting needed data from suppliers, and useful procurement methods that can support the process.
 {% endcallout %}
 
 # In this section

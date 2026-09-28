@@ -11,7 +11,7 @@ sidebar: true
 Por supuesto, usted quiere estar seguro que las compras sostenibles y adjudicaciones de contratos, en parte según los criterios de sostenibilidad, cumplirán con las normas y políticas actuales para contrataciones en su país.
 
 {% callout green /assets/images/Pin_green.svg %}
-**En esta sección explicamos cómo los responsables de la contratación pueden implementar la CPS Abierta en diferentes contextos.** Suministramos una lista de chequeo con la cual se puede evaluar las normas y políticas actuales sobre contratación frente a los criterios del CPS Abierta. Asimismo, planteamos posibles maneras de comunicarlos a las partes interesadas del caso.
+En esta sección explicamos **cómo los responsables de la contratación pueden implementar la CPS Abierta en diferentes contextos.** Suministramos una lista de chequeo con la cual se puede evaluar las normas y políticas actuales sobre contratación frente a los criterios del CPS Abierta. Asimismo, planteamos posibles maneras de comunicarlos a las partes interesadas del caso.
 
 Esto resulta esencial en la generación de confianza, y la consolidación de la implementación efectiva de CPS Abierta. Además, al final de la sección encontrará orientaciones sobre la manera de traducir la comunicación en acciones específicas.
 {% endcallout %}

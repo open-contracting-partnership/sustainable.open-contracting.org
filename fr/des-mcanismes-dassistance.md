@@ -13,7 +13,7 @@ sidebar: true
 Toutefois, comme nous l’avons signalé dans l’introduction, la mise en place de marchés publics durables suppose une transformation fondamentale des pratiques d’achat. Étant donné que cette transformation peut générer des difficultés pour les fonctionnaires responsables de la passation de marchés, les pouvoirs publics doivent examiner ce qui est en leur pouvoir pour renforcer les capacités.
 
 {% callout green /assets/images/Pin_green.svg %}
-**Dans cette section, nous présentons plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**
+Dans cette section, nous présentons **plusieurs mécanismes potentiellement utiles ainsi que des exemples d’application du monde entier.**
 {% endcallout %}
 
 ## Interagir avec les parties prenantes

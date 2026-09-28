@@ -13,7 +13,7 @@ At this stage of planning your SPP implementation strategy, you have already ass
 However, as we mention in the introduction, implementing SPP means procuring in a different way. As this can be challenging for procurement officials, public authorities should consider what they can do to build capabilities.
 
 {% callout green /assets/images/Pin_green.svg %}
-**In this section we introduce some of the mechanisms public authorities can put in place to support procurement officials effectively implement SPP**, together with examples of how they are used across the world.
+In this section we introduce some of **the mechanisms public authorities can put in place to support procurement officials effectively implement SPP**, together with examples of how they are used across the world.
 {% endcallout %}
 
 ## Engage with stakeholders

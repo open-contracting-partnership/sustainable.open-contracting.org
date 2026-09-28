@@ -120,4 +120,4 @@ A lack of coherent identifiers in government information systems structurally da
 
 [Our "Green Flags" guide](https://www.open-contracting.org/resources/green-flags-how-open-data-can-throw-light-on-sustainable-procurement/) outlines how to "tag" specific procurements as green as a key first step towards measuring SPP outcomes. This is only possible if you have good quality contract data, with clear contractual identifiers. In [section three](/open-data-measuring-progress) of this toolkit, we show you how to build on this approach to generate detailed, granular SPP evidence.
 
-**So before getting started with SPP, make sure you have tackled the key data foundations.**
+So before getting started with SPP, **make sure you have tackled the key data foundations.**

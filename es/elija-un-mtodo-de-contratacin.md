@@ -72,7 +72,7 @@ Hay diferentes beneficios de usar procesos de licitación de dos etapas al imple
 
 {% toggle **¿Cómo puede hacerlo?** %}
 
-- **Paso 1**: Publique un anuncio de contrato y decida los criterios de evaluación para la fase del Cuestionario de precalificación (PQQ).
+- **Paso 1:** Publique un anuncio de contrato y decida los criterios de evaluación para la fase del Cuestionario de precalificación (PQQ).
 - **Paso 2:** Seleccione la primera ronda de proveedores en función de un PQQ con preguntas específicas.
 - **Paso 3:** Entable un diálogo con los proveedores e incorpore a más partes interesadas de la cadena de suministro.
 - **Paso 4:** Redacte las especificaciones de la licitación con base al diálogo con los proveedores para seleccionar las soluciones finales.
@@ -100,16 +100,16 @@ Uno de los enfoques de contratación que usted puede adoptar dentro de la implem
 
 Exiten diferentes beneficios de usar la contratación conjunta al implementar un CPS Abierto *(Open SPP)*, estos incluyen:
 
-- **Apalancar colectivamente el poder adquisitivo para lograr economías de escala.**
-- **Hacer menos contrataciones duplicadas, lo que permite a las autoridades públicas ahorrar el uso innecesario de recursos.**
-- **Estandarizar y alinear las prácticas de sustentabilidad.**
-- **Aumentar el número de proveedores interesados. Ofrece la oportunidad de obtener negocios de más de una autoridad; es un menor esfuerzo para responder a una licitación lo que puede conducir a más negocios**
+- Apalancar colectivamente el poder adquisitivo para lograr economías de escala.
+- Hacer menos contrataciones duplicadas, lo que permite a las autoridades públicas ahorrar el uso innecesario de recursos.
+- Estandarizar y alinear las prácticas de sustentabilidad.
+- Aumentar el número de proveedores interesados. Ofrece la oportunidad de obtener negocios de más de una autoridad; es un menor esfuerzo para responder a una licitación lo que puede conducir a más negocios
 
 {% endtoggle %}
 
 {% toggle **¿Cómo puede hacerlo?** %}
 
-- **Paso 1**: Comparta sus necesidades u hojas de ruta de contrataciones con otras autoridades de contrataciones. Comunique su portafolio de contrataciones y establezca un canal de comunicación claro entre las autoridades públicas.
+- **Paso 1:** Comparta sus necesidades u hojas de ruta de contrataciones con otras autoridades de contrataciones. Comunique su portafolio de contrataciones y establezca un canal de comunicación claro entre las autoridades públicas.
 - **Paso 2:** Defina la gestión y el liderazgo del grupo. Decida si trabajará en conjunto como una asociación o le dará a una autoridad el papel principal.
 - **Paso 3:** Acuerde especificaciones y enfoques de contratación similares.
 - **Paso 4:** Relaciónense junto con el mercado.
@@ -143,5 +143,5 @@ Para obtener más orientación sobre los enfoques de contratación que pueden se
 
 Con la ayuda del Laboratorio de Desempeño del Gobierno de Harvard, **la ciudad creó una herramienta de recopilación de datos que los inspectores podrían usar en el campo para rastrear el desempeño en indicadores clave (incluida la altura del césped, la prevalencia de malezas y los daños a la propiedad).** Luego llevaron a cabo una **contratación competitiva en la que, por primera vez, la Ciudad consideró factores como el desempeño anterior y la capacidad de informar sobre métricas clave como parte de la selección de proveedores**. El Departamento de Compras también dividió grandes áreas de terreno en parcelas más pequeñas y se acercó a los proveedores que no habían ofertado previamente por los contratos de la Ciudad. **Los nuevos contratos reemplazaron los daños punitivos por desempeño deficiente con un bono de desempeño del 5 por ciento para incentivar un desempeño sólido**. Los proveedores enviaron facturas con fotografías del trabajo terminado. Esto eliminó la necesidad de que el personal de la ciudad realizara inspecciones en el lugar.
 
-**Con este enfoque, la ciudad impulsó la competencia general (el número de proveedores que enviaron respuestas aumentó en un 38 por ciento) sin aumentar los costos. Lo que es más importante, las quejas al administrador de la ciudad sobre el mantenimiento de los terrenos se redujeron sustancialmente.**
+Con este enfoque, **la ciudad impulsó la competencia general (el número de proveedores que enviaron respuestas aumentó en un 38 por ciento) sin aumentar los costos. Lo que es más importante, las quejas al administrador de la ciudad sobre el mantenimiento de los terrenos se redujeron sustancialmente.**
 {% endcallout %}

@@ -12,5 +12,5 @@ En 2016, l’Équateur a publié son premier [plan d’action sur les marchés p
 
 L’organisme public principal est l’agence nationale des marchés publics (SERCOP), qui reçoit l’appui du ministère de l’Environnement. Ces deux entités recevront également l’appui d’un groupe de travail composé d’autres ministères, notamment celui de l’Inclusion économique et sociale (MIES) et celui de l’Agriculture (MAGAP).
 
-**En page 28 de ce plan, nous trouvons un chronogramme des activités qui seront mises en œuvre durant la première année d’exécution du plan clarifiant les responsabilités des différentes entités publiques.**
+En page 28 de ce plan, nous trouvons **un chronogramme des activités qui seront mises en œuvre durant la première année d’exécution du plan clarifiant les responsabilités des différentes entités publiques.**
 {% endcallout %}
