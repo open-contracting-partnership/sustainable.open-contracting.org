@@ -16,7 +16,7 @@ In this section, we include **key questions that may arise when considering the 
 
 Sustainable Public Procurement is [defined by UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) as “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
 
-In other words, SPP is the consideration of the three sustainable development pillars (economic, social, and environmental) when carrying out public procurement. This can include, for example, designing the procurement process to promote local companies (economic), ensuring that suppliers monitor labor rights compliance across their supply chain (social), or purchasing products made of recycled materials (environmental). For an overview of more factors that can be considered within each of these pillars see [this section](/what-is-open-spp).
+In other words, SPP is the consideration of the three sustainable development pillars (economic, social, and environmental) when carrying out public procurement. This can include, for example, designing the procurement process to promote local companies (economic), ensuring that suppliers monitor labor rights compliance across their supply chain (social), or purchasing products made of recycled materials (environmental). For an overview of more factors that can be considered within each of these pillars, see [What is Open SPP?](/what-is-open-spp).
 
 {% endtoggle %}
 
@@ -26,7 +26,7 @@ Open and Sustainable Public Procurement (Open SPP) refers to the application of 
 
 According to the [Open Contracting Partnership (OCP)](https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf) “open contracting is about publishing and using open, accessible, and timely information on government contracting to engage citizens and businesses in identifying and fixing problems.” Open contracting entails disclosure and engagement throughout the entire procurement process, from planning to implementation.
 
-In [the introduction](/what-is-open-spp) to this toolkit, we identify seven key practices that are essential for Open SPP implementation, and that are referred to throughout the toolkit.
+In [What is Open SPP?](/what-is-open-spp), in the introduction to this toolkit, we identify seven key practices that are essential for Open SPP implementation, and that are referred to throughout the toolkit.
 
 {% endtoggle %}
 
@@ -37,7 +37,7 @@ There is a common belief that, when the enabling framework - that is, the existi
 - **When the enabling framework only allows price to be considered as evaluation criteria,** there are three main approaches you can take: introducing sustainability criteria as essential requirements, using [Life-cycle costing](/life-cycle-costing) calculations, and ensuring compliance with existing sustainability regulations.
 - **When the enabling framework leaves room for considering evaluation criteria other than price,** you can use existing sustainability plans and policies to guide the design of sustainability evaluation criteria.
 
-Once you have identified regulation regarding evaluation criteria, we recommend identifying other existing regulatory mechanisms, such as procurement thresholds, or targets, that might enable SPP practices. You can use [this checklist](/establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment) for a quick way to evaluate your enabling framework, and access [this section](/establish-an-enabling-environment) to gain a deeper understanding of the concepts introduced in the checklist.
+Once you have identified regulation regarding evaluation criteria, we recommend identifying other existing regulatory mechanisms, such as procurement thresholds, or targets, that might enable SPP practices. You can use the [quick checklist to evaluate your enabling environment](/establish-an-enabling-environment/quick-checklist-evaluate-your-enabling-environment), and [the section on establishing an enabling environment](/establish-an-enabling-environment) to gain a deeper understanding of the concepts introduced in the checklist.
 
 {% endtoggle %}
 
@@ -48,7 +48,7 @@ When starting to implement SPP, prioritizing specific product categories can hel
 - Factors that will help you to determine the **sustainability impact** of implementing SPP in a specific category (such as attributed CO2 emissions).
 - Factors which will help you to assess **ease of implementation** (such as availability of environmental labels).
 
-For more information on these factors, see [this section](/prioritize). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). This [case study](/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
+For more information on these factors, see [the section on prioritizing procurement categories](/prioritize). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). This [case study](/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
 
 {% endtoggle %}
 
@@ -61,7 +61,7 @@ There are different ways in which national, local, or regional authorities can f
 - **Engage with stakeholders.** This includes organizing capacity-building workshops with procurement practitioners, engaging with suppliers to involve them in the SPP journey, and consulting with Civil Society Organizations (CSOs) on best sustainability approaches.
 - **Set up a help desk and central information point.** Provide an easy way for procurement practitioners to access guidance on SPP practices, including existing regulation, standardized criteria, and best practice examples. It can also be useful to set up a help desk for practitioners to ask about any SPP implementation queries.
 
-For more information on this see [this section](/build-support-and-capabilities).
+For more information on these mechanisms, see [the section on building support and capabilities](/build-support-and-capabilities).
 
 {% endtoggle %}
 
@@ -76,7 +76,7 @@ An SPP Action Plan serves as reference for procurement practitioners to understa
 - **Governance structure and responsibilities:** public authorities responsible for coordinating, and executing the different practices associated to the SPP strategy.
 - **Assigned budget:** what budget will be dedicated with the SPP strategy (e.g. development of guidance materials, training sessions, etc.).
 
-This Action Plan [index](/create-an-action-plan/sample-outline-of-an-spp-action-plan) can serve as guidance to structure an Action Plan. You can access [this section](/create-an-action-plan) for more information on Action Plans, and best practice examples.
+This Action Plan [index](/create-an-action-plan/sample-outline-of-an-spp-action-plan) can serve as guidance to structure an Action Plan. See [the section on creating an Action Plan](/create-an-action-plan) for more information on Action Plans, and best practice examples.
 
 {% endtoggle %}
 
@@ -95,7 +95,7 @@ There are different ways to engage with the market throughout the procurement pr
 - **During the procurement planning phase:** organizing events with suppliers to present sustainability objectives, and conducting market research to assess availability of sustainable options.
 - **During procurement:** notifying the market of the intention to award a contract, developing channels to engage with priority supplier groups (e.g. SMEs), giving channels for feedback, and facilitating supplier consortia.
 
-For more information see [this section](/engage-with-the-market).
+For more information, see [the section on engaging with the market](/engage-with-the-market).
 
 {% endtoggle %}
 
@@ -105,7 +105,7 @@ The Global Ecolabelling Network (GEN) [defines ecolabelling](https://globalecola
 
 Type I, and Type I-like ecolabels usually publish the criteria that should be met to receive the certification. To procure more sustainably, you can ask suppliers to comply with the criteria set by a specific label, or use some of the criteria to draft specifications in a contract.
 
-For more information on how to use ecolabels during a procurement process, see [this guide](/guide-to-ecolabels). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/organisations/) offers a directory of its members' ecolabels, which can be filtered by product and service category.
+For more information on how to use ecolabels during a procurement process, see the [guide to ecolabels](/guide-to-ecolabels). To assess the availability of Type I ecolabels, the [Global Ecolabel Network](https://globalecolabelling.net/organisations/) offers a directory of its members' ecolabels, which can be filtered by product and service category.
 
 {% endtoggle %}
 
@@ -113,6 +113,6 @@ For more information on how to use ecolabels during a procurement process, see [
 
 There is a common misconception that procuring sustainable products and services always means spending more money. In reality, although sustainable alternatives can sometimes have a higher acquisition cost, if the operation, maintenance and disposal costs are also taken into account, they can become the cheaper alternative. Life Cycle Costing (LCC) calculates these costs, and can also include the calculation of environmental costs, such as CO2 emissions.
 
-For more information on Life Cycle Costing (LCC) see [this section](/life-cycle-costing). For practical tools, the [European Commission](https://ec.europa.eu/environment/gpp/lcc.htm) has developed five LCC excel-based tools for specific product-categories (Vending Machines, Imaging Equipment, Computers and Monitors, Indoor and Outdoor Lighting). The tools include information on how they can be used before tendering to evaluate different solutions, during tendering to compare offers and after tendering to evaluate performance.
+For more information, see [the worked example on Life Cycle Costing (LCC)](/life-cycle-costing). For practical tools, the [European Commission](https://ec.europa.eu/environment/gpp/lcc.htm) has developed five LCC excel-based tools for specific product-categories (Vending Machines, Imaging Equipment, Computers and Monitors, Indoor and Outdoor Lighting). The tools include information on how they can be used before tendering to evaluate different solutions, during tendering to compare offers and after tendering to evaluate performance.
 
 {% endtoggle %}

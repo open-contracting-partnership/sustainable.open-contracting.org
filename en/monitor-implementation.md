@@ -8,7 +8,7 @@ sidebar: true
 ---
 # Managing sustainability throughout the contract
 
-After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the [previous section](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.
+After you have introduced the sustainability criteria to be met by suppliers, you have to decide how you will monitor compliance against it. As introduced in the previous section, on [preparing contract obligations](/prepare-contract-obligations), details regarding the process should be openly discussed with the supplier, and agreed upon as part of the procurement contract.
 
 {% callout red /assets/images/Pin_Red.svg %}
 In this section, we include some of the **mechanisms that can be used to monitor compliance against sustainability criteria during contract implementation.** Establishing these mechanisms is **essential to ensure that the purpose of introducing sustainability criteria is fulfilled, and to gather the necessary data to measure progress against the [broader goals](/monitoring-evaluation)** that have been set as part of the Open SPP strategy.
@@ -58,7 +58,7 @@ Public authorities can organize task forces to verify and monitor sustainability
 
 {% toggle **Use civil society monitoring activities**  %}
 
-Another important way to gather needed data to monitor performance could be by engaging civil society or the users/beneficiaries of a service. Citizen or beneficiary collaboration could then be enabled to collect data, for example, on health and safety measures, impact of projects on the communities, etc. This can be done by using community forums, opening online platforms, assigning civil organizations to gather information, apps, etc. Read more about the role of [procurement monitoring here](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/), and check out Integrity Action’s [Development Check app](https://integrityaction.org/devcheck/) for additional inspiration.
+Another important way to gather needed data to monitor performance could be by engaging civil society or the users/beneficiaries of a service. Citizen or beneficiary collaboration could then be enabled to collect data, for example, on health and safety measures, impact of projects on the communities, etc. This can be done by using community forums, opening online platforms, assigning civil organizations to gather information, apps, etc. Read more about the role of procurement monitoring in OCP’s series, [Procurement monitoring in a digital world](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/), and check out Integrity Action’s [Development Check app](https://integrityaction.org/devcheck/) for additional inspiration.
 
 {% endtoggle %}
 

@@ -10,7 +10,7 @@ Once the [key sustainability variables have been identified](/le-secteur-tic-en-
 
 ## Request relevant documentation
 
-The information from [the previous section](/le-secteur-tic-en-anglais/selecting-your-data) will guide decisions on what criteria should be evaluated during the procurement process. To verify the compliance of suppliers with the established criteria, information gathered will include:
+The information from the previous section, on [selecting your data](/le-secteur-tic-en-anglais/selecting-your-data), will guide decisions on what criteria should be evaluated during the procurement process. To verify the compliance of suppliers with the established criteria, information gathered will include:
 
 - **Supplier Code of Conducts** or supplier policies.
 - **Service manuals** with maintenance and repairs information.

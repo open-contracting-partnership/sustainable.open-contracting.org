@@ -8,7 +8,7 @@ notion_id: "74350fd322b84d1c8d2f2ccb6a15a6c1"
 sidebar: true
 ---
 {% callout green /assets/images/Pin_green.svg %}
-**You can use the following outline as the basis for developing your SPP Action Plan Index.** We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in [this section](/cree-un-plan-de-accin).
+**You can use the following outline as the basis for developing your SPP Action Plan Index.** We have included next to some of the sections, the equivalent Open SPP area for which you can find more information in [the section on creating an Action Plan](/cree-un-plan-de-accin).
 {% endcallout %}
 
 **The outline presented has been adapted from:** [UNEP 2021, Sustainable Public Procurement: How to Wake the Sleeping Giant! Introducing the United Nations Environment Programme’s Approach](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) (page 94).

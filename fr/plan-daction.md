@@ -8,13 +8,13 @@ sidebar: true
 ---
 # Présenter vos premières mesures dans un plan d’action sur les marchés publics durables
 
-Dans la [première partie de ce guide pratique](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.
+Dans la première partie de ce guide pratique, [Planification](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.
 
 Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces élément
 
 En vous dotant d’un plan d’action sur les marchés publics durables, vous pourrez divulguer aux membres des services de passation de marchés le cadre applicable aux marchés publics durables, les conséquences sur leur travail et les actions qui seront entreprises pour perfectionner ce cadre.
 
-Dans la [première partie de ce guide pratique](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables
+Dans la première partie de ce guide pratique, [Planification](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables
 
 Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces éléments.
 
@@ -139,13 +139,13 @@ Beaucoup de pays commencent par mettre en place des marchés publics durables et
 
 {% toggle **Catégories de marchés** %}
 
-Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Consultez [cette section](/priorits) pour en savoir plus sur le processus de définition des catégories prioritaires.
+Bien que des pays concentrent d’abord leurs efforts sur des catégories de marchés bien particulières, généralement là où des marchés publics durables sont plus simples à mettre en place et ont le plus fort potentiel, ils peuvent par la suite se tourner vers d’autres catégories plus complexes. Pour en savoir plus, consultez [la section sur le processus de définition des catégories prioritaires](/priorits).
 
 {% endtoggle %}
 
 {% toggle **Critères environnementaux**  %}
 
-La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Consultez [cette section](/des-mcanismes-dassistance#standardized-criteria) pour en savoir plus sur la recommandation de critères de durabilité normalisés.
+La portée et la complexité des critères environnementaux recommandés pour les processus de la commande publique peuvent également évoluer. De nombreux pays recommandent d’abord d’utiliser des éco-étiquettes et intègrent ensuite d’autres calculs, par exemple concernant les émissions de gaz à effet de serre ou le coût du cycle de vie. Cela dépendra principalement des ressources disponibles et des capacités du marché. Pour en savoir plus, consultez [la section sur la recommandation de critères de durabilité normalisés](/des-mcanismes-dassistance#standardized-criteria).
 
 {% endtoggle %}
 
@@ -160,7 +160,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 - [PNUE, *Terms of Reference for the SPP Policy and Action Plan Expert*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf)
 {% endcallout %}
 
-Dans la [première partie de ce guide pratique](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.
+Dans la première partie de ce guide pratique, [Planification](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.
 
 Dans chaque section, nous avons parlé de l’importance de communiquer de façon ouverte vos approches des marchés publics durables, de justifier vos choix et d’exposer les modalités de mise en œuvre de vos approches. Un plan d’action sur les marchés publics durables est le moyen idéal pour réunir tous ces éléments.
 

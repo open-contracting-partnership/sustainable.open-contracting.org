@@ -8,7 +8,7 @@ sidebar: true
 ---
 # Gérer la durabilité durant l’exécution du marché
 
-Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la [section précédente](/obligations-contractuelles), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat.
+Après avoir imposé des critères de durabilité aux fournisseurs, vous devez décider de la façon dont vous allez contrôler le respect de ces critères. Comme décrit dans la section précédente, sur [les obligations contractuelles](/obligations-contractuelles), vous devez discuter de façon ouverte avec le fournisseur et convenir des détails de ce processus dans le cadre du contrat d’achat.
 
 {% callout red /assets/images/Pin_Red.svg %}
 Dans cette section, nous présentons plusieurs mécanismes pouvant être utilisés pour contrôler le respect des critères de durabilité durant l’exécution du marché. L’établissement de ce type de mécanismes est essentiel pour garantir la bonne prise en compte de critères de durabilité et collecter les données nécessaires pour évaluer les progrès concernant les [objectifs globaux](/suivi-et-valuation)
@@ -60,7 +60,7 @@ Les pouvoirs publics peuvent mettre en place des groupes de travail visant à v�
 
 {% toggle **Tirer parti des activités de surveillance de la société civile** %}
 
-Un autre bon moyen de collecter les données nécessaires pour suivre les résultats consiste à interagir avec la société civile et les utilisateurs ou bénéficiaires d’un service. La collaboration de la population ou des bénéficiaires peut être mise à profit pour collecter des données, par exemple, sur les mesures de santé et de sécurité, les retombées d’un projet sur les communautés… Pour cela, il est possible d’organiser des forums communautaires, d’ouvrir des plateformes en ligne, de confier la responsabilité de la collecte de données à des organisations de la société civile, d’utiliser des applications… [Consultez cette page](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/) pour en savoir plus sur le rôle de la surveillance des marchés et découvrez [l’application « Development Check »](https://integrityaction.org/devcheck/) de Integrity Action pour approfondir le sujet.
+Un autre bon moyen de collecter les données nécessaires pour suivre les résultats consiste à interagir avec la société civile et les utilisateurs ou bénéficiaires d’un service. La collaboration de la population ou des bénéficiaires peut être mise à profit pour collecter des données, par exemple, sur les mesures de santé et de sécurité, les retombées d’un projet sur les communautés… Pour cela, il est possible d’organiser des forums communautaires, d’ouvrir des plateformes en ligne, de confier la responsabilité de la collecte de données à des organisations de la société civile, d’utiliser des applications… Consultez la série de l’OCP [Procurement monitoring in a digital world](https://www.open-contracting.org/2020/09/10/procurement-monitoring-in-a-digital-world-our-new-series-sharing-best-practices/) (en anglais) pour en savoir plus sur le rôle de la surveillance des marchés et découvrez [l’application « Development Check »](https://integrityaction.org/devcheck/) de Integrity Action pour approfondir le sujet.
 
 {% endtoggle %}
 

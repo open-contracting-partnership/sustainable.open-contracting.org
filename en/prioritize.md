@@ -96,7 +96,7 @@ Certification schemes can help to facilitate the implementation of Open SPP. For
 
 Buying more sustainably entails knowing which standards a product, service, or works, should meet to be classified as sustainable. This will inform [the requirements you set](/set-sustainability-criteria) to compare bids throughout the procurement process. Existing sustainability standards can facilitate this process, as they can be used as a reference to draft these requirements.
 
-- **Existing environmental labels, or “ecolabels”** can help you identify environmentally preferable products within a specific product category. For example, in procurement categories, such as ICT, there are well-established ecolabels that facilitate SPP implementation when buying products within this category. For more information on ecolabels, and how they can be used for SPP implementation, see [this guide](/guide-to-ecolabels).
+- **Existing environmental labels, or “ecolabels”** can help you identify environmentally preferable products within a specific product category. For example, in procurement categories, such as ICT, there are well-established ecolabels that facilitate SPP implementation when buying products within this category. For more information on ecolabels, and how they can be used for SPP implementation, see the [guide to ecolabels](/guide-to-ecolabels).
 - **Existing criteria developed by other countries.** For example, many countries in Europe have prioritized the procurement categories included in the **European Commission’s** [Green Public Procurement (GPP) criteria guidance](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). This guidance provides information on specific criteria that you can set as essential requirements, or award criteria, when procuring, for example, environmentally preferable cleaning products and services. This information facilitates implementation for procurement practitioners. However, remember to check your [enabling environment](/establish-an-enabling-environment) for guidance on how you can introduce these standards to evaluate bids.
 
 {% endtoggle %}
@@ -118,7 +118,7 @@ The existence of sustainability initiatives in the local market should also be c
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.svg %}
-**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information see [this section](/engage-with-the-market).
+**There are different ways to collect information from the market to assess its capability to comply with existing sustainability standards.** These methods are similar to the ones that will be implemented when engaging with the market during specific procurement processes, for more information, see [the section on engaging with the market](/engage-with-the-market).
 {% endcallout %}
 
 ### Evaluate options to build on sustainability policy work to-date

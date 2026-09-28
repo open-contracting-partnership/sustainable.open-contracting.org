@@ -42,7 +42,7 @@ Many procurement regimes only allow you to award the contract to the lowest-pric
 
 - **Consider applying Life Cycle Costing (LCC) calculations.**
 
-  When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information on LCC see [this section](/life-cycle-costing).
+  When you consider costs beyond just the acquisition price, including the operation, maintenance, and disposal costs of the goods purchased, more sustainable alternatives can become the cheapest option. So considering the life cycle costs of the solution can result in selecting the most sustainable alternative. For more information, see [the worked example on life cycle costing](/life-cycle-costing).
 
 - **Ensure compliance with existing sustainability regulations.**
 

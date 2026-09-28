@@ -20,7 +20,7 @@ In this section we introduce some of **the mechanisms public authorities can put
 
 One of the main ways in which public authorities can build their procurement capabilities with respect to SPP is by reaching out and engaging with stakeholders.
 
-As we highlighted [at the beginning of this guide](/introduction), governments will have to buy things in fundamentally different ways and explore new technologies and solutions to address the climate crisis. Stakeholder engagement, sharing information and exploring solutions will be vital to this shift, given that the government alone does not yet always know what to buy and how to buy it.
+As we highlighted in [the introduction](/introduction), governments will have to buy things in fundamentally different ways and explore new technologies and solutions to address the climate crisis. Stakeholder engagement, sharing information and exploring solutions will be vital to this shift, given that the government alone does not yet always know what to buy and how to buy it.
 
 This will be a huge shift in the traditional box ticking, compliance-based approach to procurement and may feel uncomfortable, but it takes two to make a market. Opening up your contracting process and seeking out a wide range of stakeholders to inform your procurement strategies will improve competition and improve your chances of reaching vendors with the best solutions for your needs. It will also give you insights into the market, what is working and what isn’t.
 

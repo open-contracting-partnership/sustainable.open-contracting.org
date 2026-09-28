@@ -42,7 +42,7 @@ Beaucoup de méthodes de passation de marchés permettent seulement d’attribue
 
 - **Prendre en compte le coût du cycle de vie**
 
-  Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez [cette section](/le-cot-du-cycle-de-vie) pour en savoir plus sur le coût du cycle de vie.
+  Lorsque vous vous intéressez au coût d’un livrable au-delà de son prix d’acquisition, notamment au coût engagé pour son exploitation, son entretien et sa mise hors service, d’autres offres plus durables peuvent devenir plus économiques. Par conséquent, la prise en compte du coût du cycle de vie des livrables peut conduire à retenir la solution la plus durable. Consultez [l’exemple sur le coût du cycle de vie](/le-cot-du-cycle-de-vie) pour en savoir plus sur le coût du cycle de vie.
 
 - **Veiller au respect de la réglementation en vigueur en matière de durabilité**
 

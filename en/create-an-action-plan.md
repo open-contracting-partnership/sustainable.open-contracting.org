@@ -131,13 +131,13 @@ Many countries start by working on the implementation of Open SPP in specific in
 
 {% toggle **Procurement categories**  %}
 
-Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information on the prioritization process, see [this section](/prioritize).
+Although countries start by selecting specific procurement categories to focus SPP efforts, which are usually those which result less complicated and can have the highest impact, these can be expanded to include those which result more complex. For more information, see [the section on the prioritization process](/prioritize).
 
 {% endtoggle %}
 
 {% toggle **Environmental criteria**  %}
 
-Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information on recommending standardized sustainability criteria see [this section](/build-support-and-capabilities#standardized-criteria).
+Environmental criteria recommended for inclusion in public procurement processes can also evolve in scope and complexity. Many countries start by recommending the use of environmental labels, and then include other calculations, such as GHG emissions, or Life Cycle Costing (LCC). This will mainly depend on the resources available, and market capability. For more information, see [the section on recommending standardized sustainability criteria](/build-support-and-capabilities#standardized-criteria).
 
 {% endtoggle %}
 

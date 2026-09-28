@@ -16,7 +16,7 @@ SME suitable = "Yes"
 Female owned business friendly? = "Yes"
 ```
 
-In a spreadsheet programme, you can filter out records that don’t have a particular feature. To find out more about how to do this in Microsoft Excel you can use this [guidance](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e), please make sure to check the version of Excel that you’re using.
+In a spreadsheet programme, you can filter out records that don’t have a particular feature. To find out more about how to do this in Microsoft Excel, see Microsoft’s guidance on how to [filter data in a range or table](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e); please make sure to check the version of Excel that you’re using.
 
 It is important that these tags can be validated. In these cases, it is important to identify exactly what is meant by SME (small/medium sized enterprises) or women-led businesses to give clarity and allow consistency. In the case of small and medium enterprises (SMEs), definitions could revolve around number of employees, turnover, or both. In the case of women owned businesses, definitions could revolve around whether the business is women-owned or whether women make up >50% of beneficial owners or >50% of the board.
 

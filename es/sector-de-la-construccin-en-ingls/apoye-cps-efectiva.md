@@ -18,7 +18,7 @@ The following approaches promote data sharing and collaborative approaches in pr
 
 {% toggle **Market engagement practices** %}
 
-Early engagement with the supplier market in the construction sector can be key for collecting the necessary data to define the design brief and specifications of the project. See [this section](/relacinese-con-el-mercado) for more information on market engagement methods.
+Early engagement with the supplier market in the construction sector can be key for collecting the necessary data to define the design brief and specifications of the project. See [the section on engaging with the market](/relacinese-con-el-mercado) for more information on market engagement methods.
 
 {% endtoggle %}
 
@@ -40,7 +40,7 @@ The following procedures can constitute the characteristics of a single procurem
 
 {% toggle **Outcomes-based approaches** %}
 
-Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [this section](/elija-un-mtodo-de-contratacin#outcome-based-procurement) for more information.
+Outcomes-based and performance-based approaches are often used in construction for maintenance and operation contracts. See [the section on outcome-based procurement](/elija-un-mtodo-de-contratacin#outcome-based-procurement) for more information.
 
 {% endtoggle %}
 
@@ -60,7 +60,7 @@ Two stage procurement procedures in the construction sector usually involve a fi
 
 This approach can often be seen in design and construction projects, where the design of the building is determined by the input of those selected during the first stage, ensuring better market fit and, if it is an integrated team, a life cycle approach.
 
-Two stage procurement procedures allow for ongoing dialogue and open disclosure of information between suppliers and procurement practitioners. This can be especially useful for negotiating ways to reach sustainability targets in construction projects. See [this section](/elija-un-mtodo-de-contratacin#two-stage-tender-processes) for more information.
+Two stage procurement procedures allow for ongoing dialogue and open disclosure of information between suppliers and procurement practitioners. This can be especially useful for negotiating ways to reach sustainability targets in construction projects. See [the section on two-stage tender processes](/elija-un-mtodo-de-contratacin#two-stage-tender-processes) for more information.
 
 {% endtoggle %}
 

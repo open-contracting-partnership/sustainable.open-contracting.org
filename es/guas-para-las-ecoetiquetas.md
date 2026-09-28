@@ -32,7 +32,7 @@ Este tipo de etiquetas son reivindicaciones ambientales autodeclaradas realizada
 
 {% toggle **Tipo III (ISO 14025)** %}
 
-Estas son declaraciones que informan sobre los resultados del análisis del ciclo de vida de un producto en particular, junto con un resumen de la metodología, supuestos y fuentes de datos. Los resultados incluyen datos ambientales cuantificados, como las emisiones de Co2, y son verificados por un tercero. En este grupo encontramos, por ejemplo, las Declaraciones Ambientales de Producto (EPD), que se suelen utilizar para los materiales de construcción. Véase, por ejemplo, [esta EPD](https://www.environdec.com/library/epd11624) para un producto fabricado en acero. Estas declaraciones no brindan una evaluación, es decir, un producto no está certificado o no certificado como con las etiquetas Tipo I, sino que brindan datos objetivos para que el consumidor haga las comparaciones.
+Estas son declaraciones que informan sobre los resultados del análisis del ciclo de vida de un producto en particular, junto con un resumen de la metodología, supuestos y fuentes de datos. Los resultados incluyen datos ambientales cuantificados, como las emisiones de Co2, y son verificados por un tercero. En este grupo encontramos, por ejemplo, las Declaraciones Ambientales de Producto (EPD), que se suelen utilizar para los materiales de construcción. Véase, por ejemplo, [una EPD para un producto fabricado en acero](https://www.environdec.com/library/epd11624). Estas declaraciones no brindan una evaluación, es decir, un producto no está certificado o no certificado como con las etiquetas Tipo I, sino que brindan datos objetivos para que el consumidor haga las comparaciones.
 
 {% endtoggle %}
 
@@ -48,7 +48,7 @@ Las etiquetas ecológicas se pueden aplicar en diferentes etapas y de diferentes
 
 {% toggle **Utilice los estándares de la etiqueta ecológica como guía para redactar los requisitos ambientales.** %}
 
-La mayoría de las ecoetiquetas Tipo I y Tipo I publican abiertamente los estándares ambientales que un producto debe cumplir para ser certificado. Puede utilizar estos estándares como guía para redactar los requisitos ambientales al adquirir productos específicos. Por ejemplo, si está adquiriendo nuevas pantallas, puede utilizar [los estándares publicados por el TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) de la etiqueta ecológica para redactar las especificaciones del producto o los criterios de adjudicación. Para obtener más información sobre cómo establecer criterios de sostenibilidad, consulte [esta sección](/establezca-criterios-de-sostenibilidad) del conjunto de herramientas.
+La mayoría de las ecoetiquetas Tipo I y Tipo I publican abiertamente los estándares ambientales que un producto debe cumplir para ser certificado. Puede utilizar estos estándares como guía para redactar los requisitos ambientales al adquirir productos específicos. Por ejemplo, si está adquiriendo nuevas pantallas, puede utilizar [los estándares publicados por el TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) de la etiqueta ecológica para redactar las especificaciones del producto o los criterios de adjudicación. Para obtener más información, consulte [la sección sobre cómo establecer criterios de sostenibilidad](/establezca-criterios-de-sostenibilidad).
 
 {% endtoggle %}
 
@@ -60,7 +60,7 @@ Cuando utilice ecoetiquetas tipo I y tipo I en el proceso de contratación, pued
 
 {% toggle **Priorice las categorías de contratación en función de la disponibilidad de ecoetiquetas** %}
 
-When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/priorice) of the toolkit.
+When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information, see [the section on prioritizing procurement categories](/priorice).
 
 {% endtoggle %}
 

@@ -32,7 +32,7 @@ These types of labels are self-declared environmental claims made internally by 
 
 {% toggle **Type III (ISO 14025)** %}
 
-These are declarations that report on the life-cycle analysis results of a particular product, along with a summary of the methodology, assumptions and data sources. The results include quantified environmental data, such as Co2 emissions, and are verified by a third party. In this group we find, for example, Environmental Product Declarations (EPD), which are often used for construction materials. See, for example, [this EPD](https://www.environdec.com/library/epd11624) for a product made of steel. These declarations do not provide an assessment - that is a product is not certified, or non-certified like with Type I labels - instead, they provide objective data for the consumer to make the comparisons.
+These are declarations that report on the life-cycle analysis results of a particular product, along with a summary of the methodology, assumptions and data sources. The results include quantified environmental data, such as Co2 emissions, and are verified by a third party. In this group we find, for example, Environmental Product Declarations (EPD), which are often used for construction materials. See, for example, [an EPD for a product made of steel](https://www.environdec.com/library/epd11624). These declarations do not provide an assessment - that is a product is not certified, or non-certified like with Type I labels - instead, they provide objective data for the consumer to make the comparisons.
 
 {% endtoggle %}
 
@@ -48,7 +48,7 @@ Ecolabels can be applied at different stages, and in different ways, throughout 
 
 {% toggle **Use ecolabel standards as guidance to draft environmental requirements** %}
 
-Most Type I and Type-I like ecolabels openly publish the environmental standards that a product has to meet in order to be certified. You can use these standards as guidance to write the environmental requirements when procuring specific products. For example, if you are procuring new displays, you can use [the standards published by the ecolabel TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) to draft the product specifications, or award criteria. For more information on how to set sustainability criteria see [this section](/set-sustainability-criteria) of the toolkit.
+Most Type I and Type-I like ecolabels openly publish the environmental standards that a product has to meet in order to be certified. You can use these standards as guidance to write the environmental requirements when procuring specific products. For example, if you are procuring new displays, you can use [the standards published by the ecolabel TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) to draft the product specifications, or award criteria. For more information, see [the section on setting sustainability criteria](/set-sustainability-criteria).
 
 {% endtoggle %}
 
@@ -60,7 +60,7 @@ When using Type I and Type-I like ecolabels in the procurement process, you can 
 
 {% toggle **Prioritize procurement categories based on ecolabel availability** %}
 
-When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information on this see [this section](/prioritize) of the toolkit.
+When considering SPP implementation, it can be useful to focus efforts on specific procurement categories. Availability of ecolabels can be one of the factors that you can consider when deciding which categories to prioritize. You can also consider the availability of ecolabeled products in your local market, to ensure that SPP implementation benefits local companies. For more information, see [the section on prioritizing procurement categories](/prioritize).
 
 {% endtoggle %}
 

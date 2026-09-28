@@ -16,7 +16,7 @@ En esta sección, incluimos **preguntas clave que pueden surgir al considerar la
 
 El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
 
-En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [esta sección](/qu-es).
+En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [la sección sobre qué es la Contratación Pública Sostenible y Abierta](/qu-es).
 
 {% endtoggle %}
 
@@ -37,7 +37,7 @@ Existe la creencia común de que, cuando el marco habilitante, es decir, las nor
 - **Cuando el marco habilitante solo permite que el precio se considere como criterio de evaluación,** hay tres enfoques principales que puede tomar: introducir criterios de sostenibilidad como requisitos esenciales, usar cálculos de [costos del ciclo de vida](/costeo-del-ciclo-de-vida) y garantizar el cumplimiento de las regulaciones de sostenibilidad existentes.
 - **Cuando el marco habilitante deja espacio para considerar criterios de evaluación distintos al precio,** puede utilizar los planes y políticas de sostenibilidad existentes para guiar el diseño de los criterios de evaluación de la sostenibilidad.
 
-Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar esta [lista de verificación](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) como una forma rápida de evaluar su marco habilitante y acceder a [esta sección](/establezca-un-entorno-habilitante) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
+Una vez usted haya identificado la regulación con respecto a los criterios de evaluación, le recomendamos que identifique otros mecanismos regulatorios existentes, como umbrales u objetivos de contratación, que podrían permitir las prácticas de CPS. Puede usar la [lista de verificación para evaluar su entorno habilitante](/establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante) como una forma rápida de evaluar su marco habilitante y acceder a [la sección sobre cómo establecer un entorno habilitante](/establezca-un-entorno-habilitante) para obtener una comprensión más profunda de los conceptos presentados en la lista de verificación.
 
 {% endtoggle %}
 
@@ -48,7 +48,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 - Factores que lo ayudarán a determinar el **impacto de sostenibilidad** de implementar CPS en una categoría específica (como las emisiones de CO2 atribuidas).
 - Factores que le ayudarán a evaluar la **facilidad de implementación** (como la disponibilidad de etiquetas ambientales).
 
-Para obtener más información sobre estos factores, consulte [esta sección](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
+Para obtener más información sobre estos factores, consulte [la sección sobre la priorización de categorías de contratación](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
 
 Este estudio de caso demuestra cómo se puede utilizar una técnica de medición simple para evaluar las categorías de productos según su valor de contratación; la disponibilidad y costo de alternativas sostenibles; y su impacto ambiental, económico y social, para priorizar categorías de productos.
 
@@ -63,7 +63,7 @@ Hay diferentes formas en que las autoridades nacionales, locales o regionales pu
 - **Comprometerse con las partes interesadas**. Esto incluye la organización de talleres de creación de capacidad con profesionales de contrataciones, la participación de proveedores para involucrarlos en el proceso de CPS y la consulta con organizaciones de la sociedad civil (OSC) sobre los mejores enfoques de sostenibilidad.
 - **Establecer una mesa de ayuda y un punto central de información.** Proporcione una manera fácil para que los profesionales de contrataciones accedan a la orientación sobre las prácticas de SPP, incluida la regulación existente, los criterios estandarizados y los ejemplos de mejores prácticas. También puede ser útil establecer una mesa de ayuda para que los profesionales hagan preguntas sobre la implementación de CPS.
 
-Para obtener más información al respecto, consulte [esta sección](/establezca-mecanismos-de-apoyo).
+Para obtener más información sobre estos mecanismos, consulte [la sección sobre mecanismos de apoyo](/establezca-mecanismos-de-apoyo).
 
 {% endtoggle %}
 
@@ -83,7 +83,7 @@ Un Plan de Acción de CPS sirve como referencia para que los profesionales de co
 
 **Presupuesto asignado:** qué presupuesto se dedicará a la estrategia CPS (por ejemplo, desarrollo de materiales de orientación, sesiones de capacitación, etc.).
 
-Este [índice](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Puede acceder a [esta sección](/cree-un-plan-de-accin) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
+Este [índice](/cree-un-plan-de-accin/ejemplo-de-lineamientos-de-un-plan-de-accin-cps) del Plan de Acción puede servir como guía para estructurar un Plan de Acción. Consulte [la sección sobre cómo crear un plan de acción](/cree-un-plan-de-accin) para obtener más información sobre planes de acción y ejemplos de mejores prácticas.
 
 {% endtoggle %}
 
@@ -102,7 +102,7 @@ Hay diferentes formas de relacionarse con el mercado a lo largo del proceso de c
 - **Durante la fase de planeación de las contrataciones:** organización de eventos con proveedores para presentar objetivos de sostenibilidad y realización de estudios de mercado para evaluar la disponibilidad de opciones sostenibles.
 - **Durante la contratación:** notificar al mercado la intención de adjudicar un contrato, desarrollar canales para comprometerse con grupos de proveedores prioritarios (p. ej., pymes), proporcionar canales para recibir comentarios y facilitar los consorcios de proveedores.
 
-Para obtener más información, consulte [esta sección](/relacinese-con-el-mercado).
+Para obtener más información, consulte [la sección sobre cómo relacionarse con el mercado](/relacinese-con-el-mercado).
 
 {% endtoggle %}
 
@@ -112,7 +112,7 @@ Global Ecolabelling Network (GEN) [define el ecoetiquetado](https://globalecolab
 
 Las ecoetiquetas Tipo I y Tipo I generalmente publican los criterios que deben cumplirse para recibir la certificación. Para adquirir de manera más sostenible, puede solicitar a los proveedores que cumplan con los criterios establecidos por una etiqueta específica, o utilizar algunos de los criterios para redactar especificaciones en un contrato.
 
-Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte [esta guía](/guas-para-las-ecoetiquetas). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/organisations/) ofrece un directorio de las ecoetiquetas de sus miembros, que se puede filtrar por categoría de productos y servicios.
+Para obtener más información sobre cómo usar ecoetiquetas durante un proceso de contratación, consulte la [guía para las ecoetiquetas](/guas-para-las-ecoetiquetas). Para evaluar la disponibilidad de ecoetiquetas Tipo I, [Global Ecolabel Network](https://globalecolabelling.net/organisations/) ofrece un directorio de las ecoetiquetas de sus miembros, que se puede filtrar por categoría de productos y servicios.
 
 {% endtoggle %}
 
@@ -120,6 +120,6 @@ Para obtener más información sobre cómo usar ecoetiquetas durante un proceso 
 
 Existe una idea errónea común de que adquirir productos y servicios sostenibles siempre significa gastar más dinero. En realidad, aunque las alternativas sostenibles en ocasiones pueden tener un coste de contratación más elevado, si además se tienen en cuenta los costos de operación, mantenimiento y eliminación, pueden convertirse en la alternativa más económica. El costo del ciclo de vida (LCC) calcula estos costes y también puede incluir el cálculo de costes medioambientales, como las emisiones de CO2.
 
-Para obtener más información sobre el coste del ciclo de vida (LCC), consulte [esta sección](/costeo-del-ciclo-de-vida). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
+Para obtener más información, consulte [el ejemplo resuelto sobre el costeo del ciclo de vida (LCC)](/costeo-del-ciclo-de-vida). Para herramientas prácticas, la [Comisión Europea](https://ec.europa.eu/environment/gpp/lcc.htm) ha desarrollado cinco herramientas LCC basadas en Excel para categorías de productos específicas (máquinas expendedoras, equipos de imágenes, computadoras y monitores, iluminación interior y exterior). Las herramientas incluyen información sobre cómo se pueden usar antes de la licitación para evaluar diferentes soluciones, durante la licitación para comparar ofertas y después de la licitación para evaluar el desempeño.
 
 {% endtoggle %}

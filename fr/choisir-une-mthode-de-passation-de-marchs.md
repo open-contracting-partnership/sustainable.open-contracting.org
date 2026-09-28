@@ -33,7 +33,7 @@ Pour mettre en œuvre ce type d’approche, vous devrez :
 
 - Formuler vos besoins sous la forme de résultats (consultez la pour en savoir plus) ;
 - Étudier, après avoir exposé clairement les besoins des bénéficiaires, les possibilités pour lancer un appel d’offres. En ce qui concerne les marchés axés sur les résultats, il peut être utile de concevoir des procédures d’appel d’offres en deux temps (voir la section ci-dessous) ;
-- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [**cette section**](/obligations-contractuelles#continuous-improvement) pour en savoir plus sur la définition de clauses d’amélioration continue).
+- Enfin, vous pouvez définir des résultats à atteindre en matière de durabilité au cours de l’exécution du marché (consultez [la section sur la définition de clauses d’amélioration continue](/obligations-contractuelles#continuous-improvement) pour en savoir plus).
 
 {% endtoggle %}
 

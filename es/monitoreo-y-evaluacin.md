@@ -8,7 +8,7 @@ sidebar: true
 ---
 # Identifique sus metas de sostenibilidad y progreso de seguimiento
 
-En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). [Este marco](/monitoreo-y-evaluacin/ejemplo-de-marco-me) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
+En esta sección explicamos cómo se fijan las metas de sostenibilidad para su organización, y cómo hacer monitoreo de las mismas utilizando ciertos indicadores dentro de un marco muestra de monitoreo y evaluación (M&E). [El marco muestra de M&E](/monitoreo-y-evaluacin/ejemplo-de-marco-me) incluye unos indicadores de monitoreo de muestra, con el fin de facilitar procesos de informe y medición de progreso con las metas de sostenibilidad fijadas.
 
 {% callout green /assets/images/icons_D_Green8.svg %}
 Es importante recordar que no todo lo que este marco muestra será relevante para cualquier proyecto de CPS Abierta; como consecuencia, **usted deberá decidir cuáles de las metas, resultados e indicadores serán los más pertinentes para su contexto**. Ofrecemos una [plantilla editable del marco muestra](https://docs.google.com/spreadsheets/d/1EYTXOPDvu0iav3i7p1pQvV4MIRaKBdI8cV-OWtaRhhM/edit#gid=1734585629) en la sección de recursos descargables.

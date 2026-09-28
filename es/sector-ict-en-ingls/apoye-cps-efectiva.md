@@ -45,7 +45,7 @@ Engaging with the market is essential to evaluate its capability to meet the sus
 
 Market engagement can help to define what current practices are regarding this area, for example, supply chain activities are currently being carried out by more than 50% of the potential suppliers, this can be set as a technical specification or award criteria.
 
-However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See [this section](/relacinese-con-el-mercado) for more information about different market engagement methods.
+However, if this is not the case, then it can be set as a contract clause as a commitment by the supplier to improve supply chain management. See [the section on engaging with the market](/relacinese-con-el-mercado) for more information about different market engagement methods.
 
 {% endtoggle %}
 
@@ -67,6 +67,6 @@ Standard terms that commit the supplier to providing continuous improvement of s
 
 Continuous improvement clauses can also relate to supply chain management activities. This can include, for example, setting out which activities the supplier should carry out during the duration of the contract to ensure freedom of association, such as specific training or auditing activities.
 
-See [this section](/elabore-obligaciones-del-contrato#continuous-improvement) for more information on continuous improvement clauses.
+See [the section on continuous improvement clauses](/elabore-obligaciones-del-contrato#continuous-improvement) for more information.
 
 {% endtoggle %}

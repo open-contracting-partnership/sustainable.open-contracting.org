@@ -98,7 +98,7 @@ Les programmes de certification peuvent faciliter la mise en place de marchés p
 La mise en place de marchés publics plus durables suppose de connaître les normes que des produits, services ou travaux doivent respecter pour être considérés comme durables. Cela guidera [les exigences que vous établirez](/des-critres-de-durabilit) pour comparer des offres durant le processus de passation de marchés. Les normes de durabilité existantes peuvent faciliter ce processus en faisant office de référence durant l’élaboration de vos exigences.
 
 - **Certifications environnementales, ou « éco-étiquettes », existantes.**
-  Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez [ce guide](/guide-des-co-tiquettes) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
+  Elles peuvent vous aider à repérer les produits préférables pour l’environnement au sein d’une catégorie de produits. Par exemple, dans les technologies de l’information et des communications, il existe des éco-étiquettes bien établies qui facilitent la mise en place de marchés publics durables concernant cette catégorie. Consultez le [guide des éco-étiquettes](/guide-des-co-tiquettes) pour en savoir plus sur les éco-étiquettes et leur utilisation dans la mise en place de marchés publics durables.
 - **Critères élaborés par d’autres pays.**
   Pour donner un exemple, de nombreux pays en Europe ont défini comme prioritaires des catégories de marchés incluses dans les [orientations de la Commission européenne sur les critères applicables aux marchés publics écologiques](https://ec.europa.eu/environment/gpp/eu_gpp_criteria_en.htm). Ces orientations présentent des critères spécifiques que vous pouvez intégrer aux exigences essentielles, ou critères d’attribution, avant d’acquérir, par exemple, des produits et services de nettoyage préférables pour l’environnement. Ces informations facilitent le travail des fonctionnaires responsables de la passation de marchés. Toutefois, n’oubliez pas d’analyser votre [environnement habilitant](/mise-en-place) pour connaître les possibilités quant à l’utilisation de ces normes lors de l’évaluation des offres.
 
@@ -121,7 +121,7 @@ Vous devrez également recenser les initiatives axées sur la durabilité à l�
 {% endtoggle %}
 
 {% callout green /assets/images/Pin_green.svg %}
-*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter [cette section](/interagir-avec-le-march)*.
+*Il existe différentes façons de collecter des informations sur le marché pour évaluer sa capacité à respecter les normes de durabilité en vigueur. Ces méthodes sont similaires à celles qui seront mises en œuvre pour interagir avec le marché durant les processus de passation de marchés. Pour en savoir plus, veuillez consulter [la section sur l’interaction avec les acteurs du marché](/interagir-avec-le-march)*.
 {% endcallout %}
 
 ### Évaluer les possibilités pour s’appuyer sur les efforts déployés en faveur de politiques de durabilité

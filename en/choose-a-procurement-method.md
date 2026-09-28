@@ -37,7 +37,7 @@ To apply and outcome-based procurement approach, you need to:
 
 - Frame your **needs in terms of outcomes** (see [section on needs assessment](/assess-needs) for more information on this).
 - Once you have a clear statement of user needs, you can consider different ways to run a tender. For outcome-based procurement it can be useful to implement **two stage tender processes** (see section below).
-- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on setting **continuous improvement clauses** [on this section](/prepare-contract-obligations#continuous-improvement)).
+- Finally, you can consider establishing sustainability outcome targets throughout the duration of the contract (see more information on [setting **continuous improvement clauses**](/prepare-contract-obligations#continuous-improvement)).
 
 {% endtoggle %}
 

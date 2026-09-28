@@ -27,8 +27,7 @@ Cette caractéristique désigne le niveau de détail employé pour décrire les 
 
 {% toggle **Contrôle :** assurer que le respect des exigences est vérifiable %}
 
-Une clause contractuelle efficace doit également présenter les exigences de durabilité comme des « obligations qui feront l’objet d’un contrôle » afin d’ouvrir clairement la voie à des activités visant à vérifier le respect des exigences établies. Les modalités de contrôle doivent être définies avec le fournisseur et peuvent être intégrées à une annexe du contrat. Il est nécessaire de réfléchir à certains facteurs tels que la fréquence des activités de contrôle, qu’elles soient mises en œuvre par le fournisseur ou par un tiers, et la partie qui couvrira le coût. Consultez [cette section](/suivi-de-lexcution)
- pour en savoir plus sur les possibilités de contrôle et de suivi.
+Une clause contractuelle efficace doit également présenter les exigences de durabilité comme des « obligations qui feront l’objet d’un contrôle » afin d’ouvrir clairement la voie à des activités visant à vérifier le respect des exigences établies. Les modalités de contrôle doivent être définies avec le fournisseur et peuvent être intégrées à une annexe du contrat. Il est nécessaire de réfléchir à certains facteurs tels que la fréquence des activités de contrôle, qu’elles soient mises en œuvre par le fournisseur ou par un tiers, et la partie qui couvrira le coût. Consultez [la section sur le suivi de l’exécution](/suivi-de-lexcution) pour en savoir plus sur les possibilités de contrôle et de suivi.
 
 {% endtoggle %}
 
@@ -66,7 +65,7 @@ Les clauses de durabilité sont souvent perçues comme distinctes des exigences 
 
 ## Se doter de normes d’amélioration continue claires {#continuous-improvement}
 
-Comme présenté dans la [section précédente](/des-critres-de-durabilit), le choix des critères de durabilité qui doivent être intégrés aux marchés publics dépend de plusieurs facteurs, notamment des capacités du marché. Toutefois, les capacités du marché peuvent évoluer durant l’exécution d’un marché. Afin d’assurer que les fournisseurs retenus continuent d’améliorer leur performance du point de vue des normes de durabilité, vous pouvez intégrer des normes d’amélioration continue aux clauses contractuelles. Par exemple, il est possible de définir des objectifs de réduction progressive des émissions de CO2 au fil de l’exécution du marché ou des normes de réduction progressive de la consommation de combustibles.
+Comme présenté dans la section précédente, sur [la définition des critères de durabilité](/des-critres-de-durabilit), le choix des critères de durabilité qui doivent être intégrés aux marchés publics dépend de plusieurs facteurs, notamment des capacités du marché. Toutefois, les capacités du marché peuvent évoluer durant l’exécution d’un marché. Afin d’assurer que les fournisseurs retenus continuent d’améliorer leur performance du point de vue des normes de durabilité, vous pouvez intégrer des normes d’amélioration continue aux clauses contractuelles. Par exemple, il est possible de définir des objectifs de réduction progressive des émissions de CO2 au fil de l’exécution du marché ou des normes de réduction progressive de la consommation de combustibles.
 
 L’ajout de ces clauses peut être déterminant pour assurer la bonne qualité de prestation et un bon rapport qualité-prix tout au long du cycle de vie d’un marché. Il peut être utile de définir l’amélioration continue comme une condition pour la reconduction d’un contrat ou le renouvellement de l’achat. Enfin, vous pouvez étudier la possibilité de prévoir des incitations financières supplémentaires pour récompenser ce comportement.
 

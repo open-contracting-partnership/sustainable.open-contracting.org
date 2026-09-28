@@ -48,7 +48,7 @@ Les éco-étiquettes peuvent être utilisées à différentes étapes et de diff
 
 {% toggle **Utiliser les normes d’éco-étiquettes pour guider l’élaboration des exigences environnementales** %}
 
-La plupart des éco-étiquettes de type I ou apparentées au type I publient de façon ouverte les normes environnementales qu’un produit doit respecter pour être certifié. Vous pouvez vous inspirer de ces normes pour élaborer des exigences environnementales avant d’acquérir certains types de produits. Par exemple, si vous achetez de nouveaux dispositifs d’affichage, vous pouvez utiliser [les normes publiées par l’éco-étiquette TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) pour élaborer les spécifications du produit ou les critères d’attribution du marché. Consultez [cette section](/des-critres-de-durabilit) du guide pratique pour en savoir plus sur la définition des critères de durabilité.
+La plupart des éco-étiquettes de type I ou apparentées au type I publient de façon ouverte les normes environnementales qu’un produit doit respecter pour être certifié. Vous pouvez vous inspirer de ces normes pour élaborer des exigences environnementales avant d’acquérir certains types de produits. Par exemple, si vous achetez de nouveaux dispositifs d’affichage, vous pouvez utiliser [les normes publiées par l’éco-étiquette TCO](https://tcocertified.com/files/certification/tco-certified-generation-9-for-displays-edition-3.pdf) pour élaborer les spécifications du produit ou les critères d’attribution du marché. Consultez [la section sur la définition des critères de durabilité](/des-critres-de-durabilit) pour en savoir plus.
 
 {% endtoggle %}
 
@@ -60,7 +60,7 @@ Lorsque vous utilisez des éco-étiquettes de type I ou apparentées ou type I d
 
 {% toggle **Définir les catégories de marchés prioritaires en s’appuyant sur les éco-étiquettes existantes** %}
 
-En ce qui concerne la mise en place de marchés publics durables, il peut être utile de concentrer vos efforts sur certaines catégories de marchés. Les éco-étiquettes existantes peuvent être des facteurs importants en vue du choix des catégories prioritaires. Vous pouvez également prendre en compte les produits certifiés présents sur le marché local afin que la mise en place de marchés publics durables profitent aux entreprises locales. Consultez [cette section](/priorits) pour en savoir plus.
+En ce qui concerne la mise en place de marchés publics durables, il peut être utile de concentrer vos efforts sur certaines catégories de marchés. Les éco-étiquettes existantes peuvent être des facteurs importants en vue du choix des catégories prioritaires. Vous pouvez également prendre en compte les produits certifiés présents sur le marché local afin que la mise en place de marchés publics durables profitent aux entreprises locales. Consultez [la section sur la définition des priorités](/priorits) pour en savoir plus.
 
 {% endtoggle %}
 
