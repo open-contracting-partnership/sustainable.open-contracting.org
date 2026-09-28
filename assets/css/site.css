@@ -627,6 +627,11 @@ img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   margin-top: 3rem;
 }
 
+/* As much space after the links as before them, instead of Super.so's 30% of the screen's height. */
+.notion-root {
+  padding-bottom: 3rem;
+}
+
 .pager__link {
   display: flex;
   flex-direction: column;
