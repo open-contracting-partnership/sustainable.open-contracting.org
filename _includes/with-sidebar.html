@@ -1,7 +1,7 @@
-{%- comment -%} The sidebar and the page's content, in columns. The sidebar is site.sidebar_width pixels wide, or a quarter of the width if that's less. On phones, the sidebar is a menu, opened by its summary. {%- endcomment -%}
-<div class="notion-column-list" style="--sidebar-width:min({{ site.sidebar_width }}px, (100% - var(--column-spacing)) / 4)">
-<div class="notion-column" style="width:var(--sidebar-width)" data-pagefind-ignore="all">{% include sidebar-menu.html %}</div>
-<div class="notion-column" style="width:calc(100% - var(--column-spacing) - var(--sidebar-width));margin-inline-start:var(--column-spacing)">
+{%- comment -%} The sidebar and the page's content, in columns. The sidebar is as wide as its links, but at least site.sidebar_width pixels, or a quarter of the width if that's less (see site.css). On phones, the sidebar is a menu, opened by its summary. {%- endcomment -%}
+<div class="notion-column-list" style="--sidebar-min-width:min({{ site.sidebar_width }}px, (100% - var(--column-spacing)) / 4)">
+<div class="notion-column sidebar-column" data-pagefind-ignore="all">{% include sidebar-menu.html %}</div>
+<div class="notion-column content-column">
 {{ include.content }}
 {% include pager.html %}
 </div>

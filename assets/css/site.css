@@ -88,6 +88,20 @@
   .sidebar-menu::details-content {
     content-visibility: visible;
   }
+
+  /* The sidebar is as wide as its links, so that their titles aren't cut off, if the content keeps the text's width. */
+  .sidebar-column {
+    flex: none;
+    width: max-content;
+    min-width: var(--sidebar-min-width);
+    max-width: max(var(--sidebar-min-width), 100% - var(--column-spacing) - 708px);
+  }
+
+  .content-column {
+    flex: 1 1 0;
+    min-width: 0;
+    margin-inline-start: var(--column-spacing);
+  }
 }
 
 @media (max-width: 680px) {
