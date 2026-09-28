@@ -15,6 +15,11 @@
   height: 140px;
 }
 
+/* The title shrinks on phones, so that its longest word ("Relacionamiento", 8.9 times the font size) fits the width. */
+.notion-header__title {
+  --title-size: min(2.5rem, calc((100vw - 48px) / 9));
+}
+
 /* Text is at most 708px wide, about 75 characters per line, as on a page that isn't full width, and so are images,
    unless "wide". Code blocks are as wide as the text, or their longest line, and tables as their content, up to the
    column's width, which galleries and columns use. The doubled class outweighs Super.so's max-width for paragraphs
@@ -451,6 +456,11 @@ ol.notion-breadcrumb {
 
 .notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)) {
   padding-block-end: 0;
+}
+
+/* A paragraph in a list item or callout is aligned with the item's text or the callout's label, which aren't padded. */
+:is(.notion-list-item, .notion-callout__content) > .notion-text__content {
+  padding-inline: 0;
 }
 
 .notion-list-item:has(> :is(.notion-text__content, .notion-bulleted-list, .notion-numbered-list)):not(:last-child) {
