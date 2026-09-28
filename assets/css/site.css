@@ -477,6 +477,19 @@ ol.notion-breadcrumb {
   flex-shrink: 0;
 }
 
+/* A page link's title wraps in the content, instead of being cut off on phones. */
+a.notion-page:not(.notion-sidebar a) .notion-page__title {
+  white-space: normal;
+}
+
+/* A linked card without a cover is underlined like a page link, to look like a link. */
+.notion-collection-card.gallery:not(.no-click):not(:has(.notion-collection-card__cover)) .notion-property__title {
+  text-decoration: underline;
+  text-decoration-color: var(--color-border-dark);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
 /* Super.so clips lazy images by 0.6px in Safari, to hide a white edge on photos, which flattens icons' edges. */
 img:is(.notion-icon, .notion-header__icon)[loading="lazy"] {
   clip-path: none;
