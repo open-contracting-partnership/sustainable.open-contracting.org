@@ -1,7 +1,7 @@
 ---
 permalink: /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-evale-su-entorno-habilitante
 title: Lista de chequeo rápido – Evalúe su entorno habilitante
-description: Quick checklist
+description: "The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment."
 cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "36283b89140341bc9c1dd5f107ac399d"
@@ -10,8 +10,6 @@ sidebar: true
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit](/).
 {% endcallout %}
-
-### Quick checklist
 
 **First, check the regulation regarding evaluation or award criteria** (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):
 

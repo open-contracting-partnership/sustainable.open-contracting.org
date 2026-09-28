@@ -1,7 +1,7 @@
 ---
 permalink: /establezca-un-entorno-habilitante/lista-de-chequeo-rpido-comparte-su-sendero-hacia-el-cumplimiento
 title: Lista de chequeo rápido-comparte su sendero hacia el cumplimiento
-description: "\nCompliance Trail Checklist"
+description: "The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis."
 cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "695b43b0af194afdadb67de1c5d9d6c8"
@@ -10,8 +10,6 @@ sidebar: true
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist has been created for national authorities to easily identify which documents they might need to refer to when communicating the enabling environment in their SPP Action Plan, and for procurement practitioners to identify, and refer to, these documents when communicating compliance on a contract-by-contract basis. For more information on the concepts introduced in this checklist, see section [Establish an enabling environment](/establezca-un-entorno-habilitante) in the [Open SPP toolkit](/).
 {% endcallout %}
-
-### Compliance Trail Checklist
 
 - [ ] Regulation where relevant guiding principles are mentioned (VfM, economy, effectiveness).
 - [ ] Procurement policy documents that have been used to interpret relevant guiding principles.

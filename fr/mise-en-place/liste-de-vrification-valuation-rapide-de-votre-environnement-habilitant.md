@@ -1,7 +1,7 @@
 ---
 permalink: /mise-en-place/liste-de-vrification-valuation-rapide-de-votre-environnement-habilitant
 title: "Liste de vérification : évaluation rapide de votre environnement habilitant"
-description: Quick checklist
+description: "The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment."
 cover: false
 icon: /assets/images/Tick_green_2.svg
 notion_id: "82ab2c0d665843889603a16ba5b7c0e1"
@@ -10,8 +10,6 @@ sidebar: true
 {% callout green /assets/images/Pin_green.svg %}
 The following checklist is designed to help you assess the different ways in which you can implement SPP depending on the existing regulatory environment. For more information on the process outlined, and the concepts introduced, see section [Establish an enabling environment](/mise-en-place) in the [Open SPP toolkit](/).
 {% endcallout %}
-
-### Quick checklist
 
 **First, check the regulation regarding evaluation or award criteria** (this will be set in the national framework, or by a multilateral organisation, such as a development bank, if it is a funded project):
 
