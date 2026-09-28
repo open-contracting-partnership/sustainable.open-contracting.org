@@ -70,19 +70,19 @@ Existe una serie de opciones diferentes disponibles para aquellos que buscan vin
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado cuatro que pueden ser especialmente útiles para medir la reducción de carbono:
 
-### Solicite sugerencias sostenibles (Opción 5)
+### Solicite sugerencias de sostenibilidad (Opción 5)
 
 Anime a los proveedores a que describan cómo reducirán las emisiones de carbono asociadas a su contrato.
 
-### Prevea el impacto del contrato (Opción 4)
+### Previsión del impacto del contrato (Opción 4)
 
 Estimar los valores de carbono para los contratos es una buena manera de proyectar las emisiones acumulativas y el posible efecto de cambiar las estrategias de adquisición. Puede ayudar a los compradores a centrar sus esfuerzos en las categorías con mayor impacto. Esto también puede ayudar a los compradores a establecer “presupuestos” de carbono, asegurando que los proveedores deben cumplir con una cantidad específica de emisiones durante el contrato. Los datos se pueden utilizar para informar a los proveedores sobre este requisito, pero también para realizar un análisis acumulativo de las iniciativas de contratación en todo el gobierno. Este enfoque se utiliza mejor en una sola categoría bien medida, como la energía.
 
-### Monitoree el desempeño del contrato (Opción 7)
+### Supervise la ejecución del contrato (Opción 7)
 
 Los compradores públicos pueden proporcionar información sobre las emisiones de carbono durante o al finalizar un contrato. Varias industrias, como la de viajes y la de la construcción, tienen medidas estandarizadas para sus emisiones y estas pueden incluirse en cualquier actualización de desempeño del contrato. Dado que se está trabajando para crear un [tratado vinculante](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sobre desechos plásticos, estos enfoques también se pueden tomar para medir el uso de plástico, especialmente en sectores que están sesgados hacia un uso intensivo, como la construcción y los medicamentos/equipos médicos.
 
-### Mida el uso de certificaciones (Opción 6)
+### Mida el uso de las certificaciones (Opción 6)
 
 Usted podrá utilizar certificaciones como las Declaraciones Ambientales de Producto (EPD) para recopilar información sobre las emisiones de carbono asociadas con un producto. También puede solicitar el uso de otras certificaciones ambientales (por ejemplo, ecoetiquetas tipo I) y evaluar su impacto contrastando datos de previsión y ejecución de contratos.
 

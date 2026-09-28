@@ -56,7 +56,7 @@ Los datos de género suelen ser más limitados que otros tipos de datos de CPS; 
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado tres que pueden ser especialmente útiles para medir la igualdad de género:
 
-### Registre los datos del proveedor en la presentación de la oferta (Opción 8)
+### Registre los datos del proveedor en el momento de la presentación de la oferta (Opción 8)
 
 OCDS [recomienda](https://standard.open-contracting.org/latest/es/guidance/map/organization_classifications/) publicar la información sobre si una organización está dirigida por mujeres con la [extensión de clasificación de organizaciones](https://extensions.open-contracting.org/en/extensions/organizationClassification/1.1/). Este enfoque alienta a los editores a documentar la definición de lo que significa ser una empresa dirigida por mujeres.
 

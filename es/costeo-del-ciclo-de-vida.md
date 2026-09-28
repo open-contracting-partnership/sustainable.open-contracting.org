@@ -82,11 +82,11 @@ Haga clic en las siguientes secciones para obtener más información sobre el pr
 
 Al comienzo de esta sección, presentamos diez formas diferentes en las que puede utilizar los datos para impulsar y medir la sostenibilidad en sus adquisiciones. De estas opciones, hemos seleccionado cuatro que pueden ser especialmente útiles para los enfoques de costeo del ciclo de vida:
 
-### Proyección del impacto del contrato (Opción 4)
+### Previsión del impacto del contrato (Opción 4)
 
 En su forma más simple, se puede derivar un costeo del ciclo de vida a partir de datos históricos sobre contratos asociados con un activo y usar esto para formar una estimación del costo del ciclo de vida. Por ejemplo, el costo del ciclo de vida de un servidor de computadora también debe incluir la electricidad y el tiempo del personal para mantenerlo. El uso de la información sobre los contratos puede ser suficiente para establecer un punto de referencia para un análisis posterior.
 
-### Monitorear el desempeño del contrato (Opción 7)
+### Supervise la ejecución del contrato (Opción 7)
 
 Cuando se establece el costeo del ciclo de vida como método para determinar el valor de un contrato CPS, la combinación de datos de cuentas por pagar con datos de contratación es la forma más precisa de controlar los costes a lo largo del contrato. Al vincular los pagos reales, o una parte de los pagos, a un activo, es posible derivar los costos detallados de un activo. Una forma de hacerlo es etiquetando los datos de pago con un código de contabilidad específico que vincule los gastos a un activo o activos.
 

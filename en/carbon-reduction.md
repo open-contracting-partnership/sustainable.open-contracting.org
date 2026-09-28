@@ -66,7 +66,7 @@ There are a number of different options available to those looking to link procu
 
 At the beginning of this section, we introduced [ten different ways](/options-for-data-use) in which you can use data to drive and measure sustainability in your procurement. From these options, we have selected four which can be especially useful for measuring carbon reduction:
 
-### Request sustainable suggestions (Option 5)
+### Request sustainability suggestions (Option 5)
 
 Encouraging suppliers to detail how they will reduce the carbon emissions associated with their contract.
 
