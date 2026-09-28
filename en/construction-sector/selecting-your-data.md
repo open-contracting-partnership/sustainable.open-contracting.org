@@ -4,8 +4,6 @@ title: Selecting your data
 description: "Material use "
 icon: /assets/images/Icons_Grey6.svg
 notion_id: "98c412788073444e8210c12f66aaa69c"
-properties:
-  Created: "Feb 9, 2023 7:39 PM"
 sidebar: true
 ---
 {% callout gray /assets/images/Icons_Grey3.svg %}
