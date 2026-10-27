@@ -123,7 +123,7 @@ The needs statement should be openly shared with the relevant stakeholders, and 
 
 {% callout gray /assets/images/Notion-others2.svg label: Case study %}
 
-Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
+Public Health Wales (PHW) is the national public health agency in Wales. In 2013, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. In 2016, PHW [released a tender for the design of office space and supply of furniture](https://procuraplus.org/fileadmin/user_upload/Procuraplus_case_study_Public_Health_Wales.pdf).
 
 **PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
 

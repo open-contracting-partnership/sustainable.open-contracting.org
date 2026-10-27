@@ -1,14 +1,14 @@
 ---
 permalink: /base-de-donnes-dtudes-de-cas/promoting-circularity-through-furniture-procurement-in-wales
 title: Promoting circularity through furniture procurement in Wales
-description: "Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.  \nPHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization. The winning bid came from a consortium of a sustainable office design service, and a community interest company. In the end, out of the 2.563 items used in the new office 45% of items were reused, 49% were remanufactured, and only 6% of items were sourced from new stock.  \nIn total, it is estimated that by reusing available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2."
+description: "Public Health Wales (PHW) is the national public health agency in Wales. In 2013, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. In 2016, PHW released a tender for the design of office space and supply of furniture.  \nPHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization. The winning bid came from a consortium of a sustainable office design service, and a community interest company. In the end, out of the 2.563 items used in the new office 45% of items were reused, 49% were remanufactured, and only 6% of items were sourced from new stock.  \nIn total, it is estimated that by reusing available resources, 41 tonnes of waste were diverted from landfill, and the project saved around 134 tonnes of CO2."
 image: /assets/images/Europe_-_Wales.jpg
 icon: /assets/images/Notion-others2.svg
 notion_id: "83f73ea3ad99417e8b36da7a164f9bab"
 sidebar: true
 ---
 {% callout gray /assets/images/Notion-others2.svg %}
-Public Health Wales (PHW) is the national public health agency in Wales. In 2016, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. To do this, PHW released a tender for the design of office space and supply of furniture.
+Public Health Wales (PHW) is the national public health agency in Wales. In 2013, they decided to relocate nine smaller satellite offices into one new, large 4,700 m2 open plan office in central Cardiff. In 2016, PHW [released a tender for the design of office space and supply of furniture](https://procuraplus.org/fileadmin/user_upload/Procuraplus_case_study_Public_Health_Wales.pdf).
 
 **PHW decided to include a series of sustainability requirements as part of the tender, and included an inventory of all furniture which was owned by the organization.** The winning bid came from a consortium of a sustainable office design service, and a community interest company.
 

@@ -20,3 +20,7 @@ In 2005 Green Public Procurement (GPP) started to be actively promoted in the Go
 
 Each procuring agency can check whether procuring products satisfy the Green Cart criteria. **These criteria are usually set as essential requirements, and award decisions are mainly based on the lowest cost.**
 {% endcallout %}
+
+### Sources
+
+- [Comparative Analysis of Green Public Procurement and Ecolabelling Programmes in China, Japan, Thailand and the Republic of Korea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y), UNEP

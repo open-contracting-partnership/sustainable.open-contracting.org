@@ -122,7 +122,7 @@ La declaración de necesidades debe compartirse abiertamente con las partes inte
 
 {% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
-Public Health Wales (PHW) – (*Salud Pública de Gales)* es la agencia nacional de salud pública de Gales. En 2016, decidieron trasladar nueve oficinas satélite más pequeñas a una nueva oficina grande de planta abierta de 4700 m2 en el centro de Cardiff. Para ello, PHW lanzó una licitación para el diseño de espacios de oficinas y suministro de mobiliario.
+Public Health Wales (PHW) – (*Salud Pública de Gales)* es la agencia nacional de salud pública de Gales. En 2013, decidieron trasladar nueve oficinas satélite más pequeñas a una nueva oficina grande de planta abierta de 4700 m2 en el centro de Cardiff. En 2016, PHW [lanzó una licitación para el diseño de espacios de oficinas y suministro de mobiliario](https://procuraplus.org/fileadmin/user_upload/Procuraplus_case_study_Public_Health_Wales.pdf) (en inglés).
 
 **PHW decidió incluir una serie de requisitos de sostenibilidad como parte de la licitación e incluyó un inventario de todos los muebles que eran propiedad de la organización.** La oferta ganadora provino de un consorcio de un servicio de diseño de oficinas sostenibles y una empresa de interés comunitario.
 

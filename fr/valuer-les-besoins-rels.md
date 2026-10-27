@@ -124,7 +124,7 @@ L’exposé des besoins doit être diffusé de façon ouverte avec les parties p
 
 {% callout gray /assets/images/Notion-others2.svg label: Étude de cas %}
 
-Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2016, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. Pour cela, PHW a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers.
+Public Health Wales (PHW) est l’agence nationale de santé publique du Pays de Galles. En 2013, PHW a décidé de relocaliser neuf petits bureaux annexes dans un nouveau vaste bureau de planification ouverte de 4 700 m2 dans le centre de Cardiff. En 2016, PHW [a lancé un appel d’offres pour la conception de l’espace de travail et la fourniture de mobiliers](https://procuraplus.org/fileadmin/user_upload/Procuraplus_case_study_Public_Health_Wales.pdf) (en anglais).
 
 PHW a décidé d’intégrer des exigences de durabilité à l’appel d’offres et un inventaire complet du mobilier de l’entité. L’offre sélectionnée est celle d’un consortium regroupant un service de conception durable de bureaux et une société d’intérêt communautaire.
 
