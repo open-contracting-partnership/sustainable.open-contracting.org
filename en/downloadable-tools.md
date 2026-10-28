@@ -17,7 +17,7 @@ Throughout the toolkit, we have referenced different practical tools that you ca
 
 ## When prioritizing procurement categories
 
-- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/20.500.11822/35412)
 
 ## When setting a system for monitoring and evaluation
 

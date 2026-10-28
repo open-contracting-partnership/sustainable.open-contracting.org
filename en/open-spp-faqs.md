@@ -14,7 +14,7 @@ In this section, we include **key questions that may arise when considering the 
 
 {% toggle **What is Sustainable Public Procurement (SPP)?** %}
 
-Sustainable Public Procurement is [defined by UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) as “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
+Sustainable Public Procurement is [defined by UNEP](https://wedocs.unep.org/20.500.11822/37045) as “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
 
 In other words, SPP is the consideration of the three sustainable development pillars (economic, social, and environmental) when carrying out public procurement. This can include, for example, designing the procurement process to promote local companies (economic), ensuring that suppliers monitor labor rights compliance across their supply chain (social), or purchasing products made of recycled materials (environmental). For an overview of more factors that can be considered within each of these pillars, see [What is Open SPP?](/what-is-open-spp).
 
@@ -48,7 +48,7 @@ When starting to implement SPP, prioritizing specific product categories can hel
 - Factors that will help you to determine the **sustainability impact** of implementing SPP in a specific category (such as attributed CO2 emissions).
 - Factors which will help you to assess **ease of implementation** (such as availability of environmental labels).
 
-For more information on these factors, see [the section on prioritizing procurement categories](/prioritize). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf). This [case study](/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
+For more information on these factors, see [the section on prioritizing procurement categories](/prioritize). For an example, see [Vietnam’s application](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) of [UNEP’s Prioritization Exercise](https://wedocs.unep.org/20.500.11822/35412). This [case study](/prioritizing-procurement-categories-in-vietnam) demonstrates how a simple measuring technique can be used to assess product categories according to their procurement value; the availability and cost of sustainable alternatives; and their environmental, economic and social impact, to prioritize product categories.
 
 {% endtoggle %}
 

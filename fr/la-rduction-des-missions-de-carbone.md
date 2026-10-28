@@ -80,7 +80,7 @@ Encouragez les fournisseurs à préciser ce qu’ils comptent faire pour réduir
 
 ### Suivre l’exécution des marchés (Possibilité 7)
 
-Les acheteurs publics peuvent fournir des informations concernant les émissions de carbone durant ou après l’exécution du marché. Un certain nombre de secteurs, tels que le voyage et la construction, possèdent des indicateurs normalisés concernant les émissions pouvant être intégrés à tout rapport relatif à l’exécution. Étant donné qu’un [traité contraignant](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) sur les déchets plastiques est en cours d’élaboration, ces approches peuvent également être reprises pour évaluer l’utilisation de plastique, en particulier dans les secteurs tendant vers une utilisation accrue, comme la construction, les médicaments ou les équipements médicaux.
+Les acheteurs publics peuvent fournir des informations concernant les émissions de carbone durant ou après l’exécution du marché. Un certain nombre de secteurs, tels que le voyage et la construction, possèdent des indicateurs normalisés concernant les émissions pouvant être intégrés à tout rapport relatif à l’exécution. Étant donné qu’un [traité contraignant](https://wedocs.unep.org/20.500.11822/38525) sur les déchets plastiques est en cours d’élaboration, ces approches peuvent également être reprises pour évaluer l’utilisation de plastique, en particulier dans les secteurs tendant vers une utilisation accrue, comme la construction, les médicaments ou les équipements médicaux.
 
 ### Évaluer l’emploi des certifications (Possibilité 6)
 

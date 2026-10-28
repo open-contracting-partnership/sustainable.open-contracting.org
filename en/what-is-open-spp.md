@@ -17,7 +17,7 @@ Sustainable Public Procurement (SPP) relates to how organizations buy goods and 
 {% callout blue /assets/images/Icons_Blue_Intro6.svg %}
 For a deeper breakdown of both SPP and and open contracting (both open government and open data), please look at the following resources:
 
-- The most common definition of **Sustainable Public Procurement** comes from [UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf): “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
+- The most common definition of **Sustainable Public Procurement** comes from [UNEP](https://wedocs.unep.org/20.500.11822/37045): “a process whereby public sector organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst minimizing, and if possible, avoiding, damage to the environment.”
 - You can see [the Open Contracting Partnership’s approach to open contracting](https://www.open-contracting.org/implement/) and [how it helps reforms scale and stick](https://www.open-contracting.org/impact/).
 {% endcallout %}
 

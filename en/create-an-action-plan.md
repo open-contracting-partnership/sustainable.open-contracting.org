@@ -149,5 +149,5 @@ Remember, the **ultimate goal is for sustainable procurement practices to be mai
 
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 - [UNEP. 2021. Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)
-- [UNEP. Terms of Reference for the SPP Policy and Action Plan Expert.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf)
+- [UNEP. Terms of Reference for the SPP Policy and Action Plan Expert.](https://wedocs.unep.org/20.500.11822/35410)
 {% endcallout %}

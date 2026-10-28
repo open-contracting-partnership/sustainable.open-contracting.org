@@ -157,7 +157,7 @@ La portée et la complexité des critères environnementaux recommandés pour le
 
 - [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 - [PNUE, *Sustainable Public Procurement How to “Wake the Sleeping Giant”: Introducing the United Nations Environment Programme’s Approach*, 2021.](https://www.unep.org/resources/publication/second-edition-uneps-sustainable-public-procurement-guidelines)
-- [PNUE, *Terms of Reference for the SPP Policy and Action Plan Expert*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf)
+- [PNUE, *Terms of Reference for the SPP Policy and Action Plan Expert*.](https://wedocs.unep.org/20.500.11822/35410)
 {% endcallout %}
 
 Dans la première partie de ce guide pratique, [Planification](/planification), nous avons passé en revue plusieurs approches essentielles que vous pouvez adopter pour mettre en place des marchés publics durables et ouverts. Nous avons montré comment analyser votre environnement habilitant, définir des catégories de marchés prioritaires, définir efficacement les objectifs spécifiques des marchés publics durables pour suivre les progrès dans ce domaine, et renforcer les capacités et créer des conditions propices à la mise en place de marchés publics durables.

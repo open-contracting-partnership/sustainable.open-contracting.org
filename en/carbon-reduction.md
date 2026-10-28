@@ -76,7 +76,7 @@ Encouraging suppliers to detail how they will reduce the carbon emissions associ
 
 ### Monitor contract performance (Option 7)
 
-Public buyers can provide information on carbon emissions during, or at the conclusion of a contract. A number of industries such as travel and construction have standardized measures for their emissions and these can be included in any contract performance update. As work is underway to create a [binding treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38525/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) on plastic waste, these approaches can also be taken to measure use of plastic, specially in sectors that are skewed towards heavy usage such as construction and medicines/medical equipment.
+Public buyers can provide information on carbon emissions during, or at the conclusion of a contract. A number of industries such as travel and construction have standardized measures for their emissions and these can be included in any contract performance update. As work is underway to create a [binding treaty](https://wedocs.unep.org/20.500.11822/38525) on plastic waste, these approaches can also be taken to measure use of plastic, specially in sectors that are skewed towards heavy usage such as construction and medicines/medical equipment.
 
 ### Measure use of certifications (Option 6)
 

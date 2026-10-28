@@ -119,7 +119,7 @@ items:
   SPP focus: [Environmental]
   Pages: 75
 - title: 'Sustainable Public Procurement: How to “Wake the Sleeping Giant”! Introducing the United Nations Environment Programme’s Approach'
-  link: https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf
+  link: https://wedocs.unep.org/20.500.11822/37045
   Type of guidance: [Overall Implementation]
   Geographic area: [Europa, América Latina y el Caribe, Asia, Africa, América del Norte]
   Organization: United Nations Environment Programme (UNEP)
@@ -200,7 +200,7 @@ items:
   SPP focus: [Environmental]
   Pages: 56
 - title: Terms of Reference for the SPP Policy and Action Plan Expert (UNEP)
-  link: https://wedocs.unep.org/bitstream/handle/20.500.11822/35410/TRSPP.pdf
+  link: https://wedocs.unep.org/20.500.11822/35410
   Type of guidance: [SPP Action Plan]
   Geographic area: [Europa, Asia, Africa, América del Norte, América Latina y el Caribe]
   Organization: United Nations Environment Programme (UNEP)
@@ -209,7 +209,7 @@ items:
   SPP focus: [Environmental, Economic, Social]
   Pages: 5
 - title: Instructions for the Prioritisation Exercise (UNEP)
-  link: https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf
+  link: https://wedocs.unep.org/20.500.11822/35412
   Type of guidance: [Prioritizing Procurement Categories]
   Geographic area: [Europa, Asia, Africa, América del Norte, América Latina y el Caribe]
   Organization: United Nations Environment Programme (UNEP)
@@ -218,7 +218,7 @@ items:
   SPP focus: [Environmental, Economic, Social]
   Pages: 11
 - title: Terms of Reference for the Legal Review Expert (UNEP)
-  link: https://wedocs.unep.org/bitstream/handle/20.500.11822/35414/LRE.pdf
+  link: https://wedocs.unep.org/20.500.11822/35414
   Type of guidance: [Enabling Framework]
   Geographic area: [Europa, América Latina y el Caribe, Asia, Africa, América del Norte]
   Organization: United Nations Environment Programme (UNEP)

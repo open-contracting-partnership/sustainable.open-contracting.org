@@ -10,7 +10,7 @@ sidebar: true
 
 Il existe de nombreuses façons de définir des priorités en ce qui concerne la mise en place de marchés publics durables et ouverts. Par exemple, il peut s’agir de traiter les enjeux environnementaux de première importance, d’axer le travail sur les secteurs ou catégories dans lesquels des biens et services écologiques sont immédiatement disponibles, de programmes publics dans lesquels les acheteurs et la société civile comprennent pourquoi l’utilisation de produits écologiques est nécessaire, ou encore de projets ou d’événements de premier plan où les marchés publics durables peuvent être utilisés pour sensibiliser et susciter l’intérêt du public, comme des événements sportifs, des conférences et la modernisation de bâtiments gouvernementaux importants.
 
-Les pages 28 à 32 du [manuel de la Banque mondiale sur les marchés publics écologiques](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) fournissent un bon aperçu des différentes approches permettant de définir les catégories de livrables prioritaires. [L’outil de définition des achats prioritaires](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) conçu par le Programme des Nations Unies pour l’environnement (PNUE) peut aussi vous aider dans cette tâche.
+Les pages 28 à 32 du [manuel de la Banque mondiale sur les marchés publics écologiques](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) fournissent un bon aperçu des différentes approches permettant de définir les catégories de livrables prioritaires. [L’outil de définition des achats prioritaires](https://wedocs.unep.org/20.500.11822/35412) conçu par le Programme des Nations Unies pour l’environnement (PNUE) peut aussi vous aider dans cette tâche.
 
 {% callout green /assets/images/Pin_green.svg %}
 *Dans cette section, nous présentons les différents facteurs pouvant être pris en compte pour définir les catégories prioritaires en vue de la mise en place des marchés publics durables.*
@@ -139,7 +139,7 @@ Comme expliqué au début de cette section, une fois que vous avez décidé de c
 
 {% callout gray /assets/images/Notion-others.svg label: Ressources %}
 
-- [Programme des Nations Unies sur l’environnement, *Instructions for the Prioritisation Exercise*.](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+- [Programme des Nations Unies sur l’environnement, *Instructions for the Prioritisation Exercise*.](https://wedocs.unep.org/20.500.11822/35412)
 - [Groupe de la Banque mondiale, *Green Public Procurement: An Overview of Green Reforms in Country Procurement Systems*, 2021.](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y)
 {% endcallout %}
 

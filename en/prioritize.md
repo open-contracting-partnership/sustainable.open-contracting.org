@@ -10,7 +10,7 @@ sidebar: true
 
 There are many ways to prioritize how to start implementing Open SPP. This may include responding to high-profile environmental issues, market sectors or product groups where green goods and services are readily available, public sector programs where procurers and citizens can see a rationale for the use of green products, or high-profile projects or events where SPP can be piloted to raise awareness and interest, such as sporting events, conferences, and retrofits of prominent government buildings.
 
-Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) provide a good overview of different approaches to prioritizing product categories. The [prioritization tool](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf) developed by the United Nations Environmental Programme (UNEP) is a useful resource to carry out this exercise.
+Pages 28 to 32 of the [World Bank’s GPP Handbook](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y) provide a good overview of different approaches to prioritizing product categories. The [prioritization tool](https://wedocs.unep.org/20.500.11822/35412) developed by the United Nations Environmental Programme (UNEP) is a useful resource to carry out this exercise.
 
 {% callout green /assets/images/Pin_green.svg %}
 In this section we **present the different factors that can be considered when prioritizing procurement categories** when implementing SPP.
@@ -135,7 +135,7 @@ As it has been explained at the start of this section, once it has been decided 
 
 {% callout gray /assets/images/Notion-others.svg label: Resources %}
 
-- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/20.500.11822/35412).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 

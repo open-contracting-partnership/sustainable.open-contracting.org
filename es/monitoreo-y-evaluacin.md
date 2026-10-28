@@ -82,7 +82,7 @@ El desarrollo de metas, resultados e indicadores exige un entendimiento integral
 
 {% callout gray /assets/images/Notion-others2.svg label: Estudio de caso %}
 
-**En 2005 el Ministerio de Entorno de la** [República de Corea](https://wedocs.unep.org/bitstream/handle/20.500.11822/33377/CAGPP.pdf?sequence=1&isAllowed=y) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
+**En 2005 el Ministerio de Entorno de la** [República de Corea](https://wedocs.unep.org/20.500.11822/33377) **promulgó una "ley de promoción de la adquisición de productos verdes",** y a partir de ese momento ha creado unos "Planes de Acción quinquenales para la Promoción de la Adquisición de Productos Verdes".
 
 **Se crearon dos indicadores clave para hacer monitoreo: el número de entidades públicas que presentan un plan de CPS y un informe de logros; y la adquisición de productos verdes (específicamente las unidades y el gasto registrado para la compra de productos eco etiquetadas, y la proporción de ellas entre el gasto total.** La compra de productos verdes está ligada los certificados por la [eco etiqueta coreana](http://www.keiti.re.kr/site/eng/02/10220000000002020092205.jsp) y esta medida para hacer monitoreo de los avances logrados con referencia al objetivo de minimizar las emisiones de CO2.
 

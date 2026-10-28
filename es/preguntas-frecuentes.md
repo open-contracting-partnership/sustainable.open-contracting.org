@@ -14,7 +14,7 @@ En esta sección, incluimos **preguntas clave que pueden surgir al considerar la
 
 {% toggle ¿**Qué es la Contratación Pública Sostenible (CPS)?** %}
 
-El [PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/37045/SPPWSG.pdf) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
+El [PNUMA](https://wedocs.unep.org/20.500.11822/37045) define la contratación pública sostenible como “un proceso mediante el cual las organizaciones del sector público satisfacen sus necesidades de bienes, servicios, obras y servicios públicos de una manera que logra una buena relación calidad-precio durante toda la vida en términos de generar beneficios no solo para la organización, sino también a la sociedad y a la economía, minimizando y, si es posible, evitando, el daño al medio ambiente”.
 
 En otras palabras, CPS es la consideración de los tres pilares del desarrollo sostenible (económico, social y ambiental) al realizar compras públicas. Esto puede incluir, por ejemplo, diseñar el proceso de contraación para promover empresas locales (económico), garantizar que los proveedores controlen el cumplimiento de los derechos laborales en toda su cadena de suministro (social) o comprar productos fabricados con materiales reciclados (ambiental). Para obtener una descripción general de más factores que se pueden considerar dentro de cada uno de estos pilares, consulte [la sección sobre qué es la Contratación Pública Sostenible y Abierta](/qu-es).
 
@@ -48,7 +48,7 @@ Cuando comience a implementar CPS, priorizar categorías específicas de product
 - Factores que lo ayudarán a determinar el **impacto de sostenibilidad** de implementar CPS en una categoría específica (como las emisiones de CO2 atribuidas).
 - Factores que le ayudarán a evaluar la **facilidad de implementación** (como la disponibilidad de etiquetas ambientales).
 
-Para obtener más información sobre estos factores, consulte [la sección sobre la priorización de categorías de contratación](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
+Para obtener más información sobre estos factores, consulte [la sección sobre la priorización de categorías de contratación](/priorice). Para ver un ejemplo, consulte la [aplicación de Vietnam](https://www.oneplanetnetwork.org/sites/default/files/vietnam_prioritisation_report.pdf) del [ejercicio de priorización del PNUMA](https://wedocs.unep.org/20.500.11822/35412).
 
 Este estudio de caso demuestra cómo se puede utilizar una técnica de medición simple para evaluar las categorías de productos según su valor de contratación; la disponibilidad y costo de alternativas sostenibles; y su impacto ambiental, económico y social, para priorizar categorías de productos.
 

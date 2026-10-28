@@ -17,7 +17,7 @@ A lo largo del conjunto de herramientas hemos hecho referencia a diferentes herr
 
 ## Al priorizar categorías de contrataciones
 
-- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/20.500.11822/35412)
 
 ## Al configurar un sistema de seguimiento y evaluación
 

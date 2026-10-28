@@ -10,7 +10,7 @@ sidebar: true
 
 Hay muchas maneras de determinar prioridades de cómo empezar la implementación de CPS Abierta. Una de ellas podría ser incluir respuestas a cuestiones ambientales de alto perfil, sectores del mercado o grupos de productos donde los productos y servicios verdes están fácilmente disponibles, programas del sector público donde los contratantes y la ciudadanía pueden ver razones por favorecer el uso de productos verdes, o proyectos o eventos de alto perfil donde CPS se puede introducir en forma piloto con el fin de aumentar la conciencia e interés, tales como eventos deportivos, conferencias, y remodelaciones de edificios gubernamentales importantes.
 
-Las páginas 28 a 32 del [Manual CPS del Banco Mundial](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y): ofrece una buena visión general de los diferentes acercamientos a la determinación de prioridades de categorías de producto. [La herramienta de determinación de prioridades](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf): desarrollada por el Programa de Naciones Unidas para el Medio Ambiente es otro recurso útil en este ejercicio.
+Las páginas 28 a 32 del [Manual CPS del Banco Mundial](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y): ofrece una buena visión general de los diferentes acercamientos a la determinación de prioridades de categorías de producto. [La herramienta de determinación de prioridades](https://wedocs.unep.org/20.500.11822/35412): desarrollada por el Programa de Naciones Unidas para el Medio Ambiente es otro recurso útil en este ejercicio.
 
 {% callout green /assets/images/Pin_green.svg %}
 En esta sección presentamos los diferentes factores que puede tener en cuenta al determinar las prioridades de categorías de contratación en la implementación de CPS.
@@ -134,7 +134,7 @@ Tal como explicamos al principio de esta sección, una vez haya decidido enfocar
 
 {% callout gray /assets/images/Notion-others.svg label: Recursos %}
 
-- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf).
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/20.500.11822/35412).
 - [World Bank Group. 2021. Green Public Procurement: An overview of green reforms in country procurement systems](https://openknowledge.worldbank.org/bitstream/handle/10986/36508/Green-Public-Procurement-An-Overview-of-Green-Reforms-in-Country-Procurement-Systems.pdf?sequence=1&isAllowed=y).
 {% endcallout %}
 

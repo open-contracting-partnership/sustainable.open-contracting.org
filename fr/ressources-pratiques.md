@@ -22,7 +22,7 @@ sidebar: true
 
 ## Pour quand vous priorisez des catégories de marchés
 
-- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/bitstream/handle/20.500.11822/35412/IPE.pdf)
+- [United Nations Environmental Programme (UNEP)’s Instructions for the SPP Prioritisation](https://wedocs.unep.org/20.500.11822/35412)
 
 ## Pour quand vous créez un cadre de suivi et d’évaluation
 
