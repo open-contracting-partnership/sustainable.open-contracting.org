@@ -45,3 +45,7 @@ language_names:
   en: English
   es: Español
   fr: Français
+  pt: Português
+# Languages whose version is a PDF, for the language links.
+pdf_urls:
+  pt: https://www.open-contracting.org/openspp-por

@@ -24,7 +24,7 @@ hide_title: true
 
 - [Access the toolkit in English](https://sustainable.open-contracting.org/){: lang="en"}
 - [Accéder au guide en français](https://achatdurable.open-contracting.org/){: lang="fr"}
-- [Acesse este kit de ferramentas em português](http://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
+- [Acesse este kit de ferramentas em português](https://www.open-contracting.org/openspp-por){: lang="pt"} (PDF)
 {% endcallout %}
 
 ![La estructura del conjunto de herramientas: una introducción a la CPS abierta y a este conjunto de herramientas, y luego tres partes, cada una con sus páginas: 1. Plan, lo que puede hacer para establecer el mejor marco para la implementación; 2. Implementación, cómo puede implementar la CPS abierta durante el proceso de contratación; y 3. Datos abiertos y progreso de medición, cómo puede usar los datos abiertos para impulsar y medir el progreso hacia los objetivos de sostenibilidad](/assets/images/Structure_Diagram_esp.png){: .wide}
