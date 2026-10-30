@@ -1,6 +1,11 @@
 """
 Match each English page to its likely Spanish and French versions.
 
+    uv run scripts/translations.py PATH [PATH ...]
+
+It prints a line for _data/translations.yml for each English page's path (like /assess-needs), with a comment if a
+match is uncertain.
+
 Notion doesn't record which page translates which, so pages are matched by what translations share: their titles
 (for database items, whose titles aren't translated), icons, covers, images, external links, numbers, the blocks they
 use and their order, and the pages they link to (as matched by a first pass without them). Each page matches at most
@@ -9,6 +14,7 @@ one page, best scores first. Scores below CONFIDENT are uncertain, since similar
 
 import difflib
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -141,3 +147,19 @@ def matches():
             english = {other: path for path, (other, _) in matched.items()}
         result[lang] = matched
     return result
+
+
+def main():
+    result = matches()
+    for path in sys.argv[1:]:
+        versions = {lang: result[lang][path] for lang in result if path in result[lang]}
+        if not versions:
+            print(f"{path}: no match", file=sys.stderr)
+            continue
+        line = ", ".join([f"en: {path}", *(f"{lang}: {other}" for lang, (other, _) in versions.items())])
+        uncertain = ", ".join(f"{lang} {value}" for lang, (_, value) in versions.items() if value < CONFIDENT)
+        print(f"- {{{line}}}" + (f"  # uncertain: {uncertain}" if uncertain else ""))
+
+
+if __name__ == "__main__":
+    main()

@@ -186,7 +186,7 @@ The content is edited by hand:
 - Sidebars are `_includes/sidebar-<lang>.html`, whose links to pages are `{% page PATH html %}` tags.
 - Redirects are `<lang>/_redirects`, one `SOURCE TARGET 301` rule per line, after the front matter. A target is a path on the same site, or a URL.
 
-To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links, including links to IDs that their pages don't have. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. `scripts/translations.py` matches each page to its likely versions in the other languages, for a new line in `_data/translations.yml`.
+To fix a broken link, change the link in the linking page's Markdown, or (for a link from the same site) add a redirect. `uv run scripts/check_links.py` (after building the sites) lists broken links, including links to IDs that their pages don't have. To audit links against their text, `uv run scripts/list_links.py` lists the links between the sites' pages, with their context, and `uv run scripts/list_external_links.py --check` lists the links to other websites, with their parity across languages and their status. To add a page's versions in the other languages to `_data/translations.yml`, `uv run scripts/translations.py /path/to/english-page` prints its line, with a comment if a match is uncertain.
 
 ### Checks
 
