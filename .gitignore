@@ -8,5 +8,5 @@ vendor/
 .jekyll-cache/
 _site/
 
-# The crawl of the Super.so sites, from the import, and the link and screenshot scripts' output
-.crawl/
+# The link and screenshot scripts' output
+.output/

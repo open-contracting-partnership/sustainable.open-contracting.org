@@ -1,5 +1,5 @@
 """
-Write .crawl/external-links.csv, with each link to another website.
+Write .output/external-links.csv, with each link to another website.
 
 Each link has its context, whether the page's versions in the other languages link to it too, and optionally whether
 it loads.
@@ -24,7 +24,7 @@ from check_links import DOMAINS, SITE
 from list_links import Links
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / ".crawl" / "external-links.csv"
+OUT = ROOT / ".output" / "external-links.csv"
 HEADER = [
     "site",
     "page",

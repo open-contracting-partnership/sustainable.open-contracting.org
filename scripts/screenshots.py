@@ -4,7 +4,7 @@ Screenshot every built page, or compare two sets of screenshots.
     uv run --group screenshots scripts/screenshots.py take NAME [PATH ...]
     uv run --group screenshots scripts/screenshots.py compare NAME1 NAME2
 
-Screenshots are saved to .crawl/screenshots/NAME/<lang>/<path>.png. Build the sites first.
+Screenshots are saved to .output/screenshots/NAME/<lang>/<path>.png. Build the sites first.
 """
 
 import asyncio
@@ -18,7 +18,7 @@ from playwright.async_api import async_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "_site"
-SCREENSHOTS = ROOT / ".crawl" / "screenshots"
+SCREENSHOTS = ROOT / ".output" / "screenshots"
 LANGUAGES = ("en", "es", "fr")
 CONCURRENCY = 8
 # Differences in anti-aliasing (e.g. of box shadows) vary between runs.

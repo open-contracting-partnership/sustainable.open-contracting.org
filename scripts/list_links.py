@@ -1,5 +1,5 @@
 """
-Write .crawl/links.csv: each link between the sites' pages, with its text, its context and its target's text.
+Write .output/links.csv: each link between the sites' pages, with its text, its context and its target's text.
 
     uv run scripts/list_links.py
 
@@ -18,7 +18,7 @@ from pathlib import Path
 from check_links import DOMAINS, SITE
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / ".crawl" / "links.csv"
+OUT = ROOT / ".output" / "links.csv"
 BLOCKS = {"p", "li", "td", "th", "h1", "h2", "h3", "summary", "figcaption"}
 # Classes of elements whose text is a block's (callouts' and toggles' texts, and cards).
 BLOCK_CLASSES = re.compile(r"\bnotion-(?:callout__content|toggle__summary|collection-card|to-do__title|page)\b")
