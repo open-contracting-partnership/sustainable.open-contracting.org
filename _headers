@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://analytics.google.com https://*.google-analytics.com; object-src 'none'; worker-src 'self'; frame-ancestors 'none'
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+/assets/files/*
+  ! Content-Security-Policy
+  Content-Security-Policy: frame-ancestors 'self'
